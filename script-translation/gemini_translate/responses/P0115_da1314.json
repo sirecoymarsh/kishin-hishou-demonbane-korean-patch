@@ -1,0 +1,441 @@
+{
+  "schema": "khd-gemini-response-v1",
+  "packet_id": "P0115_da1314",
+  "model_id": "Gemini 3.8 Flash (High)",
+  "records": [
+    {
+      "id": "da1314:T00238",
+      "source_sha256": "9964faca8dbedf99eb4168613d94f3a8128f2cd177271ba40400c3f5ec3245dd",
+      "ko": "「크……"
+    },
+    {
+      "id": "da1314:T00239",
+      "source_sha256": "98d76a53bb2e1bec26ce8188ecd86e644ab6d2a88ada425a08a4b312e22629e6",
+      "ko": "아아아앗!」"
+    },
+    {
+      "id": "da1314:T00240",
+      "source_sha256": "e821e2643d4f4b380dc1f6dbf485ceb4da06320df865b3dd565e58eac5bc8d41",
+      "ko": "압도적인 마력, 질량마저 품을 정도의 정보량이 나와 녹아든다."
+    },
+    {
+      "id": "da1314:T00241",
+      "source_sha256": "d74886725b41dd0d728276d660520d27020a5ddfdf11c830366d90b6db348a08",
+      "ko": "술식이――"
+    },
+    {
+      "id": "da1314:R00066",
+      "source_sha256": "fe65050b6cf95368d85f30fd366c092a15824886d51defd754887d1e968f7491",
+      "ko": "・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1314:T00242",
+      "source_sha256": "58c4bffcd1e3c2b1aa1a7e982b861ca26678bd7c47cdab9c2dfee41f4197edbb",
+      "ko": "녀석"
+    },
+    {
+      "id": "da1314:T00243",
+      "source_sha256": "a9e040e0f1b9c5c51c5cddf3724edb0337db149761179c922d1c403942b6afec",
+      "ko": "의 『존재』가 가지를 뻗어, 내 신경에\n얽혀든다.\n\n　극심한 고통과 강렬한 일체감."
+    },
+    {
+      "id": "da1314:T00244",
+      "source_sha256": "78d85ca182f099718cdf45988c8c19a4a394c055b537d859587f1ca9c558f41c",
+      "ko": "「이런 이런……」"
+    },
+    {
+      "id": "da1314:T00245",
+      "source_sha256": "ee1bba63d46c67db968f5e0f1928f49f48076481cc9eebffec1e885e95ed2cd2",
+      "ko": "혼돈의 여인이 톱니바퀴 위로 날아내린다."
+    },
+    {
+      "id": "da1314:T00246",
+      "source_sha256": "786de0f6e846e7a291b38d14531400a534d126705157db2b8368cff5e12f0e2e",
+      "ko": "동시에 그 발밑에서 온갖 "
+    },
+    {
+      "id": "da1314:R00067",
+      "source_sha256": "5461d30a804ce645d1361f44d672265ede0fb36d3602d183a40c5f12c2418cf1",
+      "ko": "파츠가",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1314:T00247",
+      "source_sha256": "c8212ffab25e892cdf92a6097c13a297be6199d50cd2b8023b049027741f729f",
+      "ko": "부품이"
+    },
+    {
+      "id": "da1314:T00248",
+      "source_sha256": "69c5dac01247683197f23479c21ad76bde2f2af297ead95a5db08ba9a6eb5921",
+      "ko": " 맞물리고 짜 맞춰지며, 거대한"
+    },
+    {
+      "id": "da1314:R00068",
+      "source_sha256": "c487f6c74288ab019961e56aef522e3c87d5dc00cef31baca8f8cb4f04f304e1",
+      "ko": "마키나",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1314:T00249",
+      "source_sha256": "81c946eaa0779951bd08ebc4db804dc22b1d2b834bbe846f1991b279690e015a",
+      "ko": "기계"
+    },
+    {
+      "id": "da1314:T00250",
+      "source_sha256": "1d1240f5eccc5739222444cfc540cc6d3a6dca059f01191f9fdb54fc90f4a65d",
+      "ko": "를 만들어낸다."
+    },
+    {
+      "id": "da1314:T00251",
+      "source_sha256": "0f5339988c2a3ebbca1bdfe949ee15d3d1d500afc38af6c6d68d21fad35a82f1",
+      "ko": "「조금 성가시게 됐네에……!」"
+    },
+    {
+      "id": "da1314:T00252",
+      "source_sha256": "35235657c1491547d1ee7914b6f09acf3e238fe06eac57ef3f918b946a4595ef",
+      "ko": "시계판을 지닌, 거대한"
+    },
+    {
+      "id": "da1314:R00069",
+      "source_sha256": "9b3450a0755a0764f5d8bae5b111b5e3dabc77105c20843cff3cb328a9531e26",
+      "ko": "틱톡 악어",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1314:T00253",
+      "source_sha256": "032da8a1d42aa5a46c865acfe457c0028421a9fe60dca2e4750650352529c01b",
+      "ko": "기계장치 악어"
+    },
+    {
+      "id": "da1314:T00254",
+      "source_sha256": "f39c28ca8d554abefffb2636f111564235508390fffdca5bb1089684185eaa17",
+      "ko": "가 나를 집어삼키려 턱을 벌린다. 시곗바늘과 "
+    },
+    {
+      "id": "da1314:R00070",
+      "source_sha256": "5d5137243694add4bef1c7443cbdff69acd7adcdb88c88ea654130824a16d455",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1314:T00255",
+      "source_sha256": "ec1a950dd14354dfd9c35ba8940a011185ee0d170fcf9d8288bd5c511948383d",
+      "ko": "태엽"
+    },
+    {
+      "id": "da1314:T00256",
+      "source_sha256": "c20c51fa491a811750b17d7fb0217d83aec005c62c1cbe011f2273d7d0dd62a7",
+      "ko": "의 나사와 "
+    },
+    {
+      "id": "da1314:R00071",
+      "source_sha256": "c6e27198856114617c349ae02cc7a9e1412073a22a432b618551395237407c7c",
+      "ko": "후크",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1314:T00257",
+      "source_sha256": "f098d6ef3c041832427ddb59c7202fb00674a0e8de5c09a92db12e69e1bf998a",
+      "ko": "갈고리"
+    },
+    {
+      "id": "da1314:T00258",
+      "source_sha256": "bdd1a61650dc21eb92852336c37f2e6f3dac8b5845e3ef355b8dba03f4cb83df",
+      "ko": "로 이루어진 들쭉날쭉한 이빨이 눈앞 가득 다가온다.\n\n　하지만――!"
+    },
+    {
+      "id": "da1314:T00259",
+      "source_sha256": "5e696371811a8b8b23f1ad51499421321769220ff056b541b3869086e60b94f7",
+      "ko": "「……"
+    },
+    {
+      "id": "da1314:R00072",
+      "source_sha256": "73ac229cabfac277c315b4b0d1eb76959473af07f58c11d00bb82a06b250745a",
+      "ko": "데우스 마키나로는",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1314:T00260",
+      "source_sha256": "925b75dc37f73dda6de60050d7cc58c3b5d217bded467e5f5d94eb80a2d6178f",
+      "ko": "모조품으로는"
+    },
+    {
+      "id": "da1314:T00261",
+      "source_sha256": "dcc0140c3eb565c8527f9af699336dcae5c8c93f485c54b86e9a5f7d285aef9d",
+      "ko": "이길 수 없다 했겠다」"
+    },
+    {
+      "id": "da1314:T00262",
+      "source_sha256": "f688c3b3f4f782d11add6d3fa96e9485c728e7eb20befedf83a1cfe34caf5e00",
+      "ko": "강철 오른팔이,"
+    },
+    {
+      "id": "da1314:R00073",
+      "source_sha256": "9b3450a0755a0764f5d8bae5b111b5e3dabc77105c20843cff3cb328a9531e26",
+      "ko": "틱톡 악어",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1314:T00263",
+      "source_sha256": "b1298f9375284bd478c516fc1d145347667edb1adb152023cd7f3d9abf2de4b5",
+      "ko": "기계 악어"
+    },
+    {
+      "id": "da1314:T00264",
+      "source_sha256": "be0727772907b08402cc465290d5d52bc6f1abaf1631aa4489d4641b3be57f17",
+      "ko": "의 입속으로 비틀어 꽂혔다."
+    },
+    {
+      "id": "da1314:T00265",
+      "source_sha256": "4742b75d048e778013fc828660aaf03198473a7a5ecc3c560f19a10cca4b9d75",
+      "ko": "들쭉날쭉한 이빨이 거대한 주먹에 박살 나 무너져 내린다."
+    },
+    {
+      "id": "da1314:T00266",
+      "source_sha256": "e05a794052ea40a042912edb244faa8d20b2f60d2c4ef91ed98ffe2856bf5b99",
+      "ko": "「왜 그러느냐? 잘 씹어서 맛보거라」"
+    },
+    {
+      "id": "da1314:R00074",
+      "source_sha256": "9b3450a0755a0764f5d8bae5b111b5e3dabc77105c20843cff3cb328a9531e26",
+      "ko": "틱톡 악어",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1314:T00267",
+      "source_sha256": "b1298f9375284bd478c516fc1d145347667edb1adb152023cd7f3d9abf2de4b5",
+      "ko": "기계 악어"
+    },
+    {
+      "id": "da1314:T00268",
+      "source_sha256": "ac2bbdedbb33d868d00ecbeb02987dd706cae0cb98ff43fd8c353c04c500e5d3",
+      "ko": "의 곳곳에 금이 가고, 방전되며, 폭염을 뿜고,"
+    },
+    {
+      "id": "da1314:R00075",
+      "source_sha256": "5d5137243694add4bef1c7443cbdff69acd7adcdb88c88ea654130824a16d455",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1314:T00269",
+      "source_sha256": "ec1a950dd14354dfd9c35ba8940a011185ee0d170fcf9d8288bd5c511948383d",
+      "ko": "태엽"
+    },
+    {
+      "id": "da1314:T00270",
+      "source_sha256": "fbec06ff033c225ccddd5d7770eb244f3c9a91192be168f0bf05bed2e6e29090",
+      "ko": "과 톱니바퀴를 토해낸다. 경련하듯 미쳐 날뛰는"
+    },
+    {
+      "id": "da1314:R00076",
+      "source_sha256": "1bfa2ea2cfb2e46378769ed7965a3487b7463a5e2d12b4b85c66464a475b866d",
+      "ko": "틱톡틱톡",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1314:T00271",
+      "source_sha256": "faa76f36692489e6bd418e3e0a2777f6298ee33503e2d9d597b4b3595ff343de",
+      "ko": "기계의 박동"
+    },
+    {
+      "id": "da1314:T00272",
+      "source_sha256": "09b8b09aa5eea6ba6e1c2bd5405ee4ee2b03196151eedb64b4693672942a6b91",
+      "ko": ".\n\n　그"
+    },
+    {
+      "id": "da1314:R00077",
+      "source_sha256": "f28f3fd8e87282695ddcc85557e92b80edcd992db87a2f649c279c41b8c40dd3",
+      "ko": "틱톡",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1314:T00273",
+      "source_sha256": "e5f06547e0faa8cb89613b318cb68ce149c1dc09909988319baf03555290920b",
+      "ko": "폭주"
+    },
+    {
+      "id": "da1314:T00274",
+      "source_sha256": "072e6b13f3cfa4927959320723797d7b9aea1cee9183aaa1a4504b6dbfc40fb0",
+      "ko": "도 마침내 임계점에 달하여――"
+    },
+    {
+      "id": "da1314:T00275",
+      "source_sha256": "e5b1569c437228d50239cbb05da7c32224bc9146dd93a09b6ca15e385386a9e9",
+      "ko": "「――허나 혼돈이여. 네놈은 "
+    },
+    {
+      "id": "da1314:R00078",
+      "source_sha256": "237b212b3bd6f13dc2b5cbb059f7534d71aea3fd3473afd302bbe6e40275dad5",
+      "ko": "레플리카보다도",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1314:T00276",
+      "source_sha256": "925b75dc37f73dda6de60050d7cc58c3b5d217bded467e5f5d94eb80a2d6178f",
+      "ko": "모조품보다도"
+    },
+    {
+      "id": "da1314:T00277",
+      "source_sha256": "7254569df905e6a3db5711d1dceb21f3ae306c3cb6340257d7bff3f542f99765",
+      "ko": "조악한 "
+    },
+    {
+      "id": "da1314:R00079",
+      "source_sha256": "9d6780bf70fc8164478a1edfeb53f17755581b7e90bd1f536421fec5868d6a1c",
+      "ko": "정크",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1314:T00278",
+      "source_sha256": "ecac4ffac6b129a17fbea96d435afd3e1e29717644ae68a9d823cb70d31de64a",
+      "ko": "잡동사니"
+    },
+    {
+      "id": "da1314:T00279",
+      "source_sha256": "9f509543dad90581173f92142c5e2a1d6ccf3fe646024e33d856c8add6887e05",
+      "ko": "에 패하는 것이다」"
+    },
+    {
+      "id": "da1314:T00280",
+      "source_sha256": "ea5036b2227b14f70d13942deb76d52797945d5b200e2043b70937384e921172",
+      "ko": "폭염이 "
+    },
+    {
+      "id": "da1314:R00080",
+      "source_sha256": "fe65050b6cf95368d85f30fd366c092a15824886d51defd754887d1e968f7491",
+      "ko": "・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1314:T00281",
+      "source_sha256": "dd535acd99c5b03e174a390a8dcba6fefb967c818992696391ccd89972e64bf1",
+      "ko": "우리"
+    },
+    {
+      "id": "da1314:T00282",
+      "source_sha256": "0ff0661504cb17412c9ca32c09a2354a9693600843d7f5fa0c90badb131ee08e",
+      "ko": "의 모습을 비춘다."
+    },
+    {
+      "id": "da1314:T00283",
+      "source_sha256": "ed5e0ba0ec77936e6c2184adc45650fb2c5ea42fb5a503e2c3ac15de6e993112",
+      "ko": "검은 날개를 펼치는 흑의의 모습――"
+    },
+    {
+      "id": "da1314:R00081",
+      "source_sha256": "5962b52de32aecfebec50e25202014cad2c51a4285f82871626b0111751e003d",
+      "ko": "마기우스 스타일",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1314:T00284",
+      "source_sha256": "115c8719db52e427f76f6a32c59063be55f73953f407f85aa1b7fd56b372f0fb",
+      "ko": "술의 형태"
+    },
+    {
+      "id": "da1314:T00285",
+      "source_sha256": "045963d9538cb67e3466b7c3b6bfa3742fcf14d69488541a16f5fa1be96e916e",
+      "ko": "인 나와."
+    },
+    {
+      "id": "da1314:T00286",
+      "source_sha256": "aba1bf96ee347e2e68890e59adb511b483671a2f41a5d17dbd9048ecac192dc6",
+      "ko": "「잘도 저질러 주었구나, 사신……」"
+    },
+    {
+      "id": "da1314:T00287",
+      "source_sha256": "0dc9590c90ef8b80f6657b99e68a03f56ff2a5198eae6e55591bcb72f94c91a4",
+      "ko": "――술식의 나선을 두르고 현현한 소녀.\n\n　나의 파트너."
+    },
+    {
+      "id": "da1314:T00288",
+      "source_sha256": "8c4bcf8d780d2aa0273bb76062461d1b54d319086710e3b1983c6f48e87d9b67",
+      "ko": "나의 반려."
+    },
+    {
+      "id": "da1314:T00289",
+      "source_sha256": "898d923eb905fb015fe7863f224449830548dc67455598fee64aade57e442068",
+      "ko": "나의 반신――"
+    },
+    {
+      "id": "da1314:T00290",
+      "source_sha256": "03cec3dfbafe5c3ebbd112fd2a6d1bc2661789786820ca7c84305af8147435ed",
+      "ko": "「……알 아지프!」"
+    },
+    {
+      "id": "da1314:T00291",
+      "source_sha256": "fd4073c4ecb9690cbeee44e4784a03b5a18d12c7e1cc0d046b1cce3f0f1a36c0",
+      "ko": "그리고――"
+    },
+    {
+      "id": "da1314:T00292",
+      "source_sha256": "43e6fe8cfd8d8cef8f55b81ec65e065c250c3dd768e51ea8650feb7af64c1dfe",
+      "ko": "녀석의 "
+    },
+    {
+      "id": "da1314:R00082",
+      "source_sha256": "5f05975d0df8ccd957a6abc4e315e404e622bef2018a618ad484033c31ee6472",
+      "ko": "엔진",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1314:T00293",
+      "source_sha256": "e7e8bc2ee954c9b4304ad0993c612a5fb7b4794dd48511223bf90915288d0036",
+      "ko": "심장"
+    },
+    {
+      "id": "da1314:T00294",
+      "source_sha256": "4a532f57f1d9ef86ef9dfe28512c12447ac0cf9f735651474699c2ddf408aaa1",
+      "ko": "에 다시금 불이 켜진다."
+    },
+    {
+      "id": "da1314:T00295",
+      "source_sha256": "0d4a827bcf4ba542bed13d81f6c00f03ad35c342ff2081b2f836e4f28a43f3ed",
+      "ko": "마술회로를 내달리는 술식――참마의 의지."
+    },
+    {
+      "id": "da1314:T00296",
+      "source_sha256": "2240c5fba2866f092f756462aa5b55a07a72dd1797e81394e88383ec1f4785d0",
+      "ko": "기계의 두 눈에 깃드는 안광.\n\n　우리의 파트너."
+    },
+    {
+      "id": "da1314:T00297",
+      "source_sha256": "7c4dde73d2fd438d17dbb1de04b397ccaee3456a45a00378080b6ab4dda636c7",
+      "ko": "우리의 성검."
+    },
+    {
+      "id": "da1314:T00298",
+      "source_sha256": "5acc633c78622e1fcd575ea963b3823fda60d35a9072e3cfa356715803faf540",
+      "ko": "우리의 강철――"
+    },
+    {
+      "id": "da1314:T00299",
+      "source_sha256": "7aa3cb4de1f46b98dd10669ad41d4fd0a4d9bd58d88e606c3ccbdf35850c1c42",
+      "ko": "「가자! 데몬베인!」"
+    }
+  ],
+  "issues": [
+    {
+      "id": "da1314:R00067",
+      "kind": "ruby_particle_split",
+      "note": "루비(파츠가)와 본문(부품이)의 주격 조사 받침 불일치로 분리하여 뒤 칸에서 조사를 제거함."
+    },
+    {
+      "id": "da1314:R00070",
+      "kind": "ruby_redundant",
+      "note": "한자 '撥条'의 훈독 'ぜんまい'로 단순 발음 안내이므로 omit_redundant 처리함."
+    },
+    {
+      "id": "da1314:R00072",
+      "kind": "ruby_particle_split",
+      "note": "루비(데우스 마키나로는)와 본문(모조품으로는)의 조사 받침 불일치로 분리하여 뒤 칸에서 조사를 제거함."
+    },
+    {
+      "id": "da1314:R00075",
+      "kind": "ruby_redundant",
+      "note": "한자 '撥条'의 훈독 'ぜんまい'로 단순 발음 안내이므로 omit_redundant 처리함."
+    }
+  ]
+}

@@ -1,0 +1,1225 @@
+{
+  "schema": "khd-gemini-response-v1",
+  "packet_id": "P0118_da1317",
+  "model_id": "Gemini 3.8 Flash (High)",
+  "records": [
+    {
+      "id": "da1317:T00001",
+      "source_sha256": "5c9fdacf44701ae6fe785e7f62fc2d928553cf0410c03eb6a506b9bc796d2f1a",
+      "ko": "――데몬베인을, 믿는다고?"
+    },
+    {
+      "id": "da1317:T00002",
+      "source_sha256": "afae32add870c4a48ac853256621c5a641690bdb9c927bcb6298149225c24617",
+      "ko": "싸우는 데몬베인을 믿어라――"
+    },
+    {
+      "id": "da1317:T00003",
+      "source_sha256": "e3614686c9455e75f97da377c4f0ea3a131616900a73b6b8f5e014add15cb2a3",
+      "ko": "다이쥬지 쿠로와 알 아지프가 모는 데몬베인을 믿어라――"
+    },
+    {
+      "id": "da1317:T00004",
+      "source_sha256": "3414c893c978e31ea9c93447b0c50d1b0a8756fc19bac04f71792917302d98fa",
+      "ko": "아니다…… 틀려."
+    },
+    {
+      "id": "da1317:T00005",
+      "source_sha256": "b1cce22dee1907325c83f79b76aaa1978891a4b519a354a22238633ee1c06590",
+      "ko": "그게 아니야."
+    },
+    {
+      "id": "da1317:T00006",
+      "source_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+      "ko": "……"
+    },
+    {
+      "id": "da1317:R00001",
+      "source_sha256": "b750c2ece644240b0f8e138a0602b89062dcd4cb934044a963e76bf34670b76d",
+      "ko": "・・・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1317:T00007",
+      "source_sha256": "49b76686fb8233accb606470871c0d3c5b0faf17808c8bc5cd7a39e32a5a32e6",
+      "ko": "그것만이"
+    },
+    {
+      "id": "da1317:R00002",
+      "source_sha256": "905b0efb2d86b7b8a5e1a663618fe8fda3615a10bcebe5973ba115f428f9c0e2",
+      "ko": "・・・・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1317:T00008",
+      "source_sha256": "c46c2ee92c53ea283fbd9e8a0701ba9e0aa2e85c97c0a6b778e3e2f6ca3b8693",
+      "ko": " 아닌 것인가"
+    },
+    {
+      "id": "da1317:T00009",
+      "source_sha256": "d6a4e79b56c212bb6e83b3632ed432fc67c2aff81a7fc3d2f1c77cf669cea254",
+      "ko": "?"
+    },
+    {
+      "id": "da1317:T00010",
+      "source_sha256": "835a116f7a8f7d3556a2f3d84d7b35371e2e79308d8337e31cecb27d175e5870",
+      "ko": "「……거짓말이다」"
+    },
+    {
+      "id": "da1317:T00011",
+      "source_sha256": "06d510a25a23f551bd2a76944249dcdac75431bccc9a6bc708e551553d77e423",
+      "ko": "차가운 두려움이 등줄기를 타고 기어오른다."
+    },
+    {
+      "id": "da1317:T00012",
+      "source_sha256": "4e66f2a3ddc707d545da3c85119e53cae64a9a7d955024e0bacba2a94536c44d",
+      "ko": "그러나 그 차가움으로도, 이 몸 깊은 곳에서 솟구치는 열을\n멈출 수는 없었다."
+    },
+    {
+      "id": "da1317:T00013",
+      "source_sha256": "eddb9a6581235c35f97fe04848920f801c51dc1fc4565bcbbcf87e4a106245eb",
+      "ko": "「거짓, 말이다」"
+    },
+    {
+      "id": "da1317:T00014",
+      "source_sha256": "665e8306be29699559933b41ac7b381f0cad8d57f8152f2a93094533de13a452",
+      "ko": "아니다."
+    },
+    {
+      "id": "da1317:T00015",
+      "source_sha256": "665e8306be29699559933b41ac7b381f0cad8d57f8152f2a93094533de13a452",
+      "ko": "틀려."
+    },
+    {
+      "id": "da1317:T00016",
+      "source_sha256": "9d15e55da40488e4c4cd5b296d9fc865e1098969d5ab615c8727f4542058fb5f",
+      "ko": "틀림없다.\n\n　데몬베인은, 그곳에만 존재한다."
+    },
+    {
+      "id": "da1317:T00017",
+      "source_sha256": "23e10d927cc7d5367dc11707098bdf2a05d4e80d1c52027190fb3750920eadc1",
+      "ko": "저것은 다이쥬지 쿠로와 알 아지프의 기체다."
+    },
+    {
+      "id": "da1317:T00018",
+      "source_sha256": "87868c9b7ccc19a80922040b1c3a0b1668092f258fc3c619f20ada48efee92fa",
+      "ko": "나는 어차피, "
+    },
+    {
+      "id": "da1317:R00003",
+      "source_sha256": "3b0bc9525f0120065231e8f9c8804da221dfca67564caaea41e82ca2e326ff31",
+      "ko": "어나더",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1317:T00019",
+      "source_sha256": "40b634d74f37056fc1ba6e9d18cef044c3037f2a97cd798198d6960bfcb14289",
+      "ko": "위작"
+    },
+    {
+      "id": "da1317:T00020",
+      "source_sha256": "d05f806da1975674fb26ebc26b5286861d541a25379d2858295a27b7630490f6",
+      "ko": "에 지나지 않았던 거다……"
+    },
+    {
+      "id": "da1317:T00021",
+      "source_sha256": "d3b67453e339a8de06b9bf9ba6b1ae0a3fbaffeeafb47945c0416b210959fd75",
+      "ko": "「――읏!?\n　데몬베인!」"
+    },
+    {
+      "id": "da1317:T00022",
+      "source_sha256": "873a0a86b6db4aa2fc659f9d6fed968354a73f46b84368a46a639f8ef1b21d85",
+      "ko": "「――――!」"
+    },
+    {
+      "id": "da1317:T00023",
+      "source_sha256": "c3034f4a6724f0d9760b51cd151bc94b7e74e33047f3ff2b049ebebc3993b145",
+      "ko": "하지만, "
+    },
+    {
+      "id": "da1317:T00024",
+      "source_sha256": "763893d2eca5a29aa2b61be5b5b1f32465d1864555128cf07375c268b30a8ade",
+      "ko": "열이, "
+    },
+    {
+      "id": "da1317:T00025",
+      "source_sha256": "a9e787fcfcf9cb6f37a84065df8dec404deabd859762736500f06b06d5c43b18",
+      "ko": "「……데몬베인」"
+    },
+    {
+      "id": "da1317:T00026",
+      "source_sha256": "11b0f416608d16f32f16bc45535036b69bf24af0247ea503343557810aa51550",
+      "ko": "사라지지 않는, 열이　"
+    },
+    {
+      "id": "da1317:T00027",
+      "source_sha256": "83c3905ae4dff7e58d4cf58e8bd5cd026b4d4d687ce30b9f3c64cbae268028b6",
+      "ko": "지울 수 없는, 열이"
+    },
+    {
+      "id": "da1317:T00028",
+      "source_sha256": "914ae6cc6946a027fa6add10783584d4d4e61e00198e4787354cd6c53ca1361b",
+      "ko": "「데몬…… 베인……읏!」"
+    },
+    {
+      "id": "da1317:T00029",
+      "source_sha256": "3724f28b23d1cb9c8b3c3cf0d083ddfe7fb2ae6f004f2823085a05d66efbb83d",
+      "ko": "나를, "
+    },
+    {
+      "id": "da1317:T00030",
+      "source_sha256": "ec82877bf66379e6cc16ef2843f79495b022d5c73f5faaebf0b7fca8a8707439",
+      "ko": "나의 "
+    },
+    {
+      "id": "da1317:R00004",
+      "source_sha256": "edcd28fa7ea44051f0257ef67461b3825ba660795cc6071fba8ea223214baa1d",
+      "ko": "검",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1317:T00031",
+      "source_sha256": "b9ba74447cbaca624042d82c3ebf3f660837db4fac4a072e6a108fbb6413d8bb",
+      "ko": "영혼"
+    },
+    {
+      "id": "da1317:T00032",
+      "source_sha256": "963ec501f2ca56ba33d1cfe4ff6070bbfab371a961ffc324d532b23fd594783c",
+      "ko": "을――"
+    },
+    {
+      "id": "da1317:T00033",
+      "source_sha256": "26aa6d87c0ed961f406ffb5e7f60af61deb63d437411eb7560adaf7e0e69f95b",
+      "ko": "「아틀란티스……!」"
+    },
+    {
+      "id": "da1317:T00034",
+      "source_sha256": "671fc76dc0f92ff40fd2d4f16f810ef2cc71effd42f7b27a8f6f5ef6c5bf200d",
+      "ko": "「스트라아아아이크!」"
+    },
+    {
+      "id": "da1317:T00035",
+      "source_sha256": "24aeb79a78dced7a1bc0121250b6e68d88c949e2a4f60a244a2ef490dbf5e66d",
+      "ko": "「네놈으으으……!」"
+    },
+    {
+      "id": "da1317:T00036",
+      "source_sha256": "0d08bd46804db69f566cb85cec1b0e4e910bf39c5a350cf50e30a544676046bd",
+      "ko": "「역시…… 멈추었네?」"
+    },
+    {
+      "id": "da1317:T00037",
+      "source_sha256": "48d531d9a40c395a46c0b7eda8134cda4337108cc64417b62168f7fdb78dd00e",
+      "ko": "……데몬베인의 공격은, 클록워크 팬텀의 손바닥에 막혀 있었다.\n\n\n　다리 실드의 에너지가 완전히 사라졌기 때문이다."
+    },
+    {
+      "id": "da1317:T00038",
+      "source_sha256": "09dbfcd8887187a777b39108947564278f1abafa3bcf4c1c5fa4892beac227b7",
+      "ko": "왜냐하면, 데몬베인의 앞에는――"
+    },
+    {
+      "id": "da1317:T00039",
+      "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+      "ko": "「"
+    },
+    {
+      "id": "da1317:R00005",
+      "source_sha256": "38fa0247061d4961eb7495de08203fb728c68395b799d4f6a07f0d10b35eec92",
+      "ko": "뻔",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1317:T00040",
+      "source_sha256": "8f5f8186006f3dbc96c4204f1897eb39d098224318cef5b16e79f97cd07361db",
+      "ko": "진부"
+    },
+    {
+      "id": "da1317:T00041",
+      "source_sha256": "904bc186a06f3a79a20774312a3877f53098041d16be61e14a906e44b48775c2",
+      "ko": "한 수를…… 쓰다니!」"
+    },
+    {
+      "id": "da1317:T00042",
+      "source_sha256": "02c7ac42cb2a86990861f47dd3fbb81cfe974417dd9b37a362cf326294d9eaf9",
+      "ko": "「아하하하하하하하하!\n　무대를 달구려면, 이 정도로 "
+    },
+    {
+      "id": "da1317:R00006",
+      "source_sha256": "38fa0247061d4961eb7495de08203fb728c68395b799d4f6a07f0d10b35eec92",
+      "ko": "뻔",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1317:T00043",
+      "source_sha256": "8f5f8186006f3dbc96c4204f1897eb39d098224318cef5b16e79f97cd07361db",
+      "ko": "진부"
+    },
+    {
+      "id": "da1317:T00044",
+      "source_sha256": "5da901e258af84c01ba4261b083461aaf54f8c3b2a10a749a4d0f045ddd75e6e",
+      "ko": "한 편이 좋잖아!?」"
+    },
+    {
+      "id": "da1317:T00045",
+      "source_sha256": "3a8caea466db7793a69a291f6687355d60245f9aa337630d256cc53b9dbbcc8d",
+      "ko": "데몬베인의 주위로, 가느다란 빛줄기가 겹겹이 내달린다."
+    },
+    {
+      "id": "da1317:T00046",
+      "source_sha256": "8bb11c805f0904d2feab816c114d5ef0f93bc5d5657ff0b9cad23ee124d26fe9",
+      "ko": "무수한 "
+    },
+    {
+      "id": "da1317:R00007",
+      "source_sha256": "c9bcbe52fdbb15957ee0ef72970854daf3357a9d7e2f874781d23ead0cb89938",
+      "ko": "와이어가",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1317:T00047",
+      "source_sha256": "ae2a9e08aae2d5144d08bab89f7112d50fbde27f3d9771106df8620dd17051c4",
+      "ko": "강철선이"
+    },
+    {
+      "id": "da1317:T00048",
+      "source_sha256": "1fae1b76a3ec112353ed73ca5698f2c36b110ee80e606115e55b0c1137dcda67",
+      "ko": ", 데몬베인을 난도질한다."
+    },
+    {
+      "id": "da1317:T00049",
+      "source_sha256": "791e13fe8dafe86f6d4ab512f166a3e438cc50f9a3e4e3084f95f0a5eef767b8",
+      "ko": "「「으와아아아아아아아아!」」"
+    },
+    {
+      "id": "da1317:T00050",
+      "source_sha256": "873a0a86b6db4aa2fc659f9d6fed968354a73f46b84368a46a639f8ef1b21d85",
+      "ko": "「――――!」"
+    },
+    {
+      "id": "da1317:T00051",
+      "source_sha256": "eff4e1f7968b5b60fe4507eb4273d426de6b65a3ce07ea51730510d29faf498b",
+      "ko": "「……아」"
+    },
+    {
+      "id": "da1317:T00052",
+      "source_sha256": "ecdf5bd8a3f55817f614cdf25fd1b04de426fd64fbe24d7196d45f576193fc06",
+      "ko": "「아아아……\n　아아아아아아……!」"
+    },
+    {
+      "id": "da1317:T00053",
+      "source_sha256": "b1d3609cf8b12e9fbbfd33978894aa9860566c4c82b8bf07c2c1685e026ddcb7",
+      "ko": "나는…… 대체 뭘 하고 있는 거냐?\n\n　이렇게 꼴사나운 꼴을 보이는 것 자체가 구제할 수 없을 만큼 용서받지 못할 짓이거늘,\n그걸로도 모자라, 여전히 발목을 잡고 세상을 파멸로 몰아넣는가!?\n\n　꼴사납다!"
+    },
+    {
+      "id": "da1317:T00054",
+      "source_sha256": "274934965c916b39ac9c8a09554a55984731719ebfea3f140bfa0870cca065ae",
+      "ko": "꼴사납다!"
+    },
+    {
+      "id": "da1317:T00055",
+      "source_sha256": "7c81ebb4b3722bff43bff51c31dca2909a144cfcd2f9b007a6f255cfaf444e49",
+      "ko": " 꼴사납다앗!"
+    },
+    {
+      "id": "da1317:T00056",
+      "source_sha256": "d0a5115da75302922d2d5dfe204ea24c0e393d41ea1bf816d20278adf1adca9c",
+      "ko": "꼴사나움의 극치다아아아앗!"
+    },
+    {
+      "id": "da1317:T00057",
+      "source_sha256": "44d3f3c38a6b8efa602357086d9cb9a8a7e36e7d18422ecc304559de13bc13df",
+      "ko": "「아아아아아아아아아\n　아아아아아아아아아아아!」"
+    },
+    {
+      "id": "da1317:T00058",
+      "source_sha256": "1ce7632ca6ad527e78342af8e904534aa6c3a55050bb8ffaad9abe588c540230",
+      "ko": "수치심을 참지 못하고, 자신의 얼굴에 주먹을 내리꽂는다."
+    },
+    {
+      "id": "da1317:T00059",
+      "source_sha256": "3b739f420ef9512f5a3cb5999ea2c95fe27c1774ba27b9e69d3bb34ca7becc94",
+      "ko": "이마가 찢어져 피가 흐른다. 녹이 뿜어져 나온다."
+    },
+    {
+      "id": "da1317:T00060",
+      "source_sha256": "16a25047be6a29fecadeeee3d840e3e237d860e134fd2b0647bfd6102ce38c0e",
+      "ko": "한층 짙어진 쇠녹내가 코를 찌른다."
+    },
+    {
+      "id": "da1317:T00061",
+      "source_sha256": "d433692224107792e7458f083d44adf60ecea0ca901fa0ab9e167042df6da179",
+      "ko": "하지만…… 뜨겁다."
+    },
+    {
+      "id": "da1317:T00062",
+      "source_sha256": "f7d6f9d6f239bc21a1597d07aa035887912358dba9def10bb85d9cefa5c3cb34",
+      "ko": "내 피는, 이토록 뜨겁다."
+    },
+    {
+      "id": "da1317:T00063",
+      "source_sha256": "2518cac336247879936d5f05fecbf4fb20ee16dae972b81c4d0fdf46b6f29215",
+      "ko": "그것은 분명 이 몸에 흐르는, 나의 존재."
+    },
+    {
+      "id": "da1317:T00064",
+      "source_sha256": "ec82877bf66379e6cc16ef2843f79495b022d5c73f5faaebf0b7fca8a8707439",
+      "ko": "나의 "
+    },
+    {
+      "id": "da1317:R00008",
+      "source_sha256": "24d7ad880d9dd274550d7dc2480caa180cce47c07ed273889cc65934ddc93c74",
+      "ko": "힘",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1317:T00065",
+      "source_sha256": "522148a1fdcc951dab73d60402911ecae0316c63ca4da1659694d251661570bc",
+      "ko": "마력"
+    },
+    {
+      "id": "da1317:T00066",
+      "source_sha256": "0bc6a2ca3971cdf01afd8c43360fe3e7f344ffc49d440c8521abf74e2c367a52",
+      "ko": "의 증명."
+    },
+    {
+      "id": "da1317:T00067",
+      "source_sha256": "89de0361843eb595f642e29287f36df630cd82181b7acc54cab2da342d3ebcf1",
+      "ko": "나의 마술의 원천."
+    },
+    {
+      "id": "da1317:T00068",
+      "source_sha256": "9562b44afa42a9d1ebe8a52e50282820ccb9035edb1adfc88256c5397f44cac9",
+      "ko": "――사라지지 않는 열은 지금, 분노의 "
+    },
+    {
+      "id": "da1317:R00009",
+      "source_sha256": "b79bcef5d76e37a5e8e170d1512beca306c051a02ddd4450a732ea1a6ba87c41",
+      "ko": "벡터",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1317:T00069",
+      "source_sha256": "497da8a40b63248877795b608460ea8b429cbb806628acdc355ed560db9990f5",
+      "ko": "의지"
+    },
+    {
+      "id": "da1317:T00070",
+      "source_sha256": "4b8fdecc592e5cef14b60857e1c561ab1d22a83e0b466268a4caf49a86ace369",
+      "ko": "를 얻었다."
+    },
+    {
+      "id": "da1317:T00071",
+      "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+      "ko": "「"
+    },
+    {
+      "id": "da1317:R00010",
+      "source_sha256": "a8d7864bbce25774a4af0f8ca3611c0d1d05801fb19e14477015a201a8505841",
+      "ko": "게임 키퍼",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1317:T00072",
+      "source_sha256": "2e9bec43a1fef7818117fe737e2575c821e5d4d18a9a01c91afceb7fed3c0c86",
+      "ko": "농락자"
+    },
+    {
+      "id": "da1317:T00073",
+      "source_sha256": "4f96483488fec57e73fa54b23113159b27dd81e582c71870ec75a171cebed9b7",
+      "ko": "여어어어어어――――엇!」"
+    },
+    {
+      "id": "da1317:T00074",
+      "source_sha256": "faf948477778addd3e0b8ff50302121c920c603624a86a5d3f9b9c27956302df",
+      "ko": "포효한다."
+    },
+    {
+      "id": "da1317:T00075",
+      "source_sha256": "b2ee8ebaa60deb3d4f5aac5f86ac1bca45591ecbbe537cead61f16e8e34c07ae",
+      "ko": "나의 원적을 향한 분노를 담아서."
+    },
+    {
+      "id": "da1317:T00076",
+      "source_sha256": "c5200a9a256cba552a8951fdd1565ef29d668fb96760f738f3f048b87cc93da3",
+      "ko": "드높게.\n\n　하지만, 거기에 무슨 의미가 있겠는가?"
+    },
+    {
+      "id": "da1317:T00077",
+      "source_sha256": "c78131be05918454988e9a4edb1c1fa97f81541f38ccbed855f56b2f9a62bf40",
+      "ko": "어차피, 이 몸은 모조품."
+    },
+    {
+      "id": "da1317:T00078",
+      "source_sha256": "a9b100c08550214bbb08a6326f91048ae982a804543b5bbeb13f219ee64e3e3f",
+      "ko": "농락자의 손바닥 위에서 놀아났을 뿐인, 얼간이 같은 "
+    },
+    {
+      "id": "da1317:R00011",
+      "source_sha256": "748a08a50eb367ad86f513eebc650c30597ddc5c36b9442d2171f5f49d262f56",
+      "ko": "돈키호테",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1317:T00079",
+      "source_sha256": "1a25fc37eadef3c28a543b86c3e48ba641364519442486fd787d401046d9d3be",
+      "ko": "광대"
+    },
+    {
+      "id": "da1317:T00080",
+      "source_sha256": "f1c258c9fbddcc7fd200bf9d49d5f5a42385f9c5953791726a2176a39c49a2d3",
+      "ko": ".\n\n　하지만."
+    },
+    {
+      "id": "da1317:T00081",
+      "source_sha256": "02e7b010a4d2f3569fcb18d351305740aaba887a8cbda2b0aa68a2ef194ce35f",
+      "ko": "그럼에도――"
+    },
+    {
+      "id": "da1317:T00082",
+      "source_sha256": "abe7302561106cd0d2aafbfd4c867eb17e9c32e816fd215abb3b90e0486c1a97",
+      "ko": "「모든 것은 나의 불찰이다……\n　나의 모든 존재를 걸고,\n　네놈만큼은 반드시 "
+    },
+    {
+      "id": "da1317:R00012",
+      "source_sha256": "4dae1fea52814eb01c1f6f5e611386bf5216d66ee363d7ec5b45ff3c60f0ceb9",
+      "ko": "쓰러뜨리",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1317:T00083",
+      "source_sha256": "e576049bcdb98de738f142c446fc515b0c9df3d3eb8a39b9e9111ad0b06b8306",
+      "ko": "죽이"
+    },
+    {
+      "id": "da1317:T00084",
+      "source_sha256": "3b9e618fbad8a9766120793a873e5cfc69b135dc3012367b62e2fc6f101c9256",
+      "ko": "겠다!」"
+    },
+    {
+      "id": "da1317:T00085",
+      "source_sha256": "c613e976789916f212c1f8dec1e13a1f5a0fa91514c09a7e04a0301391df52c9",
+      "ko": "「헤에…… 이제 끝인가 했더니,\n　아직 쌩쌩하잖아」"
+    },
+    {
+      "id": "da1317:T00086",
+      "source_sha256": "c5f855894fe22cd9cc0af51be360b59f8523df9490170dbb3b4608d47a54ccea",
+      "ko": "여자의 기쁜 듯한 목소리가, 요염한 조소가 울려 퍼진다."
+    },
+    {
+      "id": "da1317:T00087",
+      "source_sha256": "c5ca533258e35d53f772e972b4f285936173deaf849676a6132ede320b443972",
+      "ko": "「하지만…… "
+    },
+    {
+      "id": "da1317:R00013",
+      "source_sha256": "905b0efb2d86b7b8a5e1a663618fe8fda3615a10bcebe5973ba115f428f9c0e2",
+      "ko": "・・・・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1317:T00088",
+      "source_sha256": "d5f6d866ef1462a1401048200203f27c6ce59d9ff288915135c5c0e795ce9aa9",
+      "ko": "대체 어떻게"
+    },
+    {
+      "id": "da1317:T00089",
+      "source_sha256": "062a345406a788f4f1ba0555be713fcc7477ace21a879f5ad79be71013968c4f",
+      "ko": "?」"
+    },
+    {
+      "id": "da1317:T00090",
+      "source_sha256": "f63e338a9fae446f20ae3d105f2318d7c4d921eff8749a1d9931f4bd94dd5f65",
+      "ko": "「…………」"
+    },
+    {
+      "id": "da1317:T00091",
+      "source_sha256": "80ad31e93847b3d723946f65474cd3c02fdbc5019a571f2ab9fc9a9c7fcc285b",
+      "ko": "「네가 있는 곳은 내 "
+    },
+    {
+      "id": "da1317:R00014",
+      "source_sha256": "f928a1d8b5112862013422df7230496f194f20b6680c812512a9d4e8a2b7aa4e",
+      "ko": "속이야",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1317:T00092",
+      "source_sha256": "5b95cb1c2764100a07868a754eeeb498259b6107844e4da2d708846fe4f8d66a",
+      "ko": "태내야"
+    },
+    {
+      "id": "da1317:T00093",
+      "source_sha256": "dc80c8a70aab7f2b92641de1bc2ef1558ae8f2c685872bacd2a26ed1f0e7568f",
+      "ko": ".\n　너는 나를 만드는 "
+    },
+    {
+      "id": "da1317:R00015",
+      "source_sha256": "5461d30a804ce645d1361f44d672265ede0fb36d3602d183a40c5f12c2418cf1",
+      "ko": "파츠",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1317:T00094",
+      "source_sha256": "c8212ffab25e892cdf92a6097c13a297be6199d50cd2b8023b049027741f729f",
+      "ko": "부품"
+    },
+    {
+      "id": "da1317:T00095",
+      "source_sha256": "788d946500840105829ed12bf67001eceee3b2b4729165f78f9dd53bcacd7595",
+      "ko": "의 하나라고」"
+    },
+    {
+      "id": "da1317:T00096",
+      "source_sha256": "987363e2ef5b15ee48fd296fbb812d5507c6c1cbdda6e33539c7374ebf6c8852",
+      "ko": "「단 하나의 "
+    },
+    {
+      "id": "da1317:R00016",
+      "source_sha256": "5461d30a804ce645d1361f44d672265ede0fb36d3602d183a40c5f12c2418cf1",
+      "ko": "파츠가",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1317:T00097",
+      "source_sha256": "c8212ffab25e892cdf92a6097c13a297be6199d50cd2b8023b049027741f729f",
+      "ko": "부품이"
+    },
+    {
+      "id": "da1317:T00098",
+      "source_sha256": "366a4c7cb3253c09ce79ddcbc6665abcaad51cd776dcbed6c677defb09c98686",
+      "ko": " 어긋나는 것만으로,"
+    },
+    {
+      "id": "da1317:R00017",
+      "source_sha256": "6784fa7baf1593e18cf6d38f674316320eea45c0ae886117ecafee026aec9370",
+      "ko": "머신은",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1317:T00099",
+      "source_sha256": "81c946eaa0779951bd08ebc4db804dc22b1d2b834bbe846f1991b279690e015a",
+      "ko": "기계는"
+    },
+    {
+      "id": "da1317:T00100",
+      "source_sha256": "fdab26aa809b7dfdd4031d40b043c0d7eb3f6b8d6c6ae81b67f36a7b506edaa5",
+      "ko": " 망가진다」"
+    },
+    {
+      "id": "da1317:T00101",
+      "source_sha256": "65ce25bc95b970fb75166c0541ff6dd69c73afe73a7a18a5c7fe074ed41ae156",
+      "ko": "「어긋나는 것조차 네겐 무리야."
+    },
+    {
+      "id": "da1317:R00018",
+      "source_sha256": "55fe7c6034beb2aaaccb0eea9947dd27a7343597d62ef51445430c40bad38a25",
+      "ko": "가짜",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1317:T00102",
+      "source_sha256": "40b634d74f37056fc1ba6e9d18cef044c3037f2a97cd798198d6960bfcb14289",
+      "ko": "위작"
+    },
+    {
+      "id": "da1317:T00103",
+      "source_sha256": "d386cc7811b3f82754454cd1da3e457dcd51778c329f9798b6b873cfc611f25c",
+      "ko": "인 네 "
+    },
+    {
+      "id": "da1317:R00019",
+      "source_sha256": "afafbae591c156ee7f019d48ea7a74beb639f38112cda9fa29c06bd5dd77f5c8",
+      "ko": "손",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1317:T00104",
+      "source_sha256": "7cbc0a4ceb4c56112e8a3f61cb26b1919832168cd10a1864056fecb44e3b33b0",
+      "ko": "손바닥"
+    },
+    {
+      "id": "da1317:T00105",
+      "source_sha256": "5a9f8f5071f590a4c3f9b49489e45d54a33567475b85b7ac41103a5c0f687353",
+      "ko": "에는 검이 없어.\n　혼돈의 조율에 저항할 방도조차 없지」"
+    },
+    {
+      "id": "da1317:T00106",
+      "source_sha256": "f462785483b2a3a31bc9fa5de612c2014c92d0b19050db053c719ec753da28f4",
+      "ko": "위작."
+    },
+    {
+      "id": "da1317:T00107",
+      "source_sha256": "f0a604cd220e51efe0681981018d6d3e4ad1f2a5913f9204b9ad2335a715fea5",
+      "ko": "어차피, 이 몸은 모조품.\n\n　――그렇다."
+    },
+    {
+      "id": "da1317:T00108",
+      "source_sha256": "922b74639ad85b430859541d82d68da22f833ab8581b700321f614f3dd59cab1",
+      "ko": "네 말대로다."
+    },
+    {
+      "id": "da1317:T00109",
+      "source_sha256": "a9f3a88643bb613309f7e1ff34ad40c8c381a8e8f1e54e72140626431b1cdd34",
+      "ko": "네놈 말대로다, 농락자여.\n\n　하지만!"
+    },
+    {
+      "id": "da1317:T00110",
+      "source_sha256": "53f2bbe9110efe40a4f3a4837d599d57ec773002e4fef0960add682ee2960057",
+      "ko": "그럼에도!"
+    },
+    {
+      "id": "da1317:T00111",
+      "source_sha256": "5e696371811a8b8b23f1ad51499421321769220ff056b541b3869086e60b94f7",
+      "ko": "「……"
+    },
+    {
+      "id": "da1317:T00112",
+      "source_sha256": "4e5b64321ebfeaeaca4f7e542bec2015d696bd63ac4a9af4a2f40bf49af82f00",
+      "ko": "움직여라」"
+    },
+    {
+      "id": "da1317:T00113",
+      "source_sha256": "250a62b68f02b91af34df6545a8ef5ee7b1c31adb1156067985e21fc359d6448",
+      "ko": "「움직여어어어어!"
+    },
+    {
+      "id": "da1317:R00020",
+      "source_sha256": "ad00a0b322492061745b24d0a27cfeb54340097e166853622a9781f99bd15efb",
+      "ko": "・・・・・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1317:T00114",
+      "source_sha256": "faad4663917e9f697861dd8f8351f4b75876f086445f4735d2e147048b1329b2",
+      "ko": "데몬베인"
+    },
+    {
+      "id": "da1317:T00115",
+      "source_sha256": "7b0800573f2255ba8a4b628f5a6cf140f6cb2b9499ac0da1ea45a1f8ef6a606f",
+      "ko": "!!」"
+    },
+    {
+      "id": "da1317:T00116",
+      "source_sha256": "6bb3581165d49098f9554c6e330ec0dba1d299d34d9a13ed4dd97d11e088abcc",
+      "ko": "「――――읏!」"
+    },
+    {
+      "id": "da1317:T00117",
+      "source_sha256": "4201fdd5e5fb5ab253968f42f009196ab143129427855257ecd0dde027a03753",
+      "ko": "――거짓투성이인 내 몸뚱이에조차, 진실은 깃들어 있다.\n\n　데몬베인과 함께 싸워온 날들은 "
+    },
+    {
+      "id": "da1317:R00021",
+      "source_sha256": "b67d4811fdeac585e17e65e9d2144f30b68772c5dbb7fda0b4bb5b3d81f2b4fd",
+      "ko": "진짜다",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1317:T00118",
+      "source_sha256": "69cf83da7fa31f46474c4b8cdc8340249ded1e797d99c0b9c5d6b48a47248566",
+      "ko": "진실이다"
+    },
+    {
+      "id": "da1317:T00119",
+      "source_sha256": "b0f10aa27b9a55a4e97e0ad2a6677194259f335c4a0e74807c3c267fd9a7bedb",
+      "ko": "!"
+    },
+    {
+      "id": "da1317:T00120",
+      "source_sha256": "e13ad4e8c3bcd44391a4130bbf63f21691f5846e23b8db94b98384fe513ca2a0",
+      "ko": "내가 사랑한 사람들은, 나를 사랑해 준 사람들은 "
+    },
+    {
+      "id": "da1317:R00022",
+      "source_sha256": "ea727f1b4cc633ed812738bac7d75bb8822e431828ed6a995d2c7efa3b1b0ac9",
+      "ko": "정말",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1317:T00121",
+      "source_sha256": "69cf83da7fa31f46474c4b8cdc8340249ded1e797d99c0b9c5d6b48a47248566",
+      "ko": "진실"
+    },
+    {
+      "id": "da1317:T00122",
+      "source_sha256": "a0315ebc4511b6515edccb17f0be78652e60b9e2f05849c892c755ed027d3239",
+      "ko": "로 선량한 사람들이었다!\n\n　그것만큼은!"
+    },
+    {
+      "id": "da1317:T00123",
+      "source_sha256": "8d247b6cfa5debb92a4513a7ed53b1d9924c7e2ab6b5f38c42a790d38feb2902",
+      "ko": "그것만큼은 결코 부정하게 두지 않겠다, 농락자여!\n\n　그 진실만큼은 무슨 일이 있어도 끝까지 지켜내겠다!"
+    },
+    {
+      "id": "da1317:T00124",
+      "source_sha256": "e8eb3b9e8cf0db2d2c49ceb3376cb8e6e26a7a3f59b54769ac9d15381bfa49d0",
+      "ko": "결코 결코 "
+    },
+    {
+      "id": "da1317:R00023",
+      "source_sha256": "55fe7c6034beb2aaaccb0eea9947dd27a7343597d62ef51445430c40bad38a25",
+      "ko": "가짜",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1317:T00125",
+      "source_sha256": "40b634d74f37056fc1ba6e9d18cef044c3037f2a97cd798198d6960bfcb14289",
+      "ko": "위작"
+    },
+    {
+      "id": "da1317:T00126",
+      "source_sha256": "fbbd2ec20012387494cbc4ab606fccd56642c84b4c0bf2d0b6e9988833ee3404",
+      "ko": " 따위로 만들게 두진 않겠다!\n\n　――그러니, 검이여."
+    },
+    {
+      "id": "da1317:T00127",
+      "source_sha256": "ec82877bf66379e6cc16ef2843f79495b022d5c73f5faaebf0b7fca8a8707439",
+      "ko": "나의 "
+    },
+    {
+      "id": "da1317:R00024",
+      "source_sha256": "edcd28fa7ea44051f0257ef67461b3825ba660795cc6071fba8ea223214baa1d",
+      "ko": "검",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1317:T00128",
+      "source_sha256": "b9ba74447cbaca624042d82c3ebf3f660837db4fac4a072e6a108fbb6413d8bb",
+      "ko": "영혼"
+    },
+    {
+      "id": "da1317:T00129",
+      "source_sha256": "4db1916b7c21b0144451de3603b3f6dab1946fd48f1d2a3997fafb64c4377418",
+      "ko": "이여."
+    },
+    {
+      "id": "da1317:T00130",
+      "source_sha256": "e264260e47b8a557d43351b1010bc820bbb4731a77eb6feeb652091d91cf06eb",
+      "ko": "지금만큼은 되살아나라.\n\n　여기서 불타 재가 되어도 상관없다."
+    },
+    {
+      "id": "da1317:T00131",
+      "source_sha256": "c9bd754f4843c59ad569f1f5702ed8c91d03dd439e7c469d81e5d4e7ccd11269",
+      "ko": "이 몸은 위작일지언정……"
+    },
+    {
+      "id": "da1317:T00132",
+      "source_sha256": "d40f1b7ad93f289d5c8fbc1092e59017b96c09699f148d57b24f742469369e75",
+      "ko": "내 뒤를 이을 누군가가 반드시 진짜일 테니!"
+    },
+    {
+      "id": "da1317:T00133",
+      "source_sha256": "beafdd945b1dff3b4ec5522387a0c9c4d0df27fd748bcb15ba383fcdd6f0c301",
+      "ko": "「――데몬베인을 믿어라」"
+    },
+    {
+      "id": "da1317:T00134",
+      "source_sha256": "bd5e456e351a2da90a795dc27133d180728a27a41b5f2ce08b3f84f1ffffefaa",
+      "ko": "――지울 수 없는 열이, 나의 "
+    },
+    {
+      "id": "da1317:R00025",
+      "source_sha256": "edcd28fa7ea44051f0257ef67461b3825ba660795cc6071fba8ea223214baa1d",
+      "ko": "검",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1317:T00135",
+      "source_sha256": "b9ba74447cbaca624042d82c3ebf3f660837db4fac4a072e6a108fbb6413d8bb",
+      "ko": "영혼"
+    },
+    {
+      "id": "da1317:T00136",
+      "source_sha256": "98aa8c57ac91533629ca9c0b28c906719174eaec2efc8675255e93d62bbe217f",
+      "ko": "을 "
+    },
+    {
+      "id": "da1317:R00026",
+      "source_sha256": "0715de8db496bdab8cc55a35c65ed5ab0e6ae7d9efb39c1036b925061f58b884",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1317:T00137",
+      "source_sha256": "db2ced065f9cbabf0dbd36e1e2c647a1a9eb75129158445c98ca2628726e50de",
+      "ko": "새로이 벼"
+    },
+    {
+      "id": "da1317:T00138",
+      "source_sha256": "fb8615bc85e6da2fde86c547de9b56a1b542bdcc8108f1f149672de6e8bb530f",
+      "ko": "려낸다."
+    },
+    {
+      "id": "da1317:T00139",
+      "source_sha256": "2649d0445f1e476a18254d9554a8f50dbedf4676beb6805a43fd7a788cc91489",
+      "ko": "「우오오오오오오오오오오!」"
+    },
+    {
+      "id": "da1317:T00140",
+      "source_sha256": "4ead16dc20c181cad0aeabd02eabcf430ac65f9cdad109c948b022e098d481d2",
+      "ko": "피가 끓어올라, 전신에서 뿜어져 나온다."
+    },
+    {
+      "id": "da1317:T00141",
+      "source_sha256": "6b451384cae1b4b96aecc609d87921d7284ba9d2dd3b536af3a3c75b14186352",
+      "ko": "뿜어져 나오는 피가 나선을 그린다."
+    },
+    {
+      "id": "da1317:T00142",
+      "source_sha256": "ab4e3ef0c01e39b37315d908550aa30ec7735c9f6be24151b0fc6f3771672de0",
+      "ko": "「피야말로 나의 존재……」"
+    },
+    {
+      "id": "da1317:T00143",
+      "source_sha256": "a45dab817bcb7c4aed88c2a2e4c0ac1ef3fe32e92ddff9222c6d9732fbd83ab5",
+      "ko": "돌고 도는 이중나선의 혈풍."
+    },
+    {
+      "id": "da1317:T00144",
+      "source_sha256": "6fe806be016d40869c25a233cf4d45ca8182266f3ada59515b87d5a041c144e9",
+      "ko": "이윽고 내 몸뚱이도 "
+    },
+    {
+      "id": "da1317:R00027",
+      "source_sha256": "5e50b96c27b2f416824dd21237894b52728e9f8acf21f77ae97378faaafaa899",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1317:T00145",
+      "source_sha256": "09152a2380b09e688a514e86056805ca633afd8381453280be7f536c7140c91a",
+      "ko": "풀"
+    },
+    {
+      "id": "da1317:T00146",
+      "source_sha256": "69549dc59541064d0d39b54fd93c1f3a2d6507f7c82d4ac502342e4853ba903a",
+      "ko": "려져, 나선과 결합한다."
+    },
+    {
+      "id": "da1317:T00147",
+      "source_sha256": "6ec9abc2c16207af50dc89e38f94416c06a53211180a2f5b823eaf5c42a84a6e",
+      "ko": "나선＋나선＝이중나선.\n\n　모습이 풀려나고, "
+    },
+    {
+      "id": "da1317:R00028",
+      "source_sha256": "6e28cc407a3f70af7741cc6893cdf0b07f32a347c39eb7207646efd80feb4607",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1317:T00148",
+      "source_sha256": "101e8536327c0f2b2dcb11a5356a110fd822d2acb494e0bc36b1ae05b4f3aec3",
+      "ko": "형"
+    },
+    {
+      "id": "da1317:T00149",
+      "source_sha256": "d9e1037a5b901960cc189e1b81dfbb89604767aa471b7a5ea03f0774047ac8c3",
+      "ko": "상이 흐트러지며, 내 몸은 반쯤 혈풍으로 변한다."
+    },
+    {
+      "id": "da1317:R00029",
+      "source_sha256": "f6173eb5007098bec20e0d1fc8253f393e02e2c32f0c8f1242d462ad3dbe0e22",
+      "ko": "베이퍼",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1317:T00150",
+      "source_sha256": "62d13c9c7c8c16f79c4c97aab30bde4d9fb801c006c68d48e680944816a06538",
+      "ko": "혈연"
+    },
+    {
+      "id": "da1317:T00151",
+      "source_sha256": "38630d5c12e1700059a941e0e743f5d4b2af63c66f379ec73103d9c0ae02297d",
+      "ko": "／"
+    },
+    {
+      "id": "da1317:R00030",
+      "source_sha256": "651d7d9707d2eac9be78ffeb46d190e8dd1b32ade18cde573ff89da6f54c8092",
+      "ko": "리퀴드",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1317:T00152",
+      "source_sha256": "d25dc53fea2d23a482e57ca99287db18825d00d7ff4c98441767f9055e86ffd7",
+      "ko": "혈류"
+    },
+    {
+      "id": "da1317:T00153",
+      "source_sha256": "38630d5c12e1700059a941e0e743f5d4b2af63c66f379ec73103d9c0ae02297d",
+      "ko": "／"
+    },
+    {
+      "id": "da1317:R00031",
+      "source_sha256": "008a95982298dde9f1a59cbb4a3c39799cb7453d910d3a392293eddba28e5d02",
+      "ko": "솔리드",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1317:T00154",
+      "source_sha256": "606cd297fbbe07f00c35bdf3825da9dbcf9d3e28ef9379b3eb6f4d91eec543f9",
+      "ko": "혈육"
+    },
+    {
+      "id": "da1317:T00155",
+      "source_sha256": "894e49ba56dc0406fb13fe34aadbbe0c192f262ca203568814a59c840ae22fe2",
+      "ko": "의 틈바구니에 나는 존재한다.\n\n\n　얼마나 불확실하고, "
+    },
+    {
+      "id": "da1317:R00032",
+      "source_sha256": "8d621c5b39c3b3fc1c4421e71d03d95bf11db997394b0b9280a4826168a392f6",
+      "ko": "공허",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1317:T00156",
+      "source_sha256": "a9cd525db318f43791bcf8b25adf15fd77187c35be738deeba23766709f41b7c",
+      "ko": "한"
+    },
+    {
+      "id": "da1317:T00157",
+      "source_sha256": "76f1891052d0431c9ea7c8ab116984b9f29d062388417a8aff04c6c522817f5c",
+      "ko": " 존재인가."
+    },
+    {
+      "id": "da1317:T00158",
+      "source_sha256": "eb7943ac955f9fba5af3f7feb95aad42bc67603796c90c725a7412fd86af89d0",
+      "ko": "하지만, 분명히 「존재한다」."
+    },
+    {
+      "id": "da1317:T00159",
+      "source_sha256": "b9fc5d8c3259f4129621eed5a5c72176753fc306f81d9053c5e68c4cf7c7373e",
+      "ko": "「나의 "
+    },
+    {
+      "id": "da1317:R00033",
+      "source_sha256": "24d7ad880d9dd274550d7dc2480caa180cce47c07ed273889cc65934ddc93c74",
+      "ko": "힘",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1317:T00160",
+      "source_sha256": "522148a1fdcc951dab73d60402911ecae0316c63ca4da1659694d251661570bc",
+      "ko": "마력"
+    },
+    {
+      "id": "da1317:T00161",
+      "source_sha256": "4ee3e8d9a2ce392ae44991ca1701b619f0f10a6bbf4908f0b654dfd9da205b2d",
+      "ko": "의 증명……」"
+    },
+    {
+      "id": "da1317:T00162",
+      "source_sha256": "2ed7afbfbf18e03d35c2e2455b342eec64b75a4e2b50d071618c924aeb53f7f1",
+      "ko": "돌고 도는 이중나선."
+    },
+    {
+      "id": "da1317:T00163",
+      "source_sha256": "b2b6a72549cc3cc303ecfbc43312152ddca5b1ca196929a964b5a487786e25f8",
+      "ko": "그것은 이윽고 마술 문자의 나열이 되어, "
+    },
+    {
+      "id": "da1317:R00034",
+      "source_sha256": "c0ad53fb4de77b21024c272e916454115ee483e360d685715d5a2015cb8cdd7b",
+      "ko": "코드를",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1317:T00164",
+      "source_sha256": "c2b013367cbab340866f1fc909d7b4c15b6c55db2362222139e7f639d6dea615",
+      "ko": "술식을"
+    },
+    {
+      "id": "da1317:T00165",
+      "source_sha256": "f623fa6267cd6e2a66415e9c2dc712d9d77c6ea4ccfeaf26a7400331f18ac6ec",
+      "ko": " 짜내고, "
+    },
+    {
+      "id": "da1317:R00035",
+      "source_sha256": "16f0743d46c22e155e0fc89238475a58824ee7da3dae1b471f1b1b1f7f2e9d07",
+      "ko": "콕핏",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1317:T00166",
+      "source_sha256": "8dc579f738134d3d31e9335b1a315dc0209a159fbbf38881e98c9a5e26d4e552",
+      "ko": "조종실"
+    },
+    {
+      "id": "da1317:T00167",
+      "source_sha256": "57e082d25bf651b4216eb3e812faedbc7cf397e307812de11349f45533eb0d81",
+      "ko": "을 통해, 외부의 마술 회로로 이어진다."
+    },
+    {
+      "id": "da1317:T00168",
+      "source_sha256": "10860fb392e9caf0a675caa5a9d7f120096e4e7761e043b1944938f1ee11a627",
+      "ko": "나의 "
+    },
+    {
+      "id": "da1317:R00036",
+      "source_sha256": "24d7ad880d9dd274550d7dc2480caa180cce47c07ed273889cc65934ddc93c74",
+      "ko": "힘",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1317:T00169",
+      "source_sha256": "522148a1fdcc951dab73d60402911ecae0316c63ca4da1659694d251661570bc",
+      "ko": "마력"
+    },
+    {
+      "id": "da1317:T00170",
+      "source_sha256": "5817a7d131f8996972a8f9acc5e018db665057ccb9d80ea112329d259d61ae5d",
+      "ko": "이, 혼돈의 기계로 흘러 들어간다."
+    },
+    {
+      "id": "da1317:T00171",
+      "source_sha256": "9913dd6bd4fb69c3cc28dd2227736ac4dcb3c372a536a48546adb3eadc164f68",
+      "ko": "「……뭐라?」"
+    },
+    {
+      "id": "da1317:T00172",
+      "source_sha256": "1227294bbcdce4d1d28cda901888baf1774e1f00400b9d59ca46ee3e41a9192a",
+      "ko": "정교한 혼돈의 조율에, 아주 조그마한 흐트러짐이 생긴다."
+    },
+    {
+      "id": "da1317:T00173",
+      "source_sha256": "0e13eb04f0f253153498687e57125e7454fd64c1068f9f2af6922b7235c77c2d",
+      "ko": "그것은 단 하나의 "
+    },
+    {
+      "id": "da1317:R00037",
+      "source_sha256": "5461d30a804ce645d1361f44d672265ede0fb36d3602d183a40c5f12c2418cf1",
+      "ko": "파츠가",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1317:T00174",
+      "source_sha256": "c8212ffab25e892cdf92a6097c13a297be6199d50cd2b8023b049027741f729f",
+      "ko": "부품이"
+    },
+    {
+      "id": "da1317:T00175",
+      "source_sha256": "10d65f9f0db2a6629f55ede5a6e53afdd6d481ec400299bee21572257b6b5291",
+      "ko": " 일으킨 오작동.\n\n　하지만 사소한 "
+    },
+    {
+      "id": "da1317:R00038",
+      "source_sha256": "3c63f94287c619c803f2e1f59f10a3a72b6cc484d62b25e3d91f5f4316bd6411",
+      "ko": "미스테이크",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1317:T00176",
+      "source_sha256": "ad2a07ff94e3895477e61259aef9aa489a26c3c6a491fac1e1e6f0cf027111da",
+      "ko": "오차"
+    },
+    {
+      "id": "da1317:T00177",
+      "source_sha256": "dca3996fc3481fe265cfa3ca04e1ec4935babc9c18de9444f8ebe614bed10003",
+      "ko": "가 번지고 번지고 또 번져나가, 마침내는 기계 전체를 폭주시킨다."
+    },
+    {
+      "id": "da1317:T00178",
+      "source_sha256": "a6329dbb562dc8a11df7136be2af3134c82def5358d743b4a7ed4f7671d39163",
+      "ko": "「나의 마술의 원천――!」"
+    },
+    {
+      "id": "da1317:T00179",
+      "source_sha256": "cf5e054f9fb62efdfa1f6424199d8acfa76c7fbe6e5201f1648c56bfbc10d4a8",
+      "ko": "피의 "
+    },
+    {
+      "id": "da1317:R00039",
+      "source_sha256": "33439ddb0f66823471fcc299d5d5f75aa20a1470e5cc0d7bb310dbe5b1609c6d",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1317:T00180",
+      "source_sha256": "1f828276b921aa107500f6e9151332285e78eb3c2fd98302107a1970352e1742",
+      "ko": "색채"
+    },
+    {
+      "id": "da1317:T00181",
+      "source_sha256": "5f7c13732a191f2b8de763c71beed668aa5aaf00585560fd25facd5686e90195",
+      "ko": "를 띤 나의 마술이여."
+    },
+    {
+      "id": "da1317:T00182",
+      "source_sha256": "d6bd259e1282fb8282258dbfb192d3d441a6122ba09f3b103d0486bf1ab04d4b",
+      "ko": "칼날이 되어라."
+    },
+    {
+      "id": "da1317:T00183",
+      "source_sha256": "9cca87f332f2d310e95ea4285c61cd0b41b25ec4d3b8baba673df91e69f6337c",
+      "ko": " 독이 되어라."
+    },
+    {
+      "id": "da1317:R00040",
+      "source_sha256": "97d68df7e807fb8264375e917e4f099791b4d56d5d2de2aeff0f1c289b6bc6d9",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1317:T00184",
+      "source_sha256": "14412d32b63501e4365d02a333663a2bd65eea32249b80826e1a8ea60a95c9ad",
+      "ko": "운명"
+    },
+    {
+      "id": "da1317:T00185",
+      "source_sha256": "7d9c8f759308e1c429d9a6808d750c90a771b09d8d2b63dcbe8548639ab3157b",
+      "ko": "에 맞서는 의지가 되어라."
+    },
+    {
+      "id": "da1317:T00186",
+      "source_sha256": "51867b99c82780034f41d8a7f803fd6482041323dfbe1356a38f4fbf77cfc6bd",
+      "ko": "「무슨 짓을 하는 거냐!?\n　다이쥬지 쿠자쿠!」"
+    },
+    {
+      "id": "da1317:T00187",
+      "source_sha256": "29271e31e55d5641f5606aae6447a00e9ff3e85a0158ed4a2a034338865b2dd1",
+      "ko": "「사자신중의 벌레를 집어삼켜라!"
+    },
+    {
+      "id": "da1317:R00041",
+      "source_sha256": "2439817fdc41bebdd900d91ce67851acf11816d61e08831bb38a1b7737fff11f",
+      "ko": "클록워크 팬텀",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1317:T00188",
+      "source_sha256": "5e07cb8b530cf8bba4c5ae2c72ac7f885f87c9dd7e9f83099f398467231ae1b3",
+      "ko": "혼돈 기계"
+    },
+    {
+      "id": "da1317:T00189",
+      "source_sha256": "6560fad1b5299ec45c7562b1e825f123c87101dc289a1eb71426e443d34f4c8c",
+      "ko": "!」"
+    }
+  ],
+  "issues": [
+    {
+      "id": "da1317:R00026",
+      "kind": "ruby_decision",
+      "note": "일본어 독음 きた이 한국어 본문과 겹쳐 읽기 줄을 생략"
+    },
+    {
+      "id": "da1317:R00027",
+      "kind": "ruby_decision",
+      "note": "일본어 독음 ほど이 한국어 본문과 겹쳐 읽기 줄을 생략"
+    },
+    {
+      "id": "da1317:R00028",
+      "kind": "ruby_decision",
+      "note": "일본어 독음 カタチ이 한국어 본문과 겹쳐 읽기 줄을 생략"
+    },
+    {
+      "id": "da1317:R00039",
+      "kind": "ruby_decision",
+      "note": "일본어 독음 いろ이 한국어 본문과 겹쳐 읽기 줄을 생략"
+    },
+    {
+      "id": "da1317:R00040",
+      "kind": "ruby_decision",
+      "note": "일본어 독음 さだめ이 한국어 본문과 겹쳐 읽기 줄을 생략"
+    }
+  ]
+}

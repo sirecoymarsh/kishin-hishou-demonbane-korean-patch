@@ -1,0 +1,662 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0072_da0702",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0702:T00001",
+   "source_sha256": "cd6027b77b3c5075b6253a249bfa1eab11106f32487b6469944b4b16db2689c7",
+   "ko": "「…………」\n\n　자."
+  },
+  {
+   "id": "da0702:T00002",
+   "source_sha256": "3fdb4ff74260486e71d6e5e5cb5434d768f810c0d4a91566d531712a4ba5138e",
+   "ko": "문제는 산더미다.\n\n　거리는 아직 악몽에 삼켜진 채."
+  },
+  {
+   "id": "da0702:T00003",
+   "source_sha256": "2de19f00d80baa986e093311b8ab41cfc089d80e80f570235e19dba0401b3c17",
+   "ko": "알을 침식하는 혈액언어의 술식도, 조금씩이라곤 하나 진행되고 있다."
+  },
+  {
+   "id": "da0702:T00004",
+   "source_sha256": "fa8942293964ba2a536fbe02f9f280ce62b8a7014faad3cfd234fb422ea696dd",
+   "ko": "결국 우리는 뒷북만 치고 있을 뿐이다.\n\n　어떻게든 해야만 한다."
+  },
+  {
+   "id": "da0702:T00005",
+   "source_sha256": "1a384a92021640f714051d961bdd4c2175b16ecbe2d88fe4bbba049c870b6eed",
+   "ko": "무엇을 할 수 있을까?"
+  },
+  {
+   "id": "da0702:T00006",
+   "source_sha256": "2c4238581e655051be8a2912ba72f3a0d1160ca6ad1f64d082274559e5d3ccf2",
+   "ko": "머릿속을 정리해야겠군……."
+  },
+  {
+   "id": "da0702:T00007",
+   "source_sha256": "3aa0b7fae584ced29449c04237d8e4896dd28b9e212a6df5cbf5690184d56e3e",
+   "ko": "「테케리・리~」"
+  },
+  {
+   "id": "da0702:T00008",
+   "source_sha256": "bccf318ba097b8c63f50c4cbd7b4fb657867b945d14e3ed752c76c1774ee01ee",
+   "ko": "「……뭐야, 던세이니? 꽤 지쳐 있네?」"
+  },
+  {
+   "id": "da0702:T00009",
+   "source_sha256": "249d998c0965265ab09c76bfc2410e10cf8997b0b4b6ed2ddf4b17e1c8353251",
+   "ko": "「테케리…… 리……」"
+  },
+  {
+   "id": "da0702:T00010",
+   "source_sha256": "0f05b07847ca31cd61b3b68d1a5edba3c875f8df684c9bb1dcf9e1d767ba2329",
+   "ko": "……아마 꼬맹이들의 놀이 상대라도 해 주고 있었던 모양이다."
+  },
+  {
+   "id": "da0702:T00011",
+   "source_sha256": "bfcb9a0f4c3bffa90fa1c2debec2654e09903cc6ef110d88a6f0dff563e4c838",
+   "ko": "그 녀석들을 상대하려면 상당한 터프함이 요구된다."
+  },
+  {
+   "id": "da0702:T00012",
+   "source_sha256": "6605ad72cf833b5083b914ff588ee809d52b41f6429d0f8c29f962e2a74acd4d",
+   "ko": "「수고했어. 알의 상태를 보러 갈 건데, 어때?\n　따라올래?」"
+  },
+  {
+   "id": "da0702:T00013",
+   "source_sha256": "6502e0a20fe0591424726b7c691cf9710c592217a167c9a099437a87fca068be",
+   "ko": "「테케리・리」"
+  },
+  {
+   "id": "da0702:T00014",
+   "source_sha256": "f6cd0cace0139cf2f5211d5b3e745f0af5896127e0f182b47ec1d94a0af4130f",
+   "ko": "고개를 끄덕이는(?) 듯한 연동을 보이며 던세이니가 따라온다."
+  },
+  {
+   "id": "da0702:T00015",
+   "source_sha256": "33988a6fe636012e5c143a07f199802bbbf3b2fd55dd72079f1c7b735a08beb8",
+   "ko": "한 사람의 구둣발 소리와, 한 개체의 형언하기 힘든 무언가가 기어 다니는 소리가 지하 시설의 통로에 울린다."
+  },
+  {
+   "id": "da0702:T00016",
+   "source_sha256": "26c75ee49abe51af54d294a7177fa40f3d89ce19e09a5053bf828ed65199a380",
+   "ko": "그렇다. 이곳은 하도우의 비밀기지."
+  },
+  {
+   "id": "da0702:T00017",
+   "source_sha256": "b45c3d4a697d0adc7e319f2a57c8864a25464a3b1ba48eff19086dd0603ce462",
+   "ko": "다시는 보지 못하리라 생각했던 이 기지는, 다시금\n우리를 수호하는 요새가 된다.\n\n　그뿐만이 아니다."
+  },
+  {
+   "id": "da0702:T00018",
+   "source_sha256": "ff5e0f75e4713fa925c08264d96c48ace9fbf83a8df0c1c30a59c5a311c4ea79",
+   "ko": "사령관으로서의 공주님."
+  },
+  {
+   "id": "da0702:T00019",
+   "source_sha256": "438b1ed9fe91981ea22b130ac7edbce4dd6ecd204c173df3caf3b8a837765fbf",
+   "ko": "메타트론으로서의 라이카 씨.\n\n　결코 존재할 리 없는 모두가 지금 여기에 있다."
+  },
+  {
+   "id": "da0702:T00020",
+   "source_sha256": "e45d6cecfedbfbc8561573daaa2ee3db7a9cb324bc860c66829a2d8418cb3e78",
+   "ko": "무한나선을 함께 싸워 낸 동료로서의 모두가.\n\n　어떤 기적이 모두를 모이게 한 것일까."
+  },
+  {
+   "id": "da0702:T00021",
+   "source_sha256": "887470a337734780add54f4a13f08430620f52cf8c03edda2e6bee7cb4ec2198",
+   "ko": "악몽과 싸우는 꿈을 모이게 한 것이리라――"
+  },
+  {
+   "id": "da0702:T00022",
+   "source_sha256": "cee966880b064628f34526680b2d792fa58edee929da0b808c4e3a9ab020ad9a",
+   "ko": "「꿈……이라」"
+  },
+  {
+   "id": "da0702:T00023",
+   "source_sha256": "8b0ccb07a8e1a996954080aeca43fe3a43df381fdf41610b1f11aa18df037f49",
+   "ko": "「……이라고밖에 설명할 길이 없네요. 이 일그러진 아컴 시티도, 저의 "
+  },
+  {
+   "id": "da0702:R00001",
+   "source_sha256": "fe65050b6cf95368d85f30fd366c092a15824886d51defd754887d1e968f7491",
+   "ko": "・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0702:T00024",
+   "source_sha256": "62a3b71c5d7ac4bd88dd68dc74cb1bc826e05d18bac06ced317dcc52cdbf936c",
+   "ko": "그 모습"
+  },
+  {
+   "id": "da0702:T00025",
+   "source_sha256": "794fe125b779812f83c7f3cf2803605a977c86a8fce3b39b16ffd7015f40d18e",
+   "ko": "도, 누군가의 마음이나 기억\n에서 만들어진 것입니다」"
+  },
+  {
+   "id": "da0702:T00026",
+   "source_sha256": "80bef057514a977e1c19f4b6869ff4d6f2aef505377244df541811675ea844eb",
+   "ko": "「하지만…… 설마 시스터가\n　그 하얀 천사였다니」"
+  },
+  {
+   "id": "da0702:T00027",
+   "source_sha256": "6df3a7687d0173bc9e5dd24c1194f6a88ba43e178a506150f4972f50a00b9aa6",
+   "ko": "「제 꿈――\n"
+  },
+  {
+   "id": "da0702:R00002",
+   "source_sha256": "85616053c0d0d40062f8770aba1c398101aa31f9c017191c4f67994497c2ee00",
+   "ko": "메타트론",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0702:T00028",
+   "source_sha256": "70a4234b79f5f7db9295d3171d52bd78db29faf6c026a263ce7f7974683e43ce",
+   "ko": "백천사"
+  },
+  {
+   "id": "da0702:T00029",
+   "source_sha256": "09a1ad17d00c5dae42e5ce1a97dab145562231b5558f253fb9a733e24bcdedcc",
+   "ko": "의 꿈은, 한때의 진실입니다」"
+  },
+  {
+   "id": "da0702:T00030",
+   "source_sha256": "7cddb7398d33412959e47a8664a4a9f5ca24cb8efde196e536306ba0b9fc9135",
+   "ko": "「아니요…… 저뿐만이 아니에요.\n　이 지하 시설도,\n　데몬베인도 전부……」"
+  },
+  {
+   "id": "da0702:T00031",
+   "source_sha256": "e92b6a656d42f83bea8a565602fbb8df24b0ad50c1f0284d0f11fe77fafef302",
+   "ko": "「하지만 이게 꿈이라면,\n　깨어나면 어떻게 돼 버리는 걸까?」"
+  },
+  {
+   "id": "da0702:T00032",
+   "source_sha256": "dc81d24dc802b4621edf43728da75dedcd14f14f63af7833aa3ee016c6984995",
+   "ko": "「글쎄요, 모르겠습니다.\n　하지만 무슨 일이 있어도 분명,\n　마음만은 남는 거라고 생각해요」"
+  },
+  {
+   "id": "da0702:T00033",
+   "source_sha256": "3b5c5b26789564fd11fc04b824aeb5da441a8f27007fcbe967dbdab964e64822",
+   "ko": "「그렇기에……\n　저는 다시 메타트론이 될 수 있었어요」"
+  },
+  {
+   "id": "da0702:T00034",
+   "source_sha256": "2385b1921c285480433b6a6be7b5f6eee68758db0808446ecc7a526c08d16c44",
+   "ko": "「흠, 확실히.\n　그런 걸지도\n　모르겠군……」"
+  },
+  {
+   "id": "da0702:T00035",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0702:R00003",
+   "source_sha256": "b5d1fd23b1c9f7ccdc6b8fedc90ac1e3d930420e76cc4a6a4cf41c8d47cca687",
+   "ko": "・・・　・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0702:T00036",
+   "source_sha256": "299454b5564b42ebed07255272a4b5d7cdb65e65c2aa94cf988c3afe639681d6",
+   "ko": "테케리・리"
+  },
+  {
+   "id": "da0702:T00037",
+   "source_sha256": "6a729bd0458468383247b24a44517fe8fae6bfb9270c9c9780e4eee724a92a2b",
+   "ko": "가 없어~엇!」"
+  },
+  {
+   "id": "da0702:T00038",
+   "source_sha256": "61684f148fac3a04f76f9cd8bee5b3a637b5065510871af86a47f62e10dddd38",
+   "ko": "「우와아앗!?」"
+  },
+  {
+   "id": "da0702:T00039",
+   "source_sha256": "7b30adc8ab3a096785cf1d8f64da3b9ed897782600b22bbea6551d5d9ddaf874",
+   "ko": "「심심해애. 놀아 줘어」"
+  },
+  {
+   "id": "da0702:T00040",
+   "source_sha256": "8cfdf4fdf3c5dacfe6f7851b4a9f708c6552c0f226ec3dc2ce3058a961ca05e9",
+   "ko": "「이, 이봐! 그만둬!\n경찰 아저씨들은 지금 중요한 이야기를\n……"
+  },
+  {
+   "id": "da0702:T00041",
+   "source_sha256": "97eb64c7b575581aa3d9061001d250a09557084984960ad8587874751907f642",
+   "ko": "아야야야얏! 자, 잠깐……\n야, 얌전히 있는 거지 말입니다아!」"
+  },
+  {
+   "id": "da0702:T00042",
+   "source_sha256": "83a61bab77ed1e128977d198ab96b8b233c5eb59cebaa02e6e0b07e163732dae",
+   "ko": "「아하하하하하핫」"
+  },
+  {
+   "id": "da0702:T00043",
+   "source_sha256": "2c048154d65d6606de56ba1006f11f103cf1909a4e8582c33b8131705e0a8d62",
+   "ko": "「잡아당겨라~앗」"
+  },
+  {
+   "id": "da0702:T00044",
+   "source_sha256": "52d2ebff10dd2f3bd368b2e4bb610cb457a8c679d76e3b702e9348281a861091",
+   "ko": "(안절부절못함)"
+  },
+  {
+   "id": "da0702:T00045",
+   "source_sha256": "ad6d16199f8a0d2ba7cbb351deebf19b0fb74ec93402851e6fa80aebbd05708b",
+   "ko": "「그보다 지금은 이 상황을\n　어떻게든 해야만 합니다」"
+  },
+  {
+   "id": "da0702:T00046",
+   "source_sha256": "033e43a69c268548e5cc6bc50222dd34ffa27dcc524040f1b6961eeecd68d429",
+   "ko": "「우리가 할 수 있을 만한 일은 아~무것도 없을 것 같지만 말이지. 뭐, 애 보는 것쯤은 맡아 줄게…… 스톤 군이」"
+  },
+  {
+   "id": "da0702:T00047",
+   "source_sha256": "87238f756fd9485c72dc4a1ec14b07f0b5099a26405dde7584a3cf2b53080db6",
+   "ko": "「네스 경부우우우~웃!」"
+  },
+  {
+   "id": "da0702:T00048",
+   "source_sha256": "e16f4d4b6f309fb1d56b3f863edc80897f5ee38b23ca556d8b3de62ac52c2388",
+   "ko": "「그럼 이 현상은 역시\n　『피의 괴이』의 소행……」"
+  },
+  {
+   "id": "da0702:T00049",
+   "source_sha256": "0bfb02c56b8ae34e0c8bdf433b5cd90a0acb434e91d3d059cbd38d8f5fe0f223",
+   "ko": "「다이쥬지의 말에 따르면\n　그런 모양이더군」"
+  },
+  {
+   "id": "da0702:T00050",
+   "source_sha256": "9963bdc4fd3944740bad824af4a2b633664b150349490fcbf9ec8a22f8e8bba5",
+   "ko": "「알 아지프 님의 기억을 개찬해서\n　만들어 낸 악몽의 세계――\n　라는 셈입니까」"
+  },
+  {
+   "id": "da0702:T00051",
+   "source_sha256": "e38ce6ab5ccb213e77e00da1e3e5c2b4436c2b460fd413cc0e03affecd2e9f57",
+   "ko": "「――알 쨩의 꿈……\n　하아하아………… "
+  },
+  {
+   "id": "da0702:T00052",
+   "source_sha256": "6b4782d0d5cc2af6aa9e0870d7bcc851425c4629ada55ff50f363baee1f35b9c",
+   "ko": "구컥」"
+  },
+  {
+   "id": "da0702:T00053",
+   "source_sha256": "06c23a45930da44d0916398087add933b1b5079213dd86b7042590df25f1b11e",
+   "ko": "「기억해 둬라. 나쁜 꿈이다, 페도」\n(흉기: 수건과 비누)"
+  },
+  {
+   "id": "da0702:T00054",
+   "source_sha256": "4494156e2c97dd2d13b4d39ef7c8787b94e512864c5c69dbfdf92bc0f3c4cf6b",
+   "ko": "「아픈 거…… "
+  },
+  {
+   "id": "da0702:R00004",
+   "source_sha256": "4c6ff2461396974940d832f3f0ce2a7624668028f9bff88ca807b1e9da44a407",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0702:T00055",
+   "source_sha256": "f867f34178594f891eb70a4260f62b1d9289cfa60394f9fee1cbbe4a8b4bf436",
+   "ko": "좋"
+  },
+  {
+   "id": "da0702:T00056",
+   "source_sha256": "51f6989546fa84828ef3d52433e9820e60b7c4910f4a5f8f9b0c3854e97fe147",
+   "ko": "아……앗」"
+  },
+  {
+   "id": "da0702:T00057",
+   "source_sha256": "77520d764028a8af16419418f9c9f8b16c6b7c11bccea8a7c3c7a3e6157d22d9",
+   "ko": "「알 아지프의 기억……인가요」"
+  },
+  {
+   "id": "da0702:T00058",
+   "source_sha256": "cf371195edb6de67f90bdb648f697bb45442d211ab127d09ce4c3546f4064905",
+   "ko": "「그에 관해서는 당신 쪽이\n　더 잘 알 것 같군그래, 하도우 총수?」"
+  },
+  {
+   "id": "da0702:T00059",
+   "source_sha256": "f63e338a9fae446f20ae3d105f2318d7c4d921eff8749a1d9931f4bd94dd5f65",
+   "ko": "「…………」"
+  },
+  {
+   "id": "da0702:T00060",
+   "source_sha256": "4d44b6dd6e23c2082c61f33fd458db7c7d72c162425196557c0c3f11defd090e",
+   "ko": "「어찌 됐든, 우리는 다시금 강대한\n　괴이와 대치해야만 한다」"
+  },
+  {
+   "id": "da0702:T00061",
+   "source_sha256": "ebdd94c802458ff9e13ff19d9cb4e4b0ae5f879a1f0ee549865445aee0a6fccc",
+   "ko": "「거리의 상황은 어떻게 되어 있나요?」"
+  },
+  {
+   "id": "da0702:T00062",
+   "source_sha256": "3f309224fdad5ba81e0b58b01ef46d4ba252cd32c5a43ea6998858bb7ad9506f",
+   "ko": "「시공적인 왜곡과 영압의 이상한\n　상승이 각지에서 관측되고 있습니다」"
+  },
+  {
+   "id": "da0702:T00063",
+   "source_sha256": "0e649475c6dbf2e5a53c9dbd3f0ee2081ba86d0241b5337cd9eb8f227de16dc5",
+   "ko": "「거리 밖은요? 연락은 닿지 않는 건가요?」"
+  },
+  {
+   "id": "da0702:T00064",
+   "source_sha256": "b995068dfba740936624a36624d93b538b33f0adf1d47dbc864a00a07f5e3da7",
+   "ko": "「불가능합니다. 밖으로 나갈 수도 없습니다. 아컴 시티 전체가 독립된 이공간으로 변해 버린 모양입니다」"
+  },
+  {
+   "id": "da0702:T00065",
+   "source_sha256": "6a9d7d5e5521760b0f473680f60b252a8cbd8af64cf302af5eca892440046f67",
+   "ko": "「……주민들은요?」"
+  },
+  {
+   "id": "da0702:T00066",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0702:R00005",
+   "source_sha256": "d678372d713747469b10f4792cf13db56b08c0d18951f29918223489534c676a",
+   "ko": "고스트라면",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0702:T00067",
+   "source_sha256": "10c3914c94c2916c10fbd0e5d348b538c7287c4b6df7b618eaa3aa72eb8bc5be",
+   "ko": "환영이라면"
+  },
+  {
+   "id": "da0702:T00068",
+   "source_sha256": "ef52a47faafd4da09f32c43a2fe389cafa3885d88fa28a3c8dc8974f85e92611",
+   "ko": " 가끔 관측되고 있긴\n　합니다만……」"
+  },
+  {
+   "id": "da0702:T00069",
+   "source_sha256": "e7fee169504af62b7b671295379e45c97ce7b2b3a540c1d4e844b0938586e246",
+   "ko": "「아마도 한 사람 한 사람이 저마다\n　다른 악몽에 사로잡혀 있는 것이리라」"
+  },
+  {
+   "id": "da0702:T00070",
+   "source_sha256": "59297fff5c19a93dfe8e19a4a7344469d7675dccafad29618c668b80c1060807",
+   "ko": "「다이쥬지 씨나 시스터 라이카가\n　그랬었지요?」"
+  },
+  {
+   "id": "da0702:T00071",
+   "source_sha256": "e9f8ec4225965937fc4248dc2ec9a3c5650f1f05973c9d0a3059b8a37dec10a5",
+   "ko": "「우리처럼 "
+  },
+  {
+   "id": "da0702:R00006",
+   "source_sha256": "ad00a0b322492061745b24d0a27cfeb54340097e166853622a9781f99bd15efb",
+   "ko": "・・・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0702:T00072",
+   "source_sha256": "495c480611d76411f48bfb151ddff79e949d90dfc7e24e30a28aeff2cd8f55d8",
+   "ko": "이어져 있는"
+  },
+  {
+   "id": "da0702:T00073",
+   "source_sha256": "52e0dc832f94abaf14e87311be02297874514426f316f4da34a2e261a2f4eb7e",
+   "ko": "\n　케이스가 더 드물겠지」"
+  },
+  {
+   "id": "da0702:T00074",
+   "source_sha256": "edafe300f59084653cb5d34e19cdce61d7798567840ad3bd727ef6bde3084e73",
+   "ko": "「우리는 어째서\n　예외인 건가요오?」"
+  },
+  {
+   "id": "da0702:T00075",
+   "source_sha256": "313a1d4a74c4187cf2e4848d9a08627a382cf43853a254f996a0ceb2f4a1574b",
+   "ko": "「악몽에 저항하는 『알 아지프』의 의지가 영향을 미치고 있는 것이겠지. 본인은 무자각인 모양이지만」"
+  },
+  {
+   "id": "da0702:T00076",
+   "source_sha256": "8ee76702d7c54a93cd12304c27dd076054c6111098d58bede9a04e8643766518",
+   "ko": "「혹은…… 『인연』이겠지요」"
+  },
+  {
+   "id": "da0702:T00077",
+   "source_sha256": "6b5cbe6ec8875f250978c06a5e02ee7eb7a7c39889768d8f7b7da8a542025bc8",
+   "ko": "「인연?」"
+  },
+  {
+   "id": "da0702:T00078",
+   "source_sha256": "581ae68b62d90e614adda74f2bf66d6a66cadcd3ff7d8a29ad7b97f9ac4f09e4",
+   "ko": "「저의 이 차림새와 같습니다.\n　일찍이 있었던, 저희들의\n　『유대』말이에요……」"
+  },
+  {
+   "id": "da0702:T00079",
+   "source_sha256": "f63e338a9fae446f20ae3d105f2318d7c4d921eff8749a1d9931f4bd94dd5f65",
+   "ko": "「…………」"
+  },
+  {
+   "id": "da0702:T00080",
+   "source_sha256": "257ee8fb1135e6e3f3066310965afbfe6142cbc9243e5581ebeb47dd5da04001",
+   "ko": "「――――」"
+  },
+  {
+   "id": "da0702:T00081",
+   "source_sha256": "5a85cfb73af7ff64de8dd5389db4a0b1c8a080f0e25e0a87df628fee5a9916f7",
+   "ko": "「……그거 엄청나게\n　부끄러운 유대네요?」"
+  },
+  {
+   "id": "da0702:T00082",
+   "source_sha256": "c453a8cc7c8ea45a56d02578d34e5bbe57286cc02e5c4aaada9a6c1988ae1e0f",
+   "ko": "「제 차림새에\n　그렇게까지 불만이 있나요!?」"
+  },
+  {
+   "id": "da0702:T00083",
+   "source_sha256": "662700b98ca351bcb4cb638772be56fe9725add7ed2e2f46e4c79e12cb49a1b0",
+   "ko": "「하지만 확실히…… 이번 괴이를 해결할\n　실마리는 그 『유대』이겠지」"
+  },
+  {
+   "id": "da0702:T00084",
+   "source_sha256": "2c2e3ed983c53ed9a95ef9e916a1dc243ff0bd0b3fefdcf199745fdd89a5e68a",
+   "ko": "「『알 아지프』와 다이쥬지 쿠로의 곁에 모인\n　『유대』들이야말로――」"
+  },
+  {
+   "id": "da0702:T00085",
+   "source_sha256": "57d83329f87cb8757c2b1c5f2540fd8927e90028763e334c6037397fbf9932cf",
+   "ko": "마도 연구소."
+  },
+  {
+   "id": "da0702:T00086",
+   "source_sha256": "5483fe9baa53ae6bef7eb4eab3bd33de7f9131a8ac724a08b3fac4f1e4eee6f0",
+   "ko": "일찍이 『하도우 코우조우』가 『블랙 롯지』에 대항하기 위한 수단을\n연구했던 장소다.\n\n　싸움을 마친 알은 마력적인 흐름이 뛰어난 이곳에서 『치료』를 받고 있다."
+  },
+  {
+   "id": "da0702:T00087",
+   "source_sha256": "05c438a31473b825a47696624b48349a2a9f83f91172bf7e934d95691facdfc6",
+   "ko": "「……아아…… 큭……\n　응…… 후우……」"
+  },
+  {
+   "id": "da0702:T00088",
+   "source_sha256": "6b6771109f45076542ac94d9f2a5b8d84bdbd99ab7047e736e7728127839e08a",
+   "ko": "「구성 안정……\n　이걸로 당분간은 괜찮습니다」"
+  },
+  {
+   "id": "da0702:T00089",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0702:R00007",
+   "source_sha256": "e044a46d6095b6710697e40f22b82795ab29b4a1f1b64275c79b6d78b01db222",
+   "ko": "바이러스",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0702:T00090",
+   "source_sha256": "a5dea466dc729992e9c0ea352a298a629fe67aaeceacbd4affd80dc21e7cfc8b",
+   "ko": "주독"
+  },
+  {
+   "id": "da0702:T00091",
+   "source_sha256": "474d104a4adca1b1533f82fe4098261a21a78ed5c76afc1da8219758ebb00ee8",
+   "ko": "의 침공도 멈춰 있어.\n　일단은 말이지」"
+  },
+  {
+   "id": "da0702:T00092",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0702:R00008",
+   "source_sha256": "267659e1559bd7a97432b48a361601aece2d5185b35596557d4e9803afdc3323",
+   "ko": "안티 스펠",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0702:T00093",
+   "source_sha256": "f2aa052deb01f493babd6867c029baae1f557256d58219ba833dc65bbd1c550b",
+   "ko": "항생술식"
+  },
+  {
+   "id": "da0702:T00094",
+   "source_sha256": "95e5899bbc1d7662ee35e5a36394103c2a084ad893f4290ec51b10dfcf25d1dc",
+   "ko": "도 걸어 두었다.\n　위안 삼는 정도지만 말이다」"
+  },
+  {
+   "id": "da0702:T00095",
+   "source_sha256": "c66612881f34ca0d1cebe1d31e37b8081aa846d8df518bab91ddcc30e897b23f",
+   "ko": "알의 가슴에 퍼지는 붉은 반점――알을 침식하는 "
+  },
+  {
+   "id": "da0702:R00009",
+   "source_sha256": "f58c026c179665797b00157bf4ac8d76bb0bc4ae666609165f837f7ff7226785",
+   "ko": "어나더 블러드",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0702:T00096",
+   "source_sha256": "98da8a574767b983beb349c2efefbfdbba8993129d395ce47920ad0b68785f6d",
+   "ko": "혈액언어"
+  },
+  {
+   "id": "da0702:T00097",
+   "source_sha256": "3b2e79bc719379948597cf4be8f8c76f1b3296e6089b0a355b1d9b49e5503647",
+   "ko": "의 "
+  },
+  {
+   "id": "da0702:R00010",
+   "source_sha256": "e044a46d6095b6710697e40f22b82795ab29b4a1f1b64275c79b6d78b01db222",
+   "ko": "바이러스",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0702:T00098",
+   "source_sha256": "c2b013367cbab340866f1fc909d7b4c15b6c55db2362222139e7f639d6dea615",
+   "ko": "술식"
+  },
+  {
+   "id": "da0702:T00099",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  },
+  {
+   "id": "da0702:T00100",
+   "source_sha256": "72527cdfc33f85f28e52ec1293547d0837fdaa7139f0e31d3bcd8965a47a707a",
+   "ko": "그 위에 빛나는 "
+  },
+  {
+   "id": "da0702:R00011",
+   "source_sha256": "f62d3975c355ecb5220a7c67b462c66afeb8b6e94ce88c3bcd3ec179ef9bbbf2",
+   "ko": "엘더 사인",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0702:T00101",
+   "source_sha256": "794b7b81f5dd763d25fd473f656e9b6ce1d4ad8de680c03050f0b3fdb3a63497",
+   "ko": "오망성형"
+  },
+  {
+   "id": "da0702:T00102",
+   "source_sha256": "e69b560021bba4147987485ca860e4733c897aa5bd8da2b2d53e1d00a8c8843f",
+   "ko": "이 각인되어 있었다."
+  },
+  {
+   "id": "da0702:T00103",
+   "source_sha256": "4ac5afbf859dd6a2fd86a2a68cbf131be6d5ea3b7238d76be3a84d448788a0f6",
+   "ko": "「신세 졌어, "
+  },
+  {
+   "id": "da0702:R00012",
+   "source_sha256": "8abe22c91f0939b6aab3db77f86d607dd7063710622f9cd851250b3a7e367dbc",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0702:T00104",
+   "source_sha256": "cd98e43da31bb1b90dc152851c85c7d266d47ba97bc5ff7bd137c5920429d467",
+   "ko": "선생"
+  },
+  {
+   "id": "da0702:T00105",
+   "source_sha256": "635044a9aeed634a73c78193f12ffc6b527a5deaf3953bcca45e23f5786578a2",
+   "ko": "――몸 상태는 어때, 알?」"
+  },
+  {
+   "id": "da0702:T00106",
+   "source_sha256": "8c2b8738fd3126e2390b2849945a92b1b5754e9ed0bfe2b0d5ceab4d509b5ff4",
+   "ko": "「……나쁘지 않다. 신세를 졌구나」"
+  },
+  {
+   "id": "da0702:T00107",
+   "source_sha256": "1e7d0b874185862dd8db312ddd757d1c98f7bb6c270eeb2d75df828ad92cfd84",
+   "ko": "「대단한 일은 하지 않았네,\n　아가씨?」"
+  },
+  {
+   "id": "da0702:T00108",
+   "source_sha256": "a2bff1707f83e3dd99b0c2cc623ab43bad6c35cd9e2f98a92337f8863048e9d2",
+   "ko": "「……완전한 "
+  },
+  {
+   "id": "da0702:R00013",
+   "source_sha256": "fbee93633a78678bb2ab39997c8f5127a4b27206b9c3db9bca41590bc2f8c58c",
+   "ko": "디스펠은",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0702:T00109",
+   "source_sha256": "671eab875b919f2bbaa4f425e551d3c2709400784ec11520bb337743c067a77c",
+   "ko": "해주는"
+  },
+  {
+   "id": "da0702:T00110",
+   "source_sha256": "bbf27a96ddcacb7bac547f5db4bd35cb5eba6feee9bee2d1b7fd446d4e0dbc0c",
+   "ko": " 불가능하다.\n이 술식, 보통내기가 아니야」"
+  },
+  {
+   "id": "da0702:T00111",
+   "source_sha256": "d51628a7c09598e0c0c3844e72a299691636d9c28fb6caa533b8a14941017dd6",
+   "ko": "「……이렇게 복잡하고 견고한 술식,\n　본 적이 없어」"
+  },
+  {
+   "id": "da0702:T00112",
+   "source_sha256": "acfcd9e3c27e25cfedf6393c6d8a3be63643cc6a26297c529ff45abbed93a347",
+   "ko": "「그렇겠지…… 그렇다면」"
+  },
+  {
+   "id": "da0702:T00113",
+   "source_sha256": "e2da07e74ec3555a0eabe454b8ca31833faca9d173bddf4029c8b5539dff3f78",
+   "ko": "「뿌리를 끊지 않으면 안 되겠지」"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0702:R00004",
+   "kind": "ruby_decision",
+   "note": "Omitted standard kun'yomi reading い for 好."
+  },
+  {
+   "id": "da0702:R00012",
+   "kind": "ruby_decision",
+   "note": "Omitted colloquial reading センセ for 先生."
+  }
+ ]
+}

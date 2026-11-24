@@ -1,0 +1,758 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0030_da0205",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0205:T00001",
+   "source_sha256": "cf5e054f9fb62efdfa1f6424199d8acfa76c7fbe6e5201f1648c56bfbc10d4a8",
+   "ko": "핏"
+  },
+  {
+   "id": "da0205:R00001",
+   "source_sha256": "33439ddb0f66823471fcc299d5d5f75aa20a1470e5cc0d7bb310dbe5b1609c6d",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0205:T00002",
+   "source_sha256": "1f828276b921aa107500f6e9151332285e78eb3c2fd98302107a1970352e1742",
+   "ko": "빛"
+  },
+  {
+   "id": "da0205:T00003",
+   "source_sha256": "c0d428801d8c81019f28612c4e7611f128a3e3dfa1ad98b67d0bb5e5f551291d",
+   "ko": " 데몬베인과 대치하는, 또 한 대의 데몬베인.\n\n　자세히 보니 머리 부분의 형태나 다리 실드의 위치, 컬러링 등등, 내가 아는 데몬베인과는 여러모로 달랐다."
+  },
+  {
+   "id": "da0205:T00004",
+   "source_sha256": "3e8a8ab53f4eb88ef0beadd0ebf7dca11a7f82b9c177a9bd8e50ecfeb7644761",
+   "ko": "하지만 그럼에도 그 "
+  },
+  {
+   "id": "da0205:R00002",
+   "source_sha256": "1d60dd3d81f3f68388c87185cb6e406f6e27a9efa345dd8442ee61e8c777a43a",
+   "ko": "포름",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0205:T00005",
+   "source_sha256": "f35d855308dfac3d405c27d47355f2644029d642a1802ed3341aad542dc9972f",
+   "ko": "전체상"
+  },
+  {
+   "id": "da0205:T00006",
+   "source_sha256": "69c26ecf3a8dd7b0cdc81d075846336aa355870d359da103579ec45d2a079a88",
+   "ko": "이, "
+  },
+  {
+   "id": "da0205:R00003",
+   "source_sha256": "d62fca5b5073ab465d648b608d0e4a2ccf32c01aba979bc1c7f015a7aa047ada",
+   "ko": "이미지",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0205:T00007",
+   "source_sha256": "a012d55156a458921c81902f5acc3047d16dc966d7f1150aa1f382143de697f7",
+   "ko": "분위기"
+  },
+  {
+   "id": "da0205:T00008",
+   "source_sha256": "e18cbd75a7f23a9f958db277fd345779ce6b3b4afc624ff364613ac784e378cc",
+   "ko": "가, 이 녀석은 데몬베인이라고 웅변해 준다."
+  },
+  {
+   "id": "da0205:T00009",
+   "source_sha256": "2e06735867d7e0bff005f766e3acb00bece9f0628fab3ca5b1de1d4e3bc94d1c",
+   "ko": "「――왔네, "
+  },
+  {
+   "id": "da0205:R00004",
+   "source_sha256": "25b57b2614177361ac5835f61b08fa3f4116744d8275d0e97142056f7e6686a7",
+   "ko": "투 소드/투 건",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0205:T00010",
+   "source_sha256": "f8cc521ba37a92038ef768e668a4527c2a7d969381ad66558edf63d7338efd9e",
+   "ko": "이투류"
+  },
+  {
+   "id": "da0205:T00011",
+   "source_sha256": "6560fad1b5299ec45c7562b1e825f123c87101dc289a1eb71426e443d34f4c8c",
+   "ko": "!」"
+  },
+  {
+   "id": "da0205:T00012",
+   "source_sha256": "f2d90a29d6e9cefe9170b6f7df09b467ecf730418b7fe94149bbd397ab23e0d7",
+   "ko": "두 번째 데몬베인의 해치가 열렸다."
+  },
+  {
+   "id": "da0205:T00013",
+   "source_sha256": "301031652fbaf83bbc6939b2297d25b4699e3e17ffffb3adc9412003898af090",
+   "ko": "콕핏 안에서 나온 것은 몸집이 작은 그림자."
+  },
+  {
+   "id": "da0205:T00014",
+   "source_sha256": "a61e9e0d3fb583845da3e1813d530e750efb1345e4b5105ab42aee73d876973b",
+   "ko": "진홍빛 망토로 몸을 감싼 소년이다.\n\n　소년은 피로 물든 데몬베인 위, 붉은 소녀를 똑바로 응시하며 선언한다."
+  },
+  {
+   "id": "da0205:T00015",
+   "source_sha256": "7aa02fa6feeaad4833f95ff0fdf03063526bf6e3dec87bf7033f2fe284c58518",
+   "ko": "「마도에 사는 몸이나,"
+  },
+  {
+   "id": "da0205:R00005",
+   "source_sha256": "e6d39fa5cdb6c4da1727f631fbf2e4f4291f034a72be69c956751adcf44399b5",
+   "ko": "마음",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0205:T00016",
+   "source_sha256": "b9ba74447cbaca624042d82c3ebf3f660837db4fac4a072e6a108fbb6413d8bb",
+   "ko": "혼"
+  },
+  {
+   "id": "da0205:T00017",
+   "source_sha256": "de77c92e700013835c3fc5ad8f581a6c050fa5f015b75f694fe41715cfb4847e",
+   "ko": "은 "
+  },
+  {
+   "id": "da0205:R00006",
+   "source_sha256": "edcd28fa7ea44051f0257ef67461b3825ba660795cc6071fba8ea223214baa1d",
+   "ko": "검",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0205:T00018",
+   "source_sha256": "eda4f9e77842917f0eb3b924517f95380605bae5ae37dc6bff54f11df3ad5b65",
+   "ko": "기사도"
+  },
+  {
+   "id": "da0205:T00019",
+   "source_sha256": "5f945f18ef58973201d6df7fc5efda98c57557242b02afb62e8023aacc832b54",
+   "ko": "에 "
+  },
+  {
+   "id": "da0205:R00007",
+   "source_sha256": "cccb7b98222748c49c54876672ffe8bba7cca64f3b8f700191589161f3466934",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0205:T00020",
+   "source_sha256": "d80cfbb3b15393b9e28d23e184a1a7b95084a8ba5da4327df1cc3f9377f402ad",
+   "ko": "바쳤"
+  },
+  {
+   "id": "da0205:T00021",
+   "source_sha256": "ac08982e36a620627176eaf0df1cff18f30172c761c13672e39c11958f2ccc4f",
+   "ko": "노라.\n　　　――외도, 베어 마땅하다」"
+  },
+  {
+   "id": "da0205:T00022",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0205:R00008",
+   "source_sha256": "f4a24991c170b807d75445388cd9608a5a17e2589c6f42bae850b2a255be6d2a",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0205:T00023",
+   "source_sha256": "565ca3ac25bd48a7cb61e5b2d52521b00aafdfad6a46568dfaed546b23359802",
+   "ko": "너무한"
+  },
+  {
+   "id": "da0205:T00024",
+   "source_sha256": "5f653061a510e336d9293873d11dcdf64109f90e43a22d2f3ac70c548ad91e08",
+   "ko": " 말투네.\n　이 아이도 데몬베인이거든?」"
+  },
+  {
+   "id": "da0205:T00025",
+   "source_sha256": "48e81801da6d070c74dc361a1ef0eaafdd11a636f557e528c20ab841ae9198c2",
+   "ko": "「――"
+  },
+  {
+   "id": "da0205:R00009",
+   "source_sha256": "023b5f05ebb5432cfd015a51b46114673cbacb751e856aa7b670a19ed15284a4",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0205:T00026",
+   "source_sha256": "fe4c785508e6a480a13d3def0330185508d154f067de6e0d9f08bfb399f40e83",
+   "ko": "그렇다"
+  },
+  {
+   "id": "da0205:T00027",
+   "source_sha256": "27f0d35813aef056dac389940b9340249f2e8d92500f27e1ab3331f0861278aa",
+   "ko": ".\n　죄에 녹슬어 가는 피 묻은 칼날이다.\n　더 이상 더럽혀질 바에야,\n　이 손으로 끝장을 내주겠다」"
+  },
+  {
+   "id": "da0205:T00028",
+   "source_sha256": "d352de6a6b4d5b015231db8fa772a42fe86367e7331dd6d0b317888ae2610df4",
+   "ko": "「독선적이네. 싫어, "
+  },
+  {
+   "id": "da0205:R00010",
+   "source_sha256": "dcd76b94a265a39131d4ed326b93472009b55bb96bc303c20526cc3879e75ab3",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0205:T00029",
+   "source_sha256": "1bab4829457742b4cb93947b3ad582236d8438f4f0296eaae1bb087401a464a6",
+   "ko": "쿠자쿠"
+  },
+  {
+   "id": "da0205:T00030",
+   "source_sha256": "d93a835d0f2787bcb1a759ad3a1b8fbea56d742d0b99720dbbb9ea8ace1926f8",
+   "ko": "」"
+  },
+  {
+   "id": "da0205:T00031",
+   "source_sha256": "a2507e83f205da6e2ea44f8805f324eda321277e0825ce750cef45b56c9d47d2",
+   "ko": "대치하는 소년과 소녀."
+  },
+  {
+   "id": "da0205:T00032",
+   "source_sha256": "285b7cc218bd892afb92e380b75e0471615465c1780252a7962320d92c87e897",
+   "ko": "대치하는 데몬베인."
+  },
+  {
+   "id": "da0205:T00033",
+   "source_sha256": "ae46619f2be71cc7344594c188071e1efde413490c8e4f906bd51efbaae43d3a",
+   "ko": "양자의 부딪치는 투기는 물리적인 압력마저 띠고 대기를 일그러뜨리기 시작한다."
+  },
+  {
+   "id": "da0205:T00034",
+   "source_sha256": "12fe7c86d184ee69bbe44c2efb9396c9436bfbe9d9171ea2bdff7472c32dbcc5",
+   "ko": "이 녀석들은 적대 관계인 걸까."
+  },
+  {
+   "id": "da0205:T00035",
+   "source_sha256": "3a35b3f4d51d31afacbcc1c15cf5e959213fedb026c1f52a4f8e97f5c3eae23c",
+   "ko": "「그대들은 도대체……"
+  },
+  {
+   "id": "da0205:T00036",
+   "source_sha256": "cd7fa4aa9498b9a78a8eb551e32b1e765bebfaabca9b5be30cc484fab76e6dda",
+   "ko": "극!"
+  },
+  {
+   "id": "da0205:T00037",
+   "source_sha256": "ff02d7c1420fa48511f47aeec8c2f6d00e9a21d95f921520ac0b19d2cc706dc6",
+   "ko": "아아아아!」"
+  },
+  {
+   "id": "da0205:T00038",
+   "source_sha256": "e72e3a66d2f01e8e4de96002cf547b96d99347fbfdb512eaac60e423a24ef0f3",
+   "ko": "붉은 소녀가, 장갑 위에 쓰러진 알을 억지로 일으켜 세워 등 뒤에서 껴안았다."
+  },
+  {
+   "id": "da0205:T00039",
+   "source_sha256": "c769881b352e5020fee9598c0a4b49aa209c92a7768f85721ffeca4cce52ff46",
+   "ko": "「그 사람에게 손대지 마라,\n　어나더 블러드!」"
+  },
+  {
+   "id": "da0205:T00040",
+   "source_sha256": "3ce17cb7a51d6b0309cd9a8b8323368999b683277df51bacd798e6acd7ad2d14",
+   "ko": "……「그 사람」?"
+  },
+  {
+   "id": "da0205:T00041",
+   "source_sha256": "c4edea84e62f95914dddb815d1581eef04d0432f0c04583676783fa631943c7e",
+   "ko": "알을 알고 있는 건가?\n\n　분노를 드러내는 소년에게, 붉은 소녀는 놀리는 듯한 어조로 답한다.\n\n　알의 얼굴에 자신의 얼굴을 가까이 대고――"
+  },
+  {
+   "id": "da0205:T00042",
+   "source_sha256": "93069fff4b772aac6124aa4e5ad382a2568ed610e6ab79820cb295a9fe7d69d0",
+   "ko": "「싫어. 왜냐하면 "
+  },
+  {
+   "id": "da0205:R00011",
+   "source_sha256": "62f083b66f85bb7e91aeeefb564b5a6991560448a77d686a51788b9945d35e81",
+   "ko": "오리지널",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0205:T00043",
+   "source_sha256": "4da921e3249cf37f25e9927129f9bd2d5bb5d89489adb525d35aa2d7c84b9452",
+   "ko": "어머님"
+  },
+  {
+   "id": "da0205:T00044",
+   "source_sha256": "16787b8ce021375a3657d217a62e09a2ff2c9711d2f515e9e0dd8d04db15230e",
+   "ko": "은,\n　나의 피와 살이 될 테니까」"
+  },
+  {
+   "id": "da0205:T00045",
+   "source_sha256": "1bd86d53ab3fddc24066d8aa24f7a9adac7ef94c7ac7a3e7b3737609c9b74c79",
+   "ko": "「큭………… 아아아……앗」"
+  },
+  {
+   "id": "da0205:T00046",
+   "source_sha256": "28e2f27224e4d6bf4a2eaa553272b6b7e0903e58a7e18cb31be0c1d772ac8d53",
+   "ko": "가느다란 손가락으로 부드럽게 뺨을 어루만진다."
+  },
+  {
+   "id": "da0205:T00047",
+   "source_sha256": "1c17765e60e64448a2b3f79b3ceeb46bf0959bc6071b417c48f016c44eb41f2b",
+   "ko": "하지만 다른 한쪽 손은 가슴팍으로 뻗어, 부풀어 오르기 시작한 가슴을 난폭하게 "
+  },
+  {
+   "id": "da0205:R00012",
+   "source_sha256": "eb1030fbaf19cbb3815827ee75f3530972888c5f85af640eb66f806f82556e40",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0205:T00048",
+   "source_sha256": "0b8ae7c40592661b52141c1b03c315f472575352f19aa8c32c966c887b9ca0ac",
+   "ko": "더듬"
+  },
+  {
+   "id": "da0205:T00049",
+   "source_sha256": "015e7b12449409b74f42b5ca4e8448aee5b0edff2fc87521ccc1c2afe181fefa",
+   "ko": "으며, 그리고,"
+  },
+  {
+   "id": "da0205:T00050",
+   "source_sha256": "68c76020d28176e26cb9729f8a96ad278734abd3c646dd66a7d813bb6796b75c",
+   "ko": "「――으읍!?\n　아아아아아아아아아아아!」"
+  },
+  {
+   "id": "da0205:T00051",
+   "source_sha256": "ef862d89558430813496deb5393cfb6e527f2ab663b67309c617bb06879504f9",
+   "ko": "「큭!?　알!」\n\n　가슴에 꽂힌 핏"
+  },
+  {
+   "id": "da0205:R00013",
+   "source_sha256": "33439ddb0f66823471fcc299d5d5f75aa20a1470e5cc0d7bb310dbe5b1609c6d",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0205:T00052",
+   "source_sha256": "1f828276b921aa107500f6e9151332285e78eb3c2fd98302107a1970352e1742",
+   "ko": "빛"
+  },
+  {
+   "id": "da0205:T00053",
+   "source_sha256": "d5d21d48d70ff33b21eb84abe26553ce404d41c5ad1dac151d0a735cee7b8091",
+   "ko": " 『열쇠』를 한층 더 깊숙이 박아 넣었다."
+  },
+  {
+   "id": "da0205:T00054",
+   "source_sha256": "9ed7f127a389d931e5a1ade8dc1f3db26f4effdc56e16297f7bbf3f63d44dea6",
+   "ko": "몸을 뒤로 젖히고 머리칼을 흩뜨리며 고통의 비명을 지르는 알."
+  },
+  {
+   "id": "da0205:T00055",
+   "source_sha256": "b61369695588128bb8c7004dcb1411a57c2d8811e98d66707ab5b506c670c53e",
+   "ko": "「네 이녀어어어어어언!」"
+  },
+  {
+   "id": "da0205:T00056",
+   "source_sha256": "07094ba3a369c3d06438c277de48397eaf97f77c4b2783187921ef45a023c624",
+   "ko": "「아핫!　화났다 화났어♪」"
+  },
+  {
+   "id": "da0205:R00014",
+   "source_sha256": "2895ce20a7385bc2cc182870401439c7986e12de3e6b4a814eefe718fb782e64",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0205:T00057",
+   "source_sha256": "0f55c1b29730d09eae296e101a12467fa6fb8c9c44d1f69a49f9df47be9fee35",
+   "ko": "비웃"
+  },
+  {
+   "id": "da0205:T00058",
+   "source_sha256": "1b71a955cd260c61b2e5bc47ef0e157797f8c7a8fd35fc905c180a33598c2027",
+   "ko": "으며, 붉은 소녀는 알을 안은 채 후방으로 도약."
+  },
+  {
+   "id": "da0205:T00059",
+   "source_sha256": "0cd2bd659038faa63339588a5381cbaf991c60ac5a190673464ae134627c2f0d",
+   "ko": "두 사람의 모습은 콕핏 내부로 사라졌다."
+  },
+  {
+   "id": "da0205:T00060",
+   "source_sha256": "b850217e73b82839307fb119b1f0a4aff9a63a94d67ba7b2306c65ed5db7f0d1",
+   "ko": "해치가 닫힌다."
+  },
+  {
+   "id": "da0205:T00061",
+   "source_sha256": "35dee728decce3061672713aedc6584d8d9af95d30aebfe040326f7aa47429c4",
+   "ko": "「네 이년!」"
+  },
+  {
+   "id": "da0205:T00062",
+   "source_sha256": "624608d19257348ac656b29f2ef908ff009eb9750ac8d530527e266a85f5e3d1",
+   "ko": "소년 또한 튕겨 나가듯 후방으로 도약."
+  },
+  {
+   "id": "da0205:T00063",
+   "source_sha256": "3b35431e38332d2f2a3ced88ef95b7c9aa5601c5bd2b27a9c99e382ce2214d2c",
+   "ko": "콕핏 안으로 뛰어들었다."
+  },
+  {
+   "id": "da0205:T00064",
+   "source_sha256": "b850217e73b82839307fb119b1f0a4aff9a63a94d67ba7b2306c65ed5db7f0d1",
+   "ko": "해치가 닫힌다."
+  },
+  {
+   "id": "da0205:T00065",
+   "source_sha256": "d256d1ae1b65e1dc237b19ce7a5682e06d04f52f298e3a7fa128509c35a45802",
+   "ko": "2대의 데몬베인이 동시에 움직이기 시작한다."
+  },
+  {
+   "id": "da0205:T00066",
+   "source_sha256": "3297289a7d15e549046fa3699a8592964b1681bbd314d8bac8c835d71f605891",
+   "ko": "붉은 소녀가 탄, 피로 물든 데몬베인."
+  },
+  {
+   "id": "da0205:T00067",
+   "source_sha256": "96b568e8d563bf174048a516564daef8630662af8e917e8b136cee07cbbe150c",
+   "ko": "주먹을 굳게 쥐고 자세를 잡는다."
+  },
+  {
+   "id": "da0205:T00068",
+   "source_sha256": "855a01066f07f1574887c7b97f8003715ea2bda0b67d38b9216a6cd538b7e345",
+   "ko": "전신을 고속으로 달리는 술식."
+  },
+  {
+   "id": "da0205:T00069",
+   "source_sha256": "1488af89e076fbf8f0359ef2548ff29056e33e89117daf9b7032287ec65c23f3",
+   "ko": "기체가 적열하며 붉은 기체를 한층 더 붉게 빛낸다."
+  },
+  {
+   "id": "da0205:T00070",
+   "source_sha256": "9d1877a3816755f11fb69bcee994c8e37bdff13ce6b6288c9496fb6ea85691be",
+   "ko": "장갑을 적신 피가 증발하여 피안개가 되어 뿜어져 나온다."
+  },
+  {
+   "id": "da0205:R00015",
+   "source_sha256": "06ccdf06d7529eb8ab462d5628f9b0cdd5d3cee7ca2b1522ef47f21fdd8f14d2",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0205:T00071",
+   "source_sha256": "1efbe008f21e7be0d14389cb293e2390aa1041ad542efcf3c5ffb99795490f49",
+   "ko": "타오르"
+  },
+  {
+   "id": "da0205:T00072",
+   "source_sha256": "0c1a2d16b13bfd86982fc274e66f01d0c6ec97536bd86cd2926590c211671a59",
+   "ko": "는 피바람을 두른, "
+  },
+  {
+   "id": "da0205:R00016",
+   "source_sha256": "47aad8605b6093ce60059491d9e57247a1306bb643829e238491c09e5ef760f2",
+   "ko": "데몬베인 블러드",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0205:T00073",
+   "source_sha256": "32628d9b1ddf072471c31be7b1a3caeaa4846f691e5d90dbaa56039f61c14327",
+   "ko": "선혈의 기신"
+  },
+  {
+   "id": "da0205:T00074",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  },
+  {
+   "id": "da0205:T00075",
+   "source_sha256": "961a58a4d6398404b024ccb0d8c09b323ddf4c43e1a562405d88cbea03949a7e",
+   "ko": "그에 맞서는 것은 소년이 탄, "
+  },
+  {
+   "id": "da0205:R00017",
+   "source_sha256": "572a6a52e9a6e8ae7e47849da19b36d05c97bf2b072078e01a9add4358604cd3",
+   "ko": "타입",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0205:T00076",
+   "source_sha256": "850e16d958cea72a95707148f5dc4ad7e984134f35b4c9ac7289facfeeca78ba",
+   "ko": "형"
+  },
+  {
+   "id": "da0205:T00077",
+   "source_sha256": "8448b52e09783bdeeff24c1935c3fa3a2baa18907a5e0ecffe920cf5998f1d25",
+   "ko": "이 다른 데몬베인."
+  },
+  {
+   "id": "da0205:T00078",
+   "source_sha256": "8786db057228f74b87f2ba05ab12c5d86f41a5e103f9cbb51274be19db370bb7",
+   "ko": "양팔을 교차시켜 전방으로 내민다."
+  },
+  {
+   "id": "da0205:T00079",
+   "source_sha256": "05e00b0728525a91a3636fa17643bc2d48ffa696d7d8c426179594b0356982f1",
+   "ko": "「――휘몰아쳐라」"
+  },
+  {
+   "id": "da0205:T00080",
+   "source_sha256": "eef990fa2acf0e324bc12a655982301a4df85a12051cdfbbb61a397de84caed6",
+   "ko": "강대한 마력의 기척."
+  },
+  {
+   "id": "da0205:T00081",
+   "source_sha256": "b04b49204f4cff883f74dd3273ea3157325af6a3909626b5cf1232eba621a7b5",
+   "ko": "데몬베인의 양 손바닥에서 마술문자가 흘러넘쳐 문자열을 만들고, 문자열은 사납게 날뛰는 회오리가 되어 허공에 머문다."
+  },
+  {
+   "id": "da0205:T00082",
+   "source_sha256": "b6e721477e70b7496df5e1678caa023318145da4a2b9effd99ed0a38447d1b69",
+   "ko": "술식의 폭풍은 서서히 압축되고, 응축되어, 실체를 맺는다."
+  },
+  {
+   "id": "da0205:T00083",
+   "source_sha256": "48e81801da6d070c74dc361a1ef0eaafdd11a636f557e528c20ab841ae9198c2",
+   "ko": "「――"
+  },
+  {
+   "id": "da0205:R00018",
+   "source_sha256": "2b826478f59c2fee27b95e2947c15a7596908f21671c84c287eaf3dfdfa9128b",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0205:T00084",
+   "source_sha256": "0a02e0d09dc74cad30d832a411825bc5fbf4b5af04baf6aff8cee8af35cb38dd",
+   "ko": "모습을 드러내라"
+  },
+  {
+   "id": "da0205:T00085",
+   "source_sha256": "95949d6dd1e07a79a22ffcdb3ef415eade5bd2f8b0811d1a878c17b7828aa97f",
+   "ko": ", "
+  },
+  {
+   "id": "da0205:R00019",
+   "source_sha256": "4c6ff2461396974940d832f3f0ce2a7624668028f9bff88ca807b1e9da44a407",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0205:T00086",
+   "source_sha256": "4d5f7e15c8a569bfc0f1f798cdde3be85e58e795ca3b4843bd95a02b4022ef6b",
+   "ko": "나오"
+  },
+  {
+   "id": "da0205:T00087",
+   "source_sha256": "609cb062393dfc2969254d336d64f28962e25e8e27fabe5eba81533ece5493b2",
+   "ko": "너라」"
+  },
+  {
+   "id": "da0205:T00088",
+   "source_sha256": "39bb9a5407a55fcdf0f3c931b612d80935e0b36d0f15eff0eb33b9d46f6db417",
+   "ko": "부서져 흩어지는 주력의 회오리."
+  },
+  {
+   "id": "da0205:T00089",
+   "source_sha256": "0badb80cc2daf1d9c69920b5dd766636b5d355b7db00d579a87dc7eef9811e37",
+   "ko": "거대한 물질이 "
+  },
+  {
+   "id": "da0205:R00020",
+   "source_sha256": "0a6913a2dc8ae0332b8f52c2af2b8ba393de9f3eadf414b31c14b16eeb20a45e",
+   "ko": "머티리얼라이즈",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0205:T00090",
+   "source_sha256": "6c4ff6b90b58f8384c2f1659ef50a8abd39c4a477a339d3c66198d3a9ee54b27",
+   "ko": "현현화"
+  },
+  {
+   "id": "da0205:T00091",
+   "source_sha256": "6589af7588841d5f32035f7b53754e4995611e56e4de5322f0f106cd55bbd6f2",
+   "ko": "했다."
+  },
+  {
+   "id": "da0205:T00092",
+   "source_sha256": "7fccec592914b4a4cb26f99298b384955fb9bd02adf7215ef8c8e03a136d2b10",
+   "ko": "그것은 금속의 광택을 띤 한 쌍의 마검――"
+  },
+  {
+   "id": "da0205:T00093",
+   "source_sha256": "7484f8d59acb77d9f1f074f090db3fac088f3db02d6c3ad5cd5293059f1b2ac7",
+   "ko": "「로이거와 차르!?」\n\n　차르."
+  },
+  {
+   "id": "da0205:T00094",
+   "source_sha256": "ca751d58cf0e00a8497f6c53c4f1b69db483ad6b6efa91a9e570d9fd9f406d2a",
+   "ko": " 로이거."
+  },
+  {
+   "id": "da0205:T00095",
+   "source_sha256": "ecacab25be09abcc009cea3761d4c9b2000f7c0d0031d618f9648cbc2869f766",
+   "ko": "옛 지배자의 두 신."
+  },
+  {
+   "id": "da0205:T00096",
+   "source_sha256": "54e6b4ea910817af377c0a19a7d604d734ec539017e930350aa9860d083b99a8",
+   "ko": "『쌍둥이 외설스러운 자』라는 이름을 단 형제신이다.\n\n　저 한 쌍의 소검은 내가 가진 두 자루의 마총 크투가와 이타콰와 마찬가지로, 신의 마력을 품은 주법병장인 것이다."
+  },
+  {
+   "id": "da0205:T00097",
+   "source_sha256": "813fff3741e1d87d6fb4f7474b190c45bf4fbe99b95f2c5fafd6402064d4cc0c",
+   "ko": "현현한 마검을 양 손바닥에 쥐고 자세를 잡는다."
+  },
+  {
+   "id": "da0205:T00098",
+   "source_sha256": "2453e6fe2011d37c03581c8fcba14721b071cd2649905740833475d88c50f489",
+   "ko": "이도류."
+  },
+  {
+   "id": "da0205:R00021",
+   "source_sha256": "f00c1d1f47d7323ed91939e1abeee412adff61a2ec29c1c719733d4ec51e1d07",
+   "ko": "데몬베인 투 소드다",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0205:T00099",
+   "source_sha256": "7af07de4f5f62b8094b9da62bb16a8fc18244fcc1fbaecde9bea43b9d727843a",
+   "ko": "이도류의 기신이다"
+  },
+  {
+   "id": "da0205:T00100",
+   "source_sha256": "8919a55f592c9838df42e08533efb9859448a922d06b109ad6541812a986a7c0",
+   "ko": "."
+  },
+  {
+   "id": "da0205:T00101",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0205:R00022",
+   "source_sha256": "e4dcbc30fae2728615a53838877153ac8914a279301608730504f7d714101f8e",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0205:T00102",
+   "source_sha256": "739b2e660758a0a12b4673287ff38e96c7797e0309f43f6f3a15d33db327a34e",
+   "ko": "간"
+  },
+  {
+   "id": "da0205:T00103",
+   "source_sha256": "cc1d7a5e8796debc9a073f49dc463b97d6e3783377e0738ba8a5f65db546f5c0",
+   "ko": "다!」"
+  },
+  {
+   "id": "da0205:T00104",
+   "source_sha256": "4a761c307e5a7488cd8b955fd4aee3cc5e46aba9b52077512e574052dadd03c7",
+   "ko": "「놀아 줄게, 돈키호테!」"
+  },
+  {
+   "id": "da0205:R00023",
+   "source_sha256": "762685c5877de1fec650d01e149b43d31d927091f0cdfc863f7a42fdaa190594",
+   "ko": "투 소드",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0205:T00105",
+   "source_sha256": "6d535202d32daeac3c59595f60bdc6e7a35fdc0a6b9339992dbba6d4cc8baffd",
+   "ko": "이도류"
+  },
+  {
+   "id": "da0205:T00106",
+   "source_sha256": "a462260bbe4958c472e72ae6f6e92fd50821544299456aa29927d68596e1305d",
+   "ko": "가 달려 나간다."
+  },
+  {
+   "id": "da0205:R00024",
+   "source_sha256": "fcd73a3b569a6ba47a4e3b1161c9396aee39dc9003090ea01bcc831cacff6b92",
+   "ko": "블러드",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0205:T00107",
+   "source_sha256": "81ece475c6ca76c4a4b088aad24f5ea537482205e1e900244cfcf778c1dd75a0",
+   "ko": "피로 물든 기체"
+  },
+  {
+   "id": "da0205:T00108",
+   "source_sha256": "0f75ce23d04d5ad17d6f98052a91525cf92b881da46e2420b23e7c78148d1fd3",
+   "ko": "가 맞아 친다.\n\n　데몬베인 vs 데몬베인."
+  },
+  {
+   "id": "da0205:T00109",
+   "source_sha256": "3d214007aa1d8d9674c453532896f001c87a7dc8b9b9b851ff4aeb517af1b086",
+   "ko": "상상조차 하지 못했던, 악몽 같은 싸움이 시작되었다――!"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0205:R00001",
+   "kind": "omit_redundant",
+   "note": "한국어 '핏빛'으로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0205:R00007",
+   "kind": "omit_redundant",
+   "note": "한국어 '바쳤노라'로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0205:R00008",
+   "kind": "omit_redundant",
+   "note": "한국어 '너무한'으로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0205:R00009",
+   "kind": "omit_redundant",
+   "note": "한국어 '그렇다'로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0205:R00010",
+   "kind": "omit_redundant",
+   "note": "한국어 고유명사 '쿠자쿠'로 표기하므로 일본어 독음 루비 생략"
+  },
+  {
+   "id": "da0205:R00012",
+   "kind": "omit_redundant",
+   "note": "한국어 동사 '휘저으며'로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0205:R00013",
+   "kind": "omit_redundant",
+   "note": "한국어 '핏빛'으로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0205:R00014",
+   "kind": "omit_redundant",
+   "note": "한국어 '비웃으며'로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0205:R00015",
+   "kind": "omit_redundant",
+   "note": "한국어 '타오르는'으로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0205:R00018",
+   "kind": "omit_redundant",
+   "note": "한국어 '드러나'로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0205:R00019",
+   "kind": "omit_redundant",
+   "note": "한국어 '나타나라'로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0205:R00022",
+   "kind": "omit_redundant",
+   "note": "한국어 '간다'로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  }
+ ]
+}

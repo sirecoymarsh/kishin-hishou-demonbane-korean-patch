@@ -1,0 +1,733 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0021_da0117",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0117:T00001",
+   "source_sha256": "08901ad6c88fb419efe87b3b2a35959029cb8617914b4e8c08dfc62c3c0b581d",
+   "ko": "아침."
+  },
+  {
+   "id": "da0117:T00002",
+   "source_sha256": "18a9d6c136b5fc95cd49c7643f2ee33f2aaab148aaaa0063982442e695a5b93e",
+   "ko": "평소와 다름없는 일상."
+  },
+  {
+   "id": "da0117:T00003",
+   "source_sha256": "03b4e9e772c76be61f857b12aabf008e8a75012042b3553f82276e3f814c182f",
+   "ko": "지금은 아직."
+  },
+  {
+   "id": "da0117:T00004",
+   "source_sha256": "d66bff3a7169dfe7909f3381387232c8126bb2859b7f3ef8f48a77bf89bbac53",
+   "ko": "「쿠…… 후아아아아~~~~」"
+  },
+  {
+   "id": "da0117:T00005",
+   "source_sha256": "06c25780e8b2f1df2f098fab88d7c8980ea6fa26b743a037c5d65fdce111e2a0",
+   "ko": "「언제까지고 잠에 취해 있지 마라, 멍청한 놈」"
+  },
+  {
+   "id": "da0117:T00006",
+   "source_sha256": "745e1d9b960e4cfbcdb93bf3ad19ce60b78eacfe85348deeac61a07a5e262b9d",
+   "ko": "「어제 피로가 남아 있단 말이야…… 진짜 졸려……」"
+  },
+  {
+   "id": "da0117:T00007",
+   "source_sha256": "098e59b445b9b83a80a101f1d5e339210e0efa9c68ba7d660681d3a56a4bf1ba",
+   "ko": "「커피라도 벌컥벌컥 마시거라.\n　단, 블랙으로」"
+  },
+  {
+   "id": "da0117:T00008",
+   "source_sha256": "6502e0a20fe0591424726b7c691cf9710c592217a167c9a099437a87fca068be",
+   "ko": "「테케리・리」"
+  },
+  {
+   "id": "da0117:T00009",
+   "source_sha256": "fb7cb06da6336cb1f168f3d0e47fb52246805d487baa48cad33007d0cb21b083",
+   "ko": "「아~…… 땡큐, 던세이니…… 앗 뜨거」"
+  },
+  {
+   "id": "da0117:T00010",
+   "source_sha256": "08901ad6c88fb419efe87b3b2a35959029cb8617914b4e8c08dfc62c3c0b581d",
+   "ko": "아침."
+  },
+  {
+   "id": "da0117:T00011",
+   "source_sha256": "18a9d6c136b5fc95cd49c7643f2ee33f2aaab148aaaa0063982442e695a5b93e",
+   "ko": "평소와 다름없는 일상."
+  },
+  {
+   "id": "da0117:T00012",
+   "source_sha256": "03b4e9e772c76be61f857b12aabf008e8a75012042b3553f82276e3f814c182f",
+   "ko": "지금은 아직."
+  },
+  {
+   "id": "da0117:T00013",
+   "source_sha256": "2a2b740153aed99fa3990c3ea29114a42ae66584aa598bbec60f8a0f9053feb0",
+   "ko": "「좋은 아침이야, 얘들아~.\n　아침밥 다 됐단다~"
+  },
+  {
+   "id": "da0117:T00014",
+   "source_sha256": "d93a835d0f2787bcb1a759ad3a1b8fbea56d742d0b99720dbbb9ea8ace1926f8",
+   "ko": "」"
+  },
+  {
+   "id": "da0117:T00015",
+   "source_sha256": "9f85604634e6e6d560d83d998800d9a6f9948aa53822743bce0792c899b019ab",
+   "ko": "「하아아아……」"
+  },
+  {
+   "id": "da0117:T00016",
+   "source_sha256": "e0a69ae9edc8b6290a09a7aa8baea14efe6ee352d9f64dc672d45a87fe707786",
+   "ko": "「으…… 으으응」"
+  },
+  {
+   "id": "da0117:T00017",
+   "source_sha256": "f4415cc27e274a9d4b193b427c7f7068a8d9b25d4623bb6b1dadec0da3cf3cc6",
+   "ko": "「자자, 얼른 세수하고 오렴」"
+  },
+  {
+   "id": "da0117:T00018",
+   "source_sha256": "f63e338a9fae446f20ae3d105f2318d7c4d921eff8749a1d9931f4bd94dd5f65",
+   "ko": "「…………」"
+  },
+  {
+   "id": "da0117:T00019",
+   "source_sha256": "c7dbb3270b0cece7f1b4e034327d8a3b2f9dc69b33e8a2712bfb3994c7ba6c58",
+   "ko": "「앨리슨?\n　기운이 없네…… 괜찮니?」"
+  },
+  {
+   "id": "da0117:T00020",
+   "source_sha256": "1f99f57e3b26203deadc196b24fae346541fe219638ff5c99597b606c8c1d4a5",
+   "ko": "「아…… 으응…… 괜찮아.\n　잠깐 생각 좀 하느라구」"
+  },
+  {
+   "id": "da0117:T00021",
+   "source_sha256": "b34faf1111b5745e5d4433b0c9d963d38a05378616d88e3307e664b022e5308b",
+   "ko": "「?」"
+  },
+  {
+   "id": "da0117:T00022",
+   "source_sha256": "f7e24c7882fe01dcf5842d01f193b52219db855ff8234935881c360eac39cf0e",
+   "ko": "「어제 그 남자애……」"
+  },
+  {
+   "id": "da0117:T00023",
+   "source_sha256": "50028caed3a8d6a35b54b18a36f69012706a9a9a5b74071c8acd52837840b373",
+   "ko": "「……구해 준 아이 말이지?」"
+  },
+  {
+   "id": "da0117:T00024",
+   "source_sha256": "0aca81ccfcc232a7ba754ef4c12a5eccbd36f440e11185fbb4da60ea0f36aca1",
+   "ko": "「응. 그 오빠 말이야……\n　누군가랑 닮은 기분이 들어」"
+  },
+  {
+   "id": "da0117:T00025",
+   "source_sha256": "f5e619fa5214a069a49db7fa09413f2bf8d2827d5ee9eccc6757c20284933945",
+   "ko": "「――여기는 25번 구획.\n　이상한 "
+  },
+  {
+   "id": "da0117:R00001",
+   "source_sha256": "09fa673682a266196a91d31d5ed99736a1c7d85c250226fb9c9ec5b7006a27ba",
+   "ko": "아자토스",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0117:T00026",
+   "source_sha256": "5e7930e1744f03b9e3bc03391b9568c30347421f4c5cb7f73d17119a9e29ab74",
+   "ko": "자도자"
+  },
+  {
+   "id": "da0117:T00027",
+   "source_sha256": "16107a18f65295b9f08e0b7f8bf460fb322bb4748f8be2c6fc0ee161e80c184e",
+   "ko": " 진동은 감지되지 않음」"
+  },
+  {
+   "id": "da0117:T00028",
+   "source_sha256": "332c2575766fbad9afd519d142b31ceb437cacbe7be8a55670bc29e5c58ac082",
+   "ko": "「여기는 행맨 힐.\n　오늘의 "
+  },
+  {
+   "id": "da0117:R00002",
+   "source_sha256": "535a5adb545cbcf714c2096aab84244f0a446906f0c955791b7752b3f61f253a",
+   "ko": "위어드",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0117:T00029",
+   "source_sha256": "a83337288e64bf3ae49901b7ae64cd867ce8cd914acdb8e4fbc81f19621b26c2",
+   "ko": "괴기"
+  },
+  {
+   "id": "da0117:T00030",
+   "source_sha256": "333edb2e3de21407912780af96c685be464bba585fa56b57022ac73c6b791e66",
+   "ko": " 지수 1870. 좋은 요기입니다」"
+  },
+  {
+   "id": "da0117:T00031",
+   "source_sha256": "51f2d94227bf204fb9c7171ab2f402443e71cd881b70188c0908d385db94b94c",
+   "ko": "「뉴욕의 18배, 런던의 3배 정도인가. 너무 평온해서 도리어 마음에 안 드는군…… 계속해서 조사를 이어가 주게」"
+  },
+  {
+   "id": "da0117:T00032",
+   "source_sha256": "08901ad6c88fb419efe87b3b2a35959029cb8617914b4e8c08dfc62c3c0b581d",
+   "ko": "아침."
+  },
+  {
+   "id": "da0117:T00033",
+   "source_sha256": "3550d4bc8af86bee0e3578f0cf5ce44561add17845cbf9c5ec1deab6b3d257fb",
+   "ko": "이미 미스캐토닉 대학 특수자료실은\n　움직이고 있다.\n\n　\n　하지만 아컴 시티의 일상에 변화는 없다."
+  },
+  {
+   "id": "da0117:T00034",
+   "source_sha256": "03b4e9e772c76be61f857b12aabf008e8a75012042b3553f82276e3f814c182f",
+   "ko": "지금은 아직."
+  },
+  {
+   "id": "da0117:T00035",
+   "source_sha256": "02f0c92bac91833feb7db61fd77aa3aecad4e3480f5eb1ec467f4c0b8c0fb9d7",
+   "ko": "낮."
+  },
+  {
+   "id": "da0117:T00036",
+   "source_sha256": "18a9d6c136b5fc95cd49c7643f2ee33f2aaab148aaaa0063982442e695a5b93e",
+   "ko": "평소와 다름없는 일상."
+  },
+  {
+   "id": "da0117:T00037",
+   "source_sha256": "03b4e9e772c76be61f857b12aabf008e8a75012042b3553f82276e3f814c182f",
+   "ko": "지금은 아직."
+  },
+  {
+   "id": "da0117:T00038",
+   "source_sha256": "decd046a25463d5f511d7bd41cebf211a54ea224d059eaefb182ff72f0fe99e3",
+   "ko": "「다우징에 반응 없음…… 이라.\n　평화롭구만」"
+  },
+  {
+   "id": "da0117:T00039",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0117:R00003",
+   "source_sha256": "9b6faef0a7526f4e0f3243e32eaa53d74617bd6f4aa4bf3d6623f614dfe57c71",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0117:T00040",
+   "source_sha256": "da153c5b45c51170cf10202a3e09c42e819bf9ca648494725d3b3ba2fd7e7b56",
+   "ko": "오히려"
+  },
+  {
+   "id": "da0117:T00041",
+   "source_sha256": "4fa014176bc934b5baa88e04cefe2eb098eeb3d5e8669884e64b1635c99e1da9",
+   "ko": " 마음에 안 든다」"
+  },
+  {
+   "id": "da0117:T00042",
+   "source_sha256": "99e8e02f8a7a19a3c0b62c99068861350ee8192975ac9492700b07a71452f364",
+   "ko": "「폭풍 전야……라는 건가?」"
+  },
+  {
+   "id": "da0117:T00043",
+   "source_sha256": "876ac859521ebac48fcf49783b4ad85cd7fb073b0e8630ce5aa0964498ddaa29",
+   "ko": "「결코 긴장을 늦추지 마라」"
+  },
+  {
+   "id": "da0117:T00044",
+   "source_sha256": "7c54ded501408509257f0fcc02f71ffcd7b3d933a5b8d7053a29e012e0623be1",
+   "ko": "「안 늦춰. "
+  },
+  {
+   "id": "da0117:R00004",
+   "source_sha256": "73ac229cabfac277c315b4b0d1eb76959473af07f58c11d00bb82a06b250745a",
+   "ko": "데우스 마키나",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0117:T00045",
+   "source_sha256": "762524a979d84688362b8dc00d54c75a1be10d7917ed188fd55985924c885e49",
+   "ko": "귀계신"
+  },
+  {
+   "id": "da0117:T00046",
+   "source_sha256": "d271b84add57bbb940185ee75bf5b63a869595099cb602624cab8d42d0803e6e",
+   "ko": "까지 행차하고 있으니까.\n　초특급으로 "
+  },
+  {
+   "id": "da0117:R00005",
+   "source_sha256": "7b49db24ef11d20a657a6509179b7f367665ca6ed33f563094d75a2eb631ef9a",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0117:T00047",
+   "source_sha256": "b70f3a3556cb1d50ed114ba00c744eebf7daa283e3d7830f18563dd3610d4847",
+   "ko": "위험"
+  },
+  {
+   "id": "da0117:T00048",
+   "source_sha256": "4c6ff2461396974940d832f3f0ce2a7624668028f9bff88ca807b1e9da44a407",
+   "ko": "한 "
+  },
+  {
+   "id": "da0117:R00006",
+   "source_sha256": "ca886c79cb7dae03c129fb313b0d552a965cbcb4b85a669b27e1817234b69b5f",
+   "ko": "건수가",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0117:T00049",
+   "source_sha256": "c560201b331c54435b445baebe03b8922d6ef6a80065411ed3f379eb8bef9848",
+   "ko": "사건이"
+  },
+  {
+   "id": "da0117:T00050",
+   "source_sha256": "a3074a447d77b3f60f5c577adfa41b16507aedbc665de1f5a94597d82e337060",
+   "ko": " 되어 버렸어」"
+  },
+  {
+   "id": "da0117:T00051",
+   "source_sha256": "b45feb0d88365d1502c3cc84e7bbd07f1a80ae00aaf80c20bc81754f541f006f",
+   "ko": "「……그래」"
+  },
+  {
+   "id": "da0117:T00052",
+   "source_sha256": "c77c9f6fca6d15bee57565693d52b28f885d0c39b44ee0677045d5f44acf1942",
+   "ko": "「이럴 때 "
+  },
+  {
+   "id": "da0117:R00007",
+   "source_sha256": "fe65050b6cf95368d85f30fd366c092a15824886d51defd754887d1e968f7491",
+   "ko": "・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0117:T00053",
+   "source_sha256": "48ed6a9a4ad1844830f7e3cc812badcb615c93f2348aa9054132e759814b10ab",
+   "ko": "그 녀석"
+  },
+  {
+   "id": "da0117:T00054",
+   "source_sha256": "55f4d993cf82e56b1e0e3f3c9071791e6412960fb73f62125e7b64557c557558",
+   "ko": "이 있었으면 좋았을 텐데……」"
+  },
+  {
+   "id": "da0117:T00055",
+   "source_sha256": "efd49edb06a17930e66a5cbe08c40a3f1bf9725c017acb9b69907f51a3e38b6e",
+   "ko": "「말하지 마라. "
+  },
+  {
+   "id": "da0117:R00008",
+   "source_sha256": "b3240903b6495213199662445c04d0df4b438f83cc1cb21bb961409692e6371a",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0117:T00056",
+   "source_sha256": "1df0f52452060e9b83b9cf41cb502beda2e3e5ab2264599c6f6ed417f3fcfe7e",
+   "ko": "그 녀석"
+  },
+  {
+   "id": "da0117:T00057",
+   "source_sha256": "5141d55ddc1cd28503926bba57c4668b2060f0badfebeeab276343452a03b9a2",
+   "ko": "은 이제 움직이지 않는다.\n　그 싸움에서 전력을 다 써버렸으니까」"
+  },
+  {
+   "id": "da0117:T00058",
+   "source_sha256": "f271763e1551544596cdccf2477a2fddeb1c5f61c1c44f13825663a0565f2fc8",
+   "ko": "「아아…… 우리가 정신 바짝 차려야지」"
+  },
+  {
+   "id": "da0117:T00059",
+   "source_sha256": "02f0c92bac91833feb7db61fd77aa3aecad4e3480f5eb1ec467f4c0b8c0fb9d7",
+   "ko": "낮."
+  },
+  {
+   "id": "da0117:T00060",
+   "source_sha256": "18a9d6c136b5fc95cd49c7643f2ee33f2aaab148aaaa0063982442e695a5b93e",
+   "ko": "평소와 다름없는 일상."
+  },
+  {
+   "id": "da0117:T00061",
+   "source_sha256": "03b4e9e772c76be61f857b12aabf008e8a75012042b3553f82276e3f814c182f",
+   "ko": "지금은 아직."
+  },
+  {
+   "id": "da0117:T00062",
+   "source_sha256": "5257d55db13c6b74a47eace0fe3d79e5bbd1ecb505e15804fba346b5ae00b06c",
+   "ko": "「이봐아~!　세탁물 근처에서 놀지 마!」"
+  },
+  {
+   "id": "da0117:T00063",
+   "source_sha256": "00d0354a90be7da9ec9b4690453a481da9982396ecd43904416185629376c52b",
+   "ko": "「죄송해요~」"
+  },
+  {
+   "id": "da0117:T00064",
+   "source_sha256": "625fa6c56cc6536b291cb66cd656f8239eca7c4bc333a9934a39f5f4cbbcf145",
+   "ko": "「아하하핫」"
+  },
+  {
+   "id": "da0117:T00065",
+   "source_sha256": "675eb42ea893d7e8f81d26e7a5070ee37bf5ddf11b5700c77ac95a3a4509e32b",
+   "ko": "「……참 나. 그런 큰일을 겪었는데도\n　……터프한 애들이라니까」"
+  },
+  {
+   "id": "da0117:T00066",
+   "source_sha256": "02f0c92bac91833feb7db61fd77aa3aecad4e3480f5eb1ec467f4c0b8c0fb9d7",
+   "ko": "낮."
+  },
+  {
+   "id": "da0117:T00067",
+   "source_sha256": "18a9d6c136b5fc95cd49c7643f2ee33f2aaab148aaaa0063982442e695a5b93e",
+   "ko": "평소와 다름없는 일상."
+  },
+  {
+   "id": "da0117:T00068",
+   "source_sha256": "03b4e9e772c76be61f857b12aabf008e8a75012042b3553f82276e3f814c182f",
+   "ko": "지금은 아직."
+  },
+  {
+   "id": "da0117:T00069",
+   "source_sha256": "8984c63da187ea0b714ed8cc4be26cf3342211405d33799196bf7930a88ba3ae",
+   "ko": "「……서류, 서류, 서류!\n　사인, 사인, 사인!\n　저는 사인 전용 기――"
+  },
+  {
+   "id": "da0117:T00070",
+   "source_sha256": "d93a835d0f2787bcb1a759ad3a1b8fbea56d742d0b99720dbbb9ea8ace1926f8",
+   "ko": "」"
+  },
+  {
+   "id": "da0117:T00071",
+   "source_sha256": "d34459fb6d0b589cda84ab46f3b85333e3d19f6098131f773fdd95f3faa763e0",
+   "ko": "「실례합니다."
+  },
+  {
+   "id": "da0117:T00072",
+   "source_sha256": "45878330d462a479298adc5f84a2e1d09b4b09cd72ec6a5872a9b4b06575e993",
+   "ko": "보고서가 도착해 있으니\n　확인해 주십시오」"
+  },
+  {
+   "id": "da0117:T00073",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0117:R00009",
+   "source_sha256": "4ff149c09f2405560f933771b1c4df68ca453162eb4e7c0817b3f430e69a8fa0",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0117:T00074",
+   "source_sha256": "c946bc133187a893165cf1484f337063532e76757b4e4fa0312659c49d2ba9ed",
+   "ko": "실례"
+  },
+  {
+   "id": "da0117:T00075",
+   "source_sha256": "3962456f4e4f009d57d3bdb0d08611c174a50cf696f4c887690ca91507fa5321",
+   "ko": "합니더어~.\n아가씨요, 파괴된 지구의 복구에 관한 계획서가 와 있습니더~」"
+  },
+  {
+   "id": "da0117:T00076",
+   "source_sha256": "00087b3a5e2fa8a7dee6a6a94bd80d0a0b7bd2655df482eebe63efe91820ef7d",
+   "ko": "「――실례합니다. 서류입니다」"
+  },
+  {
+   "id": "da0117:T00077",
+   "source_sha256": "be705c7ce6092cc82188dbaa353507e9fde873f648f7759d9e8fb9964192bdff",
+   "ko": "「이하 생략임다아~~~앗」"
+  },
+  {
+   "id": "da0117:T00078",
+   "source_sha256": "28a67c997d31d7301f6b23275271b4846f05cf16b66fbbe33ccfbb428340db71",
+   "ko": "「키이이이이이이~~~~~~잇!」"
+  },
+  {
+   "id": "da0117:T00079",
+   "source_sha256": "02f0c92bac91833feb7db61fd77aa3aecad4e3480f5eb1ec467f4c0b8c0fb9d7",
+   "ko": "낮."
+  },
+  {
+   "id": "da0117:T00080",
+   "source_sha256": "18a9d6c136b5fc95cd49c7643f2ee33f2aaab148aaaa0063982442e695a5b93e",
+   "ko": "평소와 다름없는 일상."
+  },
+  {
+   "id": "da0117:T00081",
+   "source_sha256": "03b4e9e772c76be61f857b12aabf008e8a75012042b3553f82276e3f814c182f",
+   "ko": "지금은 아직."
+  },
+  {
+   "id": "da0117:T00082",
+   "source_sha256": "8b2fdd57d4d0ffbedcbd9c0efab89946a899f344568f98f0ecfbd45f414fc70c",
+   "ko": "「피의 괴이에 대해서 뭔가 알아냈나?」"
+  },
+  {
+   "id": "da0117:T00083",
+   "source_sha256": "c9fc77152941b8104d7b1fdf53d7d46ec3a1abc64dddbe6e5e9c98cd71552827",
+   "ko": "「……브램 스토커라면\n　뭔가 알고 있을까요?」"
+  },
+  {
+   "id": "da0117:T00084",
+   "source_sha256": "b83dcdf7370019c43942bc9411858d3fe7f82b3a21eb65487bcde09a79cead57",
+   "ko": "「『빈약한 "
+  },
+  {
+   "id": "da0117:R00010",
+   "source_sha256": "a602c2d1cb4c0c2952784634097b74aff4a1d5651eabe79dc423400202294354",
+   "ko": "테크닉",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0117:T00085",
+   "source_sha256": "7cc31f4fd0297eecaa6a53260091a4447db81f24d0c597d394b787e46aba0945",
+   "ko": "기술"
+  },
+  {
+   "id": "da0117:T00086",
+   "source_sha256": "09cca8dd047d0aab66f534e06006c6475c287ef1bb95773efb38794ae30ce004",
+   "ko": "이 슬플 정도로\n　효과를 해치고 있다』라든가?」"
+  },
+  {
+   "id": "da0117:T00087",
+   "source_sha256": "5609de3bec6c1fd8598f95a944757c8a742ecb71cc19c802fe2fb222f0cc9982",
+   "ko": "「가혹하군요. 노력해 볼까요」"
+  },
+  {
+   "id": "da0117:T00088",
+   "source_sha256": "1505379b49ae0bf4ac48a1955e904109785c92540e7749caf51a6a75d0f55334",
+   "ko": "「그래, 너무 늦지 않도록 말이지」"
+  },
+  {
+   "id": "da0117:T00089",
+   "source_sha256": "0e9804f96906bee0a5d45b3c03a85c5e46b28f72d8f945ae6bf63bf2f09398e0",
+   "ko": "해가 저문다."
+  },
+  {
+   "id": "da0117:T00090",
+   "source_sha256": "155b51717fc38b9eaf9ca00fecb552b830f6224cbb24edf507d9c19f19b732c9",
+   "ko": "아컴 시티의 하늘을 진홍빛으로 물들인다."
+  },
+  {
+   "id": "da0117:T00091",
+   "source_sha256": "cff60cab6c7598baad7f14c05637fe181a4e8bc2915ec103bbaa560580974956",
+   "ko": "평소와 다름없는 일상.\n\n　\n　\n　――지금은 아직."
+  },
+  {
+   "id": "da0117:T00092",
+   "source_sha256": "d7bdf08997f7c307e23bc41bd9940c9de386f86f9c4cf33ae6c957b3bb9a7bb1",
+   "ko": "「회견에 늦겠군요.\n　조금 속도를 내겠습니다」"
+  },
+  {
+   "id": "da0117:T00093",
+   "source_sha256": "a3938682cb5fce80a2f4b2b3a1ec0d158cffd85f92ae047b30d93452eacbf657",
+   "ko": "「맡길게」"
+  },
+  {
+   "id": "da0117:T00094",
+   "source_sha256": "f63e338a9fae446f20ae3d105f2318d7c4d921eff8749a1d9931f4bd94dd5f65",
+   "ko": "「…………」"
+  },
+  {
+   "id": "da0117:T00095",
+   "source_sha256": "fbad7e560d6420fe2a154f4cdbbc104f4eecf764b5543ef9825290ce8db210fb",
+   "ko": "「……하늘이 새빨갛네」"
+  },
+  {
+   "id": "da0117:T00096",
+   "source_sha256": "943c4ef8d6ab169ab619572148bd96b0428b3cd2884fe9752e860e6f94d7abe2",
+   "ko": "「최근 며칠간 날씨가 무척 맑았으니까요.\n　아름다운 저녁노을을 볼 수 있겠군요」"
+  },
+  {
+   "id": "da0117:T00097",
+   "source_sha256": "05ea4cbd200063f1758c29db8fd74e265f815699b819a745576759dfae5e353e",
+   "ko": "「……정말. 아름다운 진홍빛이네.\n　마치 피의 "
+  },
+  {
+   "id": "da0117:R00011",
+   "source_sha256": "33439ddb0f66823471fcc299d5d5f75aa20a1470e5cc0d7bb310dbe5b1609c6d",
+   "ko": "빛깔",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0117:T00098",
+   "source_sha256": "1f828276b921aa107500f6e9151332285e78eb3c2fd98302107a1970352e1742",
+   "ko": "채색"
+  },
+  {
+   "id": "da0117:T00099",
+   "source_sha256": "8c3f30bf3e1122997f78644cbecd86db8e951eb2f5c7a95c48e8117ff61724d6",
+   "ko": " 같아」"
+  },
+  {
+   "id": "da0117:T00100",
+   "source_sha256": "f63e338a9fae446f20ae3d105f2318d7c4d921eff8749a1d9931f4bd94dd5f65",
+   "ko": "「…………」"
+  },
+  {
+   "id": "da0117:T00101",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0117:R00012",
+   "source_sha256": "b15bd310f57bf6f7d7630e3322dfdd854c01cc4df3ae2b187a3b2ee466c86132",
+   "ko": "오마가토키라고",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0117:T00102",
+   "source_sha256": "b80e5a3020bc920ec23cc2a03c3b35e43b9115a4f53f30d67de02158f47bcc61",
+   "ko": "마물이 출몰하는 황혼이라고"
+  },
+  {
+   "id": "da0117:T00103",
+   "source_sha256": "56c21ecfbcbb8a44ae328df2547a82ddc7492f205763438fb739cc9bad00de99",
+   "ko": " 합니다.\n　이 아름다움은 마성을 품고 있는\n　것인지도 모릅니다」"
+  },
+  {
+   "id": "da0117:T00104",
+   "source_sha256": "48e81801da6d070c74dc361a1ef0eaafdd11a636f557e528c20ab841ae9198c2",
+   "ko": "「――"
+  },
+  {
+   "id": "da0117:T00105",
+   "source_sha256": "f8443d7f9f3217a096749fabe53e9c5f433fd1ac0de7f87827e93be95bb0a648",
+   "ko": "『마』」"
+  },
+  {
+   "id": "da0117:T00106",
+   "source_sha256": "0e9804f96906bee0a5d45b3c03a85c5e46b28f72d8f945ae6bf63bf2f09398e0",
+   "ko": "해가 저문다."
+  },
+  {
+   "id": "da0117:T00107",
+   "source_sha256": "155b51717fc38b9eaf9ca00fecb552b830f6224cbb24edf507d9c19f19b732c9",
+   "ko": "아컴 시티의 하늘을 진홍빛으로 물들인다."
+  },
+  {
+   "id": "da0117:T00108",
+   "source_sha256": "cff60cab6c7598baad7f14c05637fe181a4e8bc2915ec103bbaa560580974956",
+   "ko": "평소와 다름없는 일상.\n\n　\n　\n　――지금은 아직."
+  },
+  {
+   "id": "da0117:T00109",
+   "source_sha256": "ed1d09b421c01acffa11a2c528c4b1b32a4a12ecfb0bb5f9d3bfd5044f18fb76",
+   "ko": "「대디」"
+  },
+  {
+   "id": "da0117:T00110",
+   "source_sha256": "d545c67ff7b3392f6fca75b6b3314fe4c9f149098c006f1b2b2743110cb5e511",
+   "ko": "「왜 그러지, 레이디?」"
+  },
+  {
+   "id": "da0117:T00111",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0117:R00013",
+   "source_sha256": "de9b2724fa675d58e20ea50646167074286ddb545b77b0cf702a94f249bf46a5",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0117:T00112",
+   "source_sha256": "c5ed295c178af2c915305a9484d21140eeced947c22cbbedc8d550bc74d457f0",
+   "ko": "불길"
+  },
+  {
+   "id": "da0117:T00113",
+   "source_sha256": "4907ea85f12feeac00d09e432fd9f68d6b993fb7a84ad6ccac045315ef12e604",
+   "ko": "한 바람이 불어」"
+  },
+  {
+   "id": "da0117:T00114",
+   "source_sha256": "a97ef8c3794572596137d74bf25e205973c90864f931250a7519dcf8995f1715",
+   "ko": "「……그렇군. "
+  },
+  {
+   "id": "da0117:R00014",
+   "source_sha256": "de9b2724fa675d58e20ea50646167074286ddb545b77b0cf702a94f249bf46a5",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0117:T00115",
+   "source_sha256": "c5ed295c178af2c915305a9484d21140eeced947c22cbbedc8d550bc74d457f0",
+   "ko": "불길"
+  },
+  {
+   "id": "da0117:T00116",
+   "source_sha256": "c3bc744f355253c9724f38f22926bc8b281d6b222d248356ea092b37b1b7bcd2",
+   "ko": "한 바람이다」"
+  },
+  {
+   "id": "da0117:T00117",
+   "source_sha256": "257ee8fb1135e6e3f3066310965afbfe6142cbc9243e5581ebeb47dd5da04001",
+   "ko": "「――――」"
+  },
+  {
+   "id": "da0117:T00118",
+   "source_sha256": "2c3a855e5f69f26aebfdc0015914d46480b5ba0e8704341187fde42cb31ef97c",
+   "ko": "「――시작돼」"
+  },
+  {
+   "id": "da0117:T00119",
+   "source_sha256": "196aced64859b439c836330de10d0ffc1ded4f223889ee2a699a1cefd8ef8c9b",
+   "ko": "해가 진다."
+  },
+  {
+   "id": "da0117:T00120",
+   "source_sha256": "04ad1d7466900738630f6022ed55dab36a3d7aa71b9f8f0b6010fee9a149a119",
+   "ko": "밤이, 온다."
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0117:R00003",
+   "kind": "ruby_decision",
+   "note": "Omitted redundant phonetic reading かえ on 却."
+  },
+  {
+   "id": "da0117:R00005",
+   "kind": "ruby_decision",
+   "note": "Omitted redundant slang phonetic reading ヤク on 厄."
+  },
+  {
+   "id": "da0117:R00008",
+   "kind": "ruby_decision",
+   "note": "Omitted redundant phonetic reading きゃつ on 彼奴."
+  },
+  {
+   "id": "da0117:R00009",
+   "kind": "ruby_decision",
+   "note": "Omitted redundant colloquial phonetic reading しっつれい on 失礼."
+  },
+  {
+   "id": "da0117:R00013",
+   "kind": "ruby_decision",
+   "note": "Omitted redundant phonetic reading いや on 厭."
+  },
+  {
+   "id": "da0117:R00014",
+   "kind": "ruby_decision",
+   "note": "Omitted redundant phonetic reading いや on 厭."
+  },
+  {
+   "id": "da0117:T00033",
+   "kind": "glossary_candidate",
+   "note": "Pending glossary term ミスカトニック rendered as 미스캐토닉 per 용어집.tsv."
+  },
+  {
+   "id": "da0117:T00117",
+   "kind": "glossary_candidate",
+   "note": "Pending glossary term 九朔 (speaker) corresponds to 쿠자쿠 per 용어집.tsv."
+  }
+ ]
+}

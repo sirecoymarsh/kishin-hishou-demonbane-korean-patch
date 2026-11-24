@@ -1,0 +1,149 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0082_da0709",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0709:T00172",
+   "source_sha256": "5b472ffb33b19bb0ff5bd6dc533bd8f66839e434a53c02f8d57f6d0c44c0442f",
+   "ko": "「레이디! "
+  },
+  {
+   "id": "da0709:R00037",
+   "source_sha256": "87b6e0cb4f15af9b010ca15c26f86f520df8bc1836c5b5c569e4fdc5db37af08",
+   "ko": "모드: 에테르 라이더",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0709:T00173",
+   "source_sha256": "bc42a10b6cba8c551ac7dbbcb1ca404c79cbef699827165412fc01fa808d6770",
+   "ko": "전투기 형태"
+  },
+  {
+   "id": "da0709:T00174",
+   "source_sha256": "6560fad1b5299ec45c7562b1e825f123c87101dc289a1eb71426e443d34f4c8c",
+   "ko": "!」"
+  },
+  {
+   "id": "da0709:T00175",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0709:R00038",
+   "source_sha256": "d1dd121173a3c0de6570d7efaf84e778a0c907565ec82e220a91da62b92499e4",
+   "ko": "라저",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0709:T00176",
+   "source_sha256": "aecbe4cbd4449c9ad081a8fff7e0f76689275e88191a3718ac7bb94e1e8e59c6",
+   "ko": "알겠어"
+  },
+  {
+   "id": "da0709:T00177",
+   "source_sha256": "d844663b00b8cf81e1a1b6b1be186d1b03de4c2ab3de502d8597dafd2cd34f24",
+   "ko": ", 대디!」"
+  },
+  {
+   "id": "da0709:T00178",
+   "source_sha256": "357e47aa93cb687eb38f475dec9b6f93218ddabf3653e5b840f024aa6d8bc03b",
+   "ko": "「……좋아!」"
+  },
+  {
+   "id": "da0709:T00179",
+   "source_sha256": "1870e87a5354c4b4462e539c682dc2f75cc9deb705414d88de0bc54f212988f6",
+   "ko": "최고속을 자랑하는 암브로시우스가 "
+  },
+  {
+   "id": "da0709:R00039",
+   "source_sha256": "e1acc6ebfed9b707cdb9992f0b55cc0c3bc15156b97fac5f0c8570a043d4a524",
+   "ko": "길을",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0709:T00180",
+   "source_sha256": "bd6b98a7ac0277a624648bbe17fef3e4a324adc31051b61b587f7d77c71a9f10",
+   "ko": "혈로를"
+  },
+  {
+   "id": "da0709:T00181",
+   "source_sha256": "48f46750c3fe613127b492f91372b423c79c35328131486feca8252a4e0b18a3",
+   "ko": " 단숨에 날아오르고, 그 뒤를 데몬베인과 아이온이 따른다.\n\n　"
+  },
+  {
+   "id": "da0709:R00040",
+   "source_sha256": "67c0ca16ed1bdf6aca10ed2fe325ff0db87a6c84c132a1427ba6b34005824b0f",
+   "ko": "풀 스로틀",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0709:T00182",
+   "source_sha256": "b8b423b30252354361da7b679f358cd832c9497831bcfaefc022f5c73ad69f4f",
+   "ko": "전력 비상"
+  },
+  {
+   "id": "da0709:T00183",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  },
+  {
+   "id": "da0709:T00184",
+   "source_sha256": "b23befe72e948e2321383a6337847f940a5ce6dbff8c4ff69f686e92f90b5e1b",
+   "ko": "앞을 가로막으려는 파괴로보를 "
+  },
+  {
+   "id": "da0709:R00041",
+   "source_sha256": "67c30fa7da0a5bec37071f965ab255a0ff581c50942e4d8e6b4ed1e21914d044",
+   "ko": "러시",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0709:T00185",
+   "source_sha256": "906751b9e7490f6236a0d29c4e70678607c0d6f23c5785434191c754e2cefb97",
+   "ko": "돌진력"
+  },
+  {
+   "id": "da0709:T00186",
+   "source_sha256": "427566260604d16fb4a900e51400dd5dfac2ef749901179434735f0d0008d100",
+   "ko": "과 "
+  },
+  {
+   "id": "da0709:R00042",
+   "source_sha256": "8171b1b6236fd458e255d8155c32dbe79d5b5cacd5bc93ae639d3a5ffe8c190f",
+   "ko": "소닉 붐",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0709:T00187",
+   "source_sha256": "87a54eec60f031fe503c901b94f816eab7ea3211bdfbcf7d0e323809bb390b28",
+   "ko": "폭풍"
+  },
+  {
+   "id": "da0709:T00188",
+   "source_sha256": "3c074815099bd354bb365dac353bd1affa34caf4dc1eb355bc4eb5bdab5f901b",
+   "ko": "으로 찢어발기며,\n일직선으로 『몽환심모』를 향한다."
+  },
+  {
+   "id": "da0709:T00189",
+   "source_sha256": "f1f5a464f3029a2f4e7da8a05f83d761dfc303a4084709db2cc76710ef3092a1",
+   "ko": "돌입구는 방금 크투가에 의해 뚫렸다."
+  },
+  {
+   "id": "da0709:T00190",
+   "source_sha256": "ce9f81ec515cb0327194d5030cb72800c45c5ab39c69aaa3ac8b3a0a0964948c",
+   "ko": "「돌입이이이이이――――입!」"
+  },
+  {
+   "id": "da0709:T00191",
+   "source_sha256": "400eb07314147cb33d1b3df2c48c8a10dfc2edd7198085316dea7d322dfc1150",
+   "ko": "「――각 기, 『몽환심모』 내부로 돌입!」"
+  },
+  {
+   "id": "da0709:T00192",
+   "source_sha256": "b3e83d2ee4348136fc42ee919b287fce49d0ba2921bb7f98223a3c8f08979e41",
+   "ko": "「부탁해요…… 여러분!」"
+  }
+ ],
+ "issues": []
+}

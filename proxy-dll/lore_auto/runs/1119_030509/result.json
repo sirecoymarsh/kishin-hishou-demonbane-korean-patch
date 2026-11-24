@@ -1,0 +1,15 @@
+{
+ "game": "Y:\\AI\\claude-work\\khd-release-1118\\zipcheck\\A",
+ "want": 3,
+ "exited": true,
+ "moved_windows": [],
+ "native_log": [],
+ "ok": false,
+ "log": [
+  "03:05:10 put in Y:\\AI\\claude-work\\khd-release-1118\\zipcheck\\A: KHDLore.dll, ko-library/library.js, ko-library/books/시험 책 1.epub",
+  "03:05:11 game window 0x1532024 pid 77900",
+  "03:05:35 no settings dialog after PRESS START",
+  "03:06:05 LORE open: False",
+  "03:06:12 autobattle.ini restored"
+ ]
+}

@@ -1,0 +1,403 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0023_da0119",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0119:T00001",
+   "source_sha256": "63b2f84df92ca58da17629b437730e3bba0633916ad0d3a0ed0051851c9f6aaf",
+   "ko": "「그래…… 이 아이는 데몬베인.\n　나와 같은, "
+  },
+  {
+   "id": "da0119:R00001",
+   "source_sha256": "e1e4fdf46c99c92eeb0d356d98b3041bf3bdcfa843aadb25103a4aeadfbb7e3f",
+   "ko": "떨어뜨려진",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0119:T00002",
+   "source_sha256": "8b79773f64a278886353ec009bb3aa9e67501e95026d9fbae782922fbbe863c8",
+   "ko": "낙태된"
+  },
+  {
+   "id": "da0119:T00003",
+   "source_sha256": "a504f1f9b3055cfd901235ac04e5416b47d26d1ded03969416863bd80b43f91e",
+   "ko": " 세계의 데몬베인」"
+  },
+  {
+   "id": "da0119:T00004",
+   "source_sha256": "c2af9b9f3e936ec9ed282966c5a5f8bcd86e02c8900eaeff4d4862b6e24e5a63",
+   "ko": "목소리는 상공――\n　데몬베인의 머리 부분에서 몇 겹이고 "
+  },
+  {
+   "id": "da0119:R00002",
+   "source_sha256": "cb5077b943831678bad5fcbefc19b802dcc052c1bf98201e03f340457f44e4f8",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0119:T00005",
+   "source_sha256": "818e35547405e9352bde6c72057e9490f968f12e0c6a5301a088fedca22bd985",
+   "ko": "메아리"
+  },
+  {
+   "id": "da0119:T00006",
+   "source_sha256": "aedb33b4992a98955d37b8f631f293648d5ca1f6c7875e1c30ccd1c23955deb3",
+   "ko": "쳐 울려 퍼졌다."
+  },
+  {
+   "id": "da0119:T00007",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0119:R00003",
+   "source_sha256": "790e5d082b19bb7f3263db94924189849dbff71ebce396641359c530dc31ea7b",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0119:T00008",
+   "source_sha256": "1ad71eb011d06ddef69d70c5015ca2028ecc4ce122ccf164158f4bae09435d4d",
+   "ko": "누구냐"
+  },
+  {
+   "id": "da0119:T00009",
+   "source_sha256": "9aaa31bfbafeae716910ab9b460a8e5208fd2167223b82c258a880c258333f25",
+   "ko": "!?」"
+  },
+  {
+   "id": "da0119:T00010",
+   "source_sha256": "57625b568958af8c337099eceb27576798db8237c9404b68209059a04d8675e3",
+   "ko": "올려다보니 데몬베인의 정수리 부분에 누군가가 서 있었다."
+  },
+  {
+   "id": "da0119:T00011",
+   "source_sha256": "15fd092d6188cdd417b634c03710bbb222f9858395096cbdeec84d7f478f06ca",
+   "ko": "이 거리에서는 어떤 용모를 하고 있는지 판별할 수 없다."
+  },
+  {
+   "id": "da0119:T00012",
+   "source_sha256": "155fcfb2bab1e7383276690803a49a73798da32685a8cfdc32e4569395168582",
+   "ko": "하지만 그럼에도 단 하나, 무엇보다 선명한 것이 있다.\n\n　그 녀석은 붉다――"
+  },
+  {
+   "id": "da0119:T00013",
+   "source_sha256": "534217537864233a5dbc09ff21cdac76cb50c6684ab9b98598b3510832e98428",
+   "ko": "세계를 물들이는 피의 "
+  },
+  {
+   "id": "da0119:R00004",
+   "source_sha256": "33439ddb0f66823471fcc299d5d5f75aa20a1470e5cc0d7bb310dbe5b1609c6d",
+   "ko": "빛깔",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0119:T00014",
+   "source_sha256": "1f828276b921aa107500f6e9151332285e78eb3c2fd98302107a1970352e1742",
+   "ko": "채색"
+  },
+  {
+   "id": "da0119:T00015",
+   "source_sha256": "2c56ce26182f171bf578cb1977c5a28291a1388d84a4ffbd8da68f4fb2680597",
+   "ko": "보다도 더욱 "
+  },
+  {
+   "id": "da0119:R00005",
+   "source_sha256": "9e01e7b843be92a9d32129c0661107e163b54042ac97ad03fcafa75e40d331b6",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0119:T00016",
+   "source_sha256": "389bbac1b256d36df12ea23e0ea5db3f3b5a4242c671c915091732e62596b8b4",
+   "ko": "어둡"
+  },
+  {
+   "id": "da0119:T00017",
+   "source_sha256": "94c97c66d5f61f153b5ef91cada3701d8d9cf0f7ee674cf18b107d7639a3b6d3",
+   "ko": "고 붉은 그림자였던 것이다."
+  },
+  {
+   "id": "da0119:T00018",
+   "source_sha256": "342e632a528c6dd521b55a38a6b48fda281c727cfc987a743306a0fbf1059ced",
+   "ko": "「피의 괴물!」"
+  },
+  {
+   "id": "da0119:T00019",
+   "source_sha256": "34035aa42a605545fb7c347b3d0c27b4aebe76043d1e4ba635d2a7efa9b875cd",
+   "ko": "「평안하신지요, "
+  },
+  {
+   "id": "da0119:R00006",
+   "source_sha256": "306021b211fb15a961a732615628a5ef09434d1e3f2b5c20b9dada523c849524",
+   "ko": "영 메이가스",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0119:T00020",
+   "source_sha256": "3ae50d7ee9546cae1e77a2bd19bfc2d3dfdfeb44ad9ae5a49130642c205b6a10",
+   "ko": "젊은 대마술사"
+  },
+  {
+   "id": "da0119:T00021",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  },
+  {
+   "id": "da0119:T00022",
+   "source_sha256": "aed8ad7657c8c887609cf1813ab5995b925dbf9a05913de2b050f68e37c41d10",
+   "ko": "그리고 전율스러운 『"
+  },
+  {
+   "id": "da0119:R00007",
+   "source_sha256": "62f083b66f85bb7e91aeeefb564b5a6991560448a77d686a51788b9945d35e81",
+   "ko": "오리지널",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0119:T00023",
+   "source_sha256": "9aa6e13259634e4a950ca1e6ab4887555c7e24f274b193cb5bbb16cc9334a686",
+   "ko": "원본"
+  },
+  {
+   "id": "da0119:T00024",
+   "source_sha256": "1a7bd608ebbf9f5e8fcec6ef47c0d1717aa995f3848a5fea137f59f0901f9a87",
+   "ko": "』."
+  },
+  {
+   "id": "da0119:T00025",
+   "source_sha256": "b70af0b01f27cb0feaab81559aa2e406ecae2f14343a0de4cba95754e3f613a0",
+   "ko": "――드디어 만났네」"
+  },
+  {
+   "id": "da0119:T00026",
+   "source_sha256": "1a2c3333c117b50c241c19b0f064ad9bc6390c377de1d706ad53cf38591aa762",
+   "ko": "울려 퍼지는 목소리는 소녀의 것이다."
+  },
+  {
+   "id": "da0119:T00027",
+   "source_sha256": "9e0c4a41e8bcb94a5a46b9d119f165c64282e4539c6d48eb5d57ac66b50e6e08",
+   "ko": "이 녀석이 피의 괴물의 본체, 모든 사건의 흑막인 걸까."
+  },
+  {
+   "id": "da0119:T00028",
+   "source_sha256": "765f97a704758b5c7b8778950603ebef8cda50249104424a694a5587765fea1b",
+   "ko": "「좀 더 천천히 이야기하고 싶지만……」"
+  },
+  {
+   "id": "da0119:T00029",
+   "source_sha256": "3f58203ac15a0b58a0b0b8fc201f2e94111393b9b75593a48d3daf41057b9c71",
+   "ko": "「……로보오!?\n　박사님, 뭔가 주역 같은 조형을 한 게\n　왔어요로보!?」"
+  },
+  {
+   "id": "da0119:T00030",
+   "source_sha256": "84527353b162b968268464358b2d8371bad2cdaea53a768362a6080f6bfcf717",
+   "ko": "「보, 본인이 모르는\n　거대 로봇이라고오오오옷!?」"
+  },
+  {
+   "id": "da0119:T00031",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0119:R00008",
+   "source_sha256": "3317b5b4a5e2a2c700ba3f73316189000aea4e4b988a1c8ea8d828bae4fd8c20",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0119:T00032",
+   "source_sha256": "cd788da3eac0be090dfc6813300fda9b16e4f4ab5e57f6ad20467fefc9d567ab",
+   "ko": "시끄러"
+  },
+  {
+   "id": "da0119:T00033",
+   "source_sha256": "f902c3a56511b12536cf863122dc52c050aa1c5322b0c93d410455771ccb561c",
+   "ko": "운 게 있네?」"
+  },
+  {
+   "id": "da0119:T00034",
+   "source_sha256": "f7f040e5a32050a8477cc8251b0b571c90399610fcb9cbb596ca2b06ce06575d",
+   "ko": "데몬베인이 파괴로보와 마주 본다."
+  },
+  {
+   "id": "da0119:T00035",
+   "source_sha256": "6ccb1a8aec1f8e8d485be1a10085ada9eefd96e21fa9ddf78659d35f5e7e9606",
+   "ko": "피로 물든 그 모습은 악귀처럼 무시무시하다."
+  },
+  {
+   "id": "da0119:T00036",
+   "source_sha256": "106bbe63e334599b58f32d399065e2c5cb70d23f1ec3665f1e5390001c7ca443",
+   "ko": "피로 물든 데몬베인이 한 걸음을 내딛는다."
+  },
+  {
+   "id": "da0119:T00037",
+   "source_sha256": "57592eb95e51ba645f72de2da313ce0372af589de8043707ac50d9a20bf81a5e",
+   "ko": "싸울 셈인가!?"
+  },
+  {
+   "id": "da0119:T00038",
+   "source_sha256": "bd89967bb1aa6a4e883fe193262f61378a4c7ad3686d25c81806ebd6d6bbcd8f",
+   "ko": "「박사님, 이쪽으로 와요로보!」"
+  },
+  {
+   "id": "da0119:T00039",
+   "source_sha256": "caf0a886ecffa78843a680b2a3001a71ac2c2bb806a84d720dfe554ac6270cbf",
+   "ko": "「우오오오옷!?\n　이거, 혹시 슈퍼한\n　로봇의 대전에!?」"
+  },
+  {
+   "id": "da0119:T00040",
+   "source_sha256": "ae0de7e1b3da5919aec0a27134bf329d0e4295e42900eb4530407deb9e0cae0b",
+   "ko": "「뜻밖의 불타오르는 전개에 본인의 하트는 두근거린다, 그것은 마치 소년 시절의 아련한 첫사랑처럼」"
+  },
+  {
+   "id": "da0119:T00041",
+   "source_sha256": "4cd924c59c6cef1735987c4e726d691f5cf7ea8deb855ef3bce598c73f546b42",
+   "ko": "「분위기 달아오르고 있습니다앗!」"
+  },
+  {
+   "id": "da0119:T00042",
+   "source_sha256": "3f65ec41ac39e707eda73c3debb7951e11afa49e7be7e7fbc98d87caa6e440df",
+   "ko": "파괴로보 또한 포구를 데몬베인에게 겨눈다."
+  },
+  {
+   "id": "da0119:T00043",
+   "source_sha256": "4ab8349577b1bddd2abbe38614f9af43b490625ab8a5dda59fa377b7bbb13cd1",
+   "ko": "철컹, 철컹."
+  },
+  {
+   "id": "da0119:T00044",
+   "source_sha256": "d2d28e57a4be168aed1a76c071b1aa2269af76faa8ac14ac774f8cb13a27c3b4",
+   "ko": "어딘가 얼빠진 발소리를 대지에 울리며 달려 나갔다."
+  },
+  {
+   "id": "da0119:T00045",
+   "source_sha256": "877f5c0412a5b1b90d12710e5a5450c054abe9ea5a585313f1fe944f61471b60",
+   "ko": "이쪽도 "
+  },
+  {
+   "id": "da0119:R00009",
+   "source_sha256": "6a8f5a639349d9400aaafe10d3a38f6ef7f27752dda0b7a3cb8b2d6989609f71",
+   "ko": "할",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0119:T00046",
+   "source_sha256": "24f88cde34722efe9347e9f489574bd7ca0da0088ae0049720207388053490fd",
+   "ko": "싸울"
+  },
+  {
+   "id": "da0119:T00047",
+   "source_sha256": "dadc854966cf1fa2a1b0b9764920d7f18ae769bf20aab0d28d5cff44cce5be29",
+   "ko": " 의욕이 만만하다."
+  },
+  {
+   "id": "da0119:T00048",
+   "source_sha256": "c42ce433b632d60721f47de130610ce339234aaf8a1500f6da6eb2b689e5ad83",
+   "ko": "「어, 어이, 닥터 웨스트!?」"
+  },
+  {
+   "id": "da0119:T00049",
+   "source_sha256": "cead845d2fa45da45d3525ab74a7f76d498ff7fa6b1343fa184c5ba33c128258",
+   "ko": "「――엘자아아아아아아아아아아아!\n　페달을 밟는 타이밍을\n　맞추는 것이다아아아아아아앗!\n　GOOOOOooooooooooooo!」"
+  },
+  {
+   "id": "da0119:T00050",
+   "source_sha256": "19e6165657186d0e3e021c6b93030f70c8e8f7f70dfa03fadf6532016f1acd15",
+   "ko": "「잠깐 입 다물어 줄래,\n　닥터?」"
+  },
+  {
+   "id": "da0119:T00051",
+   "source_sha256": "cb26f1a211f73e912aad25d6bc46ff5571f5cec3a350625b4dc80637689a8f05",
+   "ko": "「드릴 토네이도\n　크래셔어어어어어어어――엇!」"
+  },
+  {
+   "id": "da0119:T00052",
+   "source_sha256": "475df37a846e03cec5ff3cc41f0567f7cdb8d26068d26d959113bbeaa921e247",
+   "ko": "파괴로보의 드릴에서 방출된 나선 모양의 에너지파가\n데몬베인을 덮친다.\n\n　그러나――"
+  },
+  {
+   "id": "da0119:T00053",
+   "source_sha256": "3a489560027eee0582cc01fbc48b2814ef414f83b48fb96fbdc8d3c49963591f",
+   "ko": "「사라졌다고옷!?」"
+  },
+  {
+   "id": "da0119:T00054",
+   "source_sha256": "124beaf3de67a43827d69891625345ca1df9468973a86343562f5cba85879cbb",
+   "ko": "「박사님, 위예요로보!」"
+  },
+  {
+   "id": "da0119:T00055",
+   "source_sha256": "b5d754253251c584a8286c7b0fd587fb758cd66172e681940a1beb1d8952c3e6",
+   "ko": "나선 에너지는 허무하게 대지를 깎아낼 뿐이었다."
+  },
+  {
+   "id": "da0119:T00056",
+   "source_sha256": "8e36f11fd2838bd0e6dcc08b92c97d97ae829ee1e8cfaccb9853637ff98e00b8",
+   "ko": "데몬베인은 그 거체에서는 상상하기 힘들 만큼\n가볍게 도약한다."
+  },
+  {
+   "id": "da0119:T00057",
+   "source_sha256": "a5e3239fa689551c2fc5078d2265a1e8d2e2b41b8a9e5184289b54555d03eaef",
+   "ko": "「단쇄술식 티마이오스,\n　크리티아스 해방.\n　　　　　　　　　――시공간 왜곡」"
+  },
+  {
+   "id": "da0119:T00058",
+   "source_sha256": "1d08c2688fadd6546a88d2b609b327846c0cf9177420672672e6e17eeb1209fe",
+   "ko": "허공을 나는 데몬베인의 모습이 한순간, 낡은 비디오테이프의 영상처럼\n흐트러졌다.\n\n　시공간 왜곡의 영향으로 인한 시간의 역행 현상."
+  },
+  {
+   "id": "da0119:T00059",
+   "source_sha256": "c08055506c8f045b1339cccaa4dd765f24a119295f29712f73050c59d996fea8",
+   "ko": "다리 실드가 격렬한 전격을 두른다."
+  },
+  {
+   "id": "da0119:T00060",
+   "source_sha256": "ebf4b1465ad052f64c15000819a6e572e0bc6b7beeef844511b7feb5e75680c1",
+   "ko": "관성과 중력을 무시한 움직임으로 급속 강하.\n\n　틀림없다."
+  },
+  {
+   "id": "da0119:T00061",
+   "source_sha256": "fca3c47cc4674dec9f1a979a162373418b9279d7962e26658d342c80026b0709",
+   "ko": "이 공격은――!"
+  },
+  {
+   "id": "da0119:T00062",
+   "source_sha256": "86a475eefe3f61855ae5d280b0ea35b54f721a5c1d01eea42211bd122d2693c7",
+   "ko": "「아틀란티스 스트라이크!」"
+  },
+  {
+   "id": "da0119:T00063",
+   "source_sha256": "6b69aead1e26422c9f78002723e38119bf95ea647017b481f4e879f5a3ee9aee",
+   "ko": "「후갸아아아아아아아앗!?\n　로보오오오오오오오오오오오오!?」"
+  },
+  {
+   "id": "da0119:T00064",
+   "source_sha256": "b062fc373a7081f1f1dae1daef30be411b2403df71eaa31b642f471095057102",
+   "ko": "시공간 왜곡 에너지를 담은 필살의 발차기가 닥터 웨스트의 파괴로보에게 작렬했다."
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0119:R00002",
+   "kind": "ruby_decision",
+   "note": "Omitted redundant phonetic reading こだま on 木霊."
+  },
+  {
+   "id": "da0119:R00003",
+   "kind": "ruby_decision",
+   "note": "Omitted redundant phonetic reading なにやつ on 何奴."
+  },
+  {
+   "id": "da0119:R00005",
+   "kind": "ruby_decision",
+   "note": "Omitted redundant phonetic reading くら on 冥."
+  },
+  {
+   "id": "da0119:R00008",
+   "kind": "ruby_decision",
+   "note": "Omitted redundant phonetic reading うるさ on 五月蝿."
+  }
+ ]
+}

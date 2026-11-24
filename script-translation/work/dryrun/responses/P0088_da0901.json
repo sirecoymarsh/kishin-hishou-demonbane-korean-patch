@@ -1,0 +1,85 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0088_da0901",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0901:T00001",
+   "source_sha256": "0c4652b5799f61d6fcf15c727fd60337034a7f64c6374e7a962be8016e6c0674",
+   "ko": "「나는…… 불사신……\n　이 정도로 멸망할 리가……」"
+  },
+  {
+   "id": "da0901:T00002",
+   "source_sha256": "23f0e486f4e754a2b80b6de38b29f2f7b031f32b435d637595c52fb70668105e",
+   "ko": "「무, 무너진다……?\n　어째서…… 어째서야……앗?\n　나는…… 나는으으읏!」"
+  },
+  {
+   "id": "da0901:T00003",
+   "source_sha256": "511a56c9097ca20b3cb08733e01e70189d1ab26b889a823f55f2c44c81d43e2e",
+   "ko": "「고했을 터이다.\n　그대는 죽은 자조차 아닌,\n　단순한 악몽이라고」"
+  },
+  {
+   "id": "da0901:T00004",
+   "source_sha256": "aa531bfb2a168414ed4474d61d571fbab33fd9c530fcfb1babf3c48f8bc01cc3",
+   "ko": "「아아아아아아아아아아아아아아아아아…… 아아아아……」"
+  },
+  {
+   "id": "da0901:T00005",
+   "source_sha256": "cd0f09943aba0d93df63cd4cb242c41ee64ee54f850e0ac3e4b5c2cf09afc246",
+   "ko": "벨제뷔트의 기체가 붉은 안개가 되어 무너져 간다."
+  },
+  {
+   "id": "da0901:T00006",
+   "source_sha256": "fd166bc9b614bd6ce7135e1b2d36bc8eadd1f047a205bd157d50aa8f9345f3bf",
+   "ko": "아무것도 남지 않는다."
+  },
+  {
+   "id": "da0901:T00007",
+   "source_sha256": "46707678c621d40577beeab9f37a37a805eb64f08f229e18949fc4463bac7e9c",
+   "ko": "꿈은 그저 꿈으로 흩어져 사라질 뿐이다."
+  },
+  {
+   "id": "da0901:T00008",
+   "source_sha256": "97675a45b9deab3e5bdc6a0b76ef7aae48e52fc76047787544c40435c0750876",
+   "ko": "「어떻게든 쓰러뜨렸지만……\n　슈루즈베리 "
+  },
+  {
+   "id": "da0901:R00001",
+   "source_sha256": "8abe22c91f0939b6aab3db77f86d607dd7063710622f9cd851250b3a7e367dbc",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0901:T00009",
+   "source_sha256": "cd98e43da31bb1b90dc152851c85c7d266d47ba97bc5ff7bd137c5920429d467",
+   "ko": "선생"
+  },
+  {
+   "id": "da0901:T00010",
+   "source_sha256": "0998944c287573ed1d757f0c10ca8ebeb81ece90a4b9ece2c7fc5e57387e095c",
+   "ko": "이나 아즈랏드 일행은 무사할까?」"
+  },
+  {
+   "id": "da0901:T00011",
+   "source_sha256": "2db3d6b1ecd6780977c9a0c0d96b2a6649d9205f2f620ad10d13ab47ef2fdce3",
+   "ko": "「믿는 수밖에 없다.\n지금은 그저 앞으로 나아갈 뿐이다」"
+  },
+  {
+   "id": "da0901:T00012",
+   "source_sha256": "5eae09680883f54c08ccbbfca3fb0d6908f3dfb67a950b70812d493ec7b63112",
+   "ko": "「그래…… 알았어」"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0901:R00001",
+   "kind": "ruby_decision",
+   "note": "Omitted colloquial reading センセ for 先生."
+  },
+  {
+   "id": "da0901:T00010",
+   "kind": "glossary_candidate",
+   "note": "Used provisional glossary target 아즈랏드 for アズラッド."
+  }
+ ]
+}

@@ -1,0 +1,1301 @@
+{
+  "schema": "khd-gemini-response-v1",
+  "packet_id": "P0117_da1316",
+  "model_id": "Gemini 3.8 Flash (High)",
+  "records": [
+    {
+      "id": "da1316:T00001",
+      "source_sha256": "e22b332ce186a27bcc6a493d040a5bd4cba396332086589bc89ef16dfd5c0bd7",
+      "ko": "어째서지?"
+    },
+    {
+      "id": "da1316:T00002",
+      "source_sha256": "1309a841ff0723d61b47cc0d47d598ece4ba15dc1d8e564d8b0e271f29d23e46",
+      "ko": "어째서 이런 기적이 일어날 수 있는 거지?\n\n　사라졌어야 "
+    },
+    {
+      "id": "da1316:R00001",
+      "source_sha256": "6c792a3f91b2639d5e0408d3fb637e0ee57579601bed93e3d77cd6427a47f4fd",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1316:T00003",
+      "source_sha256": "4472a73077c6d34fb2dc67a8da86c52b107fdd7134d101784941f50f1fcb3765",
+      "ko": "했"
+    },
+    {
+      "id": "da1316:T00004",
+      "source_sha256": "3b2e79bc719379948597cf4be8f8c76f1b3296e6089b0a355b1d9b49e5503647",
+      "ko": "을 "
+    },
+    {
+      "id": "da1316:R00002",
+      "source_sha256": "00f62a6f4a40ed9ed3f2271148d5f1928d203693bcc3e6f088b2462e1a5f9817",
+      "ko": "알 아지프",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1316:T00005",
+      "source_sha256": "743ad43ce5d5c44ad3fedac482f899533c823d39e9b08b373b7d3781a440cf6b",
+      "ko": "마도서"
+    },
+    {
+      "id": "da1316:T00006",
+      "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+      "ko": "."
+    },
+    {
+      "id": "da1316:T00007",
+      "source_sha256": "cb432d548824ac8f9b808f2cfc09c93fda98dc64db614e777e07e30859709255",
+      "ko": "두 번 다시 움직이지 않았어야 할, "
+    },
+    {
+      "id": "da1316:R00003",
+      "source_sha256": "faad4663917e9f697861dd8f8351f4b75876f086445f4735d2e147048b1329b2",
+      "ko": "데몬베인",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1316:T00008",
+      "source_sha256": "411af9b288fb3385dafecfdc0ac3e1da517282ce9a6f37bc93f01c64cc1765a2",
+      "ko": "기체"
+    },
+    {
+      "id": "da1316:T00009",
+      "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+      "ko": "."
+    },
+    {
+      "id": "da1316:T00010",
+      "source_sha256": "5712e62d5770abd6429b9348758d8aa364c8e97a8e079d91b9aac486fe80e3b9",
+      "ko": "기계장치의 악몽에 편입될 운명이었던, 세계.\n\n　하지만 반격의 봉화는 올랐다."
+    },
+    {
+      "id": "da1316:T00011",
+      "source_sha256": "08e465281426db23343879e51ababd209d5d15bcce95729d6366a6b4ca0ef3ce",
+      "ko": "시공을 초월한 라반 슈루즈베리가 "
+    },
+    {
+      "id": "da1316:R00004",
+      "source_sha256": "e533081aa171fce47c1b7e7265e0f9503a9802e4ae1093331fb742265966d34a",
+      "ko": "마스터 오브 네크로노미콘",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1316:T00012",
+      "source_sha256": "b552dfbadf554308b98a24c462f3c1d086bf8ab09671a897b316cb874a78d56a",
+      "ko": "『사령비법』의 주인 "
+    },
+    {
+      "id": "da1316:T00013",
+      "source_sha256": "49f8c4e8e0e5479616a9de312e30b121a6ebb38aebb344ef118ca22db1a1b5ce",
+      "ko": "아즈라드를 이끌고, 아즈라드를 "
+    },
+    {
+      "id": "da1316:R00005",
+      "source_sha256": "fece1cffa1ca45cb7ca80a78e9d9ac221a2075c1ea86f82268c95e37a169169b",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1316:T00014",
+      "source_sha256": "c0b3958975190351a47a5636088978e4771168e5288c5628b1a0a58d02c2caef",
+      "ko": "빙의체"
+    },
+    {
+      "id": "da1316:T00015",
+      "source_sha256": "8cbc1a593c0ac6d28c121879dc087b8307cb3b5205a173c810203a67210dd6cb",
+      "ko": " 삼아 알 아지프가 재생되었다.\n\n　우연이 우연을 부르는, 기적의 연쇄."
+    },
+    {
+      "id": "da1316:T00016",
+      "source_sha256": "26335510303ee6cf6ab30c1124e94462f6b80619d2b3f31a3864f2439ea60811",
+      "ko": "다이쥬지 쿠로는 이렇게 될 줄 알고 있었던 걸까?"
+    },
+    {
+      "id": "da1316:T00017",
+      "source_sha256": "c7d2f007b06456fbbc0c4954b24777f04453765a56ec9dc320bee506d2b2b952",
+      "ko": "이렇게 될 것을 믿고 있었던 걸까?"
+    },
+    {
+      "id": "da1316:R00006",
+      "source_sha256": "e0dca0680981c19525576e77eb43edb5a365cd07bcaa8efc5dfb325a2bc8b2ae",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1316:T00018",
+      "source_sha256": "42ae9091f49d8e597846216f247b663a9364eb3a78ba50881739bed2c229dc8c",
+      "ko": "설마"
+    },
+    {
+      "id": "da1316:T00019",
+      "source_sha256": "9d025992a6ec9f7d0f4c0754f390c08dddfbd618206975cee6d153b5aa04f875",
+      "ko": ", 의지의 굳셈이 기적을 끌어당기기라도 했다는 건가?\n\n　말도 안 돼."
+    },
+    {
+      "id": "da1316:T00020",
+      "source_sha256": "66f63e108dc8b2bfe3f08fbbfd6a51efab4f7c1f235aa83a87d35537af20133b",
+      "ko": "아무런 근거도 없다."
+    },
+    {
+      "id": "da1316:T00021",
+      "source_sha256": "d4fba54c2424e56b49dbecadf1caf9b9abe3ce1b810a5788d4b6cea7c3161577",
+      "ko": "아무런 이치도 없다."
+    },
+    {
+      "id": "da1316:T00022",
+      "source_sha256": "e8195cb0bea1134e74fe8c28855fb135bd44d0c4aa4abee947394b879892ce0a",
+      "ko": "그런 황당무계한 꿈같은 이야기가, 통할 리가 있겠는가.\n\n　하지만……"
+    },
+    {
+      "id": "da1316:T00023",
+      "source_sha256": "94caab0c3e4a450b02b3bd1cf66f0e856c2ad8ec8bd8fb3a5ec3734595fee001",
+      "ko": "그럼에도, 데몬베인은 움직였다."
+    },
+    {
+      "id": "da1316:T00024",
+      "source_sha256": "e75ef4736acede51cc8011a73b74c14a9a5d0b1c1b136e0cc20a8d5bb9716bac",
+      "ko": "움직여서, 사신을 향한 첫 반격을 날렸다."
+    },
+    {
+      "id": "da1316:T00025",
+      "source_sha256": "094d9f8d81850034072afc235e090daf9b8228b219bdbc5f10d60b7538dc96cd",
+      "ko": "사소하고, 보잘것없는 일격이다."
+    },
+    {
+      "id": "da1316:T00026",
+      "source_sha256": "49e9e83e76f60674b17c2904e09b005dd7532b9a048afead688635e4d91c2849",
+      "ko": "우주의 심연에 비하면, 인간의 힘은 너무나도 비소하다.\n\n　――하지만, 그것은 "
+    },
+    {
+      "id": "da1316:R00007",
+      "source_sha256": "b750c2ece644240b0f8e138a0602b89062dcd4cb934044a963e76bf34670b76d",
+      "ko": "・・・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1316:T00027",
+      "source_sha256": "f960bfcc9b000dbb15ce73595d793c33235c8413449e1d984f60258eb105e600",
+      "ko": "분명 지금"
+    },
+    {
+      "id": "da1316:T00028",
+      "source_sha256": "c4a40ea8fe35627476f7f8cb9e1fc7f8898f428c6d1ff18b0bc5479d5db39c5f",
+      "ko": ", "
+    },
+    {
+      "id": "da1316:R00008",
+      "source_sha256": "fe65050b6cf95368d85f30fd366c092a15824886d51defd754887d1e968f7491",
+      "ko": "・・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1316:T00029",
+      "source_sha256": "41013a082f569ffc7328737c420225f5f3a7a681a291c48d8853ed9e6a9f548e",
+      "ko": "이곳에"
+    },
+    {
+      "id": "da1316:R00009",
+      "source_sha256": "fe65050b6cf95368d85f30fd366c092a15824886d51defd754887d1e968f7491",
+      "ko": "・・・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1316:T00030",
+      "source_sha256": "8720ca1a3c28319d523b8a9d7423cd6f20b2f667ace2ba346587c9a0457a5866",
+      "ko": " 있는 힘"
+    },
+    {
+      "id": "da1316:R00010",
+      "source_sha256": "fe65050b6cf95368d85f30fd366c092a15824886d51defd754887d1e968f7491",
+      "ko": "・・・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1316:T00031",
+      "source_sha256": "bea7e3db03a1be2e3a05e1ad55c7f2b1e0f4c2a223a3e1ff2d1107c3eadb4f21",
+      "ko": "인 거다"
+    },
+    {
+      "id": "da1316:T00032",
+      "source_sha256": "6cb9f6171a1cd1ca809923fc88faa826a4ddb7d0fa6371fd8092fd27aca6ee15",
+      "ko": ".\n\n　어째서."
+    },
+    {
+      "id": "da1316:T00033",
+      "source_sha256": "71077d81f7647213406335fae8f10f7cac923ae5453d506eeec45c758168fabb",
+      "ko": "어째서."
+    },
+    {
+      "id": "da1316:T00034",
+      "source_sha256": "bc9ca6b9f3e195ac60edffa6eff7d2a26448d7ead0e54e69ed08edf5dd8a330d",
+      "ko": " 어째서――"
+    },
+    {
+      "id": "da1316:R00011",
+      "source_sha256": "e533081aa171fce47c1b7e7265e0f9503a9802e4ae1093331fb742265966d34a",
+      "ko": "마스터 오브 네크로노미콘",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1316:T00035",
+      "source_sha256": "b552dfbadf554308b98a24c462f3c1d086bf8ab09671a897b316cb874a78d56a",
+      "ko": "『사령비법』의 주인"
+    },
+    {
+      "id": "da1316:T00036",
+      "source_sha256": "efbf9918015a66e11aae0a897fdea84acd1b06146f53f6f7e05d43e815cc1220",
+      "ko": ", 다이쥬지 쿠로…… 나의 아버지."
+    },
+    {
+      "id": "da1316:T00037",
+      "source_sha256": "7e3ce2d6ced51860051311050b76da78937835b5a48ef87b75341eb0d26a06b0",
+      "ko": "그 존재는, 나의 이해를 아득히 뛰어넘어 있었다."
+    },
+    {
+      "id": "da1316:T00038",
+      "source_sha256": "16ebaf6c1d1d477bd1ea67e01449904dad0952c9d69d8e05ff935df5d303ae61",
+      "ko": "가슴속에서 소용돌이치는 감정의 폭풍."
+    },
+    {
+      "id": "da1316:T00039",
+      "source_sha256": "861d81cd15a892539bbc54a145cea1850a5bd76ace593978f04ce343e462f190",
+      "ko": "의문/경외/불안/분노/원망/\n　슬픔/애절함/외로움/허무함――\n\n　그것들은 어느 것 하나 지향성을 띠지 못하고, 표층으로 떠오르는 일도 없이, 그저 모든 것이 녹아들고 뒤섞여 막대한 "
+    },
+    {
+      "id": "da1316:R00012",
+      "source_sha256": "a6ab4547fdaedad1f911a4f07e861f3185fd716902a06a072f88038cb9cf2580",
+      "ko": "에너지를",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1316:T00040",
+      "source_sha256": "8cb84a59d28f2acecc910d5f8a0b33db0e6345e6d060f9a31845d39c68329f96",
+      "ko": "열량을"
+    },
+    {
+      "id": "da1316:T00041",
+      "source_sha256": "4b857a4d52178027dfab3c450678cf37f1ef9a92f96c1abbeb791053668d66ca",
+      "ko": " 낳는다.\n\n　그 뜨거움에 시달리고,"
+    },
+    {
+      "id": "da1316:T00042",
+      "source_sha256": "6f73f9196dbb0e9ece69a0169e0e371e02a7cce80767f24dd977622389a9ec7a",
+      "ko": "그 뜨거움에 몸부림치고,"
+    },
+    {
+      "id": "da1316:T00043",
+      "source_sha256": "45a50733a5fc6a5b8c821aca4035ad4c4d41e3d58733b0c31857a75de8d73170",
+      "ko": "그 뜨거움에 번민하며 괴로워하고,\n\n　하지만, 그럼에도,"
+    },
+    {
+      "id": "da1316:T00044",
+      "source_sha256": "45287414cf103d9ab0aabbc46c358c0ab5594be4547da459d4a1d687156ed0ab",
+      "ko": "이 열은,"
+    },
+    {
+      "id": "da1316:T00045",
+      "source_sha256": "711d95ebadcfac7fbcfc4ed72856e0f701b7f63afc0d30b065d55ce06f310d23",
+      "ko": "이 뜨거움은,"
+    },
+    {
+      "id": "da1316:T00046",
+      "source_sha256": "082eda2dc7ab5e9cbce3685fda3fc2e71cb19a8d591cb9813cc853f0559d7aec",
+      "ko": "나를――"
+    },
+    {
+      "id": "da1316:T00047",
+      "source_sha256": "beafdd945b1dff3b4ec5522387a0c9c4d0df27fd748bcb15ba383fcdd6f0c301",
+      "ko": "「――데몬베인을 믿어라」"
+    },
+    {
+      "id": "da1316:T00048",
+      "source_sha256": "d6ff57b15b98cd5ff389b3dee9685b6e65dce7aa4df9a9976712aa91c255a20a",
+      "ko": "「……읏!?」"
+    },
+    {
+      "id": "da1316:T00049",
+      "source_sha256": "7917f4c07e748811e1523acf8052e9f186066896cacac7f6b59728cfc1cebf19",
+      "ko": "무너져가는 아즈라드."
+    },
+    {
+      "id": "da1316:T00050",
+      "source_sha256": "de4551ee29dce4b69540d711c56b5b7c82760fbdf4e898a9aa0b7056e415bbec",
+      "ko": "하지만 나는, 알았다."
+    },
+    {
+      "id": "da1316:T00051",
+      "source_sha256": "74d8802d18db41f82e7b7d85e3a3fce13edea7a78c2aa3b41136263fadeade1f",
+      "ko": "티끌로 변해가는 그 눈동자가 곧장―― 나를 향하고 있었음을."
+    },
+    {
+      "id": "da1316:T00052",
+      "source_sha256": "7b6b964d64f9b8959145a6e2ee1acea42f0e265fa25bd8c0bc26cae84204c07c",
+      "ko": "「저것은 "
+    },
+    {
+      "id": "da1316:R00013",
+      "source_sha256": "ad00a0b322492061745b24d0a27cfeb54340097e166853622a9781f99bd15efb",
+      "ko": "・・・・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1316:T00053",
+      "source_sha256": "4ba5dfa47d7eaededb014fe8edd6e205f6b40e9e3aef078c39e02689150fdcef",
+      "ko": "인간을 위한"
+    },
+    {
+      "id": "da1316:R00014",
+      "source_sha256": "73ac229cabfac277c315b4b0d1eb76959473af07f58c11d00bb82a06b250745a",
+      "ko": "데우스 마키나다",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1316:T00054",
+      "source_sha256": "762524a979d84688362b8dc00d54c75a1be10d7917ed188fd55985924c885e49",
+      "ko": " 귀계신이다"
+    },
+    {
+      "id": "da1316:T00055",
+      "source_sha256": "0580068b40d23ab18d039c0f17cd99866d7cc7161961b1579f0edf953584ff67",
+      "ko": "」"
+    },
+    {
+      "id": "da1316:T00056",
+      "source_sha256": "eb3c8e0868df281e0ba6e8a3b39cf61ea3d5c06640b984c4709e896661732fbb",
+      "ko": "그 말은, "
+    },
+    {
+      "id": "da1316:T00057",
+      "source_sha256": "d6eb81492ec4d4dacdb8897ce659099b1635ce1427c52476aebeb19bf74abf31",
+      "ko": "나를 향해 던져진 것임을."
+    },
+    {
+      "id": "da1316:T00058",
+      "source_sha256": "0fd7b9c127743d780e3bed2298445c9b55a718336be946fbd8b8971605dc8511",
+      "ko": "「데몬베인을…… 믿으라고?」"
+    },
+    {
+      "id": "da1316:T00059",
+      "source_sha256": "c14ca717581e71ead995c350a9fe18b66a11c21891a1d10704f6b542570926f6",
+      "ko": "나를 불태워 멸망시키는 열이 지금, 조용히 "
+    },
+    {
+      "id": "da1316:R00015",
+      "source_sha256": "b79bcef5d76e37a5e8e170d1512beca306c051a02ddd4450a732ea1a6ba87c41",
+      "ko": "벡터",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1316:T00060",
+      "source_sha256": "497da8a40b63248877795b608460ea8b429cbb806628acdc355ed560db9990f5",
+      "ko": "의지"
+    },
+    {
+      "id": "da1316:T00061",
+      "source_sha256": "c5c2cbe884eba0bcd19020d81de55848cabee6755c18d39bd0bc348de16c24f2",
+      "ko": "를 얻는다."
+    },
+    {
+      "id": "da1316:T00062",
+      "source_sha256": "94e39edf8999c80f8f9d6d1fe78aa225e8916bdd27d8ba69c5ae5b79749a99ff",
+      "ko": "「……아즈라드」"
+    },
+    {
+      "id": "da1316:T00063",
+      "source_sha256": "c54fcd25550f15bece4bd34708cdbcbc22a19e1149d03ae186731f9a31aaea35",
+      "ko": "「알……」"
+    },
+    {
+      "id": "da1316:T00064",
+      "source_sha256": "14af757800b5f6835f6e61305a71606ebaeec1e24e37da9c262fabe80ebc7358",
+      "ko": "고뇌와 슬픔의 표정을 짓고 있던 알이, 조용히 눈을 감는다.\n\n　그것은 무언가를 애도하고 있는 것인가."
+    },
+    {
+      "id": "da1316:T00065",
+      "source_sha256": "80be1d6f2c2787a4213ba92a3c6996faac7dcf5e8085036e6622980155660909",
+      "ko": "아니면 무언가를 맹세하고 있는 것인가."
+    },
+    {
+      "id": "da1316:T00066",
+      "source_sha256": "7f0dc9a8d86cfb4dde356531fd7f3368426633188b95b81bee8cdf20f60bf40c",
+      "ko": "다시 뜨인 눈동자에는, 이제 아무런 망설임도 없었다."
+    },
+    {
+      "id": "da1316:T00067",
+      "source_sha256": "8dfd05258bbdaf3ec7083f4046919103407d383f99d9e02f18eb3ed0e1ef307b",
+      "ko": "「――할 수 있겠지, 알?」"
+    },
+    {
+      "id": "da1316:T00068",
+      "source_sha256": "49edd7ac5ac8e03fd8ebcfd641b24244af2654ef2b689c593f509edc332f3c4a",
+      "ko": "「그래…… 완벽하다!」"
+    },
+    {
+      "id": "da1316:T00069",
+      "source_sha256": "02eace8323abb620a167a8b19d28aab085a6e52be0cef68be5ca65686d4cf60f",
+      "ko": "「그렇다면……!」"
+    },
+    {
+      "id": "da1316:T00070",
+      "source_sha256": "e48484586159beaabbdd50022d1815bac8443b0f1e8cf90546f76f1666d87cd0",
+      "ko": "알을 끌어안고, 나는 날아오른다."
+    },
+    {
+      "id": "da1316:T00071",
+      "source_sha256": "b22c6b1a5fe78ddca1e22a2d95132fa9f6b0a4e1b5fe70707e0a4ff453dcadb5",
+      "ko": "데몬베인이 전송용 마법진을 전개하고, 기다리고 있다."
+    },
+    {
+      "id": "da1316:T00072",
+      "source_sha256": "53daea0c12832295f92fbf610ca562f537610ad1ec52ec597b33f1fc37f377db",
+      "ko": "빛이 우리를 감싸 안는다――"
+    },
+    {
+      "id": "da1316:T00073",
+      "source_sha256": "78dc34ce07be29b61c0e1cfff0d83043ffad2371e5279d760d2fef55e8b2f953",
+      "ko": "「증오의 하늘에서 도래하여――」"
+    },
+    {
+      "id": "da1316:T00074",
+      "source_sha256": "82af917b8d4a13979fc5eeb79a113cec5e4afeb62a010baa8bb48276c859e5b4",
+      "ko": "「올바른 분노를 가슴에 품고――」"
+    },
+    {
+      "id": "da1316:T00075",
+      "source_sha256": "bacfffd47a11514a68f2d540dd232e3ab226b70c0f99344c210e3c615d63aae7",
+      "ko": "「「우리는 마를 끊는 검을 잡는다!」」"
+    },
+    {
+      "id": "da1316:T00076",
+      "source_sha256": "375e09bbc2359cd147e43402b026029a8175779c207faeef5ff2ab30a2a7ca26",
+      "ko": "「「그대, 무구한 칼날――데몬베인!」」"
+    },
+    {
+      "id": "da1316:T00077",
+      "source_sha256": "ce4c62388e4738970ba8cfbe5f927ce1e0686631ac9f5031ace893852eb520d0",
+      "ko": "「이런 이런…… 결국은 이렇게 되는구나.\n　역시 피해 갈 수는 없나 보네.\n　데몬베인―― 나의 사랑스러운 원적이여」"
+    },
+    {
+      "id": "da1316:T00078",
+      "source_sha256": "3a23356b735e68693350e552005d46d83d9446cc7e4518c6019bc5465570083b",
+      "ko": "「그럼 진정으로 시작해볼까……\n　희곡 『"
+    },
+    {
+      "id": "da1316:R00016",
+      "source_sha256": "2439817fdc41bebdd900d91ce67851acf11816d61e08831bb38a1b7737fff11f",
+      "ko": "클록워크 팬텀",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1316:T00079",
+      "source_sha256": "85c921a16aabaf020cbdd92e81a9bc2d2882c0ca97b04561eb318b4c2d548863",
+      "ko": "기계장치의 악몽"
+    },
+    {
+      "id": "da1316:T00080",
+      "source_sha256": "5d8586464f94b25d52eb09c8e6231d79d479d1b56e69545783f557a512003c2f",
+      "ko": "』의 최종막을」"
+    },
+    {
+      "id": "da1316:T00081",
+      "source_sha256": "735990f0b739701eec1270c9d5316c8fa46cf38592ac81b81bc659d11e49d2b3",
+      "ko": "「헤에? 게임의 "
+    },
+    {
+      "id": "da1316:R00017",
+      "source_sha256": "f9eed47c5ffeb477d3a6e444628f7b054b402a0474e80514abf459ff2f3b5724",
+      "ko": "키퍼",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1316:T00082",
+      "source_sha256": "c6be12134278a807741a5b1df6edc37bea9633622237541cccc91a6eebe0efd9",
+      "ko": "관리자"
+    },
+    {
+      "id": "da1316:T00083",
+      "source_sha256": "b470fc195b3a0fabea771a13b3fc6a92db0537e6cde2556948540180e3f34e0d",
+      "ko": "가 직접"
+    },
+    {
+      "id": "da1316:R00018",
+      "source_sha256": "818ba34bd2da086699900f21358d95009097f51c926d125149c1017bacfc6f25",
+      "ko": "라스트",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1316:T00084",
+      "source_sha256": "39736cc09918965e69cfe0c9c467f962c586ca4f6faa50423ab5a369237a49cf",
+      "ko": "최종"
+    },
+    {
+      "id": "da1316:T00085",
+      "source_sha256": "ab9f67b1d21d29f8bce661f0bc81187aca39ff924f8ceb448a9e26a077746cb3",
+      "ko": " 보스를 맡겠다는 건가, 나이아 씨?」"
+    },
+    {
+      "id": "da1316:T00086",
+      "source_sha256": "b31abe0717a786de3b4bea5e9c660c6b6261b164194aa1c78da4bf2973d8e69c",
+      "ko": "「너답지 않구나, 혼돈?」"
+    },
+    {
+      "id": "da1316:T00087",
+      "source_sha256": "ccba1e39a21c7af2260cb328a167e1b4adc3ebc0912243e8ff2cf99666c9463c",
+      "ko": "「――우주는 "
+    },
+    {
+      "id": "da1316:R00019",
+      "source_sha256": "20ca418c83492244954fcaa72c7e5427c8d711a0f022a1a9edb9c610961c913b",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1316:T00088",
+      "source_sha256": "223821e46794885fc6fbdb30ffe510b3a7010c4acbd9647d5107382437acf384",
+      "ko": "무대 배경"
+    },
+    {
+      "id": "da1316:T00089",
+      "source_sha256": "6f65f8531e2baf15b3554a6c1ab4e777f1b031502b192ce2ca9baa65f1f773ff",
+      "ko": ". 등장인물은 모두, "
+    },
+    {
+      "id": "da1316:R00020",
+      "source_sha256": "4c9bacb54296d0d035f4d006bf0ac0ed27cc2a69b4bf04a1d7604bcd603b34bb",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1316:T00090",
+      "source_sha256": "7fde2ae286c236a8ef5cb2dd8b180b83eb12d95762d70e98ee5c8a9870efdee9",
+      "ko": "단역"
+    },
+    {
+      "id": "da1316:T00091",
+      "source_sha256": "819ecfe16cc44825278e3b9c1f745c493ca6fb4ab2eb4f1ea3d56bc7ebdd21d1",
+      "ko": ".\n　모든 것은 단순한 무대의 "
+    },
+    {
+      "id": "da1316:R00021",
+      "source_sha256": "cc2c2e230a34491a2a7f73f4c9590b473983cb81689eef37bcee8d4e97a6ba9c",
+      "ko": "프로그램",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1316:T00092",
+      "source_sha256": "0bc8fc43caa914853bc83a95af64bc9d14307fdd84f82b327d9337f38fba633f",
+      "ko": "종목"
+    },
+    {
+      "id": "da1316:T00093",
+      "source_sha256": "393163a4702c1eb2205789c745fa2ff7d3b78af9f6797f94b7a7b3e8f051e6d9",
+      "ko": "에 지나지 않아」"
+    },
+    {
+      "id": "da1316:T00094",
+      "source_sha256": "aae39b6f4393056bf2aa7cdb4cf511a6e783caa811909d141dda33f891c30520",
+      "ko": "「아하하하. 뭘 그래……\n　결국 나라고 해서 예외는 아니라는 소리지」"
+    },
+    {
+      "id": "da1316:T00095",
+      "source_sha256": "0e2746ae4cf19b6b3f50dbc1e1b07045d76a719a0d417784bcc128b1bdb561d5",
+      "ko": "「자아 그럼…… 마지막에 남는 것은,\n　어느 쪽 "
+    },
+    {
+      "id": "da1316:R00022",
+      "source_sha256": "c1ffb0342c7dce440ea380f7752d78bdba74e8fae1c8a82a9cf220ea8d380fe2",
+      "ko": "데우스 엑스 마키나",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1316:T00096",
+      "source_sha256": "9c950be770f5c36273ee840a301865ee29a2c7e8866248ee1a7c2b10c8db5ee4",
+      "ko": "태엽 감는 장난감"
+    },
+    {
+      "id": "da1316:T00097",
+      "source_sha256": "3fe232d2599e8ae000e8585c0315cb0a4c20c55bab7d271e43f4dcac24f4e4ce",
+      "ko": "인가.\n　마지막에 기다리는 것은,\n　어떠한 "
+    },
+    {
+      "id": "da1316:R00023",
+      "source_sha256": "c1ffb0342c7dce440ea380f7752d78bdba74e8fae1c8a82a9cf220ea8d380fe2",
+      "ko": "데우스 엑스 마키나",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1316:T00098",
+      "source_sha256": "d01646e78d9f8d10a2b76c51b69a9a678fc0add059ca28c2ea30f9e81138496f",
+      "ko": "진부한 결말"
+    },
+    {
+      "id": "da1316:T00099",
+      "source_sha256": "e6a4e539720e59d0a7a7736453074cdcf9f2da7427f3436f59ada80570ab4dd0",
+      "ko": "인가」"
+    },
+    {
+      "id": "da1316:T00100",
+      "source_sha256": "b7eab5eede750b555bafd7572e84a712167d491d78cb9aea196fc972902a5e52",
+      "ko": "혼돈의 기계가 "
+    },
+    {
+      "id": "da1316:R00024",
+      "source_sha256": "b95f35b771688da93e2f90ede90b2c8d8caa8bc9e8c7ff7b3448c85233bee856",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1316:T00101",
+      "source_sha256": "e0976785f18152debeb4f3299885f4cb0c25b6cad6782e8ae78376f56cac8c33",
+      "ko": "전율하"
+    },
+    {
+      "id": "da1316:T00102",
+      "source_sha256": "c3d9e0dfed4e0ace3dcee0f2e451b48fd0fea51e4967e4eb319b0786f1c8327a",
+      "ko": "며 요동쳤다."
+    },
+    {
+      "id": "da1316:R00025",
+      "source_sha256": "1bfa2ea2cfb2e46378769ed7965a3487b7463a5e2d12b4b85c66464a475b866d",
+      "ko": "틱톡틱톡",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1316:T00103",
+      "source_sha256": "bd4332163aa4ae844725331e9170240a054daaa705e28f9d8f1e7397c99d28df",
+      "ko": "기계적 박동"
+    },
+    {
+      "id": "da1316:T00104",
+      "source_sha256": "ccaa00c83f27b3e8562f41e80ea4d371f57fd268ee15a54f56b63f90ae7629bb",
+      "ko": "은, 고양되는 화신의 심장 소리."
+    },
+    {
+      "id": "da1316:T00105",
+      "source_sha256": "3673ecbb67987ccd787529d6f0cd014d2193ef8306dc2708308fbb83e8f0e656",
+      "ko": "그 "
+    },
+    {
+      "id": "da1316:R00026",
+      "source_sha256": "84ef66040449740cf633d4f35adf719737857496b3e5c61d918d3b51b41961cf",
+      "ko": "리듬",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1316:T00106",
+      "source_sha256": "4efec14dbab8d20f17a1f37a07052b90c7f94ab67db3abca503f64e7084663d6",
+      "ko": "율동"
+    },
+    {
+      "id": "da1316:T00107",
+      "source_sha256": "0ae36437cadefbcb451fee770e678df6a1ac9545a891543de2165ebeb801c1c7",
+      "ko": "에 맞춰, 혼돈의 여인은 노래한다."
+    },
+    {
+      "id": "da1316:T00108",
+      "source_sha256": "ba3f6a1f24b9fe7ed6baea73053b9318c5d4023ab1fb928825c7d75d56797987",
+      "ko": "「나는 절규하며 드높이 노래하리라\n　　　아직 세계가 "
+    },
+    {
+      "id": "da1316:R00027",
+      "source_sha256": "b2700ec3edf8a26c7f408f0bf53d4d8fb65f167e38101e03986cbe6f551b250d",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1316:T00109",
+      "source_sha256": "f8465a4c4a7eedbc6e6f440f1693918fb4005bb225b8a1d571901eff8a44f477",
+      "ko": "시작"
+    },
+    {
+      "id": "da1316:T00110",
+      "source_sha256": "e273750a61d3e2be389a124fe0901eabb0799593187f6cec0a0712ca701bc1a6",
+      "ko": "되지 않았던 때의"
+    },
+    {
+      "id": "da1316:R00028",
+      "source_sha256": "9207e292d24f959c0b08658caa1ee760130e03bbda4f20239889dcf27c0dff58",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1316:T00111",
+      "source_sha256": "409bf9e8e8b0d68098d2c38e5410c9be3fd881480808f2547a2cc74c79fdb9f3",
+      "ko": "파동"
+    },
+    {
+      "id": "da1316:T00112",
+      "source_sha256": "3b2e79bc719379948597cf4be8f8c76f1b3296e6089b0a355b1d9b49e5503647",
+      "ko": "의 "
+    },
+    {
+      "id": "da1316:R00029",
+      "source_sha256": "b1cd6a44a16912bb922656e5c5f48a7deb079ecf8a7b574fbe70ee1b3b2ce344",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1316:T00113",
+      "source_sha256": "3a01682c6eea20007e849c0a659c7f57bace13f0243f545a280e54daad75ae96",
+      "ko": "파도"
+    },
+    {
+      "id": "da1316:T00114",
+      "source_sha256": "5ae5bf973661dfd3b6612bb4a95a41228bb61b72c350a7b6445b10745f89d066",
+      "ko": "의 안개 깊은 곳\n　　　굴러가는 "
+    },
+    {
+      "id": "da1316:R00030",
+      "source_sha256": "a1bb6e7a908108a5a72ab000f6a5c3be49d44e89afa3a81a7211135facf3c359",
+      "ko": "다이스",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1316:T00115",
+      "source_sha256": "c0939721721a8d77e2cb6e5cb8a11612c6680ed446ae9f3e21b96a4ac200d93c",
+      "ko": "주사위"
+    },
+    {
+      "id": "da1316:T00116",
+      "source_sha256": "2ad024a0c68e17db8f9c2a399ae88854413337c9d235bc49c269ed1f1aa26263",
+      "ko": " 눈의 수를」"
+    },
+    {
+      "id": "da1316:T00117",
+      "source_sha256": "5a5cebc2bc2c6f8ba0bd2987185a42bbcb48f38df385fd693d3f635952a2ada4",
+      "ko": "혼돈의 기계가 터지며, "
+    },
+    {
+      "id": "da1316:R00031",
+      "source_sha256": "5e50b96c27b2f416824dd21237894b52728e9f8acf21f77ae97378faaafaa899",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1316:T00118",
+      "source_sha256": "09152a2380b09e688a514e86056805ca633afd8381453280be7f536c7140c91a",
+      "ko": "풀어"
+    },
+    {
+      "id": "da1316:T00119",
+      "source_sha256": "05ab8e9d37ef9633d9abc218a02a6611ff5b7de8f5ae6ab6d635cfc7933c5ec6",
+      "ko": "진다."
+    },
+    {
+      "id": "da1316:T00120",
+      "source_sha256": "f1406f1594f30e79a108a845677c595a092ec647c7d453f7963928528d41fe58",
+      "ko": "무수한 나사/톱니바퀴/태엽/배관/철골/도선/장갑이 거대한\n회오리가 되어, 이중 나선을 그린다."
+    },
+    {
+      "id": "da1316:R00032",
+      "source_sha256": "5f048bb5b5841080979b8697c7f009ee53e1519833923bc4e45d4aa3a4657914",
+      "ko": "메탈슈트롬은",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1316:T00121",
+      "source_sha256": "f7587513ff7efd61dec3367cbf77eb45bde4f5d24d89ce9998e0f2388db423f6",
+      "ko": "강철의 회오리는"
+    },
+    {
+      "id": "da1316:T00122",
+      "source_sha256": "081517943cd89f9f0c967df9320f503900b4f992bdc3cbae1c669bdf5e4a34ef",
+      "ko": " 다른 기계를 집어삼키며, 한층 더 비대해진다."
+    },
+    {
+      "id": "da1316:T00123",
+      "source_sha256": "5cef0d2af8fe0f8aca3389b493dcb2ad35aa2f616822ecce5c702a7c39f92a3d",
+      "ko": "「나는 오열하며 호소하리라"
+    },
+    {
+      "id": "da1316:R00033",
+      "source_sha256": "8d621c5b39c3b3fc1c4421e71d03d95bf11db997394b0b9280a4826168a392f6",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1316:T00124",
+      "source_sha256": "d5cee6106624a5ac62ae7b109c9bc43ffc5ec4393197837961f19cbb0aec796a",
+      "ko": "공허"
+    },
+    {
+      "id": "da1316:T00125",
+      "source_sha256": "3b2e79bc719379948597cf4be8f8c76f1b3296e6089b0a355b1d9b49e5503647",
+      "ko": "한 "
+    },
+    {
+      "id": "da1316:R00034",
+      "source_sha256": "d5e96c70eb311eda821d273d3fbe4d821935c3741580d6b6563536723fa89306",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1316:T00126",
+      "source_sha256": "b9ba74447cbaca624042d82c3ebf3f660837db4fac4a072e6a108fbb6413d8bb",
+      "ko": "영혼"
+    },
+    {
+      "id": "da1316:T00127",
+      "source_sha256": "b071715bee5ddd34442a4af7035832a7d8c80448fc21dee454b42b3909a54da5",
+      "ko": "의 바람이 "
+    },
+    {
+      "id": "da1316:R00035",
+      "source_sha256": "1bb602cd1cb019533d75bd7c40521f38b7f08905b86192c9d937e1982b7d211e",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1316:T00128",
+      "source_sha256": "8c0e502b7aaefc693735ec80d465775a74d8020d6633a516f56c3e104370686b",
+      "ko": "아"
+    },
+    {
+      "id": "da1316:T00129",
+      "source_sha256": "57c2682b2a92654ea4a132cef3cafc95a81034f9dbd0ebb8a77d1258424e26c0",
+      "ko": "는\n　　　　　　　　　　　　　　　　　신의 "
+    },
+    {
+      "id": "da1316:R00036",
+      "source_sha256": "be1e1ca73120cdee4bf4f513c3b8bb013714e4127dd2fca6e756c4d6a1c7f3e4",
+      "ko": "보드",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1316:T00130",
+      "source_sha256": "c13b62d0138c9e2469c571ad2d03856d41599ab86226345e21c14ebaec5e8e59",
+      "ko": "판"
+    },
+    {
+      "id": "da1316:T00131",
+      "source_sha256": "171e8c907e71657578c3ca72ef763d8d4909fc30ce849d56dbe2ca779d4601c3",
+      "ko": " 위의 작은 먼지를\n　　　　　　　　　　　　　　　　　움직이는 기사의 "
+    },
+    {
+      "id": "da1316:R00037",
+      "source_sha256": "e70dc4a382d958b65258519cec45c45ac3bc10925e7567c6eb4bcf5f1e904305",
+      "ko": "체크메이트",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1316:T00132",
+      "source_sha256": "188d9a9d5fbeedc68d76b0a0cf3fbd591d5982a296844a8b4f59cc894fa37dc1",
+      "ko": "마지막 한 수"
+    },
+    {
+      "id": "da1316:T00133",
+      "source_sha256": "75149f2440136bf3903211102554eed3893396f5fb5b9bf6c8aef8284355790c",
+      "ko": "를」"
+    },
+    {
+      "id": "da1316:T00134",
+      "source_sha256": "1b7145d34e9e2dc5e403487caa24eb0c61ab27b668ba0c6a17385ee52c9b30b8",
+      "ko": "맞물리고, 짜 맞춰지는 나선과 나선."
+    },
+    {
+      "id": "da1316:T00135",
+      "source_sha256": "ebd95dd3f64d7521f6f4885a252879803525bf0016db9978b425c75b53192173",
+      "ko": "이윽고 그것은, 새로운 "
+    },
+    {
+      "id": "da1316:R00038",
+      "source_sha256": "c487f6c74288ab019961e56aef522e3c87d5dc00cef31baca8f8cb4f04f304e1",
+      "ko": "마키나",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1316:T00136",
+      "source_sha256": "81c946eaa0779951bd08ebc4db804dc22b1d2b834bbe846f1991b279690e015a",
+      "ko": "기계"
+    },
+    {
+      "id": "da1316:T00137",
+      "source_sha256": "8f56c510327642b0989e4936e167676893443c62c49ceb45f6f22993b22cbbb1",
+      "ko": "로 완성된다."
+    },
+    {
+      "id": "da1316:T00138",
+      "source_sha256": "ea1c1b8c80f14ae72f9f22ef48e81c107d4872f2088a7aead1c9e1949db5878c",
+      "ko": "난무하는 강철의 이중 나선이 낳아놓은, 그 모습은――"
+    },
+    {
+      "id": "da1316:T00139",
+      "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+      "ko": "「"
+    },
+    {
+      "id": "da1316:R00039",
+      "source_sha256": "6a2ae60de17906b560e7fc1e22b75e197f7037d061c5f1bca819bfc1a0eb5ae7",
+      "ko": "나사를",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1316:T00140",
+      "source_sha256": "05ffbe319012ddf822d8e71458411cad7a0800b97c64951feb76c8792e2f297d",
+      "ko": "나선을"
+    },
+    {
+      "id": "da1316:T00141",
+      "source_sha256": "369af8a86b156a9d759337f57cad547f74c1486f5f3ea63e15a4211b6e63eda4",
+      "ko": " 감아라"
+    },
+    {
+      "id": "da1316:R00040",
+      "source_sha256": "6a2ae60de17906b560e7fc1e22b75e197f7037d061c5f1bca819bfc1a0eb5ae7",
+      "ko": "나사를",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1316:T00142",
+      "source_sha256": "05ffbe319012ddf822d8e71458411cad7a0800b97c64951feb76c8792e2f297d",
+      "ko": "나선을"
+    },
+    {
+      "id": "da1316:T00143",
+      "source_sha256": "369af8a86b156a9d759337f57cad547f74c1486f5f3ea63e15a4211b6e63eda4",
+      "ko": " 감아라"
+    },
+    {
+      "id": "da1316:R00041",
+      "source_sha256": "cdaec4d4ff2d9b5d9f6974dbfa61cebbcc492184b273904fbaccb412c6b71cbc",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1316:T00144",
+      "source_sha256": "ec1a950dd14354dfd9c35ba8940a011185ee0d170fcf9d8288bd5c511948383d",
+      "ko": "태엽"
+    },
+    {
+      "id": "da1316:T00145",
+      "source_sha256": "4bcc21a9479283da9d89c98f5988b03bfa3807b8ea5595eecef15f8578873ab7",
+      "ko": "이 끊어지는 그 순간까지\n　　　　　　　　　　　　　　　　　　　　　　　　　춤추고 춤추고 밤새 춤추며 미쳐 날뛰어라」"
+    },
+    {
+      "id": "da1316:T00146",
+      "source_sha256": "527f73ca912b77c8dd4d91262d2819ddc10a5a47f0b31e5ffcb5165537fa98e5",
+      "ko": "――"
+    },
+    {
+      "id": "da1316:R00042",
+      "source_sha256": "73ac229cabfac277c315b4b0d1eb76959473af07f58c11d00bb82a06b250745a",
+      "ko": "데우스 마키나",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1316:T00147",
+      "source_sha256": "762524a979d84688362b8dc00d54c75a1be10d7917ed188fd55985924c885e49",
+      "ko": "귀계신"
+    },
+    {
+      "id": "da1316:T00148",
+      "source_sha256": "519a22be830631ce742e05cc8450b867bd38e369c007fdad58b6adca75055514",
+      "ko": " 클록워크 팬텀."
+    },
+    {
+      "id": "da1316:T00149",
+      "source_sha256": "cb82024c772a256063e5c24cdfc72287ae2ee42da4f24558f6e485ab67d1f59c",
+      "ko": "「언제까지고 게임 기분으로 있지 마라."
+    },
+    {
+      "id": "da1316:R00043",
+      "source_sha256": "b23809bf96a578e2f1bd090c387ee6bf76b00f431c6ea18868a02155a811f1f4",
+      "ko": "・・・・・・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1316:T00150",
+      "source_sha256": "a6d85749c3c97ebe96034fe5c274676aa8b9d53eefc59efd079565f9f9e1bbad",
+      "ko": "우리가 무엇인지"
+    },
+    {
+      "id": "da1316:T00151",
+      "source_sha256": "552507425d68b583bbee736ab486fdc6c607c01cd5900d5c4fe11220986d91ba",
+      "ko": " 알고나 있는 거냐?」"
+    },
+    {
+      "id": "da1316:T00152",
+      "source_sha256": "a85d0c29cfdcd72041adf368c86d87fb3e8601b3fd1e0cd8ac8af457492a0939",
+      "ko": "「우리는 검. 마를 끊는 검. 신을 죽이는 칼날이니라. 그대가 꾸며낸 "
+    },
+    {
+      "id": "da1316:R00044",
+      "source_sha256": "e94f1faa515752375b0ef3fde9b045eda04b24401330a4aaffdbaf31345b5e42",
+      "ko": "게임 보드",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1316:T00153",
+      "source_sha256": "62eadd26bad34f93b4ad43297756f0e586e879b972d2e8593ad5fcaabcb4490c",
+      "ko": "유희판"
+    },
+    {
+      "id": "da1316:T00154",
+      "source_sha256": "555b3b8b3cde4f8ff4e23edc3f02d7fdc4f6195679de76f7afa01e0d381e56c4",
+      "ko": " 따위 베어 갈라 주마」"
+    },
+    {
+      "id": "da1316:T00155",
+      "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+      "ko": "「"
+    },
+    {
+      "id": "da1316:R00045",
+      "source_sha256": "fd24608330586093b66f5624f72b03e6a91ae1c1e330bc1c9368e294e4c35880",
+      "ko": "게임",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1316:T00156",
+      "source_sha256": "ee0cf58382c08bfaf3d96b90f7cb9f5e6ef3da14a74d5c7f4b587d45d8a03bb3",
+      "ko": "판 위"
+    },
+    {
+      "id": "da1316:T00157",
+      "source_sha256": "9218d49bb1c19889ada5b5636a7ae712e3de4c621afc7da11eb79f5eeb869f19",
+      "ko": "의 밖 또한 "
+    },
+    {
+      "id": "da1316:R00046",
+      "source_sha256": "fd24608330586093b66f5624f72b03e6a91ae1c1e330bc1c9368e294e4c35880",
+      "ko": "게임",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1316:T00158",
+      "source_sha256": "ee0cf58382c08bfaf3d96b90f7cb9f5e6ef3da14a74d5c7f4b587d45d8a03bb3",
+      "ko": "판 위"
+    },
+    {
+      "id": "da1316:T00159",
+      "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+      "ko": "."
+    },
+    {
+      "id": "da1316:R00047",
+      "source_sha256": "0af58228c22b133c5bdd0f6445db6da234ebb2d2fa326d774ee81421630a0c3b",
+      "ko": "스테이지",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1316:T00160",
+      "source_sha256": "16d2a5db83d2126458382991190b0adc12d36e37755b146abf9e02ec64d557f9",
+      "ko": "무대"
+    },
+    {
+      "id": "da1316:T00161",
+      "source_sha256": "9218d49bb1c19889ada5b5636a7ae712e3de4c621afc7da11eb79f5eeb869f19",
+      "ko": "의 밖 또한 "
+    },
+    {
+      "id": "da1316:R00048",
+      "source_sha256": "0af58228c22b133c5bdd0f6445db6da234ebb2d2fa326d774ee81421630a0c3b",
+      "ko": "스테이지",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1316:T00162",
+      "source_sha256": "16d2a5db83d2126458382991190b0adc12d36e37755b146abf9e02ec64d557f9",
+      "ko": "무대"
+    },
+    {
+      "id": "da1316:T00163",
+      "source_sha256": "a3c3f5c2990cb8f2e003d21375b15d161afb70bfa4fdb047c080d1dce86c72a7",
+      "ko": ".\n　벗어나는 것 따윈 불가능해」"
+    },
+    {
+      "id": "da1316:T00164",
+      "source_sha256": "ece16af20c383266b424375bd6a88b0a128a9a586eb881ebbecadc2dea3953bb",
+      "ko": "「도망쳐? 헛소리하지 마라……」"
+    },
+    {
+      "id": "da1316:T00165",
+      "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+      "ko": "「"
+    },
+    {
+      "id": "da1316:R00049",
+      "source_sha256": "fd24608330586093b66f5624f72b03e6a91ae1c1e330bc1c9368e294e4c35880",
+      "ko": "게임",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1316:T00166",
+      "source_sha256": "c13b62d0138c9e2469c571ad2d03856d41599ab86226345e21c14ebaec5e8e59",
+      "ko": "판"
+    },
+    {
+      "id": "da1316:T00167",
+      "source_sha256": "8d5d1cd151c87e9a3f58cce844c62188ff59449c4226070800bebf411d9d99e3",
+      "ko": " 밖의 "
+    },
+    {
+      "id": "da1316:R00050",
+      "source_sha256": "fd24608330586093b66f5624f72b03e6a91ae1c1e330bc1c9368e294e4c35880",
+      "ko": "게임",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1316:T00168",
+      "source_sha256": "c13b62d0138c9e2469c571ad2d03856d41599ab86226345e21c14ebaec5e8e59",
+      "ko": "판"
+    },
+    {
+      "id": "da1316:T00169",
+      "source_sha256": "a2118ad53a88ff3eb5a6802d07a34f767ce91657df35576a20a1ec9f71021e51",
+      "ko": "도, "
+    },
+    {
+      "id": "da1316:R00051",
+      "source_sha256": "0af58228c22b133c5bdd0f6445db6da234ebb2d2fa326d774ee81421630a0c3b",
+      "ko": "스테이지",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1316:T00170",
+      "source_sha256": "16d2a5db83d2126458382991190b0adc12d36e37755b146abf9e02ec64d557f9",
+      "ko": "무대"
+    },
+    {
+      "id": "da1316:T00171",
+      "source_sha256": "8d5d1cd151c87e9a3f58cce844c62188ff59449c4226070800bebf411d9d99e3",
+      "ko": " 밖의 "
+    },
+    {
+      "id": "da1316:R00052",
+      "source_sha256": "0af58228c22b133c5bdd0f6445db6da234ebb2d2fa326d774ee81421630a0c3b",
+      "ko": "스테이지",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1316:T00172",
+      "source_sha256": "16d2a5db83d2126458382991190b0adc12d36e37755b146abf9e02ec64d557f9",
+      "ko": "무대"
+    },
+    {
+      "id": "da1316:T00173",
+      "source_sha256": "8c0ffc6dd6060ad0fa782d99e01005c0e0e8b08b7c3c1a7cb668754b55d3c0aa",
+      "ko": "도 전부 때려 부숴 주겠어!」"
+    },
+    {
+      "id": "da1316:T00174",
+      "source_sha256": "6eaa58234c0565905dade8b4a4865b11b59327f4ada24bdb99249e7a49a58261",
+      "ko": "다리 실드의 에너지를 개방한다."
+    },
+    {
+      "id": "da1316:T00175",
+      "source_sha256": "9e3f745cec2918a7b42b79132af5eea056a48528949d1980de2802db67bb224c",
+      "ko": "공간 왜곡의 반작용으로 인한 방전이, 빛의 용이 되어 날뛴다."
+    },
+    {
+      "id": "da1316:T00176",
+      "source_sha256": "531facef5c01aa9d684bbb946717673b301736a2a09ebee0a001b84e0f18b456",
+      "ko": "「미래영겁, 계속해서 패배해라――\n　나이알라토텝!」"
+    },
+    {
+      "id": "da1316:T00177",
+      "source_sha256": "ee2d44be8dfb3bcaf910b06bcb5b4a23040bcc1d6d34dc5ae246b5ff2685bf5a",
+      "ko": "데몬베인이, 질주한다."
+    },
+    {
+      "id": "da1316:T00178",
+      "source_sha256": "9671a40cf18c1bf8348c6c836071ac1995cd854f5d2839f1d0ace40dae5c2817",
+      "ko": "눈앞을 가로막는 강대한 적에게 맞서기 위해."
+    },
+    {
+      "id": "da1316:T00179",
+      "source_sha256": "59639d49472f19a989be77cd46950ed8518472cf66f43341db38fd41abc2c975",
+      "ko": "그리고―― 울고 있는 아이들을 구하기 위해."
+    },
+    {
+      "id": "da1316:T00180",
+      "source_sha256": "358f2e43c4903492776ce61ecb99d34bbb86f8d840a7350b6470c607b817ea5a",
+      "ko": "「기다려라…… 쿠자쿠!」"
+    },
+    {
+      "id": "da1316:T00181",
+      "source_sha256": "ee052f63ee07398e0818a96a71c150c9de6678c9d2dcd42da86c5eab2947e52a",
+      "ko": "우리는, 그러기 위한 힘을 부여받았으니까."
+    },
+    {
+      "id": "da1316:T00182",
+      "source_sha256": "0fc53ac9f756dfeb15302e7f1bd7266fd3537603eb8d99487534bac3a0fb0bfb",
+      "ko": "신에게서가 아니라―― 우리를 둘러싼, 수많은 선량한 이들에게서."
+    }
+  ],
+  "issues": [
+    {
+      "id": "da1316:R00001",
+      "kind": "ruby_decision",
+      "note": "일본어 독음 はず이 한국어 본문과 겹쳐 읽기 줄을 생략"
+    },
+    {
+      "id": "da1316:R00005",
+      "kind": "ruby_decision",
+      "note": "일본어 독음 よりしろ이 한국어 본문과 겹쳐 읽기 줄을 생략"
+    },
+    {
+      "id": "da1316:R00006",
+      "kind": "ruby_decision",
+      "note": "일본어 독음 まさか이 한국어 본문과 겹쳐 읽기 줄을 생략"
+    },
+    {
+      "id": "da1316:R00019",
+      "kind": "ruby_decision",
+      "note": "일본어 독음 カキワリ이 한국어 본문과 겹쳐 읽기 줄을 생략"
+    },
+    {
+      "id": "da1316:R00020",
+      "kind": "ruby_decision",
+      "note": "일본어 독음 はやく이 한국어 본문과 겹쳐 읽기 줄을 생략"
+    },
+    {
+      "id": "da1316:R00024",
+      "kind": "ruby_decision",
+      "note": "일본어 독음 おのの이 한국어 본문과 겹쳐 읽기 줄을 생략"
+    },
+    {
+      "id": "da1316:R00027",
+      "kind": "ruby_decision",
+      "note": "일본어 독음 はじ이 한국어 본문과 겹쳐 읽기 줄을 생략"
+    },
+    {
+      "id": "da1316:R00028",
+      "kind": "ruby_decision",
+      "note": "일본어 독음 ハドウ이 한국어 본문과 겹쳐 읽기 줄을 생략"
+    },
+    {
+      "id": "da1316:R00029",
+      "kind": "ruby_decision",
+      "note": "일본어 독음 ハトウ이 한국어 본문과 겹쳐 읽기 줄을 생략"
+    },
+    {
+      "id": "da1316:R00031",
+      "kind": "ruby_decision",
+      "note": "일본어 독음 ほど이 한국어 본문과 겹쳐 읽기 줄을 생략"
+    },
+    {
+      "id": "da1316:R00033",
+      "kind": "ruby_decision",
+      "note": "일본어 독음 ウツロ이 한국어 본문과 겹쳐 읽기 줄을 생략"
+    },
+    {
+      "id": "da1316:R00034",
+      "kind": "ruby_decision",
+      "note": "일본어 독음 タマ이 한국어 본문과 겹쳐 읽기 줄을 생략"
+    },
+    {
+      "id": "da1316:R00035",
+      "kind": "ruby_decision",
+      "note": "일본어 독음 し이 한국어 본문과 겹쳐 읽기 줄을 생략"
+    },
+    {
+      "id": "da1316:R00041",
+      "kind": "ruby_decision",
+      "note": "일본어 독음 ゼンマイ이 한국어 본문과 겹쳐 읽기 줄을 생략"
+    }
+  ]
+}

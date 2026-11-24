@@ -1,0 +1,813 @@
+{
+  "schema": "khd-gemini-response-v1",
+  "packet_id": "P0116_da1315",
+  "model_id": "Gemini 3.8 Flash (High)",
+  "records": [
+    {
+      "id": "da1315:T00001",
+      "source_sha256": "6f8b85e798bfbcf76142e5327dd4407dd0e8c615bc4952f95512795d066d9bd2",
+      "ko": "「다이쥬지지 쿠로의 기체가 재기동했군」"
+    },
+    {
+      "id": "da1315:T00002",
+      "source_sha256": "5052bafa934720ea6ea07e19538ba34f2eb224fb9afaae804f4bb53362fb3d83",
+      "ko": "「분하지만, 뒤는 맡길 수밖에 없어」"
+    },
+    {
+      "id": "da1315:T00003",
+      "source_sha256": "c2a44e585d9dcd0206178380099cdada721c665cff0ebcd3111b2717b4b05816",
+      "ko": "「……뭐, 저 녀석이라면 어떻게든 해주겠지」"
+    },
+    {
+      "id": "da1315:T00004",
+      "source_sha256": "719babcd7c69697b3c74026234272f80debf8f1b6b1fd9d3b3a17a8560b49873",
+      "ko": "「신뢰하고 있구나, 대디?」"
+    },
+    {
+      "id": "da1315:T00005",
+      "source_sha256": "44c6ad1e54def8c65286246b8975b53171701d795fa0a9d6181d9012e211313d",
+      "ko": "「그래, 내 "
+    },
+    {
+      "id": "da1315:R00001",
+      "source_sha256": "8d621c5b39c3b3fc1c4421e71d03d95bf11db997394b0b9280a4826168a392f6",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1315:T00006",
+      "source_sha256": "a9cd525db318f43791bcf8b25adf15fd77187c35be738deeba23766709f41b7c",
+      "ko": "공허"
+    },
+    {
+      "id": "da1315:T00007",
+      "source_sha256": "30decdf4274513937a5295af56ea082925e2c003e616f76156e9dec43f9164c6",
+      "ko": "한 "
+    },
+    {
+      "id": "da1315:R00002",
+      "source_sha256": "d2d8eda0b88547f562bc4bb849c7aaffec75e26f85431858bc7bfce05f769e58",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1315:T00008",
+      "source_sha256": "e7e10ff4632bce438732a05cf0364295ccba97410ccec51faac8dc3ecb02b6f0",
+      "ko": "안와"
+    },
+    {
+      "id": "da1315:T00009",
+      "source_sha256": "56c1364104c263bc137cb2136191b77cb980a0f2a047cdb58fd76c4877c3b696",
+      "ko": "에도,\n　저 녀석의 웅자가 또렷이 보이는군」"
+    },
+    {
+      "id": "da1315:T00010",
+      "source_sha256": "584b4f30db3b998fec65b1092ebe4d5c50a2aeb8d89f35152953a67ac524f7b8",
+      "ko": "「데몬베인――그것은 "
+    },
+    {
+      "id": "da1315:R00003",
+      "source_sha256": "399541026b89787f76b6312375d21b42244869347cf836059cf9eba724bb4824",
+      "ko": "・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1315:T00011",
+      "source_sha256": "788d5efc116194b9784fd498b28f4bc7cc1f20f6f3af02dcdbb52839d3653309",
+      "ko": "최약"
+    },
+    {
+      "id": "da1315:T00012",
+      "source_sha256": "3b2e79bc719379948597cf4be8f8c76f1b3296e6089b0a355b1d9b49e5503647",
+      "ko": "의 "
+    },
+    {
+      "id": "da1315:R00004",
+      "source_sha256": "73ac229cabfac277c315b4b0d1eb76959473af07f58c11d00bb82a06b250745a",
+      "ko": "데우스 마키나다",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1315:T00013",
+      "source_sha256": "762524a979d84688362b8dc00d54c75a1be10d7917ed188fd55985924c885e49",
+      "ko": "귀계신이다"
+    },
+    {
+      "id": "da1315:T00014",
+      "source_sha256": "7e8070ad59c3414f311c0eee7318952dbe153e98203efa3af133a48be3fe7af1",
+      "ko": ". 우주의 "
+    },
+    {
+      "id": "da1315:R00005",
+      "source_sha256": "2dc83fbd20d852ebc57acbd21403e5d7ef037dcdcd04c98c8aca6c2caeac920e",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1315:T00015",
+      "source_sha256": "ae0f56e8fa98e115575873150d7b657021ae833d0abeb461373a4145636aed33",
+      "ko": "암흑"
+    },
+    {
+      "id": "da1315:T00016",
+      "source_sha256": "938c3429dcdbc8557de089855db91dec4a3026a82b75d7365d6c49ef2e622efc",
+      "ko": "을 받아들이지 못하는 자의, 나약한 마음이 낳은 기체다」"
+    },
+    {
+      "id": "da1315:T00017",
+      "source_sha256": "1760b2142d01c6e03f345271d084197936898d4c92434e4af200fdd2dc287ff4",
+      "ko": "「그러기에――"
+    },
+    {
+      "id": "da1315:R00006",
+      "source_sha256": "399541026b89787f76b6312375d21b42244869347cf836059cf9eba724bb4824",
+      "ko": "・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1315:T00018",
+      "source_sha256": "f385b5b6747e075b55109f385aed639a2b8017c06f2eac2aea8f4500f00ccd6d",
+      "ko": "무적"
+    },
+    {
+      "id": "da1315:T00019",
+      "source_sha256": "3b2e79bc719379948597cf4be8f8c76f1b3296e6089b0a355b1d9b49e5503647",
+      "ko": "의 "
+    },
+    {
+      "id": "da1315:R00007",
+      "source_sha256": "73ac229cabfac277c315b4b0d1eb76959473af07f58c11d00bb82a06b250745a",
+      "ko": "데우스 마키나다",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1315:T00020",
+      "source_sha256": "69c47b9525b21600815068352f97ebee458627629c69048cff15871d41280f06",
+      "ko": "위신이다"
+    },
+    {
+      "id": "da1315:T00021",
+      "source_sha256": "501f2f8b450b3cd40a0800a45e86cf596be7ee44c87fb6e5725e1f6275a5da1f",
+      "ko": ".\n　　우주의 "
+    },
+    {
+      "id": "da1315:R00008",
+      "source_sha256": "2dc83fbd20d852ebc57acbd21403e5d7ef037dcdcd04c98c8aca6c2caeac920e",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1315:T00022",
+      "source_sha256": "ae0f56e8fa98e115575873150d7b657021ae833d0abeb461373a4145636aed33",
+      "ko": "암흑"
+    },
+    {
+      "id": "da1315:T00023",
+      "source_sha256": "f45abae981e805b60655a3311fc0b4f81d20362329c64f47c6b9a7dadcf917e8",
+      "ko": "에 계속해서 맞서는 자의,\n　　처절한 각오가 낳은 기체――」"
+    },
+    {
+      "id": "da1315:T00024",
+      "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+      "ko": "「"
+    },
+    {
+      "id": "da1315:R00009",
+      "source_sha256": "b750c2ece644240b0f8e138a0602b89062dcd4cb934044a963e76bf34670b76d",
+      "ko": "・・・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1315:T00025",
+      "source_sha256": "4d34fdacc42253511b5f1f9baa6ffd56e4ee93169729326efd70d631ec898d71",
+      "ko": "최약무적"
+    },
+    {
+      "id": "da1315:T00026",
+      "source_sha256": "b264a9a025a7e90ca220ca6dbb8f3faf44bc75d830a3e8cc44d7b0555ce601d5",
+      "ko": "의 검.\n　　　결코 꺾이지 않는, 마를 끊는 검이다」"
+    },
+    {
+      "id": "da1315:T00027",
+      "source_sha256": "0a8725f12c1a14b09ab34f0f0da3861b70cead44d3ecca450591a7cb98a068aa",
+      "ko": "「크크큭……"
+    },
+    {
+      "id": "da1315:T00028",
+      "source_sha256": "12f48999d83584293a1220b805f044abfb1ba976888070c5d2b699786dbb28ea",
+      "ko": "하핫……"
+    },
+    {
+      "id": "da1315:T00029",
+      "source_sha256": "bfee43a91929acb615e39b20af8e187a4bf8a1a383db9f2e780061132531f83d",
+      "ko": "크하아――하하하하하하핫」"
+    },
+    {
+      "id": "da1315:T00030",
+      "source_sha256": "442e5151294cfcbc4122d7829613ba2b052e9aec3c684b259a37d5e71f952f4b",
+      "ko": "「부우웃!"
+    },
+    {
+      "id": "da1315:T00031",
+      "source_sha256": "b9ca825b509dbf03ffa9317a8d2f9ccee881d6da9dd4ccdb05fddebc38d3d97a",
+      "ko": "화아아알――――!」"
+    },
+    {
+      "id": "da1315:T00032",
+      "source_sha256": "1636d6292a32448d1c3456fb215eb4606cc7dd5fa5ffe7a75e0f1c6a6522ab1e",
+      "ko": "「크하핫"
+    },
+    {
+      "id": "da1315:T00033",
+      "source_sha256": "7ba9445187944ebd151d61d0d036ff626e322159525f01caa056766c110e9478",
+      "ko": "……이놈이고, "
+    },
+    {
+      "id": "da1315:T00034",
+      "source_sha256": "3768f80216d0a78a6286bc52ddf56b718764f6dbfa0d75af60ae8f2e4f644365",
+      "ko": "저놈이고, "
+    },
+    {
+      "id": "da1315:T00035",
+      "source_sha256": "f343b818a3b6b11671e4bb941ebe0f0d71fedddb45b9246284c0e6b59c2339c6",
+      "ko": "잘도, 정말로! "
+    },
+    {
+      "id": "da1315:T00036",
+      "source_sha256": "62368de79ae06ff287d32c36148ff5fbd4917cd3c7a80fb1c5b474348c2fea3b",
+      "ko": "완전무결식 정통파 최강 미소녀\n히로인인, 이 몸을!　"
+    },
+    {
+      "id": "da1315:R00010",
+      "source_sha256": "66561cb085a704d256bf82ee25b103e0c06299482627e8a35c546aa04e08e82f",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1315:T00037",
+      "source_sha256": "60771f2b407ec5a154f6120617d4a0f9aec5aaa08a049bf5b2f74aae4fff30bf",
+      "ko": "바보"
+    },
+    {
+      "id": "da1315:T00038",
+      "source_sha256": "5e26b0ffb4346a22a927172498551c0361e5ebce1a90d6791bc40a7f829f37db",
+      "ko": " 취급해 주었구나……읏!」"
+    },
+    {
+      "id": "da1315:T00039",
+      "source_sha256": "ef47e5b9c0fa33829f47a4895c921dad5004e34f867cb43b64750f62da34e184",
+      "ko": "「어……어이, 알?」"
+    },
+    {
+      "id": "da1315:T00040",
+      "source_sha256": "43b26c74020ad7518c59e20026c53b8bb743655d3946365bee5f1b17d6733514",
+      "ko": "「이번엔 좋은 구석이 하나도 없지 않느냐!\n　대체 이 몸은 무엇이냐!?　"
+    },
+    {
+      "id": "da1315:R00011",
+      "source_sha256": "fe65050b6cf95368d85f30fd366c092a15824886d51defd754887d1e968f7491",
+      "ko": "・・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1315:T00041",
+      "source_sha256": "2f516e7943058a44d9dc7a699242dae5eea447eec9e033f479f30a7fc9527e07",
+      "ko": "들러리"
+    },
+    {
+      "id": "da1315:T00042",
+      "source_sha256": "d46fb85caebaa189ab133bc25aea487a4d8193eb13c8992810a989c528ac35c0",
+      "ko": "냐!?\n　신참을 돋보이게 하는 들러리냐!?　B클래스\n　헌터지만 진정한 실력은 "
+    },
+    {
+      "id": "da1315:R00012",
+      "source_sha256": "e0041f1535c6543cc9a0577bd99460cd8f1404c78fde0ad5ed74d7564c7c7095",
+      "ko": "트리플 에스",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1315:T00043",
+      "source_sha256": "7795dad56e34112233b8ca30280ada431f081fd704daa61b50150b8ef7725d6a",
+      "ko": "SSS"
+    },
+    {
+      "id": "da1315:T00044",
+      "source_sha256": "f510af3932ee0923f69c3d9887ca2f9bc97c8962aac0d272e1f52681b34a9171",
+      "ko": "란 말이냐!?\n　……잘도 농락해 주었"
+    },
+    {
+      "id": "da1315:R00013",
+      "source_sha256": "2409140f4e03307bce42578951786bc983934435a68e5bd7bbc12f9b813cf457",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1315:T00045",
+      "source_sha256": "d5269e7cad96fb4de6c4129ef48159c570b85f1a357bf6e5afa7cad7c186a8b4",
+      "ko": "구나"
+    },
+    {
+      "id": "da1315:T00046",
+      "source_sha256": "6560fad1b5299ec45c7562b1e825f123c87101dc289a1eb71426e443d34f4c8c",
+      "ko": "!」"
+    },
+    {
+      "id": "da1315:T00047",
+      "source_sha256": "87b1ef6884c7ca2b17aa142d83bd2780acf7d6ec521d3b24be3c9442fa0f3aef",
+      "ko": "데몬베인에서 폭발적으로 뿜어진 투기(어딘가 거무스름한 풍미)에\n닿아, 기계인 군세가 먼지로 화한다."
+    },
+    {
+      "id": "da1315:T00048",
+      "source_sha256": "1d39e3d75e85766541abc061e2cd396d936710ee3ac2bf72f539d6bc390a71a9",
+      "ko": "「활약할 자리를 빼앗긴 원한, 잊으려야\n　잊을 수 없느니라……네놈들의 차후 분량!\n　아예 씨를 말려 주마!」"
+    },
+    {
+      "id": "da1315:T00049",
+      "source_sha256": "85e564206b6e44abb7b8ad62dcfab6246b788ff84433b386b8e9eed5d027f5d7",
+      "ko": "「자, 데몬베인에 타거라, 쿠로!\n　이놈들 전원에게 메인 히로인이 누구인지를 "
+    },
+    {
+      "id": "da1315:R00014",
+      "source_sha256": "6195718f5eb43d289510d24a658c4d8209ba3aa3fc4d4c9527231166d2a0c8f4",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1315:T00050",
+      "source_sha256": "7fa48bad516a2de563bc66c385b11a612f3596b9b149a0bec94fed63f91cc49b",
+      "ko": "똑똑히"
+    },
+    {
+      "id": "da1315:T00051",
+      "source_sha256": "39bf1c2a451c723b4000423b6c47106009a77502e144f7608e3819e798015915",
+      "ko": " 깨닫게 해주마!」"
+    },
+    {
+      "id": "da1315:T00052",
+      "source_sha256": "97df9a0edd7976772e4a22641ebace82f9b18624ededce66d7354245ad381062",
+      "ko": "「갑자기 굴러들어온 조연 따위에게에에!"
+    },
+    {
+      "id": "da1315:T00053",
+      "source_sha256": "c030a5e1b4992d6f2b7790d2513a215bc4b7b4f53ef8e97754ea5e2a48bfd88e",
+      "ko": "이 이야기는 버겁단 말이다아아!"
+    },
+    {
+      "id": "da1315:T00054",
+      "source_sha256": "807620ed25e7ab0521becbbd5bbf1cd095129142353129c830576c0540b6cb66",
+      "ko": "크크……크카캇!"
+    },
+    {
+      "id": "da1315:T00055",
+      "source_sha256": "a91efe3e36e870726b23be883ab84095fd659f8ea4d87bcde4a60e218ca55a82",
+      "ko": "카아―카카카카카카카캇!」"
+    },
+    {
+      "id": "da1315:T00056",
+      "source_sha256": "3ebcfa5e7b08cdfa9835da8ec1ea599417c49df142f8e66799c1b69206782a6b",
+      "ko": "「…"
+    },
+    {
+      "id": "da1315:T00057",
+      "source_sha256": "b4935894c8ce16bde67bbffc672428b1533c4f1e1e8b1ce21a2933183db6bfa5",
+      "ko": "…"
+    },
+    {
+      "id": "da1315:T00058",
+      "source_sha256": "9e0d5dba85129525d8157ca3efbf82759b0a29ab8e0126b17d1d8a0a40797c3c",
+      "ko": "마음은 알겠으니까,\n　조금은 더 모에 캐릭터답게 굴어라앗」"
+    },
+    {
+      "id": "da1315:T00059",
+      "source_sha256": "91a2fb3c7e0bfadb726bd0732766a6f798d99bd88d80c2b69a2d908d35c51833",
+      "ko": "「이제 괜찮은 모양이군.\n　　　　　　알 아지프」"
+    },
+    {
+      "id": "da1315:T00060",
+      "source_sha256": "f97b7f768c61012bed8c837a2e3e8bfa5a369d4ab446842e292369bece7869c1",
+      "ko": "「……읏!? 당신!」"
+    },
+    {
+      "id": "da1315:T00061",
+      "source_sha256": "b6429b5d473e041f2a61c2ba1b19a2bb98d7a448bb0f7d122be2c01a7b7c489f",
+      "ko": "「아즈라드……?」"
+    },
+    {
+      "id": "da1315:T00062",
+      "source_sha256": "5f3304b9e2cee307a20dad780557ddd7a14adf618c538182307e170ab20664db",
+      "ko": "「힘을……너무 썼군」"
+    },
+    {
+      "id": "da1315:T00063",
+      "source_sha256": "f656e64b4f4c20f6feb81664c9e526f5653a0a4c99cd887fc611b1cf37b5bea3",
+      "ko": "알이 지켜보는 가운데, 아즈라드의 몸에 금이 가며 무너져 내린다."
+    },
+    {
+      "id": "da1315:T00064",
+      "source_sha256": "304471f07a555403abadec890124d789e2da6b73b7efabd6c355549d016b961b",
+      "ko": "만족한 듯한……지쳐 쓰러질 듯한, 복잡한 미소를 짓는다."
+    },
+    {
+      "id": "da1315:T00065",
+      "source_sha256": "6e443ac1f141afb3b6697bd7fcba2dcaaca9446372356715996d86b6c933d4ce",
+      "ko": "허나 표정을 움직인 것만으로도, 그의 얼굴은 바스러지듯 무너져 내렸다."
+    },
+    {
+      "id": "da1315:T00066",
+      "source_sha256": "5d2c520c79a48e6cbfc04fe2eded97d0c1a016c3bb896ca8e3ef7872eaf3ba23",
+      "ko": "「아무래도, 꿈에서 깨어날 시간이 온 모양이군」"
+    },
+    {
+      "id": "da1315:T00067",
+      "source_sha256": "b45ca887cba29d9effa7b610d7ad1b14398a0b47c1cb1225755c31491fdd11fc",
+      "ko": "「그럴 수가……!」"
+    },
+    {
+      "id": "da1315:T00068",
+      "source_sha256": "bea4d0ca17d631117350da1b19dfa762e860c1397df14ddeeddbcd44de4d0e2c",
+      "ko": "「신경 쓰지 마라. 본디 이 몸은 환상.\n　　응당 있어야 할 "
+    },
+    {
+      "id": "da1315:R00015",
+      "source_sha256": "eb93f83c7794d56848d90122710157226deb33649dd68bb66d627d041e2ca7c3",
+      "ko": "모습으로",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1315:T00069",
+      "source_sha256": "70e39859279e3de126cb608f04b555c98a7577bee1ef37b08c3293d0cbece907",
+      "ko": "상태로"
+    },
+    {
+      "id": "da1315:T00070",
+      "source_sha256": "9f6a90982c4a236e9e3c4058af2eda1982da914800611557e6a4dcd06f5c72ad",
+      "ko": " 돌아갈 뿐이다」"
+    },
+    {
+      "id": "da1315:T00071",
+      "source_sha256": "5d780870e72c4d29b828659ffb602e9bf70941ff362a62f6f689ced922da92e8",
+      "ko": "「다이쥬지지 쿠로……알 아지프를 부탁한다」"
+    },
+    {
+      "id": "da1315:T00072",
+      "source_sha256": "cb756c113735e5719673395880722649a369d5e81ded741908b1b63d870003b8",
+      "ko": "「알에게는 필요한 것이다.\n　　　어둠의 세계와 대치하면서도,\n　　　여전히 빛의 세계에 서 있는 자가」"
+    },
+    {
+      "id": "da1315:T00073",
+      "source_sha256": "cec3929df5c4d0f332b96bf37e782be534129f998e7c587e0e6c8b7727c354c6",
+      "ko": "「……내게는 그것이, 불가능했지」"
+    },
+    {
+      "id": "da1315:T00074",
+      "source_sha256": "12e52afa8fe9ba7ba99990eaacd2284eae36c5b7239ba8c260a23e14118d93c7",
+      "ko": "「아즈라드! 이 몸은……!」"
+    },
+    {
+      "id": "da1315:T00075",
+      "source_sha256": "535f89220faccfc001cf751568a5a246cdb0ab8a1eeccaa9f05cec267a8a258b",
+      "ko": "아즈라드의 말에, 알은 반사적으로 소리치려 했다."
+    },
+    {
+      "id": "da1315:T00076",
+      "source_sha256": "783fe6379b528e3d33d8d2ab8bf6c498c737b63c071c0caac26f1c8937bd083a",
+      "ko": "그 얼굴에 떠오른 표정은 동경인가, 회한인가."
+    },
+    {
+      "id": "da1315:T00077",
+      "source_sha256": "7ec70951010e1604e68627438982a864d880c1a2d9016f4e51d3a008dfd37871",
+      "ko": "넘쳐흐르는 무수한 마음은 하나같이 "
+    },
+    {
+      "id": "da1315:R00016",
+      "source_sha256": "6e28cc407a3f70af7741cc6893cdf0b07f32a347c39eb7207646efd80feb4607",
+      "ko": "형태가",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1315:T00078",
+      "source_sha256": "e88845352db979c346334cbba2c147308225476182c0cc734d19dbe26ea752e5",
+      "ko": "말이"
+    },
+    {
+      "id": "da1315:T00079",
+      "source_sha256": "a134635e4199bbb8ee24074e1bacd1ca5fbedb2c1858d76e3bafa797f824931b",
+      "ko": " 되기를 거부했다.\n\n　그럼에도 알은 무언가를 전하려――"
+    },
+    {
+      "id": "da1315:T00080",
+      "source_sha256": "1c328e55b0f28a71d90add40fd2c91bfa1b21000ec6ba0c01fb552a6689abad0",
+      "ko": "「신경 쓰지 말라고 하지 않았나, 알 아지프」"
+    },
+    {
+      "id": "da1315:T00081",
+      "source_sha256": "e246354d14c3f091ae58c8da45a2f35e070d4ff187193a978eb6c187974e5e4a",
+      "ko": "아즈라드가 알의 말을 가로막았다."
+    },
+    {
+      "id": "da1315:T00082",
+      "source_sha256": "4441009c89a5878de1c95ae94bbd5e525fb7d68b402fc532da1fdb77ca291025",
+      "ko": "알을 바라보는 눈동자는 한없이 온화하다."
+    },
+    {
+      "id": "da1315:T00083",
+      "source_sha256": "c8dffb5ee207e78a9734aacc9bdb61eb54dcb49b775655838198e4c7bc6edc2f",
+      "ko": "그러나 붕괴는 지금 이 순간에도 이어진다."
+    },
+    {
+      "id": "da1315:T00084",
+      "source_sha256": "b2af4f901edcc29629e09a3355e305b3deddbfbb4e4dc3407fa2393d9ce0843d",
+      "ko": "무너져 내리며 그는 조용히 말을 잇는다."
+    },
+    {
+      "id": "da1315:T00085",
+      "source_sha256": "2cc4b9622f30c5911b5a8c304b9df02978decdd02e77967570afcbc191dff6d4",
+      "ko": "「――내 인생은 사신에게 빼앗겼다.\n　복수만이 나를 움직이는 힘의 전부였다.\n　어둠과 광기만이 세상을 움직이는 "
+    },
+    {
+      "id": "da1315:R00017",
+      "source_sha256": "94f5801ec32f7aa6bfc6b59c8e170ecd2cb921827598e0d2456fd34766a40e8b",
+      "ko": "링",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1315:T00086",
+      "source_sha256": "8f8342a36522012f82ec786d7442ec1892511d9de750d85de2ca7d922923895f",
+      "ko": "톱니바퀴"
+    },
+    {
+      "id": "da1315:T00087",
+      "source_sha256": "fc539a6afda128abf91408d62a0613dd01033968f4a2a63ae37f97c34cf4a7bb",
+      "ko": "의 전부였다」"
+    },
+    {
+      "id": "da1315:T00088",
+      "source_sha256": "95363813f4b78a8fab6e63feb09105d1d86445a3e2dc49e6ab209d2c72529180",
+      "ko": "「허나……」"
+    },
+    {
+      "id": "da1315:T00089",
+      "source_sha256": "f258b828c5ac29cb0d12771da6ebfd1d4c7195ed581d1e3931f59ef2319594a2",
+      "ko": "그것은 알을 향한 말이었을까."
+    },
+    {
+      "id": "da1315:T00090",
+      "source_sha256": "7e433db2d4e5d672d55cf7cdd187d1b83f6120c245e7d91b4bf38ea9fa541fff",
+      "ko": "아니, 그뿐만이 아니다."
+    },
+    {
+      "id": "da1315:T00091",
+      "source_sha256": "dfe809cc9e7dd30d44567771044b139cffe7641f558b70bb8904a84a478d0b25",
+      "ko": "「아즈라드, 나의 주인이여!\n　이 몸을 증오하거라! 이 몸을 저주하거라!」"
+    },
+    {
+      "id": "da1315:T00092",
+      "source_sha256": "262460b23c5173eeb0ce31fd6cb1f013000b221619e9347a73935b770097ace8",
+      "ko": "「보았느냐!\n　이것이 마에 얽힌 자의 운명이니라!」"
+    },
+    {
+      "id": "da1315:T00093",
+      "source_sha256": "62fb44445f7952cebd84c7f8b247933c36e4b313aefbcd88a244d370d558a098",
+      "ko": "「――알 아지프」"
+    },
+    {
+      "id": "da1315:T00094",
+      "source_sha256": "7841df08a93b2dfed332576d6505a3851dc4eb79daca25d46cca9eb3a71d8c50",
+      "ko": "「남몰래 고독한 싸움을 이어가며,"
+    },
+    {
+      "id": "da1315:R00018",
+      "source_sha256": "1e5412a6818e9d84a072f58e125d056835c905cbbf0059e256b01558fc29f41a",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1315:T00095",
+      "source_sha256": "9a9b9d3bbef44ebe4a5899a4e3c3beda82013d523836e998571dd7d4e52cd751",
+      "ko": "제"
+    },
+    {
+      "id": "da1315:T00096",
+      "source_sha256": "49de2e7fc92b16a2cba052f4e7143f364ed21f0b740f3192f3373b7f6bd3f8a5",
+      "ko": " 몸을 깎아가며 세상을 구한다――라.\n　대단한 미담이로군」"
+    },
+    {
+      "id": "da1315:T00097",
+      "source_sha256": "d54887dd46284b99e99da8ac239866312470874d08a6e8844e78c29fa9d03cbf",
+      "ko": "「아즈라드, "
+    },
+    {
+      "id": "da1315:R00019",
+      "source_sha256": "b23809bf96a578e2f1bd090c387ee6bf76b00f431c6ea18868a02155a811f1f4",
+      "ko": "・・・・・・・・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1315:T00098",
+      "source_sha256": "02d0442596a5a2b370650ef23b190bad2a008df82472e063a2fe601050d0a18c",
+      "ko": "자네가 세상을 지켜라"
+    },
+    {
+      "id": "da1315:T00099",
+      "source_sha256": "d93a835d0f2787bcb1a759ad3a1b8fbea56d742d0b99720dbbb9ea8ace1926f8",
+      "ko": "」"
+    },
+    {
+      "id": "da1315:T00100",
+      "source_sha256": "defd8e8564b2e2b3ee1be2be9d7f702d3682b00b6c671c366f52e93f897498cd",
+      "ko": "「――하도 고조」"
+    },
+    {
+      "id": "da1315:T00101",
+      "source_sha256": "da218eda1a370461291afda5417e44ff75b70db03f1adee1d48e2dfbe3850f2e",
+      "ko": "「당신들이 어둠의 세계에서 살아가고 있다고\n　한다면, 저는 그곳을 비추어 보이겠어요」"
+    },
+    {
+      "id": "da1315:T00102",
+      "source_sha256": "bb5b9f9517c3ed569d70bad6260373a5b57c47b41d0521dcfadcb81398b3b755",
+      "ko": "「당신들이 머무는 "
+    },
+    {
+      "id": "da1315:R00020",
+      "source_sha256": "399541026b89787f76b6312375d21b42244869347cf836059cf9eba724bb4824",
+      "ko": "・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1315:T00103",
+      "source_sha256": "238106e11a311af6cb4d4561ed399b9c26886293188b76794af5375433e3307a",
+      "ko": "그곳"
+    },
+    {
+      "id": "da1315:T00104",
+      "source_sha256": "7960956676e7d9aa10f18041b761d30df7f24d42a1dfb83895ec5c3e58348404",
+      "ko": "도,\n　머지않아 이성의 광채"
+    },
+    {
+      "id": "da1315:R00021",
+      "source_sha256": "e454c7b3bb918af3f75f809ea2448f512197110b9602a08aa3201ac2e7ba7c84",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1315:T00105",
+      "source_sha256": "09680c3fbe7a1f4ee57d31e464917d5a04f24635831bfc17671a0ab51c19e4f0",
+      "ko": "로"
+    },
+    {
+      "id": "da1315:T00106",
+      "source_sha256": "efadeb827e704d2e7197fe40e138566aee0f43f591225348044dca768a7762fe",
+      "ko": " 비추어질\n　“빛의 세계”로 바뀌는 것이랍니다」"
+    },
+    {
+      "id": "da1315:T00107",
+      "source_sha256": "fa636f0346ebcedb9e90a5cb208a59c9a15e5b96aba9134e426ba3a157b069a8",
+      "ko": "「――더레스」"
+    },
+    {
+      "id": "da1315:T00108",
+      "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+      "ko": "「"
+    },
+    {
+      "id": "da1315:R00022",
+      "source_sha256": "399541026b89787f76b6312375d21b42244869347cf836059cf9eba724bb4824",
+      "ko": "・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1315:T00109",
+      "source_sha256": "238106e11a311af6cb4d4561ed399b9c26886293188b76794af5375433e3307a",
+      "ko": "그곳"
+    },
+    {
+      "id": "da1315:T00110",
+      "source_sha256": "1fcd9eb1efb171a7bbe336cc0fe28bf172a7ea520a48947f5ee6d84e078d2aa0",
+      "ko": "에는 빛이, 분명히 존재했다」"
+    },
+    {
+      "id": "da1315:T00111",
+      "source_sha256": "85a9bebda6f67719a7775f142e3dd2d1112453794b5549e4b186a14fad1bc68e",
+      "ko": "이미 아즈라드의 몸 대부분이 먼지가 되어 사라져 있었다."
+    },
+    {
+      "id": "da1315:T00112",
+      "source_sha256": "705b3b38f5803195eb6b2f50e015900bfd57d5e5e4a75d770e63c39452432394",
+      "ko": "마지막으로 남은 얼굴이 전한다."
+    },
+    {
+      "id": "da1315:T00113",
+      "source_sha256": "82d558d347106c9b65417ae00e0c27e910c2c68d625b504309d7e2621eb9c79f",
+      "ko": "――싸우는 이들에게 의지를 맡기며."
+    },
+    {
+      "id": "da1315:T00114",
+      "source_sha256": "beafdd945b1dff3b4ec5522387a0c9c4d0df27fd748bcb15ba383fcdd6f0c301",
+      "ko": "「――데몬베인을 믿어라」"
+    },
+    {
+      "id": "da1315:T00115",
+      "source_sha256": "7b6b964d64f9b8959145a6e2ee1acea42f0e265fa25bd8c0bc26cae84204c07c",
+      "ko": "「그것은 "
+    },
+    {
+      "id": "da1315:R00023",
+      "source_sha256": "ad00a0b322492061745b24d0a27cfeb54340097e166853622a9781f99bd15efb",
+      "ko": "・・・・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1315:T00116",
+      "source_sha256": "4ba5dfa47d7eaededb014fe8edd6e205f6b40e9e3aef078c39e02689150fdcef",
+      "ko": "인간을 위한"
+    },
+    {
+      "id": "da1315:R00024",
+      "source_sha256": "73ac229cabfac277c315b4b0d1eb76959473af07f58c11d00bb82a06b250745a",
+      "ko": "데우스 마키나다",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1315:T00117",
+      "source_sha256": "762524a979d84688362b8dc00d54c75a1be10d7917ed188fd55985924c885e49",
+      "ko": " 귀계신이다"
+    },
+    {
+      "id": "da1315:T00118",
+      "source_sha256": "0580068b40d23ab18d039c0f17cd99866d7cc7161961b1579f0edf953584ff67",
+      "ko": "」"
+    },
+    {
+      "id": "da1315:T00119",
+      "source_sha256": "84d552276876f7b198c6442e84423c2119dfc64fd79051b5084d52690470ad62",
+      "ko": "「아즈라드으으으――――읏!」"
+    },
+    {
+      "id": "da1315:T00120",
+      "source_sha256": "710eb20788c555ca21686fbc3923e24a71a9bd03fa32be114c573a601bf5f5f7",
+      "ko": "그리고 모든 것이 무너져 내린다."
+    },
+    {
+      "id": "da1315:T00121",
+      "source_sha256": "fe99e48c2c2e9db96b19e6e1fbf3d78f6c352845a432434c699b758cef95fb19",
+      "ko": "아무것도 남지 않는다."
+    },
+    {
+      "id": "da1315:T00122",
+      "source_sha256": "8a27f877d053dfa540e7e2c09faaa4d0ed5661cbc40836202ee28ae037b82d85",
+      "ko": "꿈은 그저 꿈으로 돌아갈 뿐."
+    }
+  ],
+  "issues": [
+    {
+      "id": "da1315:R00001",
+      "kind": "ruby_redundant",
+      "note": "한자 '空虚'의 훈독 'ウツロ'로 단순 발음 안내이므로 omit_redundant 처리함."
+    },
+    {
+      "id": "da1315:R00002",
+      "kind": "ruby_redundant",
+      "note": "한자 '眼窩'의 음독 'がんか'로 단순 발음 안내이므로 omit_redundant 처리함."
+    },
+    {
+      "id": "da1315:R00005",
+      "kind": "ruby_redundant",
+      "note": "한자 '黯黒'의 음독 'あんこく'로 단순 발음 안내이므로 omit_redundant 처리함."
+    },
+    {
+      "id": "da1315:R00008",
+      "kind": "ruby_redundant",
+      "note": "한자 '黯黒'의 음독 'あんこく'로 단순 발음 안내이므로 omit_redundant 처리함."
+    },
+    {
+      "id": "da1315:R00010",
+      "kind": "ruby_redundant",
+      "note": "한자 '虚仮'의 훈독 'コケ'로 단순 발음 안내이므로 omit_redundant 처리함."
+    },
+    {
+      "id": "da1315:R00013",
+      "kind": "ruby_redundant",
+      "note": "한자 '喃'의 음독/훈독 'のう'로 단순 발음 안내이므로 omit_redundant 처리함."
+    },
+    {
+      "id": "da1315:R00014",
+      "kind": "ruby_redundant",
+      "note": "한자 '篤'의 훈독 'とく'로 단순 발음 안내이므로 omit_redundant 처리함."
+    },
+    {
+      "id": "da1315:R00015",
+      "kind": "ruby_particle_split",
+      "note": "루비(모습으로)와 본문(상태로)의 조사 받침 불일치로 분리하여 뒤 칸에서 조사를 제거함."
+    },
+    {
+      "id": "da1315:R00018",
+      "kind": "ruby_redundant",
+      "note": "한자 '己'의 훈독 'おの'로 단순 발음 안내이므로 omit_redundant 처리함."
+    },
+    {
+      "id": "da1315:R00021",
+      "kind": "ruby_redundant",
+      "note": "한자 '以'의 훈독 'もっ'로 단순 발음 안내이므로 omit_redundant 처리함."
+    }
+  ]
+}

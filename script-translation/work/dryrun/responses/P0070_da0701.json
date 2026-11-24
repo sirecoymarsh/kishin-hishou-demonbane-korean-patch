@@ -1,0 +1,992 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0070_da0701",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0701:T00001",
+   "source_sha256": "b35d6c4be9536e4950e2de2d0cebae6942cbc949778f6efe5dc2b1bb8841a9a8",
+   "ko": "「에에"
+  },
+  {
+   "id": "da0701:T00002",
+   "source_sha256": "e5fe2612bc49dcf4201a504b2d05ba97b8e9728f989e2b107df90e267a6b79af",
+   "ko": "・야"
+  },
+  {
+   "id": "da0701:T00003",
+   "source_sha256": "f3cb027dc8ccf55772804ce8ca7fb582819446fbe8b944cafb57f7b9629d036f",
+   "ko": "・야・야・"
+  },
+  {
+   "id": "da0701:T00004",
+   "source_sha256": "69236cb7d7334f8e6edf4583e59dbf3ec5b5f6967b2301b5370f37d7124b5419",
+   "ko": "야하아아아――에야야야야아아아…… 으아아아아아아…… 으아아"
+  },
+  {
+   "id": "da0701:T00005",
+   "source_sha256": "5d3979379ccdff2639fad29d5415362669007c5f13cdcf4132079991449aea0a",
+   "ko": "아아아…… 후유우…"
+  },
+  {
+   "id": "da0701:T00006",
+   "source_sha256": "a8cb3cd1911de2975534c922df670afc4b82395ec92b9161ada32cfdeab49609",
+   "ko": "…후유우…… 살"
+  },
+  {
+   "id": "da0701:T00007",
+   "source_sha256": "2b29d68f55ebb2c076faa2572cdd7298e9f50505fac5d6d00610e18b305807ac",
+   "ko": "려 줘! ……살려 줘! ……아"
+  },
+  {
+   "id": "da0701:T00008",
+   "source_sha256": "0ad0e55d0e36d3ef7a587b82bff38da43849a376acb19fd697353b43af0c28d1",
+   "ko": "――아――아"
+  },
+  {
+   "id": "da0701:T00009",
+   "source_sha256": "2d18888848ae3ce1f7e03c90435b98fdee85a42196ad72d2cc7c16ccd5576d90",
+   "ko": "버――아버님! 아버님!"
+  },
+  {
+   "id": "da0701:T00010",
+   "source_sha256": "da9bd7c98f922acb7f3b6a5d59d7c3045d1f65356d545c77aa51f94585099514",
+   "ko": " 요그 소토스!」"
+  },
+  {
+   "id": "da0701:T00011",
+   "source_sha256": "dd9b06428e404a8a3eb98767ba89e2b98f11610b68cbfa7949bc95ebcd00db75",
+   "ko": "광란하는 허공에, 뇌명처럼 둔탁하게 울려 퍼지는 단말마."
+  },
+  {
+   "id": "da0701:T00012",
+   "source_sha256": "599b20aa84ffbc81a88ed3c20f20efbf9964212b6d1b1fc7554e7eacc87eb82c",
+   "ko": "그에 창화하듯, 어디선가 "
+  },
+  {
+   "id": "da0701:R00001",
+   "source_sha256": "ecf471578b87f268a9146480d241d38e4de17d3182503fdcf8b6f84ed77ace20",
+   "ko": "위프어윌",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0701:T00013",
+   "source_sha256": "653bae3245d5a7414e2cd2b34afaa0b5c2f6f1840a3f9f905091bda5b0662bba",
+   "ko": "쏙독새"
+  },
+  {
+   "id": "da0701:T00014",
+   "source_sha256": "4e515c73d3e72ffd8cddd9f38e29d19a90319782babbb0416dad8506964fc884",
+   "ko": "의 교성이 무수히\n겹쳐 울려 퍼졌다."
+  },
+  {
+   "id": "da0701:T00015",
+   "source_sha256": "3221e0885b6c8abc1797dffa55d2d4d14d6ff8fb88876cacf72035da3fc94d70",
+   "ko": "귀를 "
+  },
+  {
+   "id": "da0701:R00002",
+   "source_sha256": "08f18ad99009f87ee27924eeba7113cd0e7f989df143f4b6c726651ea83ed144",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0701:T00016",
+   "source_sha256": "2f937e533697345ac064d164bb0a931513e0e10f4ec567b99531cfae602215e7",
+   "ko": "찢"
+  },
+  {
+   "id": "da0701:T00017",
+   "source_sha256": "0b32373a1162c7baa7770498528c1eb29ff7caea6f9bccc95fb467b08d7c9959",
+   "ko": "는 경천동지의 굉음에 대지가 격진한다."
+  },
+  {
+   "id": "da0701:T00018",
+   "source_sha256": "27e402f4a9a20b0afe25408074ac5661b453ce694107a5f30ec00f2a2ab4ef2b",
+   "ko": "웨이틀리의 몸이 섬광으로 화해 하늘을 꿰뚫었다."
+  },
+  {
+   "id": "da0701:T00019",
+   "source_sha256": "ca7b52f1701ca1ec459e5c0f682ab3a5f64fafbf8dcf90e51bf2084be9e34e8c",
+   "ko": "빛은 이윽고 진홍빛으로 물들더니, 피안개가 되어 소멸한다."
+  },
+  {
+   "id": "da0701:T00020",
+   "source_sha256": "b91b50623d821caf8b5cb623882a17198c300af94e5ceea647f8a945ff5720d7",
+   "ko": "그렇다."
+  },
+  {
+   "id": "da0701:T00021",
+   "source_sha256": "46707678c621d40577beeab9f37a37a805eb64f08f229e18949fc4463bac7e9c",
+   "ko": " 꿈은 그저 꿈으로 흩어져 사라질 뿐이다."
+  },
+  {
+   "id": "da0701:T00022",
+   "source_sha256": "316cec97ffc94d4cd2dc72b2ed57edc077526d975f578dcbba2d8649367ba0f8",
+   "ko": "「오오……!」"
+  },
+  {
+   "id": "da0701:T00023",
+   "source_sha256": "fa7a58f2559ad9e628c09c5435103abc0f61f0e7f8ec41a6f084cdcbe1219e1b",
+   "ko": "「……데몬베인!」"
+  },
+  {
+   "id": "da0701:T00024",
+   "source_sha256": "c38ad3a0666dcd98cee0848ca9aa5c684f2e72467ca05ddda39c37dbcb3c907e",
+   "ko": "「……형제는 패배한 모양이군」"
+  },
+  {
+   "id": "da0701:R00003",
+   "source_sha256": "d0e26045fa4196f578a81fd4a2e894b860bdb6c8df30021aeaa501c7a22de55b",
+   "ko": "리베르 레기스",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0701:T00025",
+   "source_sha256": "4fa64b5cf36429607f7328b297c10fed1bc8f68a450fd4ec478cc13ed7f27a72",
+   "ko": "진홍의 기신"
+  },
+  {
+   "id": "da0701:T00026",
+   "source_sha256": "48a06b935b3ca3a589073d913a655cf31668f43083d6017b50fe22dbbe32bf7c",
+   "ko": "에서 울리는 "
+  },
+  {
+   "id": "da0701:R00004",
+   "source_sha256": "b9a6f33686a842ff9fb09541728b956c367019de0996cbd15c4c8f9f47fb9cf8",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0701:T00027",
+   "source_sha256": "68c411b217f16b775618b986689da251c38f4b759c77c73bcbc2a911c20c51bf",
+   "ko": "목소리"
+  },
+  {
+   "id": "da0701:T00028",
+   "source_sha256": "fb5a85e771e66732c9ffcc7fb6276381664a7f7e3be1308521d540304ff25d8c",
+   "ko": "는, 격전의 한복판에서도 여전히 서늘했다."
+  },
+  {
+   "id": "da0701:T00029",
+   "source_sha256": "3bfcdf6374335636be83cb3f5ac1897bef19143acf5df23c2228c10b95269899",
+   "ko": "마주 선 "
+  },
+  {
+   "id": "da0701:R00005",
+   "source_sha256": "029ddddfe5efb8824744a3c3d138b96882e9f8fa08a883d3b1a3aa02e0f7021c",
+   "ko": "아이온",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0701:T00030",
+   "source_sha256": "a6cff8882dd10d94ac15b13a46cf4387bd483ef6138e931288b91b2dd2121793",
+   "ko": "흑의 기신"
+  },
+  {
+   "id": "da0701:T00031",
+   "source_sha256": "2d2ebd56fbda2c6812993bfa8220fe58c451710c6bae0a5df722b92de5e6974b",
+   "ko": "이 새로운 언월도를 단조하며 자세를 잡는다."
+  },
+  {
+   "id": "da0701:T00032",
+   "source_sha256": "768cc2204d20fa9d80c4dc8397f6cb1d07d1ac5b0a4b16fbb0d8f795ca3afe80",
+   "ko": "「다음은 네놈 차례다, 즈아위아!」"
+  },
+  {
+   "id": "da0701:T00033",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0701:R00006",
+   "source_sha256": "de9b2724fa675d58e20ea50646167074286ddb545b77b0cf702a94f249bf46a5",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0701:T00034",
+   "source_sha256": "0c70665b6eb65f1aebf3b59f684ce52ed3473b2443ed4b4e0b815e2e9d66b8c2",
+   "ko": "아니"
+  },
+  {
+   "id": "da0701:T00035",
+   "source_sha256": "d89ba17ecde1e8286f17af6c2379e86dcb56580230ba0d8567484e68811c73d8",
+   "ko": "…… 아직 무대는 갖춰지지 않았다」"
+  },
+  {
+   "id": "da0701:T00036",
+   "source_sha256": "4c02f47eb5a25fd094623a7609db2137013c8e7a32fc1bec00d48b726a1843db",
+   "ko": "「하아아아――앗!」"
+  },
+  {
+   "id": "da0701:T00037",
+   "source_sha256": "cec85c28b84f44c844e9c2abf1e952e08d4ca15d4e3af2ffa1a19daf47031567",
+   "ko": "베어 들어가는 아이온."
+  },
+  {
+   "id": "da0701:T00038",
+   "source_sha256": "3d450b4e6066c574a3b6ef4543bab5b5eb945fed832c97bc72d9b5c62ac61a1a",
+   "ko": "하지만 칼날은 강고한 방어결계에 막혀, 리베르 레기스에게 닿지 않는다."
+  },
+  {
+   "id": "da0701:T00039",
+   "source_sha256": "b1956e15fe4bf74bd4c00c0a2020c5c716fdc1b2197d399d8b5df710ead763de",
+   "ko": "마검에 깃든 마력과 방어결계를 엮는 마력의 충돌과 마찰이, 불꽃이\n되어 솟구친다."
+  },
+  {
+   "id": "da0701:T00040",
+   "source_sha256": "0e2251b2632bf326eeef78cc5bdb873184bffea9b7f780dc35a4f3573df96d7c",
+   "ko": "「큭……!」"
+  },
+  {
+   "id": "da0701:T00041",
+   "source_sha256": "4b31ba783d16761c6ed57d5492ed716b876b88b17cab26bdebe1479e94183fd0",
+   "ko": "「――배우로서 불려 나온 이상,\n　제멋대로 배역에서 내려올 수도 없지 않겠나?」"
+  },
+  {
+   "id": "da0701:T00042",
+   "source_sha256": "460a02c2eda264097b99532ce94a17f45d54ccc05935050e9ba978b73da37b79",
+   "ko": "냉담한 "
+  },
+  {
+   "id": "da0701:R00007",
+   "source_sha256": "b9a6f33686a842ff9fb09541728b956c367019de0996cbd15c4c8f9f47fb9cf8",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0701:T00043",
+   "source_sha256": "68c411b217f16b775618b986689da251c38f4b759c77c73bcbc2a911c20c51bf",
+   "ko": "목소리"
+  },
+  {
+   "id": "da0701:T00044",
+   "source_sha256": "c245104b9e1cfe478f1aadbafac6dd7167b2f339f444125cb5d9e2bc816b7485",
+   "ko": "에 가학과 조롱의 울림이 섞인다."
+  },
+  {
+   "id": "da0701:T00045",
+   "source_sha256": "f73a9dec9892293cc6d2af91ad81420f74cfe6ea284c6c929ce4899feb7d41e5",
+   "ko": "「그건 귀공도 마찬가지……\n"
+  },
+  {
+   "id": "da0701:R00008",
+   "source_sha256": "a6f33ee7daf57337278bd7e940a5c099ee0889e4b85c18f6265216b7ef09b068",
+   "ko": "프로비던스 로스트",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0701:T00046",
+   "source_sha256": "a03a134c02b1b145df1d950c13e4234c41380adcb391c6af3fb2238edabeb522",
+   "ko": "신국이 멸망한 날"
+  },
+  {
+   "id": "da0701:T00047",
+   "source_sha256": "ef60499df088f971760bf6642b8bab7dc69ce64b21973cbc2d6be65633e0379a",
+   "ko": "부터 멈춰 있던\n시간이 다시 움직이기 시작한 것이다.\n――그렇지 않은가, "
+  },
+  {
+   "id": "da0701:R00009",
+   "source_sha256": "22339f16dc8699eb16f2160da637d7ff0824780295b897d8a01c734a1a344b84",
+   "ko": "어벤저",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0701:T00048",
+   "source_sha256": "ef4239fd263f85f33099578724f78a5e835397a7dbed102d113fc172e36a1670",
+   "ko": "복수귀"
+  },
+  {
+   "id": "da0701:T00049",
+   "source_sha256": "062a345406a788f4f1ba0555be713fcc7477ace21a879f5ad79be71013968c4f",
+   "ko": "?」"
+  },
+  {
+   "id": "da0701:T00050",
+   "source_sha256": "b96b6bc30a128053d4dcc499181ca7086fb08a30aae15d8c4c07b6d395ac8e97",
+   "ko": "「……윽!\n　즈아위아아아아아――앗!」"
+  },
+  {
+   "id": "da0701:T00051",
+   "source_sha256": "2c59aaf53f53eda60eb411fc335f7fc84eaa108256daab396dd3ea47b836c3ff",
+   "ko": "가속하는 술식이 마검을 적열시킨다."
+  },
+  {
+   "id": "da0701:T00052",
+   "source_sha256": "51c5486087b1dbb1e352e9f9f9b12ad3edf300df9b77445f384925cb2b406381",
+   "ko": "하지만 리베르 레기스의 방어는 깨지지 않는다."
+  },
+  {
+   "id": "da0701:T00053",
+   "source_sha256": "69ca9ec4478edb2e996afb0ecb9baa188eeca1a82b27471a907a911f80721531",
+   "ko": "아이온의 주위."
+  },
+  {
+   "id": "da0701:T00054",
+   "source_sha256": "1741d10fd0d36ef6ed33d3b33d2165896eed87a609ea007f1d8eb85c37466bdd",
+   "ko": "굉음을 내며, 몇 줄기나 되는 폭염이 타오른다."
+  },
+  {
+   "id": "da0701:T00055",
+   "source_sha256": "cb68ed679fc6a0382ab9842b85942c2692106bc37d786a034c640a3cdcaf36dd",
+   "ko": "폭염은 저마다 새로운 언월도를 단조한다."
+  },
+  {
+   "id": "da0701:T00056",
+   "source_sha256": "8a9ae36d7aab5f441b923faf4fab3b58c389a069fc1c4c685ce76ac25b3ef739",
+   "ko": "화염을 도신에 두른 채 언월도가 비상한다."
+  },
+  {
+   "id": "da0701:T00057",
+   "source_sha256": "8e53c80db127f86556a07bef4912276085681f60178b0671e1ee7696a957a530",
+   "ko": "리베르 레기스에게 쏟아지는 마검의 비."
+  },
+  {
+   "id": "da0701:T00058",
+   "source_sha256": "b2173a1039b869b6ccfaa9ab69293ae81cbc274b1c086768639f6eab99a0aadd",
+   "ko": "그것을 막아내는 방어진이 조금씩 허물어져 간다."
+  },
+  {
+   "id": "da0701:T00059",
+   "source_sha256": "bd80341da08a77f383cb57210c6f5a4d6fb02399d53ff52ec03411b388cd98e4",
+   "ko": "「기분 좋은 분노다. 잠시 더 귀공과의 "
+  },
+  {
+   "id": "da0701:R00010",
+   "source_sha256": "d753ed11243d772a454620b15540a5a511acc09306e14e7d73ef4eb7a2255914",
+   "ko": "댄스",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0701:T00060",
+   "source_sha256": "804be88bc2d0a2cedbf4d44e7d4adc8b034dd6927b87fc4c38baaa14cf304b9b",
+   "ko": "무투"
+  },
+  {
+   "id": "da0701:T00061",
+   "source_sha256": "e493ec0554ceb8c4b9f5e7bc9acfe3aec7bee57205dc3f913a2a7639dc3a6b9c",
+   "ko": "를 즐기고 싶은 참이지만……」"
+  },
+  {
+   "id": "da0701:T00062",
+   "source_sha256": "90bb13be5f647bbb2ec63233cf3f9b00482934157f61c51f35c056eaea97b6b6",
+   "ko": "「오오오오오오오오!」"
+  },
+  {
+   "id": "da0701:T00063",
+   "source_sha256": "31c138aedcb0482337c9374a5302e79ca0c88375ef2b650940b2b6ac52639b4f",
+   "ko": "아즈랏드가 모든 언월도에 마력을 쏟아붓는다."
+  },
+  {
+   "id": "da0701:T00064",
+   "source_sha256": "2426ab20c9682034f55f12363d971b51f0dc022144671c9b0cf26c974b61cdc8",
+   "ko": "삐걱거리는 소리를 내는 방어진."
+  },
+  {
+   "id": "da0701:T00065",
+   "source_sha256": "7e310262b9fe4f57d8664b01ea8726946580df04e4b9d578ec2517224806909e",
+   "ko": "공방의 균형이 무너지려 하고 있었다."
+  },
+  {
+   "id": "da0701:T00066",
+   "source_sha256": "d51f4ad91a427f33349e5cf3e499121cc9d3aa0c254ad3c26cd7a59d0efb304e",
+   "ko": "부하를 견디지 못하고 모든 언월도가 산산이 부서졌다."
+  },
+  {
+   "id": "da0701:T00067",
+   "source_sha256": "b386ff4af89a5ba7327766eaa48325edc56608e27b02cb1871eed1522b0a6c7f",
+   "ko": "그와 동시에 리베르 레기스의 방어진도 주력을 잃고 무산되었다."
+  },
+  {
+   "id": "da0701:T00068",
+   "source_sha256": "f10f6f28ec5d34eb8170a5c63bfac501a9645887daf5facb1608c8d4575ee62b",
+   "ko": "추격을 시도하는 아이온."
+  },
+  {
+   "id": "da0701:T00069",
+   "source_sha256": "e6fd3f4843eccee388281bbf5988a7dc5cb65616b8ff7e83854d0934d08f0ea8",
+   "ko": "하지만 리베르 레기스의 움직임은 그보다 빠르다."
+  },
+  {
+   "id": "da0701:T00070",
+   "source_sha256": "e8e16a4fe581f17a13d6ec7370b1ccfd049692dac3c3eb4415b1636f7f6e770b",
+   "ko": "「유감스럽게도――\n　아직 때는 무르익지 않았다」"
+  },
+  {
+   "id": "da0701:T00071",
+   "source_sha256": "a9b54452734c99905a22ccc22f18e1fb613d8fd1b51455e40afe206eb4cefe6d",
+   "ko": "고속 기동으로 아이온의 배후를 잡는 리베르 레기스."
+  },
+  {
+   "id": "da0701:T00072",
+   "source_sha256": "380990da86e7c66acba638b800d3fa2686bfb54188384b2e26cc78b6594d7aa9",
+   "ko": "그 손바닥에는 어느새 금빛으로 빛나는 검이 쥐어져 있었다."
+  },
+  {
+   "id": "da0701:T00073",
+   "source_sha256": "5ce0486d04710e570779fa41ff675b8b924f002b1d6d5f6910d05b377d4ea1e5",
+   "ko": "「큭……!?」"
+  },
+  {
+   "id": "da0701:T00074",
+   "source_sha256": "3362b3759a467a3f39c7ebd4e63f152663c0ce1d64a5ca46a3f370f6c77c48bd",
+   "ko": "「그아아아아!」"
+  },
+  {
+   "id": "da0701:T00075",
+   "source_sha256": "2ca48ca21ad4938a5329afb060cc6b2d6efe18a515a4a7873ecb83784dabb682",
+   "ko": "금빛 검섬이 내달린다."
+  },
+  {
+   "id": "da0701:T00076",
+   "source_sha256": "80b6759bc894a188190d2f1d242b90ff1ae5f1469c255a0c83575794db014d8c",
+   "ko": "무거운 충격이 아이온을 날려 버렸다."
+  },
+  {
+   "id": "da0701:T00077",
+   "source_sha256": "67ace3fb2b36169b61e0fce5a622b4233f7f2eb0b6c144ae5271b7e9db8b0ae3",
+   "ko": "파손 부위에서 "
+  },
+  {
+   "id": "da0701:R00011",
+   "source_sha256": "0fc256cd359e43981a6ccd05cca823e78bcbc9db7a58d048c6f11d9cc6a430d7",
+   "ko": "아조트",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0701:T00078",
+   "source_sha256": "c31447b2a5eb1552deefa787cc64e00d84b52a923f5cafaea34cba65ca40bbe3",
+   "ko": "수은"
+  },
+  {
+   "id": "da0701:T00079",
+   "source_sha256": "b8768c1c73e19eb83d734ccf3ce27a4ee815e0cbef61b0b9567aa8144e61777c",
+   "ko": "의 피가 뿜어져 나와 허공에 "
+  },
+  {
+   "id": "da0701:R00012",
+   "source_sha256": "74afdae5422fb6e3d4842e8b8771ea6bb428de38c2c1cb59f5e7754ebc7ea1df",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0701:T00080",
+   "source_sha256": "2a377b6c93f12a8ac2d516ac43bf51aedabd1f528bea634ff29742ceb46e3179",
+   "ko": "물보라"
+  },
+  {
+   "id": "da0701:T00081",
+   "source_sha256": "ef0d6de63479f3c19ba54d274fd809b56008ef8fc1c733ba8915eb8e47004499",
+   "ko": "친다."
+  },
+  {
+   "id": "da0701:T00082",
+   "source_sha256": "fe0e37b1b10bac316b5ba26a8686188cfec58a2f0189e670e9bd879bf5fe8e4d",
+   "ko": "「네 이놈……!」"
+  },
+  {
+   "id": "da0701:T00083",
+   "source_sha256": "895715d53122f96504928d66fbf6957e77b37ed399dc33b6661b18a54588117f",
+   "ko": "「피해라! 검은 녀석!」"
+  },
+  {
+   "id": "da0701:T00084",
+   "source_sha256": "2b32f287269dbaf68b42da37e38c1690e9180981c7016a80fbb6c1ce3699ddd7",
+   "ko": "「――!?」"
+  },
+  {
+   "id": "da0701:T00085",
+   "source_sha256": "f9bac1382bdd70cbb07ff009609fb16728212b10b533a8071d3a56212e7ae3fe",
+   "ko": "자세를 가다듬기보다 빠르게 샨타크를 분사해 그 자리에서\n이탈한다."
+  },
+  {
+   "id": "da0701:T00086",
+   "source_sha256": "0791f23accf936021b9c11cdde7ee449935ebed0d857647bc606ed69dbe6bce0",
+   "ko": "다음 순간, 혼돈의 바다가 폭발했다."
+  },
+  {
+   "id": "da0701:T00087",
+   "source_sha256": "64f6ed6fdb326bb517463de152688292a4e4aa4a6da569da352a0cf19c9d2fde",
+   "ko": "혼돈의 바다에서 맹렬한 스피드로 튀어나온 무언가가, 아이온의 바로 옆을 스쳐 지나간다.\n\n　기체를 구속하는 검붉은 촉수를 질질 끌며 비상하는 전투기――"
+  },
+  {
+   "id": "da0701:T00088",
+   "source_sha256": "a2a5ec8a2d8b686bdd546d830da32df15274cf7a99b4e89f175fa4f238556b0b",
+   "ko": "「맹목의 노인장인가!」"
+  },
+  {
+   "id": "da0701:T00089",
+   "source_sha256": "489666caba49963bcf91ed51e6be7c42639048280fb036491a34770eb182afb5",
+   "ko": "「훈 기관 "
+  },
+  {
+   "id": "da0701:R00013",
+   "source_sha256": "de7488ae2df4ca1b880a2d6cdf068ba27313913581a6b48bed9d063b3ae92de7",
+   "ko": "오버드라이브",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0701:T00090",
+   "source_sha256": "257bdde44f7e5dd28ddfb0e6097f614fb09858d5aa43f7257106b7b005e29670",
+   "ko": "전력 운전"
+  },
+  {
+   "id": "da0701:T00091",
+   "source_sha256": "631157c15452e8cefd925437a26f1d016b1a5d7575f9234fd0bf7aff0369e63d",
+   "ko": "!\n　"
+  },
+  {
+   "id": "da0701:R00014",
+   "source_sha256": "529a42ec9ca1a8d2f9b51737cf74e56a927bdf2de7db2ef38b1f2b68ab82fd18",
+   "ko": "미드",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0701:T00092",
+   "source_sha256": "fa273d2fa663b389ed507d0627497417fde51ede9ce310ced8a49267cd468fc0",
+   "ko": "연료"
+  },
+  {
+   "id": "da0701:T00093",
+   "source_sha256": "8c60226e4a7406790c0ed416aeb9af1c6c4d320e136f5acf0979ed36f8c795fd",
+   "ko": " 잔량…… 얼마 안 남았어!」"
+  },
+  {
+   "id": "da0701:T00094",
+   "source_sha256": "742182a68eb58aec2e9461902550fb7c830374188b2aa67140ee0a1ca8c7602d",
+   "ko": "「이대로 부딪친다!」"
+  },
+  {
+   "id": "da0701:T00095",
+   "source_sha256": "23d8507216497ddaa02708cbe289f6a7232781b28cc880dc3172e887df8c68eb",
+   "ko": "전투기 형태의 암브로시우스는 상공에서 크게 호를 그리며\n급가속."
+  },
+  {
+   "id": "da0701:T00096",
+   "source_sha256": "5a80fca14ddf28aa1f38c0b4d8a3c2d06ac356d40f96b7a903c08bb68940c48b",
+   "ko": "폭속을 낳는 것은 만명화한 마술언어, 초고밀도의 술식.\n\n　영자의 흡인→마술적 정의의 압축→마력 연소→배기/폭발"
+  },
+  {
+   "id": "da0701:T00097",
+   "source_sha256": "986cfc4b5876649c358bdc1cba9213277508b2ecd743e412010b725a7f28cde1",
+   "ko": "＝물리적/개념적으로."
+  },
+  {
+   "id": "da0701:T00098",
+   "source_sha256": "bce4e6baf65244bc948207fa9371a6aa35ab3b44b4089dee9092753917afb257",
+   "ko": "속도와 마력의 "
+  },
+  {
+   "id": "da0701:R00015",
+   "source_sha256": "db132d621cb137c86316dace88d375c556f513c97de438acc04991ee6e81c717",
+   "ko": "필드",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0701:T00099",
+   "source_sha256": "9c939676ca47389e2814072ad30177a8c6705ce2ca064eadd5b0eeb4057e0fb8",
+   "ko": "결계"
+  },
+  {
+   "id": "da0701:T00100",
+   "source_sha256": "68bdbe710e83bcf20f304b992dbae717ba93f3d337e17e4afa61784fe1f83284",
+   "ko": "를 두르고, 암브로시우스는 빛으로 화했다."
+  },
+  {
+   "id": "da0701:T00101",
+   "source_sha256": "629f73a5d0f0c937767c333390060ff9a76302dbc9abb242fc43dab5047a625c",
+   "ko": "암브로시우스 특공 형태."
+  },
+  {
+   "id": "da0701:T00102",
+   "source_sha256": "a167ecfabe5cd3ec704ce9a9d0d0bc8d2e5209ae135715c8779ee3c6ba438ac8",
+   "ko": "빛은 물리법칙을 무시한, 이상하기 짝이 없는 기동으로 리베르 레기스에게 육박한다."
+  },
+  {
+   "id": "da0701:T00103",
+   "source_sha256": "873a0a86b6db4aa2fc659f9d6fed968354a73f46b84368a46a639f8ef1b21d85",
+   "ko": "「――――!」"
+  },
+  {
+   "id": "da0701:T00104",
+   "source_sha256": "b3c28c35e068e7bf6303a34075cff26cc442713471f635e2547912c3ae5c5233",
+   "ko": "빛이 진홍의 기신을 꿰뚫는다."
+  },
+  {
+   "id": "da0701:T00105",
+   "source_sha256": "49ffcfa88fcc49a337c66b2dcbbc822a011679eac7a436ad5c2d2c591acba88c",
+   "ko": "「――윽!?」\n\n　승리의 여운에 잠겨 있을 틈 따윈 없다."
+  },
+  {
+   "id": "da0701:T00106",
+   "source_sha256": "3375f88948cf7acc29f090220d084935e37418359fc39dc01dc171dbf89fe7ff",
+   "ko": "저쪽――아이온과 리베르 레기스가 교전하고 있는 근처에서\n대폭발이 일어났다.\n\n　미쳐 날뛰는 에너지의 폭풍."
+  },
+  {
+   "id": "da0701:T00107",
+   "source_sha256": "0438da8d0d8f12caad5b5d3aa69335361325038bd26a41f878ebeccce506161e",
+   "ko": "섬광과 폭음이 물질적인 압력을 띠고 거리를 뒤흔들었다."
+  },
+  {
+   "id": "da0701:T00108",
+   "source_sha256": "e33526293888dea96d54dddf177ac2015b673953ceab6eb8f64f89099740f7a7",
+   "ko": "「가자, 알!」"
+  },
+  {
+   "id": "da0701:T00109",
+   "source_sha256": "6c1f461a040c7f1e646362d19e19a944e973741c085e77d69ca63d94be13eacd",
+   "ko": "「알고 있다!」"
+  },
+  {
+   "id": "da0701:T00110",
+   "source_sha256": "56e825c8d76a8c64217700fc1fb3c5d31e4958bae8d7e06840a3dc8007fad693",
+   "ko": "「아즈랏드!」"
+  },
+  {
+   "id": "da0701:T00111",
+   "source_sha256": "cdbf73cb5888cda91b60f814cdb06a32237d39e66e2e76bf948efa0af02f9540",
+   "ko": "「슈루즈베리 "
+  },
+  {
+   "id": "da0701:R00016",
+   "source_sha256": "8abe22c91f0939b6aab3db77f86d607dd7063710622f9cd851250b3a7e367dbc",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0701:T00112",
+   "source_sha256": "cd98e43da31bb1b90dc152851c85c7d266d47ba97bc5ff7bd137c5920429d467",
+   "ko": "선생"
+  },
+  {
+   "id": "da0701:T00113",
+   "source_sha256": "6560fad1b5299ec45c7562b1e825f123c87101dc289a1eb71426e443d34f4c8c",
+   "ko": "!」"
+  },
+  {
+   "id": "da0701:T00114",
+   "source_sha256": "e4dd169d4af87cee3a01d4cef2e62f4b0a19a277e4d0970b557cc8cc41e5464f",
+   "ko": "암브로시우스가 인간형으로 돌아와 착지한다."
+  },
+  {
+   "id": "da0701:T00115",
+   "source_sha256": "0e34883a47878e920e66ba1d1916a76689526b6790e5012877851d04c40f1580",
+   "ko": "그 자세 그대로 미동도 하지 않는다."
+  },
+  {
+   "id": "da0701:T00116",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0701:R00017",
+   "source_sha256": "888786a55870b35564bc675d6ad44029c6d4b97dc36a0c7aa1938a04894b809f",
+   "ko": "스페이스 미드 솔드 아웃",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0701:T00117",
+   "source_sha256": "143706b294b84d20661b16f3e1e2fb6270989bcd5c4108d384d9e19aaa008e9b",
+   "ko": "연료 제로"
+  },
+  {
+   "id": "da0701:T00118",
+   "source_sha256": "1dffb729ae2feba8d320b64da8f74a31735e1a3555a29dd6bea89fedadb9c59b",
+   "ko": "…… 이걸로 "
+  },
+  {
+   "id": "da0701:R00018",
+   "source_sha256": "4dae1fea52814eb01c1f6f5e611386bf5216d66ee363d7ec5b45ff3c60f0ceb9",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0701:T00119",
+   "source_sha256": "e576049bcdb98de738f142c446fc515b0c9df3d3eb8a39b9e9111ad0b06b8306",
+   "ko": "쓰러뜨리"
+  },
+  {
+   "id": "da0701:T00120",
+   "source_sha256": "571a7389b9cd8b9777b0ed5063849678cb2c335c6a116bfb1330e841db53c447",
+   "ko": "지 못한다면」"
+  },
+  {
+   "id": "da0701:T00121",
+   "source_sha256": "c1961fd86d2bc78d795c2ef188c3231f03eec41cebbe984a33aab952e712f0ca",
+   "ko": "「……아직이다!」"
+  },
+  {
+   "id": "da0701:T00122",
+   "source_sha256": "9a5b0589dbbaef5dc0054615bacfc825c1ded91d20daef9914304bac1613679a",
+   "ko": "「하하하하하하하하하하하하하하!」"
+  },
+  {
+   "id": "da0701:T00123",
+   "source_sha256": "fdb6377f583c05bb5651dc5f603f961946d47fb84cfd73137bfe4208f30e8b00",
+   "ko": "홍소가 울려 퍼진다."
+  },
+  {
+   "id": "da0701:T00124",
+   "source_sha256": "842e32182f0886bd757fb2d97e09211aad4622ba75665da0ff94c4fc8bf07cc7",
+   "ko": "사람이면서 사람이 아닌 것의, 이질적인 목소리."
+  },
+  {
+   "id": "da0701:T00125",
+   "source_sha256": "3c7c4c3876847d2accdfe843943a03ccbf62ad30dd89c218f06f8861dc91be8d",
+   "ko": "「……마스터 테리온!」\n\n　폭광이 걷힌다."
+  },
+  {
+   "id": "da0701:T00126",
+   "source_sha256": "54161f9e2a8d4e0442fb45584d37d205561bb7864c63b790d264e5b1abcba442",
+   "ko": "여전히 사납게 날뛰는 에너지의 난류, 그 중심에 리베르 레기스의 모습이 있었다.\n\n　리베르 레기스의 초강으로도 암브로시우스 혼신의 일격에는 견디지 못했는지, 기체의 절반이 날아가 있다.\n\n　하지만 나는 안다."
+  },
+  {
+   "id": "da0701:T00127",
+   "source_sha256": "d7b24c8cb31d575f04f4859522e730bb33eb180b298de4466c5b69376a10a691",
+   "ko": "이 녀석이 내가 아는 그 녀석이라면…… 이 정도로 어떻게 될 만큼 만만한 상대가 아니야!"
+  },
+  {
+   "id": "da0701:T00128",
+   "source_sha256": "7178d8fbaa052698139a5ad5105e17139ebf6880e37bf2282a29972cf01e87d8",
+   "ko": "「유쾌…… 유쾌하군. 이것이야말로 싸움의\n공기. 몸속 깊은 곳부터 얼어붙을 듯한 작열의\n공포. 이것이야말로 싸움의 "
+  },
+  {
+   "id": "da0701:R00019",
+   "source_sha256": "3fd0487622fd2a95155f707815a621257d186f848a93effa46310e17ad46d899",
+   "ko": "냄새",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0701:T00129",
+   "source_sha256": "fe713b48dcd8e5eedb3f12e6713d1b69fd9c5fd3bd5046166f5255764b511f45",
+   "ko": "향기"
+  },
+  {
+   "id": "da0701:T00130",
+   "source_sha256": "9d12f0c4da2fc29088788fca4eaf77fc27be240f284bd50a89c97c576b435b72",
+   "ko": ". 이토록\n"
+  },
+  {
+   "id": "da0701:R00020",
+   "source_sha256": "7f2f94c0b0ac0c5d3b0826bd85fc5c76ce90fd0feb4484d47cf5c84e8afbcf52",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0701:T00131",
+   "source_sha256": "e887307b2e8184bc6fc8b090d6c2e987132fde420511a32b2a08eead4f4ecee3",
+   "ko": "향기로운"
+  },
+  {
+   "id": "da0701:T00132",
+   "source_sha256": "88015c65c5da273321291196129cb8bc98e80d31c3bd3c9928dd8ab2baddd157",
+   "ko": ", 썩어 문드러지는 시체의 부패취」"
+  },
+  {
+   "id": "da0701:T00133",
+   "source_sha256": "0d68502b30a9c8df0b0214e76d4e89428e4b1454cab4de37aa0c351a4b4e2426",
+   "ko": "콕핏의 해치가 열린다."
+  },
+  {
+   "id": "da0701:T00134",
+   "source_sha256": "76befb1b61317eca628a42cc79e57f4957b447e2c65a9072caf69027fd02e6e2",
+   "ko": "안에서 한 소년이 나타났다."
+  },
+  {
+   "id": "da0701:T00135",
+   "source_sha256": "1f4a9f3c9c147309b3664094c3f1eaa7ebd93e407704bab396412a023fe4cea0",
+   "ko": "인간의 "
+  },
+  {
+   "id": "da0701:R00021",
+   "source_sha256": "6e28cc407a3f70af7741cc6893cdf0b07f32a347c39eb7207646efd80feb4607",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0701:T00136",
+   "source_sha256": "101e8536327c0f2b2dcb11a5356a110fd822d2acb494e0bc36b1ae05b4f3aec3",
+   "ko": "형태"
+  },
+  {
+   "id": "da0701:T00137",
+   "source_sha256": "fe8d827e30500962efd3948956c5d2922e5ff736fc88c0c751f6cf629112940e",
+   "ko": "로 응축된, 금빛의 "
+  },
+  {
+   "id": "da0701:R00022",
+   "source_sha256": "2dc83fbd20d852ebc57acbd21403e5d7ef037dcdcd04c98c8aca6c2caeac920e",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0701:T00138",
+   "source_sha256": "e6a3871b1eb57cab73e0cd3e8a46faa7ff30a1302c8a3110634461b214a15459",
+   "ko": "암흑"
+  },
+  {
+   "id": "da0701:T00139",
+   "source_sha256": "23edb5e1aa6ba9a44fd76cd3739d0b5f866a09e6f83b2720115a0dc2db1aff79",
+   "ko": "이――."
+  },
+  {
+   "id": "da0701:T00140",
+   "source_sha256": "af15369c752ad4f292244d77e863c9adfbe4405136a91f9338c89c88efcc691b",
+   "ko": "「짐은 다시 돌아왔다!\n　짐승은 다시 되돌아왔다!\n　이 절망과 공포의 한가운데로!」"
+  },
+  {
+   "id": "da0701:T00141",
+   "source_sha256": "af71b7254d22ab82b2c3ea126a16385e337e43afa0c076fc7138d11a45a1be2b",
+   "ko": "「「마스터 테리온!」」"
+  },
+  {
+   "id": "da0701:T00142",
+   "source_sha256": "167c5b4e7e1a9655a0c8a7743d4b7640a0d70e729635fd658a423ec9928a3846",
+   "ko": "금빛 두 눈동자가 데몬베인을 내려다본다."
+  },
+  {
+   "id": "da0701:T00143",
+   "source_sha256": "3fdeb312ad8a599280dee067530f50569b51417e43fe261bfcd645ed9499050e",
+   "ko": "일체의 빛도 품지 않은, 금빛의 심연이."
+  },
+  {
+   "id": "da0701:T00144",
+   "source_sha256": "172a4ab63d39bb4e3df217142ac1e011d030901c86d17dc94eaa0605103740a4",
+   "ko": "「만나고 싶었다……\n　나의 원적, 다이쥬지 쿠로!\n　알 아지프! 데몬베인!」"
+  },
+  {
+   "id": "da0701:T00145",
+   "source_sha256": "969e5c0e35a644490eb1d39e12d3e096d9b9fd1e1d992496a605f6d0c3401e0c",
+   "ko": "「이 소년이……\n　즈아위아의 본성……!」"
+  },
+  {
+   "id": "da0701:T00146",
+   "source_sha256": "8b45997ac4d38aed8e7f84bff6469f5ee4f593b2062dded6f8f9cbe9036a0040",
+   "ko": "「그렇다. 아즈랏드…… 또 한 명의 "
+  },
+  {
+   "id": "da0701:R00023",
+   "source_sha256": "e533081aa171fce47c1b7e7265e0f9503a9802e4ae1093331fb742265966d34a",
+   "ko": "마스터 오브 네크로노미콘",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0701:T00147",
+   "source_sha256": "b552dfbadf554308b98a24c462f3c1d086bf8ab09671a897b316cb874a78d56a",
+   "ko": "『사령비법』의 주인"
+  },
+  {
+   "id": "da0701:T00148",
+   "source_sha256": "0e7038398a05ddc14bce562219212d7731e206c124f9c82f63821d43a0a8ade8",
+   "ko": ". 귀공의 증오는 제법 별미였다. 덕분에 좋은 소일거리가 되었지」"
+  },
+  {
+   "id": "da0701:T00149",
+   "source_sha256": "b7ba5782602894c665264267efe47d991d37e4a11fbea16584f3c69b4ea0e49b",
+   "ko": "「네놈……!」"
+  },
+  {
+   "id": "da0701:T00150",
+   "source_sha256": "10e3015c5c37dadf5c17c14bfcf312ed7c60f3b5ba1ddf1b395bef4d1e3f5bb5",
+   "ko": "「……이 무슨 불길한 신기인가!」"
+  },
+  {
+   "id": "da0701:T00151",
+   "source_sha256": "246ffabe5b5f06b25a0d1796a8d2cf34d0914bbf6b420c6dba15c059f3388e13",
+   "ko": "「대디…… 저건 인간이 아니야!」"
+  },
+  {
+   "id": "da0701:T00152",
+   "source_sha256": "87583c00a38caef0ff1a2a453335735eb119fcadfb9e060a3ac821b57df3c226",
+   "ko": "「라반 슈루즈베리 박사!\n　세라에노의 지식을 부리는, 맹목의 현자!\n　만나 뵙게 되어 영광이다. 무한나선에서는\n　그다지 인연이 없었으니 말이지」"
+  },
+  {
+   "id": "da0701:T00153",
+   "source_sha256": "da0e719ac43a6b375eb0b6763870ec1c6d4956413919765c989d352e45e4da7c",
+   "ko": "「무한나선? ……무슨 소리냐?」"
+  },
+  {
+   "id": "da0701:T00154",
+   "source_sha256": "5cfd998e3807d5609abf80546bf84d28d1a2880a47228df741b3e205bacaaf9c",
+   "ko": "「그리고……」"
+  },
+  {
+   "id": "da0701:T00155",
+   "source_sha256": "7e55bc42946ec406b2caba8683bd21ef5b917d5401f59d19164787c1936cda23",
+   "ko": "『胞네ｇ＆忍倢! 攘愑타齲壓Ｚ＞\n　　　廢廢戲■Ｙ＃咼勇褜――!』"
+  },
+  {
+   "id": "da0701:T00156",
+   "source_sha256": "410fa84806ddbd36e6af5df98ac52ae034587e0185a94ee79f73d94fb688fb12",
+   "ko": "「~~~~~~윽!?」\n\n　직접 뇌에 울리는 듯한 사신의 포효――아니, 단말마."
+  },
+  {
+   "id": "da0701:T00157",
+   "source_sha256": "43935424f29dbbf47b5b133113d56dac5aa205e20a684196e9eb96b484cb5a47",
+   "ko": "이어서 무거운 금속을 절단하는 듯한 소리가 몇 겹으로 메아리치더니,\n하나의 폭음이 된다."
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0701:R00002",
+   "kind": "ruby_decision",
+   "note": "Omitted standard kun'yomi reading つんざ for 劈."
+  },
+  {
+   "id": "da0701:R00003",
+   "kind": "glossary_candidate",
+   "note": "Used provisional glossary target 리베르 레기스 for リベル・レギス."
+  },
+  {
+   "id": "da0701:R00004",
+   "kind": "ruby_decision",
+   "note": "Omitted standard reading こえ for 聲."
+  },
+  {
+   "id": "da0701:R00006",
+   "kind": "ruby_decision",
+   "note": "Omitted standard reading いや for 否."
+  },
+  {
+   "id": "da0701:R00007",
+   "kind": "ruby_decision",
+   "note": "Omitted standard reading こえ for 聲."
+  },
+  {
+   "id": "da0701:T00063",
+   "kind": "glossary_candidate",
+   "note": "Used provisional glossary target 아즈랏드 for アズラッド."
+  },
+  {
+   "id": "da0701:R00012",
+   "kind": "ruby_decision",
+   "note": "Omitted standard kun'yomi reading しぶ for 飛沫."
+  },
+  {
+   "id": "da0701:R00016",
+   "kind": "ruby_decision",
+   "note": "Omitted colloquial reading センセ for 先生 as natural Korean 선생 conveys the meaning."
+  },
+  {
+   "id": "da0701:R00018",
+   "kind": "ruby_decision",
+   "note": "Omitted standard kun'yomi reading たお for 斃."
+  },
+  {
+   "id": "da0701:R00020",
+   "kind": "ruby_decision",
+   "note": "Omitted standard kun'yomi reading かぐわ for 芳."
+  },
+  {
+   "id": "da0701:R00021",
+   "kind": "ruby_decision",
+   "note": "Omitted katakana reading カタチ for 容 as 형태 captures the meaning."
+  },
+  {
+   "id": "da0701:R00022",
+   "kind": "ruby_decision",
+   "note": "Omitted standard Sino-Japanese reading あんこく for 闇黒."
+  }
+ ]
+}

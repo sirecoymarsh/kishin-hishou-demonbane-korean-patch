@@ -1,0 +1,30 @@
+{
+ "out": "Y:\\AI\\claude-work\\khd-release-1118\\out\\0mpeg.pak",
+ "sha256": "97722ea0e6d9c9c34d1b8fbeaa9183bd4a74a4e91ac36b75d52d66daae52033a",
+ "entries": [
+  {
+   "name": "mpeg\\mv_da0100_op.mpg",
+   "size": 105949188,
+   "sha256": "353160c7f644ef77580556a32553165cf04138854cec52dbb5e6150c3cc2e78a",
+   "compressed": false
+  },
+  {
+   "name": "mpeg\\mv_da0100_op2.mpg",
+   "size": 141393924,
+   "sha256": "115fe4b5550dfde122a2fa15fd804d7460d4f1131a928ea78e6114633a89f2de",
+   "compressed": false
+  },
+  {
+   "name": "mpeg\\mv_da0203_ts招喚.mpg",
+   "size": 16119812,
+   "sha256": "1088b2b7d91c9c0738372d7b9715ce5231653356c7f94adce66821094f31eaf4",
+   "compressed": false
+  },
+  {
+   "name": "mpeg\\mv_da0802_tsレムリア.mpg",
+   "size": 16392196,
+   "sha256": "57ecbd6756bd04006c0a8894e5bceaa5ec8436651d98fa10ca6014caa946f6d0",
+   "compressed": false
+  }
+ ]
+}

@@ -1,0 +1,609 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0038_da0306",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0306:T00001",
+   "source_sha256": "0d4a7477480410c64e7991cb32941584d6af48571e2ef94bd794e2ac95c7cb99",
+   "ko": "「――아아, 잔혹한 세 사람!\n　이런 시간에\n　이런 꿈꾸는 듯한 날씨 아래서\n　아무리 작은 깃털조차 흔들지 못할\n　여린 숨결의 이야기를 조르다니!」"
+  },
+  {
+   "id": "da0306:T00002",
+   "source_sha256": "4ac20f246cae7a656ec0a5ebcfe73ade6945f5e9a0f8b64c9627764203d92d18",
+   "ko": "소년이 무언가를 답하기보다 빠르게, 그 목소리는 일그러진 아컴 시티에 울려 퍼졌다."
+  },
+  {
+   "id": "da0306:T00003",
+   "source_sha256": "036db91a58a9712afaef213af8ab816d0318060a93030ca5110f82594f8a40bf",
+   "ko": "「……읏!　어나더 블러드!」"
+  },
+  {
+   "id": "da0306:T00004",
+   "source_sha256": "2795e48456f6dc3314646a01021f05ef36bf80e5fce1a2c91cf1d32a5045d6ce",
+   "ko": "「『이야기』야. 『이야기』를 "
+  },
+  {
+   "id": "da0306:R00001",
+   "source_sha256": "b2700ec3edf8a26c7f408f0bf53d4d8fb65f167e38101e03986cbe6f551b250d",
+   "ko": "시작",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0306:T00005",
+   "source_sha256": "f8465a4c4a7eedbc6e6f440f1693918fb4005bb225b8a1d571901eff8a44f477",
+   "ko": "창조"
+  },
+  {
+   "id": "da0306:T00006",
+   "source_sha256": "78a5a89ac611873520c58e241a08e861a1a8e5f6e820161e53c43e9677c7feb0",
+   "ko": "해 볼까.\n　엉터리를 섞어 넣고, 이야기를 가로막으면서.\n　천천히 하나씩, 색다른\n　사건을 쏘아 올리며――\n　일그러진 나라의 『이야기』를 키워 나가자」"
+  },
+  {
+   "id": "da0306:T00007",
+   "source_sha256": "b7dffdf206d26710d2b28bb20a933e538bf3fc48ffb087e5afb2be5f09818c18",
+   "ko": "「어디냐!　모습을 드러내라!」"
+  },
+  {
+   "id": "da0306:T00008",
+   "source_sha256": "0345f975cc2b960eecc77f11124427ba7f48b12593d46f649a717416ee6f4d84",
+   "ko": "「어떤 이야기가 좋을까, 기사공?\n　역시 게임?　게임이지.\n　게임이 좋겠어. 당신의 싸움은\n　언제나 우스꽝스러운 "
+  },
+  {
+   "id": "da0306:R00002",
+   "source_sha256": "fd24608330586093b66f5624f72b03e6a91ae1c1e330bc1c9368e294e4c35880",
+   "ko": "게임",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0306:T00009",
+   "source_sha256": "0501ef5e0ef6d4037fa9482db3934205760e66e58807cf79e78ae212ee0bb93b",
+   "ko": "유희"
+  },
+  {
+   "id": "da0306:T00010",
+   "source_sha256": "56051a1d25476437859d0066aef8a48215f05d7eb5b12db1ec5d8748d5ed30ee",
+   "ko": "인걸.\n　그치, "
+  },
+  {
+   "id": "da0306:R00003",
+   "source_sha256": "100cefb808854308e4a81ecadfa6b7369d61f116b7801b27cdf7d8e2bb61974c",
+   "ko": "서 쿠자쿠",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0306:T00011",
+   "source_sha256": "531f3a7968e78ad999105c9002f162d00f5f1fb70395c59052b2523461f5954a",
+   "ko": "쿠자쿠 경"
+  },
+  {
+   "id": "da0306:T00012",
+   "source_sha256": "062a345406a788f4f1ba0555be713fcc7477ace21a879f5ad79be71013968c4f",
+   "ko": "?」"
+  },
+  {
+   "id": "da0306:T00013",
+   "source_sha256": "b7ba5782602894c665264267efe47d991d37e4a11fbea16584f3c69b4ea0e49b",
+   "ko": "「네 이년……!」"
+  },
+  {
+   "id": "da0306:T00014",
+   "source_sha256": "79e006e6a7d5cbcf7eb064b889232ed92f453d61ecc916ef8587d413ad0c98f3",
+   "ko": "「……흐트러진 기를 흩뿌리지 마라」"
+  },
+  {
+   "id": "da0306:T00015",
+   "source_sha256": "9a111533d71dc8bddf7d401475a0ed686ad7f1c960ff194f4ad6aafdacfd65d4",
+   "ko": "「뭐라고오옷!」"
+  },
+  {
+   "id": "da0306:T00016",
+   "source_sha256": "1caeab3d1dceefd55426b4b3b840512bd47b62fc65d249e2662f7c17f29db6cd",
+   "ko": "「진정해…… 안 느껴지냐. 이 살기가」"
+  },
+  {
+   "id": "da0306:T00017",
+   "source_sha256": "d6ff57b15b98cd5ff389b3dee9685b6e65dce7aa4df9a9976712aa91c255a20a",
+   "ko": "「……읏!?」"
+  },
+  {
+   "id": "da0306:T00018",
+   "source_sha256": "3aa563bfb6d1d531c0658be2b42cb1afabdc8c2e9bdcadade24fb3df9306a00c",
+   "ko": "조금 전부터 강렬한 살의가 우리를 향하고 있는 것이 느껴졌다."
+  },
+  {
+   "id": "da0306:T00019",
+   "source_sha256": "a96239181e965b102c7e37cbf6ee492579bf92cca958375c7e0c8634f3e1c810",
+   "ko": "살기의 근원을 눈으로 쫓으니――"
+  },
+  {
+   "id": "da0306:T00020",
+   "source_sha256": "f5ec94334f4685e6c7bf6da6bf6af6889a54c413b8d7027968ab364b671ff895",
+   "ko": "미스캐토닉 대학, 시계탑.\n\n\n　아컴 시티에서 가장 거대한 건축물의, 거대한 시계판."
+  },
+  {
+   "id": "da0306:T00021",
+   "source_sha256": "77a3742a093c0846f4b9cfa3c928387b847578a59e9cb2d07684952135432981",
+   "ko": "그 바늘 위에 그 녀석들의 모습이 있었다."
+  },
+  {
+   "id": "da0306:T00022",
+   "source_sha256": "c52e3ad6bd4ba9953360cd536fa6e3a2dcd90bff5d53bf1eae71d7219cc3ae7b",
+   "ko": "「……칼리굴라!　클라우디우스!」"
+  },
+  {
+   "id": "da0306:T00023",
+   "source_sha256": "f718e4bff11b9a15b09bd0e2e1596726c16916085600924e9457e97609b7a34b",
+   "ko": "「일찌감치 마중이라도 나왔다는 건가」"
+  },
+  {
+   "id": "da0306:T00024",
+   "source_sha256": "fa1d2fb7b75739ed53334001b99419bb94b535d1d83eff592de22f60ce83cb56",
+   "ko": "「어젯밤의 베스파시아누스보다도,\n　한층 더 "
+  },
+  {
+   "id": "da0306:R00004",
+   "source_sha256": "3d6e7a92243d0e53d9c962602beb38e396a5f02b62d2fd759706147fb095f432",
+   "ko": "리얼리티가",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0306:T00025",
+   "source_sha256": "2787c4e40623033ec18ae4d1ae70cf136384644a4771bfae69e3798fe53828be",
+   "ko": "강함이"
+  },
+  {
+   "id": "da0306:T00026",
+   "source_sha256": "8c7e1cf3fa76aaa575987ab5562f74b5840cee0f71b89855e139eb568bcd12d3",
+   "ko": " 늘어나 있어.\n　힘내렴, 탐정님.\n　그리고 기사공?」"
+  },
+  {
+   "id": "da0306:T00027",
+   "source_sha256": "7dc0f22437c82a3e92f4fbba81adcdaaf7e924e7944c990a3f45d863423b5d00",
+   "ko": "「……반드시 네년을 밖으로 끌어내어,\n　그 "
+  },
+  {
+   "id": "da0306:R00005",
+   "source_sha256": "205010c78591f2d23c36a74760c62f1607dc2c9ca4aa8f39f071773486a7e354",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0306:T00028",
+   "source_sha256": "7b5c7d2e32b6a401a2c20f72f763ff0d6f0eb863617d4ad4bc93b185fb8ad16a",
+   "ko": "모가지"
+  },
+  {
+   "id": "da0306:T00029",
+   "source_sha256": "a226285c87a0ae098965a4234cca0b7982ea121cd8d4340fde0e918ea716cbb4",
+   "ko": ", 베어 떨어뜨려 주마!」"
+  },
+  {
+   "id": "da0306:T00030",
+   "source_sha256": "310053edcc135ab578d1ef603106844791d270159ad3e14b5fc5677c9784d359",
+   "ko": "「아하하하하!　서두르지 않으면,\n　어머님은 내가 먹어 버릴 거야."
+  },
+  {
+   "id": "da0306:R00006",
+   "source_sha256": "5173003fa580a2db58f9eb1071a070c2bf5ff385b83db86aabd9b036ea9ecee4",
+   "ko": "・・・・・・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0306:T00031",
+   "source_sha256": "7a60992c5a786d81b67997d9529cf043d2083fa996e039109a4ebdcaaa2e8b67",
+   "ko": "피 한 방울도 남기지 않고"
+  },
+  {
+   "id": "da0306:T00032",
+   "source_sha256": "89eb89285446eac5ff1db7d20ebdbef7155903070e78ce856fb08e937419fa71",
+   "ko": "…… 말이지?\n　아하하하하하하하하하!」"
+  },
+  {
+   "id": "da0306:T00033",
+   "source_sha256": "6e93a9ac3a158f07cdedbb5f0a5c902cf33bcaf3c84f074a38719dda255e1e5c",
+   "ko": "「극……!」"
+  },
+  {
+   "id": "da0306:T00034",
+   "source_sha256": "668c7a6db69aa610cfd175d7c93c3c5dce59dbcbb98799f513d1d616c2c1f053",
+   "ko": "소녀의 목소리는 그걸로 더 이상 들리지 않게 되었다."
+  },
+  {
+   "id": "da0306:T00035",
+   "source_sha256": "106c22726326e1217841302ff69b9a9ecb8f3073d54ba08d9a7dc578b94aa9cb",
+   "ko": "「칫…… 사람을 험하게 부려 먹는 여자군. 하지만 말이야……」"
+  },
+  {
+   "id": "da0306:T00036",
+   "source_sha256": "46bf213301db634a48993cceea1bec533016f0bc59cee6bd06154eb9a5b1c8ec",
+   "ko": "클라우디우스에게서 검은 바람이 뿜어져 나온다."
+  },
+  {
+   "id": "da0306:T00037",
+   "source_sha256": "baf4a44817cc620e4e1189b98d9a47732d50d77aada721c2d930e55a672ee3ac",
+   "ko": "입가에는 잔인한 미소를 띠고, 눈동자에는 탁한 증오를 머금고 있다."
+  },
+  {
+   "id": "da0306:T00038",
+   "source_sha256": "7ff07cafb6c2565aa8ec387b3a27be0164d7413a5b4a793057bae520e1e11490",
+   "ko": "「다이쥬지 쿠로를 이 손으로 "
+  },
+  {
+   "id": "da0306:R00007",
+   "source_sha256": "7b8a57af352a15e260e709f9058f6291c3bdc7e61a04384357c06e207ab98df4",
+   "ko": "조각낼",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0306:T00039",
+   "source_sha256": "363def480b9cd0cb600e0a1ff3588c6a8a0adc877cf275fd57dede164bbc5862",
+   "ko": "해체할"
+  },
+  {
+   "id": "da0306:T00040",
+   "source_sha256": "fc750922872a692900897109d89ce9d98d0f9d36e03e0fd5cbcb623bb5098e3a",
+   "ko": " 수 있거든……\n　조금 정도라면 놀아나 주지!」"
+  },
+  {
+   "id": "da0306:T00041",
+   "source_sha256": "d86ec66b98426c2674d87952f09db61a98edfd2a756b6fee98c2dd64283d92f1",
+   "ko": "「……죽임당한 답례다……\n　죽인다…… 다이쥬지 쿠로……」"
+  },
+  {
+   "id": "da0306:T00042",
+   "source_sha256": "e902c84465f00e7fdd86e1423056a9c8b6033bfc9a0d36dcd389877602a20c05",
+   "ko": "「치잇…… 죽어서도 끈질긴 녀석들이군」"
+  },
+  {
+   "id": "da0306:T00043",
+   "source_sha256": "411360c170acc60cc6d1fabade1325c520e1cdc3e225bac7237e1048b0e110c7",
+   "ko": "「다이쥬지 쿠로……\n　당신은 손대지 마라.\n　내가 끝장을 내겠다」"
+  },
+  {
+   "id": "da0306:T00044",
+   "source_sha256": "03cded9a42f925c1e70979a654796e6cf068d0e490b96fa1279a14c0d520d62a",
+   "ko": "「얕보지 마라. 위작이라곤 하나 저 녀석들은\n　안티크로스…… 강대한 마력을\n　지닌 마술사 놈들이다. 만만한 적\n　이 아니야」"
+  },
+  {
+   "id": "da0306:T00045",
+   "source_sha256": "914a0328c581b2f9cf42b8d167c3e14f82220b60f5839cc2078fdb82694193bf",
+   "ko": "「……나는 당신의 "
+  },
+  {
+   "id": "da0306:R00008",
+   "source_sha256": "717edcb4905f7fd4f971cd5a9836181d7c8d6208d65b6faef7ac520be1e1f157",
+   "ko": "마스터와는",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0306:T00046",
+   "source_sha256": "9e32fa2b4f94bff5fa6975013b292557f9b310a42019f779690a360824060d12",
+   "ko": "주인과는"
+  },
+  {
+   "id": "da0306:T00047",
+   "source_sha256": "70821f7cefb69670550224762f4fe755ce00fcdd79a16d4f9376118ac4f4c504",
+   "ko": " 다르다.\n　저 정도라면 나 혼자서 충분하다」"
+  },
+  {
+   "id": "da0306:T00048",
+   "source_sha256": "9d808702054551e07d10e8eb48d7c9994b73f71c7151ba6b63590c39bccc4a93",
+   "ko": "「우리의 싸움을 모르는 애송이가\n　자만하지 마라!」"
+  },
+  {
+   "id": "da0306:T00049",
+   "source_sha256": "a9d40544cc93a01ad027ea75038267d0da1ac9a788c70ec7f35c75f5cb48b278",
+   "ko": "「~~~읏」"
+  },
+  {
+   "id": "da0306:T00050",
+   "source_sha256": "df92f615f7a6edd591ac43d3dc47515b21c1697ae840b741df74fe5b44942b93",
+   "ko": "알에게 질책당하자, 소년은 분한 듯이 아랫입술을 깨물었다."
+  },
+  {
+   "id": "da0306:T00051",
+   "source_sha256": "9f0cebd7c4e9a5c2d1bcc02a46e7272be2a5e435b71a9ae44efadd04295f2a9a",
+   "ko": "……이 녀석, 태도는 거창하고 거만하지만, 정신적으로는 아직 한참 미숙한 모양이다."
+  },
+  {
+   "id": "da0306:T00052",
+   "source_sha256": "bd6e4d7fa94c2cc395ae135748128ec10d22d74ce75a2d8b55f0e5c7a1dc3e55",
+   "ko": "「뭐, 어차피 저쪽에서 "
+  },
+  {
+   "id": "da0306:R00009",
+   "source_sha256": "5a742a1142b8ad7c5c53a11a58265130539443ad582de2938ab0a4535b994d90",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0306:T00053",
+   "source_sha256": "50272827b8e2c1bd6b100bc13fd304e3c4f641c04ecb0026516932660bcf8869",
+   "ko": "내버려"
+  },
+  {
+   "id": "da0306:T00054",
+   "source_sha256": "05ec1ad9b78de226ee2d6307cf76082d09f7e6c43c107876e9b55f8ab789aea6",
+   "ko": " 두질 않을걸. 나도 싸우게 해 달라고」\n\n　거들어 줄…… 생각은 아니지만, 그렇게 말하며 두 사람 사이에 끼어든다."
+  },
+  {
+   "id": "da0306:T00055",
+   "source_sha256": "e499ca4a2e73f96d8d1b9696d3f36c146ec0d358ad996826445c2843d16d75d6",
+   "ko": "소년은 한층 더 "
+  },
+  {
+   "id": "da0306:R00010",
+   "source_sha256": "675ae13a7cbb64786594dde900842ebafdeebeec88b25892e282acb4d478b522",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0306:T00056",
+   "source_sha256": "b3381aba1bfbcdc0f8765c343efff363ed7ad0af3529ba62cadcae3fdf814ae8",
+   "ko": "뾰로통해"
+  },
+  {
+   "id": "da0306:T00057",
+   "source_sha256": "6c6960bf1f0220128d27e0c494f60566fb9c525ca171f880b919cc4019371fa1",
+   "ko": "진 표정으로 퉁명스럽게 답했다."
+  },
+  {
+   "id": "da0306:T00058",
+   "source_sha256": "29dee0a7abced5ad407647de0ebfa2f25fa05e02e7e42f6b8c396a138cd52fbe",
+   "ko": "「마음대로 해라.\n　발목이나 잡지 마라」"
+  },
+  {
+   "id": "da0306:T00059",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0306:R00011",
+   "source_sha256": "fbfb103bf699f014e3d8b1f7ae4c88e062a6665ed8203906162e6e7e722cf042",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0306:T00060",
+   "source_sha256": "5b068f013a3941eb4b2e14f1bf5bcb291f8f6423ad00d4edd923a4775e5c0a54",
+   "ko": "오냐"
+  },
+  {
+   "id": "da0306:T00061",
+   "source_sha256": "801e3f92fa7b35de1c6d8ce7d2c1f440355036533b70042f69fec0d126b3f5fc",
+   "ko": ". 자 그럼…… 이걸로 2대 2다」"
+  },
+  {
+   "id": "da0306:T00062",
+   "source_sha256": "5cb9e1801ac960dce13678e40c80ac60c5c6f825e3cab099b32218d175a52651",
+   "ko": "시계탑의 두 사람을 본다."
+  },
+  {
+   "id": "da0306:T00063",
+   "source_sha256": "d3122ae59813d201184af27c87de6fa5e429b132ab767529b0febb91b9ebec43",
+   "ko": "저쪽 양반들은 이미 죽일 기세 등등한 모습이다."
+  },
+  {
+   "id": "da0306:T00064",
+   "source_sha256": "b8abfc267d635e676274d8fd4c260aeada1d155e51cf3848618804b529fd0ebc",
+   "ko": "우리는 투기를 끌어올리며 시계탑을 향해 강하한다."
+  },
+  {
+   "id": "da0306:T00065",
+   "source_sha256": "eeb7b26600616b65110c927de1e421fba56896b62ae0fbbdf04f65c1f7e2fe95",
+   "ko": "「맞다. 알의 질문이 흐지부지됐었는데 말이야」"
+  },
+  {
+   "id": "da0306:T00066",
+   "source_sha256": "87f1c9aff8f510d51c2241f70e7798fe1be0349377f943732fa4be32fec59844",
+   "ko": "「……뭐냐, 뜬금없이」"
+  },
+  {
+   "id": "da0306:T00067",
+   "source_sha256": "c426e61ed9f1b6fa0a7479b66e824a64ead40cce5b72273655f242aeb608fbff",
+   "ko": "「결국, 너는 정체가 "
+  },
+  {
+   "id": "da0306:R00012",
+   "source_sha256": "5abb77dbf3951e4a43f7532c2d5eea6c4390617945056e0ab29c04787bfcd8ac",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0306:T00068",
+   "source_sha256": "5618dc0903030d38d24c342573ad1bc2f031b7a62bae59798d396bcc95ecb2cc",
+   "ko": "뭐"
+  },
+  {
+   "id": "da0306:T00069",
+   "source_sha256": "f97b08e399f340d8d2c1ded550b5e6975d1fdfc963e4cec4c31b7ddfb8593830",
+   "ko": "냐?」"
+  },
+  {
+   "id": "da0306:T00070",
+   "source_sha256": "a8bb60491c44db5fb98bb03be805e1df8a116aa63c86d7d59fae568038a4936c",
+   "ko": "「지금은 그런 소리를 하고 있을 때가……」"
+  },
+  {
+   "id": "da0306:T00071",
+   "source_sha256": "9ea6b1bed8d8ab8d26c49aef434d78dee63fbce25560f5832a5ab20f0dcb2447",
+   "ko": "「일단은 함께 싸우는 거잖아. 이름 정도는 알려 줘라」"
+  },
+  {
+   "id": "da0306:T00072",
+   "source_sha256": "ddcf3996f56ca0e74f15e5e93d18a4e717e1517fb41346e1b9252839f19c3a94",
+   "ko": "「………………」"
+  },
+  {
+   "id": "da0306:T00073",
+   "source_sha256": "27193f350160e0b4467682d55b5bcde9228ff675e06dbd657070609b31ad5393",
+   "ko": "기분 나쁜 듯한 표정은 그대로다."
+  },
+  {
+   "id": "da0306:T00074",
+   "source_sha256": "9d0f678fd79b08185aee12b111be08a2ae2ee1d7ad4d7c7bc4b843383ea32346",
+   "ko": "소년은 변함없이 퉁명스럽게, 하지만 순순히 답했다."
+  },
+  {
+   "id": "da0306:T00075",
+   "source_sha256": "a2c1f1f705aa6e869016026f39d1422385a28cf79424323c11b69a0ee131966a",
+   "ko": "「……이…… "
+  },
+  {
+   "id": "da0306:R00013",
+   "source_sha256": "324464ee5c0988c3ebb1f86fc2bf99e6e3d083e882e902f2056d5373b8c7ba8c",
+   "ko": "쿠자쿠",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0306:T00076",
+   "source_sha256": "1bab4829457742b4cb93947b3ad582236d8438f4f0296eaae1bb087401a464a6",
+   "ko": "구삭"
+  },
+  {
+   "id": "da0306:T00077",
+   "source_sha256": "c1e1bffbf22065acc89817bf33c02b790e321180cf4edd5f3f8f8d3cb5bc6af0",
+   "ko": ". 기사 "
+  },
+  {
+   "id": "da0306:R00014",
+   "source_sha256": "324464ee5c0988c3ebb1f86fc2bf99e6e3d083e882e902f2056d5373b8c7ba8c",
+   "ko": "쿠자쿠다",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0306:T00078",
+   "source_sha256": "1bab4829457742b4cb93947b3ad582236d8438f4f0296eaae1bb087401a464a6",
+   "ko": "구삭이다"
+  },
+  {
+   "id": "da0306:T00079",
+   "source_sha256": "05cc89e7b2c27bc19f8cf0444c69d4f235ea9e5799e17435d900bca002c22ef4",
+   "ko": ".\n　아직 수행 중인 몸이긴 하지만」"
+  },
+  {
+   "id": "da0306:T00080",
+   "source_sha256": "98c694fec6e92a327af7c5884e8eb643eccac3622a18fe4aa6118cf61c7389fa",
+   "ko": "「……쿠자쿠?」\n\n　묘한 어감이다."
+  },
+  {
+   "id": "da0306:T00081",
+   "source_sha256": "fd971074ad3a18ed1668b092a450ee59b633edd9b4dea3b201e56c07fe279c1c",
+   "ko": "어느 나라 말이지?"
+  },
+  {
+   "id": "da0306:T00082",
+   "source_sha256": "a23ac0032047a98d31363e21651d117767ba17a305dba3804fdd39e33979b2d7",
+   "ko": "「당신의 고향과 같은 말이다.\n　당신의 이름과 같은 숫자인 『구』와,\n　초하루를 의미하는 『"
+  },
+  {
+   "id": "da0306:R00015",
+   "source_sha256": "094e9f17ca220212e2230335f4d7475a70ec9d4c62001b09e4f373c0e336bfac",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0306:T00083",
+   "source_sha256": "31820dbf64f09e599ccb749b5cf8839498c8862fbf104fc62886921558042625",
+   "ko": "삭"
+  },
+  {
+   "id": "da0306:T00084",
+   "source_sha256": "b577052cb393d20b032fb287b026921b4ec47772721e5f9cc614e105db3e7180",
+   "ko": "』으로 쿠자쿠다」"
+  },
+  {
+   "id": "da0306:T00085",
+   "source_sha256": "e55f9663a4d4ad353cf92f263c0ec0c7c88fc0c451440182ca6502aae4394b6a",
+   "ko": "「……이상한 이름이군」"
+  },
+  {
+   "id": "da0306:T00086",
+   "source_sha256": "25d54d0d390816e8078c1591a0275e3e46cc3b2746ac13b25babe18d417b30e6",
+   "ko": "「뭐랏……!?　하필이면\n　당신이 그런 소리를 하느냐아앗!?」"
+  },
+  {
+   "id": "da0306:T00087",
+   "source_sha256": "6b2ac7014260b325b014689e68e6be563c4bc22011c789ed8124cd9a1cfda964",
+   "ko": "「우와앗!　뭐야, 갑자기 큰 소리를 내고선!"
+  },
+  {
+   "id": "da0306:T00088",
+   "source_sha256": "45f8798b3eeaad0f19ab157c765d47c8e8269673a56d9a6815f83fe2d1554e23",
+   "ko": "……왜 화를 내는 거야, 너?」"
+  },
+  {
+   "id": "da0306:T00089",
+   "source_sha256": "fb7e527141735e2d06795c688389e2a847d4b86634733cf5a5a3fb40295699e6",
+   "ko": "「흐, 흥읏!」"
+  },
+  {
+   "id": "da0306:T00090",
+   "source_sha256": "3d65993c28d019924a844897e2ef9ec022d0257b3fa25122c041a72f5546a687",
+   "ko": "「수다는 거기까지다. 온다!」"
+  },
+  {
+   "id": "da0306:T00091",
+   "source_sha256": "27bccfa4f8ab0d976c3004df1c5b3d967345d84eedffd220e3d84b8b93775cf8",
+   "ko": "「죽인다아아아아아아아!」"
+  },
+  {
+   "id": "da0306:T00092",
+   "source_sha256": "83efff2b2bb5c60dde27e7dcf909afbb2fc3e701167c6b57ab05640ad1c25388",
+   "ko": "「고기다짐이 되어 버려라앗!\n　햐아아아――――하아앗!」"
+  },
+  {
+   "id": "da0306:T00093",
+   "source_sha256": "9582355b6fab0cf98c4d63be26c859d8d4f0076db5486faf3a23204e30b2c8cc",
+   "ko": "「미쳐 날뛰지 마라, 망자 놈들!」"
+  },
+  {
+   "id": "da0306:T00094",
+   "source_sha256": "3f68cf56481fae04da79cc34c28158efba88eae7f6695c9d194e2a3138697a45",
+   "ko": "「부른 적 없거든!\n　지옥으로 돌아가 버려!」"
+  },
+  {
+   "id": "da0306:T00095",
+   "source_sha256": "f9b3c827e6a84ffac749adfdc436dd5309afd84684c38a8e607650bc42162671",
+   "ko": "「후후…… 분발하네. 하지만,\n　내가 만드는 악몽은 이뿐만이 아니\n　고, 게임 상대는 당신들만\n　있는 게 아니야」"
+  },
+  {
+   "id": "da0306:T00096",
+   "source_sha256": "6548d663dcf03f6e02931bdc067a98ccea476bc6a1e3dac68c098c3def1e523f",
+   "ko": "「자…… 흐드러지게 피어나라, 악의 꽃!」"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0306:R00005",
+   "kind": "omit_redundant",
+   "note": "한국어 '목가지'로 의미가 온전히 전달되므로 일본어 독음 루비 생략"
+  },
+  {
+   "id": "da0306:R00009",
+   "kind": "omit_redundant",
+   "note": "한국어 '내버려'로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0306:R00010",
+   "kind": "omit_redundant",
+   "note": "한국어 '뾰로통해진'으로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0306:R00011",
+   "kind": "omit_redundant",
+   "note": "한국어 '오냐'로 의미가 온전히 전달되므로 일본어 독음 루비 생략"
+  },
+  {
+   "id": "da0306:R00012",
+   "kind": "omit_redundant",
+   "note": "한국어 '정체가 뭐냐'로 의미가 온전히 전달되므로 일본어 독음 루비 생략"
+  },
+  {
+   "id": "da0306:R00015",
+   "kind": "omit_redundant",
+   "note": "한국어 한자음 '삭'으로 의미가 전달되므로 일본어 음독 루비 생략"
+  }
+ ]
+}

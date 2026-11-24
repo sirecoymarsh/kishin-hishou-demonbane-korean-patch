@@ -1,0 +1,678 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0036_da0305",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0305:T00001",
+   "source_sha256": "82dcc59878c0e367c90c68280d8cb56026a4fc47fa8eb83627bf62231d0647f2",
+   "ko": "「우오오아아아아아아아아아아앗!?」\n\n　모든 감각이 원래대로 돌아왔을 때, 나는 하늘에서 떨어지고 있었다."
+  },
+  {
+   "id": "da0305:T00002",
+   "source_sha256": "6c25f7319b5edf4c594d72aa20700ef79ea2d091b451badb96e9015f5ea87f94",
+   "ko": "뭐랄까 떨어지기만 하는군."
+  },
+  {
+   "id": "da0305:T00003",
+   "source_sha256": "6cc0d17b63dfedc56e721206aeda23a3182d2892d2c9ccafc1baf8a27fd17c84",
+   "ko": "「쿠로!」"
+  },
+  {
+   "id": "da0305:T00004",
+   "source_sha256": "f990f56d7fc0095c10aff49c8bd7ab9e0bef1306ab9b999edac78d5d808423e1",
+   "ko": "나란히 떨어지는 알이 손을 뻗는다."
+  },
+  {
+   "id": "da0305:T00005",
+   "source_sha256": "37217f77995d46e5a096a6033f7a0c0de54abf8c1e290377f27073cd4da1a033",
+   "ko": "그 손가락이 닿았을 때, 나는 빛에 휩싸였다."
+  },
+  {
+   "id": "da0305:T00006",
+   "source_sha256": "7cddc56a379091dfdc927369be0d7ae5966e428ec51ce1131ff0095f0f1aad3f",
+   "ko": "「마기우스……"
+  },
+  {
+   "id": "da0305:T00007",
+   "source_sha256": "b3de7bf9fe7d34d51f18bcbaf047491e11f688b819925bb59e2c1370fef100a6",
+   "ko": "윙!」"
+  },
+  {
+   "id": "da0305:T00008",
+   "source_sha256": "aa8d44174f99543f7603a2ba9f33a1cc324ab60427cc1c689c04a828bf6401c2",
+   "ko": "마기우스 스타일로 변신한 나는 검은 날개를 퍼덕여 낙하를 멈췄다.\n\n　눈 아래에는 아컴 시티의 거리 풍경이 펼쳐져 있다."
+  },
+  {
+   "id": "da0305:T00009",
+   "source_sha256": "2744c7f68ee75642380f177c32ce93eaccb590f3e6ff4b4722154a29e8bf3635",
+   "ko": "상당한 고도다."
+  },
+  {
+   "id": "da0305:T00010",
+   "source_sha256": "0e49fd9da745619bef16ec3712a429484d7fa2e2836f9461903f8b63ba4102d6",
+   "ko": "「웨이틀리의 힘으로,\n　공간전이당한 모양이군」"
+  },
+  {
+   "id": "da0305:T00011",
+   "source_sha256": "1c73327ed94014b55ac0811e11687c00134cf9e4636dde16e5f84ffc60a8d564",
+   "ko": "「알…… 너, 괜찮은 거냐?」"
+  },
+  {
+   "id": "da0305:T00012",
+   "source_sha256": "d98e3f7a90d1853f33f57855b50f001934988f94d1f7195971368836ab9a1bdc",
+   "ko": "「얕보지 마라…… 그따위 저열한 무리\n　에게 패배할 이 몸이 아니다」"
+  },
+  {
+   "id": "da0305:T00013",
+   "source_sha256": "97d6832f514198243a9e4e807ee4b27345eb63acf694c44c7afc63eaf4c2f7fd",
+   "ko": "「허세 부리지 마!　엄청나게 괴로워 보이잖아, 젠장!」"
+  },
+  {
+   "id": "da0305:T00014",
+   "source_sha256": "a56852573de19d355b6fe9f12c295def3a1c277fc87b5b6b59a37a9df309dd10",
+   "ko": "「진정 볼썽사나운 사내로군, 다이쥬지 쿠로」"
+  },
+  {
+   "id": "da0305:T00015",
+   "source_sha256": "eda1eae5976798baa3a3558bbdce87e56309b3081c2c40bb023bc0214569ece6",
+   "ko": "「뭐라고오!?」"
+  },
+  {
+   "id": "da0305:T00016",
+   "source_sha256": "3c0f4cee4f150677e36bc0ac02084f945f9002f5ac9175474dfee1bd997549d3",
+   "ko": "마찬가지로 공간전이당한 것이리라, 그 소년이 붉은 망토를 날개처럼 펼치고 체공해 있었다."
+  },
+  {
+   "id": "da0305:T00017",
+   "source_sha256": "7745eedac534b021c63b3e4e8aea014d3a85c48ce15dd12cbc871f28b0f005eb",
+   "ko": "소년은 나에 대한 "
+  },
+  {
+   "id": "da0305:R00001",
+   "source_sha256": "1930c7b1add7456c6998c710b6947d2ceb8ae256697af3472d78ad028807a100",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0305:T00018",
+   "source_sha256": "15a08d202222cfb1ffb74b61982e93ca0720435d793978c2bdcb27fb05ae6dd3",
+   "ko": "적개심"
+  },
+  {
+   "id": "da0305:T00019",
+   "source_sha256": "0834babbeaac9c0d6c00fe8e61410c6e9f3470c856ab54ea0dabcbac18437a90",
+   "ko": "을 숨기지 않고 노려본다."
+  },
+  {
+   "id": "da0305:T00020",
+   "source_sha256": "305c7db35ea919cfa3e6db5de2d4ee011d8447ed360f598689a0b3087dbfde4f",
+   "ko": "「당신이 "
+  },
+  {
+   "id": "da0305:R00002",
+   "source_sha256": "82e7665f118f602ad5169c2be2ad3ccff361636a5328d1e3d65f6cf37f3c5485",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0305:T00021",
+   "source_sha256": "1d5c1287ac9730725a8057e294abfb9deaf732b78adf551429cd5f43766124f7",
+   "ko": "똑바"
+  },
+  {
+   "id": "da0305:T00022",
+   "source_sha256": "1328dc8aebac01480e33c2d7a5a6b4066a11b82993af038ee289ca195977bfca",
+   "ko": "로 했더라면, 이런 사태는\n　초래하지 않아도 되었을 것이다」"
+  },
+  {
+   "id": "da0305:T00023",
+   "source_sha256": "45a1068e7389b7ea1a27a1c86c3a37959cc92e8d313edf281782409b4a85b770",
+   "ko": "「극……」"
+  },
+  {
+   "id": "da0305:T00024",
+   "source_sha256": "6cfbda3fbb19589ee7fb1ff322b7faa0940045b5a34360a24ff075af2fb85bf8",
+   "ko": "「――그대」"
+  },
+  {
+   "id": "da0305:T00025",
+   "source_sha256": "cfbf8255cba42d01ea6b531bad3bf31419290f5dd902709ca7ed33581e8bbf3e",
+   "ko": "소년의 기세에 주춤하는 나를 대신해, 알이 소년에게 묻는다."
+  },
+  {
+   "id": "da0305:T00026",
+   "source_sha256": "cb547954f781053c6af9178add578fc401627b54fdd3f95d1edde10b3bbdfc5a",
+   "ko": "「방금 전의 마술……\n　피를 매개로 삼은 것이로군?」"
+  },
+  {
+   "id": "da0305:T00027",
+   "source_sha256": "f63e338a9fae446f20ae3d105f2318d7c4d921eff8749a1d9931f4bd94dd5f65",
+   "ko": "「…………」"
+  },
+  {
+   "id": "da0305:T00028",
+   "source_sha256": "7076f18625289b0c853684e867a4b69f8562d958be98b33214d785ab84e63c18",
+   "ko": "웨이틀리의 촉수를 폭파한 그 마술 말이다."
+  },
+  {
+   "id": "da0305:T00029",
+   "source_sha256": "49d520827f2e5b18ec54a47a143f82f6c93d50207516072258e26cb1eecb0f5e",
+   "ko": "알이 하고자 하는 말은 나도 이해할 수 있었다."
+  },
+  {
+   "id": "da0305:T00030",
+   "source_sha256": "e7aae1fc39cfc44d64db68ea66b85a1c76be7d486ac18342c666eb4278589dfc",
+   "ko": "즉――"
+  },
+  {
+   "id": "da0305:T00031",
+   "source_sha256": "fd162a182936c76dc8c5dd9e118249adbf38048171d5be04d6065259206885e9",
+   "ko": "「그대의 힘―― 『네크로노미콘』을 사칭하는\n　그 계집애와 동질의 것이다」"
+  },
+  {
+   "id": "da0305:T00032",
+   "source_sha256": "eb258f79ba31d44d20bf944373616f8f887a9e5b4f48bb5de2fab17287b9909c",
+   "ko": "「……읏」"
+  },
+  {
+   "id": "da0305:T00033",
+   "source_sha256": "df9bbae5a620f74312d1981544b750355dc2b63dd6bebb847c8d5b58c7bcbad4",
+   "ko": "붉은 소녀, 『네크로노미콘 혈액언어판』."
+  },
+  {
+   "id": "da0305:T00034",
+   "source_sha256": "78942a7760ed544053f05c6ff718159b85adfac509858fcd153a808a4ef862a8",
+   "ko": "아마도 속출하는 괴사건의 원흉.\n\n　피를 조종하여 마술이나 괴이를 행사하는 그 힘과, 아까 소년이 보여 준 힘은 같은 것이다."
+  },
+  {
+   "id": "da0305:T00035",
+   "source_sha256": "cd83128986b6695b591d508ff1048391216c5e1e7675f6ccd6439eed700ddcf9",
+   "ko": "틀림없이 이 녀석은 피의 괴이와 관계가 있다……!"
+  },
+  {
+   "id": "da0305:T00036",
+   "source_sha256": "9895cc4242a4e05cbd7865569b32c00755892d21a68124f812d396050c3f7e4b",
+   "ko": "「그대―― 적이냐. 아군이냐」"
+  },
+  {
+   "id": "da0305:T00037",
+   "source_sha256": "58476d8525bcda10fb1df1ff1a8700fda1d955d2efdfbb154fffcbc26c665750",
+   "ko": "알의 표정이 험악해진다……고 해도 "
+  },
+  {
+   "id": "da0305:R00003",
+   "source_sha256": "f9a943ee0a1e857709da198be446ec06943cf4816f63a2782c82b34aab1ef24b",
+   "ko": "꼬맹이",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0305:T00038",
+   "source_sha256": "7bafa8a1f2dc627d3825dcee1694fbb18111036c87e2eab8573e711267bcc2ba",
+   "ko": "지금"
+  },
+  {
+   "id": "da0305:T00039",
+   "source_sha256": "669cf2e197d5816d87a0d6accf3ddea0ec19e606b9a9425ea8784aff984616a6",
+   "ko": " 상태로는 박력이라곤 눈곱만큼도 없지만.\n\n　그러나 추궁당한 소년은 명백히 당황하고 있었다."
+  },
+  {
+   "id": "da0305:T00040",
+   "source_sha256": "7581fcfcc7eb38aeb170b8a008bbe581556d0f07edd4835594c6f349e63f45eb",
+   "ko": "계면쩍은 듯이 표정을 흐리며 시선을 돌린다.\n\n　결심한 것일까."
+  },
+  {
+   "id": "da0305:T00041",
+   "source_sha256": "0ecfe8c49e1d0324b7771ef03074b136482b9c3a1b80df6f8af84e1eb888918c",
+   "ko": "잠시 후, 다시 이쪽을 똑바로 바라보며 소년은 답했다."
+  },
+  {
+   "id": "da0305:T00042",
+   "source_sha256": "ddf788821d8b6fa367189c9bea63b625a4b1fb97c20f34d2fefe1ff86e3e3b0e",
+   "ko": "「당신들을 해칠 생각은 없다.\n　나의 검에 맹세코」"
+  },
+  {
+   "id": "da0305:T00043",
+   "source_sha256": "f1dbf5cad1cca40b4389e1284d8b9d1ff488c5d05275735e440638f60e9f7018",
+   "ko": "「그 피의 괴이와 어떠한\n　연관을 가지고 있느냐?」"
+  },
+  {
+   "id": "da0305:T00044",
+   "source_sha256": "32a0b5c4db84814698bc8df4a797b58abcf180b22cf210a2206dcbf6a373d201",
+   "ko": "「베어야 할 적이다」"
+  },
+  {
+   "id": "da0305:T00045",
+   "source_sha256": "a8a22183fdc3cfcc236956efd0b36866bb2b58ba4e6f6b3240347bb9fdafd3eb",
+   "ko": "「어째서 저 녀석과 같은 술법을 쓰지?\n　『네크로노미콘 혈액언어판』\n　이란 무엇이냐?」"
+  },
+  {
+   "id": "da0305:T00046",
+   "source_sha256": "f63e338a9fae446f20ae3d105f2318d7c4d921eff8749a1d9931f4bd94dd5f65",
+   "ko": "「…………」"
+  },
+  {
+   "id": "da0305:T00047",
+   "source_sha256": "f7a8c6fa5b58ad591a9c6317e881681cf86ccc6e2050e3c9e72da83ed1d3d8a1",
+   "ko": "소년이 침묵한다."
+  },
+  {
+   "id": "da0305:T00048",
+   "source_sha256": "66b87fc31dc9a2264848179e3f61770ca624dbf2f6e6ce150a03f1322b225bcc",
+   "ko": "어떻게 설명하면 좋을지 고민하는 듯했다."
+  },
+  {
+   "id": "da0305:T00049",
+   "source_sha256": "f3d050ff364d21d305fd02d64ab6571c62ea6c2f2d96583cc48388da40315b75",
+   "ko": "소년은 엄지손가락의 살갗을 살짝 물어뜯었다."
+  },
+  {
+   "id": "da0305:T00050",
+   "source_sha256": "a976e67d15c40ad114cfd24a19db9667b74ac198c8b48053a7031926522a8ced",
+   "ko": "볼록하게 핏방울이 솟아오른다."
+  },
+  {
+   "id": "da0305:T00051",
+   "source_sha256": "c9bbac7559128c6b768d94d6fa6e46a7a5a11c85ea19a574f0e433fde8c5a8e3",
+   "ko": "그것을 응시하며 소년은 이야기하기 시작했다."
+  },
+  {
+   "id": "da0305:T00052",
+   "source_sha256": "e82782bb79761ac3ba5029cf2bf88c7c04806f9fde5efd872a5189487d4fbb84",
+   "ko": "「『마술』의 본질은 『정보』다.\n　아니, 근원을 더듬어 가면 삼라만상은 『정보』\n　에 의해 구축되어 있다고도 말할 수 있다」"
+  },
+  {
+   "id": "da0305:T00053",
+   "source_sha256": "a248ee1db22e3d94a86e738ce60e6f79b6c6695597bfe2312307e10500d0807e",
+   "ko": "――정보.\n\n　+/-."
+  },
+  {
+   "id": "da0305:T00054",
+   "source_sha256": "ce35c342ee574e42c33ddf641166d5bcbfe6bc32aadcf47bf10e585f7a415342",
+   "ko": "백/흑."
+  },
+  {
+   "id": "da0305:T00055",
+   "source_sha256": "48ee231a4e4187b48cf944be48689ccff33e9bc05de34d609e13f6c5403a575c",
+   "ko": "음/양."
+  },
+  {
+   "id": "da0305:T00056",
+   "source_sha256": "5d629e083e58bb069503edd74cc10bec6df210c68549c010e9821d2c784d2bc1",
+   "ko": "생/사."
+  },
+  {
+   "id": "da0305:R00004",
+   "source_sha256": "599114ccbe642a74f24718c3bcc9a9c6388008fee9131320feb80ada99b3eea2",
+   "ko": "무",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0305:T00057",
+   "source_sha256": "9f3f05cdea5070e2faa70906932994696220eede79ad7a630fcf174d8493434c",
+   "ko": "0"
+  },
+  {
+   "id": "da0305:T00058",
+   "source_sha256": "38630d5c12e1700059a941e0e743f5d4b2af63c66f379ec73103d9c0ae02297d",
+   "ko": "/"
+  },
+  {
+   "id": "da0305:R00005",
+   "source_sha256": "82b6cc40ee9a47a969e6d3e72eb864d739e023931c2f1fa8f04f1c94acc558cc",
+   "ko": "유",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0305:T00059",
+   "source_sha256": "58110af8933d6ffe9f1609a07a5bed4240cc2b53881d88dd728ab17756023f93",
+   "ko": "1"
+  },
+  {
+   "id": "da0305:T00060",
+   "source_sha256": "8fae36311b6a52d96a0900ae427acb69e28c597ab809070a5cd951a6af40e5c2",
+   "ko": ".\n\n　끝까지 파고들면, 이 세상의 전부는 무한×무한의 양자택일."
+  },
+  {
+   "id": "da0305:T00061",
+   "source_sha256": "f592972e7e1b25643eb7123c5d1b2d5c4d05af77addf87e65e3eac57ea1f36ea",
+   "ko": "이 녀석이 하는 말은 지당하다."
+  },
+  {
+   "id": "da0305:T00062",
+   "source_sha256": "e98232c8ab5ab64aa191f250d13cf115b12b92c3171fe5f2e3f4ea0592454fda",
+   "ko": "「마도서는 『정보』를 『문자』――\n『언어』로서 기록하는 것이다. 하지만 나는……」"
+  },
+  {
+   "id": "da0305:T00063",
+   "source_sha256": "9140739c8260669bda6c873af3d4f88966de86dfcc5fcf57b37d01030324020b",
+   "ko": "핏방울이 길게 꼬리를 늘이며 소용돌이를 치며 허공에 떠오른다."
+  },
+  {
+   "id": "da0305:T00064",
+   "source_sha256": "30144edf018e5a5f62612bf6519cca623cb5db166d63a0cb8f6d341aedb5f3bb",
+   "ko": "나선을 그린다."
+  },
+  {
+   "id": "da0305:T00065",
+   "source_sha256": "cb12edbfd1a043b00a5284ee826472ccb78be61c6fb4260359c80172e4b81122",
+   "ko": "「나는 술식의 『정보』를 『피』에 기록해 두었다」"
+  },
+  {
+   "id": "da0305:T00066",
+   "source_sha256": "4e1b03bafafea49be87cd23de7dd71df1f54db1f9d05fe99ae46fd3e9bc6d145",
+   "ko": "「피에……?」"
+  },
+  {
+   "id": "da0305:T00067",
+   "source_sha256": "b39e712c2fedfb6c669bd0a57c6b34f8ebec76fdc403f5aec60a6205d85e3589",
+   "ko": "피가 또 하나의 소용돌이를 만든다."
+  },
+  {
+   "id": "da0305:T00068",
+   "source_sha256": "e624863d186b06f58d682716ac7fe2badc15a9d2bcb778ba68b829f40f28cbeb",
+   "ko": "교차하고 뒤엉키는 두 개의 소용돌이."
+  },
+  {
+   "id": "da0305:T00069",
+   "source_sha256": "c82cb38431c647b81ba93079f33a88bea7ce866b7166d6d16324019b274e3276",
+   "ko": "이중나선."
+  },
+  {
+   "id": "da0305:T00070",
+   "source_sha256": "70948d14a38bc5a24077b5ec322effd1d3821d9c8a2eeb664722655d150b6321",
+   "ko": "「『피』…… 『혈맥』…… 원한다면 『유전자』라\n　불러도 좋다. 나는 마술 정보――\n　마도의 지식을 피에 품고 태어났다」"
+  },
+  {
+   "id": "da0305:T00071",
+   "source_sha256": "df6e72bc4837726a7e00162728d29c0d9d64a8db228eca9b759ff10848bb1668",
+   "ko": "「뭐라!?」"
+  },
+  {
+   "id": "da0305:T00072",
+   "source_sha256": "9d6c0a012046e22f06198e629f29d27c5ab1e1e21a5dea8f4b2730f4d7a65e8b",
+   "ko": "「그런 일이, 있을 수……」"
+  },
+  {
+   "id": "da0305:T00073",
+   "source_sha256": "c30c205f5c08101452dff500d3656855088e3208f2ae06d63df43f794b70a8c3",
+   "ko": "「『있을 수 있기에』 나는 존재한다.\n　인간이면서 마도서이기도 한\n　『반인반서』의 존재――그것이 나다」"
+  },
+  {
+   "id": "da0305:T00074",
+   "source_sha256": "f8293080409497e580cef295e680c9072d986fdbed68777f5d3e66705d559f19",
+   "ko": "「그리고 저 녀석도――」"
+  },
+  {
+   "id": "da0305:T00075",
+   "source_sha256": "40dfbf2fabe2b46eaaf9b35ca23c97f2ce43ee87e04f87d5c870f296f9e00465",
+   "ko": "소년은 고개를 끄덕였다."
+  },
+  {
+   "id": "da0305:T00076",
+   "source_sha256": "0aebdcde7374f4bfd4d96cf41906872962ea2997afb7d83e1827e4db9549cef8",
+   "ko": "손가락 위에서 회전하던 피의 이중나선이 안개처럼 흩어져 사라진다."
+  },
+  {
+   "id": "da0305:T00077",
+   "source_sha256": "3728135269238f3bdeb981cc8cb4c4e91aeb0caa3280064694d0a6223f207e97",
+   "ko": "「어나더 블러드……\n　『네크로노미콘 혈액언어판』도 나와 같은\n　반인반서다. 나보다도 마도서 쪽……"
+  },
+  {
+   "id": "da0305:R00006",
+   "source_sha256": "0f6a29b02b32ff54b14f66570f43bb63df69c34403b67359486ba95ccb20de6a",
+   "ko": "아스트랄",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0305:T00078",
+   "source_sha256": "a84e86f9101fcfe5e4a964f7c4af33f90768b08869736a02757533d798f4a2b8",
+   "ko": "영질"
+  },
+  {
+   "id": "da0305:T00079",
+   "source_sha256": "ce2327f497d8d414a6b43b752622277ba747db643e94b7dfee9630db669c4638",
+   "ko": "체에 가깝지만」"
+  },
+  {
+   "id": "da0305:T00080",
+   "source_sha256": "0442e62b16946d63b5102de35d5d4a6a310ef2be4433bda00f70a4b425d07178",
+   "ko": "「저 녀석의 목적은 뭐야?\n　알에게 이런 짓을 해 놓고선……읏」"
+  },
+  {
+   "id": "da0305:T00081",
+   "source_sha256": "f63e338a9fae446f20ae3d105f2318d7c4d921eff8749a1d9931f4bd94dd5f65",
+   "ko": "「…………」"
+  },
+  {
+   "id": "da0305:T00082",
+   "source_sha256": "90ca89189a00a9c0dffbfe3c9839a438d2e02ce01ffaf62ae967a633627a99cc",
+   "ko": "또다시 생각에 잠긴 듯하다."
+  },
+  {
+   "id": "da0305:T00083",
+   "source_sha256": "cffd0cfdd765a6303b9d7d9a75705d5a43463213da74431d42550fdbc45b63b1",
+   "ko": "……그것이 『말을 고르고 있는』 것처럼 보인다고 한다면 지나친 억측일까?"
+  },
+  {
+   "id": "da0305:T00084",
+   "source_sha256": "aca9135bb35e767765769ae82cd2f2596cc10048843c917a5862056eb8cb0391",
+   "ko": "「그 이름이 가리키는 대로, 어나더 블러드가\n　피에 품은 지식은 『네크로노미콘』의 것이다」"
+  },
+  {
+   "id": "da0305:T00085",
+   "source_sha256": "b1688c1a43017c363fc9357faadfed4ebce5d2b4e7fc16d80b8b6e659c1bd4dd",
+   "ko": "「……!」"
+  },
+  {
+   "id": "da0305:T00086",
+   "source_sha256": "6a1280dee89dd0fe6b441eac68b0dc2eb9927b6cdf3711c66b146696984c0b53",
+   "ko": "「……녀석은 나보다 영질에 가까운 만큼,\n　존재가 불안정하다」"
+  },
+  {
+   "id": "da0305:T00087",
+   "source_sha256": "57abb55511491b1c393e181b204914c5a3d910c272bbd4a5096d070bcb206ea4",
+   "ko": "「……불안정?」"
+  },
+  {
+   "id": "da0305:T00088",
+   "source_sha256": "ed78d5e5ebe7d0315860280e90cb5d726e18e3e723be2dc77e63efa147dd7d1b",
+   "ko": "「확고한 실체로서 세계에 존재하는 것이\n　불가능하다. "
+  },
+  {
+   "id": "da0305:R00007",
+   "source_sha256": "d678372d713747469b10f4792cf13db56b08c0d18951f29918223489534c676a",
+   "ko": "고스트",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0305:T00089",
+   "source_sha256": "8d7db9091a61ec7992c15b5dcbf7da54d556192db6f15b07c8a21e3632ee9441",
+   "ko": "유령"
+  },
+  {
+   "id": "da0305:T00090",
+   "source_sha256": "0077f572dd7aa9d2c055e771b0d4864f8dc4f8e47510fe54d4089c42f7a2501e",
+   "ko": " 같은 것이다.\n　자신의 존재를 보다 확실한 것으로 만들기 위해,\n　녀석은 힘을 갈구하고 있다」"
+  },
+  {
+   "id": "da0305:T00091",
+   "source_sha256": "d37f7fbf803249dcbc6a8721246f259a4986fbfee93b6fcfdc7b4ab9fe59de9a",
+   "ko": "「그렇군…… 그래서」"
+  },
+  {
+   "id": "da0305:T00092",
+   "source_sha256": "a5bb81b63f5ca58f031df2526e54c00b8ebc64481ae7a3a73fab3cdf6976d6ff",
+   "ko": "「그 우둔한 머리로도,\n　이 정도 일은 눈치채는가」"
+  },
+  {
+   "id": "da0305:T00093",
+   "source_sha256": "0f8bac66e39472036cc35c6b2a6d7800a4772f127bb483b7d72e2f47faf4693d",
+   "ko": "「므으윽……」"
+  },
+  {
+   "id": "da0305:T00094",
+   "source_sha256": "2dd457109b1726a6d54076f14412f68c6fc0f0fd1316979e10f50a01b38b3508",
+   "ko": "……뭐야, 이 녀석?"
+  },
+  {
+   "id": "da0305:T00095",
+   "source_sha256": "57afec71505fff255b5012b92d9b7942b61e58195fe3a1edd5896d3f7008284c",
+   "ko": "아까부터 계속 유독 나한테 시비를 걸어 대고 있다."
+  },
+  {
+   "id": "da0305:T00096",
+   "source_sha256": "232bcf25323d35fe3594f4a8f516452e1f0fda8a5bcd67a9faf864a5d4e168bd",
+   "ko": "뭐가 마음에 안 드는 거지?"
+  },
+  {
+   "id": "da0305:T00097",
+   "source_sha256": "b31eb1c58ca06ea79a9fbcd28f68795c40f57aee1b33d6b1b18a8ce40f34ba6c",
+   "ko": "「그래. 강대한 마력을 내포하고, 게다가 녀석의 피에 잘 동화되는 존재―― 당신이다, 『알 아지프』.\n　녀석은 당신을 자신에게 흡수하여, 힘을 얻을 셈\n인 것이다」"
+  },
+  {
+   "id": "da0305:T00098",
+   "source_sha256": "2822d1898839f10c13f8dd639e7c8b7c43b4e3d1657fff553ea67620292e4e97",
+   "ko": "「가증스러운…… 극!」"
+  },
+  {
+   "id": "da0305:T00099",
+   "source_sha256": "aaf3b55f76265f7ab4853f26d3e5dc6de2d80633b53ed647e2a78305aab17e77",
+   "ko": "「알!」\n\n　괴로워하는 알을 손바닥에 살며시 올려 쉬게 한다."
+  },
+  {
+   "id": "da0305:T00100",
+   "source_sha256": "73ee0cb1689e92482be559e2af14ed729e2d61df8830b1d6ed94663352167e06",
+   "ko": "이대로는 알이 흡수당하는 것도 시간문제다."
+  },
+  {
+   "id": "da0305:T00101",
+   "source_sha256": "977982059edeb732fd094b2dd7661ccb5b7ceac632c9ac20a81d3354d2e58d09",
+   "ko": "빨리 뭔가 수를 써야만 해."
+  },
+  {
+   "id": "da0305:T00102",
+   "source_sha256": "45a7571b772c988c04a5ecd25e1433c95973bc60f1f064d3857fee147bf3ef15",
+   "ko": "「어나더 블러드를 "
+  },
+  {
+   "id": "da0305:R00008",
+   "source_sha256": "4dae1fea52814eb01c1f6f5e611386bf5216d66ee363d7ec5b45ff3c60f0ceb9",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0305:T00103",
+   "source_sha256": "e576049bcdb98de738f142c446fc515b0c9df3d3eb8a39b9e9111ad0b06b8306",
+   "ko": "쓰러뜨리"
+  },
+  {
+   "id": "da0305:T00104",
+   "source_sha256": "d116874c4d7c70178a9fa4ec9516d6f86d824825022522fc8cbba643cf55b813",
+   "ko": "는 수밖에 없다」"
+  },
+  {
+   "id": "da0305:T00105",
+   "source_sha256": "14c69ef71fdb51f75b0ee0810955967567949d719cd3e5732cd9ad78fd14f047",
+   "ko": "「그 방법뿐인가……\n　젠장!　그 녀석 어디로 간 거야!?」"
+  },
+  {
+   "id": "da0305:T00106",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0305:R00009",
+   "source_sha256": "3317b5b4a5e2a2c700ba3f73316189000aea4e4b988a1c8ea8d828bae4fd8c20",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0305:T00107",
+   "source_sha256": "28f995288781c6f0919e519dc03e71fcbd15350bfba422d6207b761c72978623",
+   "ko": "시끄러"
+  },
+  {
+   "id": "da0305:T00108",
+   "source_sha256": "e184423f54a230995b67a638cab4fa6c3369a31c5998b7ff24880a5688f2c1ab",
+   "ko": "운 사내다. 짖어 본들\n　아무런 해결도 되지 않는다」"
+  },
+  {
+   "id": "da0305:T00109",
+   "source_sha256": "c9056d0db4666ac01bcd13efbd97cc9b49c07bc43838fe2c949f1ff4533bda9a",
+   "ko": "「그그그~~~~…… 아아앗!\n　네 쪽이야말로 아까부터 시끄럽거든!?\n　뭐야 뭐야, 불만 있으면 확실히 말해 봐!」"
+  },
+  {
+   "id": "da0305:T00110",
+   "source_sha256": "159f2339cdb1d1ee00b9e6b1ac3f38218b23ebf4b4f4ef28c08efa2e8566990f",
+   "ko": "「당신을 상대하고 있을 틈은 없다」"
+  },
+  {
+   "id": "da0305:T00111",
+   "source_sha256": "ff292f83bcf74590c0c6042555c491d1e1c6795c76b6486cf39325de2a478cdb",
+   "ko": "「앗 이봐!　기다려!」"
+  },
+  {
+   "id": "da0305:T00112",
+   "source_sha256": "feb93d8ab746ff93bda0002041689bed9b54de1fdf2b5c3e9c86f38c8d3ae6ad",
+   "ko": "나를 무시하고 소년은 거리로 강하한다."
+  },
+  {
+   "id": "da0305:T00113",
+   "source_sha256": "8e26b5ece7640c7ffdb039e5d99067b664d1584134812650db43275ce1f81625",
+   "ko": "나는 그 뒤를 쫓는다."
+  },
+  {
+   "id": "da0305:T00114",
+   "source_sha256": "5cd0eeb75bc61777f8976027ad7e1d37dd9918ade957047c615f8a6066842569",
+   "ko": "손안의 알에게 부담을 주지 않도록 천천히.\n\n　서서히 가까워지는 아컴 시티."
+  },
+  {
+   "id": "da0305:T00115",
+   "source_sha256": "5e7bbaee79e1fd360aa49452b044ef93eaf93030422a0701408149e9750ef84c",
+   "ko": "하지만…… 이상하다."
+  },
+  {
+   "id": "da0305:T00116",
+   "source_sha256": "20d055859a3baa5d9b3080822d638b63fe4e4443664977968271f2c352949f3b",
+   "ko": "뭔가 위화감이 느껴진다.\n\n　이렇게…… 뭐랄까, 퍼즐이 맞물려 있지 않은 듯한,\n　그런 기분 나쁨."
+  },
+  {
+   "id": "da0305:T00117",
+   "source_sha256": "14b0f7c4d900360f23449d1ced11122ae36cae32f6fd609bf89e3dd983ba8565",
+   "ko": "「뭐야…… 참 나」"
+  },
+  {
+   "id": "da0305:T00118",
+   "source_sha256": "4ceacb2731c0a3403a65fd405cf70e9d67aafdfa3b743b941d951c2a3a1bbc5e",
+   "ko": "눈을 가늘게 뜨고 보면 거리 풍경의 상태를 살필 수 있는 높이까지 왔다."
+  },
+  {
+   "id": "da0305:T00119",
+   "source_sha256": "b90405cd8e9d485a9cfd14c51ed8a07317695e82256994ec65d710cb6362ead7",
+   "ko": "나는 눈 아래의 거리를 둘러보고――"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0305:R00001",
+   "kind": "omit_redundant",
+   "note": "한국어 '적개심'으로 의미가 온전히 전달되므로 일본어 독음 루비 생략"
+  },
+  {
+   "id": "da0305:R00002",
+   "kind": "omit_redundant",
+   "note": "한국어 '똑바로'로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0305:R00008",
+   "kind": "omit_redundant",
+   "note": "한국어 '쓰러뜨리는'으로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0305:R00009",
+   "kind": "omit_redundant",
+   "note": "한국어 '시끄러운'으로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  }
+ ]
+}

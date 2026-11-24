@@ -1,0 +1,740 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0080_da0708",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0708:T00001",
+   "source_sha256": "65ebbf909104d4ae2f6893705992f6573ac93b51ca33a02547e7dd752f27d82f",
+   "ko": "「왔구나, "
+  },
+  {
+   "id": "da0708:R00001",
+   "source_sha256": "25b57b2614177361ac5835f61b08fa3f4116744d8275d0e97142056f7e6686a7",
+   "ko": "투 소드/투 건",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0708:T00002",
+   "source_sha256": "f8cc521ba37a92038ef768e668a4527c2a7d969381ad66558edf63d7338efd9e",
+   "ko": "이투류"
+  },
+  {
+   "id": "da0708:T00003",
+   "source_sha256": "9d71fe2bed01eb2170623b693bfd75f1d30b2c43e14b970df956a927a2fcfe89",
+   "ko": ".\n　맞이해 줄게!」"
+  },
+  {
+   "id": "da0708:T00004",
+   "source_sha256": "b77b42fa5ba2a41c608efb187c0fcbe8142e96823a72bd435a344d21c7410506",
+   "ko": "「나의 쌍검에 고철을 들이대느냐!\n　가소롭다!」"
+  },
+  {
+   "id": "da0708:T00005",
+   "source_sha256": "41002d0dfc2facc45a7462ca25821e08742a4e3e44913af4ef9b2d582a3945b1",
+   "ko": "두 줄기 검섬이 파괴로보 사이를 질주한다."
+  },
+  {
+   "id": "da0708:T00006",
+   "source_sha256": "146e51c63b98df14194573356c3d4a25bbb1818528f516812e97159c3458dc10",
+   "ko": "순식간에 데몬베인 투 소드에게 덤벼들었던 십수 대의\n파괴로보가 기하학적인 "
+  },
+  {
+   "id": "da0708:R00002",
+   "source_sha256": "d8523a4a2d00302309f2be6efe35aa0f337489d99c04a54893b574550e3367c1",
+   "ko": "블록으로",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0708:T00007",
+   "source_sha256": "88731a8fb9d850bf6f0b4bba50fa393b3eb4c8d2dbbf085e2a5cc44b5d1e2b7f",
+   "ko": "형태로"
+  },
+  {
+   "id": "da0708:T00008",
+   "source_sha256": "a7cb9120c8c492ceab5faa29d0f666966d82c2c1d05b7fe7bfffc90dc138343b",
+   "ko": " 토막 나 폭발했다."
+  },
+  {
+   "id": "da0708:T00009",
+   "source_sha256": "ed59a2a327370d7ccf1ffcd616e229aa65005be22ad7a0176e564c2d35d3c6d8",
+   "ko": "여전히 쇄도하는 파괴로보 군단."
+  },
+  {
+   "id": "da0708:T00010",
+   "source_sha256": "71e373fd09ea79768b55b410a705a8673c6f415adf7256d37d409e3c4072369c",
+   "ko": "두 자루의 소검을 조합해 십자검을 만든다."
+  },
+  {
+   "id": "da0708:R00003",
+   "source_sha256": "cc404c5d1a409cf671ddec944df2605744414938d2e48dd79a3494b9e2e472bd",
+   "ko": "스윙",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0708:T00011",
+   "source_sha256": "99c07d6310ea926082878245cf8448495e72c6cd1c325545e00be6f43a4acfda",
+   "ko": "투척"
+  },
+  {
+   "id": "da0708:T00012",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  },
+  {
+   "id": "da0708:T00013",
+   "source_sha256": "6368eea856eccc93252a7e4a2ae888b0d8dd7e479c40e916006a6d3fe231c4be",
+   "ko": "궤도상의 적을 양단하며 십자검은 비상한다."
+  },
+  {
+   "id": "da0708:T00014",
+   "source_sha256": "8d639bcc2cfd6810b6c9d1eca4bfb66dc96442154fcd9fdbfc24af8f995da7ae",
+   "ko": "맨손이 된 D 투 소드."
+  },
+  {
+   "id": "da0708:T00015",
+   "source_sha256": "e587222e41690d1b35316ecdd5f5774c09c2bfceb73c2eb9e174a29cf7114401",
+   "ko": "그 오른손바닥에서 "
+  },
+  {
+   "id": "da0708:R00004",
+   "source_sha256": "f82ba0b74230562fc2c2c595d971367df84eed2e2861c036af2c6d71381e077f",
+   "ko": "플라스마가",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0708:T00016",
+   "source_sha256": "052c09cf906ee9c3c8db74ef4ce30742dee694399400b94c12d68ffc292c1255",
+   "ko": "백광이"
+  },
+  {
+   "id": "da0708:T00017",
+   "source_sha256": "bb9e0a6b1f93e5fff00e2d1359472a19b140d68d05c9100cf81115bbdf8f4717",
+   "ko": " 빛났다."
+  },
+  {
+   "id": "da0708:T00018",
+   "source_sha256": "a9d3a7fae4f617c0286726422ea7223fad81c4ce8f3957ec48208f2cfcbadbb1",
+   "ko": "그 왼손바닥에서 "
+  },
+  {
+   "id": "da0708:R00005",
+   "source_sha256": "30044562086d5c34328105a753cbaacb3a2c4d1b46a55024b5b3d1837b98ef58",
+   "ko": "다이아몬드 더스트",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0708:T00019",
+   "source_sha256": "cd71097c3c7ada44fa7293ff37ad6d1b933a7acbe57c4f312d257c74f1251d32",
+   "ko": "얼음 안개"
+  },
+  {
+   "id": "da0708:T00020",
+   "source_sha256": "004515467a23d5b64b8370e31ab6ee9843b5b2d11d5f5d2b3d85319419003870",
+   "ko": "가 반짝였다."
+  },
+  {
+   "id": "da0708:T00021",
+   "source_sha256": "65d97ef7ca4a8fa308140ff14acaf69aa961ccf8e40cf530b2c2b7544e3af61e",
+   "ko": "지향성을 얻은 마력이 두 자루의 마총이 되어 결정화하고 현현한다."
+  },
+  {
+   "id": "da0708:T00022",
+   "source_sha256": "694f3bae94d1e26823bdbe3e55d514a20c05a28e10bdc02ee79d31aa8e3ddb1a",
+   "ko": "「크투가! 이타콰!」"
+  },
+  {
+   "id": "da0708:T00023",
+   "source_sha256": "264cd625991e424733e8b9d0366b3e98d2bc21e39791effa178d0d349243da8c",
+   "ko": "쌍권총을 손에 쥔 D 투 소드가 독특한 움직임을 보인다."
+  },
+  {
+   "id": "da0708:T00024",
+   "source_sha256": "1ba42a040f516296ed81e9c76b9520dc01b689144a2ad67e08c94ab0e500a7bb",
+   "ko": "그것은 일종의 검기, 혹은 무술의 『초식』을 연상케 하는 움직임이었다.\n\n　무기질적인 두 눈동자가 적의 군세를 둘러본다――아니, 그 눈이 보는 것은\n적의 무리가 아니다."
+  },
+  {
+   "id": "da0708:T00025",
+   "source_sha256": "b996fd565c529f5e5fe3f7befb350bef6c78f717bf4e61741f8e65dbf968e51f",
+   "ko": "그 눈이 보는 것은 신들의 영역――세계를 구성하는 "
+  },
+  {
+   "id": "da0708:R00006",
+   "source_sha256": "09fa673682a266196a91d31d5ed99736a1c7d85c250226fb9c9ec5b7006a27ba",
+   "ko": "아자토스",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0708:T00026",
+   "source_sha256": "5e7930e1744f03b9e3bc03391b9568c30347421f4c5cb7f73d17119a9e29ab74",
+   "ko": "자도자"
+  },
+  {
+   "id": "da0708:T00027",
+   "source_sha256": "f775fe5b1a671d36d7cc10ac6cebfee6bfa0ec064fc59b11cc7732ca7e705d81",
+   "ko": "의 움직임."
+  },
+  {
+   "id": "da0708:T00028",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0708:R00007",
+   "source_sha256": "e6e37a7d404ed0a12a3f696b3c1f287a23d9278977b45525b33fb09eb2fd1100",
+   "ko": "블래스트 블리츠 크라이×3",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0708:T00029",
+   "source_sha256": "215dd57273171248c250857913c0712f38112a90bc33f50b27a5b9c2ff380d69",
+   "ko": "노래하라, 총성의 진혼가"
+  },
+  {
+   "id": "da0708:T00030",
+   "source_sha256": "6560fad1b5299ec45c7562b1e825f123c87101dc289a1eb71426e443d34f4c8c",
+   "ko": "!」"
+  },
+  {
+   "id": "da0708:T00031",
+   "source_sha256": "ce807af0d6fe33d6374a14c45002bf65546c7abfb0e815c538d17bdd392ec7ea",
+   "ko": "――노래한다.\n\n　그것은 무서운 정밀도를 자랑하는 "
+  },
+  {
+   "id": "da0708:R00008",
+   "source_sha256": "7fae5d11fa70b6eddb5f5f9ec0d1c7962e127fe85389b835ccf0e31ee1ae44c1",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0708:T00032",
+   "source_sha256": "be2b1bf0e528fa23a17c41db2e0bae5ad2f00c6345fce84ae409603e6c5d0514",
+   "ko": "몰살"
+  },
+  {
+   "id": "da0708:T00033",
+   "source_sha256": "160b204b7e8d1b56feb612d94add96d04eec1d3cc0b960cd9d58c6e9fd0b801c",
+   "ko": " 기술."
+  },
+  {
+   "id": "da0708:R00009",
+   "source_sha256": "99d8e0ddf826e2e09cddef6429384e6aff052bf25f6e9c50fd4694f272781431",
+   "ko": "맥시멈 킬존",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0708:T00034",
+   "source_sha256": "9d1b8a6f844c2312f8a5a3b3978a692d4508512f95b9f726213c66924a6aedbe",
+   "ko": "최적의 공격 위치"
+  },
+  {
+   "id": "da0708:T00035",
+   "source_sha256": "df709ca08b0de41524124e13db3d49c65ec556908b860df5d9c1966eed03151c",
+   "ko": "에서 "
+  },
+  {
+   "id": "da0708:R00010",
+   "source_sha256": "d1ccb24539668d918fd7e3df6c83a1d6dd6a6b98a1344d5e2453f63db4ac8168",
+   "ko": "맥시멈 넘버",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0708:T00036",
+   "source_sha256": "f644f647d90292e37acc47048fac8d565c83ace42e1ee74d9b9e165790abf40d",
+   "ko": "최다의 적 목표"
+  },
+  {
+   "id": "da0708:T00037",
+   "source_sha256": "b99691a11acb413cf23601d961ab96dd480ec3e5462603f625926cd843dcdfa8",
+   "ko": "에 대한 "
+  },
+  {
+   "id": "da0708:R00011",
+   "source_sha256": "5535d9f6f6de99fb814ff00586c4430454b8a6275de66251fe147387e73fa891",
+   "ko": "맥시멈 데미지",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0708:T00038",
+   "source_sha256": "3e8b1966a83f9bd40c520e1a305013ad395d9e2c1e1cb8db1d31924fcb8362b9",
+   "ko": "최대 위력의 공격"
+  },
+  {
+   "id": "da0708:T00039",
+   "source_sha256": "f902580edb8c0d11cac3d06273a16db750ed5deb02347cf82e2c4445194dc688",
+   "ko": ".\n\n\n　미래 예측에 가까운 계산 능력이 가능케 하는 "
+  },
+  {
+   "id": "da0708:R00012",
+   "source_sha256": "96ab4cbe580ce38fa9a35d6a1f45d5703985c7fd594dac9ae05302183ceb6a5f",
+   "ko": "건부",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0708:T00040",
+   "source_sha256": "019432453cdd83bb0eab1908edbddd595fd7e7f3e4544e312346e366e20e8b19",
+   "ko": "총의 춤"
+  },
+  {
+   "id": "da0708:T00041",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  },
+  {
+   "id": "da0708:R00013",
+   "source_sha256": "4098be5b486e93f80fdb106637a6e462f00ee2df9bf4810e2b97dd43527ea981",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0708:T00042",
+   "source_sha256": "eda66c940d296a1fc3b01e4d36346dbbbfce1779401e342fad15ef10ddd0601f",
+   "ko": "총격"
+  },
+  {
+   "id": "da0708:T00043",
+   "source_sha256": "9cc5fa3b2e13c10bbdd31054598bf199f1f7ac3cf85474f8370dfc27485b6c82",
+   "ko": "이라는 이름의 "
+  },
+  {
+   "id": "da0708:R00014",
+   "source_sha256": "0a052adfe82b54d588f5297c237b96528ef9d1dd934ec90c38c0bba6001c713e",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0708:T00044",
+   "source_sha256": "2f1f61676a0a96b671e6d60265953b2da1a09161faf5aa46e3a80e1b7e69a75e",
+   "ko": "중폭"
+  },
+  {
+   "id": "da0708:T00045",
+   "source_sha256": "c4a40ea8fe35627476f7f8cb9e1fc7f8898f428c6d1ff18b0bc5479d5db39c5f",
+   "ko": ", "
+  },
+  {
+   "id": "da0708:R00015",
+   "source_sha256": "4098be5b486e93f80fdb106637a6e462f00ee2df9bf4810e2b97dd43527ea981",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0708:T00046",
+   "source_sha256": "eda66c940d296a1fc3b01e4d36346dbbbfce1779401e342fad15ef10ddd0601f",
+   "ko": "총격"
+  },
+  {
+   "id": "da0708:T00047",
+   "source_sha256": "9cc5fa3b2e13c10bbdd31054598bf199f1f7ac3cf85474f8370dfc27485b6c82",
+   "ko": "이라는 이름의 "
+  },
+  {
+   "id": "da0708:R00016",
+   "source_sha256": "9245af63f5454e8b5c9c03c3a938f0580efc27280b8bb60b81d9d9f5292caf49",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0708:T00048",
+   "source_sha256": "a58edc478f2fa2fb5fd22a7c28bee3e0c2074a4fa74f8967f4c68e9c76759d39",
+   "ko": "유린"
+  },
+  {
+   "id": "da0708:T00049",
+   "source_sha256": "8919a55f592c9838df42e08533efb9859448a922d06b109ad6541812a986a7c0",
+   "ko": "이다."
+  },
+  {
+   "id": "da0708:T00050",
+   "source_sha256": "167479100b0d499f16291229ecb5fdcf0813b5aa9693532f21f35bfb0864f305",
+   "ko": "포효하는 진홍의 총. 잘게 부서지는 적기의 군세."
+  },
+  {
+   "id": "da0708:T00051",
+   "source_sha256": "172076d9dc6fe17b7c74a3100cf2deba5d3b9039e72ab8469756388f5df2d621",
+   "ko": "부르짖는 "
+  },
+  {
+   "id": "da0708:R00017",
+   "source_sha256": "c52b839ad7c2cc181ce192f171ca461723f0cc6a335da53f4e5282d3a3d97e02",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0708:T00052",
+   "source_sha256": "c994c4b419be9d6385da7a5841533da20f549071f2b9b81f1729ba170a585e2a",
+   "ko": "은빛"
+  },
+  {
+   "id": "da0708:T00053",
+   "source_sha256": "3e6975f9126791569ba5d84da06c1e117dbce3432bc34beb49b7d5c2259f604d",
+   "ko": "의 총. 갈기갈기 찢기는 철귀의 군세.\n　"
+  },
+  {
+   "id": "da0708:R00018",
+   "source_sha256": "77c0370d095a3cc57ce7a3a57f71633fcbe1433869049463a23076998c851823",
+   "ko": "크라이",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0708:T00054",
+   "source_sha256": "dabb61ecad93d60513ab1bb826681252541f5255789b1ef556e79b87799ea4db",
+   "ko": "노래한다"
+  },
+  {
+   "id": "da0708:T00055",
+   "source_sha256": "38630d5c12e1700059a941e0e743f5d4b2af63c66f379ec73103d9c0ae02297d",
+   "ko": "/"
+  },
+  {
+   "id": "da0708:R00019",
+   "source_sha256": "77c0370d095a3cc57ce7a3a57f71633fcbe1433869049463a23076998c851823",
+   "ko": "크라이",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0708:T00056",
+   "source_sha256": "dabb61ecad93d60513ab1bb826681252541f5255789b1ef556e79b87799ea4db",
+   "ko": "노래한다"
+  },
+  {
+   "id": "da0708:T00057",
+   "source_sha256": "38630d5c12e1700059a941e0e743f5d4b2af63c66f379ec73103d9c0ae02297d",
+   "ko": "/"
+  },
+  {
+   "id": "da0708:R00020",
+   "source_sha256": "77c0370d095a3cc57ce7a3a57f71633fcbe1433869049463a23076998c851823",
+   "ko": "크라이",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0708:T00058",
+   "source_sha256": "dabb61ecad93d60513ab1bb826681252541f5255789b1ef556e79b87799ea4db",
+   "ko": "노래한다"
+  },
+  {
+   "id": "da0708:T00059",
+   "source_sha256": "527f73ca912b77c8dd4d91262d2819ddc10a5a47f0b31e5ffcb5165537fa98e5",
+   "ko": "――"
+  },
+  {
+   "id": "da0708:T00060",
+   "source_sha256": "7a5f23ed69a5ee7d9ec38c45fa9349bb479a6e563d071754c8a0fab497f040e7",
+   "ko": "D 투 소드의 주위에서 모든 적의 모습이 사라졌다."
+  },
+  {
+   "id": "da0708:T00061",
+   "source_sha256": "71857262f9346c2ff6faab52fa22196522f8c849f7eedacdc5bb1477218c36e4",
+   "ko": "하지만 『몽환심모』에서는 이미 적의 제2진이 출격해 있다."
+  },
+  {
+   "id": "da0708:R00021",
+   "source_sha256": "5dbbfabd6b0d858c557265fe38688900183a77cd6ba5295a7b4c1cdc208bdd78",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0708:T00062",
+   "source_sha256": "ebfa5cf604db959fe2b4103b6723c70bfc563ee000bd9ed4ca5d2d87ea762a02",
+   "ko": "엄청난"
+  },
+  {
+   "id": "da0708:T00063",
+   "source_sha256": "89e3b55e4bf8e9ac3ba81517b6722c76b4f22b23d946e6dd5249b6ff87a713cd",
+   "ko": " 수의 적/적/적."
+  },
+  {
+   "id": "da0708:T00064",
+   "source_sha256": "b24660f72734c852ad86364903486606ee6e3feb8e3ef9f4251684fe2d588818",
+   "ko": "「기사가 나아가는 길을 막을 수 있을 줄 아느냐!」"
+  },
+  {
+   "id": "da0708:T00065",
+   "source_sha256": "0f8405c841db3dd5557267202f8943c30b8fd3ea60f87b43649e72c7e47d6a0b",
+   "ko": "하늘을 가득 메울 듯한 적군의 한복판으로 D 투 소드는\n돌격한다."
+  },
+  {
+   "id": "da0708:T00066",
+   "source_sha256": "4fc93b0401383eb73058fe8a0f2a0a8137dd81871ac07467f5340f601590ecd9",
+   "ko": "다리 실드에 모이는 막대한 에너지."
+  },
+  {
+   "id": "da0708:T00067",
+   "source_sha256": "614bf2638d2e88de912ec77c53398dac6cd4b503aed0f49f5ec71149ffcb13d3",
+   "ko": "시공간 왜곡 기구의 개방."
+  },
+  {
+   "id": "da0708:T00068",
+   "source_sha256": "1199018f5e39299102c2c2611fd09eb76442b2ecde8a45a0b0368290cf00dc05",
+   "ko": "보랏빛 번개를 두르고 D 투 소드는 하늘을 달린다."
+  },
+  {
+   "id": "da0708:T00069",
+   "source_sha256": "fe609cb4f8d69c53705a5cd1112ebcfcdbaeeba8f23d05c34c411ac17f055a6c",
+   "ko": "「나의 일격은,\n　전장을 달리는 기사의 "
+  },
+  {
+   "id": "da0708:R00022",
+   "source_sha256": "1ba50fe35870c6445d14c8befb9e71ca013ce3a8456173b5275f9ee3ae0e9fbe",
+   "ko": "랜스",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0708:T00070",
+   "source_sha256": "13514956593b328134092a3da31a6426fbe55480a135c68f27439bbd4ac9244b",
+   "ko": "군창"
+  },
+  {
+   "id": "da0708:T00071",
+   "source_sha256": "7ae88be5f257ae68dad9faf36cfe820559c1277b33395855fbc70f2368066d6f",
+   "ko": "……!」"
+  },
+  {
+   "id": "da0708:T00072",
+   "source_sha256": "ad85ab92a39d77606f2d3643c34f4889bffc55a821dde60626f121d102acdaac",
+   "ko": "에너지를 나선 모양으로 방출하며 수직 방향으로 급상승."
+  },
+  {
+   "id": "da0708:T00073",
+   "source_sha256": "a19da0c210cec49cb8686f42a98a9e8e48b2e4a667b70487243b08e01c2ca6a6",
+   "ko": "궤도는 높이, 『몽환심모』의 상공으로."
+  },
+  {
+   "id": "da0708:T00074",
+   "source_sha256": "b1e3ced34a35d7b1361d7101a2d03080930004d9eb0e3e6376331aebdab37a6b",
+   "ko": "그 모습은 하늘로 승천하는 용을 방불케 한다."
+  },
+  {
+   "id": "da0708:T00075",
+   "source_sha256": "a920d0a60972dbbd1dd939521e2658148212958d2f8f7512464359502ee34382",
+   "ko": "검은 달을 눈 아래로 내려다보는 위치에서 D 투 소드는 반전한다."
+  },
+  {
+   "id": "da0708:T00076",
+   "source_sha256": "0ae4f410db4c24cb7a1867594633d361719e3cd5634429ba6d3bd67af2089f5b",
+   "ko": "필살의 파괴력을 머금은 다리를 내지르며――"
+  },
+  {
+   "id": "da0708:T00077",
+   "source_sha256": "86a475eefe3f61855ae5d280b0ea35b54f721a5c1d01eea42211bd122d2693c7",
+   "ko": "「아틀란티스 스트라이크!」"
+  },
+  {
+   "id": "da0708:T00078",
+   "source_sha256": "22aa8b6c8d89d4a30b8e2c4789ed297f074deec4f1daa6dedeb0f324b225f007",
+   "ko": "선언대로 D 투 소드는 적진을 꿰뚫는 "
+  },
+  {
+   "id": "da0708:R00023",
+   "source_sha256": "1ba50fe35870c6445d14c8befb9e71ca013ce3a8456173b5275f9ee3ae0e9fbe",
+   "ko": "랜스로",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0708:T00079",
+   "source_sha256": "44bb857ca8c173d7b51eef680e9f813bbd330511dcc61353fc7c19bd3d9bf466",
+   "ko": "돌격창으로"
+  },
+  {
+   "id": "da0708:T00080",
+   "source_sha256": "07caaeaeb1ed43bf3b35188c0d53f63a20133bceb7833ac0b5f8f5901a621859",
+   "ko": " 화했다."
+  },
+  {
+   "id": "da0708:T00081",
+   "source_sha256": "0805696655aed215f17afc1d1f53ba1af0e5e284a0727dfe19c0c4fbff877a99",
+   "ko": "D 투 소드의 궤도상에 있던 파괴로보는 맥없이 폭쇄\n하여 흩어진다.\n\n　닿는 것, "
+  },
+  {
+   "id": "da0708:R00024",
+   "source_sha256": "dca68fa81e48ed0c4790233d4757302fe40db9c1b1aa9efb70c35a8bd9d51ae2",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0708:T00082",
+   "source_sha256": "3632a77f010c8809111fed6c5ce5475e1dfb08301db5ca6591c4671e3993deac",
+   "ko": "스치"
+  },
+  {
+   "id": "da0708:T00083",
+   "source_sha256": "ea1fa7f14955e29bf3683c488eb36b0b760e9def072e40dbf1f7ec8c2d6642af",
+   "ko": "는 것 일체를 가루로 만들며, "
+  },
+  {
+   "id": "da0708:R00025",
+   "source_sha256": "edf34d8c8f95a92154525371c91d667007974fdd34acaafbdb022d60a068f630",
+   "ko": "D 투 소드",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0708:T00084",
+   "source_sha256": "c3aabe8fef45cf95aba9749bac5fdee1a0a1aa86b82ef3775832c8a0f2a1143a",
+   "ko": "한 줄기 우레"
+  },
+  {
+   "id": "da0708:T00085",
+   "source_sha256": "9d019b6c467bca08053d91d1dc4ccaf97e46c453c1cb825a41658596cba9f402",
+   "ko": "는 검은 달을\n향해 떨어진다."
+  },
+  {
+   "id": "da0708:T00086",
+   "source_sha256": "04af0bf7c03a4f2082d66ebdb3dbdd78546f22f72ce5a21aed84f76ef236ac25",
+   "ko": "「우오오오오오오오오오오오오!」"
+  },
+  {
+   "id": "da0708:T00087",
+   "source_sha256": "1ad71dc83bdaee0a3852d45a207850fb912ad35a1419a85ac2edce1e473c4c12",
+   "ko": "검은 달을 꿰뚫는다."
+  },
+  {
+   "id": "da0708:R00026",
+   "source_sha256": "6a8935c5587aa636c1a9345a016515d7aad23f1555fb04da78faafbe251ad69d",
+   "ko": "나이트 오브 투 소드/투 건은",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0708:T00088",
+   "source_sha256": "dd6cd14acf254f61d971933b8083d13c5768ec47bac2f3cc6a89143e0bba101f",
+   "ko": "이투류의 기사는"
+  },
+  {
+   "id": "da0708:T00089",
+   "source_sha256": "de77c92e700013835c3fc5ad8f581a6c050fa5f015b75f694fe41715cfb4847e",
+   "ko": ", "
+  },
+  {
+   "id": "da0708:R00027",
+   "source_sha256": "62e1d9357aa40ffe9ff0a800cb7b5cd3dc8bf8b92617d240e9d95b4b022bbf72",
+   "ko": "성",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0708:T00090",
+   "source_sha256": "5ec7f9ec424e2146c142ace6b5a85cb18b21bf10ff089fe713d38ba37d125c9e",
+   "ko": "요새"
+  },
+  {
+   "id": "da0708:T00091",
+   "source_sha256": "3b2e79bc719379948597cf4be8f8c76f1b3296e6089b0a355b1d9b49e5503647",
+   "ko": "의 "
+  },
+  {
+   "id": "da0708:R00028",
+   "source_sha256": "f928a1d8b5112862013422df7230496f194f20b6680c812512a9d4e8a2b7aa4e",
+   "ko": "안",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0708:T00092",
+   "source_sha256": "5b95cb1c2764100a07868a754eeeb498259b6107844e4da2d708846fe4f8d66a",
+   "ko": "뱃속"
+  },
+  {
+   "id": "da0708:T00093",
+   "source_sha256": "3834e63f2e78ba23d91c670ee491da680bfb248120bba792362626920add9b8b",
+   "ko": "으로."
+  },
+  {
+   "id": "da0708:T00094",
+   "source_sha256": "4fa3292ff5094850b3010fbf34c679de935632ca780a1c7aa2772282afca041b",
+   "ko": "――그리하여 첫 번째 배우가 단상 위로.\n\n　자, 달려 나가라. 달려 나가라."
+  },
+  {
+   "id": "da0708:T00095",
+   "source_sha256": "4fa4f83643e07d846d7c046aed8a083977292da1cd80d21119ab2489b5cbdce5",
+   "ko": "악몽이 자아내는 무대의 대단원을 향해, 곧장."
+  },
+  {
+   "id": "da0708:R00029",
+   "source_sha256": "d753ed11243d772a454620b15540a5a511acc09306e14e7d73ef4eb7a2255914",
+   "ko": "댄스",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0708:T00096",
+   "source_sha256": "32ff17fc0ac9ca482967b78c6aa7d7a1dffb0e194ff1ddcbc2e86d663fa54065",
+   "ko": "춤추고"
+  },
+  {
+   "id": "da0708:T00097",
+   "source_sha256": "c4a40ea8fe35627476f7f8cb9e1fc7f8898f428c6d1ff18b0bc5479d5db39c5f",
+   "ko": ", "
+  },
+  {
+   "id": "da0708:R00030",
+   "source_sha256": "d753ed11243d772a454620b15540a5a511acc09306e14e7d73ef4eb7a2255914",
+   "ko": "댄스",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0708:T00098",
+   "source_sha256": "32ff17fc0ac9ca482967b78c6aa7d7a1dffb0e194ff1ddcbc2e86d663fa54065",
+   "ko": "춤추고"
+  },
+  {
+   "id": "da0708:T00099",
+   "source_sha256": "c4a40ea8fe35627476f7f8cb9e1fc7f8898f428c6d1ff18b0bc5479d5db39c5f",
+   "ko": ", "
+  },
+  {
+   "id": "da0708:R00031",
+   "source_sha256": "cf805f38a4c1c5ad8391fd16b32db1b6650cf7bf0d2fb9c1265e406d56832ae1",
+   "ko": "당스 마카브르",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0708:T00100",
+   "source_sha256": "9fed344217931b44409673d52d177ed31467c0b930d90081650c65589aae3aae",
+   "ko": "미친 듯이 춤춰라"
+  },
+  {
+   "id": "da0708:T00101",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0708:R00008",
+   "kind": "ruby_decision",
+   "note": "Omitted Sino-Japanese reading おうさつ for 鏖殺."
+  },
+  {
+   "id": "da0708:R00013",
+   "kind": "ruby_decision",
+   "note": "Omitted katakana Sino-Japanese reading ジュウゲキ for 銃撃."
+  },
+  {
+   "id": "da0708:R00014",
+   "kind": "ruby_decision",
+   "note": "Omitted katakana Sino-Japanese reading ジュウバク for 重爆."
+  },
+  {
+   "id": "da0708:R00015",
+   "kind": "ruby_decision",
+   "note": "Omitted katakana Sino-Japanese reading ジュウゲキ for 銃撃."
+  },
+  {
+   "id": "da0708:R00016",
+   "kind": "ruby_decision",
+   "note": "Omitted katakana Sino-Japanese reading ジュウリン for 蹂躙."
+  },
+  {
+   "id": "da0708:R00017",
+   "kind": "ruby_decision",
+   "note": "Omitted poetic kun'yomi reading しろがね for 銀."
+  },
+  {
+   "id": "da0708:R00021",
+   "kind": "ruby_decision",
+   "note": "Omitted standard kun'yomi reading おびただ for 夥."
+  },
+  {
+   "id": "da0708:R00024",
+   "kind": "ruby_decision",
+   "note": "Omitted standard kun'yomi reading かす for 掠."
+  }
+ ]
+}

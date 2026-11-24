@@ -1,0 +1,267 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0078_da0706",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0706:T00001",
+   "source_sha256": "941cc7dde2204e13786095a919e580cdf8de7b43c2553187b3d88225973049da",
+   "ko": "「우와와와와! 뭐꼬, 뭐꼬!?」"
+  },
+  {
+   "id": "da0706:T00002",
+   "source_sha256": "48ed809974cdbe68da65d7867357805dfe4531220a0d2988ee199b0cf6423a34",
+   "ko": "「흔들려라! 본인의 연심이여!\n　갸와앗!」"
+  },
+  {
+   "id": "da0706:T00003",
+   "source_sha256": "cdb21ac6731eede8a7898e43742a505a8025846141fec845c8a4e9f6a52c98dc",
+   "ko": "「로보~~~~옷!」"
+  },
+  {
+   "id": "da0706:T00004",
+   "source_sha256": "f890bb43a69d7352481eb8cd4a3b97f7a150db7bcd251e086da1e4fd23eb5e80",
+   "ko": "「……으윽!?」"
+  },
+  {
+   "id": "da0706:T00005",
+   "source_sha256": "22ea1aae852c6bfc5db91e4de94912cf723a580bf0da65a980bb112b46eac77a",
+   "ko": "「……쿠로! 이 "
+  },
+  {
+   "id": "da0706:R00001",
+   "source_sha256": "649bb9c4a591f1c70ac131662dfbe0387d5f8e8ca9ac3fa20f710e647b423101",
+   "ko": "프레셔",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0706:T00006",
+   "source_sha256": "171935884234fcdeee622f9ac6df7ac78b272127fed72306344399612879d6f2",
+   "ko": "압박감"
+  },
+  {
+   "id": "da0706:T00007",
+   "source_sha256": "7ae88be5f257ae68dad9faf36cfe820559c1277b33395855fbc70f2368066d6f",
+   "ko": "……!」"
+  },
+  {
+   "id": "da0706:T00008",
+   "source_sha256": "05c8058b49f639b564e34e6bfa5530d3d693e02d9331cc6ce51e1e8fdb5f9deb",
+   "ko": "「그래…… 알고 있어. 아무래도 『무대』가 갖춰진 모양이군!」"
+  },
+  {
+   "id": "da0706:T00009",
+   "source_sha256": "d6ff57b15b98cd5ff389b3dee9685b6e65dce7aa4df9a9976712aa91c255a20a",
+   "ko": "「……윽!?」"
+  },
+  {
+   "id": "da0706:T00010",
+   "source_sha256": "659e44e61f5408e0ed58fa5222bad6e12b953d86c755da50383c3d0801df586c",
+   "ko": "「상황 보고를!」"
+  },
+  {
+   "id": "da0706:T00011",
+   "source_sha256": "1bc904e76e519ab9916299f5406f1a845181d6cb7da7de4c2b83d2ee3984e94b",
+   "ko": "「모, 모니터를 봐 주세요오!」"
+  },
+  {
+   "id": "da0706:T00012",
+   "source_sha256": "e8c601bc54156af0a2f842292a35097aa53182b514b7c793112003902da97827",
+   "ko": "「이 무슨 불길한 빛인가!」"
+  },
+  {
+   "id": "da0706:T00013",
+   "source_sha256": "09b4fd5acdf8650bccb16b389f762e27cc313efe0797149151c9ba3821160fb0",
+   "ko": "「이것 또한,\n　피의 괴이의 소행입니까?」"
+  },
+  {
+   "id": "da0706:T00014",
+   "source_sha256": "75b34486a8f37ff4cbb42d16121e2628789bdf8363d6e81b49ba79163a6a06ba",
+   "ko": "「지극히 대규모적인 "
+  },
+  {
+   "id": "da0706:R00002",
+   "source_sha256": "09fa673682a266196a91d31d5ed99736a1c7d85c250226fb9c9ec5b7006a27ba",
+   "ko": "아자토스",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0706:T00015",
+   "source_sha256": "5e7930e1744f03b9e3bc03391b9568c30347421f4c5cb7f73d17119a9e29ab74",
+   "ko": "자도자"
+  },
+  {
+   "id": "da0706:T00016",
+   "source_sha256": "7776ca23c544bb920e6124b497bea141cd33a72e4abcac403db0c6a2671c138d",
+   "ko": " 진동을\n　관측했습니다. 위치는――」"
+  },
+  {
+   "id": "da0706:T00017",
+   "source_sha256": "5e696371811a8b8b23f1ad51499421321769220ff056b541b3869086e60b94f7",
+   "ko": "「……"
+  },
+  {
+   "id": "da0706:R00003",
+   "source_sha256": "67972a2c8e5ecaca4ffebbe487dfef1e8db028ebd1569d5547e4e96156650b7c",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0706:T00018",
+   "source_sha256": "5cb53e3de202ecbb3e7fd1e3903cb9bc748413ba5caaf013960008b13708f3f5",
+   "ko": "알고"
+  },
+  {
+   "id": "da0706:T00019",
+   "source_sha256": "35a32ad8b001f3ff485efb1756fcf36efa35162e22d3477ab9e3c57e0579da38",
+   "ko": " 있습니다. 적에게 마스터 테리온이 있는 이상, 다음에 둘 수는 『그것』이겠지요……」"
+  },
+  {
+   "id": "da0706:T00020",
+   "source_sha256": "97db5816219338f6ce78d408a8ef7e5a16df1066a85dbabe0de99e05782cab22",
+   "ko": "「아가씨?」"
+  },
+  {
+   "id": "da0706:T00021",
+   "source_sha256": "8b24400db0f962237e0948d403ea7a0c068b340632e92c66156b088e84f2fd26",
+   "ko": "「프로비던스……\n　제13봉쇄구획!\n　그리고――!」"
+  },
+  {
+   "id": "da0706:T00022",
+   "source_sha256": "eed35010e99fd483e84e0a97d8a64bfe4f7ae9a37500b182f119e5e63f94baa9",
+   "ko": "「후후…… 아하……\n　아하하하하하하하하하하!」"
+  },
+  {
+   "id": "da0706:T00023",
+   "source_sha256": "6b90bb1b021499174d26b0871638552da070bbd02d6569211df58fe88e075058",
+   "ko": "「「몽환심모!」」"
+  },
+  {
+   "id": "da0706:T00024",
+   "source_sha256": "6dad0f0d26f542f8b8377069e9a4a9de16f1ad06e463d26a09203c0e40dc0915",
+   "ko": "「그렇다. 제13봉쇄구획――"
+  },
+  {
+   "id": "da0706:R00004",
+   "source_sha256": "c9a7c0235f42f3659b176afc5f7fa0c647bca09fc817958d5b056908031deda4",
+   "ko": "프로비던스",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0706:T00025",
+   "source_sha256": "0cbff2bb11de0624dd0bdbb9345c5d63dcf7f5463974dafc105ba101311d630e",
+   "ko": "죽음의 도시"
+  },
+  {
+   "id": "da0706:T00026",
+   "source_sha256": "0701766f9f6a28cb16c32259f563726f56a62fe830d3521c0f1e16b6c10dbc7e",
+   "ko": "의 대지가 잉태한 악덕의 새끼. 나의 거성 『몽환심모』!」"
+  },
+  {
+   "id": "da0706:T00027",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0706:R00005",
+   "source_sha256": "46b4b469e7386a6ba3e6e08fdc79a3575108d82ec0dce9353e3a1f311c1666b1",
+   "ko": "클라이맥스",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0706:T00028",
+   "source_sha256": "a7fa2aa6d9a1addbfc26b05cee31d90ce16134abd483f65b1128e1927d97f95a",
+   "ko": "최종막"
+  },
+  {
+   "id": "da0706:T00029",
+   "source_sha256": "596e7ea83b5ca978126bdcac88205da161cbb97a32c36e4a59e0eaf560b7d0ec",
+   "ko": "의 무대로서 이보다 어울리는 것은 없겠지…… 그렇지 않은가, 다이쥬지 쿠로?」"
+  },
+  {
+   "id": "da0706:T00030",
+   "source_sha256": "0087792064f7969996d6e3d0ac64738135bec8bbaf328f5b208dfb661ab2eda8",
+   "ko": "「그리고――」"
+  },
+  {
+   "id": "da0706:T00031",
+   "source_sha256": "daf1b807fb7ef08a939a00b77529c8267a784b85ef24238f87abdc1b60bbfb37",
+   "ko": "「나와 당신의 꿈의 종점으로서,\n　이토록 어울리는 장소는 없어.\n　……그렇지, 『"
+  },
+  {
+   "id": "da0706:R00006",
+   "source_sha256": "25b57b2614177361ac5835f61b08fa3f4116744d8275d0e97142056f7e6686a7",
+   "ko": "투 소드/투 건",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0706:T00032",
+   "source_sha256": "f8cc521ba37a92038ef768e668a4527c2a7d969381ad66558edf63d7338efd9e",
+   "ko": "이투류"
+  },
+  {
+   "id": "da0706:T00033",
+   "source_sha256": "f83dc1d809c94a69f48233183875d9557149c9377d4b17d5e3527f4da39f23c4",
+   "ko": "』?」"
+  },
+  {
+   "id": "da0706:T00034",
+   "source_sha256": "6ff4b9034ef995e784f79a96523cee6370a984b02e99f6b1b46b1040776cfc73",
+   "ko": "「나는 꿈에서 깨어나고, 당신은 꿈속으로\n"
+  },
+  {
+   "id": "da0706:R00007",
+   "source_sha256": "5ce426b6de4a813cd536f08c6a98b89f7bcf8b3b4d229635ff4f2bf72b33b168",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0706:T00035",
+   "source_sha256": "74b930da18eaf23c2624cec6b2cf29e87c614a35ecaefdaa79c9591a4a2d2f03",
+   "ko": "가라앉"
+  },
+  {
+   "id": "da0706:T00036",
+   "source_sha256": "9476b5f412a5406a208c35ca2118a5be8656845f96f1c50c54c1adfd011347da",
+   "ko": "는다…… "
+  },
+  {
+   "id": "da0706:R00008",
+   "source_sha256": "1faeea9164c2e7a57c83767dcc254b24d839725123a3f2d5302bd8536ba1dc67",
+   "ko": "리얼/섀도가",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0706:T00037",
+   "source_sha256": "c1d44bf21bb8857efdcff5a66804f68f6b1fa28d6ae9145757b32b4627653412",
+   "ko": "허실이"
+  },
+  {
+   "id": "da0706:T00038",
+   "source_sha256": "54e4e7025ba47c315a6ee590c01cd223b561b101c3ecf9de9f588f40d2500d4f",
+   "ko": " 뒤바뀌어, 세계는\n나의 이야기를 자아낸다!」"
+  },
+  {
+   "id": "da0706:T00039",
+   "source_sha256": "28ce806ed27e1865d8937f1261b04d4c868b8592ed975ee930f1558581a90c90",
+   "ko": "「……어나더 블러드!」"
+  },
+  {
+   "id": "da0706:T00040",
+   "source_sha256": "275b29e2374f8963cce5ba09fc7156d982f240a761ac76a10d3790d68025cf7e",
+   "ko": "「테케리・릿」"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0706:R00003",
+   "kind": "ruby_decision",
+   "note": "Omitted reading わか for 理解."
+  },
+  {
+   "id": "da0706:R00007",
+   "kind": "ruby_decision",
+   "note": "Omitted reading しず for 鎮."
+  }
+ ]
+}

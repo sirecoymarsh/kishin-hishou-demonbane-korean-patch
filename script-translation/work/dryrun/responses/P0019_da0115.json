@@ -1,0 +1,282 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0019_da0115",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0115:T00116",
+   "source_sha256": "1fd896236204ece03e3ac031ad727a4ba52955936ceafca959db2e6d45470132",
+   "ko": "「더 이상 이 건은 단순한 괴사건의 범주를 벗어나 있다. 한시라도 빨리 사태를 규명하고 해결해야만 해. 협력해 주겠지?」"
+  },
+  {
+   "id": "da0115:T00117",
+   "source_sha256": "f63e338a9fae446f20ae3d105f2318d7c4d921eff8749a1d9931f4bd94dd5f65",
+   "ko": "「…………」"
+  },
+  {
+   "id": "da0115:T00118",
+   "source_sha256": "c98527f44b4a4247c074f941bf757f5178da4845035d901bb18281fc42af8a6e",
+   "ko": "「지금의 자네는 아컴 시티……\n아니, 세계에서도 굴지의 마술사다.\n자네의 그 지혜와 힘이 필요하네」"
+  },
+  {
+   "id": "da0115:T00119",
+   "source_sha256": "395e1e0587dd4b9f9651c99d8688715f896c700b3636d0c7194d15a0e800904d",
+   "ko": "…………."
+  },
+  {
+   "id": "da0115:T00120",
+   "source_sha256": "f3d69b46699211372917f9f66c53bbbd8ce330b384744149d61a6e197cddf72f",
+   "ko": "「쿠로」"
+  },
+  {
+   "id": "da0115:T00121",
+   "source_sha256": "1e776883df188340a6cf72230d83585d37f09f0749b2dcf758f2348ba1fa9ed3",
+   "ko": "「…………하아아아~~~~앗」\n\n　일부러 보란 듯이 거창하게 한숨을 내쉰다."
+  },
+  {
+   "id": "da0115:T00122",
+   "source_sha256": "69ebb49237bd12b42580de062a481d79d587e4f9630d3815f7da43dd097b667b",
+   "ko": "뭉친 어깨를 풀면서 나는 도서관 특수자료실의 면면들을 "
+  },
+  {
+   "id": "da0115:R00017",
+   "source_sha256": "9e228bcc5ed49ae30ec7fac37d7fceb6bb6a4d048ce689d48bd42de211fb3fd1",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0115:T00123",
+   "source_sha256": "cbe96fba51fc9384048ac8188b57b38801f689bacd5becb97224acc642f8374f",
+   "ko": "노려"
+  },
+  {
+   "id": "da0115:T00124",
+   "source_sha256": "6260e3b8859f8b7dc8725468ad7ec2bfb15c3ede22701d8e4d0bb6dadd022dbc",
+   "ko": "보았다."
+  },
+  {
+   "id": "da0115:T00125",
+   "source_sha256": "2547dc1b28990f966067e45b4d8918d966e24834d7533f2c6a044b75abcc33e9",
+   "ko": "「아미티지 영감님……\n　내가 음비학과와 엮이고 싶지 않아 하는 거, 알고 있잖아」"
+  },
+  {
+   "id": "da0115:T00126",
+   "source_sha256": "4d0ea5bbea68fd28f2044876abb82b6219eb3ae3b0555e72f39edd3c69a7725b",
+   "ko": "「가끔 일거리를 넘겨주고 있지 않은가」"
+  },
+  {
+   "id": "da0115:T00127",
+   "source_sha256": "273a5823acf130050b928790e02bd66bf62904e94f34290e3c804d3f1eff88cd",
+   "ko": "확실히 일 의뢰는 공주님 아니면,\n　아미티지 영감님에게서 오는 것이 대부분이다."
+  },
+  {
+   "id": "da0115:T00128",
+   "source_sha256": "687fc39876db6e162cec157e4e748587703e2270a2b7e44b7374ff4bfb2f60be",
+   "ko": "……둘 다 성가신 괴사건만 떠넘기지만."
+  },
+  {
+   "id": "da0115:T00129",
+   "source_sha256": "bbdfe19147b6519c00cd7754ce68d00fd68981f3991670461c98eaa4a06b6640",
+   "ko": "「그건 그거야.\n　애초에 미스캐토닉 인간들은 너무 개성이 강해서 피곤하단 말이야」"
+  },
+  {
+   "id": "da0115:T00130",
+   "source_sha256": "c4f22f5560b56e74338e8ecc8930789fd26bbab2f1ee2305f4730ebc484026b2",
+   "ko": "「흠…… 누구 이야기일까나?」"
+  },
+  {
+   "id": "da0115:T00131",
+   "source_sha256": "472a86f11837861cf6d4d676149e315976d78a633d4d9e88ba6a1658273f3ba0",
+   "ko": "「글쎄다」"
+  },
+  {
+   "id": "da0115:T00132",
+   "source_sha256": "aa83ede9015dda7192925a08ee1a2fd6f9a8da7906e5ec20228871fa99c671e9",
+   "ko": "「상식인인 저로서는 짐작도 가지 않습니다」"
+  },
+  {
+   "id": "da0115:T00133",
+   "source_sha256": "60479ae31c6e8e5cc6dc6ea5ae9e0455500f4071bdd4a2e79b7997e8b0ec1227",
+   "ko": "「나도 짚이는 바가 없군」"
+  },
+  {
+   "id": "da0115:T00134",
+   "source_sha256": "9c804c888e6c18ebe79c8e3f62ac045ea05b1ef126dcd6f816bc1dc82fec7cea",
+   "ko": "「수수께끼네」"
+  },
+  {
+   "id": "da0115:T00135",
+   "source_sha256": "97a040af097d0d996011b6ac8279a1a3490a4cde75b4eb8c46c9008d7ff0ba9c",
+   "ko": "「……이놈이고 저놈이고 "
+  },
+  {
+   "id": "da0115:R00018",
+   "source_sha256": "21ce02b714589ea78821adc0e8f4a64c3e64bac01528677509a3c669825b1b9b",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0115:T00136",
+   "source_sha256": "b597ff170aa92bfb3cad7513acab9a7ea0c9e8e1049be7ff9cfc5093c601a06a",
+   "ko": "시치미 떼"
+  },
+  {
+   "id": "da0115:T00137",
+   "source_sha256": "8c5df10daa1f12350f9195e6deceb6c76ee37e09708f24d345329209847a7694",
+   "ko": "기는」"
+  },
+  {
+   "id": "da0115:T00138",
+   "source_sha256": "4ee587590130cbb3d4c26a84e2010e11b608940016f188fb6cdccac70f205e0a",
+   "ko": "「자네도 충분히 그 개성 강한 패거리의 동료가 아닌가」"
+  },
+  {
+   "id": "da0115:T00139",
+   "source_sha256": "5163dad24c5fd7d9e739c52561929366174728ffb058fdb4d22cc94562f3d784",
+   "ko": "「그렇고말고. 위대한 능력에는\n　짊어져야 할 책임이 따르는 법이다」"
+  },
+  {
+   "id": "da0115:T00140",
+   "source_sha256": "3a306f0d0e9b8bb93bcefe4aa02e3b60f5d0c0ba37b8944c7339e612b0267f88",
+   "ko": "「제멋대로 지껄이기는…… 돌아가자, 알」"
+  },
+  {
+   "id": "da0115:T00141",
+   "source_sha256": "4d802873f76360ac92747b0f34d81e99c8c24fd4ab72446ab85ef2cb3abd99e5",
+   "ko": "「음」"
+  },
+  {
+   "id": "da0115:T00142",
+   "source_sha256": "3acae54fc45dde162a26c0eaa16e95844c0847917212afeffa6d712c6c102b6e",
+   "ko": "우리는 아미티지 영감님 일행에게 등을 돌리고 걷기 시작했다."
+  },
+  {
+   "id": "da0115:T00143",
+   "source_sha256": "554b661d41052577bd25eaf78bcec67a306982027ee18a302037e5ecee92cbb9",
+   "ko": "「기다리게, 다이쥬지 군」"
+  },
+  {
+   "id": "da0115:T00144",
+   "source_sha256": "c638bbc708eaf8ace1e698a56348576e81a97df97c0272308c9045099c0defc6",
+   "ko": "「응?　이야기라면 끝났잖아?\n　슈루즈베리 "
+  },
+  {
+   "id": "da0115:R00019",
+   "source_sha256": "8abe22c91f0939b6aab3db77f86d607dd7063710622f9cd851250b3a7e367dbc",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0115:T00145",
+   "source_sha256": "cd98e43da31bb1b90dc152851c85c7d266d47ba97bc5ff7bd137c5920429d467",
+   "ko": "선생님"
+  },
+  {
+   "id": "da0115:T00146",
+   "source_sha256": "780bf2ba2a4776a854a44055a4a019b8767f209b8b24379ea9fde0e6600a5b13",
+   "ko": ", 원래 공간으로 돌려보내 줘」"
+  },
+  {
+   "id": "da0115:T00147",
+   "source_sha256": "0e82da60670a9283a4714c0162ea080de9ffa1f2033278f548a9ffcec119e2be",
+   "ko": "「이 사건은,\n　정말로 위험하답니다?」"
+  },
+  {
+   "id": "da0115:T00148",
+   "source_sha256": "6bad23bad3479332644823ca7ea25639c7e451447fa242c34f84cc59bc2cacb4",
+   "ko": "「……참 나」"
+  },
+  {
+   "id": "da0115:T00149",
+   "source_sha256": "41f8dd0fec4f4cbd19cf98ac3db8edc28b0e11a2e8f3fbcc8a1b2bd14bec007c",
+   "ko": "나는 걸음을 멈추고 뒤돌아보았다."
+  },
+  {
+   "id": "da0115:T00150",
+   "source_sha256": "1dd6022329f285c2779f262c007474bf3fef26e23e76573409a4c01762d9f597",
+   "ko": "다시금 전원을 노려보면서,"
+  },
+  {
+   "id": "da0115:T00151",
+   "source_sha256": "d7c9bfd69b150fb58c58de763450a786383b767105e32ded85b6706cfa4306ce",
+   "ko": "「저기 말이지…… 이제 와서 확인할 것도 아니잖아」"
+  },
+  {
+   "id": "da0115:T00152",
+   "source_sha256": "cc438aa60fbf5e9f66edb9d31728fa3565d3d3594b2ce93c67b6c3f305d66e83",
+   "ko": "「흠」"
+  },
+  {
+   "id": "da0115:T00153",
+   "source_sha256": "f7a9ee6cc592b34017b2c7b0d8b6021c618951baf6cc3050d6788c1341f6f96c",
+   "ko": "「――다이쥬지」"
+  },
+  {
+   "id": "da0115:T00154",
+   "source_sha256": "6f26c8e30ba0331de16282f7e42bf9a2dbaec910ca433ffbccc21484e01c0925",
+   "ko": "「어차피 같은 의뢰를 하도 재벌에서 받은 상태야.\n　사건에 관여하지 않을 리가 없잖아」\n\n　라이스 교수와 모건 박사는 멍한 표정으로 나를 보고 있었다."
+  },
+  {
+   "id": "da0115:T00155",
+   "source_sha256": "b585321a913468b97c3a44d14be362ee4900a24e4c83bd25b8d4467f3a9b0678",
+   "ko": "아미티지 영감님은 표정 하나 바꾸지 않는다."
+  },
+  {
+   "id": "da0115:T00156",
+   "source_sha256": "cf16f8854e5303f03b2fdbed58a25646544a51ad0aeb8478748934e7be76ce74",
+   "ko": "오직 슈루즈베리 선생님만이 득의양양한 얼굴로 미소를 띠고 있다."
+  },
+  {
+   "id": "da0115:T00157",
+   "source_sha256": "7025c8152c5a927141ad292029d5d43f6ea7ef114924599dc4530b0923a480d5",
+   "ko": "「자네라면 그렇게 대답할 줄 알았네」"
+  },
+  {
+   "id": "da0115:T00158",
+   "source_sha256": "881fcca49c73313e4ed5f0e960970f76e77e395dfc69de0c39bb59a9b2a74135",
+   "ko": "「……칫」"
+  },
+  {
+   "id": "da0115:T00159",
+   "source_sha256": "fcd44e3c8c4aba9cb17b2f9fa0fea4d27b8fa8ee572cfd855dee078cb4fd39fe",
+   "ko": "자기도 모르게 혀를 차고 만다."
+  },
+  {
+   "id": "da0115:T00160",
+   "source_sha256": "730d0e37b44a6b608ba933bfed75b901759ff308cfafe22181ab499e38623d40",
+   "ko": "이래서 이 사람은 껄끄럽다."
+  },
+  {
+   "id": "da0115:T00161",
+   "source_sha256": "08171449d4aa59965731d3eaf78a8a4b9c8cef1158f6dd1b07225abc823db049",
+   "ko": "뭐, 그래도……"
+  },
+  {
+   "id": "da0115:T00162",
+   "source_sha256": "3663b39599a5ba008193bed8c7a5ae8b51acdadcad3e6638365ba9d6ad92cce4",
+   "ko": "「확실히 이대로 내버려 두는 건 뒷맛이 개운치 않으니까 말이지」"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0115:R00017",
+   "kind": "ruby_decision",
+   "note": "Omitted redundant phonetic reading ね on 睨."
+  },
+  {
+   "id": "da0115:R00018",
+   "kind": "ruby_decision",
+   "note": "Omitted redundant phonetic reading とうかい on 韜晦."
+  },
+  {
+   "id": "da0115:R00019",
+   "kind": "ruby_decision",
+   "note": "Omitted redundant phonetic reading センセ on 先生."
+  },
+  {
+   "id": "da0115:T00129",
+   "kind": "glossary_candidate",
+   "note": "Pending glossary term ミスカトニック rendered as 미스캐토닉 per 용어집.tsv."
+  }
+ ]
+}

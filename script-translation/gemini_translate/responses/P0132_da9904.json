@@ -1,0 +1,276 @@
+{
+  "schema": "khd-gemini-response-v1",
+  "packet_id": "P0132_da9904",
+  "model_id": "Gemini 3.8 Flash (High)",
+  "records": [
+    {
+      "id": "da9904:T00001",
+      "source_sha256": "18af81c53bd54f5fa8ffeecd251bf0d3c62cb6ed07bc8e94e58cca902857ee13",
+      "ko": "――그리고, "
+    },
+    {
+      "id": "da9904:R00001",
+      "source_sha256": "2a21905f43e5a05954fb631dfc0cf38b1d8b25001f9ccedd80abcd27e88f6fb8",
+      "ko": "・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da9904:T00002",
+      "source_sha256": "3eb9f20eae38781771ef2f46b6c81a39852c3e4216c60181ec2820df29fae120",
+      "ko": "나"
+    },
+    {
+      "id": "da9904:T00003",
+      "source_sha256": "182d7d58d3ced6cbb6983e1ed1028bcebcb4d236be250d00ea7ff1d42ee21e48",
+      "ko": "는 눈을 떴다."
+    },
+    {
+      "id": "da9904:T00004",
+      "source_sha256": "535bd96d47651583f93bea87e21564f0f1ce485952e3b9b39fd5dc40c7f37692",
+      "ko": "어느새 "
+    },
+    {
+      "id": "da9904:R00002",
+      "source_sha256": "edb52da89aaed9323d72bceb529b0709e40cb14164f1d66e92711384f0dfa380",
+      "ko": "・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da9904:T00005",
+      "source_sha256": "826a187b470813939aa57ff3dc9221b7df97a44968b76f967b1f5d3b3aaecb4b",
+      "ko": "선잠"
+    },
+    {
+      "id": "da9904:T00006",
+      "source_sha256": "93f0a0f6591aa1db17eaa9a58ae467703733faa4f20f12a3c8e714bebd2ff131",
+      "ko": "에 빠졌던 모양이다."
+    },
+    {
+      "id": "da9904:T00007",
+      "source_sha256": "7efc00eb4fc1971c5921e2e1a5960ff7ee40d1fde9054ba127614aa212f75ca9",
+      "ko": "읽다 만 책이 의자 옆에 뒹굴고 있었다."
+    },
+    {
+      "id": "da9904:T00008",
+      "source_sha256": "8a5543f59308299a587591479826ff8423275e6e55afac87ffafa35cfac23c30",
+      "ko": "「……안 되지, 안 돼」"
+    },
+    {
+      "id": "da9904:T00009",
+      "source_sha256": "47e8b47c61569eceac5238cbb847b8e9d1509c287440a5b0d6f37852b7e28b47",
+      "ko": "책을 주우려고 손을 뻗는다."
+    },
+    {
+      "id": "da9904:T00010",
+      "source_sha256": "c0b1f29ce7a2a3f6f345d6e42060bc7289275d13acbc905502fb33b760b6d1fd",
+      "ko": "그때, 기묘한 여러 "
+    },
+    {
+      "id": "da9904:R00003",
+      "source_sha256": "d62fca5b5073ab465d648b608d0e4a2ccf32c01aba979bc1c7f015a7aa047ada",
+      "ko": "이미지가",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da9904:T00011",
+      "source_sha256": "2ea6cd27051c147a9dcb864406f9dcfab9f66610a83e912982cbeec578779fe2",
+      "ko": "인상이"
+    },
+    {
+      "id": "da9904:T00012",
+      "source_sha256": "208553b253fbb68cfb05300e1f8c2fae09af2178bab8412f82469c2bd3db6272",
+      "ko": " 뇌리를 스쳐 지나갔다.\n\n　미끈거리며 번뜩이는, 선혈처럼 붉은 가죽 표지――"
+    },
+    {
+      "id": "da9904:T00013",
+      "source_sha256": "3319122292094a27df50e9093f36ce9acfea07e74cf20729f0372cc8405221fb",
+      "ko": "아라베스크 무늬에 흑단 장정인 두툼한 책――\n\n　그것은 찰나의 일이다."
+    },
+    {
+      "id": "da9904:T00014",
+      "source_sha256": "3a4bcdfdb1089c093e17bee844123b1c8bc0e6f76a8e9e8320152a880316fa50",
+      "ko": "집어 든 책은, 별것 아닌 평범한 신간 서적이다.\n\n　『강철의 거인』."
+    },
+    {
+      "id": "da9904:T00015",
+      "source_sha256": "a61e9536b3a04eabc9c51de0e695a074563251e48fd26dbb415973377f92c7b6",
+      "ko": "표제에는 그렇게 적혀 있다."
+    },
+    {
+      "id": "da9904:T00016",
+      "source_sha256": "cb6071830558a41b2a32d37e287f3a9d35da8e92ea0195fcf3f908a8b01b3eeb",
+      "ko": "「어머, 웬일이야. 졸았어?」"
+    },
+    {
+      "id": "da9904:T00017",
+      "source_sha256": "aef16587241deefec3c728def2c7b0948eadfc0be062358b45b6b7325c8f9910",
+      "ko": "「――――――」"
+    },
+    {
+      "id": "da9904:T00018",
+      "source_sha256": "d7f251acf25f28bd7dfc497ed5bb26e85310c733734cb3a9be57a01fa5a6ae5a",
+      "ko": "그 목소리를 들었을 때, 시간이."
+    },
+    {
+      "id": "da9904:T00019",
+      "source_sha256": "daead85225b7b17726596da23253b149e69449f8045b9ce45659605d1cd334d1",
+      "ko": " 멈췄다."
+    },
+    {
+      "id": "da9904:T00020",
+      "source_sha256": "d45c5882424217be3084dd2561d6c62bb7a7150d1b6ceccdca26d8ec3339ffc8",
+      "ko": "「우아…… 루다?」"
+    },
+    {
+      "id": "da9904:T00021",
+      "source_sha256": "bbef5b014da01327997445d868e8bf1bb4a06aef1cde6b348e95b88312b8f355",
+      "ko": "「……?\n　왜 그래, 아즈라드?\n　잠에 취해서는」"
+    },
+    {
+      "id": "da9904:T00022",
+      "source_sha256": "5c5d64384b95733307c86368077e3e204b96a659d010c05d472b40d45d9e02d4",
+      "ko": "잠에서 온전히 깨어나지 못해, 안개가 낀 것만 같던 의식이\n　마침내 또렷해진다."
+    },
+    {
+      "id": "da9904:T00023",
+      "source_sha256": "08da1ae3432afcdc933d502f6a405203a80530befd7e2b400e1708de769e2178",
+      "ko": "눈꺼풀을 비비고, 가볍게 머리를 흔들며, 나는 대답했다."
+    },
+    {
+      "id": "da9904:T00024",
+      "source_sha256": "7aca2dc5dda1ca3e19dd62561ef569d9e95d771d6df5eac6ef6d2a1cf3cd38fb",
+      "ko": "「아…… 아니, 아무것도 아니야, 우알다」"
+    },
+    {
+      "id": "da9904:T00025",
+      "source_sha256": "e0856fe3973171c4b22cb144b1e656dd81e3e3e5100708a6c9cb2c70ebc8e7e3",
+      "ko": "나의, 가장 사랑하는 사람."
+    },
+    {
+      "id": "da9904:T00026",
+      "source_sha256": "2003f59a1f4e778a97dcd23c249c7c228917ac84c810681e2ad1e64ef4c92aa2",
+      "ko": "어째서일까――"
+    },
+    {
+      "id": "da9904:T00027",
+      "source_sha256": "a3d8ce0c6faf3c5095fc16bcc1caf72e28321077dda6cb3c5d04b35fd1914500",
+      "ko": "너무나도 그립다는 느낌이 들었다."
+    },
+    {
+      "id": "da9904:T00028",
+      "source_sha256": "cdd1896afc13ad6a0d14bafb0f79ee2aafef5f2e44fd94edf192bfe919387676",
+      "ko": "아직 조금, 잠이 덜 깬 모양이다."
+    },
+    {
+      "id": "da9904:T00029",
+      "source_sha256": "f69deef7a7f8602804dc52253a4eaed80d0b373271d0d7c44e4f4c242fb5817e",
+      "ko": "「응…… 조금 졸고 있었어.\n　날씨가 너무나도 포근했으니까……」"
+    },
+    {
+      "id": "da9904:T00030",
+      "source_sha256": "2008c4f47d60c9d267abbc2ab20da78d9e803180d50753d491752c02f223d242",
+      "ko": "「아즈라드, 당신……」"
+    },
+    {
+      "id": "da9904:T00031",
+      "source_sha256": "62adbeb64bf9604c68f2978acef2da1e3326d2d2645ef85fd613365cff5377f4",
+      "ko": "조금 놀란 듯한 표정을 지으며, 우알다는 내 말을 가로막았다."
+    },
+    {
+      "id": "da9904:T00032",
+      "source_sha256": "f3a14635be636bfde21b9df740fba64a9ae3671611d8d0f676eca098c2cf2526",
+      "ko": "「당신, 울고 있잖아」"
+    },
+    {
+      "id": "da9904:T00033",
+      "source_sha256": "f284d39bf15eba46dfa1fe16345486d2e65a794d9ee76b31231a30dde1c788b1",
+      "ko": "「어……?」"
+    },
+    {
+      "id": "da9904:T00034",
+      "source_sha256": "2a49d9c809fa9b22db35be49e3dfed9dc0eeb548b576337ffc2dd6f6a14cb5ff",
+      "ko": "무심코 닿은 뺨은, 분명하게 젖어 있었다."
+    },
+    {
+      "id": "da9904:T00035",
+      "source_sha256": "3532a0c509378357359941525d70d274aa64091e114322ad5c5f65068faab896",
+      "ko": "눈물은 여전히 멈추지 않는데, 어째서인지는 전혀 알 수가 없다."
+    },
+    {
+      "id": "da9904:T00036",
+      "source_sha256": "8fdfd02661be657e0c6e92bb49b8fd9bc9d208c41d7b41f5efda1695a794b5df",
+      "ko": "「……어째서지?」"
+    },
+    {
+      "id": "da9904:T00037",
+      "source_sha256": "78411429c385d25e3d218f584037f076f91a30de6335e8aeee34bd02dc583930",
+      "ko": "「후후…… 무서운 꿈이라도 꿨어?」"
+    },
+    {
+      "id": "da9904:T00038",
+      "source_sha256": "2e767c5919256c67e978cd997b213474adaf35a5c3f22357f7170891c182e60b",
+      "ko": "――꿈."
+    },
+    {
+      "id": "da9904:T00039",
+      "source_sha256": "1f76cd7e95bb63686c497a1bd657b627df2298c12ab85f2d8141a75a08032615",
+      "ko": "「꿈…… 꿈인가. 그렇구나. 꿈을 꾸고 있었던 것 같아」"
+    },
+    {
+      "id": "da9904:T00040",
+      "source_sha256": "d075283d0d612c7b94c8b2fb9da5de60c32f766007a0292b47606b246352bc42",
+      "ko": "「가슴이 저릿해지는 꿈이야.\n　어떤 꿈이었는지는 기억나지 않지만」"
+    },
+    {
+      "id": "da9904:T00041",
+      "source_sha256": "7a278dbc6b20ccbd389e86de707f9e1e38957f0295870bffe5d5ceb23e09f61a",
+      "ko": "이유도 없이 눈물을 계속 흘리는 나를, 우알다는 살며시, 부드럽게 껴안았다."
+    },
+    {
+      "id": "da9904:T00042",
+      "source_sha256": "ad4b5578dc02cfc9ee786b7037923177c9d56d5a4af9018f49ea9d6031b03020",
+      "ko": "「……괜찮아, 아즈라드」"
+    },
+    {
+      "id": "da9904:T00043",
+      "source_sha256": "e9ca11de0d70bcad2128f864bc8f54279b7523bc8262bf5153cf22a31e31ac69",
+      "ko": "「나는 분명하게 여기에 있는걸」"
+    },
+    {
+      "id": "da9904:T00044",
+      "source_sha256": "a9be2ee6a1d60323fbf0edec8372ea9a64fb652533c126aa5d588f09b795124f",
+      "ko": "우알다가 어째서 그런 말을 꺼냈는지는 알 수 없다."
+    },
+    {
+      "id": "da9904:T00045",
+      "source_sha256": "68439d117b04be9754cb31eba8ba76236eb6680f8a2b68f6bcba37cdce9d2135",
+      "ko": "하지만 나는 그 품에 안겨, 깊은 안도감을 느끼고 있다."
+    },
+    {
+      "id": "da9904:T00046",
+      "source_sha256": "2286ba74d427d690560e0cc56a3f2b8c58ccd0e3227ab13ee1d1e3cb430442a2",
+      "ko": "희미한 가슴의 통증과 함께,\n　고요하고 부드러운 무언가가 스쳐 지나간다.\n\n　그것은 분명, 내게 눈물을 흘리게 하던 것과의\n　영원한 이별을 뜻하고 있었다.\n\n　그 무언가――두 번 다시 되찾을 수도 없고, 이제 되찾을 필요조차 없는 무언가에, 나는 감사했다.\n\n　이곳은 너무나도 다정한 장소다."
+    },
+    {
+      "id": "da9904:T00047",
+      "source_sha256": "f8363357551dc2b015cedddf40fe143c1bb26719febb71f9088997d3f0df34ce",
+      "ko": "우알다의 품속에서, 나는 몇 번이고 고개를 끄덕였다."
+    },
+    {
+      "id": "da9904:T00048",
+      "source_sha256": "5904be34c4653d9f25e31437eab864a268d39f5da3faf9b129b93a12fb4a8e99",
+      "ko": "「알아. 알고 있어, 우알다」"
+    },
+    {
+      "id": "da9904:T00049",
+      "source_sha256": "145a9a460291032c13c720088269e575f59407cb54a46b5b2a58d3caa1f0c63a",
+      "ko": "「게다가 말이야…… 마지막에는 그리 나쁜 꿈도 아니었어――」"
+    },
+    {
+      "id": "da9904:T00050",
+      "source_sha256": "3414254656a5fa0c44b38ef5c2b3aedbcea672abc1221ea8774bf8533991f75c",
+      "ko": "「그런 느낌이 들어」"
+    }
+  ],
+  "issues": []
+}

@@ -1,0 +1,43 @@
+{
+ "base": "F:\\AI\\khd-latest-game\\autobattle\\hard\\dmpack900_hard.dat",
+ "base_sha256": "40466e40d498893d2db0ff71e3083e06ab5ce48003a69131a24b9234b092d392",
+ "pack": "P:\\AI\\khd-hero-ai\\v31\\out\\dmpack900_hard.dat",
+ "sha256": "d0c06e964c6c69dc796c4206f42bcc628432298bef7278b26c3fc85591bdd207",
+ "changed": [
+  "data/character/GM/GM.def",
+  "data/character/IM/IM.def",
+  "data/character/NM/NM.def"
+ ],
+ "rows": [
+  {
+   "file": "data/character/GM/GM.def",
+   "volumes": [
+    "collid_map",
+    "collid_body"
+   ],
+   "moves": [
+    "KINKI1"
+   ]
+  },
+  {
+   "file": "data/character/IM/IM.def",
+   "volumes": [
+    "collid_map",
+    "collid_arm_body"
+   ],
+   "moves": [
+    "TAIZAI"
+   ]
+  },
+  {
+   "file": "data/character/NM/NM.def",
+   "volumes": [
+    "collid_map",
+    "collid_body"
+   ],
+   "moves": [
+    "HIRYUU"
+   ]
+  }
+ ]
+}

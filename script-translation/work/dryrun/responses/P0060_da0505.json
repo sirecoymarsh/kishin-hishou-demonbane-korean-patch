@@ -1,0 +1,1169 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0060_da0505",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0505:T00001",
+   "source_sha256": "86f388dee9bcf94e6242556a18b43df6a9dfbc433aa569e3c533f99e233e874c",
+   "ko": "맹렬한 빛이 사악을 물리친다."
+  },
+  {
+   "id": "da0505:R00001",
+   "source_sha256": "9d8fcb6f1d863a9c9f4431ac07829f257ff91d76167d01bdf87467572bef21ba",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0505:T00002",
+   "source_sha256": "bd0a6842de3c5cc42e5bf17f3b3d547f4eec1f10f4939f40ae545f9086298853",
+   "ko": "오예"
+  },
+  {
+   "id": "da0505:T00003",
+   "source_sha256": "b6555d77f9cf10b0f1a2090b2ad6dc35844c9724a649dfc409f04dfd0e11aeee",
+   "ko": "로운 진창의 바다, 그 중심부에 돌연 생겨난 빛은 부정형의\n사신을 증발시키면서 급속히 팽창."
+  },
+  {
+   "id": "da0505:T00004",
+   "source_sha256": "e0841bbc26d211f9ce516e616b83b7f1e703c05e54586cc3776d888ba03af5cf",
+   "ko": "광도를 더해 지상에 소형 태양을 탄생시켰다.\n\n　그것은 폭학의 바다를 불살라 버리는 하얀 어둠."
+  },
+  {
+   "id": "da0505:T00005",
+   "source_sha256": "f5dc284466e6b288926783ceb7b7910aa9c72379ad2fd52cf57fe959c7a8134d",
+   "ko": "물러난 『바다』는 빛에 닿는 것을 두려워하듯 그 주위에서 소용돌이\n치고 있다."
+  },
+  {
+   "id": "da0505:T00006",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0505:R00002",
+   "source_sha256": "4d26caf28f7fb6a73800fe088e4ccd8897122c57d6ca48069629b32bf4fb9f29",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0505:T00007",
+   "source_sha256": "46631fbed439309f1ababcf870901f88879cd0e4da6a78231632768fd17c9cbd",
+   "ko": "소멸"
+  },
+  {
+   "id": "da0505:T00008",
+   "source_sha256": "3b95f974126012e24fafe7502f9896322bbeb6c71c595760013cb2a7bbbebc39",
+   "ko": "주법!?」"
+  },
+  {
+   "id": "da0505:R00003",
+   "source_sha256": "f58c026c179665797b00157bf4ac8d76bb0bc4ae666609165f837f7ff7226785",
+   "ko": "어나더 블러드",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0505:T00009",
+   "source_sha256": "f228240d0247fcbf2cc4eea57bc3426796f05a8bc19892e4a81e6d5db7ae2f6e",
+   "ko": "혈액언어의 소녀"
+  },
+  {
+   "id": "da0505:T00010",
+   "source_sha256": "69903fcddeec0fe9bdf81807715fe6f24f7dc934f5a8e9671b8c56840bdb4de2",
+   "ko": "는 보았다."
+  },
+  {
+   "id": "da0505:T00011",
+   "source_sha256": "0ec56263ad1e253ea08c9a0da2e521a3bfc1aaa0d3b077acc856b6cbe458c21c",
+   "ko": "빛의 중심, 완전한 순백의 한복판에 일렁이는 거대한 『칠흑』이 존재한다는\n것을.\n\n　아니."
+  },
+  {
+   "id": "da0505:T00012",
+   "source_sha256": "a94244370aedf831b305b5beb2830bc5f34a4ec8abd2398707953c334aa6fa0a",
+   "ko": "아직 『없다』."
+  },
+  {
+   "id": "da0505:T00013",
+   "source_sha256": "9698624f7e1155d6342a3bf043a6759b809f79eb8d5daf85bb8c2809b6e5e639",
+   "ko": "일렁이는 그림자는 실재와 비실재의 틈새에 머물러 있다.\n\n　그림자가 내포한 막대하고도 강대한 마력만이 "
+  },
+  {
+   "id": "da0505:R00004",
+   "source_sha256": "3a8f676b10d75ecd4c01cab2c605e918290ec806caa0ff2e837a5dae6898cb08",
+   "ko": "머티리얼 사이드",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0505:T00014",
+   "source_sha256": "32014530e986cebd1fb772c479101713baf184c26bd989ae1e658f5d62e56be4",
+   "ko": "현실 측"
+  },
+  {
+   "id": "da0505:T00015",
+   "source_sha256": "90325820a764fc11fd8b0f06fb4f72d88b33e111c266cb0fee510660aacf205d",
+   "ko": "에 흘러넘쳐,\n즈아위아를 불태운 것이다. 그림자는 그 힘의 투영이다."
+  },
+  {
+   "id": "da0505:T00016",
+   "source_sha256": "f796caea3473aef985f87d31c985fe97ff4184bbce9af066e2adccee4290aa08",
+   "ko": "빛이 잦아들어 간다."
+  },
+  {
+   "id": "da0505:T00017",
+   "source_sha256": "8625c9c300b0ed5fe1a1c57796477f9a0a88074a1bfbd67555b0bd2cda8c6520",
+   "ko": "소멸주법에 의해 뚫린 "
+  },
+  {
+   "id": "da0505:R00005",
+   "source_sha256": "e2b9305288b9649f81a988479710a396cadfb89389f992404d3a76b8e46d1f3c",
+   "ko": "스페이스",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0505:T00018",
+   "source_sha256": "f0bf4574ce25c131e712b6ec184d1a8b1d6dc3d3f634f0f8d0deeb261ddd2051",
+   "ko": "공백"
+  },
+  {
+   "id": "da0505:T00019",
+   "source_sha256": "07e1e14a7ad8a2e5d8de5f001cbe12b5901c54dbf4b41841438d1199b3bc6b82",
+   "ko": "에 다시금 『바다』가 쏟아져 들어오려\n한다.\n\n　하지만, 그러나."
+  },
+  {
+   "id": "da0505:T00020",
+   "source_sha256": "1a93ba9dc239b79274c9f2db823559b1af3a9979fa9b69a02c3591c23df78f04",
+   "ko": "어디선가 날아오는 열 자루의 거대 언월도."
+  },
+  {
+   "id": "da0505:T00021",
+   "source_sha256": "8b0a40c85c31912d5883e2ccde7be981b921cad0c3084793d4cd94a598d5c698",
+   "ko": "그것은 일렁이는 그림자를 원형으로 에워싸듯이 대지에 꽂힌다.\n\n　빌딩처럼 우뚝 솟은 언월도는 자신의 마력으로 "
+  },
+  {
+   "id": "da0505:R00006",
+   "source_sha256": "94f5801ec32f7aa6bfc6b59c8e170ecd2cb921827598e0d2456fd34766a40e8b",
+   "ko": "링을",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0505:T00022",
+   "source_sha256": "fa4898ed41e5fee6bce30e1e22ca43a21841f5edb517cd9a57be00e97b21f744",
+   "ko": "방어 결계를"
+  },
+  {
+   "id": "da0505:T00023",
+   "source_sha256": "55af0df6715f0451e722c8b2fdd3348453e4853c51758bc9de06e75c7c807ca8",
+   "ko": " 형성, 『바다』의 침공을 멈춘다."
+  },
+  {
+   "id": "da0505:T00024",
+   "source_sha256": "4570765a48d27a29d78f58144372076db21981196551e0879660aa558a139f51",
+   "ko": "분노 때문인지 폭학의 바다는 격렬하게 물결치며 미친 듯이 날뛴다."
+  },
+  {
+   "id": "da0505:T00025",
+   "source_sha256": "00d35ff6f3b58ef57aa32b21bb087668496a98f511639dbdd7688e13298c9ace",
+   "ko": "해면에서 돋아난 무수한 촉수가 덮쳐 들고, 마검의 결계가\n그것을 튕겨 낸다."
+  },
+  {
+   "id": "da0505:T00026",
+   "source_sha256": "a9ff47f212a538b5241510bf34b877564f769f754c1bc75e3ee90e67bf93c146",
+   "ko": "마력과 독기가 폭발하며 공간을 뒤흔들었다."
+  },
+  {
+   "id": "da0505:T00027",
+   "source_sha256": "f8036c2943394c852cdde7256dd91f2f56cdb9cc2b4dfd862344e7fd7bad35de",
+   "ko": "「또 네놈이냐……!」"
+  },
+  {
+   "id": "da0505:T00028",
+   "source_sha256": "91693cc114cacc333f812835d6dce71c1df76f5d0e38b2b8927738b3ff3b1830",
+   "ko": "미스캐토닉 대학 시계탑의 옥상에 『그』는 내려앉았다."
+  },
+  {
+   "id": "da0505:T00029",
+   "source_sha256": "81f5a74c7b30fcfd1c680cf4ceebbf698327d5f4120fb0c7a1c07a9913dcbb05",
+   "ko": "거무스름한 피부에 신사다운 복장을 한 남자다."
+  },
+  {
+   "id": "da0505:T00030",
+   "source_sha256": "178d37df6914a935a465469a10f6fb593f0655d89c508fde1d349dbdb50dd952",
+   "ko": "이어서 구형 마법진에 싸인 쿠로와 알이 옥상에 내려진다."
+  },
+  {
+   "id": "da0505:T00031",
+   "source_sha256": "6d733db35782b03a1b687d29d7c72719859eeff4ff4da843d31298690471d366",
+   "ko": "둘 다 기절해 있기 때문인지 마기우스 스타일은 풀려 있었다.\n\n　진홍의 소녀는 증오 어린 눈동자로 남자를 노려본다."
+  },
+  {
+   "id": "da0505:T00032",
+   "source_sha256": "767b70c2b8473d2b46a63623da35524621e02efdef065f7195f007df7b4137e0",
+   "ko": "남자는 조용한 눈동자로 진홍의 소녀를 마주 바라본다."
+  },
+  {
+   "id": "da0505:T00033",
+   "source_sha256": "9f3214359dfbff801f0c334a4321c53a4df60f5958c932a2a7a081e77af7b3d1",
+   "ko": "「내 이야기에 이토록 개입해\n　주다니…… 정체가 뭐야?」"
+  },
+  {
+   "id": "da0505:T00034",
+   "source_sha256": "6d8e98aeabfeddcc8073eb2ff5e2dbc29d242ec98e641473468412e77e2fd0f9",
+   "ko": "남자는 말없이 품에서 한 권의 책을 꺼냈다."
+  },
+  {
+   "id": "da0505:T00035",
+   "source_sha256": "8dbbc23c217d3e8014b3a06d9c7210433f491e3e5c3f46a651a60c5d9b1aebc4",
+   "ko": "아라베스크 문양에 흑단 장정을 한 두툼한 책――즉."
+  },
+  {
+   "id": "da0505:T00036",
+   "source_sha256": "5e696371811a8b8b23f1ad51499421321769220ff056b541b3869086e60b94f7",
+   "ko": "「……"
+  },
+  {
+   "id": "da0505:R00007",
+   "source_sha256": "00f62a6f4a40ed9ed3f2271148d5f1928d203693bcc3e6f088b2462e1a5f9817",
+   "ko": "알 아지프",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0505:T00037",
+   "source_sha256": "578558146bdb5f444b92ee8f34e97fcbfdd22108fa7b914149c3116b8739990e",
+   "ko": "원서"
+  },
+  {
+   "id": "da0505:T00038",
+   "source_sha256": "fffdc5d5ef98f08f3b390621d31bca15d023f7e1c0bd441821c2233394d0f4f0",
+   "ko": "!　어째서야!?」"
+  },
+  {
+   "id": "da0505:T00039",
+   "source_sha256": "a948124facb16e95ce4c1e34012374c4da1a83c463ab3a80b0ed7a4742ba9a85",
+   "ko": "남자의 발밑에는 바로 알 아지프 본인이 쓰러져 있다."
+  },
+  {
+   "id": "da0505:T00040",
+   "source_sha256": "0a2b8bdae2394db47aef0a32c81664059b2390317b8bc8a670a84a5748bf887b",
+   "ko": "그렇다. 지금 이 공간에는 두 권의 『알 아지프』가 존재하고 있는 것이다!"
+  },
+  {
+   "id": "da0505:T00041",
+   "source_sha256": "c019a5649666ce3afc312e30032cb8caaa96217f7cdf778033075e81aaf585bd",
+   "ko": "「이 세계는 아직 완전히\n　네 것이 되지 않았다」"
+  },
+  {
+   "id": "da0505:R00008",
+   "source_sha256": "b750c2ece644240b0f8e138a0602b89062dcd4cb934044a963e76bf34670b76d",
+   "ko": "・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0505:T00042",
+   "source_sha256": "d0a63a5f7774d79a82dae317b5503bcdcddfe3edd1569034fe5ae7c1f8e55ff7",
+   "ko": "남자가 지닌"
+  },
+  {
+   "id": "da0505:T00043",
+   "source_sha256": "91d7640678cdbcbbba1d3c263cb81578a9dad1262f88e2a56e4594456b1769ad",
+   "ko": " 『"
+  },
+  {
+   "id": "da0505:R00009",
+   "source_sha256": "399541026b89787f76b6312375d21b42244869347cf836059cf9eba724bb4824",
+   "ko": "・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0505:T00044",
+   "source_sha256": "3217b6dd3177a11222e43409082340cac574495029ccc0f96b4e4ba29c66ab9e",
+   "ko": "알"
+  },
+  {
+   "id": "da0505:T00045",
+   "source_sha256": "2a21905f43e5a05954fb631dfc0cf38b1d8b25001f9ccedd80abcd27e88f6fb8",
+   "ko": " "
+  },
+  {
+   "id": "da0505:R00010",
+   "source_sha256": "fe65050b6cf95368d85f30fd366c092a15824886d51defd754887d1e968f7491",
+   "ko": "・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0505:T00046",
+   "source_sha256": "f6d9f15977fc25b4c9a0abecbe7e99c26ee67c9027a14065ee3e9c32e3ba478a",
+   "ko": "아지프"
+  },
+  {
+   "id": "da0505:T00047",
+   "source_sha256": "ec99ba28e0947e9897c12bd9b9c1f1e503685af017620a5be6d741ea2b336fb3",
+   "ko": "』의 "
+  },
+  {
+   "id": "da0505:R00011",
+   "source_sha256": "92504189d61ead28f682619d64e6073941ec850f74630b57e5b7775f46b068cb",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0505:T00048",
+   "source_sha256": "1cc53c0a9b3a9b6909f86a95c5277f655d4f98a3ad70c3b6a7f447e84576e541",
+   "ko": "경첩"
+  },
+  {
+   "id": "da0505:T00049",
+   "source_sha256": "53a60c19d563a04d0bdac21cc8b9ea769b231edd391438d1600d30518740a555",
+   "ko": "이 저절로 풀렸다."
+  },
+  {
+   "id": "da0505:T00050",
+   "source_sha256": "e57898ccbbfb2464182bcfd0fc05b0db717290ee0805f350dc2b91bd07fb5bf3",
+   "ko": "펼쳐진 책에서 눈부신 빛이 흘러넘친다."
+  },
+  {
+   "id": "da0505:T00051",
+   "source_sha256": "c39a123ea0accdeda516a9e149ffe7e445ad80a9454c22e470ec8abe5bfd56a0",
+   "ko": "「그렇기에――」"
+  },
+  {
+   "id": "da0505:T00052",
+   "source_sha256": "4597b529b3cb887b5e6c2498fcb4227835bfadc98bc3c5d90417fe188c9c98ea",
+   "ko": "빛이 남자를 감싼다."
+  },
+  {
+   "id": "da0505:T00053",
+   "source_sha256": "90ab7cee0104f57654275ab11caa0039309d0865c7e60918f5d74285cf7ce953",
+   "ko": "빛은 무수한 마술문자. 복잡하고도 강인한 술식."
+  },
+  {
+   "id": "da0505:T00054",
+   "source_sha256": "ca62d145562a355d4e092788a74ab41cca4c687a2d13e3c4f155ce36e66b4cb1",
+   "ko": "그의 존재를 재구성해 간다."
+  },
+  {
+   "id": "da0505:T00055",
+   "source_sha256": "f477cee884230d3c79e55d83d3f35941631184fd8219307f7fee027d8b63d37a",
+   "ko": "「――내가 존재할 수 있다」"
+  },
+  {
+   "id": "da0505:T00056",
+   "source_sha256": "4cc63b1786e68cce55d8add75591473e4e7472ad48c8a245c49feb6b6f7dbee6",
+   "ko": "빛이 잦아든다."
+  },
+  {
+   "id": "da0505:T00057",
+   "source_sha256": "ab85047093e3774bf14d2d287631e2eef17e826a1ee74c4c3fa54173d8a7cf10",
+   "ko": "남자의 모습은 일변해 있었다."
+  },
+  {
+   "id": "da0505:T00058",
+   "source_sha256": "b90dcf0218c8ef0dd23e18c5dc59a18884cef8de4071f9ddd850dba8e3321d21",
+   "ko": "전신을 감싸는 칠흑의 슈트."
+  },
+  {
+   "id": "da0505:T00059",
+   "source_sha256": "f59e18a5f099e3d7f06d51d6ac83568b044d9fd475440f378c649598ea64fea8",
+   "ko": "전신에서 뿜어져 나오는 강대한 마력."
+  },
+  {
+   "id": "da0505:T00060",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0505:R00012",
+   "source_sha256": "e533081aa171fce47c1b7e7265e0f9503a9802e4ae1093331fb742265966d34a",
+   "ko": "마스터 오브 네크로노미콘",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0505:T00061",
+   "source_sha256": "b552dfbadf554308b98a24c462f3c1d086bf8ab09671a897b316cb874a78d56a",
+   "ko": "『사령비법』의 주인"
+  },
+  {
+   "id": "da0505:T00062",
+   "source_sha256": "aa5bad441a786a7ae15535306c476d1d5a060f246543eb888e7d212d1d2e551a",
+   "ko": ", 아즈랏드.\n　사신 즈아위아를 명부로 도로 데려가는 임무,\n　"
+  },
+  {
+   "id": "da0505:R00013",
+   "source_sha256": "7ae10feb4b7d5b835b8e5610021802d8cba0a91ae958472d61a04c3b7d9b9b3a",
+   "ko": "플루토",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0505:T00063",
+   "source_sha256": "c608c69ddb053c544061586f95874b4751b075fe639fe8f6bb4b479a06589675",
+   "ko": "염마"
+  },
+  {
+   "id": "da0505:T00064",
+   "source_sha256": "17cc1d3ca512a8d8331d1bfc385a5e10e7de1d93e34a365c3efe3b68944395e8",
+   "ko": "로부터 명받았다」"
+  },
+  {
+   "id": "da0505:T00065",
+   "source_sha256": "751e8bee3f850a422c2f0f0596f256be8c3bd07cf7382f1271e5abdc7216336f",
+   "ko": "그 모습은 확실히 마스터 오브 네크로노미콘의 "
+  },
+  {
+   "id": "da0505:R00014",
+   "source_sha256": "e6625ad31b3851e5f19784330b7627b648daa73e9931be5f189e4961fc56d6cc",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0505:T00066",
+   "source_sha256": "ec80373ff49efd335069303d77bcce11291cc32f493991b4de67ddac8dda9af2",
+   "ko": "증명"
+  },
+  {
+   "id": "da0505:T00067",
+   "source_sha256": "c4a40ea8fe35627476f7f8cb9e1fc7f8898f428c6d1ff18b0bc5479d5db39c5f",
+   "ko": ",\n"
+  },
+  {
+   "id": "da0505:R00015",
+   "source_sha256": "5962b52de32aecfebec50e25202014cad2c51a4285f82871626b0111751e003d",
+   "ko": "마기우스 스타일",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0505:T00068",
+   "source_sha256": "115c8719db52e427f76f6a32c59063be55f73953f407f85aa1b7fd56b372f0fb",
+   "ko": "술의 형태"
+  },
+  {
+   "id": "da0505:T00069",
+   "source_sha256": "ea5e247a3bb78e0a5b6dbc4a347b12ca06cf4957059a5656470a3bd02d781e71",
+   "ko": "였다."
+  },
+  {
+   "id": "da0505:T00070",
+   "source_sha256": "45e8e2e77ae6b3bb9312f96344336efe7c12ef64b062f952dd942763fb550e7f",
+   "ko": "「그런가…… "
+  },
+  {
+   "id": "da0505:R00016",
+   "source_sha256": "b750c2ece644240b0f8e138a0602b89062dcd4cb934044a963e76bf34670b76d",
+   "ko": "・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0505:T00071",
+   "source_sha256": "0938bfed2271466a1d4119db03279df0443a2debca6164b68a1322a79511e241",
+   "ko": "그 시대"
+  },
+  {
+   "id": "da0505:T00072",
+   "source_sha256": "74dc30d174b1d218b8a30fe36c6b5ad5a0a6ac48327de39e3e05976855a560c7",
+   "ko": "의\n마스터 오브 네크로노미콘이구나!」"
+  },
+  {
+   "id": "da0505:T00073",
+   "source_sha256": "2cdb8b35e784dc3d2b1f25f34cd9f00571a704edd517fa2ec72217b40b162b2c",
+   "ko": "「하지만 어째서!?\n　나는 당신 같은 건 창조하지 않았어!」"
+  },
+  {
+   "id": "da0505:T00074",
+   "source_sha256": "cf4a70a0351d9e05524204f27e0185dd325cd7e0462e010a190e0f1097313338",
+   "ko": "「그 아이가 꾸는 꿈은 악몽만이 아니다」"
+  },
+  {
+   "id": "da0505:T00075",
+   "source_sha256": "09d73fdb978976076b0e45689b8d7c4cec43def29c2d92b43a188a8a744004ba",
+   "ko": "「…………!?」"
+  },
+  {
+   "id": "da0505:T00076",
+   "source_sha256": "4f32d9dbf555f788d1f5450e806800fe8d73e64be86a12fe92b3569dcd5ec0be",
+   "ko": "「그 광대에게도 말했을 텐데.\n　너도 듣고 있었겠지?」"
+  },
+  {
+   "id": "da0505:T00077",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0505:R00017",
+   "source_sha256": "e0dca0680981c19525576e77eb43edb5a365cd07bcaa8efc5dfb325a2bc8b2ae",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0505:T00078",
+   "source_sha256": "42ae9091f49d8e597846216f247b663a9364eb3a78ba50881739bed2c229dc8c",
+   "ko": "설마"
+  },
+  {
+   "id": "da0505:T00079",
+   "source_sha256": "7ae88be5f257ae68dad9faf36cfe820559c1277b33395855fbc70f2368066d6f",
+   "ko": "……!」"
+  },
+  {
+   "id": "da0505:T00080",
+   "source_sha256": "7e18d6029993f44756ecc3dcda21a03ba540d9b95a776c7c52493a09864af2d7",
+   "ko": "진홍의 소녀는 남자――아즈랏드의 발밑으로 눈길을 돌렸다."
+  },
+  {
+   "id": "da0505:T00081",
+   "source_sha256": "10fabad38683b6163d4af43940b43526145fb2c6acd4d341fec70cc416df8fc1",
+   "ko": "시선 끝에는 정신을 잃은 채로도 몸을 침식하는 술식에 발버둥 치며 괴로워하는\n알 아지프가 있다.\n\n　소녀의 안에서 "
+  },
+  {
+   "id": "da0505:R00018",
+   "source_sha256": "327949361fe1792fc42929babc6ffdec549487c83e1f3c8b62eda5cb611f14c6",
+   "ko": "피스",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0505:T00082",
+   "source_sha256": "e892654a499d52a776c3d245b8800e9d15b1b07e6451fd2fa30d453a2b1a7b82",
+   "ko": "부호"
+  },
+  {
+   "id": "da0505:T00083",
+   "source_sha256": "d67d9b4aa53b1c7a0ec04c0d334f2f183adfac01668bd259544c0eb99f593f12",
+   "ko": "가 맞춰졌다."
+  },
+  {
+   "id": "da0505:T00084",
+   "source_sha256": "48e81801da6d070c74dc361a1ef0eaafdd11a636f557e528c20ab841ae9198c2",
+   "ko": "「――"
+  },
+  {
+   "id": "da0505:R00019",
+   "source_sha256": "194068e0300b74bb7ec135f557cf24727ed96a48f8b1c234f401e843ccb91c8b",
+   "ko": "카운터",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0505:T00085",
+   "source_sha256": "14de58d605eb118ffc318463b6edc4c26329f0f35ea7e9b3828ee6a5b1960338",
+   "ko": "역개입"
+  },
+  {
+   "id": "da0505:T00086",
+   "source_sha256": "06e4166c9a86b4b55ea76af145d693083ff857e6e8d1132d63ba4f3379f978ad",
+   "ko": "!?\n　"
+  },
+  {
+   "id": "da0505:R00020",
+   "source_sha256": "62f083b66f85bb7e91aeeefb564b5a6991560448a77d686a51788b9945d35e81",
+   "ko": "오리지널",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0505:T00087",
+   "source_sha256": "4da921e3249cf37f25e9927129f9bd2d5bb5d89489adb525d35aa2d7c84b9452",
+   "ko": "어머님"
+  },
+  {
+   "id": "da0505:T00088",
+   "source_sha256": "5c3cda015c8a49d977f36c6e64a6208709feddd87b65bc8b9a84fd214141b784",
+   "ko": "이 창조한 거야!?　당신을!\n　내 "
+  },
+  {
+   "id": "da0505:R00021",
+   "source_sha256": "3e7ca97dd222dfece75cc1b0e619438b0296dd7b6db45fe8ff3627464f181e69",
+   "ko": "세계",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0505:T00089",
+   "source_sha256": "846c39b0bcb51f41f7a9b92e4d3452d15b86f3e1cd153f8d3d2ba8ef55219731",
+   "ko": "이야기"
+  },
+  {
+   "id": "da0505:T00090",
+   "source_sha256": "826d3274ac838232336e934fca5d26d1d9f69cc7e08c0775397e31697494860b",
+   "ko": "에 대항하는 "
+  },
+  {
+   "id": "da0505:R00022",
+   "source_sha256": "3e7ca97dd222dfece75cc1b0e619438b0296dd7b6db45fe8ff3627464f181e69",
+   "ko": "세계",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0505:T00091",
+   "source_sha256": "846c39b0bcb51f41f7a9b92e4d3452d15b86f3e1cd153f8d3d2ba8ef55219731",
+   "ko": "이야기"
+  },
+  {
+   "id": "da0505:T00092",
+   "source_sha256": "e00d2bd0b1e45242185a20ecc48202b21e26c82248005ce318b5741408b1fb61",
+   "ko": "를!」"
+  },
+  {
+   "id": "da0505:T00093",
+   "source_sha256": "e245c63942d5f740c32432a4695dee74189af1d2bb10bcb72f929de8c7b521fb",
+   "ko": "「꿈을 말하는 마물이여. 사신 즈아위아여.\n　너희 뜻대로 두지는 않겠다」"
+  },
+  {
+   "id": "da0505:T00094",
+   "source_sha256": "02be4f5963c5328ab118e75ca003577875bc40f55c7b160f575bd9aa8e81d8d3",
+   "ko": "「웨이틀리!」"
+  },
+  {
+   "id": "da0505:T00095",
+   "source_sha256": "a4e4c3f5250eba2656e0f105f1297ad76089036a88f0116722c1c645c46b95c2",
+   "ko": "아즈랏드의 주위에서 공간이 부서졌다."
+  },
+  {
+   "id": "da0505:T00096",
+   "source_sha256": "019136109adb5c2f85fac949c682f9b76f30ff28393c2cd41156058ae5cade54",
+   "ko": "공간의 갈라진 틈에서 웨이틀리의 촉수가 흘러넘쳐 아즈랏드를\n덮친다.\n\n　그러나 아즈랏드는 움직이지 않는다."
+  },
+  {
+   "id": "da0505:T00097",
+   "source_sha256": "c2d667f755988fe27a2fec1f9e189fd3b8903be0e60a4750544353d7f21d3e38",
+   "ko": "아즈랏드가 지면에 드리운 그림자에서 바르자이 언월도가 나타나\n촉수를 베어 넘겼다."
+  },
+  {
+   "id": "da0505:T00098",
+   "source_sha256": "1e63571cd4b170121b727eb2fe08ef83599150f40b3fd3656d478c373697a258",
+   "ko": "사방에서 덮쳐 오는 촉수 무리에 대항하고자 언월도는 열 자루로 분신."
+  },
+  {
+   "id": "da0505:T00099",
+   "source_sha256": "aa08066ea8ae14c37645c10039d5575231766d40f73685d54c373fc109f71a8a",
+   "ko": "아즈랏드의 주위를 원형으로 에워싼다."
+  },
+  {
+   "id": "da0505:T00100",
+   "source_sha256": "551660fbdce1a5e7206ac88244ab195313d6c62770996bf05822014d59aca9f0",
+   "ko": "즈아위아를 물리치는 거대한 언월도의 결계와 마찬가지로."
+  },
+  {
+   "id": "da0505:T00101",
+   "source_sha256": "83939419aa4ac255e068de8675bde59405cfed9bc8878fe82335e296bdb406db",
+   "ko": "「두 번 다시 세계를 빼앗기게 두지 않는다」"
+  },
+  {
+   "id": "da0505:T00102",
+   "source_sha256": "c67b172b2345ea8f99ff9867b19deca7725ca4f77bc648d9bed5e1f7d7647b8d",
+   "ko": "아즈랏드를 에워싼 언월도 중 아홉 자루가 풀리며 무수한 "
+  },
+  {
+   "id": "da0505:R00023",
+   "source_sha256": "2bb9df2369234dd1a09c594d05bb8f486a403b25224bff5eeb85f6e147b6bbbb",
+   "ko": "페이지가",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0505:T00103",
+   "source_sha256": "14dce25b1c1b98453816ea31dcbf87f0006c3fe4f2087db40fccd9cf09497735",
+   "ko": "지편이"
+  },
+  {
+   "id": "da0505:T00104",
+   "source_sha256": "49df91cc850ffdcdd57500b95723b2f26563e10b33cf8d64868a5ba7ace4b75b",
+   "ko": " 되었다."
+  },
+  {
+   "id": "da0505:R00024",
+   "source_sha256": "2bb9df2369234dd1a09c594d05bb8f486a403b25224bff5eeb85f6e147b6bbbb",
+   "ko": "페이지는",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0505:T00105",
+   "source_sha256": "14dce25b1c1b98453816ea31dcbf87f0006c3fe4f2087db40fccd9cf09497735",
+   "ko": "지편은"
+  },
+  {
+   "id": "da0505:T00106",
+   "source_sha256": "aafce1d2035bba36f9d5d563d5a0e694da79f2f0d28eb602cc499ed26646a52e",
+   "ko": " 각각 복잡한 주술 문양과 마술문자를 어지럽게 "
+  },
+  {
+   "id": "da0505:R00025",
+   "source_sha256": "1780f8d0b5ca3d56781f372cab1e4453a7e7a11b09379f9a47e53cf585c71d63",
+   "ko": "모니터",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0505:T00107",
+   "source_sha256": "17efc6654ed280c70117040bebd3d505951acc41c48335ad31e6c09ba86db84b",
+   "ko": "표시"
+  },
+  {
+   "id": "da0505:T00108",
+   "source_sha256": "62d64d02693bead2e352b592f704377be24aefc2dfab87acc47722b79b1ef8b3",
+   "ko": "하고 있다."
+  },
+  {
+   "id": "da0505:T00109",
+   "source_sha256": "ecf04e12a34ce6b24ccc8c4b080680e9e3c89a10cb7ba59871ed5839a6c04d2f",
+   "ko": "남은 한 자루를 아즈랏드는 손에 쥐고 마력을 벼려 간다.\n\n\n　『영창형태』."
+  },
+  {
+   "id": "da0505:T00110",
+   "source_sha256": "b6f1375f22cf4f89aff2d7c73a838136c25569ae8be46f61ae028d1c9010f73d",
+   "ko": "마도서가 최대의 효과를 발휘하는 "
+  },
+  {
+   "id": "da0505:R00026",
+   "source_sha256": "42a6656292491461c69d0f367e09bf8f589a09971ddc599fd8116e2c5ed80dc6",
+   "ko": "스타일이다",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0505:T00111",
+   "source_sha256": "5991f176417465a09a85893297d390045f2c466787d35e760d6c555a10440e8b",
+   "ko": "형태다"
+  },
+  {
+   "id": "da0505:T00112",
+   "source_sha256": "2cb6a77ea50e2ba1f30d5351d3ddedb10e17a62a0dd81a469fdd126f4b0a9bf0",
+   "ko": ".\n\n　그리고 바로 지금, 전개되고 있는 술식이야말로 마도서 『알 아지프』\n최강 최대의 오의――"
+  },
+  {
+   "id": "da0505:T00113",
+   "source_sha256": "832fd7612bd16b2aff414b27e743f34fb27b5a62f8feca40ae3661dac1255c99",
+   "ko": "「『기신소환』!?」"
+  },
+  {
+   "id": "da0505:T00114",
+   "source_sha256": "cdc61cfa1f1bc308f493c886bef524f82097d42cecd7b40e3a2270a67b91dde4",
+   "ko": "일그러지는 세계에 아즈랏드의 영창이 울려 퍼진다."
+  },
+  {
+   "id": "da0505:T00115",
+   "source_sha256": "45e1233858065fa96110c7f210bab13485ff448e0f8a3f01cc495ff283e71109",
+   "ko": "그것은 "
+  },
+  {
+   "id": "da0505:R00027",
+   "source_sha256": "b23809bf96a578e2f1bd090c387ee6bf76b00f431c6ea18868a02155a811f1f4",
+   "ko": "・・・・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0505:T00116",
+   "source_sha256": "010311315d35a5abbcb34fe512a4c54445c3d5b2963986fd2eb5d24824c1b4a8",
+   "ko": "그의 발밑에서 잠든"
+  },
+  {
+   "id": "da0505:T00117",
+   "source_sha256": "49fa71ce03f0313ebc4e384dc844215c6061e4a630ce078d1db1072042148aa3",
+   "ko": " 『알 아지프』에게서는 소실된 주문――"
+  },
+  {
+   "id": "da0505:T00118",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0505:R00028",
+   "source_sha256": "029ddddfe5efb8824744a3c3d138b96882e9f8fa08a883d3b1a3aa02e0f7021c",
+   "ko": "아이온",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0505:T00119",
+   "source_sha256": "7f3b448f058416302824538ba23307f061c08c986225ab19a3b498f65ee63fc6",
+   "ko": "영겁"
+  },
+  {
+   "id": "da0505:T00120",
+   "source_sha256": "31bf4bb289d56ec6bb9d4ce66bdf43db67b160c993d9541d06641d527829f7e4",
+   "ko": "!\n　　시간의 톱니바퀴\n　　"
+  },
+  {
+   "id": "da0505:R00029",
+   "source_sha256": "8ac397e74c8333ecacdeede9b35dfb1b0c55e3e37aa7991b37a9b95b9fe2071c",
+   "ko": "심판",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0505:T00121",
+   "source_sha256": "fc4fb7847b6d2d59fb15041adfc82ba7c139fd29638b982f76fe6574762b8bd1",
+   "ko": "단죄"
+  },
+  {
+   "id": "da0505:T00122",
+   "source_sha256": "baf0ed84a0517c4534a15be00b276f7b59cefb87421de0dc54af04314079bb4c",
+   "ko": "의 칼날\n　　구원의 끝에서 오는 허무」"
+  },
+  {
+   "id": "da0505:T00123",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0505:R00030",
+   "source_sha256": "029ddddfe5efb8824744a3c3d138b96882e9f8fa08a883d3b1a3aa02e0f7021c",
+   "ko": "아이온",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0505:T00124",
+   "source_sha256": "7f3b448f058416302824538ba23307f061c08c986225ab19a3b498f65ee63fc6",
+   "ko": "영겁"
+  },
+  {
+   "id": "da0505:T00125",
+   "source_sha256": "631157c15452e8cefd925437a26f1d016b1a5d7575f9234fd0bf7aff0369e63d",
+   "ko": "!\n　　"
+  },
+  {
+   "id": "da0505:R00031",
+   "source_sha256": "00fc46018228175a1eb8fef0035fd89138d19f5086651a85c6b102d3500df270",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0505:T00126",
+   "source_sha256": "8c82875ab04265373825b1b25efcc5850926815c50b871a69e755a6caf326685",
+   "ko": "그대"
+  },
+  {
+   "id": "da0505:T00127",
+   "source_sha256": "ce8020ecfee1a10fa72dad86b98eaccd6c2e35612e82a5144f1698dc66b49bac",
+   "ko": "에게서 벗어날 수 있는 것은 없으며\n　　"
+  },
+  {
+   "id": "da0505:R00032",
+   "source_sha256": "30decdf4274513937a5295af56ea082925e2c003e616f76156e9dec43f9164c6",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0505:T00128",
+   "source_sha256": "8c82875ab04265373825b1b25efcc5850926815c50b871a69e755a6caf326685",
+   "ko": "그대"
+  },
+  {
+   "id": "da0505:T00129",
+   "source_sha256": "5ecc181534ce9a3304ef143df7644f21bfc5c330943b0dea2eee8b8ffa3ea301",
+   "ko": "가 닿은 것은 죽음마저도 죽으리라!」"
+  },
+  {
+   "id": "da0505:T00130",
+   "source_sha256": "1154481444878bfc3b699c983571bb417ffdb606c070712ca7d0f102d2242970",
+   "ko": "아즈랏드에게 창화하는 "
+  },
+  {
+   "id": "da0505:R00033",
+   "source_sha256": "2bb9df2369234dd1a09c594d05bb8f486a403b25224bff5eeb85f6e147b6bbbb",
+   "ko": "페이지군",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0505:T00131",
+   "source_sha256": "14dce25b1c1b98453816ea31dcbf87f0006c3fe4f2087db40fccd9cf09497735",
+   "ko": "지편이군"
+  },
+  {
+   "id": "da0505:T00132",
+   "source_sha256": "1e158d893d015cbcb3a96f8e3908b9477c1a0a67c6679e86084560e57fe8f5f7",
+   "ko": "."
+  },
+  {
+   "id": "da0505:T00133",
+   "source_sha256": "4d25e992fa2aa3d59775e7ed7a0770e2dff2f8ad3dd7f2db864c4d7cee26cb4f",
+   "ko": "발광하는 마술 문양의 기계적 율동.\n\n　빛과 소리는 동조하여 입체 마법진을 직조하고, 공간의 성질을\n변용시켜――"
+  },
+  {
+   "id": "da0505:T00134",
+   "source_sha256": "31d0eef7137652b04509885dd80bef60d65e945d549dc6fea886f303f7afdae7",
+   "ko": "실재와 비실재의 일렁임 속에 있던 거대한 그림자가 충격파와 함께\n현현했다."
+  },
+  {
+   "id": "da0505:T00135",
+   "source_sha256": "7778a764c2a4fb72ba3f2f538213a5d02e0af7a2faa4fd0a9e891d70105c610b",
+   "ko": "칠흑이 확실한 질량과 두께를 얻는다."
+  },
+  {
+   "id": "da0505:T00136",
+   "source_sha256": "2fef041af4c54979b0a44458c43cd25e6aa8b06e631838da3c9f01ccbace41d8",
+   "ko": "그것은 전장 50미터에 달하는 어둠빛 기신."
+  },
+  {
+   "id": "da0505:T00137",
+   "source_sha256": "5217c6092636e6f578e655935f15ef1e0a932ceac7b6264a8ad0278c698a8ae9",
+   "ko": "일찍이 최강이라 칭송받았던, 『알 아지프』 본래의 귀계신――"
+  },
+  {
+   "id": "da0505:T00138",
+   "source_sha256": "da8ecded50a6ce465f503b87370883b74acc4abbda2f0859c471e81b58baed9c",
+   "ko": "「아이온!」"
+  },
+  {
+   "id": "da0505:T00139",
+   "source_sha256": "91d7640678cdbcbbba1d3c263cb81578a9dad1262f88e2a56e4594456b1769ad",
+   "ko": "『"
+  },
+  {
+   "id": "da0505:R00034",
+   "source_sha256": "00f62a6f4a40ed9ed3f2271148d5f1928d203693bcc3e6f088b2462e1a5f9817",
+   "ko": "알 아지프",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0505:T00140",
+   "source_sha256": "9cf0a83b6b19024faca7cfe4fb7e49b8429d5d188ed6244d2a85e26845b21d5a",
+   "ko": "마물의 포효"
+  },
+  {
+   "id": "da0505:T00141",
+   "source_sha256": "1a7bd608ebbf9f5e8fcec6ef47c0d1717aa995f3848a5fea137f59f0901f9a87",
+   "ko": "』."
+  },
+  {
+   "id": "da0505:T00142",
+   "source_sha256": "7bf8a1d92642298649cf4291eae1e69022ef6ff373396e0728b6b09bf056e477",
+   "ko": "아랍의 광시인 압둘 알하자드에 의해 집필된 책."
+  },
+  {
+   "id": "da0505:T00143",
+   "source_sha256": "cdef5ae253082536315a61c4b3df5f5d547a9e922882c6cd80ab8d6706cc8e68",
+   "ko": "온갖 금단의 지식이 기록된 외도법전.\n\n　『네크로노미콘』의 원서인, 소실된 것으로 알려진 마도서다.\n\n　하지만 결코 구전되지 않는 인류의 암부――"
+  },
+  {
+   "id": "da0505:R00035",
+   "source_sha256": "2dc83fbd20d852ebc57acbd21403e5d7ef037dcdcd04c98c8aca6c2caeac920e",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0505:T00144",
+   "source_sha256": "ae0f56e8fa98e115575873150d7b657021ae833d0abeb461373a4145636aed33",
+   "ko": "암흑"
+  },
+  {
+   "id": "da0505:T00145",
+   "source_sha256": "f48a1339ffc08fd884c0134784db66df90b04435577ac774df40187982e5620d",
+   "ko": "의 역사에, 이\n무시무시한 책은 종종 모습을 드러냈다."
+  },
+  {
+   "id": "da0505:T00146",
+   "source_sha256": "60fa4ebb154b10346d5246baba16e8658b1fbf4afd759c1b28bc693d0d2f8d80",
+   "ko": "어느 때는 마술의 심연을 지향하는 구도자의 손에."
+  },
+  {
+   "id": "da0505:T00147",
+   "source_sha256": "43a9bcdc8c6ce1619a14cdfccb7fc3977d8c248473f652aca677dac066c2df79",
+   "ko": "어느 때는 비대해진 야심에 불타는 투쟁자의 손에."
+  },
+  {
+   "id": "da0505:T00148",
+   "source_sha256": "275fa35f2be1b380b98d523c929a200226c3728a30af849a792ec2e00fa7153a",
+   "ko": "어느 때는 영혼이 공포에 오염된 희생자의 손에.\n\n　그리고 또 어느 때는――"
+  },
+  {
+   "id": "da0505:T00149",
+   "source_sha256": "2522313dc68002a7078bc71b74244865b28a9458fdffbe71f4d88d4713dfe454",
+   "ko": "미래영겁 치유되지 않는 허무를, 다하지 않는 증오로 채우려는 복수자의 손에."
+  },
+  {
+   "id": "da0505:R00036",
+   "source_sha256": "e533081aa171fce47c1b7e7265e0f9503a9802e4ae1093331fb742265966d34a",
+   "ko": "마스터 오브 네크로노미콘",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0505:T00150",
+   "source_sha256": "b552dfbadf554308b98a24c462f3c1d086bf8ab09671a897b316cb874a78d56a",
+   "ko": "『사령비법』의 주인"
+  },
+  {
+   "id": "da0505:T00151",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  },
+  {
+   "id": "da0505:T00152",
+   "source_sha256": "4d24d9c56ef2637fbff8ec35e5d8cd941175d683d289fc53a9b05db5511bda88",
+   "ko": "그들은 그렇게 불렸다.\n\n　목적이 무엇이든, 그들은 예외 없이 세계를 침범하는 사악과의 싸움에 몸을\n던지게 되었다.\n\n　『마』의 "
+  },
+  {
+   "id": "da0505:R00037",
+   "source_sha256": "4d26caf28f7fb6a73800fe088e4ccd8897122c57d6ca48069629b32bf4fb9f29",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0505:T00153",
+   "source_sha256": "46631fbed439309f1ababcf870901f88879cd0e4da6a78231632768fd17c9cbd",
+   "ko": "소멸"
+  },
+  {
+   "id": "da0505:T00154",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  },
+  {
+   "id": "da0505:T00155",
+   "source_sha256": "3a1d138f403d5a0461d308cf4dd5bf878059e07ca4b0be1a6043c6d5aa75c4fe",
+   "ko": "그것이 마도서 『알 아지프』의 의지였으니까.\n\n　사악과의 싸움에서 불타 끊어지고 다 타들어 가는 주인들의 생명."
+  },
+  {
+   "id": "da0505:T00156",
+   "source_sha256": "619087b46dad50987b7620cdf8b1b1d5e66740bf0e9e58424165531b3f9771ad",
+   "ko": "그 모든 것을 그녀는 자신의 몸에 각인하고 있다."
+  },
+  {
+   "id": "da0505:T00157",
+   "source_sha256": "56fc68cf915f86947cbc948fac28f299338cbfd0c6f5010597f2bf3ad51ef55a",
+   "ko": "그렇다면 그 모습을 잊을 리도 없다."
+  },
+  {
+   "id": "da0505:T00158",
+   "source_sha256": "6f1b47d7d7f4fe02f7fd58ac0fb95ff2d5addd22de44fe0be2c76fd3e3ad11fb",
+   "ko": "악몽에서 깨어난 알이 목격한 것."
+  },
+  {
+   "id": "da0505:T00159",
+   "source_sha256": "8f6c7c32db137bffa1e873fa2ee3301dd0f7c1ff69d0199a0cb0b6f094dc37e8",
+   "ko": "진흙탕 바다를 물리치는 빛."
+  },
+  {
+   "id": "da0505:T00160",
+   "source_sha256": "9dbd0c5939772ed148bfd260ddf8a7df2e09e86fbc37f13872f0f1209a5a2816",
+   "ko": "현현하는 칠흑의 "
+  },
+  {
+   "id": "da0505:R00038",
+   "source_sha256": "73ac229cabfac277c315b4b0d1eb76959473af07f58c11d00bb82a06b250745a",
+   "ko": "데우스 마키나",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0505:T00161",
+   "source_sha256": "c02b59808c4fdb29f5687acea640de48a9f375f3da8a73801dcdcebd0f23cac7",
+   "ko": "기계신"
+  },
+  {
+   "id": "da0505:T00162",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  },
+  {
+   "id": "da0505:T00163",
+   "source_sha256": "01c47a4169f98e3ef464586f06683b4c17d02aed1891817a2152fbe1e247ebed",
+   "ko": "소실된 줄 알았던 "
+  },
+  {
+   "id": "da0505:R00039",
+   "source_sha256": "129b734068ac051fab63a1982ad9fa8530fcd502754172bac2077b43d3a0bac1",
+   "ko": "갑옷",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0505:T00164",
+   "source_sha256": "d94ededfdd015613317a5e2d858e7ed49acf3314d52c7f77ae219458fd34ae25",
+   "ko": "강철"
+  },
+  {
+   "id": "da0505:T00165",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  },
+  {
+   "id": "da0505:T00166",
+   "source_sha256": "83d024407c97667581bc91cf371c20c62dc8ff3508e530279983ef44903ab90f",
+   "ko": "그리고――그림자."
+  },
+  {
+   "id": "da0505:T00167",
+   "source_sha256": "45e1233858065fa96110c7f210bab13485ff448e0f8a3f01cc495ff283e71109",
+   "ko": "그것은 "
+  },
+  {
+   "id": "da0505:R00040",
+   "source_sha256": "9e01e7b843be92a9d32129c0661107e163b54042ac97ad03fcafa75e40d331b6",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0505:T00168",
+   "source_sha256": "389bbac1b256d36df12ea23e0ea5db3f3b5a4242c671c915091732e62596b8b4",
+   "ko": "어두"
+  },
+  {
+   "id": "da0505:T00169",
+   "source_sha256": "f67f8e15da80c8a3ee024004e79635f34eac7b760499233d671f15013c1f66ac",
+   "ko": "운 어둠을 머금은 인간의 모습."
+  },
+  {
+   "id": "da0505:T00170",
+   "source_sha256": "25f70afe60a35b68809888113bf7c32b3bade136cded65a09d357ee0a134ed8e",
+   "ko": "어둠에 물들면서도 여전히 『인간』으로 남아 있던 자의 등이다.\n\n\n　머나먼 날의 등이 그녀를 수호하듯 선다."
+  },
+  {
+   "id": "da0505:T00171",
+   "source_sha256": "73cb0d43a9d43adc385e8fcfd6b6549233eb3d3b3852758c359f8fe2c071c969",
+   "ko": "「……아즈랏드?」"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0505:R00001",
+   "kind": "ruby_decision",
+   "note": "표준 한자 음독 루비(汚穢/おわい) 생략."
+  },
+  {
+   "id": "da0505:R00002",
+   "kind": "ruby_decision",
+   "note": "표준 한자 음독 루비(焼滅/しょうめつ) 생략."
+  },
+  {
+   "id": "da0505:R00011",
+   "kind": "ruby_decision",
+   "note": "표준 한자 훈독 루비(蝶番/ちょうつがい) 생략."
+  },
+  {
+   "id": "da0505:R00014",
+   "kind": "ruby_decision",
+   "note": "표준 한자 훈독 루비(証明/あかし) 생략."
+  },
+  {
+   "id": "da0505:R00017",
+   "kind": "ruby_decision",
+   "note": "표준 한자 훈독 루비(真逆/まさか) 생략."
+  },
+  {
+   "id": "da0505:R00031",
+   "kind": "ruby_decision",
+   "note": "인칭대명사 훈독 루비(汝/なれ) 생략."
+  },
+  {
+   "id": "da0505:R00032",
+   "kind": "ruby_decision",
+   "note": "인칭대명사 훈독 루비(汝/な) 생략."
+  },
+  {
+   "id": "da0505:R00035",
+   "kind": "ruby_decision",
+   "note": "표준 한자 음독 루비(黯黒/あんこく) 생략."
+  },
+  {
+   "id": "da0505:R00037",
+   "kind": "ruby_decision",
+   "note": "표준 한자 음독 루비(焼滅/しょうめつ) 생략."
+  },
+  {
+   "id": "da0505:R00040",
+   "kind": "ruby_decision",
+   "note": "표준 한자 훈독 루비(冥/くら) 생략."
+  },
+  {
+   "id": "da0505:U00009",
+   "kind": "glossary_candidate",
+   "note": "미확정 용어 'ミスカトニック'에 대해 임시 표기 '미스캐토닉' 적용."
+  },
+  {
+   "id": "da0505:U00022",
+   "kind": "glossary_candidate",
+   "note": "미확정 용어 'アズラッド'에 대해 임시 표기 '아즈랏드' 적용."
+  },
+  {
+   "id": "da0505:U00034",
+   "kind": "glossary_candidate",
+   "note": "미확정 용어 'バルザイの偃月刀'에 대해 임시 표기 '바르자이 언월도' 적용."
+  }
+ ]
+}

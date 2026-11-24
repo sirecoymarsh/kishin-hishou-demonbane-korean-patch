@@ -1,0 +1,311 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0094_da1102",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da1102:T00213",
+   "source_sha256": "ed61eb6cf07b3c68f6a575baa29fd9d08e3d18def82c1e994585afefd86871eb",
+   "ko": "「자, 지금이야말로 원망을 담아 추궁하리라!\n　어째서냐!　어째서냐!　어째서란 말이냐!」"
+  },
+  {
+   "id": "da1102:T00214",
+   "source_sha256": "8f6f39e893dc3eb451b371dca35f2ce5e497b6269d9cd266007df7ca89379620",
+   "ko": "「――『어째서』라는 "
+  },
+  {
+   "id": "da1102:R00030",
+   "source_sha256": "33be91faf8ad1575e617a6fe3bd8f075e1302a1fdcac31d26c3f743aa70add8c",
+   "ko": "저주를",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1102:T00215",
+   "source_sha256": "e88845352db979c346334cbba2c147308225476182c0cc734d19dbe26ea752e5",
+   "ko": "말을"
+  },
+  {
+   "id": "da1102:T00216",
+   "source_sha256": "a9870dac132d5e4cac0fef508f5d12807090d96f45166e141b93b50038c45e31",
+   "ko": ",\n　　　　　저는 칼날로 바꿉니다」"
+  },
+  {
+   "id": "da1102:T00217",
+   "source_sha256": "0a33f0674907d903290341a3f80e3ac945be0abb87587cdf3b81d2515633ca30",
+   "ko": "「저는 마스터의 분노."
+  },
+  {
+   "id": "da1102:T00218",
+   "source_sha256": "5fb1ed3f33f7b5c10ea5927d56e984e05ea5942cbc51593cddd120fb7d478be5",
+   "ko": "저는 마스터의 아픔."
+  },
+  {
+   "id": "da1102:T00219",
+   "source_sha256": "213e9b3053651b62307675650419483c1a2088b18946850a3052aef2f21e6fbf",
+   "ko": "저는 마스터의 외침……」"
+  },
+  {
+   "id": "da1102:T00220",
+   "source_sha256": "7a928b792b667fe0f3b69553782c607458582961209c3eb7b47b11e9e0a348fc",
+   "ko": "조종실을 채운 피안개가 응고되어 실체를 맺는다."
+  },
+  {
+   "id": "da1102:T00221",
+   "source_sha256": "f2710651509090e40676d245991a558c882ad955dd6c3d110f2275d11e684165",
+   "ko": "붉은 혈괴가 암색으로 물든다."
+  },
+  {
+   "id": "da1102:T00222",
+   "source_sha256": "48ffeba41e684ccd0b7e00f1ec6cbae7ae74219c6b7b3b2816127af65c64b3b5",
+   "ko": "먹물을 흘려보낸 듯한 검은 머리카락."
+  },
+  {
+   "id": "da1102:T00223",
+   "source_sha256": "5a2f6386fdab23bc95f035a678b554a85dbbf7bf1011aab6456e740c0fbc0f1d",
+   "ko": "흑요석 같은 눈동자."
+  },
+  {
+   "id": "da1102:T00224",
+   "source_sha256": "b2b9ba716e8c64d3636131038e82c8fcb379e971e4e3fcc02444d93933938116",
+   "ko": "검은 드레스."
+  },
+  {
+   "id": "da1102:T00225",
+   "source_sha256": "3c417120f7f267ca2b212eaf4e4c3e759f70f71bc7063ea4dea958ee9d5cd435",
+   "ko": "그리고 피부만이 어둠 속에 떠오르듯 희다.\n\n　――현현하는 소녀의 모습."
+  },
+  {
+   "id": "da1102:T00226",
+   "source_sha256": "6ceec680fe83ce176fc4c378e8778a26df2f3ce53d6cedd40a40b1ca37bd1f2a",
+   "ko": "「――저는 마스터의 칼날」"
+  },
+  {
+   "id": "da1102:T00227",
+   "source_sha256": "9b1c8f2122242ba1efca1b8bbe8a22c3495510908de2097d38455f7122e33549",
+   "ko": "소년의 곁에 소녀가 다가와 기댔다."
+  },
+  {
+   "id": "da1102:T00228",
+   "source_sha256": "cd7345028133134b3aacbc4fe7f4906fb94faf2ceadd73155d65eb66d50e8bc6",
+   "ko": "일찍이 그러했듯이."
+  },
+  {
+   "id": "da1102:T00229",
+   "source_sha256": "ddfd363777689fe7c86feb8d80548ec46dc530b19a2a9f125cc68b8684282c2f",
+   "ko": "앞으로도 그러하듯이.\n\n\n　그 몸이 무의미한 환영일지라도, 소녀의 마음은 변하지 않는다.\n\n\n　소년은 소녀를 보지 않는다."
+  },
+  {
+   "id": "da1102:T00230",
+   "source_sha256": "e89ad1468b1427aaa50b0988f28b69ca31036dd5ff49b3d0b9dfeb4bd66aaa56",
+   "ko": "그곳에 있다는 것은 알고 있다."
+  },
+  {
+   "id": "da1102:T00231",
+   "source_sha256": "d942e082844a59691a8e8427c7cb62a7c8f54525f46501f9d8a1cb51b62e95fd",
+   "ko": "모든 것을 이해하고 있다."
+  },
+  {
+   "id": "da1102:T00232",
+   "source_sha256": "ef3ff3d32b49a4fa0f410a206fade9ed582003e59adbc7bbc7342c89bf20989b",
+   "ko": "그것은 신뢰보다 강하고, 확신보다도 확실한 신앙이다.\n\n　――지금이야말로 그는, 저 "
+  },
+  {
+   "id": "da1102:R00031",
+   "source_sha256": "faad4663917e9f697861dd8f8351f4b75876f086445f4735d2e147048b1329b2",
+   "ko": "데몬베인",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1102:T00233",
+   "source_sha256": "742b1339ee202fd7a35b5e5e869241e29979cf2ea1baa19418c84188716c9f4a",
+   "ko": "원적"
+  },
+  {
+   "id": "da1102:T00234",
+   "source_sha256": "d2cffca4432c0442de7a0c1a0102c2e8b0af7076ba5e95604219f0cbb26890ca",
+   "ko": "과 호각이 되었음을 안다.\n\n　하지만 그 전에 추궁하리라."
+  },
+  {
+   "id": "da1102:T00235",
+   "source_sha256": "c98381f052582a5de233a5982e3fda04ce9b65b15240c24c15a571b1dc260ef6",
+   "ko": "그렇다."
+  },
+  {
+   "id": "da1102:T00236",
+   "source_sha256": "e4c8334a17c918a26d119948b98f26d598c71d8919f19592b3ff52f3a7f99957",
+   "ko": "지금부터 던질 이 물음이야말로, 모든 절망의 시작인 것이다."
+  },
+  {
+   "id": "da1102:T00237",
+   "source_sha256": "376fe2edb5926b6b018995b608da458b13629195166dd9a38767cadecdf3206f",
+   "ko": "모든 증오의 근원인 것이다.\n\n　지금의 그는 백의 왕과 나란히 서는 흑의 왕이 아니다."
+  },
+  {
+   "id": "da1102:T00238",
+   "source_sha256": "13773a1bb3b31a6b75002d830b4bd60d67eb77122c08a1fd728c9972ec98d792",
+   "ko": "모든 주박에서 해방된 벌거벗은 영혼."
+  },
+  {
+   "id": "da1102:T00239",
+   "source_sha256": "0d54265dac3518c9e5ee9b31c948571f163256b808712314a6ea023d3b15dc49",
+   "ko": "이 세계에 삶을 받은, 의미 없는 군상 중 하나에 불과하다.\n\n　――환희와 증오와 통곡과 함께, 지금이야말로 외쳐라!"
+  },
+  {
+   "id": "da1102:T00240",
+   "source_sha256": "4422d4c2e8c6d3831c66123c3981e0e40a2856b1e43a57002a3b2e36d1c25d1e",
+   "ko": "「어째서!」"
+  },
+  {
+   "id": "da1102:T00241",
+   "source_sha256": "4422d4c2e8c6d3831c66123c3981e0e40a2856b1e43a57002a3b2e36d1c25d1e",
+   "ko": "「어째서!」"
+  },
+  {
+   "id": "da1102:T00242",
+   "source_sha256": "51ea7b9962f48564e943d9108dd5df892ff96949dcb15c0d0251b4a41fc2990c",
+   "ko": "「어째서――!\n　　　　짐을 낳았느냐!　"
+  },
+  {
+   "id": "da1102:R00032",
+   "source_sha256": "fe65050b6cf95368d85f30fd366c092a15824886d51defd754887d1e968f7491",
+   "ko": "・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1102:T00243",
+   "source_sha256": "13bd79ebb5dc52e292f86bb838926543075fcffc7d65b6fe40f6a61a074ba7b7",
+   "ko": "어머니"
+  },
+  {
+   "id": "da1102:T00244",
+   "source_sha256": "6560fad1b5299ec45c7562b1e825f123c87101dc289a1eb71426e443d34f4c8c",
+   "ko": "!」"
+  },
+  {
+   "id": "da1102:T00245",
+   "source_sha256": "d18d9564b9bcdb2070c948381771cfb5993f6d9372c7cc79f2700d7c3fc10e1c",
+   "ko": "「그 말로 부르지 마아아아아아아아아!」"
+  },
+  {
+   "id": "da1102:R00033",
+   "source_sha256": "f8b70b3a93b1dabbe28aa8882d03f50eebb9d2018c45653bf4d82521f2da9e57",
+   "ko": "아르카스／오레스테스／히노카구츠치",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1102:T00246",
+   "source_sha256": "1eda354250dd2965b93c6708f15d5284aa1f0f5a6ce9c9fa60a47ec3cbc8c2a0",
+   "ko": "자식은 어미를 죽여라"
+  },
+  {
+   "id": "da1102:T00247",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  },
+  {
+   "id": "da1102:R00034",
+   "source_sha256": "dcebfbddadb29ecd4b7449994ac7df4f8a6df4e500ebf8638ef04bfd9816772f",
+   "ko": "메데이아／알타이아／그레트헨",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1102:T00248",
+   "source_sha256": "1a1f691b50111ce8ccd0d6148fd8d88f734429796485875f4c62e092d94379d3",
+   "ko": "어미는 자식을 죽여라"
+  },
+  {
+   "id": "da1102:T00249",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  },
+  {
+   "id": "da1102:T00250",
+   "source_sha256": "e4e291c55e4c8f4543bf1176aa84755c8978b12e937a00a74d7e986d346a5262",
+   "ko": "태모는 죽음을 관장하고, 영웅은 태모를 죽인다."
+  },
+  {
+   "id": "da1102:T00251",
+   "source_sha256": "593a7180fa441d17f97ec37a0108bcebb2b6c5243a984d0c237afd3dfd9a9d24",
+   "ko": "――아아, 저주받은 어미와 자식이여."
+  },
+  {
+   "id": "da1102:T00252",
+   "source_sha256": "0096f37e57d6958919821772674551342d3c89c2f6e68a584785633360b38aa4",
+   "ko": "「간다 에셀드레이다, 나의 반신이여!\n　　　짐을 불태워 멸하는 공포와 함께 춤추어라!」"
+  },
+  {
+   "id": "da1102:T00253",
+   "source_sha256": "cba19bece529220faaf6eed9559dfc1d2daebb8f5f563f232d1a82b8f37efe5f",
+   "ko": "「예스, 마이 마스터……\n　　　언제까지고, "
+  },
+  {
+   "id": "da1102:R00035",
+   "source_sha256": "bc1c0b149614b98e3ca10c2f677a1f381207999e05b5a8ed910f69e456395047",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1102:T00254",
+   "source_sha256": "7c131eb6672b1f992456e1f3339a251444d3bb55f0ff39d42813d62fbb51e63a",
+   "ko": "어디"
+  },
+  {
+   "id": "da1102:T00255",
+   "source_sha256": "ceaeec2ca6e35db781c42b99e06b91fc120f36cc5c640455b7e156157a5fe878",
+   "ko": "까지고!」"
+  },
+  {
+   "id": "da1102:T00256",
+   "source_sha256": "00560260119f293954d2073da8cebce4eadf3c0318755c79d262f0527a715e06",
+   "ko": "……나는 아직 어머니의 태내에 있는 것이다."
+  },
+  {
+   "id": "da1102:T00257",
+   "source_sha256": "5a8b0f2cd5de94bb6534f6bbc72e19731822a6bff2ad38247cad272a6cb0af37",
+   "ko": "이런 무서운 「태아의 꿈」을 꾸며 몸부림치고 괴로워하고 있는 것이다……."
+  },
+  {
+   "id": "da1102:T00258",
+   "source_sha256": "94e17fa9cd9c725f03f5adad21d7317704fdcd87bb798004a6db88cb17e3651a",
+   "ko": "……그리하여 이제부터 태어남과 동시에\n　　　　　　　　　　수많은 사람들을 닥치는 대로 저주해 죽이려 하고 있는 것이다……."
+  },
+  {
+   "id": "da1102:T00259",
+   "source_sha256": "ae05794485bb24c39d1ceeadd7d70197afb4f1a366364f9ea35c3a562468caf7",
+   "ko": "……하지만 아직 아무도, 그런 일은 모르는 것이다……"
+  },
+  {
+   "id": "da1102:T00260",
+   "source_sha256": "865e64de34ff851f80863adef22d2b2bd847ee7375b04d7d6d55ce3ed1f37858",
+   "ko": "그저 나의 무시무시한 태동을, 어머니가 느끼고 있을 뿐인 것이다……."
+  },
+  {
+   "id": "da1102:T00261",
+   "source_sha256": "a4ce725e9d7501d6ec39a054c23b4a9236703adb903b0c557d189ab7b509af6f",
+   "ko": null,
+   "record_action": "preserve_source_bytes"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da1102:T00252",
+   "kind": "glossary_candidate",
+   "note": "미확정 용어집 항목 '에셀드레이다(エセルドレーダ)' 사용."
+  },
+  {
+   "id": "da1102:R00035",
+   "kind": "ruby_decision",
+   "note": "'何処(어디)'의 단순 훈독 루비('いずこ')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1102:T00261",
+   "kind": "source_defect",
+   "note": "원문 da1102.nps 1105행의 <A HREF=\"#リトライ１\" OPERATOR=\"\"\"> 따옴표 오타로 인해 엔진 명령어가 일반 텍스트 세그먼트로 추출됨. 게임 명령을 반환 텍스트에 넣지 말라는 지침 및 validate_response.py의 태그 금지 규칙에 따라 플레이스홀더로 남기고 이슈로 보고함. 빌드 단계에서 원문 명령어 그대로 복원 필요."
+  },
+  {
+   "id": "da1102:T00261",
+   "kind": "protected_engine_command",
+   "note": "원본 추출기에서 텍스트로 오분류된 엔진 명령. ko는 null이며 번역 삽입 대상에서 제외한다. contracts/contract.json의 원본 바이트 구간과 해시를 보존해야 한다."
+  }
+ ]
+}

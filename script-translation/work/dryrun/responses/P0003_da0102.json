@@ -1,0 +1,674 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0003_da0102",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0102:T00001",
+   "source_sha256": "dfa6849699e1af8156cd0ecb0e60ab154a97373265cccf0d481e8594ccf3ba9f",
+   "ko": "「온다…… 쿠로」"
+  },
+  {
+   "id": "da0102:T00002",
+   "source_sha256": "8ed1a78f96a0628a829d453a922039f17451a55fd08137db8449dbe717fd792b",
+   "ko": "「알고 있어, 알」"
+  },
+  {
+   "id": "da0102:T00003",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0102:R00001",
+   "source_sha256": "5962b52de32aecfebec50e25202014cad2c51a4285f82871626b0111751e003d",
+   "ko": "마기우스 스타일",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0102:T00004",
+   "source_sha256": "115c8719db52e427f76f6a32c59063be55f73953f407f85aa1b7fd56b372f0fb",
+   "ko": "술의 형태"
+  },
+  {
+   "id": "da0102:T00005",
+   "source_sha256": "6560fad1b5299ec45c7562b1e825f123c87101dc289a1eb71426e443d34f4c8c",
+   "ko": "!」"
+  },
+  {
+   "id": "da0102:T00006",
+   "source_sha256": "11b8c70160bfb549ecaea981ef11393e599133de7586c046caed788e60d11af1",
+   "ko": "「쿠로!　또 온다!」"
+  },
+  {
+   "id": "da0102:T00007",
+   "source_sha256": "22096887cf5fd82a010501dc7b76530e52366ff2576621c6ecb7034b903567fc",
+   "ko": "「큭!」"
+  },
+  {
+   "id": "da0102:T00008",
+   "source_sha256": "1135d874b76106bd6f726a7a375b92b66310936dd67cf8217559b0a495be620b",
+   "ko": "「큿…… 핫!　치이이익!」"
+  },
+  {
+   "id": "da0102:T00009",
+   "source_sha256": "694f3bae94d1e26823bdbe3e55d514a20c05a28e10bdc02ee79d31aa8e3ddb1a",
+   "ko": "「크투가!　이타콰!」"
+  },
+  {
+   "id": "da0102:T00010",
+   "source_sha256": "248cd15095131323ce90a984727a777d340973632aff973f5e8b9da9ecc8898a",
+   "ko": "「뒈져라!」"
+  },
+  {
+   "id": "da0102:T00011",
+   "source_sha256": "058dd1445cb4b899da04cc59b8ce8e68674c4eb74fab2c3888f425e38e9eb7af",
+   "ko": "「……후우」"
+  },
+  {
+   "id": "da0102:T00012",
+   "source_sha256": "6a0a738e8df5193cc84b86a6b54906f97c60899ea110b5f5b74c4bd8f2219560",
+   "ko": "「다친 데는 없느냐, 쿠로?」"
+  },
+  {
+   "id": "da0102:T00013",
+   "source_sha256": "3f79492efa89a1dd27bd1b4d3cfbc39a96d659af037182ea745115279a63ff7f",
+   "ko": "「아아, 괜찮아. 그나저나……」"
+  },
+  {
+   "id": "da0102:T00014",
+   "source_sha256": "77158abf1d8e9eaa5cc81b1c5bd692b9172148a0012bf9f7fcae1812457890b7",
+   "ko": "「또 "
+  },
+  {
+   "id": "da0102:R00002",
+   "source_sha256": "399541026b89787f76b6312375d21b42244869347cf836059cf9eba724bb4824",
+   "ko": "・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0102:T00015",
+   "source_sha256": "8e64c3889a630b7ab66c2690ddf4cf8f3b65047ce86ca8e6ad2293dcbc27143f",
+   "ko": "이것"
+  },
+  {
+   "id": "da0102:T00016",
+   "source_sha256": "082da869f95658c384850fa2f281d4b1db6a306af9a79c439b25a6ea1f8d5a17",
+   "ko": "인가……」"
+  },
+  {
+   "id": "da0102:T00017",
+   "source_sha256": "aa52d69d36682ec07b7a659cf221da0f38201508382accc4e5c7368d31126baf",
+   "ko": "다이쥬지 쿠로."
+  },
+  {
+   "id": "da0102:T00018",
+   "source_sha256": "7bbd2bbb16af5303b0c80166ee09f3c9f8cedcc3a57069dc1434b60669f60cbe",
+   "ko": "직업, 마도탐정."
+  },
+  {
+   "id": "da0102:T00019",
+   "source_sha256": "4538e7cf2d613f7dbb09508607a5146388fd099ac715fe6aad7774921ca8e1bd",
+   "ko": "뭐, 요컨대 오컬트 관련 사건을 다루는 해결사다.\n\n　그런 내가 요 몇 주 사이, 눈코 뜰 새 없이 바쁘다."
+  },
+  {
+   "id": "da0102:T00020",
+   "source_sha256": "b469b40e3c82ff48ee29ff1feb8df2ef71e7bf7d00ee7f2a66d11ef2c975362f",
+   "ko": "그 만악의 근원이…… 방금 때려눕힌 "
+  },
+  {
+   "id": "da0102:T00021",
+   "source_sha256": "0f58d8910d0cba9fda743988d985003b2f6dfa3bc861e5e87f480189c396fefd",
+   "ko": "이것이다."
+  },
+  {
+   "id": "da0102:T00022",
+   "source_sha256": "33fb164ab2f66d80798609d0d8b62d1007576e8318414ebb7968a15991675b80",
+   "ko": "「피……」\n\n　요 몇 주 사이 잇따르고 있는 괴이."
+  },
+  {
+   "id": "da0102:T00023",
+   "source_sha256": "c44ffc95acf73dcabc15b909dda51285a110235c89f92518b5ef0f9956735587",
+   "ko": "그런 일들을 일으킨 것은 이 녀석들이었다.\n\n　평소에는 부정형."
+  },
+  {
+   "id": "da0102:T00024",
+   "source_sha256": "a6ec4c63f12658d1fd813defb66a100ad2a599a1eb7901a0c0921db29b70aecb",
+   "ko": "하지만 때때로 이렇게 실체화해서, 거리 한복판에서 날뛰기 시작한다."
+  },
+  {
+   "id": "da0102:T00025",
+   "source_sha256": "d1b941bedab1da393157dbbb34a6b62025cc648765c27664f6dd71b4dae1c333",
+   "ko": "그 정체는 보시다시피――스스로의 의지를 갖고 움직이는, 피웅덩이다.\n\n　오늘 밤처럼, 벌써 몇 번이나 이 녀석들을 쓰러뜨렸다."
+  },
+  {
+   "id": "da0102:T00026",
+   "source_sha256": "729066628d92989b2d2bfa5ed878ea0ad12bf809b2a96c52568ea220a0cd408e",
+   "ko": "하지만 괴사건은 줄어들기는커녕 늘어만 갈 뿐이다."
+  },
+  {
+   "id": "da0102:T00027",
+   "source_sha256": "980643cc7763ad625dceb0216c8e608b0aa9d7b3d836bb4c92429c1de5528d46",
+   "ko": "「……뭐냐고, 이 녀석들」"
+  },
+  {
+   "id": "da0102:T00028",
+   "source_sha256": "472a86f11837861cf6d4d676149e315976d78a633d4d9e88ba6a1658273f3ba0",
+   "ko": "「글쎄다」"
+  },
+  {
+   "id": "da0102:T00029",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0102:R00003",
+   "source_sha256": "c37af4965d652ab94bf81fc2fcd93bdc51e27c6521bc1786a1120a578eac11cd",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0102:T00030",
+   "source_sha256": "df73b600b22b9d7677af4e0badf2228a9981db902f0bee23f9e024a665d89682",
+   "ko": "이 몸"
+  },
+  {
+   "id": "da0102:T00031",
+   "source_sha256": "90e8d0a64b0846dccd7c4338fe8d5a10cb314145abcb4195abeb58370159e571",
+   "ko": "도 모르겠구나」"
+  },
+  {
+   "id": "da0102:T00032",
+   "source_sha256": "817810a642de904fc9c8cfbd81a95d43777e5be9a757919de7aa7e42561c17aa",
+   "ko": "알의 지식으로도 정체불명인, 이번 괴이."
+  },
+  {
+   "id": "da0102:T00033",
+   "source_sha256": "ea030f1695dc5e887cd73b3a9868d9f8cc117704a66bf0cfd8a3b3989c6234ff",
+   "ko": "이토록 기묘한 일은 "
+  },
+  {
+   "id": "da0102:R00004",
+   "source_sha256": "b750c2ece644240b0f8e138a0602b89062dcd4cb934044a963e76bf34670b76d",
+   "ko": "・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0102:T00034",
+   "source_sha256": "2d25cf74d76ad537cfc9202e7986d20bd9942545287f5cf28d63e056f6a8c80e",
+   "ko": "이전 세계"
+  },
+  {
+   "id": "da0102:T00035",
+   "source_sha256": "8425c70667f26972540e8c5b0ca36c2936654282652c13b2eb3d800831feb04e",
+   "ko": " 이래 처음이다."
+  },
+  {
+   "id": "da0102:T00036",
+   "source_sha256": "95363813f4b78a8fab6e63feb09105d1d86445a3e2dc49e6ab209d2c72529180",
+   "ko": "「허나……」"
+  },
+  {
+   "id": "da0102:T00037",
+   "source_sha256": "a04c268fb558d43557c51c17cd4e7e8e8b5c014ee23194336ce333d360dd92e8",
+   "ko": "알이 무슨 말을 하려는지 알고 있다."
+  },
+  {
+   "id": "da0102:T00038",
+   "source_sha256": "bca2b45c5a1d17badf2d9283dd16c59fb6a84c3ec79dfe092404ef130026025c",
+   "ko": "그 점이 이 사건을 한층 더 "
+  },
+  {
+   "id": "da0102:R00005",
+   "source_sha256": "0c4f156009a7a1f1f914176f8c82f86d0d93831cdd42adb06f6fecd8d6a7ecb2",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0102:T00039",
+   "source_sha256": "3bd3de5492af89704948e96c4c77a1966a78bd312f18c647cd353125e665fc13",
+   "ko": "기괴"
+  },
+  {
+   "id": "da0102:T00040",
+   "source_sha256": "c87089b4e1e90fa032920c90da7cf837f29e1d9ae3ce5e242cfaa011750394fc",
+   "ko": "하게 만들고 있지만."
+  },
+  {
+   "id": "da0102:T00041",
+   "source_sha256": "63e082e8de5e4072155ec4f80be2c4e5496498a0e331dba42445c45d189f3405",
+   "ko": "「너와 『가까운』 느낌이 있다……라」"
+  },
+  {
+   "id": "da0102:T00042",
+   "source_sha256": "c854fa4e5883c6a7a0d572ea3836616bc9e2912323ef05a3bc625193a98ddf72",
+   "ko": "「음……」"
+  },
+  {
+   "id": "da0102:T00043",
+   "source_sha256": "6502e0a20fe0591424726b7c691cf9710c592217a167c9a099437a87fca068be",
+   "ko": "「테케리・리」"
+  },
+  {
+   "id": "da0102:T00044",
+   "source_sha256": "0686975677ccfde04592a61bca173aff47a757c63812da82aa2199b5b58ae73e",
+   "ko": "「어, 다녀왔어」"
+  },
+  {
+   "id": "da0102:T00045",
+   "source_sha256": "693ab35794f1e3542bef41ea5bcf48d6bdf06fa24911b44e868c18adb2b3611f",
+   "ko": "「집 보느라 수고했다. 던세이니」"
+  },
+  {
+   "id": "da0102:T00046",
+   "source_sha256": "24dfc36847a0eeea9f44ffa083c2a7c955850daea864d6468c4f5e64a92d924b",
+   "ko": "「하아…… 무지막지하게 피곤하네……」"
+  },
+  {
+   "id": "da0102:T00047",
+   "source_sha256": "5b2e4b5465cd8c1a437ee7b383e9ca1b57d32732be331fb84afcf868c2e5be19",
+   "ko": "돌아오자마자, 소파를 향해 쓰러진다."
+  },
+  {
+   "id": "da0102:T00048",
+   "source_sha256": "a9b6d64fedc86b9bbc7ed6ac1b4d8075db9e80d7aec9cfef100d32bac0f3d05f",
+   "ko": "진심으로, 지쳤다."
+  },
+  {
+   "id": "da0102:T00049",
+   "source_sha256": "60c9e337f9ff24539118a5589e4dbfe35f200de2db44f1c623c167a299b67d61",
+   "ko": "아무리 그래도 너무 바쁘다.\n\n　한가한 것보다는 나을지 몰라도, 이래서는 몸이 남아나질 않는다."
+  },
+  {
+   "id": "da0102:T00050",
+   "source_sha256": "06943671a5619f0b32fe39266c828cc128c22cc2417394a61463735f55e50a11",
+   "ko": "「하도우의 애송이에게\n　보고하지 않아도 되느냐?」"
+  },
+  {
+   "id": "da0102:T00051",
+   "source_sha256": "84caf34e1e64eb948a42cd491e7cf4a342fdfc1969d8a744024a619261a353c7",
+   "ko": "「오늘은 패스…… 내일 하면 됐지 뭐……」"
+  },
+  {
+   "id": "da0102:T00052",
+   "source_sha256": "cd4be8f32d0271907320c1b47dd01284a7d01c572104d6a576b0c6d380973f51",
+   "ko": "「칠칠치 못하기는」"
+  },
+  {
+   "id": "da0102:T00053",
+   "source_sha256": "6502e0a20fe0591424726b7c691cf9710c592217a167c9a099437a87fca068be",
+   "ko": "「테케리・리」"
+  },
+  {
+   "id": "da0102:T00054",
+   "source_sha256": "fb7c3a03282512cf9eb33220509b9ac253147b070cbb6c437d30e28be4776263",
+   "ko": "시끄러워, 인외 나부랭이들아."
+  },
+  {
+   "id": "da0102:T00055",
+   "source_sha256": "17d23beac38d3383dc8101e487bc7fbfbd4201207267c9368c6aaafc59ec41e2",
+   "ko": "애초에 보고를 한들, 언제나 똑같은 내용이잖아."
+  },
+  {
+   "id": "da0102:T00056",
+   "source_sha256": "5d2c177d99d66215b04dfa71cba291c4215bbfd7f25256276b741bf7e4bd5dda",
+   "ko": "무슨 질긴 악연인지――나는 이 세계에서도, 하도우 재벌의 전속 탐정\n노릇을 하고 있다.\n\n　『블랙 롯지』가 존재하지 않아도, 이 거리와 나를 둘러싼 환경은\n그다지 변하지 않았다.\n\n　달라진 점이 있다면――"
+  },
+  {
+   "id": "da0102:T00057",
+   "source_sha256": "9ad16b20631c8c720231317b9dc138a9e7ae124b2bc73daafd0e5bbf59a72e96",
+   "ko": "데몬베인이 없다는 것 정도려나.\n\n　그래."
+  },
+  {
+   "id": "da0102:T00058",
+   "source_sha256": "a86f660fe0df77c7c513c8276221663c879b6c3bc02592c1418ae7033a145f23",
+   "ko": "사신의 음모를 분쇄한 지금, 마를 끊는 검은 필요 없다."
+  },
+  {
+   "id": "da0102:T00059",
+   "source_sha256": "17544d5053a635ebac1216c3674de073acf46102a71299c5dcb6f6ee53f7807b",
+   "ko": "그 녀석의 기나긴 싸움은 마침내 끝난 것이다.\n\n　이제는 없는 데몬베인."
+  },
+  {
+   "id": "da0102:T00060",
+   "source_sha256": "61ad9317d8a7abe34556da9c69e0fda6a3b1e76573a36cdf0c27e762d81f509b",
+   "ko": "데몬베인을 잊은 세계.\n\n　문득 쓸쓸해질 때도 있다."
+  },
+  {
+   "id": "da0102:T00061",
+   "source_sha256": "f5ae94d1f4107cd5823ecc9506fde2155dda341e865d86668970cc0a3152640e",
+   "ko": "하지만 이걸로 된 거다."
+  },
+  {
+   "id": "da0102:T00062",
+   "source_sha256": "9f36175816865e4ddaa24d582863b6a690de87c497c532bb10df8b795fc4f930",
+   "ko": "세계는 미래로 향하고 있으니까."
+  },
+  {
+   "id": "da0102:T00063",
+   "source_sha256": "d256ea07ac9e8ba7642b56d2b830248ce745ae59133d20b24d683f91f697b280",
+   "ko": "……라니 원."
+  },
+  {
+   "id": "da0102:R00006",
+   "source_sha256": "ce357a8ce1dec7672f942ae831ff812d6039a6c161a65de3a3e212b7760a5593",
+   "ko": "센티멘털",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0102:T00064",
+   "source_sha256": "fd248d061327c1f2ad2d06610775e8e6b622a5d2ac9bf042fc7e537a011c8011",
+   "ko": "감상"
+  },
+  {
+   "id": "da0102:T00065",
+   "source_sha256": "c600e3d3cac6f22ebd2f59c27e70fb83155778318e171561df63d6f5093d8eea",
+   "ko": "에 젖어 있을 때가 아니다.\n\n　지금 문제는, 그 건이다."
+  },
+  {
+   "id": "da0102:T00066",
+   "source_sha256": "69d7dc7e7ecaf73fe4b38d630045fa5557ea37418faf028bcc9e67a862d1c0fc",
+   "ko": "그 퍼킹 피웅덩이 녀석들, 진짜로 골치 아파지기 시작했다.\n\n　지금까지는 밀린 적이 없지만, 그렇다고 결코 만만한 상대도\n아니다."
+  },
+  {
+   "id": "da0102:T00067",
+   "source_sha256": "36c227ba61d0eaae4c60d3e511d43cd61b23489fb117e27771b8e3ac90b2b758",
+   "ko": "「이대로는 끝이 없겠어」"
+  },
+  {
+   "id": "da0102:T00068",
+   "source_sha256": "9d9bdc8f67f646f3c6f40068eaaabd40c0256bd5229c56b8841aa8fe35f82913",
+   "ko": "「……원흉을 밝혀내지 않고서야 말이지」"
+  },
+  {
+   "id": "da0102:T00069",
+   "source_sha256": "a84537873434e761bd6cda1657abfc13908ffd49a71dff0e314679d974b2f31c",
+   "ko": "「음음음~」"
+  },
+  {
+   "id": "da0102:T00070",
+   "source_sha256": "3aa0b7fae584ced29449c04237d8e4896dd28b9e212a6df5cbf5690184d56e3e",
+   "ko": "「테케리・리~」"
+  },
+  {
+   "id": "da0102:T00071",
+   "source_sha256": "d45d3503d2164b8b7f4a7def9f2be300d54395f63f01fbc5e00a0533ae497d5e",
+   "ko": "원흉을 밝혀내려 해도 단서조차 없지만."
+  },
+  {
+   "id": "da0102:T00072",
+   "source_sha256": "2a409fa875b8bdf2b01103ba33bf5bded8e5e9e13de1024f4cd0795764511ce4",
+   "ko": "녀석들은 "
+  },
+  {
+   "id": "da0102:R00007",
+   "source_sha256": "4dae1fea52814eb01c1f6f5e611386bf5216d66ee363d7ec5b45ff3c60f0ceb9",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0102:T00073",
+   "source_sha256": "e576049bcdb98de738f142c446fc515b0c9df3d3eb8a39b9e9111ad0b06b8306",
+   "ko": "쓰러"
+  },
+  {
+   "id": "da0102:T00074",
+   "source_sha256": "75da15ecd8c8169502022227c8d2b8b40783bc0b0e79faaef3c0d86b8ef71a1f",
+   "ko": "져서 피웅덩이가 되었다 싶으면 곧바로 증발해서 사라져 버리니 말이다."
+  },
+  {
+   "id": "da0102:T00075",
+   "source_sha256": "ebb788724a7331a1e01702be3175e62c67c647c4c5d95a62d503adf7932b8ab2",
+   "ko": "「해 먹을 수가 없구만~……」"
+  },
+  {
+   "id": "da0102:T00076",
+   "source_sha256": "098a4e373f47ab3b1394f6e21d1ce133653d990727988d9be7131587f612f9b1",
+   "ko": "「에이, 그러니까 정신 좀 차리란 말이다」"
+  },
+  {
+   "id": "da0102:T00077",
+   "source_sha256": "b0e429faef2f691c5a8dd1c7d7c86255774df87b50ccfda75c01d3f7e385a29d",
+   "ko": "「정말이지 그 녀석들, 정체가 뭐야……」"
+  },
+  {
+   "id": "da0102:T00078",
+   "source_sha256": "99294f99b4015ebd5b6465ee4e374d1e782763f15dfb1dced42aa12a85e3dfd3",
+   "ko": "「그걸 조사하는 게 일이다…… 쯧」"
+  },
+  {
+   "id": "da0102:T00079",
+   "source_sha256": "5eee8cdcb75d098e519e4330128ca2ae860995e7e4c434adc958d08ad5622436",
+   "ko": "그렇게 말하며, 알은 내 옆을 지나쳐 간다."
+  },
+  {
+   "id": "da0102:T00080",
+   "source_sha256": "55fbc30c1ede7d85fd6180ace248d79bfcff2429815374e556bca93c74489ff5",
+   "ko": "「……응?　어디 가?」"
+  },
+  {
+   "id": "da0102:T00081",
+   "source_sha256": "dccef2883705141404ba8b84965e5cb19283afd9522f05b1ffcd6de531e29a0f",
+   "ko": "「피곤한 건 이 몸도 마찬가지다.\n　탕에 몸을 담그고 쉬련다」"
+  },
+  {
+   "id": "da0102:T00082",
+   "source_sha256": "c7aec07abfe9c44e305a6bb1e3f2555634b724e2c0ff89db01ca34177955b75d",
+   "ko": "그리 말하고선, 알은 욕실로 들어갔다."
+  },
+  {
+   "id": "da0102:T00083",
+   "source_sha256": "2a89e29220eaa3f5ee6a9ff24854135de3ccfc2ff24b12acd713cda6fc8c8cfb",
+   "ko": "방에는 나와 던세이니가 남겨진다."
+  },
+  {
+   "id": "da0102:T00084",
+   "source_sha256": "ddcf3996f56ca0e74f15e5e93d18a4e717e1517fb41346e1b9252839f19c3a94",
+   "ko": "「………………」"
+  },
+  {
+   "id": "da0102:T00085",
+   "source_sha256": "ff61dc17cb0b2c14e85985f7b6e63e0bd95e7dbc3d107998942956c2468a2193",
+   "ko": "「테케리・리?」"
+  },
+  {
+   "id": "da0102:T00086",
+   "source_sha256": "05d0f61aac8873f4b3f90930eed4d4e8ba33d76a3b48c8ae98c15d1ea3ef54c0",
+   "ko": "「어째서……\n　네놈도 들어오는 것이냐아아아――――앗!?」"
+  },
+  {
+   "id": "da0102:T00087",
+   "source_sha256": "b4059e132166d17621edb87cd3aa66514f0389d0b898e513b5cf0ab422651d7b",
+   "ko": "「돈마이 돈마이」"
+  },
+  {
+   "id": "da0102:T00088",
+   "source_sha256": "bdcbac0fd484e42cbadd65593ab31b08acc80df6751f3997b07916b9db8b7157",
+   "ko": "「뭐가 말이냐앗!?"
+  },
+  {
+   "id": "da0102:T00089",
+   "source_sha256": "f3685bda6a0c716543ed395142e23b006c1204869721c1403d1fa53ba26d6978",
+   "ko": "앗, 으응……읏!\n　이, 이놈, 이상한 데 만지지 마라앗!」"
+  },
+  {
+   "id": "da0102:T00090",
+   "source_sha256": "b95baa58681b4efbf01816e0a586d955d3f352ee5f7b227636f3e7d35db7d400",
+   "ko": "「어쩔 수 없잖아?　좁으니까」"
+  },
+  {
+   "id": "da0102:T00091",
+   "source_sha256": "6ad0e11d2f2e7ed0c0f0f0010e95d6df2b3715cddb2f580771b2a6deb207ea28",
+   "ko": "「어, 얼굴이 실실 풀려 있잖느냐!"
+  },
+  {
+   "id": "da0102:T00092",
+   "source_sha256": "3eff4c00f6d3be185cc29865c0b080de5430862495195eaeb21012eca699f8b5",
+   "ko": "아…… 아아앗…… 크으으응!\n　……또, 또오오오옷!」"
+  },
+  {
+   "id": "da0102:T00093",
+   "source_sha256": "e48d027146e977b1e34e0b2f886fd63cbdd7927c8fc03c7c324cac67126525f6",
+   "ko": "「부드럽네……」"
+  },
+  {
+   "id": "da0102:T00094",
+   "source_sha256": "1f324ecd3997f8cebaa1604d54068e808d2b7a4f1aa7b6acaa508f6f9f1ba784",
+   "ko": "「음미하듯 말하지 마라!"
+  },
+  {
+   "id": "da0102:T00095",
+   "source_sha256": "5c4f4a1e478ddd8f6ca57f126094e45d8a5a0751e5eadbd1bdaa9bb36f7e00af",
+   "ko": "우크읏…… 거, 거기는……\n　안 돼에에에……읏!」"
+  },
+  {
+   "id": "da0102:T00096",
+   "source_sha256": "5942486cf7250d934d31ab3b5dd5eeb967a89a9640de341e07cd979981dd3ac1",
+   "ko": "「큰일 났네. "
+  },
+  {
+   "id": "da0102:R00008",
+   "source_sha256": "4cef96814184d968c6441958f7ec2d8d0a3639d75d0dbc146f064d80c587b44a",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0102:T00097",
+   "source_sha256": "46d0c9543cdbcae87faab8e10ae229dc6c597916488824b7f623303e29d35349",
+   "ko": "서"
+  },
+  {
+   "id": "da0102:T00098",
+   "source_sha256": "afa17275a07b0b00d52dfc27f56d9d572ce64ac73e1fec2889668365630c529c",
+   "ko": " 버렸다」"
+  },
+  {
+   "id": "da0102:T00099",
+   "source_sha256": "3c9b59a556e0a264647a7222499d04d7ffbde4c38f5cd5bca084f461dcc3b3d2",
+   "ko": "「~~~~~읏!?」"
+  },
+  {
+   "id": "da0102:T00100",
+   "source_sha256": "9c7125029e1f16da86213f781e97e158014c67d3a1bdd1c1b437cb3d020924fa",
+   "ko": "「……알」"
+  },
+  {
+   "id": "da0102:T00101",
+   "source_sha256": "a58fd0658dd14e2be48bc71a820a3b62ec69d49fade8fa9094a1bd907b6db781",
+   "ko": "「이…… 이이…… 이이이~~~잇」"
+  },
+  {
+   "id": "da0102:T00102",
+   "source_sha256": "b34faf1111b5745e5d4433b0c9d963d38a05378616d88e3307e664b022e5308b",
+   "ko": "「?」"
+  },
+  {
+   "id": "da0102:T00103",
+   "source_sha256": "7125695850d715db7adff6ba7154a81d098f0a81c02453a8541f5ffef1f5dfcb",
+   "ko": "「……적당히 좀 하란 말이다앗"
+  },
+  {
+   "id": "da0102:R00009",
+   "source_sha256": "4ed65c2d40184ae3d89992a28d432385178de82be66d85a73b7c2ca233966547",
+   "ko": "색골",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0102:T00104",
+   "source_sha256": "b6434c991c6e2e6da3e10e968271b1df5ae1f3febaa8d5fbd6a2acd2cf297a1e",
+   "ko": "색정광"
+  },
+  {
+   "id": "da0102:T00105",
+   "source_sha256": "f8452cc962eb4d6bcad22f4c4dc61a2e9c1bf3dfbe09d16882a39d838a32ec27",
+   "ko": " 놈아아아아앗!」"
+  },
+  {
+   "id": "da0102:T00106",
+   "source_sha256": "e7d0e161033a9354149880b29bdb143fc7e99be6b0375fc921bb6f2704f020ac",
+   "ko": "「끄아아아아아아아아아앗!」"
+  },
+  {
+   "id": "da0102:T00107",
+   "source_sha256": "11110b1586bb4f693d66e020e04a69655489d2a8c317c9b69d4694094da5a600",
+   "ko": "「하아…… 하아…… 쓸데없이……\n　더 피곤해지잖느냐…… 얼간이 놈……읏」"
+  },
+  {
+   "id": "da0102:T00108",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0102:R00010",
+   "source_sha256": "4c6ff2461396974940d832f3f0ce2a7624668028f9bff88ca807b1e9da44a407",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0102:T00109",
+   "source_sha256": "3e1523afb5479b15a4eed1c01ffa752f1d3eccd290e6e9a41aa0278d9bff7eca",
+   "ko": "아야"
+  },
+  {
+   "id": "da0102:T00110",
+   "source_sha256": "16bc4ed434d6db323ad05b6e0f22b1c22c9537cbfdbbd8d27d275a68ee9d3142",
+   "ko": "야야………… 참 나,\n　새삼 부끄러워할 사이도 아니잖아…… 궁시렁궁시렁」"
+  },
+  {
+   "id": "da0102:T00111",
+   "source_sha256": "724bd096867ff5f584cb80a0367d4dd30466a2bd9eecccda593fb3cf4180ec6d",
+   "ko": "「이, 이 몸은 네놈처럼\n　방종하지 않단 말이다앗!」"
+  },
+  {
+   "id": "da0102:T00112",
+   "source_sha256": "2a18851868ae8ce721779507c7ed92cc1aad0675bf7341f934baed8028afb782",
+   "ko": "「예이예이. 그거 참 미안하게 됐수다."
+  },
+  {
+   "id": "da0102:T00113",
+   "source_sha256": "8369049565f9796f5370503dddecee3096ff25336c576b1076497d0096f4f4b2",
+   "ko": " 후우~~~~……」"
+  },
+  {
+   "id": "da0102:T00114",
+   "source_sha256": "ddcf3996f56ca0e74f15e5e93d18a4e717e1517fb41346e1b9252839f19c3a94",
+   "ko": "「………………」"
+  },
+  {
+   "id": "da0102:T00115",
+   "source_sha256": "ddcf3996f56ca0e74f15e5e93d18a4e717e1517fb41346e1b9252839f19c3a94",
+   "ko": "「………………」"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0102:T00008",
+   "kind": "speaker_inference",
+   "note": "패킷 내 speaker_jp는 None으로 추출되었으나, 원문 스크립트(da0102.nps 65행)의 화면 연출 태그 직전에 <VOICE NAME=\"九郎\" SRC=\"Da01\\0200600\">이 선언되어 있으므로 쿠로(九郎)의 대사로 번역함."
+  },
+  {
+   "id": "da0102:R00003",
+   "kind": "ruby_decision",
+   "note": "원문 '妾(わらわ)'의 루비 'わらわ'는 한자 '妾'의 1인칭 고어 훈독 안내이며, 본문(da0102:T00030)을 알 아지프의 고정 1인칭인 '이 몸'으로 번역하여 별도 루비가 불필요하므로 omit_redundant 처리함."
+  },
+  {
+   "id": "da0102:R00005",
+   "kind": "ruby_decision",
+   "note": "원문 '奇怪(キッカイ)'의 루비 'キッカイ'는 한자어의 음독 가타카나 표기이며, 본문(da0102:T00039)을 '기괴'로 번역하여 독음과 의미가 완전히 동일하므로 omit_redundant 처리함."
+  },
+  {
+   "id": "da0102:R00007",
+   "kind": "ruby_decision",
+   "note": "원문 '斃(たお)れて'의 루비 'たお'는 난독 한자 '斃'의 훈독 발음 안내이며, 본문(da0102:T00073)을 '쓰러(져서)'로 번역하여 의미가 온전히 전달되므로 omit_redundant 처리함."
+  },
+  {
+   "id": "da0102:R00008",
+   "kind": "ruby_decision",
+   "note": "원문 '勃(た)ってきた'의 루비 'た'는 한자 '勃'의 훈독 발음 안내이며, 본문(da0102:T00097)을 '서( 버렸다)'로 번역하여 의미가 온전히 전달되므로 omit_redundant 처리함."
+  },
+  {
+   "id": "da0102:R00010",
+   "kind": "ruby_decision",
+   "note": "원문 '痛(い)てて'의 루비 'い'는 한자 '痛'의 훈독 발음 안내이며, 본문(da0102:T00109~T00110)을 '아야야야'로 번역하여 의미가 온전히 전달되므로 omit_redundant 처리함."
+  }
+ ]
+}

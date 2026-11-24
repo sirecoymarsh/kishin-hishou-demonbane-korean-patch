@@ -1,0 +1,308 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0041_da0309",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0309:T00001",
+   "source_sha256": "b072123761e438451657b1922a6a6e65afcd6b12c4c029fa0ae85ce10a633fb1",
+   "ko": "또다시, 하얀, 풍경."
+  },
+  {
+   "id": "da0309:T00002",
+   "source_sha256": "6ed59d256aa44bb25d4df0f2b34453318faf4d2053a3b96978c8d59f819c343c",
+   "ko": "하얀, 침대와"
+  },
+  {
+   "id": "da0309:T00003",
+   "source_sha256": "c0b5b32a13e680a2752eca7d17cd21eb7bcfe12771b9e63b2b860f87ef718b49",
+   "ko": "하얀, 시트와"
+  },
+  {
+   "id": "da0309:T00004",
+   "source_sha256": "1730720c46e784e7edbfcc6e62161ac455e29a6ef787a2a7bbcfbef34f81ebc2",
+   "ko": "하얀, 천장과"
+  },
+  {
+   "id": "da0309:T00005",
+   "source_sha256": "b629d16df7c56263042b6c2c2a5ed5dfdb051519755cbc9f1f8d964b9d784fe3",
+   "ko": "하얀, 벽과"
+  },
+  {
+   "id": "da0309:T00006",
+   "source_sha256": "9bed4a3c26833caacb5c9fdac827561c7f749e0ac2aa1e47cbfaa2a9885e2550",
+   "ko": "하얀, 바닥과"
+  },
+  {
+   "id": "da0309:T00007",
+   "source_sha256": "6b4b84f4ff31eb0af2bf106d9eec30f118599686dc0f702408b1b92766e1b7c6",
+   "ko": "하얀, 커튼과――"
+  },
+  {
+   "id": "da0309:T00008",
+   "source_sha256": "f1b6f0f6e11794af3a0cb6d7eda994664455c18ceaeba95df81195fb4bf94cbd",
+   "ko": "――내 꿈은, 언제나, 하얗다."
+  },
+  {
+   "id": "da0309:T00009",
+   "source_sha256": "c6f92f14d1973be69670b0162d63ec0db166f7415e7a1030ef1eb0b49c27cb95",
+   "ko": "「어…… 뭐야…… 여기……?」"
+  },
+  {
+   "id": "da0309:T00010",
+   "source_sha256": "b365bab16f66a7570eb4a7171a6577d33298f42268620105dc40f67ce9fbb030",
+   "ko": "당신은, 또다시 이 하양 속에 선다."
+  },
+  {
+   "id": "da0309:T00011",
+   "source_sha256": "e4a5b7eaa8d7eba00417a0e358a62d81ff521a5f6bc2609cd840a0fc206ff14b",
+   "ko": "일찍이 보았던, 당신의, 원풍경."
+  },
+  {
+   "id": "da0309:T00012",
+   "source_sha256": "9d8671564c16ed4fcc208eed745e948e8d3c8168afa5108062d6037949043c70",
+   "ko": "결코 벗어날 수 없을 "
+  },
+  {
+   "id": "da0309:R00001",
+   "source_sha256": "6c792a3f91b2639d5e0408d3fb637e0ee57579601bed93e3d77cd6427a47f4fd",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0309:T00013",
+   "source_sha256": "4472a73077c6d34fb2dc67a8da86c52b107fdd7134d101784941f50f1fcb3765",
+   "ko": "터"
+  },
+  {
+   "id": "da0309:T00014",
+   "source_sha256": "a82a7358f16d535b71e2840c4c67547bff76f34e37dc3e1c2d9c9eec66dafba9",
+   "ko": "였던, 저주의 시작."
+  },
+  {
+   "id": "da0309:T00015",
+   "source_sha256": "c9a26fc7719bfe0963866df7b57b526d7086cca91985525355e8fe854ecf68cd",
+   "ko": "「나…… 어째서……」"
+  },
+  {
+   "id": "da0309:T00016",
+   "source_sha256": "1c3285ed7621909470e751e262310be4a9967894ca267252659ed6d33fc510f2",
+   "ko": "얼룩 하나 없는, 청결한 하양."
+  },
+  {
+   "id": "da0309:T00017",
+   "source_sha256": "ea27376fa22aeb55b15bbb271fb98029b04e51d2769615604d54e59a9b340ac8",
+   "ko": "미쳐 버릴 정도로, 결벽한 하양."
+  },
+  {
+   "id": "da0309:T00018",
+   "source_sha256": "3366645622a780903cf8cd1c9eb8394456502f6808ef6b411f162a3187d7ff45",
+   "ko": "백"
+  },
+  {
+   "id": "da0309:T00019",
+   "source_sha256": "62e1d9357aa40ffe9ff0a800cb7b5cd3dc8bf8b92617d240e9d95b4b022bbf72",
+   "ko": " 하양"
+  },
+  {
+   "id": "da0309:T00020",
+   "source_sha256": "0c365e840386fc0979d3c22e5f151f1c4deabcc792ccba085c47c5cb52245616",
+   "ko": " 하양."
+  },
+  {
+   "id": "da0309:T00021",
+   "source_sha256": "de019602668fa9ee79082841cfc4a93365a63de645b4d9928960831b27789d7c",
+   "ko": "「어째서…… 어째서……\n어째, 서…… 아…… 아아아아……앗」"
+  },
+  {
+   "id": "da0309:T00022",
+   "source_sha256": "bc7fb3d494e0e679cd7bbdf10cadb88f95873287ef64d5beabd939bb631bc4b3",
+   "ko": "――하얀, 감옥이다."
+  },
+  {
+   "id": "da0309:T00023",
+   "source_sha256": "85557043badd6865af96993dadaf0c3b2fe4dab62cf9be420df8bbdf7574f3e7",
+   "ko": "「아…… 아아아……」"
+  },
+  {
+   "id": "da0309:T00024",
+   "source_sha256": "49310691cc071cf89cc49ead47aa254138373d0086a284cc039627b594a86740",
+   "ko": "정체 모를 불안과 공포에 거세게 맥박 치는 심장.\n\n　\n　\n　\n　\n　\n　\n　\n　　　　　　　　　　　　　　　　당신은 가슴을 움켜쥐고, "
+  },
+  {
+   "id": "da0309:R00002",
+   "source_sha256": "86eb1d8872ed663a668f39ccbdaaf80221a9a2ca059dc7af9253eaaf61dcd6bb",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0309:T00025",
+   "source_sha256": "1e65da29355e8f917557e6675cef67913c5ebd8f8a3f21f686713600572a8c31",
+   "ko": "웅크"
+  },
+  {
+   "id": "da0309:T00026",
+   "source_sha256": "6aaed105226702014d0e2ce39fc09bf4699f41e481b776d5e73aaa1868ed9da0",
+   "ko": "린다."
+  },
+  {
+   "id": "da0309:T00027",
+   "source_sha256": "e9d31fc5d70f453926d1be6d752540f9000e9d29505eff3e1e020725a079ad1c",
+   "ko": "그렇다. 벗어날 수 있을 리 없다."
+  },
+  {
+   "id": "da0309:T00028",
+   "source_sha256": "9fb36df108310db46ca02f85e288178727779ea5437592867d443c15c2ac6602",
+   "ko": "설령 "
+  },
+  {
+   "id": "da0309:R00003",
+   "source_sha256": "3ec9b1831a404c0276b83cf791e2b477babd57cb88eebdf541dbbfb2dda87c3a",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0309:T00029",
+   "source_sha256": "bf6267da6077b6bedde993a6ec599e9d5474eef12284b6823ef8dd0facc08f40",
+   "ko": "시간"
+  },
+  {
+   "id": "da0309:T00030",
+   "source_sha256": "3f7d7e6571887afa6b88bdb5d1e5de0abace624c20016afea00bd6acfd0182ba",
+   "ko": "과 세계가 잊는다 해도, 이 하얀 감옥은 계속 존재한다."
+  },
+  {
+   "id": "da0309:T00031",
+   "source_sha256": "6cdd099880d33330bdfb510119007a71b740b3f9561f08e1d9b0e786c6f3c76f",
+   "ko": "「…………?」"
+  },
+  {
+   "id": "da0309:T00032",
+   "source_sha256": "89cbcba3ec0453da791601ca61e1b2328ff4fe411551f4aaec32b7323111f571",
+   "ko": "당신의 죄는, 이곳에, 계속 존재한다."
+  },
+  {
+   "id": "da0309:T00033",
+   "source_sha256": "6d4ddb9e9be62b46743c392f19b37262762aed9025042ecb14d22dda2b8fec22",
+   "ko": "「……얘들아?」"
+  },
+  {
+   "id": "da0309:T00034",
+   "source_sha256": "a52313ff6e6568b799858c0d014ce761dbde819014716cb7cef5a3ffdde56d53",
+   "ko": "자, 고개를 들어."
+  },
+  {
+   "id": "da0309:T00035",
+   "source_sha256": "94d04ce2917c2ffb71a3311884c64d186d7b9a0094db916ce55cbcd7c3aa2525",
+   "ko": "그리고 그 눈으로 똑똑히 보는 거다."
+  },
+  {
+   "id": "da0309:T00036",
+   "source_sha256": "c5739476ef667d38376f88450c096bf5c77c18cb68d84ad75d094372a5acf405",
+   "ko": "「――――!?」"
+  },
+  {
+   "id": "da0309:T00037",
+   "source_sha256": "d08bf215e6b119c68c0c7bb6e979e54a3f1aa6241b74c6a5b4a32e81d04b9e25",
+   "ko": "「얘들아아아앗!」"
+  },
+  {
+   "id": "da0309:T00038",
+   "source_sha256": "9e31dc74fbb720e5769d610ecdca17ab69509683397c12465baf0265b6d05497",
+   "ko": "당신은 달린다."
+  },
+  {
+   "id": "da0309:T00039",
+   "source_sha256": "a50a1899bfd1370055eb73697fd0e165204081a1e7e5923dff30091e02a4d34f",
+   "ko": "당신의 소중한 사람들이 있는 곳으로."
+  },
+  {
+   "id": "da0309:T00040",
+   "source_sha256": "4510bf02d393dedab356417652ac4e760b8b8879f6f8c3090626d672cc1542c8",
+   "ko": "숨을 헐떡이면서, 필사적으로."
+  },
+  {
+   "id": "da0309:T00041",
+   "source_sha256": "35609d4f6e2328d9b76dde12790a362a0a7d9f10a029e8aa3ff3fbc94ef6ff11",
+   "ko": " 필사적으로."
+  },
+  {
+   "id": "da0309:T00042",
+   "source_sha256": "2215a5f4b6ca59ba24ebeec489a56e1ac05c9237c01cc9276714894b14cb9f25",
+   "ko": "「조지!　콜린!　앨리슨!」"
+  },
+  {
+   "id": "da0309:T00043",
+   "source_sha256": "55e72a35170707bbae5dc109c9ba91544416a90a966e8a68a4ed4f16155a9bd7",
+   "ko": "하지만, 결코 다다르지 못한다."
+  },
+  {
+   "id": "da0309:T00044",
+   "source_sha256": "a4f8a26f759b6411a75148037799e682015d7adf368c156cfba678f7e221cbc3",
+   "ko": "당신과, 당신의 소중한 사람들 사이에는, 무한한 간극이 있다.\n\n　\n　\n　\n　\n　\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　제논의 "
+  },
+  {
+   "id": "da0309:R00004",
+   "source_sha256": "d02fb55e1948de9e6a7c01eeb56fb869a6751f354fe95bd5447de85d9f5d300e",
+   "ko": "패러독스",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0309:T00045",
+   "source_sha256": "c12373c5d90ec658130cf5a280f72b29b1e9ce88b9dd85abf868f0aca07319c3",
+   "ko": "저주"
+  },
+  {
+   "id": "da0309:T00046",
+   "source_sha256": "8919a55f592c9838df42e08533efb9859448a922d06b109ad6541812a986a7c0",
+   "ko": "다."
+  },
+  {
+   "id": "da0309:T00047",
+   "source_sha256": "6522f5efbd519dd18e2479cc22378ecf643e3d7000b75f22956a0ac346b30b53",
+   "ko": "절대로, 절대로, 다다를 수 없다."
+  },
+  {
+   "id": "da0309:T00048",
+   "source_sha256": "92c05b2be1d55c61ea4d911a45542934e3db760e94bd8c0cc3b1e91e2477062f",
+   "ko": "「사…… 살려…… 줘……」"
+  },
+  {
+   "id": "da0309:T00049",
+   "source_sha256": "dce5b03759abbf4b4c9db09454fa2d5a8be0001f44b56d96dad962372cf6d986",
+   "ko": "「우와아아아아아아아아아아!」"
+  },
+  {
+   "id": "da0309:T00050",
+   "source_sha256": "4025300149a89333e180f2093386c2ccc4364b80a69838c208a7670fae5eee07",
+   "ko": "당신은, 언제나 무력하다."
+  },
+  {
+   "id": "da0309:T00051",
+   "source_sha256": "4f1cab95516f70462a3c920b30189ea94f2ff8d01685fdcc8897f37393b317ea",
+   "ko": "있지, 그렇지……?"
+  },
+  {
+   "id": "da0309:T00052",
+   "source_sha256": "19fce97569e3ed103ec270ec57b7120898d767c23248db18c0e22ab8cce6ad0f",
+   "ko": "「라이카 누나」"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0309:R00001",
+   "kind": "omit_redundant",
+   "note": "한국어 '터'로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0309:R00002",
+   "kind": "omit_redundant",
+   "note": "한국어 '웅크린다'로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0309:R00003",
+   "kind": "omit_redundant",
+   "note": "한국어 '시간'으로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  }
+ ]
+}

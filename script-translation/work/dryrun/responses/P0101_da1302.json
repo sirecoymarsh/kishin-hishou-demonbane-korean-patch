@@ -1,0 +1,459 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0101_da1302",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da1302:T00001",
+   "source_sha256": "e0e73c4e25167a5839dac10c2d8829349c3aef76f53ba635d2b4b6208e30e702",
+   "ko": "그것 또한 하나의 선택이었다."
+  },
+  {
+   "id": "da1302:T00002",
+   "source_sha256": "083a671c3ba9465419a31e2b20223b613d98287f27f82f3a28b455a362f58845",
+   "ko": "그녀에게는 죄스럽고."
+  },
+  {
+   "id": "da1302:T00003",
+   "source_sha256": "ebca5f9d6b44ff9be7e3164d4fabe1167f688b8d817d0c278dc2479ef7249d0b",
+   "ko": "그에게는 자랑스럽고."
+  },
+  {
+   "id": "da1302:T00004",
+   "source_sha256": "51ce3b072fcae54411723390735f0f3dc668fa8a81ba717dfa3e3a30ff406790",
+   "ko": "하지만 그것은,"
+  },
+  {
+   "id": "da1302:T00005",
+   "source_sha256": "142d760b680831e7608b75883d3805d1af2185a1ede8160459ff3e22af27d7aa",
+   "ko": " 누구에게나,"
+  },
+  {
+   "id": "da1302:T00006",
+   "source_sha256": "543d50439af6a07a00329525e5ad217fbc7b7222fc4b610ead1993d923b308ef",
+   "ko": " 고결하고."
+  },
+  {
+   "id": "da1302:T00007",
+   "source_sha256": "2703511d43033cfb4980f92debad35e3c17659c4d271d0c10278d26bf0d4ca1d",
+   "ko": " 아름답게."
+  },
+  {
+   "id": "da1302:T00008",
+   "source_sha256": "aea2618453311c1e91ce130c5661171ed17b6d67e684ac94df13d33d6b17624a",
+   "ko": "하나의 신화가 태어나고, 두 사람의 일상이 상실되었다."
+  },
+  {
+   "id": "da1302:T00009",
+   "source_sha256": "3db118b8ce0f2eeb28d219be0e63ae42c006a2c5f1eb021a2796a57dd5d77962",
+   "ko": "그런 선택."
+  },
+  {
+   "id": "da1302:T00010",
+   "source_sha256": "0a408f92b38479dea440c91105c0c2053d3416b11eb9eb3a8ef1f1b81a3f344a",
+   "ko": "그런 선택의 끝에 기다리는 미래――――――"
+  },
+  {
+   "id": "da1302:T00011",
+   "source_sha256": "d643ef21f80f1097aff72eedbff1a1969ec53b876ceca735616ee9637e7569eb",
+   "ko": "「어이어이,\n　무슨 일이 벌어지고 있는 거야……!?」"
+  },
+  {
+   "id": "da1302:T00012",
+   "source_sha256": "7617a98bb91bf95d92332f621c64bfacc98bd4c4b4862025c5f1046acf4dd6ab",
+   "ko": "「시민 대피를!\n　빨리…… 우와아아아아앗!?」"
+  },
+  {
+   "id": "da1302:T00013",
+   "source_sha256": "faa9b19713f8505b13fe34283c7b405c771aab775762a790a0a4ef1dc55a43f2",
+   "ko": "「큰일이에요, 아가씨이!」"
+  },
+  {
+   "id": "da1302:T00014",
+   "source_sha256": "557be3fd531c0d32b7eea314119ae137daa4be3acb04f79b7a77ac118b4b24fd",
+   "ko": "「――대규모 "
+  },
+  {
+   "id": "da1302:R00001",
+   "source_sha256": "09fa673682a266196a91d31d5ed99736a1c7d85c250226fb9c9ec5b7006a27ba",
+   "ko": "아자토스",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1302:T00015",
+   "source_sha256": "5e7930e1744f03b9e3bc03391b9568c30347421f4c5cb7f73d17119a9e29ab74",
+   "ko": "자도자"
+  },
+  {
+   "id": "da1302:T00016",
+   "source_sha256": "d65e789537f25abd4649dc1ecc451a4e0caaf1a81320837691328fce2a6e88c7",
+   "ko": " 진동\n　을 관측했습니다!」"
+  },
+  {
+   "id": "da1302:T00017",
+   "source_sha256": "37c36f288f7e33fef8646c21350ce18ab1fa14b4f41a202c17b904b8d26d910c",
+   "ko": "「아마도 거대 질량의 "
+  },
+  {
+   "id": "da1302:R00002",
+   "source_sha256": "0a6913a2dc8ae0332b8f52c2af2b8ba393de9f3eadf414b31c14b16eeb20a45e",
+   "ko": "머티리얼라이즈",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1302:T00018",
+   "source_sha256": "6c4ff6b90b58f8384c2f1659ef50a8abd39c4a477a339d3c66198d3a9ee54b27",
+   "ko": "현현화"
+  },
+  {
+   "id": "da1302:T00019",
+   "source_sha256": "19e91375244963223e5894c601a6cc7028bf0e9754a9d7bb0fe4ef2b751a3423",
+   "ko": "……」"
+  },
+  {
+   "id": "da1302:T00020",
+   "source_sha256": "075b023178dd5185a594462d821f5ae0035890d927944f6bdcf409e515414c9f",
+   "ko": "「……읏!"
+  },
+  {
+   "id": "da1302:T00021",
+   "source_sha256": "bb09fdedbecd6c7d52f95e388933742feea82cb1bc18e13ba487cb89b9ef72dc",
+   "ko": "설마!」"
+  },
+  {
+   "id": "da1302:T00022",
+   "source_sha256": "f4bba34cd3a03e30b87b3cf77fd541b2902cc569281a6090ec7aefd2f5352e26",
+   "ko": "「아가씨!」"
+  },
+  {
+   "id": "da1302:T00023",
+   "source_sha256": "4bc79a1bb2df9cb66b117e3c81f82576c9fe831fca3c0a33c2c724164cdb5e7a",
+   "ko": "「따라와요, 윈필드!」"
+  },
+  {
+   "id": "da1302:T00024",
+   "source_sha256": "7c1cad8ea7f388313e41159df5960b67d5ee1290095cc4651a9fd4d12ad7801b",
+   "ko": "「틀림없어…… 저건……\n　"
+  },
+  {
+   "id": "da1302:R00003",
+   "source_sha256": "905b0efb2d86b7b8a5e1a663618fe8fda3615a10bcebe5973ba115f428f9c0e2",
+   "ko": "・・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1302:T00025",
+   "source_sha256": "4504d783887d5911b5315b27b86fea8ade28ff3bbc89819c3f3815ac68ed60d7",
+   "ko": "저 기체는"
+  },
+  {
+   "id": "da1302:T00026",
+   "source_sha256": "7ae88be5f257ae68dad9faf36cfe820559c1277b33395855fbc70f2368066d6f",
+   "ko": "……!」"
+  },
+  {
+   "id": "da1302:T00027",
+   "source_sha256": "4c67965555016791694c6b94b4bd2ea8aaff24fd3302aa69dd01c29d684fbf56",
+   "ko": "「데몬베인!」"
+  },
+  {
+   "id": "da1302:T00028",
+   "source_sha256": "3f9d95ca2f3a52b325cb4ca25979b3ed0e32dca3fbc2847296e9432f14455967",
+   "ko": "일찍이 큰 싸움이 있었다."
+  },
+  {
+   "id": "da1302:T00029",
+   "source_sha256": "f90ea5f2c5852dea8520748f88fce3f4b902eed21d31551b9b84e466d76c1260",
+   "ko": "그것은 무한히 이어지는 나선의 지옥.\n\n　일찍이 그것을 깨뜨린 자가 있었다."
+  },
+  {
+   "id": "da1302:T00030",
+   "source_sha256": "c473a9bbbf4dfda0c7cd0f0cc73eb3ba7cf5c441659ae1ec272dee6583c8520f",
+   "ko": "뒤틀린 세계는 시정되고, 시간은 미래를 향해 움직이기 시작했다.\n\n　그 싸움을 기억하고 있는 자 따위는 없다."
+  },
+  {
+   "id": "da1302:T00031",
+   "source_sha256": "2e57365f402edd3500499aff8882e8512e45b504f5bad6fc0b73549265c4748e",
+   "ko": "그와 그녀도, 올바른 이 세계에는 존재하지 않는다."
+  },
+  {
+   "id": "da1302:T00032",
+   "source_sha256": "696b60855b91236f2a3d84d51c5d21c5b37fd205efabf3f75a6b498cdfac5bc0",
+   "ko": "모든 것은 인과의 끝에 일어난 일인 것이다.\n\n　하지만……"
+  },
+  {
+   "id": "da1302:T00033",
+   "source_sha256": "3026c3a689e583b658961c92bf995b70c0d7529bc8fea0ac63f846c7f4709e48",
+   "ko": "「다이쥬지 씨!　알 아지프!」"
+  },
+  {
+   "id": "da1302:T00034",
+   "source_sha256": "f284d39bf15eba46dfa1fe16345486d2e65a794d9ee76b31231a30dde1c788b1",
+   "ko": "「어……?」"
+  },
+  {
+   "id": "da1302:T00035",
+   "source_sha256": "6da3d5db4c3954e56ef614ba8bbc8965856be2fdd61c121b397bd65890afc5db",
+   "ko": "――그곳은 "
+  },
+  {
+   "id": "da1302:R00004",
+   "source_sha256": "f0113e597c636dddb06c5e90c79907752cca474776a7a2e60ec6df1505749287",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1302:T00036",
+   "source_sha256": "edfbb07eed38400cd3cde78b6b82be57c4dab0bd6658bb4874397c10f5a5ef71",
+   "ko": "요람"
+  },
+  {
+   "id": "da1302:T00037",
+   "source_sha256": "93fd095c7003df146c146ca2fad3fcf9572571a85e4e792b4b7cfc03db393cbd",
+   "ko": "이었다.\n\n　강철의 "
+  },
+  {
+   "id": "da1302:R00005",
+   "source_sha256": "16f0743d46c22e155e0fc89238475a58824ee7da3dae1b471f1b1b1f7f2e9d07",
+   "ko": "콕핏",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1302:T00038",
+   "source_sha256": "8dc579f738134d3d31e9335b1a315dc0209a159fbbf38881e98c9a5e26d4e552",
+   "ko": "조종실"
+  },
+  {
+   "id": "da1302:T00039",
+   "source_sha256": "727a560026fd0d54f40752f429b4c40245a866efcc4b8bf5da51665e77978cf4",
+   "ko": "을 채운 양막의 바구니."
+  },
+  {
+   "id": "da1302:T00040",
+   "source_sha256": "54fd9402e313d64b59795913781ba833f526037b7f15ceccb8b2895373217ca6",
+   "ko": "작은 생명을 부드럽게 감싼다."
+  },
+  {
+   "id": "da1302:T00041",
+   "source_sha256": "5d02775e860569ab704a32b786521ee5b0a8e320f8282e6f3ad4b09a5939f82a",
+   "ko": "따스한 바다처럼."
+  },
+  {
+   "id": "da1302:T00042",
+   "source_sha256": "6502e0a20fe0591424726b7c691cf9710c592217a167c9a099437a87fca068be",
+   "ko": "「테케리・리」"
+  },
+  {
+   "id": "da1302:T00043",
+   "source_sha256": "20218add5916d2132e315f33c525f7201f4d46abbdbc45562fc996444270ef61",
+   "ko": "「……던세이니?」"
+  },
+  {
+   "id": "da1302:T00044",
+   "source_sha256": "04c0b508af7c8ff6f9119ee06aef79d25358e60fb86e766bf7fa4d0b4d234684",
+   "ko": "「어째서……\n　무슨 일이 있었던 거니, 던세이니?」"
+  },
+  {
+   "id": "da1302:T00045",
+   "source_sha256": "d04825bde55ce0be00885ee9bb72fd569e6eabd4eb2afd297205c81b2485bacb",
+   "ko": "「아가씨…… 안에」"
+  },
+  {
+   "id": "da1302:T00046",
+   "source_sha256": "a0faa5b31b269fc248e6dee648b8dcde59ad4944b2a939e36b0082854a48c974",
+   "ko": "「어……?」"
+  },
+  {
+   "id": "da1302:T00047",
+   "source_sha256": "7f9d3f3d9b4fa83dfed803454f79a6a99713764081bca850e7d1d291a7330ba6",
+   "ko": "지키고 있었다."
+  },
+  {
+   "id": "da1302:T00048",
+   "source_sha256": "eda7865cf5f18135053362fe51dbbcd31dcd3de115ac99ea08bda2805e318791",
+   "ko": "부정한 종족의 "
+  },
+  {
+   "id": "da1302:R00006",
+   "source_sha256": "a028cd33f82b099ef6e53c895a5336085503d5802b863351146056ff5f751eca",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1302:T00049",
+   "source_sha256": "af6e5c7a36ba501d4f865ee2b39d160e3d73b1c8d5f4bee915206443f0ae2797",
+   "ko": "후예"
+  },
+  {
+   "id": "da1302:T00050",
+   "source_sha256": "19ef059f5eebff9016aa21e5c851d64cbabfa43227ffa6ac2e07230220f53300",
+   "ko": "인 그 존재는, 자신의 품 안에 안은\n　작은 고동을 한결같이 지키고 있었다.\n\n　그것이 위대한 신에게 부여받은 숭고한 사명이라도 되는 것처럼……"
+  },
+  {
+   "id": "da1302:T00051",
+   "source_sha256": "31b2895e50ef45f8c584c2bffcc593892a9b06bb255793b450e0107fec6ca541",
+   "ko": "아니, 그것은 아니다.\n\n　그것은 분명 성약이다."
+  },
+  {
+   "id": "da1302:T00052",
+   "source_sha256": "982e98dccf990184b6fb311a2ae7d82bd62df55e61e89c100917c03baffba2a6",
+   "ko": "소중한 사람들과의, 소중한 "
+  },
+  {
+   "id": "da1302:R00007",
+   "source_sha256": "4074bfe879ea6b405c24f6ccc3cca18f4ddd750487e7ea547d2a05ee46e2f06d",
+   "ko": "약속",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1302:T00053",
+   "source_sha256": "1bf6d11bef33406ebefe8c0b36b45938bef0d8a14708f821c07f87bbe4d1fbda",
+   "ko": "성약"
+  },
+  {
+   "id": "da1302:T00054",
+   "source_sha256": "8919a55f592c9838df42e08533efb9859448a922d06b109ad6541812a986a7c0",
+   "ko": "이다."
+  },
+  {
+   "id": "da1302:T00055",
+   "source_sha256": "ebe64b364943def1801dedfd4b1ac96418c22b3c64e51bb561ea9ee8595ac994",
+   "ko": "신뢰와 우정으로 맺어진, 피가 통하는 진정한 유대다.\n\n　유대를 마음에 품고 생명을 지키는 자를, 어찌 부정하다고 부를 수 있으랴?"
+  },
+  {
+   "id": "da1302:T00056",
+   "source_sha256": "4280f58a4e380a07bf590b3425718f16885165c25d92fff5503524439c15fdc0",
+   "ko": "어둠에서 생겨난 "
+  },
+  {
+   "id": "da1302:R00008",
+   "source_sha256": "7f627e12807378e3a610599809549d79192128f67c97cc6b165b04939faa5de0",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1302:T00057",
+   "source_sha256": "4a558371f938b01d790207375865ed101b0826bdbda2e46b552b7910337d527a",
+   "ko": "존재"
+  },
+  {
+   "id": "da1302:T00058",
+   "source_sha256": "2b45d78186908abb5251030cd2180c65b3e12b506e07b7997b20868aedd6db90",
+   "ko": " 모두가 더럽혀져 있는 것은 아니다."
+  },
+  {
+   "id": "da1302:T00059",
+   "source_sha256": "a86d338415767f029ededce2a0f9b031d33daabc909638f91dbb9dd5f5978985",
+   "ko": "저주받은 "
+  },
+  {
+   "id": "da1302:R00009",
+   "source_sha256": "7f627e12807378e3a610599809549d79192128f67c97cc6b165b04939faa5de0",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1302:T00060",
+   "source_sha256": "4a558371f938b01d790207375865ed101b0826bdbda2e46b552b7910337d527a",
+   "ko": "존재"
+  },
+  {
+   "id": "da1302:T00061",
+   "source_sha256": "0c4e70179df38adae058ddf1b26efb1de7f82501c9a32a9c4ff7225ad5dfaf91",
+   "ko": " 모두가 영혼의 고결함을 모르는 것도 아니다."
+  },
+  {
+   "id": "da1302:T00062",
+   "source_sha256": "fd3b280ed6efa0601763464a155f7b410c6938494090363cff9fdb6403320ad5",
+   "ko": "「……아기?」"
+  },
+  {
+   "id": "da1302:T00063",
+   "source_sha256": "6502e0a20fe0591424726b7c691cf9710c592217a167c9a099437a87fca068be",
+   "ko": "「테케리・리」"
+  },
+  {
+   "id": "da1302:T00064",
+   "source_sha256": "ca40ff33cb4797c26744717b018778c522db39acfabfb13fac0c10aa8c010005",
+   "ko": "던세이니에게 건넨 편지."
+  },
+  {
+   "id": "da1302:T00065",
+   "source_sha256": "ba559dcd87e1f98cb8cf884bf92c57ae6fde7ffb5e0cc15a5da788938a7f0327",
+   "ko": "거기에는 눈에 익은 글씨로 이렇게 적혀 있었다."
+  },
+  {
+   "id": "da1302:T00066",
+   "source_sha256": "f4afed304a8101e52a158bd81b18e139bb6313aad4a2d8b57a30d0980ccfbc1b",
+   "ko": "――이 아이를 부탁한다.\n　\n　　　　　　　　　　　　　　　　　「명명　다이쥬지 쿠자쿠」"
+  },
+  {
+   "id": "da1302:T00067",
+   "source_sha256": "3327a454d781209b0e7854ff7594ce6bdc5c0106c1e3ba5660ccd42071b15de2",
+   "ko": "그것은 인과를 넘어 맡겨진 생명."
+  },
+  {
+   "id": "da1302:T00068",
+   "source_sha256": "7dafdc1dfd240460097ea04496c28496aa549e121b750a44113bff76226f9fb2",
+   "ko": "이제 이 세계에는 없는 그와 그녀가, 분명히 존재했다는 "
+  },
+  {
+   "id": "da1302:R00010",
+   "source_sha256": "e6625ad31b3851e5f19784330b7627b648daa73e9931be5f189e4961fc56d6cc",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1302:T00069",
+   "source_sha256": "ec80373ff49efd335069303d77bcce11291cc32f493991b4de67ddac8dda9af2",
+   "ko": "증명"
+  },
+  {
+   "id": "da1302:T00070",
+   "source_sha256": "7f332cfc63c615beddc6dc2d43260fb0d3317212aa94a474a71031ba415aa382",
+   "ko": ".\n\n　\n　\n　\n　\n　　　　　　　그것은,"
+  },
+  {
+   "id": "da1302:T00071",
+   "source_sha256": "3e4c6577a609c2e1c8d789142ea10ef3827485a6bda2ae9cee36f86d26dc05fb",
+   "ko": "어느 하나의 선택의 끝에 있었던,"
+  },
+  {
+   "id": "da1302:T00072",
+   "source_sha256": "49702f5fb158b2e18235794a4ff86e80321431e585cb9466a9c63eba5f792e96",
+   "ko": "또 하나의 미래의 이야기."
+  }
+ ],
+ "issues": [
+  {
+   "id": "da1302:T00066",
+   "kind": "glossary_candidate",
+   "note": "미확정 용어집 항목 '쿠자쿠(九朔)' 사용."
+  },
+  {
+   "id": "da1302:R00004",
+   "kind": "ruby_decision",
+   "note": "'揺籃(요람)'의 단순 훈독 루비('ゆりかご')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1302:R00006",
+   "kind": "ruby_decision",
+   "note": "'裔(후예)'의 단순 훈독 루비('すえ')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1302:R00008",
+   "kind": "ruby_decision",
+   "note": "'存在(존재)'의 단순 훈독 루비('もの')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1302:R00009",
+   "kind": "ruby_decision",
+   "note": "'存在(존재)'의 단순 훈독 루비('もの')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1302:R00010",
+   "kind": "ruby_decision",
+   "note": "'証明(증명)'의 단순 훈독 루비('あかし')이므로 omit_redundant 처리."
+  }
+ ]
+}

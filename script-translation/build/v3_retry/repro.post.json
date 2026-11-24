@@ -1,0 +1,37 @@
+{
+ "ported": [
+  "script\\da0100.nps",
+  "script\\da0205.nps",
+  "script\\da0314.nps",
+  "script\\da0407.nps",
+  "script\\da0506.nps",
+  "script\\da0606.nps",
+  "script\\da0710.nps",
+  "script\\da0803.nps",
+  "script\\da0902.nps",
+  "script\\da1002.nps",
+  "script\\da1102.nps",
+  "script\\da1204.nps",
+  "script\\da1320.nps",
+  "script\\da1401.nps"
+ ],
+ "save_choices": {},
+ "gameover_first": [
+  "script\\da0205.nps",
+  "script\\da0314.nps",
+  "script\\da0407.nps",
+  "script\\da0506.nps",
+  "script\\da0606.nps",
+  "script\\da0710.nps",
+  "script\\da0803.nps",
+  "script\\da0902.nps",
+  "script\\da1002.nps",
+  "script\\da1102.nps",
+  "script\\da1204.nps",
+  "script\\da1320.nps",
+  "script\\da1401.nps"
+ ],
+ "changed_files": 113,
+ "save_prompts": 0,
+ "out_sha256": "16737487DAC01DE36E8BE7194A6E3AE19361A4B1AC4198F871B0C1AF73680585"
+}

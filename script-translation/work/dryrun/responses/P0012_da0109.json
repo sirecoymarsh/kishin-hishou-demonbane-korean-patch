@@ -1,0 +1,13 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0012_da0109",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0109:T00160",
+   "source_sha256": "4a9f1dd8d954caf5c546278717d9134885e131da46e46669e4c1b28d44f9500a",
+   "ko": "「네노오오오오오옴!」"
+  }
+ ],
+ "issues": []
+}

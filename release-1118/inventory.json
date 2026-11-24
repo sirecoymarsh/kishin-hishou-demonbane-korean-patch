@@ -1,0 +1,7260 @@
+{
+"game": "F:\\AI\\khd-latest-game",
+"rows": [
+{
+"rel": "0advdata.pak",
+"size": 207153,
+"sha256": "733379b4fcc532ce1fb8b6c148c1667165ed386bbad7f26195b0cd386366e2b1",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.956
+},
+{
+"rel": "0cg.pak",
+"size": 4084653,
+"sha256": "aa599d35af292f019741de41f12ddaf56e46d140c21bc0f4712634b304668f92",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.964
+},
+{
+"rel": "0continue_ko.pak",
+"size": 120478,
+"sha256": "20e6c27ae67505ac97d56ab97d48f82e38e94c2a2873825530e013aa7c65b1f1",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.885
+},
+{
+"rel": "0finishers_list.pak",
+"size": 1574936,
+"sha256": "6bb45d0c9f6979af82f65ad3e91481f1c20320788e3d0e3a8ee5630810e2b1fd",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.813
+},
+{
+"rel": "0freefight_continue.pak",
+"size": 8265,
+"sha256": "40a73e5aac9284ee0d708fa9b171bc6ae79b558ef9acfcfda23678e8d2f7c126",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.987
+},
+{
+"rel": "0logo.pak",
+"size": 918582,
+"sha256": "3087603b5967feab457eeb4261849fb0fc75b738a6ad2ce536dff5c2897d08f8",
+"status": "ship",
+"since": "changed_since_1030",
+"ratio": 1.0
+},
+{
+"rel": "0lore.pak",
+"size": 1708218,
+"sha256": "bc060eaee7dced459935bd911cca7fb1f640ed6ea5303f8a159030fde890fc32",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.922
+},
+{
+"rel": "0replay.pak",
+"size": 174627770,
+"sha256": "9430d3f8c05ee50b28198747fe42ced549f78dcaf7928c0ddb36c010cd08313b",
+"status": "ship",
+"since": "changed_since_1030",
+"ratio": 0.941
+},
+{
+"rel": "0replay.pak.before_chant",
+"size": 27721002,
+"status": "exclude",
+"why": "옛 판·백업·덤프"
+},
+{
+"rel": "0replay.pak.before_chant2",
+"size": 27721002,
+"status": "exclude",
+"why": "옛 판·백업·덤프"
+},
+{
+"rel": "0replay.pak.before_duel_359FA4F9",
+"size": 23316938,
+"status": "exclude",
+"why": "옛 판·백업·덤프"
+},
+{
+"rel": "0replay.pak.before_layout_menu",
+"size": 27720903,
+"status": "exclude",
+"why": "옛 판·백업·덤프"
+},
+{
+"rel": "0retry_last.pak",
+"size": 113232,
+"sha256": "cc6ef7b3ecd5baff24edef49a6f2ad3cdb50607b4f28019aa1cc2aa3f44e7170",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 1.0
+},
+{
+"rel": "0sound.pak",
+"size": 272270,
+"sha256": "d258380b9d77c2fa686e292711d15a1e5453b8348a5570726f61814363a5dc99",
+"status": "base"
+},
+{
+"rel": "0system.pak",
+"size": 10606,
+"sha256": "5b327f8ad0468bac126a21c690e8b947700bc12124396018dd168a26139de917",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.41
+},
+{
+"rel": "0system.pak.before_restore.bak",
+"size": 10602,
+"status": "exclude",
+"why": "옛 판·백업·덤프"
+},
+{
+"rel": "0voice.pak",
+"size": 1363191,
+"sha256": "2009fce8b07c4ba8a60f82ad7820879a898e5b54e58d16372e1393508885ec94",
+"status": "base"
+},
+{
+"rel": "_compat_direct.cmd",
+"size": 129,
+"status": "exclude",
+"why": "개발용 실행 cmd"
+},
+{
+"rel": "_compat_launch.cmd",
+"size": 138,
+"status": "exclude",
+"why": "개발용 실행 cmd"
+},
+{
+"rel": "advdata.pak",
+"size": 10330885,
+"sha256": "dc1945671b7e04d5b8420f306978a3d806b527060e3d5a140175e012161b6854",
+"status": "base"
+},
+{
+"rel": "autobattle/adv/all_end.png",
+"size": 734663,
+"sha256": "eed04c9a9344a244f76ac432927fc64f2447138798c924302b7d9ce9ad49d96f",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.996
+},
+{
+"rel": "autobattle/adv/cg_back.png",
+"size": 847518,
+"sha256": "13c6a70a4cf55b00e9bde8a5baef4bf85a267fad356da8f03a5ff0e429d1b705",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.0
+},
+{
+"rel": "autobattle/adv/con_back.png",
+"size": 1097770,
+"sha256": "1bde2543c5b0cf4fd45d9004eb2d46b645128ec0366ec94c73c1557740109ad7",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.0
+},
+{
+"rel": "autobattle/adv/con_back02.png",
+"size": 848557,
+"sha256": "37c5329dd5413760564b3ca93889c78ebede921968ac78fe0418cf0b282bfad2",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.0
+},
+{
+"rel": "autobattle/adv/con_back03.png",
+"size": 777261,
+"sha256": "e5d2e37e003e5ae9dd13ffc054e59cf2aad73744bb2e94cb4b7d593915358562",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.0
+},
+{
+"rel": "autobattle/adv/extraback.png",
+"size": 817739,
+"sha256": "092fc4cece3b4065287aead74a63a2d49316522fdc50effad776dfe6a2394a54",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.0
+},
+{
+"rel": "autobattle/adv/extraback2.png",
+"size": 777392,
+"sha256": "9a39a89cb0fd68e12891d3244ae5158a604ca480baf4c0de804de4ae6ddc7db6",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.0
+},
+{
+"rel": "autobattle/adv/freefight-back.png",
+"size": 593473,
+"sha256": "5bc76f5601e6cb229b55ad130117bfc922bcb3e939e7bf119ddb0de64c6df56e",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.986
+},
+{
+"rel": "autobattle/adv/gameover.jpg",
+"size": 353492,
+"sha256": "34af40dd60e13cc997cd832ed4bb7b702bee229e6a078ad1be9520dfbc0c1d9e",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.0
+},
+{
+"rel": "autobattle/adv/press_start_screen.png",
+"size": 371035,
+"sha256": "34b6a767a438067467cfe341645e811531bbb1fc90921f2d3a9ba5b5bdb03772",
+"status": "ship",
+"since": "changed_since_1030",
+"ratio": 0.999
+},
+{
+"rel": "autobattle/adv/press_startback.png",
+"size": 410577,
+"sha256": "2c74facf80da8a0d9f81d87f2b03875750da826e7b139256c6d7475bc5a5c14b",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.99
+},
+{
+"rel": "autobattle/adv/retrylast_real.png",
+"size": 357832,
+"sha256": "f98e2ec48b4ef95c3d01b88b4ce331438fced6ddfcb4c31822cff1e782b618de",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 1.0
+},
+{
+"rel": "autobattle/adv/retrylast_synth40.png",
+"size": 470049,
+"sha256": "7ccf2cc775c5557429666d5d301628706f3d9d1381b3183856b3e98bf186fb02",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 1.0
+},
+{
+"rel": "autobattle/adv/retrylast_synth60.png",
+"size": 412452,
+"sha256": "d2421ce4d48286b15261f0a457dacecaf1fb631b8f0b84b96d5c90be35926d1f",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 1.0
+},
+{
+"rel": "autobattle/adv/rp_finish.png",
+"size": 272027,
+"sha256": "5e0c1b99cce8daa80e08383e6ad50a744e50176bbbbe4be9c38f6a6a1464c148",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.96
+},
+{
+"rel": "autobattle/adv/rp_story_c00.png",
+"size": 248106,
+"sha256": "e0f54d32d272b31dd4b5bfc9be17501002c980785ad8dd2815880ae8653990f6",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.0
+},
+{
+"rel": "autobattle/adv/rp_story_c01.png",
+"size": 208615,
+"sha256": "dedfee3f34bea87fabb6d28d81a784bb53dde59a0e8cf033c94df168c748a71f",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.999
+},
+{
+"rel": "autobattle/adv/rp_story_c01p2.png",
+"size": 215132,
+"sha256": "8c06cd27f8b559e8473d7d7ccd99f31c21b70836e622ea602377d68af0059f63",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.999
+},
+{
+"rel": "autobattle/adv/rp_story_c02.png",
+"size": 232658,
+"sha256": "e6865b04ff25edabc30241aea5759a7e306c39351cb36c46e0c4a488e323554e",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.0
+},
+{
+"rel": "autobattle/adv/rp_story_c03.png",
+"size": 209139,
+"sha256": "0e4db7fd45646a9f7b881b32f3cc62c167fa8f6a78a4e2ab77aae74f373a46b6",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.999
+},
+{
+"rel": "autobattle/adv/rp_story_c03p2.png",
+"size": 236871,
+"sha256": "dcdf90f169fd0d25c29ef2406c9f9c923eff8e56c20c2547c527990fee7546a6",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.0
+},
+{
+"rel": "autobattle/adv/rp_story_c04.png",
+"size": 226244,
+"sha256": "40df23a671c37301514b9afd07cae6d7fa88cf4061eff2709eae6e275364cf61",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.999
+},
+{
+"rel": "autobattle/adv/rp_story_c05.png",
+"size": 232045,
+"sha256": "eaf1f64a3d8df7331fa73a234f74e9cfc728e9f7ac14a6bc61a5454b74951f9b",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.0
+},
+{
+"rel": "autobattle/adv/rp_story_c06.png",
+"size": 232296,
+"sha256": "492351b2caa5abf0ace1c54809f82a8a18a1df6ccd98cc5f1a39308447a6b6e4",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.0
+},
+{
+"rel": "autobattle/adv/rp_story_c07.png",
+"size": 207943,
+"sha256": "4395ab84f34bab27b10ab60623cc9db4e68bc06b6ef0ed3884d7baeb184d1e7c",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.999
+},
+{
+"rel": "autobattle/adv/rp_story_c08.png",
+"size": 240450,
+"sha256": "52a5cd7b88f1aa870931af005cf0ec687eb6434d80fb64fcaab3e894437ff725",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.0
+},
+{
+"rel": "autobattle/adv/rp_story_c09.png",
+"size": 242961,
+"sha256": "e2df1ef70a997c7f1e8e5e812442b95448aa466833a09a4595bb3a00205a68ad",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.0
+},
+{
+"rel": "autobattle/adv/rp_story_c10.png",
+"size": 243128,
+"sha256": "ea5c1c1e469ff3f55c132ec24d0d0d522db7d94204244fa6efc7d9d0291c3905",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.0
+},
+{
+"rel": "autobattle/adv/rp_story_c11.png",
+"size": 242637,
+"sha256": "0de0fd69749a800b9fbce15b3bea175b7da39f54c2e6c35d13bc39166739b4b6",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.0
+},
+{
+"rel": "autobattle/adv/rp_story_c12.png",
+"size": 236073,
+"sha256": "fff9876ee31df389b1decc1b1ec1a90fd8b81c5682dd00c7f1a1790879403fef",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.0
+},
+{
+"rel": "autobattle/adv/rp_story_c13.png",
+"size": 209141,
+"sha256": "b39fdea04fab24bb42a07aabe69c7300200bf022b45a1e51333dc654c064d544",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.999
+},
+{
+"rel": "autobattle/adv/rp_story_c13p2.png",
+"size": 209106,
+"sha256": "198ac33fdca10b2f53cd981e9b1d34674d4fadefb61e237e241435a2c60c52e2",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.999
+},
+{
+"rel": "autobattle/adv/rp_story_c14.png",
+"size": 247427,
+"sha256": "feb38b74440a46f4440e4c6e8c9ee7860c27af2b758b899cf306cb6f78ce4b76",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.0
+},
+{
+"rel": "autobattle/adv/rp_story_c15.png",
+"size": 242867,
+"sha256": "8243d704b9457b923cc65342a14f28759294677bbb3ef163ce1a47d2f20a6ae2",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.0
+},
+{
+"rel": "autobattle/adv/rp_story_c99.png",
+"size": 234398,
+"sha256": "86029bf4d2d00893e133ee0f14f557cc1109e967f3493f322319b5828bf9c9a3",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.999
+},
+{
+"rel": "autobattle/adv/rp_story_detail.png",
+"size": 164326,
+"sha256": "eb2ae1202fc2c47067dbe8541f73bd6796f24d57395030b35af874053e698e3b",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.996
+},
+{
+"rel": "autobattle/adv/rp_story_top.png",
+"size": 294154,
+"sha256": "383ea881ad5833e08cf65277aa13ae1925e323645a5969866225923a64dc0488",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.0
+},
+{
+"rel": "autobattle/adv/rp_theater.png",
+"size": 230653,
+"sha256": "f20e0cff11a273889030de7544e50a2b9bb7c4ddf16b83e12da7ed214ba9acb0",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.998
+},
+{
+"rel": "autobattle/adv/select-no-01.png",
+"size": 10693,
+"sha256": "302d9aa3852420ef9ab6426af301e077264bb06f3367a0be59d7b8b34ff8b202",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.991
+},
+{
+"rel": "autobattle/adv/select-no-02.png",
+"size": 23962,
+"sha256": "62f9f0ec21ae67b9075985aea5ea7dbec819e5c740d82c5ebd7a066e4ad21008",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.003
+},
+{
+"rel": "autobattle/adv/select-no-03.png",
+"size": 23199,
+"sha256": "0ab0626d013dc4a1e60e3b8272fae14ec7b6ea1dac79e0ac631bec51ac4ef2b7",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.003
+},
+{
+"rel": "autobattle/adv/select-yes-01.png",
+"size": 12025,
+"sha256": "bdcb2d39bcaeb9540fc73fac3030d7fd75c6f592c7608f4b1b67fedb22d9e078",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.995
+},
+{
+"rel": "autobattle/adv/select-yes-02.png",
+"size": 25475,
+"sha256": "cb1c532414c49a698348f6076ed26f73826b59170400ddcf80affca3a8659e0a",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.002
+},
+{
+"rel": "autobattle/adv/select-yes-03.png",
+"size": 24681,
+"sha256": "fdbddb8c4461846bb0d1d697f68379f2ab7833cde877f3a2d2a728b00d98de4c",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.003
+},
+{
+"rel": "autobattle/adv/setumei.jpg",
+"size": 171459,
+"sha256": "fe44e1974793815f5923ced38bc608b376050f059c2730b84b70ee5b14c946b9",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.862
+},
+{
+"rel": "autobattle/adv/skipfight_da0119.png",
+"size": 317810,
+"sha256": "0c3e76a2ec25e6057d04c827b89e3cf5ea6e9b63cbe3fac55bcba2289b992ffd",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.0
+},
+{
+"rel": "autobattle/adv/soundback.png",
+"size": 833078,
+"sha256": "dc996685d0f73ce2735bd7cb6eb111d2289d19c0e208cbf7f13a8686ec7ce198",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.0
+},
+{
+"rel": "autobattle/adv/soundlibrary-list.png",
+"size": 502176,
+"sha256": "18befdadf3bb10d76e7a02dc939e43830bdec26e05677b181cc6c34d6ee3dce8",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.0
+},
+{
+"rel": "autobattle/adv/title-back.jpg",
+"size": 218239,
+"sha256": "49616f171a760ee4591aa40606434e6664052946bba971db93d92ac839414e11",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.999
+},
+{
+"rel": "autobattle/adv/title_menuback.png",
+"size": 743872,
+"sha256": "c53490719d08053861c1babad8c1b9f42a6c9019017b5529c1681dc4e5e44bf2",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 1.0
+},
+{
+"rel": "autobattle/adv_log.tsv",
+"size": 105693,
+"status": "exclude",
+"why": "기록(로그)"
+},
+{
+"rel": "autobattle/adv_test.txt",
+"size": 331,
+"sha256": "8c10fb9031c57865f647fc14c55736a1ab5f63447892f7c6333a6195d54277d9",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.822
+},
+{
+"rel": "autobattle/autobattle.ini",
+"size": 3062,
+"sha256": "6d1dd2e5c7542f19ba23e68ac69cb959a99a20d380c284340a0af44210a10811",
+"status": "ship",
+"since": "changed_since_1030",
+"ratio": 0.476
+},
+{
+"rel": "autobattle/battles.tsv",
+"size": 1683,
+"sha256": "a5f21812555284bd54361bcbd5d1ff969030ea0666eeaad15a9031db6e1fb99a",
+"status": "ship",
+"since": "changed_since_1030",
+"ratio": 0.58
+},
+{
+"rel": "autobattle/battles.tsv.before_qm_story",
+"size": 1529,
+"status": "exclude",
+"why": "옛 판·백업·덤프"
+},
+{
+"rel": "autobattle/battles/B01/commands.tsv",
+"size": 22478,
+"sha256": "12a10b24ae82310730354505642cd9634ccd035a613749055fb279125ffc25ef",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.171
+},
+{
+"rel": "autobattle/battles/B01/danger.tsv",
+"size": 14946,
+"sha256": "60ac5349e5a3067476dfc28522e69cc6718d644968a1d5e9bd427c8bc1d83774",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.212
+},
+{
+"rel": "autobattle/battles/B01/dodge_stats.tsv",
+"size": 352,
+"sha256": "283a4e708019fb4b778eea748db2ae26d6e22ac9458c2584170c5717dedb3520",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.909
+},
+{
+"rel": "autobattle/battles/B01/enemy_moves.tsv",
+"size": 2770,
+"sha256": "a2084e95ccb96c8878904645b797ff63f3150ea3e02531002a7d8bf19ccb692e",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.526
+},
+{
+"rel": "autobattle/battles/B01/flags.tsv",
+"size": 177,
+"sha256": "1947b385a8d1bea420a2a2379c3d4cb4a60140a3c995e8c4ec502b31248a43dc",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.356
+},
+{
+"rel": "autobattle/battles/B01/foe_bands.tsv",
+"size": 409,
+"sha256": "02b56cde2bb8c8ba17469dafc25b4332e9b6c1e3bcf5deb23daab7890eef91b5",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.91
+},
+{
+"rel": "autobattle/battles/B01/foe_mode.txt",
+"size": 72,
+"sha256": "5e61ff1ba8fc31acdd31716db2e35cef61aa2e25a055723d935898c582297596",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.778
+},
+{
+"rel": "autobattle/battles/B01/KhdBattle.exe",
+"size": 123392,
+"sha256": "e421b285b9dc1e16ccfd12cb634c3368634c6b859c5ebc90dc4dddeeb08cbedf",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.333
+},
+{
+"rel": "autobattle/battles/B01/missiles.tsv",
+"size": 474,
+"sha256": "e77927720c3708f5fff2fb7e578e7cba4566af8362136b2d90c6f2e0ce5124b0",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.878
+},
+{
+"rel": "autobattle/battles/B01/motion_cats.tsv",
+"size": 4772,
+"sha256": "8077f5d94538bc364c441ef6a1a1c27af4560e0d295fed03e7798aee4ddd6e36",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.349
+},
+{
+"rel": "autobattle/battles/B01/motion_cats_def.tsv",
+"size": 30096,
+"sha256": "21a51521e1ed66c7d99d5e31a5da73756f4fec6ae71ee3cd4fbb91d9c7f79179",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.169
+},
+{
+"rel": "autobattle/battles/B01/move_kinds.tsv",
+"size": 471,
+"sha256": "61befc2fdead62670eca0eb31336c6d01ed61e4f19acf3633e932be355bd1f6f",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.569
+},
+{
+"rel": "autobattle/battles/B01/ours_extra.txt",
+"size": 4676,
+"sha256": "27e686c24333558f3bb25d1fab322af3e77846ad0c37dc6e65c9b167ffc1bf68",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.127
+},
+{
+"rel": "autobattle/battles/B01/play_log.tsv",
+"size": 146277,
+"status": "exclude",
+"why": "기록(로그)"
+},
+{
+"rel": "autobattle/battles/B01/qm_bow_finish.txt",
+"size": 0,
+"sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.0
+},
+{
+"rel": "autobattle/battles/B01/skill_files.txt",
+"size": 24347,
+"sha256": "56ce430f52485b9af6edf6667c24bace591b8100e16a0e8b768f67cd594bbe11",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.06
+},
+{
+"rel": "autobattle/battles/B01/skill_names.tsv",
+"size": 6420,
+"sha256": "713250613b868ece227937b4b6300b574ec8a26c16edb0105548666e50a73871",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.37
+},
+{
+"rel": "autobattle/battles/B01/skill_power.tsv",
+"size": 9281,
+"sha256": "1f52e20e27adb6a6c2504a6aa759ff8f2f505b03e44ad1d3bfabdb19dcd1fe3d",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.224
+},
+{
+"rel": "autobattle/battles/B01/skill_stats.tsv",
+"size": 60107,
+"sha256": "bfd343ae198e980a6efc59545d4a802ecf9c20186ee5651783735f9af4c35a1c",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.081
+},
+{
+"rel": "autobattle/battles/B01/stage_bounds.tsv",
+"size": 175,
+"sha256": "17a1c21e87ce12a724933654ce62d54be8cc0bbcc3f0c2655d761d2711658059",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.189
+},
+{
+"rel": "autobattle/battles/B01/yog_dodge.txt",
+"size": 3,
+"sha256": "b6ac5bc39377e44ee783dff946f6703a994f5eb31a438e69dc0735b40060d2e8",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 20.0
+},
+{
+"rel": "autobattle/battles/B02/commands.tsv",
+"size": 22478,
+"sha256": "12a10b24ae82310730354505642cd9634ccd035a613749055fb279125ffc25ef",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.171
+},
+{
+"rel": "autobattle/battles/B02/danger.tsv",
+"size": 14946,
+"sha256": "60ac5349e5a3067476dfc28522e69cc6718d644968a1d5e9bd427c8bc1d83774",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.212
+},
+{
+"rel": "autobattle/battles/B02/dodge_stats.tsv",
+"size": 352,
+"sha256": "283a4e708019fb4b778eea748db2ae26d6e22ac9458c2584170c5717dedb3520",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.909
+},
+{
+"rel": "autobattle/battles/B02/enemy_moves.tsv",
+"size": 3254,
+"sha256": "08a74e4affc70f0f002c442dbef82c5a6ca38e4cfd0eb5066f985976e6169c20",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.505
+},
+{
+"rel": "autobattle/battles/B02/flags.tsv",
+"size": 176,
+"sha256": "3b781a59b2f2641e5e4972175b550b9e214fa56b0fd974e5491ce91b11c3a276",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.364
+},
+{
+"rel": "autobattle/battles/B02/foe_bands.tsv",
+"size": 412,
+"sha256": "142c677498a6be5ebda8a64f1fc2c9a603564eb3eb64e2ada37a56e94104494c",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.913
+},
+{
+"rel": "autobattle/battles/B02/foe_mode.txt",
+"size": 72,
+"sha256": "617ba0447f566a0918c5d353cffaefd524a031717430ee74bf2dd2a8898ebfb2",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.778
+},
+{
+"rel": "autobattle/battles/B02/KhdBattle.exe",
+"size": 123392,
+"sha256": "0279b7aafe11248c0e19a2a0121d1bbe3e9ea4269324c2cded701f68ed56865a",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.333
+},
+{
+"rel": "autobattle/battles/B02/missiles.tsv",
+"size": 474,
+"sha256": "e77927720c3708f5fff2fb7e578e7cba4566af8362136b2d90c6f2e0ce5124b0",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.878
+},
+{
+"rel": "autobattle/battles/B02/motion_cats.tsv",
+"size": 4772,
+"sha256": "8077f5d94538bc364c441ef6a1a1c27af4560e0d295fed03e7798aee4ddd6e36",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.349
+},
+{
+"rel": "autobattle/battles/B02/motion_cats_def.tsv",
+"size": 30096,
+"sha256": "21a51521e1ed66c7d99d5e31a5da73756f4fec6ae71ee3cd4fbb91d9c7f79179",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.169
+},
+{
+"rel": "autobattle/battles/B02/move_kinds.tsv",
+"size": 614,
+"sha256": "b53eb4544305e27792ceed72fddc7f4278bce4ee84376e6b0d24a8df725bb926",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.515
+},
+{
+"rel": "autobattle/battles/B02/ours_extra.txt",
+"size": 4676,
+"sha256": "27e686c24333558f3bb25d1fab322af3e77846ad0c37dc6e65c9b167ffc1bf68",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.127
+},
+{
+"rel": "autobattle/battles/B02/play_log.tsv",
+"size": 354785,
+"status": "exclude",
+"why": "기록(로그)"
+},
+{
+"rel": "autobattle/battles/B02/qm_bow_finish.txt",
+"size": 0,
+"sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.0
+},
+{
+"rel": "autobattle/battles/B02/skill_files.txt",
+"size": 24347,
+"sha256": "56ce430f52485b9af6edf6667c24bace591b8100e16a0e8b768f67cd594bbe11",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.06
+},
+{
+"rel": "autobattle/battles/B02/skill_names.tsv",
+"size": 6420,
+"sha256": "713250613b868ece227937b4b6300b574ec8a26c16edb0105548666e50a73871",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.37
+},
+{
+"rel": "autobattle/battles/B02/skill_power.tsv",
+"size": 9281,
+"sha256": "1f52e20e27adb6a6c2504a6aa759ff8f2f505b03e44ad1d3bfabdb19dcd1fe3d",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.224
+},
+{
+"rel": "autobattle/battles/B02/skill_stats.tsv",
+"size": 60741,
+"sha256": "0aa02db22b6cf4fa42ed9e132016ee490c7d2a6c670912e4d86a8301ffc99bb2",
+"status": "ship",
+"since": "changed_since_1030",
+"ratio": 0.081
+},
+{
+"rel": "autobattle/battles/B02/stage_bounds.tsv",
+"size": 176,
+"sha256": "2fbebdc5a963a5ec558aaf0007388fb9b0acbb968bb077cc8112ca36f3fe8f24",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.182
+},
+{
+"rel": "autobattle/battles/B02/stage_seen.tsv",
+"size": 100,
+"sha256": "a6545d444ef89d9c7fb47aba1bf93842f6e86231cdc2c5b10158e8ca6eea292b",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.44
+},
+{
+"rel": "autobattle/battles/B02/yog_dodge.txt",
+"size": 3,
+"sha256": "b6ac5bc39377e44ee783dff946f6703a994f5eb31a438e69dc0735b40060d2e8",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 20.0
+},
+{
+"rel": "autobattle/battles/B03/commands.tsv",
+"size": 22478,
+"sha256": "12a10b24ae82310730354505642cd9634ccd035a613749055fb279125ffc25ef",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.171
+},
+{
+"rel": "autobattle/battles/B03/danger.tsv",
+"size": 14976,
+"sha256": "9245fa131a1cb0b05d4c648cfb5647308cc6a49706affb96fc6c8098510729ed",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.212
+},
+{
+"rel": "autobattle/battles/B03/dodge_stats.tsv",
+"size": 352,
+"sha256": "283a4e708019fb4b778eea748db2ae26d6e22ac9458c2584170c5717dedb3520",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.909
+},
+{
+"rel": "autobattle/battles/B03/enemy_moves.tsv",
+"size": 2714,
+"sha256": "c6037cd0e090ec32d253790db20caafeb4e9485bc45e9d536c9cd4e8dc9a7275",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.542
+},
+{
+"rel": "autobattle/battles/B03/flags.tsv",
+"size": 183,
+"sha256": "c41224e9db3a5cf7b612a9c030b662c543a0ab390a6d49b77a117f0af62a8f71",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.333
+},
+{
+"rel": "autobattle/battles/B03/foe_bands.tsv",
+"size": 395,
+"sha256": "e73bec75d3c8715eeaff70707091fafff4e3fb3fd19d3e72db1a326d5008c183",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.911
+},
+{
+"rel": "autobattle/battles/B03/foe_mode.txt",
+"size": 72,
+"sha256": "722779c67930f2b4a9e48fa7beb9cbf7cad0eab8c2f8fa97a5dbb39be4346c84",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.778
+},
+{
+"rel": "autobattle/battles/B03/KhdBattle.exe",
+"size": 123392,
+"sha256": "4a261866adab61bb3ccbb58fa7b3cba917e1b7140b988503509be0d3d5755655",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.333
+},
+{
+"rel": "autobattle/battles/B03/missiles.tsv",
+"size": 474,
+"sha256": "e77927720c3708f5fff2fb7e578e7cba4566af8362136b2d90c6f2e0ce5124b0",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.878
+},
+{
+"rel": "autobattle/battles/B03/motion_cats.tsv",
+"size": 4772,
+"sha256": "8077f5d94538bc364c441ef6a1a1c27af4560e0d295fed03e7798aee4ddd6e36",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.349
+},
+{
+"rel": "autobattle/battles/B03/motion_cats_def.tsv",
+"size": 30096,
+"sha256": "21a51521e1ed66c7d99d5e31a5da73756f4fec6ae71ee3cd4fbb91d9c7f79179",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.169
+},
+{
+"rel": "autobattle/battles/B03/move_kinds.tsv",
+"size": 398,
+"sha256": "43bb11f08b5713e82e767c578ee4ebeb7f485edacfbaf802e61cf817c38bcfe7",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.643
+},
+{
+"rel": "autobattle/battles/B03/ours_extra.txt",
+"size": 4676,
+"sha256": "27e686c24333558f3bb25d1fab322af3e77846ad0c37dc6e65c9b167ffc1bf68",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.127
+},
+{
+"rel": "autobattle/battles/B03/play_log.tsv",
+"size": 469534,
+"status": "exclude",
+"why": "기록(로그)"
+},
+{
+"rel": "autobattle/battles/B03/qm_bow_finish.txt",
+"size": 0,
+"sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.0
+},
+{
+"rel": "autobattle/battles/B03/skill_files.txt",
+"size": 24347,
+"sha256": "56ce430f52485b9af6edf6667c24bace591b8100e16a0e8b768f67cd594bbe11",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.06
+},
+{
+"rel": "autobattle/battles/B03/skill_names.tsv",
+"size": 6420,
+"sha256": "713250613b868ece227937b4b6300b574ec8a26c16edb0105548666e50a73871",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.37
+},
+{
+"rel": "autobattle/battles/B03/skill_power.tsv",
+"size": 9281,
+"sha256": "1f52e20e27adb6a6c2504a6aa759ff8f2f505b03e44ad1d3bfabdb19dcd1fe3d",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.224
+},
+{
+"rel": "autobattle/battles/B03/skill_stats.tsv",
+"size": 60366,
+"sha256": "a1de0fda3cb7f2fcbfa018e78ebccb7ad0f4a2fe0d8f7ffae8d80fe7ca2198b3",
+"status": "ship",
+"since": "changed_since_1030",
+"ratio": 0.081
+},
+{
+"rel": "autobattle/battles/B03/stage_bounds.tsv",
+"size": 176,
+"sha256": "32a4d0880a662b0bc3b844f5a9a5e161b4b7b2e481e31da02641d3d06d36a638",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.205
+},
+{
+"rel": "autobattle/battles/B03/stage_seen.tsv",
+"size": 100,
+"sha256": "9a6a4019cc31e43f5ca808da7e09d7c6f227d332ef250ccc0769f0514677e02d",
+"status": "ship",
+"since": "changed_since_1030",
+"ratio": 1.48
+},
+{
+"rel": "autobattle/battles/B03/yog_dodge.txt",
+"size": 3,
+"sha256": "b6ac5bc39377e44ee783dff946f6703a994f5eb31a438e69dc0735b40060d2e8",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 20.0
+},
+{
+"rel": "autobattle/battles/B04/commands.tsv",
+"size": 22478,
+"sha256": "12a10b24ae82310730354505642cd9634ccd035a613749055fb279125ffc25ef",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.171
+},
+{
+"rel": "autobattle/battles/B04/danger.tsv",
+"size": 14946,
+"sha256": "60ac5349e5a3067476dfc28522e69cc6718d644968a1d5e9bd427c8bc1d83774",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.212
+},
+{
+"rel": "autobattle/battles/B04/dodge_stats.tsv",
+"size": 352,
+"sha256": "283a4e708019fb4b778eea748db2ae26d6e22ac9458c2584170c5717dedb3520",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.909
+},
+{
+"rel": "autobattle/battles/B04/enemy_moves.tsv",
+"size": 2714,
+"sha256": "c6037cd0e090ec32d253790db20caafeb4e9485bc45e9d536c9cd4e8dc9a7275",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.542
+},
+{
+"rel": "autobattle/battles/B04/flags.tsv",
+"size": 159,
+"sha256": "c3902969374458a8cfbf1ff615a2029dfa4d098ae908aa5ea36dab98c3dc0d92",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.384
+},
+{
+"rel": "autobattle/battles/B04/foe_bands.tsv",
+"size": 395,
+"sha256": "e73bec75d3c8715eeaff70707091fafff4e3fb3fd19d3e72db1a326d5008c183",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.911
+},
+{
+"rel": "autobattle/battles/B04/foe_mode.txt",
+"size": 72,
+"sha256": "7bdc08f3befd0a3fa1d18d6db9211fb9d9fc9cc24e80c2068f95b23d91da7a7e",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.778
+},
+{
+"rel": "autobattle/battles/B04/KhdBattle.exe",
+"size": 123392,
+"sha256": "f452393c87abc3dee9fc55c3bc64b5ce0baeb4ab8409bef90d57260ee7c9130f",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.333
+},
+{
+"rel": "autobattle/battles/B04/missiles.tsv",
+"size": 474,
+"sha256": "e77927720c3708f5fff2fb7e578e7cba4566af8362136b2d90c6f2e0ce5124b0",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.878
+},
+{
+"rel": "autobattle/battles/B04/motion_cats.tsv",
+"size": 4772,
+"sha256": "8077f5d94538bc364c441ef6a1a1c27af4560e0d295fed03e7798aee4ddd6e36",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.349
+},
+{
+"rel": "autobattle/battles/B04/motion_cats_def.tsv",
+"size": 30096,
+"sha256": "21a51521e1ed66c7d99d5e31a5da73756f4fec6ae71ee3cd4fbb91d9c7f79179",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.169
+},
+{
+"rel": "autobattle/battles/B04/move_kinds.tsv",
+"size": 398,
+"sha256": "43bb11f08b5713e82e767c578ee4ebeb7f485edacfbaf802e61cf817c38bcfe7",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.643
+},
+{
+"rel": "autobattle/battles/B04/ours_extra.txt",
+"size": 4676,
+"sha256": "27e686c24333558f3bb25d1fab322af3e77846ad0c37dc6e65c9b167ffc1bf68",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.127
+},
+{
+"rel": "autobattle/battles/B04/play_log.tsv",
+"size": 172132,
+"status": "exclude",
+"why": "기록(로그)"
+},
+{
+"rel": "autobattle/battles/B04/qm_bow_finish.txt",
+"size": 0,
+"sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.0
+},
+{
+"rel": "autobattle/battles/B04/skill_files.txt",
+"size": 24347,
+"sha256": "56ce430f52485b9af6edf6667c24bace591b8100e16a0e8b768f67cd594bbe11",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.06
+},
+{
+"rel": "autobattle/battles/B04/skill_names.tsv",
+"size": 6420,
+"sha256": "713250613b868ece227937b4b6300b574ec8a26c16edb0105548666e50a73871",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.37
+},
+{
+"rel": "autobattle/battles/B04/skill_power.tsv",
+"size": 9281,
+"sha256": "1f52e20e27adb6a6c2504a6aa759ff8f2f505b03e44ad1d3bfabdb19dcd1fe3d",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.224
+},
+{
+"rel": "autobattle/battles/B04/skill_stats.tsv",
+"size": 60292,
+"sha256": "bbf00f33059dcab3a0231a4399c0f2d202acf3a217904332fec14f35cc68fd45",
+"status": "ship",
+"since": "changed_since_1030",
+"ratio": 0.081
+},
+{
+"rel": "autobattle/battles/B04/stage_bounds.tsv",
+"size": 175,
+"sha256": "4777f4a0be412f7b992b56020c66fc51f56a08f5896d958d72a7bfdc010169ac",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.189
+},
+{
+"rel": "autobattle/battles/B04/stage_seen.tsv",
+"size": 100,
+"sha256": "8a8e993a153242c8da53a2a42526636e140c040ec2685ff9b2266acdfac6a6bf",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.48
+},
+{
+"rel": "autobattle/battles/B04/yog_dodge.txt",
+"size": 3,
+"sha256": "b6ac5bc39377e44ee783dff946f6703a994f5eb31a438e69dc0735b40060d2e8",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 20.0
+},
+{
+"rel": "autobattle/battles/B05/commands.tsv",
+"size": 22478,
+"sha256": "12a10b24ae82310730354505642cd9634ccd035a613749055fb279125ffc25ef",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.171
+},
+{
+"rel": "autobattle/battles/B05/danger.tsv",
+"size": 14946,
+"sha256": "60ac5349e5a3067476dfc28522e69cc6718d644968a1d5e9bd427c8bc1d83774",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.212
+},
+{
+"rel": "autobattle/battles/B05/dodge_stats.tsv",
+"size": 352,
+"sha256": "283a4e708019fb4b778eea748db2ae26d6e22ac9458c2584170c5717dedb3520",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.909
+},
+{
+"rel": "autobattle/battles/B05/enemy_moves.tsv",
+"size": 2731,
+"sha256": "61129d8d03be6ec3a374763909e61faf979be48c7b483cdd546dd42bfe5f80ab",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.564
+},
+{
+"rel": "autobattle/battles/B05/flags.tsv",
+"size": 166,
+"sha256": "793b7802ea409c673a0d32d76ac2b09d27ddb519ab6d74d59050d1409968fadc",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.373
+},
+{
+"rel": "autobattle/battles/B05/foe_bands.tsv",
+"size": 411,
+"sha256": "c5fb0a431b6149280645cae6214ce7426e674340113d64acd5a0fca20ac15b47",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.915
+},
+{
+"rel": "autobattle/battles/B05/foe_mode.txt",
+"size": 72,
+"sha256": "c993dfebb3de05a67971f267d9d6d7efbe1e4177c589fb0df78226eff9f99bb7",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.778
+},
+{
+"rel": "autobattle/battles/B05/KhdBattle.exe",
+"size": 123904,
+"sha256": "9f00e3d8d969868a33dc3c370cc79916a740478e215f3bfb4587d19742858806",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.334
+},
+{
+"rel": "autobattle/battles/B05/missiles.tsv",
+"size": 474,
+"sha256": "e77927720c3708f5fff2fb7e578e7cba4566af8362136b2d90c6f2e0ce5124b0",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.878
+},
+{
+"rel": "autobattle/battles/B05/motion_cats.tsv",
+"size": 4772,
+"sha256": "8077f5d94538bc364c441ef6a1a1c27af4560e0d295fed03e7798aee4ddd6e36",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.349
+},
+{
+"rel": "autobattle/battles/B05/motion_cats_def.tsv",
+"size": 30096,
+"sha256": "21a51521e1ed66c7d99d5e31a5da73756f4fec6ae71ee3cd4fbb91d9c7f79179",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.169
+},
+{
+"rel": "autobattle/battles/B05/move_kinds.tsv",
+"size": 321,
+"sha256": "53f8585357e956815716bfca807bab4676e124b1d194ef9401a32b98d5b8a5f3",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.748
+},
+{
+"rel": "autobattle/battles/B05/ours_extra.txt",
+"size": 4676,
+"sha256": "27e686c24333558f3bb25d1fab322af3e77846ad0c37dc6e65c9b167ffc1bf68",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.127
+},
+{
+"rel": "autobattle/battles/B05/play_log.tsv",
+"size": 766631,
+"status": "exclude",
+"why": "기록(로그)"
+},
+{
+"rel": "autobattle/battles/B05/qm_bow_finish.txt",
+"size": 0,
+"sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.0
+},
+{
+"rel": "autobattle/battles/B05/skill_files.txt",
+"size": 24347,
+"sha256": "56ce430f52485b9af6edf6667c24bace591b8100e16a0e8b768f67cd594bbe11",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.06
+},
+{
+"rel": "autobattle/battles/B05/skill_names.tsv",
+"size": 6420,
+"sha256": "713250613b868ece227937b4b6300b574ec8a26c16edb0105548666e50a73871",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.37
+},
+{
+"rel": "autobattle/battles/B05/skill_power.tsv",
+"size": 9281,
+"sha256": "1f52e20e27adb6a6c2504a6aa759ff8f2f505b03e44ad1d3bfabdb19dcd1fe3d",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.224
+},
+{
+"rel": "autobattle/battles/B05/skill_stats.tsv",
+"size": 60302,
+"sha256": "5a30b481ed8d38e83ba75cdb5f1985c21687a7e4806404c71164699dc09ced11",
+"status": "ship",
+"since": "changed_since_1030",
+"ratio": 0.082
+},
+{
+"rel": "autobattle/battles/B05/stage_bounds.tsv",
+"size": 176,
+"sha256": "383a46151325446061dc427a9a55fd097fe6bfe10f6bb727f7946e999d269c1d",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.205
+},
+{
+"rel": "autobattle/battles/B05/stage_seen.tsv",
+"size": 100,
+"sha256": "b2585130b2945b2342df9ecdc15a8a05f0eca7c1ed255222c30b35af00077cef",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.52
+},
+{
+"rel": "autobattle/battles/B05/yog_dodge.txt",
+"size": 3,
+"sha256": "b6ac5bc39377e44ee783dff946f6703a994f5eb31a438e69dc0735b40060d2e8",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 20.0
+},
+{
+"rel": "autobattle/battles/B06/commands.tsv",
+"size": 22478,
+"sha256": "12a10b24ae82310730354505642cd9634ccd035a613749055fb279125ffc25ef",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.171
+},
+{
+"rel": "autobattle/battles/B06/danger.tsv",
+"size": 14946,
+"sha256": "60ac5349e5a3067476dfc28522e69cc6718d644968a1d5e9bd427c8bc1d83774",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.212
+},
+{
+"rel": "autobattle/battles/B06/dodge_stats.tsv",
+"size": 352,
+"sha256": "283a4e708019fb4b778eea748db2ae26d6e22ac9458c2584170c5717dedb3520",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.909
+},
+{
+"rel": "autobattle/battles/B06/enemy_moves.tsv",
+"size": 3285,
+"sha256": "b871de8acf1c749f973381f10d52d1294596a8c4581e03f3ed7566a72fb428da",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.499
+},
+{
+"rel": "autobattle/battles/B06/flags.tsv",
+"size": 253,
+"sha256": "d32969eff4d0f95d86d7c25282e36a96421defc548eac9760a3821f54013d285",
+"status": "ship",
+"since": "changed_since_1030",
+"ratio": 1.154
+},
+{
+"rel": "autobattle/battles/B06/foe_bands.tsv",
+"size": 417,
+"sha256": "3554ce103bbd4fff938d204c747df2c47062172456bb4e8a0767c707b1b87ac8",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.911
+},
+{
+"rel": "autobattle/battles/B06/foe_mode.txt",
+"size": 72,
+"sha256": "27f0254f924ca27a0e55c54577eff9c2b41ce86c22623b5fd35a802014ee1bae",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.778
+},
+{
+"rel": "autobattle/battles/B06/KhdBattle.exe",
+"size": 124928,
+"sha256": "ecb89e784be65f15d8911a3c4ed791616f1f00ac110668a2187edb883c89da1b",
+"status": "ship",
+"since": "changed_since_1030",
+"ratio": 0.334
+},
+{
+"rel": "autobattle/battles/B06/missiles.tsv",
+"size": 474,
+"sha256": "e77927720c3708f5fff2fb7e578e7cba4566af8362136b2d90c6f2e0ce5124b0",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.878
+},
+{
+"rel": "autobattle/battles/B06/motion_cats.tsv",
+"size": 4772,
+"sha256": "8077f5d94538bc364c441ef6a1a1c27af4560e0d295fed03e7798aee4ddd6e36",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.349
+},
+{
+"rel": "autobattle/battles/B06/motion_cats_def.tsv",
+"size": 30096,
+"sha256": "21a51521e1ed66c7d99d5e31a5da73756f4fec6ae71ee3cd4fbb91d9c7f79179",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.169
+},
+{
+"rel": "autobattle/battles/B06/move_kinds.tsv",
+"size": 471,
+"sha256": "1238132201a5fa275a00496856d6ba1dbba2d338a4e14f950533ff069d1e061b",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.722
+},
+{
+"rel": "autobattle/battles/B06/ours_extra.txt",
+"size": 4676,
+"sha256": "27e686c24333558f3bb25d1fab322af3e77846ad0c37dc6e65c9b167ffc1bf68",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.127
+},
+{
+"rel": "autobattle/battles/B06/play_log.tsv",
+"size": 1030664,
+"status": "exclude",
+"why": "기록(로그)"
+},
+{
+"rel": "autobattle/battles/B06/qm_bow_finish.txt",
+"size": 0,
+"sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.0
+},
+{
+"rel": "autobattle/battles/B06/skill_files.txt",
+"size": 24347,
+"sha256": "56ce430f52485b9af6edf6667c24bace591b8100e16a0e8b768f67cd594bbe11",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.06
+},
+{
+"rel": "autobattle/battles/B06/skill_names.tsv",
+"size": 6420,
+"sha256": "713250613b868ece227937b4b6300b574ec8a26c16edb0105548666e50a73871",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.37
+},
+{
+"rel": "autobattle/battles/B06/skill_power.tsv",
+"size": 9281,
+"sha256": "1f52e20e27adb6a6c2504a6aa759ff8f2f505b03e44ad1d3bfabdb19dcd1fe3d",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.224
+},
+{
+"rel": "autobattle/battles/B06/skill_stats.tsv",
+"size": 61824,
+"sha256": "cb978b9f0b75cb4744bef88c756c77158ab123042208a5e6c63d7e9bf96f445a",
+"status": "ship",
+"since": "changed_since_1030",
+"ratio": 0.082
+},
+{
+"rel": "autobattle/battles/B06/stage_bounds.tsv",
+"size": 176,
+"sha256": "1cc8b121aa6f16404da688da0fd8cec808a5a4e8698c271f0686e816e66bc4f1",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.205
+},
+{
+"rel": "autobattle/battles/B06/stage_seen.tsv",
+"size": 100,
+"sha256": "1c52a4e4d9ea97175bca6f0ae7aad91a309cb89da06a9e8ae4d278f669085645",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 1.52
+},
+{
+"rel": "autobattle/battles/B06/yog_dodge.txt",
+"size": 3,
+"sha256": "b6ac5bc39377e44ee783dff946f6703a994f5eb31a438e69dc0735b40060d2e8",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 20.0
+},
+{
+"rel": "autobattle/battles/B07/commands.tsv",
+"size": 22478,
+"sha256": "12a10b24ae82310730354505642cd9634ccd035a613749055fb279125ffc25ef",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.171
+},
+{
+"rel": "autobattle/battles/B07/danger.tsv",
+"size": 14946,
+"sha256": "60ac5349e5a3067476dfc28522e69cc6718d644968a1d5e9bd427c8bc1d83774",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.212
+},
+{
+"rel": "autobattle/battles/B07/dodge_stats.tsv",
+"size": 352,
+"sha256": "283a4e708019fb4b778eea748db2ae26d6e22ac9458c2584170c5717dedb3520",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.909
+},
+{
+"rel": "autobattle/battles/B07/enemy_moves.tsv",
+"size": 4082,
+"sha256": "4b6f7ac1196fa08c7441849326a9a23a92a43eeb81cc30e4ffadeb2c4bccdc1f",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.513
+},
+{
+"rel": "autobattle/battles/B07/flags.tsv",
+"size": 202,
+"sha256": "9419eeddb89fb69021ac69aa27d37fff7f58eccd27685ffe54f660037525cc45",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.307
+},
+{
+"rel": "autobattle/battles/B07/foe_bands.tsv",
+"size": 413,
+"sha256": "483233b37f9b56a02fd36d33b24beb7ca7bf868b6e8ae06983de15ab42b2d434",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.92
+},
+{
+"rel": "autobattle/battles/B07/foe_mode.txt",
+"size": 72,
+"sha256": "80f7a56511f935dddd6432febac1cc9fc79886730bdef7cfb659dba7cb19a8df",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.778
+},
+{
+"rel": "autobattle/battles/B07/KhdBattle.exe",
+"size": 140800,
+"sha256": "4d38b71d9b6725667a776913c88527b99d55f50321bb37a2dde700cd0fd8cf24",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.338
+},
+{
+"rel": "autobattle/battles/B07/missiles.tsv",
+"size": 1079,
+"sha256": "8c6e7b250cc3998df2d62207863897fc2be32baea4f377e167ee32939a1ba0ab",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.667
+},
+{
+"rel": "autobattle/battles/B07/motion_cats.tsv",
+"size": 4772,
+"sha256": "8077f5d94538bc364c441ef6a1a1c27af4560e0d295fed03e7798aee4ddd6e36",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.349
+},
+{
+"rel": "autobattle/battles/B07/motion_cats_def.tsv",
+"size": 30096,
+"sha256": "21a51521e1ed66c7d99d5e31a5da73756f4fec6ae71ee3cd4fbb91d9c7f79179",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.169
+},
+{
+"rel": "autobattle/battles/B07/move_kinds.tsv",
+"size": 338,
+"sha256": "67c1d72088bc3f67baac705b25027e6c008e943bab4490c600ac4acba1291b71",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.817
+},
+{
+"rel": "autobattle/battles/B07/ours_extra.txt",
+"size": 4676,
+"sha256": "27e686c24333558f3bb25d1fab322af3e77846ad0c37dc6e65c9b167ffc1bf68",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.127
+},
+{
+"rel": "autobattle/battles/B07/play_log.tsv",
+"size": 4002645,
+"status": "exclude",
+"why": "기록(로그)"
+},
+{
+"rel": "autobattle/battles/B07/qm_bow_finish.txt",
+"size": 0,
+"sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.0
+},
+{
+"rel": "autobattle/battles/B07/skill_files.txt",
+"size": 24347,
+"sha256": "56ce430f52485b9af6edf6667c24bace591b8100e16a0e8b768f67cd594bbe11",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.06
+},
+{
+"rel": "autobattle/battles/B07/skill_names.tsv",
+"size": 6420,
+"sha256": "713250613b868ece227937b4b6300b574ec8a26c16edb0105548666e50a73871",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.37
+},
+{
+"rel": "autobattle/battles/B07/skill_power.tsv",
+"size": 8929,
+"sha256": "c50b1ca8792deb87705ff2e19c6945ff5bd88a80ed8ce70e1d978bcad337e387",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.231
+},
+{
+"rel": "autobattle/battles/B07/skill_stats.tsv",
+"size": 60226,
+"sha256": "908b89f8e90a6fa6634ee66e392b01a2ae1ffe7a293db301206193fc87553059",
+"status": "ship",
+"since": "changed_since_1030",
+"ratio": 0.081
+},
+{
+"rel": "autobattle/battles/B07/stage_bounds.tsv",
+"size": 182,
+"sha256": "46a7df08355af0d84f9c603d13f889ab8da61511affcc67d9e4eb2ce26da3b68",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.165
+},
+{
+"rel": "autobattle/battles/B07/stage_seen.tsv",
+"size": 100,
+"sha256": "2706b2b4d5bdd4a180f99da566ba1c85812efce4ac9cd0835ea1ddb83f2d58a7",
+"status": "ship",
+"since": "changed_since_1030",
+"ratio": 1.44
+},
+{
+"rel": "autobattle/battles/B07/yog_dodge.txt",
+"size": 3,
+"sha256": "b6ac5bc39377e44ee783dff946f6703a994f5eb31a438e69dc0735b40060d2e8",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 20.0
+},
+{
+"rel": "autobattle/battles/B08/commands.tsv",
+"size": 22478,
+"sha256": "12a10b24ae82310730354505642cd9634ccd035a613749055fb279125ffc25ef",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.171
+},
+{
+"rel": "autobattle/battles/B08/danger.tsv",
+"size": 14946,
+"sha256": "60ac5349e5a3067476dfc28522e69cc6718d644968a1d5e9bd427c8bc1d83774",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.212
+},
+{
+"rel": "autobattle/battles/B08/dodge_stats.tsv",
+"size": 352,
+"sha256": "283a4e708019fb4b778eea748db2ae26d6e22ac9458c2584170c5717dedb3520",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.909
+},
+{
+"rel": "autobattle/battles/B08/enemy_moves.tsv",
+"size": 3160,
+"sha256": "03d9baea4a0f2d332dbd31ecceef47c3b63883c6c4dda77575e698d5cf6c8ed2",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.506
+},
+{
+"rel": "autobattle/battles/B08/flags.tsv",
+"size": 170,
+"sha256": "bc1c238e55a716fa92df8ebb26954e89e06ef161982b610e872f224aec0e63ac",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.365
+},
+{
+"rel": "autobattle/battles/B08/foe_bands.tsv",
+"size": 418,
+"sha256": "ff0d7f172e6e1db77aaebb3f9608a1d4f4ff76973db57ad8e186fcd51223a159",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.9
+},
+{
+"rel": "autobattle/battles/B08/foe_mode.txt",
+"size": 72,
+"sha256": "40a62b50e79138bb381104d2684199e402b9a75eab7382330275f7a9e33a9655",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.778
+},
+{
+"rel": "autobattle/battles/B08/KhdBattle.exe",
+"size": 123392,
+"sha256": "d69281fae3b8e0293e9505e3da71b571cb6b9c8c66f8a1f8b9cb9ba90596be9d",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.333
+},
+{
+"rel": "autobattle/battles/B08/missiles.tsv",
+"size": 474,
+"sha256": "e77927720c3708f5fff2fb7e578e7cba4566af8362136b2d90c6f2e0ce5124b0",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.878
+},
+{
+"rel": "autobattle/battles/B08/motion_cats.tsv",
+"size": 4772,
+"sha256": "8077f5d94538bc364c441ef6a1a1c27af4560e0d295fed03e7798aee4ddd6e36",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.349
+},
+{
+"rel": "autobattle/battles/B08/motion_cats_def.tsv",
+"size": 30096,
+"sha256": "21a51521e1ed66c7d99d5e31a5da73756f4fec6ae71ee3cd4fbb91d9c7f79179",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.169
+},
+{
+"rel": "autobattle/battles/B08/move_kinds.tsv",
+"size": 317,
+"sha256": "cb028f528e0189d480d35e7489f1682b53fdd1c2655c92e8303ae914b095d1a4",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.757
+},
+{
+"rel": "autobattle/battles/B08/ours_extra.txt",
+"size": 4676,
+"sha256": "27e686c24333558f3bb25d1fab322af3e77846ad0c37dc6e65c9b167ffc1bf68",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.127
+},
+{
+"rel": "autobattle/battles/B08/play_log.tsv",
+"size": 355952,
+"status": "exclude",
+"why": "기록(로그)"
+},
+{
+"rel": "autobattle/battles/B08/qm_bow_finish.txt",
+"size": 0,
+"sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.0
+},
+{
+"rel": "autobattle/battles/B08/skill_files.txt",
+"size": 24347,
+"sha256": "56ce430f52485b9af6edf6667c24bace591b8100e16a0e8b768f67cd594bbe11",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.06
+},
+{
+"rel": "autobattle/battles/B08/skill_names.tsv",
+"size": 6420,
+"sha256": "713250613b868ece227937b4b6300b574ec8a26c16edb0105548666e50a73871",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.37
+},
+{
+"rel": "autobattle/battles/B08/skill_power.tsv",
+"size": 9281,
+"sha256": "1f52e20e27adb6a6c2504a6aa759ff8f2f505b03e44ad1d3bfabdb19dcd1fe3d",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.224
+},
+{
+"rel": "autobattle/battles/B08/skill_stats.tsv",
+"size": 60581,
+"sha256": "3115f394ccbfea37d1511655e8fd5ca9381878bba79b8a5eb644863365824a5d",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.081
+},
+{
+"rel": "autobattle/battles/B08/stage_bounds.tsv",
+"size": 176,
+"sha256": "767e0eb1619d66207df9c2eb59793c339695eb8a472a51febc314f8083b4c2a1",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.182
+},
+{
+"rel": "autobattle/battles/B08/stage_seen.tsv",
+"size": 100,
+"sha256": "c0a69109ddc1c9f7a4dbd67f2b2d64907d52ef9e3ffd2396cac4a659fd8f2eee",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.4
+},
+{
+"rel": "autobattle/battles/B08/yog_dodge.txt",
+"size": 3,
+"sha256": "b6ac5bc39377e44ee783dff946f6703a994f5eb31a438e69dc0735b40060d2e8",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 20.0
+},
+{
+"rel": "autobattle/battles/B09/commands.tsv",
+"size": 22478,
+"sha256": "12a10b24ae82310730354505642cd9634ccd035a613749055fb279125ffc25ef",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.171
+},
+{
+"rel": "autobattle/battles/B09/danger.tsv",
+"size": 14946,
+"sha256": "60ac5349e5a3067476dfc28522e69cc6718d644968a1d5e9bd427c8bc1d83774",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.212
+},
+{
+"rel": "autobattle/battles/B09/dodge_stats.tsv",
+"size": 352,
+"sha256": "283a4e708019fb4b778eea748db2ae26d6e22ac9458c2584170c5717dedb3520",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.909
+},
+{
+"rel": "autobattle/battles/B09/enemy_moves.tsv",
+"size": 4196,
+"sha256": "2658739b5a89ced219b5142ccdffdc53c348a5e89f36483018e9a2af60141255",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.51
+},
+{
+"rel": "autobattle/battles/B09/flags.tsv",
+"size": 206,
+"sha256": "268d874d096118df2d7ef23be0f5a5728e42d285376e1dfd3f3258f50c27a756",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.301
+},
+{
+"rel": "autobattle/battles/B09/foe_bands.tsv",
+"size": 395,
+"sha256": "e73bec75d3c8715eeaff70707091fafff4e3fb3fd19d3e72db1a326d5008c183",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.911
+},
+{
+"rel": "autobattle/battles/B09/foe_mode.txt",
+"size": 82,
+"sha256": "207a12ef153376c17542bb66a565cb61a6fc4bacd6db56887d378ac39e8f6bdc",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.707
+},
+{
+"rel": "autobattle/battles/B09/KhdBattle.exe",
+"size": 144896,
+"sha256": "b7fe61aa64bcd4d56c8930c14d7325ccd51e43dce96064660adda0bbc197004a",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.313
+},
+{
+"rel": "autobattle/battles/B09/missiles.tsv",
+"size": 474,
+"sha256": "e77927720c3708f5fff2fb7e578e7cba4566af8362136b2d90c6f2e0ce5124b0",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.878
+},
+{
+"rel": "autobattle/battles/B09/motion_cats.tsv",
+"size": 4772,
+"sha256": "8077f5d94538bc364c441ef6a1a1c27af4560e0d295fed03e7798aee4ddd6e36",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.349
+},
+{
+"rel": "autobattle/battles/B09/motion_cats_def.tsv",
+"size": 30096,
+"sha256": "21a51521e1ed66c7d99d5e31a5da73756f4fec6ae71ee3cd4fbb91d9c7f79179",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.169
+},
+{
+"rel": "autobattle/battles/B09/move_kinds.tsv",
+"size": 711,
+"sha256": "45ff1f6b114d5d285e98883c9f7fa54695377ed6b74f6502cc8828ad2596771c",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.366
+},
+{
+"rel": "autobattle/battles/B09/ours_extra.txt",
+"size": 4676,
+"sha256": "27e686c24333558f3bb25d1fab322af3e77846ad0c37dc6e65c9b167ffc1bf68",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.127
+},
+{
+"rel": "autobattle/battles/B09/play_log.tsv",
+"size": 16837550,
+"status": "exclude",
+"why": "기록(로그)"
+},
+{
+"rel": "autobattle/battles/B09/qm_bow_finish.txt",
+"size": 0,
+"sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.0
+},
+{
+"rel": "autobattle/battles/B09/skill_files.txt",
+"size": 24347,
+"sha256": "56ce430f52485b9af6edf6667c24bace591b8100e16a0e8b768f67cd594bbe11",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.06
+},
+{
+"rel": "autobattle/battles/B09/skill_names.tsv",
+"size": 6420,
+"sha256": "713250613b868ece227937b4b6300b574ec8a26c16edb0105548666e50a73871",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.37
+},
+{
+"rel": "autobattle/battles/B09/skill_power.tsv",
+"size": 9281,
+"sha256": "1f52e20e27adb6a6c2504a6aa759ff8f2f505b03e44ad1d3bfabdb19dcd1fe3d",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.224
+},
+{
+"rel": "autobattle/battles/B09/skill_stats.tsv",
+"size": 62095,
+"sha256": "cb16bfa8c5de26c2b37843ce1d3115fb881dd021297321762e06c84999af7cec",
+"status": "ship",
+"since": "changed_since_1030",
+"ratio": 0.082
+},
+{
+"rel": "autobattle/battles/B09/stage_bounds.tsv",
+"size": 179,
+"sha256": "0b632fc10b4caa6ee1c9ad0ffb512920464bfacd62f632b7b0061593d82b5c56",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.162
+},
+{
+"rel": "autobattle/battles/B09/stage_seen.tsv",
+"size": 100,
+"sha256": "8ca10e3d3d1a8ba63f6535fe47d4fd69196b35e5af2a9e357880971fb2fb4a29",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.44
+},
+{
+"rel": "autobattle/battles/B09/yog_dodge.txt",
+"size": 3,
+"sha256": "b6ac5bc39377e44ee783dff946f6703a994f5eb31a438e69dc0735b40060d2e8",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 20.0
+},
+{
+"rel": "autobattle/battles/B10/commands.tsv",
+"size": 22478,
+"sha256": "12a10b24ae82310730354505642cd9634ccd035a613749055fb279125ffc25ef",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.171
+},
+{
+"rel": "autobattle/battles/B10/danger.tsv",
+"size": 15011,
+"sha256": "6ea4fefec6c4c049fe39e4b3f4fac37edb25b4a92eab120f3d8d40c7bb0909a5",
+"status": "ship",
+"since": "changed_since_1030",
+"ratio": 0.212
+},
+{
+"rel": "autobattle/battles/B10/dodge_stats.tsv",
+"size": 352,
+"sha256": "283a4e708019fb4b778eea748db2ae26d6e22ac9458c2584170c5717dedb3520",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.909
+},
+{
+"rel": "autobattle/battles/B10/enemy_moves.tsv",
+"size": 2681,
+"sha256": "d44f0c40070d4188141d1299ccc0ce0f99935bfec062403ea73d9c44423aff07",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.551
+},
+{
+"rel": "autobattle/battles/B10/flags.tsv",
+"size": 177,
+"sha256": "fb0a3228590ccc4e46347b13880e7a4dc249650b6e6222f8e33444a505917a81",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.356
+},
+{
+"rel": "autobattle/battles/B10/foe_bands.tsv",
+"size": 395,
+"sha256": "e73bec75d3c8715eeaff70707091fafff4e3fb3fd19d3e72db1a326d5008c183",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.911
+},
+{
+"rel": "autobattle/battles/B10/foe_mode.txt",
+"size": 72,
+"sha256": "fbf6bd2154766ae73977a313e2c2c140f153d24345984863df6f8bd033d77d98",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.778
+},
+{
+"rel": "autobattle/battles/B10/KhdBattle.exe",
+"size": 139776,
+"sha256": "66afb05116f0c8a9f8845dd8c908b5e3801138582bb3f6a5562674ea20fb5be1",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.324
+},
+{
+"rel": "autobattle/battles/B10/missiles.tsv",
+"size": 551,
+"sha256": "0368dc929e6b4d5c1de5b798a2342d73539e39d307f834fb3974bbe5cc307d78",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.813
+},
+{
+"rel": "autobattle/battles/B10/motion_cats.tsv",
+"size": 4772,
+"sha256": "8077f5d94538bc364c441ef6a1a1c27af4560e0d295fed03e7798aee4ddd6e36",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.349
+},
+{
+"rel": "autobattle/battles/B10/motion_cats_def.tsv",
+"size": 30096,
+"sha256": "21a51521e1ed66c7d99d5e31a5da73756f4fec6ae71ee3cd4fbb91d9c7f79179",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.169
+},
+{
+"rel": "autobattle/battles/B10/move_kinds.tsv",
+"size": 474,
+"sha256": "f53abad2c0f017a31a2ba1cb9be344c6b72e5672861b302a11ad07ca11194555",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.709
+},
+{
+"rel": "autobattle/battles/B10/ours_extra.txt",
+"size": 4676,
+"sha256": "27e686c24333558f3bb25d1fab322af3e77846ad0c37dc6e65c9b167ffc1bf68",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.127
+},
+{
+"rel": "autobattle/battles/B10/play_log.tsv",
+"size": 5473846,
+"status": "exclude",
+"why": "기록(로그)"
+},
+{
+"rel": "autobattle/battles/B10/qm_bow_finish.txt",
+"size": 0,
+"sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.0
+},
+{
+"rel": "autobattle/battles/B10/skill_files.txt",
+"size": 24347,
+"sha256": "56ce430f52485b9af6edf6667c24bace591b8100e16a0e8b768f67cd594bbe11",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.06
+},
+{
+"rel": "autobattle/battles/B10/skill_names.tsv",
+"size": 6420,
+"sha256": "713250613b868ece227937b4b6300b574ec8a26c16edb0105548666e50a73871",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.37
+},
+{
+"rel": "autobattle/battles/B10/skill_power.tsv",
+"size": 9281,
+"sha256": "1f52e20e27adb6a6c2504a6aa759ff8f2f505b03e44ad1d3bfabdb19dcd1fe3d",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.224
+},
+{
+"rel": "autobattle/battles/B10/skill_stats.tsv",
+"size": 60107,
+"sha256": "bfd343ae198e980a6efc59545d4a802ecf9c20186ee5651783735f9af4c35a1c",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.081
+},
+{
+"rel": "autobattle/battles/B10/stage_bounds.tsv",
+"size": 174,
+"sha256": "ab4f05ca1353f37e5bb15eea9233bc1c4dd0f529306aa5ed49d94b331748ed2c",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.218
+},
+{
+"rel": "autobattle/battles/B10/stage_seen.tsv",
+"size": 99,
+"sha256": "508f47a28889bba23d36e7dd2c50767d054f0695dda9d2112f2efb2267d26617",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.495
+},
+{
+"rel": "autobattle/battles/B10/yog_dodge.txt",
+"size": 3,
+"sha256": "b6ac5bc39377e44ee783dff946f6703a994f5eb31a438e69dc0735b40060d2e8",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 20.0
+},
+{
+"rel": "autobattle/battles/B11/commands.tsv",
+"size": 22478,
+"sha256": "12a10b24ae82310730354505642cd9634ccd035a613749055fb279125ffc25ef",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.171
+},
+{
+"rel": "autobattle/battles/B11/danger.tsv",
+"size": 14946,
+"sha256": "60ac5349e5a3067476dfc28522e69cc6718d644968a1d5e9bd427c8bc1d83774",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.212
+},
+{
+"rel": "autobattle/battles/B11/dodge_stats.tsv",
+"size": 352,
+"sha256": "283a4e708019fb4b778eea748db2ae26d6e22ac9458c2584170c5717dedb3520",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.909
+},
+{
+"rel": "autobattle/battles/B11/enemy_moves.tsv",
+"size": 3597,
+"sha256": "d96c0af3112659d1136ede75975fe9805d5662d31d5cf9ac831cd13d075a40e0",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.446
+},
+{
+"rel": "autobattle/battles/B11/flags.tsv",
+"size": 160,
+"sha256": "cd01bb727e527c39d1d50ed2092d0f7029e3e720a1320e39125571127ff5e905",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.375
+},
+{
+"rel": "autobattle/battles/B11/foe_bands.tsv",
+"size": 395,
+"sha256": "e73bec75d3c8715eeaff70707091fafff4e3fb3fd19d3e72db1a326d5008c183",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.911
+},
+{
+"rel": "autobattle/battles/B11/foe_mode.txt",
+"size": 72,
+"sha256": "bb0d55a87ff5c9b7b8be821de4585514eea57ab1944e71f33b4e5397d47a320a",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.778
+},
+{
+"rel": "autobattle/battles/B11/KhdBattle.exe",
+"size": 124416,
+"sha256": "6349c96328ae67ece5cb1c887a5194b78ec233880add68ad22787360332a6b0e",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.333
+},
+{
+"rel": "autobattle/battles/B11/missiles.tsv",
+"size": 474,
+"sha256": "e77927720c3708f5fff2fb7e578e7cba4566af8362136b2d90c6f2e0ce5124b0",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.878
+},
+{
+"rel": "autobattle/battles/B11/motion_cats.tsv",
+"size": 4772,
+"sha256": "8077f5d94538bc364c441ef6a1a1c27af4560e0d295fed03e7798aee4ddd6e36",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.349
+},
+{
+"rel": "autobattle/battles/B11/motion_cats_def.tsv",
+"size": 30096,
+"sha256": "21a51521e1ed66c7d99d5e31a5da73756f4fec6ae71ee3cd4fbb91d9c7f79179",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.169
+},
+{
+"rel": "autobattle/battles/B11/move_kinds.tsv",
+"size": 597,
+"sha256": "1995e9e150545c43f92c1df55294f00833315ec029845ed809906135ea87d0d3",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.509
+},
+{
+"rel": "autobattle/battles/B11/ours_extra.txt",
+"size": 4676,
+"sha256": "27e686c24333558f3bb25d1fab322af3e77846ad0c37dc6e65c9b167ffc1bf68",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.127
+},
+{
+"rel": "autobattle/battles/B11/play_log.tsv",
+"size": 1107601,
+"status": "exclude",
+"why": "기록(로그)"
+},
+{
+"rel": "autobattle/battles/B11/qm_bow_finish.txt",
+"size": 0,
+"sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.0
+},
+{
+"rel": "autobattle/battles/B11/skill_files.txt",
+"size": 24347,
+"sha256": "56ce430f52485b9af6edf6667c24bace591b8100e16a0e8b768f67cd594bbe11",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.06
+},
+{
+"rel": "autobattle/battles/B11/skill_names.tsv",
+"size": 6420,
+"sha256": "713250613b868ece227937b4b6300b574ec8a26c16edb0105548666e50a73871",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.37
+},
+{
+"rel": "autobattle/battles/B11/skill_power.tsv",
+"size": 9281,
+"sha256": "1f52e20e27adb6a6c2504a6aa759ff8f2f505b03e44ad1d3bfabdb19dcd1fe3d",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.224
+},
+{
+"rel": "autobattle/battles/B11/skill_stats.tsv",
+"size": 60238,
+"sha256": "606c7d6fcf0ba106f96d30c9412865411b0d88733472a10cf3f15e497e49c508",
+"status": "ship",
+"since": "changed_since_1030",
+"ratio": 0.081
+},
+{
+"rel": "autobattle/battles/B11/stage_bounds.tsv",
+"size": 174,
+"sha256": "079473fffb385da07039971107378d99815436c3b8f39cb4155b361ab27ad43e",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.218
+},
+{
+"rel": "autobattle/battles/B11/stage_seen.tsv",
+"size": 98,
+"sha256": "5c7b4ec275c5a88dfe95d9fccfa49b165f2b663db7d8d7f53fff7166df1b6dde",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.51
+},
+{
+"rel": "autobattle/battles/B11/yog_dodge.txt",
+"size": 3,
+"sha256": "b6ac5bc39377e44ee783dff946f6703a994f5eb31a438e69dc0735b40060d2e8",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 20.0
+},
+{
+"rel": "autobattle/battles/B12/commands.tsv",
+"size": 22478,
+"sha256": "12a10b24ae82310730354505642cd9634ccd035a613749055fb279125ffc25ef",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.171
+},
+{
+"rel": "autobattle/battles/B12/danger.tsv",
+"size": 14946,
+"sha256": "60ac5349e5a3067476dfc28522e69cc6718d644968a1d5e9bd427c8bc1d83774",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.212
+},
+{
+"rel": "autobattle/battles/B12/dodge_stats.tsv",
+"size": 352,
+"sha256": "283a4e708019fb4b778eea748db2ae26d6e22ac9458c2584170c5717dedb3520",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.909
+},
+{
+"rel": "autobattle/battles/B12/enemy_moves.tsv",
+"size": 3415,
+"sha256": "3d28d623b18cc66162cb95c1ca309e748a8dd81a5d0ea84fd5eba93c36c453f6",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.494
+},
+{
+"rel": "autobattle/battles/B12/flags.tsv",
+"size": 209,
+"sha256": "0afc7cc1dfeb84989b4b6234408d895e91b8b7de3d89fed4399509d2b1033913",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.282
+},
+{
+"rel": "autobattle/battles/B12/foe_bands.tsv",
+"size": 413,
+"sha256": "0d2e0ef5f859ef8cbec5a55f9e158cc392bde1943dd496300c98bfed2a3e0e20",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.91
+},
+{
+"rel": "autobattle/battles/B12/foe_mode.txt",
+"size": 72,
+"sha256": "9fbcf6a60b86cde923d5e814cfb9b8bed323588adac90183456b8a740b00f79a",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.778
+},
+{
+"rel": "autobattle/battles/B12/KhdBattle.exe",
+"size": 123392,
+"sha256": "bad7798005b4f28216326a0a5cb2cd7cc1355b536a5513bfbcc5c284658dd88f",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.333
+},
+{
+"rel": "autobattle/battles/B12/missiles.tsv",
+"size": 474,
+"sha256": "e77927720c3708f5fff2fb7e578e7cba4566af8362136b2d90c6f2e0ce5124b0",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.878
+},
+{
+"rel": "autobattle/battles/B12/motion_cats.tsv",
+"size": 4772,
+"sha256": "8077f5d94538bc364c441ef6a1a1c27af4560e0d295fed03e7798aee4ddd6e36",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.349
+},
+{
+"rel": "autobattle/battles/B12/motion_cats_def.tsv",
+"size": 30096,
+"sha256": "21a51521e1ed66c7d99d5e31a5da73756f4fec6ae71ee3cd4fbb91d9c7f79179",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.169
+},
+{
+"rel": "autobattle/battles/B12/move_kinds.tsv",
+"size": 290,
+"sha256": "c157b7d63cead343fe2c65aa9abc4cc61be70a3cfbbaac3a39af1f8343385d76",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.841
+},
+{
+"rel": "autobattle/battles/B12/ours_extra.txt",
+"size": 4676,
+"sha256": "27e686c24333558f3bb25d1fab322af3e77846ad0c37dc6e65c9b167ffc1bf68",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.127
+},
+{
+"rel": "autobattle/battles/B12/play_log.tsv",
+"size": 574842,
+"status": "exclude",
+"why": "기록(로그)"
+},
+{
+"rel": "autobattle/battles/B12/qm_bow_finish.txt",
+"size": 0,
+"sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.0
+},
+{
+"rel": "autobattle/battles/B12/skill_files.txt",
+"size": 24347,
+"sha256": "56ce430f52485b9af6edf6667c24bace591b8100e16a0e8b768f67cd594bbe11",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.06
+},
+{
+"rel": "autobattle/battles/B12/skill_names.tsv",
+"size": 6420,
+"sha256": "713250613b868ece227937b4b6300b574ec8a26c16edb0105548666e50a73871",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.37
+},
+{
+"rel": "autobattle/battles/B12/skill_power.tsv",
+"size": 9281,
+"sha256": "1f52e20e27adb6a6c2504a6aa759ff8f2f505b03e44ad1d3bfabdb19dcd1fe3d",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.224
+},
+{
+"rel": "autobattle/battles/B12/skill_stats.tsv",
+"size": 60217,
+"sha256": "a3ac979613e515737b0b6fce994ca49711ba5d9c71bd9a76ac9e74d64379f583",
+"status": "ship",
+"since": "changed_since_1030",
+"ratio": 0.082
+},
+{
+"rel": "autobattle/battles/B12/stage_bounds.tsv",
+"size": 176,
+"sha256": "c80d1e00b861fca2299ad37434f9ca8691586d8092284228d7018843e363d413",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.182
+},
+{
+"rel": "autobattle/battles/B12/stage_seen.tsv",
+"size": 100,
+"sha256": "5b49a7c9f1ddb5a0999e58c062b3b4d5ccd52ecdf4cd5b39e63f2103ec342885",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.52
+},
+{
+"rel": "autobattle/battles/B12/yog_dodge.txt",
+"size": 3,
+"sha256": "b6ac5bc39377e44ee783dff946f6703a994f5eb31a438e69dc0735b40060d2e8",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 20.0
+},
+{
+"rel": "autobattle/battles/B13/commands.tsv",
+"size": 22478,
+"sha256": "12a10b24ae82310730354505642cd9634ccd035a613749055fb279125ffc25ef",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.171
+},
+{
+"rel": "autobattle/battles/B13/danger.tsv",
+"size": 14946,
+"sha256": "60ac5349e5a3067476dfc28522e69cc6718d644968a1d5e9bd427c8bc1d83774",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.212
+},
+{
+"rel": "autobattle/battles/B13/dodge_stats.tsv",
+"size": 352,
+"sha256": "283a4e708019fb4b778eea748db2ae26d6e22ac9458c2584170c5717dedb3520",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.909
+},
+{
+"rel": "autobattle/battles/B13/enemy_moves.tsv",
+"size": 3359,
+"sha256": "9f0bd83db8e187ed6fe5db00b89f3df2c1ae0a52eefd9a8f3adc069d5bb392b5",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.539
+},
+{
+"rel": "autobattle/battles/B13/flags.tsv",
+"size": 190,
+"sha256": "c6bc0694019b10be9f997cfb7b538a7d4553b34bdfd28b10e67d6ea8107b72b5",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.305
+},
+{
+"rel": "autobattle/battles/B13/foe_bands.tsv",
+"size": 395,
+"sha256": "e73bec75d3c8715eeaff70707091fafff4e3fb3fd19d3e72db1a326d5008c183",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.911
+},
+{
+"rel": "autobattle/battles/B13/foe_mode.txt",
+"size": 81,
+"sha256": "7ca97fca539d218800a056e081db6cc5ee0f4abc940492a049477ff694e28ddc",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.728
+},
+{
+"rel": "autobattle/battles/B13/KhdBattle.exe",
+"size": 123392,
+"sha256": "56e3b311795711c97301d33e96c058df09fddbdb7a583d87ac17886726bf6142",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.333
+},
+{
+"rel": "autobattle/battles/B13/missiles.tsv",
+"size": 474,
+"sha256": "e77927720c3708f5fff2fb7e578e7cba4566af8362136b2d90c6f2e0ce5124b0",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.878
+},
+{
+"rel": "autobattle/battles/B13/motion_cats.tsv",
+"size": 4772,
+"sha256": "8077f5d94538bc364c441ef6a1a1c27af4560e0d295fed03e7798aee4ddd6e36",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.349
+},
+{
+"rel": "autobattle/battles/B13/motion_cats_def.tsv",
+"size": 30096,
+"sha256": "21a51521e1ed66c7d99d5e31a5da73756f4fec6ae71ee3cd4fbb91d9c7f79179",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.169
+},
+{
+"rel": "autobattle/battles/B13/move_kinds.tsv",
+"size": 538,
+"sha256": "f7c4af20361a6575393e86b704f30be94d5f2520b84532bad2557c2d03b39f9a",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.483
+},
+{
+"rel": "autobattle/battles/B13/ours_extra.txt",
+"size": 4676,
+"sha256": "27e686c24333558f3bb25d1fab322af3e77846ad0c37dc6e65c9b167ffc1bf68",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.127
+},
+{
+"rel": "autobattle/battles/B13/play_log.tsv",
+"size": 694691,
+"status": "exclude",
+"why": "기록(로그)"
+},
+{
+"rel": "autobattle/battles/B13/qm_bow_finish.txt",
+"size": 0,
+"sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.0
+},
+{
+"rel": "autobattle/battles/B13/skill_files.txt",
+"size": 24347,
+"sha256": "56ce430f52485b9af6edf6667c24bace591b8100e16a0e8b768f67cd594bbe11",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.06
+},
+{
+"rel": "autobattle/battles/B13/skill_names.tsv",
+"size": 6420,
+"sha256": "713250613b868ece227937b4b6300b574ec8a26c16edb0105548666e50a73871",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.37
+},
+{
+"rel": "autobattle/battles/B13/skill_power.tsv",
+"size": 9281,
+"sha256": "1f52e20e27adb6a6c2504a6aa759ff8f2f505b03e44ad1d3bfabdb19dcd1fe3d",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.224
+},
+{
+"rel": "autobattle/battles/B13/skill_stats.tsv",
+"size": 60164,
+"sha256": "0817fe65e7b28181c359fe5317b7fe54df12b8eb92dd95ea5759227aa635ed2a",
+"status": "ship",
+"since": "changed_since_1030",
+"ratio": 0.081
+},
+{
+"rel": "autobattle/battles/B13/stage_bounds.tsv",
+"size": 180,
+"sha256": "3bda95267538436bf1c06153e6e18df504b8f7f6d9225cff17c6844e53711ee0",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.178
+},
+{
+"rel": "autobattle/battles/B13/stage_seen.tsv",
+"size": 100,
+"sha256": "2a870d82928a425ec0ad6b2cfea9840616ca342061c978b60ede9a9c298a1335",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.52
+},
+{
+"rel": "autobattle/battles/B13/yog_dodge.txt",
+"size": 3,
+"sha256": "b6ac5bc39377e44ee783dff946f6703a994f5eb31a438e69dc0735b40060d2e8",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 20.0
+},
+{
+"rel": "autobattle/battles/B14/commands.tsv",
+"size": 22478,
+"sha256": "12a10b24ae82310730354505642cd9634ccd035a613749055fb279125ffc25ef",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.171
+},
+{
+"rel": "autobattle/battles/B14/danger.tsv",
+"size": 14946,
+"sha256": "60ac5349e5a3067476dfc28522e69cc6718d644968a1d5e9bd427c8bc1d83774",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.212
+},
+{
+"rel": "autobattle/battles/B14/dodge_stats.tsv",
+"size": 352,
+"sha256": "283a4e708019fb4b778eea748db2ae26d6e22ac9458c2584170c5717dedb3520",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.909
+},
+{
+"rel": "autobattle/battles/B14/enemy_moves.tsv",
+"size": 5436,
+"sha256": "399b757191bac13048495ac9505fe1d02cca96ce8c010bf3f1a9ac71c3b57fad",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.33
+},
+{
+"rel": "autobattle/battles/B14/flags.tsv",
+"size": 167,
+"sha256": "7cff9961d68c453571f830a4330b2604f300b0510ea5b1ac5bf74e3469051386",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.389
+},
+{
+"rel": "autobattle/battles/B14/foe_bands.tsv",
+"size": 395,
+"sha256": "e73bec75d3c8715eeaff70707091fafff4e3fb3fd19d3e72db1a326d5008c183",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.911
+},
+{
+"rel": "autobattle/battles/B14/foe_mode.txt",
+"size": 72,
+"sha256": "b65d045e44fad9069e0e63d24cb3daea6a6447ec7996eb8f4f0c6d52f7a32635",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.778
+},
+{
+"rel": "autobattle/battles/B14/KhdBattle.exe",
+"size": 130048,
+"sha256": "525c1fe2c7debc9bad8ee7e5edfe3265589ceece78918bbbfb37b171b6067ce5",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.33
+},
+{
+"rel": "autobattle/battles/B14/missiles.tsv",
+"size": 474,
+"sha256": "e77927720c3708f5fff2fb7e578e7cba4566af8362136b2d90c6f2e0ce5124b0",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.878
+},
+{
+"rel": "autobattle/battles/B14/motion_cats.tsv",
+"size": 4772,
+"sha256": "8077f5d94538bc364c441ef6a1a1c27af4560e0d295fed03e7798aee4ddd6e36",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.349
+},
+{
+"rel": "autobattle/battles/B14/motion_cats_def.tsv",
+"size": 30096,
+"sha256": "21a51521e1ed66c7d99d5e31a5da73756f4fec6ae71ee3cd4fbb91d9c7f79179",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.169
+},
+{
+"rel": "autobattle/battles/B14/move_kinds.tsv",
+"size": 1718,
+"sha256": "b2472f97a8e6c772910a068f8bf05989da6355d1020859e8c4295dadb7b9285b",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.249
+},
+{
+"rel": "autobattle/battles/B14/ours_extra.txt",
+"size": 4676,
+"sha256": "27e686c24333558f3bb25d1fab322af3e77846ad0c37dc6e65c9b167ffc1bf68",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.127
+},
+{
+"rel": "autobattle/battles/B14/play_log.tsv",
+"size": 1936472,
+"status": "exclude",
+"why": "기록(로그)"
+},
+{
+"rel": "autobattle/battles/B14/qm_bow_finish.txt",
+"size": 0,
+"sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.0
+},
+{
+"rel": "autobattle/battles/B14/skill_files.txt",
+"size": 24347,
+"sha256": "56ce430f52485b9af6edf6667c24bace591b8100e16a0e8b768f67cd594bbe11",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.06
+},
+{
+"rel": "autobattle/battles/B14/skill_names.tsv",
+"size": 6420,
+"sha256": "713250613b868ece227937b4b6300b574ec8a26c16edb0105548666e50a73871",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.37
+},
+{
+"rel": "autobattle/battles/B14/skill_power.tsv",
+"size": 9281,
+"sha256": "1f52e20e27adb6a6c2504a6aa759ff8f2f505b03e44ad1d3bfabdb19dcd1fe3d",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.224
+},
+{
+"rel": "autobattle/battles/B14/skill_stats.tsv",
+"size": 60107,
+"sha256": "bfd343ae198e980a6efc59545d4a802ecf9c20186ee5651783735f9af4c35a1c",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.081
+},
+{
+"rel": "autobattle/battles/B14/stage_bounds.tsv",
+"size": 179,
+"sha256": "dda7a7444724d8b55515e882a0aeb1d377b20b31f83f48b096cf100cd2732550",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.14
+},
+{
+"rel": "autobattle/battles/B14/stage_seen.tsv",
+"size": 100,
+"sha256": "c20a9eafd6f7ce1e19aea42dac6ccbf6cd6e7b50a1e2dfb78499abe569417971",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.44
+},
+{
+"rel": "autobattle/battles/B14/yog_dodge.txt",
+"size": 3,
+"sha256": "b6ac5bc39377e44ee783dff946f6703a994f5eb31a438e69dc0735b40060d2e8",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 20.0
+},
+{
+"rel": "autobattle/battles/B15/commands.tsv",
+"size": 22478,
+"sha256": "12a10b24ae82310730354505642cd9634ccd035a613749055fb279125ffc25ef",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.171
+},
+{
+"rel": "autobattle/battles/B15/danger.tsv",
+"size": 14946,
+"sha256": "60ac5349e5a3067476dfc28522e69cc6718d644968a1d5e9bd427c8bc1d83774",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.212
+},
+{
+"rel": "autobattle/battles/B15/dodge_stats.tsv",
+"size": 352,
+"sha256": "283a4e708019fb4b778eea748db2ae26d6e22ac9458c2584170c5717dedb3520",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.909
+},
+{
+"rel": "autobattle/battles/B15/enemy_moves.tsv",
+"size": 2644,
+"sha256": "d0435ac70ec5614a3a74256409cb6029fada9b67caabb876b803ca0e5acc1f2c",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.554
+},
+{
+"rel": "autobattle/battles/B15/flags.tsv",
+"size": 190,
+"sha256": "b2eacae4d22b21d1014a24e576ce7f1ddd57c12a970f1e97de7c3d0ec07825d2",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.326
+},
+{
+"rel": "autobattle/battles/B15/foe_bands.tsv",
+"size": 395,
+"sha256": "e73bec75d3c8715eeaff70707091fafff4e3fb3fd19d3e72db1a326d5008c183",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.911
+},
+{
+"rel": "autobattle/battles/B15/foe_mode.txt",
+"size": 72,
+"sha256": "0e353bcdff63a062a396ae00c557d26af073d14f4a10bc0334380535bf62f10a",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.778
+},
+{
+"rel": "autobattle/battles/B15/KhdBattle.exe",
+"size": 123392,
+"sha256": "4122714297d91e8e0f8136973a41128023aea377f2c2604716e36b0d15d92feb",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.333
+},
+{
+"rel": "autobattle/battles/B15/missiles.tsv",
+"size": 564,
+"sha256": "6b8ec963e1a5d02297da5a45209c39f142210f42b11d86ed9f1e3f9fdd752211",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.78
+},
+{
+"rel": "autobattle/battles/B15/motion_cats.tsv",
+"size": 4772,
+"sha256": "8077f5d94538bc364c441ef6a1a1c27af4560e0d295fed03e7798aee4ddd6e36",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.349
+},
+{
+"rel": "autobattle/battles/B15/motion_cats_def.tsv",
+"size": 30096,
+"sha256": "21a51521e1ed66c7d99d5e31a5da73756f4fec6ae71ee3cd4fbb91d9c7f79179",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.169
+},
+{
+"rel": "autobattle/battles/B15/move_kinds.tsv",
+"size": 354,
+"sha256": "9c42f434d0a02349184a0c94fda0a64d49142bc34e29889bda889350918570f1",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.78
+},
+{
+"rel": "autobattle/battles/B15/ours_extra.txt",
+"size": 4676,
+"sha256": "27e686c24333558f3bb25d1fab322af3e77846ad0c37dc6e65c9b167ffc1bf68",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.127
+},
+{
+"rel": "autobattle/battles/B15/play_log.tsv",
+"size": 174949,
+"status": "exclude",
+"why": "기록(로그)"
+},
+{
+"rel": "autobattle/battles/B15/qm_bow_finish.txt",
+"size": 0,
+"sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.0
+},
+{
+"rel": "autobattle/battles/B15/skill_files.txt",
+"size": 24347,
+"sha256": "56ce430f52485b9af6edf6667c24bace591b8100e16a0e8b768f67cd594bbe11",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.06
+},
+{
+"rel": "autobattle/battles/B15/skill_names.tsv",
+"size": 6420,
+"sha256": "713250613b868ece227937b4b6300b574ec8a26c16edb0105548666e50a73871",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.37
+},
+{
+"rel": "autobattle/battles/B15/skill_power.tsv",
+"size": 9281,
+"sha256": "1f52e20e27adb6a6c2504a6aa759ff8f2f505b03e44ad1d3bfabdb19dcd1fe3d",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.224
+},
+{
+"rel": "autobattle/battles/B15/skill_stats.tsv",
+"size": 60107,
+"sha256": "bfd343ae198e980a6efc59545d4a802ecf9c20186ee5651783735f9af4c35a1c",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.081
+},
+{
+"rel": "autobattle/battles/B15/stage_bounds.tsv",
+"size": 176,
+"sha256": "66f018ea63217ca20ca3363fae61e39f9b1631216408421f945fbea340bdb070",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.182
+},
+{
+"rel": "autobattle/battles/B15/yog_dodge.txt",
+"size": 3,
+"sha256": "b6ac5bc39377e44ee783dff946f6703a994f5eb31a438e69dc0735b40060d2e8",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 20.0
+},
+{
+"rel": "autobattle/battles/B16/commands.tsv",
+"size": 22478,
+"sha256": "12a10b24ae82310730354505642cd9634ccd035a613749055fb279125ffc25ef",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.171
+},
+{
+"rel": "autobattle/battles/B16/danger.tsv",
+"size": 14962,
+"sha256": "08f4b133ea89dde294138803bd93f95d70278832087916127f1b09e8525a416a",
+"status": "ship",
+"since": "changed_since_1030",
+"ratio": 0.212
+},
+{
+"rel": "autobattle/battles/B16/dodge_stats.tsv",
+"size": 352,
+"sha256": "283a4e708019fb4b778eea748db2ae26d6e22ac9458c2584170c5717dedb3520",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.909
+},
+{
+"rel": "autobattle/battles/B16/enemy_moves.tsv",
+"size": 3426,
+"sha256": "8e84600a0e9751ea2dec8370373d5782767a375abd9bbabc1e55d1dd48ff4123",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.552
+},
+{
+"rel": "autobattle/battles/B16/flags.tsv",
+"size": 211,
+"sha256": "a4408afdb3f7239d216ef9863298b7b8bf74bee2b488a5e13da15a2fe1ed6cf0",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.289
+},
+{
+"rel": "autobattle/battles/B16/foe_bands.tsv",
+"size": 395,
+"sha256": "e73bec75d3c8715eeaff70707091fafff4e3fb3fd19d3e72db1a326d5008c183",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.911
+},
+{
+"rel": "autobattle/battles/B16/foe_mode.txt",
+"size": 81,
+"sha256": "fc455f29ec191f2c00d7e87dd098e68b8a12dc1b8b3eaf5ba6dfee76f65a3771",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.728
+},
+{
+"rel": "autobattle/battles/B16/KhdBattle.exe",
+"size": 125952,
+"sha256": "92476c97d172480ab316adcac8430260414f5048cf196625c409af8a7833e0d6",
+"status": "ship",
+"since": "changed_since_1030",
+"ratio": 0.336
+},
+{
+"rel": "autobattle/battles/B16/missiles.tsv",
+"size": 474,
+"sha256": "e77927720c3708f5fff2fb7e578e7cba4566af8362136b2d90c6f2e0ce5124b0",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.878
+},
+{
+"rel": "autobattle/battles/B16/motion_cats.tsv",
+"size": 4772,
+"sha256": "8077f5d94538bc364c441ef6a1a1c27af4560e0d295fed03e7798aee4ddd6e36",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.349
+},
+{
+"rel": "autobattle/battles/B16/motion_cats_def.tsv",
+"size": 30096,
+"sha256": "21a51521e1ed66c7d99d5e31a5da73756f4fec6ae71ee3cd4fbb91d9c7f79179",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.169
+},
+{
+"rel": "autobattle/battles/B16/move_kinds.tsv",
+"size": 446,
+"sha256": "fcc89e80636d3f63806638f9722ed4adb397ed8f6a5a3ef6a6520bd9e8e5651e",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.628
+},
+{
+"rel": "autobattle/battles/B16/ours_extra.txt",
+"size": 4676,
+"sha256": "27e686c24333558f3bb25d1fab322af3e77846ad0c37dc6e65c9b167ffc1bf68",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.127
+},
+{
+"rel": "autobattle/battles/B16/play_log.tsv",
+"size": 367016,
+"status": "exclude",
+"why": "기록(로그)"
+},
+{
+"rel": "autobattle/battles/B16/qm_bow_finish.txt",
+"size": 0,
+"sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.0
+},
+{
+"rel": "autobattle/battles/B16/skill_files.txt",
+"size": 24347,
+"sha256": "56ce430f52485b9af6edf6667c24bace591b8100e16a0e8b768f67cd594bbe11",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.06
+},
+{
+"rel": "autobattle/battles/B16/skill_names.tsv",
+"size": 6420,
+"sha256": "713250613b868ece227937b4b6300b574ec8a26c16edb0105548666e50a73871",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.37
+},
+{
+"rel": "autobattle/battles/B16/skill_power.tsv",
+"size": 9281,
+"sha256": "1f52e20e27adb6a6c2504a6aa759ff8f2f505b03e44ad1d3bfabdb19dcd1fe3d",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.224
+},
+{
+"rel": "autobattle/battles/B16/skill_stats.tsv",
+"size": 60107,
+"sha256": "bfd343ae198e980a6efc59545d4a802ecf9c20186ee5651783735f9af4c35a1c",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.081
+},
+{
+"rel": "autobattle/battles/B16/stage_bounds.tsv",
+"size": 175,
+"sha256": "c544fe5f88d7b8a8903cb675da520c4f19b84465cbb212e5069b1870848bb6ba",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 1.211
+},
+{
+"rel": "autobattle/battles/B16/yog_dodge.txt",
+"size": 3,
+"sha256": "b6ac5bc39377e44ee783dff946f6703a994f5eb31a438e69dc0735b40060d2e8",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 20.0
+},
+{
+"rel": "autobattle/duel_ai_alias.tsv",
+"size": 61944,
+"sha256": "6c4751791f756afd7e4be030fe55f5b6d09ebba9d8240894c773f3af500f4b81",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.055
+},
+{
+"rel": "autobattle/duel_auto.tsv",
+"size": 13055,
+"sha256": "76999db598376764dec6a4fef73523a7fb26077b2f3892161019c7cb0d673e3a",
+"status": "ship",
+"since": "changed_since_1030",
+"ratio": 0.154
+},
+{
+"rel": "autobattle/duel_balance.tsv",
+"size": 28187,
+"sha256": "758822d6d6a9f18d1b1c1c803f8ba606ff6c2bae0ff8b26afd115d7a8a1664f0",
+"status": "ship",
+"since": "changed_since_1030",
+"ratio": 0.184
+},
+{
+"rel": "autobattle/duel_balance.tsv.before_mmhm_fire_20261105",
+"size": 27987,
+"status": "exclude",
+"why": "옛 판·백업·덤프"
+},
+{
+"rel": "autobattle/duel_balance_scenes.tsv",
+"size": 9980,
+"sha256": "290b60b87d130930a4ac0d81bd4d781044f46aaee04e6a0853e22576827bd39d",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.162
+},
+{
+"rel": "autobattle/hard/dmpack900_hard.dat",
+"size": 2842155,
+"sha256": "40466e40d498893d2db0ff71e3083e06ab5ce48003a69131a24b9234b092d392",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.253
+},
+{
+"rel": "autobattle/khd4k.dll",
+"size": 240640,
+"sha256": "9b7eacdc2e17d05fad8578987786d07c8c7d2e16497195d67c4a0f101a53f55f",
+"status": "ship",
+"since": "changed_since_1030",
+"ratio": 0.5
+},
+{
+"rel": "autobattle/khd4k_frame.raw",
+"size": 1440000,
+"sha256": "b44f4178e1ecb57354bd01990182fa25ed8f80bbdb90160bc822d06a80774981",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.454
+},
+{
+"rel": "autobattle/khd4k_trace.txt",
+"size": 781168,
+"status": "exclude",
+"why": "기록(로그)"
+},
+{
+"rel": "autobattle/KhdAutoBattle.exe",
+"size": 30208,
+"sha256": "397c670138ad21ca78078830df11eaaee486866479effd7447f476a008dc074b",
+"status": "ship",
+"since": "changed_since_1030",
+"ratio": 0.467
+},
+{
+"rel": "autobattle/KhdSubtitles.exe",
+"size": 32768,
+"sha256": "b1c019bc6d0ba9c5fc0926c5951c2fe9df53a6be7914e3f2fa5216a7b12fa57d",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.476
+},
+{
+"rel": "autobattle/ours_extra.txt",
+"size": 4676,
+"sha256": "27e686c24333558f3bb25d1fab322af3e77846ad0c37dc6e65c9b167ffc1bf68",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.127
+},
+{
+"rel": "autobattle/play_error.txt",
+"size": 64,
+"status": "exclude",
+"why": "기록(로그)"
+},
+{
+"rel": "autobattle/play_log.old.tsv",
+"size": 48048949,
+"status": "exclude",
+"why": "기록(로그)"
+},
+{
+"rel": "autobattle/play_log.tsv",
+"size": 2530013,
+"status": "exclude",
+"why": "기록(로그)"
+},
+{
+"rel": "autobattle/proxy_log.txt",
+"size": 16766440,
+"status": "exclude",
+"why": "기록(로그)"
+},
+{
+"rel": "autobattle/skill_files.txt",
+"size": 24347,
+"sha256": "56ce430f52485b9af6edf6667c24bace591b8100e16a0e8b768f67cd594bbe11",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.06
+},
+{
+"rel": "autobattle/skill_names.tsv",
+"size": 6420,
+"sha256": "8a4b9d838e94b9db70c35fa017152adef3230ed632ab1abff8bfd230cf728b7e",
+"status": "ship",
+"since": "changed_since_1030",
+"ratio": 0.37
+},
+{
+"rel": "autobattle/story_subs.before_codex_20261018.tsv",
+"size": 3754,
+"status": "exclude",
+"why": "옛 판·백업·덤프"
+},
+{
+"rel": "autobattle/story_subs.tsv",
+"size": 7969,
+"sha256": "0173bfc367785164ea763b334dba0d3491c11db316cd13525b1d5fc7d862eb6b",
+"status": "ship",
+"since": "changed_since_1030",
+"ratio": 0.397
+},
+{
+"rel": "autobattle/story_subs.tsv.before_freefight",
+"size": 7756,
+"status": "exclude",
+"why": "옛 판·백업·덤프"
+},
+{
+"rel": "autobattle/subs.tsv",
+"size": 145298,
+"sha256": "7a191d8c683e9e696e3e82fbe6491b6f7627bf5c4a299901ed28ca515fe1ac7a",
+"status": "ship",
+"since": "changed_since_1030",
+"ratio": 0.168
+},
+{
+"rel": "autobattle/subs_long.tsv",
+"size": 1416,
+"sha256": "76c7660adab51f5c2d8bdeace0bcb206a53d7c16fb7d7d9a7287120d3579e4ae",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.458
+},
+{
+"rel": "autobattle/subtitle_log.tsv",
+"size": 17974697,
+"status": "exclude",
+"why": "기록(로그)"
+},
+{
+"rel": "autobattle/subtitle_status.txt",
+"size": 25,
+"status": "exclude",
+"why": "기록(로그)"
+},
+{
+"rel": "autobattle/ui/band_bottom.bmp",
+"size": 172854,
+"sha256": "e2d10442835ebdce27792d5262c2dc1668f4bd48d331bbd27581623ab2a03729",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.577
+},
+{
+"rel": "autobattle/ui/band_top.bmp",
+"size": 172854,
+"sha256": "d30da0e1dfb0a7a6fd078fc02610313b9c7fc564426519d3ec6bc250f918c413",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.575
+},
+{
+"rel": "autobattle/ui/face_00.bmp",
+"size": 2814,
+"sha256": "388cd21d50da44244d7900e423c836661d4088a21844064b30dd71d49a14747e",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.691
+},
+{
+"rel": "autobattle/ui/face_01.bmp",
+"size": 2814,
+"sha256": "497aadee1d0b75f41dff317143cdb639c697aa88a96408c12109bf2b1a6a14ec",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.809
+},
+{
+"rel": "autobattle/ui/face_02.bmp",
+"size": 2814,
+"sha256": "b6e6774e68c33358d3e5a1d21891636c0b2958e26bce0336108a27e549f5f901",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.806
+},
+{
+"rel": "autobattle/ui/face_03.bmp",
+"size": 2814,
+"sha256": "62af89da1727cff8d76d5e70490e0c299c02a2b7254f53c827d36260b3105751",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.839
+},
+{
+"rel": "autobattle/ui/face_04.bmp",
+"size": 2814,
+"sha256": "25411b3121b0b152e9bfd79142c11c278a5e7d6018d95b0097884d4356adac46",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.721
+},
+{
+"rel": "autobattle/ui/face_05.bmp",
+"size": 2814,
+"sha256": "0a771aa0da1c50af62af70f25ce66c824996bf55200588aee4301c2ec3ccfdd6",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.665
+},
+{
+"rel": "autobattle/ui/face_06.bmp",
+"size": 2814,
+"sha256": "057f83afcbd666426d14a394db30810b1003f05ebf86469dc895b4fdb05bc263",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.778
+},
+{
+"rel": "autobattle/ui/face_07.bmp",
+"size": 2814,
+"sha256": "ba2452b4920e45b2b3b0ba059bba102492a64208a2df45b6db491debd7f81813",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.78
+},
+{
+"rel": "autobattle/ui/face_08.bmp",
+"size": 2814,
+"sha256": "fc21c8426da2c79559291290f26b3c89aad70d6f283b7d681b7e004a0fa2e69f",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.793
+},
+{
+"rel": "autobattle/ui/face_09.bmp",
+"size": 2814,
+"sha256": "4a6aeab9ae61b597f2e2efd693ac45c19141b21e2e1f77b2ec5774c1758ffc90",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.793
+},
+{
+"rel": "autobattle/ui/face_10.bmp",
+"size": 2814,
+"sha256": "744b71e54525cc0c33adb635380df67fc8265c05512f380c7fefb9986d943ba4",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.763
+},
+{
+"rel": "autobattle/ui/face_11.bmp",
+"size": 2814,
+"sha256": "b73c68a3cac9b3bcbcded51175fd08f5f03059b64d7deb8583ce58bb3bdf51d8",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.071
+},
+{
+"rel": "autobattle/ui/face_12.bmp",
+"size": 2814,
+"sha256": "f0a6814445f4c89022241d722421d7cdbf458f46cd5a9e20cde4dd37d69cd881",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.773
+},
+{
+"rel": "autobattle/ui/face_13.bmp",
+"size": 2814,
+"sha256": "eaa084a0b6761ce83d3cd0b00c1438f30357942e5ec12c0ad85b2a11fb8d4aeb",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.702
+},
+{
+"rel": "autobattle/ui/face_14.bmp",
+"size": 2814,
+"sha256": "70552df9a6907302e10065ebea6abb00ef8929fdd511c1a162bf83988ea58bda",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.657
+},
+{
+"rel": "autobattle/ui/khd_v6.manifest",
+"size": 426,
+"sha256": "da761b6d59a82dcab2747fa8e94b9654a9e94513e090678a5516f1346a6af40e",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.808
+},
+{
+"rel": "autobattle/ui/parchment.bmp",
+"size": 860214,
+"sha256": "c0f0bf4d7fce150fccfa4e10827daeae7b97f5cc383721d271ad9c969f9ca137",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.27
+},
+{
+"rel": "autobattle/voice_groups.tsv",
+"size": 258789,
+"sha256": "8cb4f1ea84b4dc8cef1a3535e53d377e819c289476210e477a2f00f3be6ed86d",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.12
+},
+{
+"rel": "autobattle/voice_len.tsv",
+"size": 92786,
+"sha256": "41612444b2ac4ee46a3846354443610f78a2dfdbc24698eeed2c3a90175570a4",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.136
+},
+{
+"rel": "autobattle/읽어주세요.before_duel_20261018.md",
+"size": 11994,
+"status": "exclude",
+"why": "옛 판·백업·덤프"
+},
+{
+"rel": "autobattle/읽어주세요.md",
+"size": 35288,
+"sha256": "d6cf7ae5bf2e7ad647e0e75ba4faf2fc3377b3fcd00160a88e93195b324ad37d",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.347
+},
+{
+"rel": "cg.pak",
+"size": 421537007,
+"sha256": "e5296a04dc730a01419c0e0603ad98e3643dc0a0a43e0c20f16c31978a84dc0d",
+"status": "base"
+},
+{
+"rel": "d3d8.dll.d3d8to9_off",
+"size": 124416,
+"status": "exclude",
+"why": "옛 판·백업·덤프"
+},
+{
+"rel": "d3d8.dll.dgvoodoo_off",
+"size": 414208,
+"status": "exclude",
+"why": "옛 판·백업·덤프"
+},
+{
+"rel": "d3dxof.dll",
+"size": 199680,
+"sha256": "dd2714882977d1873748c614ab0ecb3064af5cfe1f47172d753b3221c7006127",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.484
+},
+{
+"rel": "demonbane.dll",
+"size": 1241088,
+"sha256": "50f8eb9c9c29f5c1fccfb6cfdd6a456897e7da4d8ea6590188cb5eef96012f70",
+"status": "ship",
+"since": "changed_since_1030",
+"ratio": 0.451
+},
+{
+"rel": "demonbane.dll.before_escpause_4D891D51.bak",
+"size": 1241088,
+"status": "exclude",
+"why": "옛 판·백업·덤프"
+},
+{
+"rel": "demonbane.dll.before_vtap_4493E5BF.bak",
+"size": 1241088,
+"status": "exclude",
+"why": "옛 판·백업·덤프"
+},
+{
+"rel": "demonbane.dll.orig_3F389D2D",
+"size": 1241088,
+"status": "exclude",
+"why": "옛 판·백업·덤프"
+},
+{
+"rel": "dgVoodoo.conf",
+"size": 21870,
+"status": "exclude",
+"why": "dgVoodoo 설정(dgVoodoo 는 11-03 부터 꺼짐)"
+},
+{
+"rel": "dinput8.dll",
+"size": 456704,
+"sha256": "93f3361b96ef38c9158f3c7c71f66426baa626c2d22e22c299af6c10e3f22760",
+"status": "ship",
+"since": "changed_since_1030",
+"ratio": 0.468
+},
+{
+"rel": "dinput8.dll.before_duel_4EB0F276",
+"size": 190976,
+"status": "exclude",
+"why": "옛 판·백업·덤프"
+},
+{
+"rel": "dinput8.dll.before_esc_9BD68572.bak",
+"size": 188928,
+"status": "exclude",
+"why": "옛 판·백업·덤프"
+},
+{
+"rel": "dmpack.dat",
+"size": 350378339,
+"sha256": "2c68eca68803ded9c901a32eeea8b84bc20fc21ead8f0cf6e88074236446e59b",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.658
+},
+{
+"rel": "dmpack.dat.orig_FDD3D1A8",
+"size": 350364479,
+"status": "exclude",
+"why": "옛 판·백업·덤프"
+},
+{
+"rel": "dmpack001.dat",
+"size": 33284227,
+"sha256": "5f2f1a0df8a10b437357d3d8b4c5e4860c3c139b3c22f1425c730f5d7beb27ca",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.557
+},
+{
+"rel": "dmpack001.dat.orig_0B479A4D",
+"size": 33248392,
+"status": "exclude",
+"why": "옛 판·백업·덤프"
+},
+{
+"rel": "dmpack002.dat",
+"size": 27875209,
+"sha256": "6b71ab05ae6e821ccda35bf456dc67da92f477cebb22bc8cc0648bc3b6afed61",
+"status": "base"
+},
+{
+"rel": "dmpack003.dat",
+"size": 525939,
+"sha256": "5e0e1989de942b3fe19ca2c5be042624162eab88b803e2688db30d87b7aa5693",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.207
+},
+{
+"rel": "dmpack500_replay.dat",
+"size": 11114207,
+"sha256": "2e6528f11138be7c5f76179599c1557d438e585710dd40ee54c56b4e30a797bf",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.137
+},
+{
+"rel": "dmpack500_replay.dat.before_cross_044C5E77",
+"size": 5633481,
+"status": "exclude",
+"why": "옛 판·백업·덤프"
+},
+{
+"rel": "dmpack502_duel.dat",
+"size": 23419140,
+"sha256": "e4f2babed4a295c04035578998a582f1196465e37ceef76e82eeafdb4a8ca00f",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.295
+},
+{
+"rel": "dmpack504_duelhero.dat",
+"size": 14983522,
+"sha256": "287beb30c23ea11ef103ce86dee88ad226923e906c0dbe7a8d6dd79557d2072f",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.143
+},
+{
+"rel": "dmpack505_duelauto.dat",
+"size": 226688606,
+"sha256": "9c5e80808f7242be756a365eee84e7c1277fa3eb5e90d63f3f5e1b79e6aff2aa",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.051
+},
+{
+"rel": "dmpack506_duelfix.dat",
+"size": 34734761,
+"sha256": "a46fb64d973ca4fe861a3ad2850eaf4ca6a79ed8451b370561bafa105c02653f",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.058
+},
+{
+"rel": "dmpack508_mm_qm_c12.dat",
+"size": 1647823,
+"sha256": "65139b3b80651a539337a58bbd8a68a09fe6d6f204e4830d6469922186dca687",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.109
+},
+{
+"rel": "dmpack509_mm_stall.dat",
+"size": 759535,
+"sha256": "5fab2f782c020c368559aa1ff46b68ca2033e9b3ac318e80345a7843d46e4927",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.126
+},
+{
+"rel": "dmpack510_nero_ground.dat",
+"size": 16775798,
+"sha256": "13fa6230da0eda9e5444feebf4cf18ec0150e33810f812ecc5787b231db0bab4",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.056
+},
+{
+"rel": "dmpack512_aion_native_ai.dat",
+"size": 1097817,
+"sha256": "e1badeaaa201be31eb391e9dae6496b2099653b58d08267288666f23eb35eab9",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.164
+},
+{
+"rel": "dmpack513_hm_owned.dat",
+"size": 824214,
+"sha256": "98b835fe37b93386152c94d6fde282d8c60635510f4e9a06d232fab41e4adff2",
+"status": "ship",
+"since": "changed_since_1030",
+"ratio": 0.122
+},
+{
+"rel": "dmpack514_a2_air.dat",
+"size": 413189,
+"sha256": "8421d1976c43554fadf09be179afa94f6e198bfe39c39bf4cec89952bfc6a082",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.224
+},
+{
+"rel": "dmpack514_am_owned.dat",
+"size": 441692,
+"sha256": "4089d92cb83e7935cd6148deafd76b5f9080accf05d4ae3333e24f0f33e2af0e",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.209
+},
+{
+"rel": "dmpack514_em_owned.dat",
+"size": 821337,
+"sha256": "5ea6ef84a175a5191ef469129eaf0774fe163c5872b76a6412a76cf2c35d80a0",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.129
+},
+{
+"rel": "dmpack514_f2_owned.dat",
+"size": 366791,
+"sha256": "0c38701f5f542e2c82f0f71992257af39545476ee1d514f149769d320ecaa8ab",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.228
+},
+{
+"rel": "dmpack517_nero_demonbane.dat",
+"size": 820191,
+"sha256": "42ff32530a7b7896bee696473885b49641accafef08de63ebea3738133ee46d8",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.165
+},
+{
+"rel": "dmpack520_kokuin666.dat",
+"size": 43586632,
+"sha256": "739f5392cdc9986237e45ddc82e5a95a20508882515c24e01999e2ff1682e000",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.056
+},
+{
+"rel": "dmpack522_hard_v11.dat",
+"size": 184406465,
+"sha256": "7144afbc56ab717bff06f577ff38abb84cfcfb3df164802c515302f4ba644423",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.156
+},
+{
+"rel": "dmpack523_tiberius_mix.dat",
+"size": 31699318,
+"sha256": "0a1d12e2dd18340e79faf3ce3bbc02c61c8480cc10ae8a94c433b5e594d84b89",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.044
+},
+{
+"rel": "dmpack524_pause.dat",
+"size": 4718914,
+"sha256": "d5b82aa32894091161e02fa41185c155369c7d7df3e69fdbf182d6396f9a3a1b",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.007
+},
+{
+"rel": "dmpack525_auto_pause.dat",
+"size": 4718914,
+"sha256": "7248451900ae2e8ba91f5d32eac94fd9402a88ec6b4caed500f231a0f601a96e",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.008
+},
+{
+"rel": "dmpack526_nero_demonbane_hard.dat",
+"size": 43156,
+"sha256": "ac4ad9c13933621e8d60f4faf2cf949dad5fde4f95f82fa6464b52174a344bb1",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.238
+},
+{
+"rel": "dmpack530_duel_sight.dat",
+"size": 46153143,
+"sha256": "08506a4558b333adf865fef093899b142fc6944b5f52d3728899cb876d0c8aa5",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.018
+},
+{
+"rel": "dmpack531_mm_finishers.dat",
+"size": 3567863,
+"sha256": "7d102270cc071d9fbb4cde93d1db5db9525e728fdfa89a8c098767cc2de19b2c",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.151
+},
+{
+"rel": "dmpack532_hm_load_ai.dat",
+"size": 4588621,
+"sha256": "ee4504c900b1c9cbe0a3f803ef8ac3ccca80dbd555504ee1d375bb59a2c6143c",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.036
+},
+{
+"rel": "dmpack533_nero_event.dat",
+"size": 34878839,
+"sha256": "93540cc269fd2d26dbf8a04afc31ac4b5564ede234294f89649bb5aaae3fd44a",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.042
+},
+{
+"rel": "dmpack534_nero_ground_p1.dat",
+"size": 233068,
+"sha256": "019abfcbe1c6ff5aae4381f3412c724043d3bfc382d8c5145905d5646232fd2a",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.197
+},
+{
+"rel": "dmpack535_pm_yog_voice.dat",
+"size": 7467535,
+"sha256": "04116e5936f1646c0ee2e11edcf6a64cdf3775cc8ba95055ee80206f7d3ff6e6",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.031
+},
+{
+"rel": "dmpack536_nero_story.dat",
+"size": 508306,
+"sha256": "0eb6a6ae64e29680dcf47b533308fb6d5a06290b63d3d733bb8155a95b1c5eb4",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.142
+},
+{
+"rel": "dmpack540_nero_ground_sword_arm.dat",
+"size": 18961100,
+"sha256": "faa218e246fd57c964182928b0dd51fc601e52a509e5fa9ea4a21e6493f87505",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.024
+},
+{
+"rel": "dmpack541_nero_kokuin_guard.dat",
+"size": 10385568,
+"sha256": "a194de68b6b6b1f94cd1c05a24f2b3e616ea8cca6eea41a684c47b5479accf2b",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.043
+},
+{
+"rel": "dmpack542_hard_cast_guard.dat",
+"size": 15561705,
+"sha256": "c52b8ab2a33acff48e3c1b563222dd269048dbefc2ca19d3b699368719aa1c54",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.029
+},
+{
+"rel": "dmpack543_gm_shot_nero_only.dat",
+"size": 1482232,
+"sha256": "776c96d5249b8b57e5a4be0318d526a6152f43ba69c7f580558acdfbc0a48f4a",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.051
+},
+{
+"rel": "dmpack544_hero_held.dat",
+"size": 78287688,
+"sha256": "b6627e2e655a0b82e4a46943d61c449b7304cc71cc3b26d4b10cc2bdac4fa5ca",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.039
+},
+{
+"rel": "dmpack545_kraken_catch_node.dat",
+"size": 14322,
+"sha256": "3091c4d614cd4f655bc9c2b88908899395fc96ff5ac1ce160728ab5f927654e5",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.287
+},
+{
+"rel": "dmpack546_badtrip_catch_node.dat",
+"size": 31858086,
+"sha256": "e9f4de349825e1337d9aa93e84da9087fc352b6eec936fc20c50b27f4f36b328",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.027
+},
+{
+"rel": "dmpack547_grab_catch_node.dat",
+"size": 16765137,
+"sha256": "fd704bd0e6660630a4fdbd3059245e07afcbbe3c871e86a96f683abed40a317b",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.038
+},
+{
+"rel": "dmpack600_retex.dat",
+"size": 61796739,
+"sha256": "20251cfcca0d29c889be91d9523001da602c1531231b08b406d0fc256545b805",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.264
+},
+{
+"rel": "FONTCHANGER.dll",
+"size": 334848,
+"sha256": "a64a2667795582a4f8e2af5bc6b089344949e883118e115775a46ea2aa889038",
+"status": "ship",
+"since": "changed_since_1030",
+"ratio": 0.451
+},
+{
+"rel": "hook.ini",
+"size": 353,
+"sha256": "00cd55c840cb0f426f76b5be2cd5261cb5d5224dd296876adbe76431e712e1f8",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.861
+},
+{
+"rel": "khdcam.ini",
+"size": 2040,
+"sha256": "400116f1f76f3cce183298a9d3d32c821650faf56c51bc5a0f958b7c037bcf5d",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.504
+},
+{
+"rel": "khdcam_log.txt",
+"size": 2432,
+"status": "exclude",
+"why": "기록(로그)"
+},
+{
+"rel": "khdjump.ini",
+"size": 416,
+"sha256": "d64d3cace9f10a378ac83945d4b5e6a6c021a226464b1cdbc3a70aaa778bffaf",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.846
+},
+{
+"rel": "khdjump_log.txt",
+"size": 70325,
+"status": "exclude",
+"why": "기록(로그)"
+},
+{
+"rel": "KHDKorean-CP932Han-Ext.otf",
+"size": 16474720,
+"sha256": "a3c90c701b114e7a2d78d849f63d305b8c18641e113d64ac6c5917045381a796",
+"status": "ship",
+"since": "same_as_1030",
+"ratio": 0.741
+},
+{
+"rel": "KHDLore.dll",
+"size": 399872,
+"sha256": "f1e4810c63fb55dd366c6da21f5ff139064ebe84b39d840cdda71ebb6811ff41",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.43
+},
+{
+"rel": "KishinHisho_chs.1DD6D1D34AB4C93.crash.dmp",
+"size": 0,
+"status": "exclude",
+"why": "옛 판·백업·덤프"
+},
+{
+"rel": "KishinHisho_chs.1DD70354611976F.crash.dmp",
+"size": 0,
+"status": "exclude",
+"why": "옛 판·백업·덤프"
+},
+{
+"rel": "KishinHisho_chs.exe",
+"size": 172032,
+"sha256": "c43b44c500aaa4079ea880d6ec59d73a9c2cb4809f0618acc237dffdbc6d2948",
+"status": "ship",
+"since": "changed_since_1030",
+"ratio": 0.397
+},
+{
+"rel": "ko-library/.codex_backup/books.ini",
+"size": 1062,
+"sha256": "e979c0bfb82740f56df0ffc1d76d8601080014a2c1b0402d6a93c4cbcad5ce7c",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.316
+},
+{
+"rel": "ko-library/.codex_backup/index.json",
+"size": 765,
+"sha256": "f18f088030d8959ce7e82701c7c03c3d07c6f4a01fa7958ac90ceb92fce71978",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.288
+},
+{
+"rel": "ko-library/books.ini",
+"size": 1412,
+"sha256": "cd008283389b0ef6458a1c109cc00f89c5392ea9acb36c24ab94d7fa7e0bbad8",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.297
+},
+{
+"rel": "ko-library/books/codex-machines.epub",
+"size": 53971669,
+"sha256": "042355b7af200d788053a69fef0514f5e339d4ae431020a1fd38b2184a0f4934",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.995
+},
+{
+"rel": "ko-library/books/codex-magicians.epub",
+"size": 58307697,
+"sha256": "7bd5bb11d2f115351d8cc288d8db441f27f9fe573466d7d3dea13408d04495c8",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.864
+},
+{
+"rel": "ko-library/books/novel-1.epub",
+"size": 24093716,
+"sha256": "d9bc890a07fcdd20648d9d4eb8f65698963f9ecf3d1d7e0c007cc274dd4b3b8f",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 1.0
+},
+{
+"rel": "ko-library/books/novel-2.epub",
+"size": 19492288,
+"sha256": "d67d38fb0a8f955e87b911fd2bc8e9a9ca553289a87652ca3716a568a5b55f06",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 1.0
+},
+{
+"rel": "ko-library/books/novel-3.epub",
+"size": 19349994,
+"sha256": "aa0d59dd4a399bfacab4f022795b87dac59ee24f76807fb05c68510ee4a12ffe",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 1.0
+},
+{
+"rel": "ko-library/books/novel-4.epub",
+"size": 31185546,
+"sha256": "9e7c40c0df1163f858147474c304cc759489d34c20df163e79889360bd8b5969",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 1.0
+},
+{
+"rel": "ko-library/books/novel-5.epub",
+"size": 28213056,
+"sha256": "205d2484efd3e3ea69be4f79350559aa4eba24583d58cf60d81f7c0f86d53fdf",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 1.0
+},
+{
+"rel": "ko-library/books/novel-6.epub",
+"size": 9985493,
+"sha256": "0f834589f4cd54d2eda8823677eaa1beba207a50d220540297accc94d5da297f",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 1.0
+},
+{
+"rel": "ko-library/covers/codex-machines.png",
+"size": 1105034,
+"sha256": "5933a0153bfb3820bd64888f55363686e034449ab1ab68f14cdc8dd746930ed9",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.997
+},
+{
+"rel": "ko-library/covers/codex-magicians.png",
+"size": 946856,
+"sha256": "d77a2e90278f22059f17c727e6e2f55a6110c7beff0a0306893eff2f30ff38aa",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.997
+},
+{
+"rel": "ko-library/covers/index.json",
+"size": 1025,
+"sha256": "72a567ea110db1f7253e9c2ae8b73f2babd672b88d5fd6f826e88badfac9b9c5",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.254
+},
+{
+"rel": "ko-library/covers/novel-1.png",
+"size": 3222503,
+"sha256": "e1571e24747cebfb20c9b53dd7b6ddafa02dec613cd0ecd12d07b39e01bc1a5a",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 1.0
+},
+{
+"rel": "ko-library/covers/novel-2.png",
+"size": 2355221,
+"sha256": "18ac1d8eee8a8e8f0d68f536e2677034cbabad31641adceb7f56be50874423b3",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 1.0
+},
+{
+"rel": "ko-library/covers/novel-3.png",
+"size": 2228288,
+"sha256": "2e5bc768837aa7534a6056a5c38fb69ada4e08e842dee7d18734ecd70b943d71",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 1.0
+},
+{
+"rel": "ko-library/covers/novel-4.png",
+"size": 3181837,
+"sha256": "e8731f5783136ea7220d885901e09ef5d966fcb79e119c631eec2dd819e2705c",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 1.0
+},
+{
+"rel": "ko-library/covers/novel-5.png",
+"size": 3166419,
+"sha256": "1a2f4346c9f02e3a2ea3eb0cc3d5b4ae36afa472c6a5bf2bef269f3ff9a85b86",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 1.0
+},
+{
+"rel": "ko-library/covers/novel-6.png",
+"size": 1199416,
+"sha256": "8ad983fee3293898f4361e593a2d52ca4b0e968e84bdec06f20564d59edf6dc9",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 1.0
+},
+{
+"rel": "ko-library/demonbane.css",
+"size": 7514,
+"sha256": "08b361dfd8687c822baf178e8114d953e62786a4078b8f2f5470f0e70fe745a3",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.372
+},
+{
+"rel": "ko-library/index.html",
+"size": 5123,
+"sha256": "6c05d5ebcbad1004d974e0705202ce952bfa7c6b4ec9cd260a100f6729c112f9",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.397
+},
+{
+"rel": "ko-library/library.css",
+"size": 9834,
+"sha256": "b8411bb569d45841216bf0f448ec0aad3ca99f312db744a358aec575b314b2c3",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.308
+},
+{
+"rel": "ko-library/library.js",
+"size": 39564,
+"sha256": "603d025b41753e315b4e0a0f985f7002c910372b5bc7ebfa717919da934fc549",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.319
+},
+{
+"rel": "ko-library/native.log",
+"size": 6781,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/AutoLaunchProtocolsComponent/1.0.0.12/manifest.json",
+"size": 135,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/AutoLaunchProtocolsComponent/1.0.0.12/protocols.json",
+"size": 3672,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/BrowserMetrics-spare.pma",
+"size": 1310720,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/CertificateRevocation/6498.2026.10.20/crl-set",
+"size": 14278,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/CertificateRevocation/6498.2026.10.20/manifest.json",
+"size": 118,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/component_crx_cache/00af3f07b5abb71f6d30337e1eef62fa280f06ef19485c0cf6b72171f92ccc0a",
+"size": 1093663,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/component_crx_cache/04d08a9ba4638a74a4790a4d1e8e1dfc8f8e3570a933c48eb082012ef7421246",
+"size": 240081,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/component_crx_cache/0f1ccded57bb4b5edc565cb3e8ec03b9f164b400ca2a9b446f2b52da790a1804",
+"size": 15253,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/component_crx_cache/4906bd7a9eefe3a91738213e016c47e334882047cd6236f97267ccf589e701af",
+"size": 17719865,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/component_crx_cache/720517793663c90e0dbd77cb42709bac49af733f83f73320ba89859d9b0310e0",
+"size": 2393882,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/component_crx_cache/95fd9d48e4fc245a3f3a99a3a16ecd1355050ba3f4afc555f19a97c7f9b49677",
+"size": 1355,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/component_crx_cache/a81d1959892ae4180554347df1b97834abba2e1a5e6b9aeba000ecea26eabecc",
+"size": 975576,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/component_crx_cache/cde4f808f038aaffece9680c0356ded00c81c4559e0a431acb45d1276425d9eb",
+"size": 1922,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/component_crx_cache/d3280a2d97d1bd59dd97decf1728960096362a103cab0a770e9201be9a61737d",
+"size": 6188,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/component_crx_cache/metadata.json",
+"size": 1020,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Crashpad/metadata",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Crashpad/settings.dat",
+"size": 288,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Crashpad/throttle_store.dat",
+"size": 20,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Crashpad/watson_metadata",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/AutofillAiModelCache/LOCK",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/AutofillAiModelCache/LOG",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/AutofillAiModelCache/LOG.old",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/AutofillStrikeDatabase/LOCK",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/AutofillStrikeDatabase/LOG",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/AutofillStrikeDatabase/LOG.old",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/BookmarkMergedSurfaceOrdering",
+"size": 6,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/BudgetDatabase/LOCK",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/BudgetDatabase/LOG",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/BudgetDatabase/LOG.old",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/ClientCertificates/LOCK",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/ClientCertificates/LOG",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/ClientCertificates/LOG.old",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Code Cache/js/4454f121244a91b4_0",
+"size": 67784,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Code Cache/js/4c24946b80fa1630_0",
+"size": 154688,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Code Cache/js/5a61574cc76a2bfc_0",
+"size": 258,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Code Cache/js/962f968f8d69fbcc_0",
+"size": 250,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Code Cache/js/eaacb3064fca9841_0",
+"size": 259,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Code Cache/js/f37d72c452d7dc65_0",
+"size": 22104,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Code Cache/js/index",
+"size": 24,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Code Cache/js/index-dir/the-real-index",
+"size": 192,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Code Cache/wasm/index",
+"size": 24,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Code Cache/wasm/index-dir/the-real-index",
+"size": 48,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/commerce_subscription_db/LOCK",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/commerce_subscription_db/LOG",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/commerce_subscription_db/LOG.old",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/DashTrackerDatabase",
+"size": 10240,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/DashTrackerDatabase-journal",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/DawnGraphiteCache/data_0",
+"size": 8192,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/DawnGraphiteCache/data_1",
+"size": 270336,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/DawnGraphiteCache/data_2",
+"size": 8192,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/DawnGraphiteCache/data_3",
+"size": 8192,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/DawnGraphiteCache/index",
+"size": 262512,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/DawnWebGPUCache/data_0",
+"size": 8192,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/DawnWebGPUCache/data_1",
+"size": 270336,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/DawnWebGPUCache/data_2",
+"size": 8192,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/DawnWebGPUCache/data_3",
+"size": 8192,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/DawnWebGPUCache/index",
+"size": 262512,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/declarative_performance_observer.db",
+"size": 32768,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/declarative_performance_observer.db-journal",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/DIPS",
+"size": 36864,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/discount_infos_db/LOCK",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/discount_infos_db/LOG",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/discount_infos_db/LOG.old",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/discounts_db/LOCK",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/discounts_db/LOG",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/discounts_db/LOG.old",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/EdgeSessions/SessionRestoreLog",
+"size": 4995,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Extension Rules/000003.log",
+"size": 38,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Extension Rules/CURRENT",
+"size": 16,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Extension Rules/LOCK",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Extension Rules/LOG",
+"size": 275,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Extension Rules/MANIFEST-000001",
+"size": 41,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Extension Scripts/000003.log",
+"size": 38,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Extension Scripts/CURRENT",
+"size": 16,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Extension Scripts/LOCK",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Extension Scripts/LOG",
+"size": 279,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Extension Scripts/MANIFEST-000001",
+"size": 41,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Extension State/000003.log",
+"size": 114,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Extension State/CURRENT",
+"size": 16,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Extension State/LOCK",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Extension State/LOG",
+"size": 316,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Extension State/LOG.old",
+"size": 316,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Extension State/MANIFEST-000001",
+"size": 41,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/ExtensionActivityEdge",
+"size": 32768,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/ExtensionActivityEdge-journal",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Favicons",
+"size": 20480,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Favicons-journal",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/favorites_diagnostic.log",
+"size": 15374,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Feature Engagement Tracker/AvailabilityDB/LOCK",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Feature Engagement Tracker/AvailabilityDB/LOG",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Feature Engagement Tracker/AvailabilityDB/LOG.old",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Feature Engagement Tracker/EventDB/LOCK",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Feature Engagement Tracker/EventDB/LOG",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Feature Engagement Tracker/EventDB/LOG.old",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/GPUCache/data_0",
+"size": 45056,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/GPUCache/data_1",
+"size": 270336,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/GPUCache/data_2",
+"size": 1056768,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/GPUCache/data_3",
+"size": 8192,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/GPUCache/index",
+"size": 262512,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/History",
+"size": 258048,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/History-journal",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Local Storage/leveldb/000003.log",
+"size": 19820,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Local Storage/leveldb/CURRENT",
+"size": 16,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Local Storage/leveldb/LOCK",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Local Storage/leveldb/LOG",
+"size": 331,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Local Storage/leveldb/LOG.old",
+"size": 328,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Local Storage/leveldb/MANIFEST-000001",
+"size": 41,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/LOCK",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/LOG",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/LOG.old",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Login Data",
+"size": 43008,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Login Data For Account",
+"size": 43008,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Login Data For Account-journal",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Login Data-journal",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Network Action Predictor",
+"size": 53248,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Network Action Predictor-journal",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Network/Cookies",
+"size": 20480,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Network/Cookies-journal",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Network/Device Bound Sessions",
+"size": 20480,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Network/Device Bound Sessions-journal",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Network/Network Persistent State",
+"size": 111,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Network/NetworkDataMigrated",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Network/Reporting and NEL",
+"size": 36864,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Network/Reporting and NEL-journal",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Network/SCT Auditing Pending Reports",
+"size": 2,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Network/Sdch Dictionaries",
+"size": 40,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Network/Trust Tokens",
+"size": 36864,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Network/Trust Tokens-journal",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/optimization_guide_hint_cache_store/LOCK",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/optimization_guide_hint_cache_store/LOG",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/optimization_guide_hint_cache_store/LOG.old",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/parcel_tracking_db/LOCK",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/parcel_tracking_db/LOG",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/parcel_tracking_db/LOG.old",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/PersistentOriginTrials/LOCK",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/PersistentOriginTrials/LOG",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/PersistentOriginTrials/LOG.old",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Preferences",
+"size": 10686,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/README",
+"size": 182,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Secure Preferences",
+"size": 9856,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/ServerCertificate",
+"size": 20480,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/ServerCertificate-journal",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Session Storage/000003.log",
+"size": 49,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Session Storage/CURRENT",
+"size": 16,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Session Storage/LOCK",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Session Storage/LOG",
+"size": 277,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Session Storage/MANIFEST-000001",
+"size": 41,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/settings_diagnostic.log",
+"size": 144354,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Shared Dictionary/cache/index",
+"size": 24,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Shared Dictionary/cache/index-dir/the-real-index",
+"size": 48,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Shared Dictionary/db",
+"size": 45056,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Shared Dictionary/db-journal",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/shared_proto_db/000003.log",
+"size": 7422,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/shared_proto_db/CURRENT",
+"size": 16,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/shared_proto_db/LOCK",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/shared_proto_db/LOG",
+"size": 316,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/shared_proto_db/LOG.old",
+"size": 316,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/shared_proto_db/MANIFEST-000001",
+"size": 41,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/shared_proto_db/metadata/000003.log",
+"size": 1294,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/shared_proto_db/metadata/CURRENT",
+"size": 16,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/shared_proto_db/metadata/LOCK",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/shared_proto_db/metadata/LOG",
+"size": 334,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/shared_proto_db/metadata/LOG.old",
+"size": 334,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/shared_proto_db/metadata/MANIFEST-000001",
+"size": 41,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Site Characteristics Database/000003.log",
+"size": 1120,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Site Characteristics Database/CURRENT",
+"size": 16,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Site Characteristics Database/LOCK",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Site Characteristics Database/LOG",
+"size": 344,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Site Characteristics Database/LOG.old",
+"size": 344,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Site Characteristics Database/MANIFEST-000001",
+"size": 41,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Sync Data/LevelDB/000003.log",
+"size": 65,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Sync Data/LevelDB/CURRENT",
+"size": 16,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Sync Data/LevelDB/LOCK",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Sync Data/LevelDB/LOG",
+"size": 320,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Sync Data/LevelDB/LOG.old",
+"size": 323,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Sync Data/LevelDB/MANIFEST-000001",
+"size": 41,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Top Sites",
+"size": 20480,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Top Sites-journal",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Vpn Tokens",
+"size": 28672,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Vpn Tokens-journal",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Web Data",
+"size": 227328,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Default/Web Data-journal",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/extensions_crx_cache/metadata.json",
+"size": 13,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/GPUPersistentCache/DawnGraphiteCache/OMXJKWSVDDS6L3YMYJJRNHVYDBSO7SEM/cache.db",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/GPUPersistentCache/DawnGraphiteCache/OMXJKWSVDDS6L3YMYJJRNHVYDBSO7SEM/cache.db-wal",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/GPUPersistentCache/DawnGraphiteCache/OMXJKWSVDDS6L3YMYJJRNHVYDBSO7SEM/cache.journal",
+"size": 0,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/GrShaderCache/data_0",
+"size": 45056,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/GrShaderCache/data_1",
+"size": 270336,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/GrShaderCache/data_2",
+"size": 8192,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/GrShaderCache/data_3",
+"size": 4202496,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/GrShaderCache/f_000001",
+"size": 16492,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/GrShaderCache/f_000002",
+"size": 16432,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/GrShaderCache/f_000003",
+"size": 16700,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/GrShaderCache/f_000004",
+"size": 16728,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/GrShaderCache/f_000005",
+"size": 16432,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/GrShaderCache/f_000006",
+"size": 16700,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/GrShaderCache/f_000007",
+"size": 16728,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/GrShaderCache/f_000008",
+"size": 16492,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/GrShaderCache/f_000009",
+"size": 21276,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/GrShaderCache/f_00000a",
+"size": 21436,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/GrShaderCache/f_00000b",
+"size": 21736,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/GrShaderCache/f_00000c",
+"size": 20696,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/GrShaderCache/f_00000d",
+"size": 18316,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/GrShaderCache/f_00000e",
+"size": 17728,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/GrShaderCache/f_00000f",
+"size": 17408,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/GrShaderCache/index",
+"size": 262512,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/_metadata/verified_contents.json",
+"size": 7328,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-af.hyb",
+"size": 72640,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-as.hyb",
+"size": 703,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-be.hyb",
+"size": 6098,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-bg.hyb",
+"size": 3467,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-bn.hyb",
+"size": 703,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-cs.hyb",
+"size": 64245,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-cu.hyb",
+"size": 52842,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-cy.hyb",
+"size": 35913,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-da.hyb",
+"size": 6967,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-de-1901.hyb",
+"size": 121393,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-de-1996.hyb",
+"size": 120412,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-de-ch-1901.hyb",
+"size": 120218,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-el.hyb",
+"size": 4219,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-en-gb.hyb",
+"size": 46607,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-en-us.hyb",
+"size": 59802,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-es.hyb",
+"size": 14995,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-et.hyb",
+"size": 21421,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-eu.hyb",
+"size": 665,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-fr.hyb",
+"size": 8165,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-ga.hyb",
+"size": 35824,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-gl.hyb",
+"size": 9289,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-gu.hyb",
+"size": 655,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-hi.hyb",
+"size": 687,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-hr.hyb",
+"size": 3031,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-hu.hyb",
+"size": 317251,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-hy.hyb",
+"size": 605,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-it.hyb",
+"size": 2512,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-ka.hyb",
+"size": 9996,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-kn.hyb",
+"size": 711,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-la.hyb",
+"size": 1839,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-lt.hyb",
+"size": 7774,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-lv.hyb",
+"size": 38602,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-ml.hyb",
+"size": 776,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-mn-cyrl.hyb",
+"size": 5142,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-mr.hyb",
+"size": 687,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-mul-ethi.hyb",
+"size": 3740,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-nb.hyb",
+"size": 145263,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-nl.hyb",
+"size": 77080,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-nn.hyb",
+"size": 145263,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-or.hyb",
+"size": 647,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-pa.hyb",
+"size": 607,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-pt.hyb",
+"size": 1414,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-ru.hyb",
+"size": 19886,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-sk.hyb",
+"size": 64103,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-sl.hyb",
+"size": 6631,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-sq.hyb",
+"size": 2013,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-sv.hyb",
+"size": 72119,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-ta.hyb",
+"size": 554,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-te.hyb",
+"size": 703,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-tk.hyb",
+"size": 2712,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-uk.hyb",
+"size": 19417,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/hyph-und-ethi.hyb",
+"size": 3484,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/hyphen-data/120.0.6050.0/manifest.json",
+"size": 82,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Last Version",
+"size": 13,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Local State",
+"size": 11397,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/OriginTrials/0.0.1.7/manifest.json",
+"size": 43,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/PKIMetadata/74.0.0.0/crs.pb",
+"size": 287734,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/PKIMetadata/74.0.0.0/ct_config.pb",
+"size": 26309,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/PKIMetadata/74.0.0.0/kp_pinslist.pb",
+"size": 8046,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/PKIMetadata/74.0.0.0/manifest.json",
+"size": 102,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/ShaderCache/data_0",
+"size": 8192,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/ShaderCache/data_1",
+"size": 270336,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/ShaderCache/data_2",
+"size": 8192,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/ShaderCache/data_3",
+"size": 8192,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/ShaderCache/index",
+"size": 262512,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/SmartScreen/local/downloadCache",
+"size": 14,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/SmartScreen/local/downloadCache_",
+"size": 29,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/SmartScreen/local/uriCache",
+"size": 9,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/SmartScreen/local/uriCache_",
+"size": 257,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/SmartScreen/RemoteData/customSettings",
+"size": 47,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/SmartScreen/RemoteData/customSettings_F95BA787499AB4FA9EFFF472CE383A14",
+"size": 35,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/SmartScreen/RemoteData/edgeSettings",
+"size": 81,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/SmartScreen/RemoteData/edgeSettings_2.0-a82cb2897a8bf9445d68dcc2be05af89ad4b2fda1fddb2952693be7cd5353ad3",
+"size": 130578,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/SmartScreen/RemoteData/topTraffic",
+"size": 29,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/SmartScreen/RemoteData/topTraffic_638004170464094982",
+"size": 460992,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Speech Recognition/1.15.0.1/manifest.json",
+"size": 76,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Speech Recognition/1.15.0.1/Microsoft.CognitiveServices.Speech.core.dll",
+"size": 2692424,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Subresource Filter/Indexed Rules/38/10.34.0.84/LICENSE",
+"size": 24621,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Subresource Filter/Indexed Rules/38/10.34.0.84/Ruleset Data",
+"size": 3989624,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Subresource Filter/Unindexed Rules/10.34.0.84/adblock_snippet.js",
+"size": 2323,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Subresource Filter/Unindexed Rules/10.34.0.84/Filtering Rules",
+"size": 2153681,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Subresource Filter/Unindexed Rules/10.34.0.84/Filtering Rules-AA",
+"size": 2395466,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Subresource Filter/Unindexed Rules/10.34.0.84/Filtering Rules-CA",
+"size": 11977,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Subresource Filter/Unindexed Rules/10.34.0.84/LICENSE",
+"size": 24621,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Subresource Filter/Unindexed Rules/10.34.0.84/manifest.json",
+"size": 116,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Subresource Filter/Unindexed Rules/10.34.0.84/Part-DE",
+"size": 312807,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Subresource Filter/Unindexed Rules/10.34.0.84/Part-ES",
+"size": 140844,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Subresource Filter/Unindexed Rules/10.34.0.84/Part-FR",
+"size": 540971,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Subresource Filter/Unindexed Rules/10.34.0.84/Part-IT",
+"size": 221404,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Subresource Filter/Unindexed Rules/10.34.0.84/Part-NL",
+"size": 81784,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Subresource Filter/Unindexed Rules/10.34.0.84/Part-RU",
+"size": 1211986,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Subresource Filter/Unindexed Rules/10.34.0.84/Part-ZH",
+"size": 702705,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/TrustTokenKeyCommitments/2026.10.12.1/_metadata/verified_contents.json",
+"size": 1865,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/TrustTokenKeyCommitments/2026.10.12.1/keys.json",
+"size": 3590,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/TrustTokenKeyCommitments/2026.10.12.1/LICENSE",
+"size": 1558,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/TrustTokenKeyCommitments/2026.10.12.1/manifest.json",
+"size": 80,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/Variations",
+"size": 85,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/VariationsRuntimeSeedV2",
+"size": 332,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/VariationsSafeSeedV2",
+"size": 1376,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/VariationsSeedV2",
+"size": 76,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/WidevineCdm/4.10.3112.0/_metadata/verified_contents.json",
+"size": 1550,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/WidevineCdm/4.10.3112.0/_platform_specific/win_x64/widevinecdm.dll",
+"size": 22980088,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/WidevineCdm/4.10.3112.0/_platform_specific/win_x64/widevinecdm.dll.sig",
+"size": 1389,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/WidevineCdm/4.10.3112.0/LICENSE",
+"size": 473,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/profile/EBWebView/WidevineCdm/4.10.3112.0/manifest.json",
+"size": 1005,
+"status": "exclude",
+"why": "서재 독서 기록(WebView 프로필)"
+},
+{
+"rel": "ko-library/vendor/epub-LICENSE.txt",
+"size": 1516,
+"sha256": "8663e726f4194e1a34913b223c2e4745ed06f3ec645a66a41ab70b735070b692",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.617
+},
+{
+"rel": "ko-library/vendor/epub.min.js",
+"size": 223875,
+"sha256": "06eae15745107b4aa508c95538275251f69bfb9f1175621fc458d9f42ed082d4",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.273
+},
+{
+"rel": "ko-library/vendor/jszip-LICENSE.txt",
+"size": 33753,
+"sha256": "566c953c6090b1218ca6217dd7359d45dde46581968586dc607d59a78af6a9c4",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.348
+},
+{
+"rel": "ko-library/vendor/jszip.min.js",
+"size": 97630,
+"sha256": "acc7e41455a80765b5fd9c7ee1b8078a6d160bbbca455aeae854de65c947d59e",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.285
+},
+{
+"rel": "ko-library/vendor/WebView2-LICENSE.txt",
+"size": 1487,
+"sha256": "0af8f1b807512aae39c2ac1aa4d0cae65cabecb6fd554b8439a5162a0d6eca55",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.605
+},
+{
+"rel": "ko-library/vendor/WebView2-NOTICE.txt",
+"size": 3894,
+"sha256": "106423785c5b7eba0a8e61d1837f2132e9c828e20ad530f565d981c1df60dd90",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.34
+},
+{
+"rel": "ko-library/WebView2Loader.dll",
+"size": 155528,
+"sha256": "1d348d3c0a5cb0d985389b68a0fd9bf966c2aed65f5e44bbc0233739b7a57f9e",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.465
+},
+{
+"rel": "LoaderDll.dll",
+"size": 6144,
+"sha256": "82fae0f44f4ca0c9c37907df74cef2415eeb5fae1cf8d4f36f34ffcaf7e3cc0c",
+"status": "base"
+},
+{
+"rel": "LocaleEmulator.dll",
+"size": 63488,
+"sha256": "c79c175fdad174aa46a72197d148316299a56f950aaab1b84930d09ee1084a88",
+"status": "base"
+},
+{
+"rel": "mpeg.pak",
+"size": 302076602,
+"sha256": "78b77f77c77cff81aef9d270b589d2d55cac44dc02d1b412da198b90d8dc9706",
+"status": "ship",
+"since": "changed_since_1030",
+"ratio": 0.852
+},
+{
+"rel": "SAVE/bjump/000001.dat",
+"size": 9695,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/bjump/000002.dat",
+"size": 9735,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/bjump/000003.dat",
+"size": 9808,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/bjump/000004.dat",
+"size": 9804,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/bjump/000005.dat",
+"size": 9788,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/bjump/000006.dat",
+"size": 9829,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/bjump/000007.dat",
+"size": 9823,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/bjump/000008.dat",
+"size": 9789,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/bjump/000009.dat",
+"size": 9776,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/bjump/000010.dat",
+"size": 9821,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/bjump/000011.dat",
+"size": 9831,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/bjump/000012.dat",
+"size": 9782,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/bjump/000013.dat",
+"size": 9709,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/bjump/000014.dat",
+"size": 9718,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/bjump/000015.dat",
+"size": 9724,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/bjump/000016.dat",
+"size": 9694,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/bjump/000017.dat",
+"size": 9773,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/bjump/000018.dat",
+"size": 9756,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/bjump/000019.dat",
+"size": 9745,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/bjump/000020.dat",
+"size": 9752,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/bjump/000021.dat",
+"size": 9810,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/bjump/000022.dat",
+"size": 9792,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/bjump/000023.dat",
+"size": 9824,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/bjump/000024.dat",
+"size": 9807,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/bjump/000025.dat",
+"size": 9785,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/bjump/000026.dat",
+"size": 9753,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/bjump/000027.dat",
+"size": 9802,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/bjump/000028.dat",
+"size": 9760,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/bjump/000029.dat",
+"size": 9811,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/bjump/000030.dat",
+"size": 9787,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/bjump/000031.dat",
+"size": 9809,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/bjump/000032.dat",
+"size": 9741,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/bjump/000033.dat",
+"size": 9849,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/bjump/000034.dat",
+"size": 9769,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/bjump/000035.dat",
+"size": 9841,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/bjump/000036.dat",
+"size": 9808,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/bjump/000037.dat",
+"size": 9768,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/bjump/000038.dat",
+"size": 9778,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/bjump/000039.dat",
+"size": 9832,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/bjump/000040.dat",
+"size": 9832,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/bjump/000041.dat",
+"size": 9776,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/bjump/000042.dat",
+"size": 9753,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/bjump/000043.dat",
+"size": 9789,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/bjump/000044.dat",
+"size": 9810,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/comm00.txt",
+"size": 32,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/comm01.txt",
+"size": 18,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/comm02.txt",
+"size": 42,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/comm03.txt",
+"size": 40,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/comm04.txt",
+"size": 64,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/comm05.txt",
+"size": 48,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/comm06.txt",
+"size": 12,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/comm07.txt",
+"size": 32,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/comm08.txt",
+"size": 44,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/comm09.txt",
+"size": 41,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/comm10.txt",
+"size": 44,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/comm11.txt",
+"size": 84,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/comm12.txt",
+"size": 81,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/comm13.txt",
+"size": 34,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/comm14.txt",
+"size": 19,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/comm15.txt",
+"size": 46,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/comm16.txt",
+"size": 48,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/comm17.txt",
+"size": 30,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/comm18.txt",
+"size": 33,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/comm19.txt",
+"size": 33,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/comm20.txt",
+"size": 35,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/comm21.txt",
+"size": 67,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/comm22.txt",
+"size": 33,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/comm23.txt",
+"size": 52,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/comm24.txt",
+"size": 19,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/comm25.txt",
+"size": 31,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/comm26.txt",
+"size": 120,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/comm27.txt",
+"size": 23,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/comm28.txt",
+"size": 40,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save.dat",
+"size": 1437,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save00",
+"size": 8898,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save00.dat",
+"size": 85564,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save01",
+"size": 9949,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save01.dat",
+"size": 98452,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save02",
+"size": 9356,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save02.dat",
+"size": 101924,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save03",
+"size": 8548,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save03.dat",
+"size": 106537,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save04",
+"size": 9252,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save04.dat",
+"size": 115279,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save05",
+"size": 9402,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save05.dat",
+"size": 121117,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save06",
+"size": 11396,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save06.dat",
+"size": 125071,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save07",
+"size": 9315,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save07.dat",
+"size": 129331,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save08",
+"size": 8930,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save08.dat",
+"size": 129739,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save09",
+"size": 7686,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save09.dat",
+"size": 14333,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save10",
+"size": 11960,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save10.dat",
+"size": 14667,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save11",
+"size": 8910,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save11.dat",
+"size": 14728,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save12",
+"size": 8955,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save12.dat",
+"size": 15657,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save13",
+"size": 11252,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save13.dat",
+"size": 8193,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save14",
+"size": 6828,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save14.dat",
+"size": 11419,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save15",
+"size": 7620,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save15.dat",
+"size": 7359,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save16",
+"size": 9161,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save16.dat",
+"size": 7498,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save17",
+"size": 7429,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save17.dat",
+"size": 6694,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save18",
+"size": 12515,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save18.dat",
+"size": 6213,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save19",
+"size": 12515,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save19.dat",
+"size": 6213,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save20",
+"size": 11567,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save20.dat",
+"size": 17493,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save21",
+"size": 9113,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save21.dat",
+"size": 14090,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save22",
+"size": 7948,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save22.dat",
+"size": 42000,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save23",
+"size": 9838,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save23.dat",
+"size": 20302,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save24",
+"size": 11410,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save24.dat",
+"size": 16348,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save25",
+"size": 7886,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save25.dat",
+"size": 45222,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save26",
+"size": 8866,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save26.dat",
+"size": 71886,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save27",
+"size": 8640,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save27.dat",
+"size": 79403,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save28",
+"size": 11550,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/save28.dat",
+"size": 79729,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/sys01.dat",
+"size": 139334,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "SAVE/sys02.dat",
+"size": 42553,
+"status": "exclude",
+"why": "세이브"
+},
+{
+"rel": "script.pak",
+"size": 785060,
+"sha256": "7a52f726964874aa232f97c26256fdbe6d1a30c7ec7833e3c9ba7e54e9cf8c58",
+"status": "ship",
+"since": "changed_since_1030",
+"ratio": 1.0
+},
+{
+"rel": "script.pak.before_argon",
+"size": 783926,
+"status": "exclude",
+"why": "옛 판·백업·덤프"
+},
+{
+"rel": "script.pak.before_chant",
+"size": 785115,
+"status": "exclude",
+"why": "옛 판·백업·덤프"
+},
+{
+"rel": "script.pak.before_chant2",
+"size": 785137,
+"status": "exclude",
+"why": "옛 판·백업·덤프"
+},
+{
+"rel": "script.pak.before_layout_menu",
+"size": 785108,
+"status": "exclude",
+"why": "옛 판·백업·덤프"
+},
+{
+"rel": "script.pak.before_replay.bak",
+"size": 773739,
+"status": "exclude",
+"why": "옛 판·백업·덤프"
+},
+{
+"rel": "script.pak.before_restore.bak",
+"size": 754571,
+"status": "exclude",
+"why": "옛 판·백업·덤프"
+},
+{
+"rel": "sound.pak",
+"size": 184521262,
+"sha256": "b607961c261b975ebe0d3cbca756a899e39cafe2b449eb79dc94c2b6b22e5b85",
+"status": "base"
+},
+{
+"rel": "system.dll",
+"size": 1114112,
+"sha256": "c06370fac727bd1962a301e0a6e59ed30ed7985f0be7fcd4cb8aea2421a48836",
+"status": "ship",
+"since": "changed_since_1030",
+"ratio": 0.423
+},
+{
+"rel": "system.dll.before_inputfix.bak",
+"size": 1097728,
+"status": "exclude",
+"why": "옛 판·백업·덤프"
+},
+{
+"rel": "system.pak",
+"size": 10603,
+"sha256": "715bd3d3f1529bef05484ec940c1431e4a4ac2350faa5c6e568b88c5c5aadf9c",
+"status": "base"
+},
+{
+"rel": "version.dll",
+"size": 177152,
+"sha256": "2d59e1cb17f83c3a2e8dc5658a075080190e0c80609a614b0b4d518fc74583c5",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.475
+},
+{
+"rel": "voice.pak",
+"size": 163706414,
+"sha256": "e31db1ac09efc78880dd9e2677e2a4af871f0c1f4008e797fee5194f9e0b1f87",
+"status": "base"
+},
+{
+"rel": "대화 기록 점프 안내.txt",
+"size": 1711,
+"sha256": "e1e4d72a0d73361bf103c21eb8e7fc91fb570b240666f467ac861cb1e0ded0f6",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.575
+},
+{
+"rel": "전투 카메라 안내.txt",
+"size": 1809,
+"sha256": "1b22564633b9fc6125e663c352eae1de44ba4088e8dc44bca59c66ddd39b578e",
+"status": "ship",
+"since": "new_since_1030",
+"ratio": 0.535
+}
+],
+"gone_since_1030": [
+"autobattle/adv/title_menuback.jpg",
+"d3d8.dll",
+"play.cmd"
+]
+}

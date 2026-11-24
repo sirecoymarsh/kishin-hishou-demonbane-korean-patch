@@ -1,0 +1,783 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0111_da1311",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da1311:T00001",
+   "source_sha256": "957df08e6d2d224d4a983c5aec4d4fada68ef6749f724e2264b24cfa4b622342",
+   "ko": "「아……」"
+  },
+  {
+   "id": "da1311:T00002",
+   "source_sha256": "80f6bd5a5817ee69201b90dcf5f1dfaf177c0bc787f62dee14b4bffcc063dd2c",
+   "ko": "어나더 블러드의 손이, 내 가슴에서 빠져나간다."
+  },
+  {
+   "id": "da1311:T00003",
+   "source_sha256": "59f11ecff0e860f8493435a0da06635038be1c69f2fe14c829e409f92f116cb1",
+   "ko": "내 마음에서, 그녀의 마음이 빠져나간다.\n\n　급속도로 상실되는 일체감."
+  },
+  {
+   "id": "da1311:T00004",
+   "source_sha256": "271bf4ecdac064b65ed60c740c91349103c7c1d0fd897727a822fb42d0792784",
+   "ko": "가슴에 커다란 구멍이 뚫린 듯한 상실감.\n\n　희미하게 남아 있던 힘이――꺼져가던 숨결이, 마침내 사라졌다."
+  },
+  {
+   "id": "da1311:T00005",
+   "source_sha256": "1cd5d4daaf5a55de06060a8a532daaf9b09520ff2de8df21d66e1b873c603b02",
+   "ko": "그 눈동자는, 더 이상 아무것도 비추지 않는다."
+  },
+  {
+   "id": "da1311:T00006",
+   "source_sha256": "8538f9e6369c86acc6e4948edf839c0dd2d7bb0ff5103172031805c55dad2ce1",
+   "ko": "빛도 없고, 어둠조차 없이――그저 공허가 뻥 뚫려 있을 뿐이다."
+  },
+  {
+   "id": "da1311:T00007",
+   "source_sha256": "aef16587241deefec3c728def2c7b0948eadfc0be062358b45b6b7325c8f9910",
+   "ko": "「――――――」"
+  },
+  {
+   "id": "da1311:T00008",
+   "source_sha256": "5ce785829ddbcb9148765af07048eeece2f1e9017e3516289e476d51e0292347",
+   "ko": "『나』 또한 공허에게, 통째로 앗겨 버렸다."
+  },
+  {
+   "id": "da1311:T00009",
+   "source_sha256": "2dcda10d5250cf1bb8f915a541b1b3c378bb420a2cc8031bfbe13fe0a3066068",
+   "ko": "나의 반신은 이렇게, 썩어, 다했다."
+  },
+  {
+   "id": "da1311:T00010",
+   "source_sha256": "ea7a4e3a34ff6429a878c72eb2a40e6e2c58e9eeb1830f510ec27d0c22745740",
+   "ko": "다시는, 되찾을 수 없다."
+  },
+  {
+   "id": "da1311:R00001",
+   "source_sha256": "fd30b4b122e36dac60c8526efe611cd2b7f6b948982771545e656fccba507e98",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1311:T00011",
+   "source_sha256": "3ede87997728bb5f5113832d00a3f0f985869e890578e0ef4fd2b5389ab18861",
+   "ko": "상실"
+  },
+  {
+   "id": "da1311:T00012",
+   "source_sha256": "f172a1442f63f772044697e9993d7c33b7432dc4ca30dabd54c148f68fce88df",
+   "ko": "되었다."
+  },
+  {
+   "id": "da1311:T00013",
+   "source_sha256": "0ce799de9e87f114b99238abe04d8ad3826fbf99bdc2ec6703587da04489b964",
+   "ko": "영원히."
+  },
+  {
+   "id": "da1311:T00014",
+   "source_sha256": "b31f3e928f1851304b2cbc202de869555a13f141ebbca8044317ea1cb7bdc09f",
+   "ko": "소녀의 얼굴에 물방울이 떨어졌다."
+  },
+  {
+   "id": "da1311:T00015",
+   "source_sha256": "ce677ceaab91f117cb28ee926cf7de8da1c3bcd86e31f00a7d9741d1dce9d81c",
+   "ko": "그것은 피에 젖은 뺨을 타고 흘러, 하얀 궤적을 남기며 나아간다.\n\n　물방울은 더욱 하염없이, 쏟아져 내린다."
+  },
+  {
+   "id": "da1311:T00016",
+   "source_sha256": "6da0f02179b1da8b663c762745aba79a09474ffbbe2739d296a5af4c1e91fefc",
+   "ko": "소녀를 물들이는 피를 씻어내려 간다."
+  },
+  {
+   "id": "da1311:T00017",
+   "source_sha256": "61bfb7422dd001ddf304efa083a67d62130ddf7b1d9f8c70520792a618f0dc15",
+   "ko": "뚝."
+  },
+  {
+   "id": "da1311:T00018",
+   "source_sha256": "61bfb7422dd001ddf304efa083a67d62130ddf7b1d9f8c70520792a618f0dc15",
+   "ko": " 뚝."
+  },
+  {
+   "id": "da1311:T00019",
+   "source_sha256": "61bfb7422dd001ddf304efa083a67d62130ddf7b1d9f8c70520792a618f0dc15",
+   "ko": " 뚝."
+  },
+  {
+   "id": "da1311:T00020",
+   "source_sha256": "9c4334e536aa9be878d29f0f3aeb627554aa2caf493d086d964def1fa6b8ab64",
+   "ko": "차례차례 끝없이."
+  },
+  {
+   "id": "da1311:T00021",
+   "source_sha256": "a7fa18a47ab3237795ac302de452a235c892ccd12e2ae846886a7315d0de63b8",
+   "ko": "나는, 자신이 울고 있다는 사실을 깨달았다."
+  },
+  {
+   "id": "da1311:T00022",
+   "source_sha256": "c6f8a400a944cd69baba6febadf4eb902873392442afd607939dcf0ac735292d",
+   "ko": "「나는…… 나는…… 윽!\n　지금까지 도대체 무엇을…… 윽!」"
+  },
+  {
+   "id": "da1311:T00023",
+   "source_sha256": "54ab729fe7ec8c88f23690aa32714fafe171d91dcb9e40dc8b1c4e1289275405",
+   "ko": "……이것은 『나』다."
+  },
+  {
+   "id": "da1311:T00024",
+   "source_sha256": "623f9001b9a891bdece416780f6b57eaca181ef231e453794f632cd5efd4ca9e",
+   "ko": "나 자신이다.\n\n　약하고 보잘것없는, 시시한 나 그 자체다."
+  },
+  {
+   "id": "da1311:T00025",
+   "source_sha256": "65de00f1cd7c18d4c32812c9e4f4d6354ddaffe82cb8a6cef31f4f9ea2a599ca",
+   "ko": "처음부터 알고 있었던 일이지 않은가.\n\n　그런데도…… 새삼스럽게 무엇을!\n\n　어나더 블러드는, 다른 이야기 따위가 아니다."
+  },
+  {
+   "id": "da1311:T00026",
+   "source_sha256": "3946985115337dd95050e29f9ca554c12aa7b5f60e7eeeae3083b0ea083186f6",
+   "ko": "있을 수 없는, 또 한 명의 나 따위가 아니다."
+  },
+  {
+   "id": "da1311:T00027",
+   "source_sha256": "301d8bad68dbe7356be0efe85c957cc64bb6827acaf9e783428101ee47563c3b",
+   "ko": "악덕을 행하는, 나의 가능성 따위가 결단코 아니다."
+  },
+  {
+   "id": "da1311:T00028",
+   "source_sha256": "553b8945eeaee4a903e9f118c1a3d088d431a3c98a317fe2bd940416b9c4a423",
+   "ko": "이 녀석은…… 나의 『악』이다."
+  },
+  {
+   "id": "da1311:T00029",
+   "source_sha256": "3b6f186e941a1b664f91d969905187db824cb73c69a08d69eb6626b7f74b7114",
+   "ko": "나의 『악』 그 자체다."
+  },
+  {
+   "id": "da1311:T00030",
+   "source_sha256": "e8d63ccddb1351150855e4f1f940c3267b61f5e9778b05419eb64d416298fedc",
+   "ko": "내 안에 지금도 여전히 "
+  },
+  {
+   "id": "da1311:R00002",
+   "source_sha256": "023b5f05ebb5432cfd015a51b46114673cbacb751e856aa7b670a19ed15284a4",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1311:T00031",
+   "source_sha256": "1d5c1287ac9730725a8057e294abfb9deaf732b78adf551429cd5f43766124f7",
+   "ko": "확실"
+  },
+  {
+   "id": "da1311:T00032",
+   "source_sha256": "8651a3d5d125815ec7b82dbbde3518af9aafdea63e2de8d32d1342c023b12499",
+   "ko": "히 존재하는 『악』의 현현이다.\n\n　――그런데도, 다이쥬지 쿠자쿠."
+  },
+  {
+   "id": "da1311:T00033",
+   "source_sha256": "66b55d15bda4f55b09a3938457fe0eb3ac42bda0644cd6caeaef5830e30e6022",
+   "ko": "네놈이 해 온 짓은, 도대체 뭐냐?"
+  },
+  {
+   "id": "da1311:R00003",
+   "source_sha256": "03c9782391c7bcd3392f4d54a4a6b361b3847d7792c9eac1a351f1cc4cca8a00",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1311:T00034",
+   "source_sha256": "c6382510fca77812cb9d1c6e9ea9b22e7eae412181e7bfa4300dd2d02b3cf7c9",
+   "ko": "주제넘"
+  },
+  {
+   "id": "da1311:T00035",
+   "source_sha256": "491a7a7c9e407dcc892d85b7ff16e857a80f48fb5e2c4f90493aee7a7bc6accd",
+   "ko": "게도 기사를 사칭하며, 모두를 "
+  },
+  {
+   "id": "da1311:R00004",
+   "source_sha256": "4acedc9c6ff630a66f2e9f2f4c00c97d45487b8e67ba1ea1fffb0c06f1462faf",
+   "ko": "지킨",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1311:T00036",
+   "source_sha256": "b35085ee2826216aaf9d9577c3e61cb02f1ce3326936f8f79b3194aafd2e5aaf",
+   "ko": "수호한"
+  },
+  {
+   "id": "da1311:T00037",
+   "source_sha256": "950ee3da550bf0e6a149709f27bbddc5a80c4bdf9b802586d905d7730b76de16",
+   "ko": "다고 망언을 일삼더니――그런데도 뭐냐, 이 추태는!\n\n　네놈이 해 온 짓은, 단순한 폭주다."
+  },
+  {
+   "id": "da1311:T00038",
+   "source_sha256": "d85605e258af86c9288dc2c45b4c9b56a999b6bb385545cebacb74173211c676",
+   "ko": "증오에 맡겨 적을 베고, 원한에 집착하여 다이쥬지 쿠로에게 반기를 들었다."
+  },
+  {
+   "id": "da1311:R00005",
+   "source_sha256": "f58c026c179665797b00157bf4ac8d76bb0bc4ae666609165f837f7ff7226785",
+   "ko": "어나더 블러드",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1311:T00039",
+   "source_sha256": "cb6175ab4a54d46db4900fa11d33c3b4deaf42fafad3931259613cec6a7a314d",
+   "ko": "자신의 악"
+  },
+  {
+   "id": "da1311:T00040",
+   "source_sha256": "c6038493985aa74b0572f122f7d3e3230435174d03ed6fd94284b8f2418a1487",
+   "ko": "에서 눈을 돌리고, 하찮은 자존심을 지키는――오직 그만을 위해서.\n\n　그 결과가 이것이다!"
+  },
+  {
+   "id": "da1311:T00041",
+   "source_sha256": "0e5bd762af1bed33d88c9c4c844a1e768e45926c11bf719d87fd5dd0ddbf81c2",
+   "ko": "과거의 세계에 파멸적인 재앙을 불러오고, 그리고 지금, 미래의 가능성을 뿌리째 뽑아버리려 하고 있다.\n\n　――모두 내 탓이다!"
+  },
+  {
+   "id": "da1311:T00042",
+   "source_sha256": "a9f212a574fc6a1e3d59df2c2aabd376c741dd94783865923b370322a63a8f03",
+   "ko": "모든 것은, 내 뒤틀린 심성이 불러들인 악몽이 아닌가!"
+  },
+  {
+   "id": "da1311:T00043",
+   "source_sha256": "1bd280cd734f9870c68eb2bb716b1ed07ae2d23a52b4323eb20ce3b373abe53c",
+   "ko": "미니미이칸\n　　　　　　　　　　　　은이치스토　　　　　테니카쿠라나카\n　　　　　　　　　　　　　　　토리나모코이스니미키\n　　　치쿠타쿠　　　　　　　　　　치쿠타쿠\n　　　　　쿠니토　　　　리니하이　　　　　　　　　　　　　　　　　　　　　토이소라미시토\n　　　　　　　　　　　　　　　미나모코이스니미키　　　　　치쿠타쿠\n　　　　　　　치쿠타쿠\n　　　　　　　　　　　　　　　　　　　　　니카\n　　　　　　토카라세세이시\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　토쿠라스카\n　　　　미이히이스　　　　　　　　　　　카라　　　　　　　키라\n　　　　　　　치키치니미　테쿠이미\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　카쿠이\n　　　라리시　　　　　　　　　　　모치미\n　　　　　　　　　　　　　　　　　　　　　시니이시"
+  },
+  {
+   "id": "da1311:T00044",
+   "source_sha256": "bf0576e0eee94c8c45b3542f38035f2c40444a8de8d32518ce62c8980e2b02d0",
+   "ko": "질서 정연한 무질서, 이계의 율동이 몇 겹이고 "
+  },
+  {
+   "id": "da1311:R00006",
+   "source_sha256": "cb5077b943831678bad5fcbefc19b802dcc052c1bf98201e03f340457f44e4f8",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1311:T00045",
+   "source_sha256": "818e35547405e9352bde6c72057e9490f968f12e0c6a5301a088fedca22bd985",
+   "ko": "메아리"
+  },
+  {
+   "id": "da1311:T00046",
+   "source_sha256": "8ffe3cabef3d4dbd260e573b7ce9288d0553e2c7c0cce23686462d93818effcb",
+   "ko": "쳐, 귀를――\n영혼을――"
+  },
+  {
+   "id": "da1311:R00007",
+   "source_sha256": "8fe205eb98e124de0a6ad87d2029c87c4449e517d3fc79d93792f74a85dc6748",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1311:T00047",
+   "source_sha256": "4ab9f1715964d07fb8c3e61d4a07ad735f7d5e2f640ff7ef10632a110065037f",
+   "ko": "먹먹하게"
+  },
+  {
+   "id": "da1311:T00048",
+   "source_sha256": "839b8dcf93a91e11c5b735ac81683baf9fc1b054b69a4bf620c9ace88c3bf3fb",
+   "ko": " 만든다.\n\n　기계화하는 우주."
+  },
+  {
+   "id": "da1311:T00049",
+   "source_sha256": "746116cefc392c0285690a1e5961891120b3c271676b86c9f0b5a0bc728d8909",
+   "ko": "모든 것이, 이 의미를 갖지 않는 혼돈의 기계를 움직이기 위한, "
+  },
+  {
+   "id": "da1311:R00008",
+   "source_sha256": "5461d30a804ce645d1361f44d672265ede0fb36d3602d183a40c5f12c2418cf1",
+   "ko": "파츠로",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1311:T00050",
+   "source_sha256": "c8212ffab25e892cdf92a6097c13a297be6199d50cd2b8023b049027741f729f",
+   "ko": "부품으로"
+  },
+  {
+   "id": "da1311:T00051",
+   "source_sha256": "5cf1244a0f0ca77d5e7b6eb59d12b1ebcc37548f73da2e4f7b414edaed3e3780",
+   "ko": " 화해 간다."
+  },
+  {
+   "id": "da1311:T00052",
+   "source_sha256": "afccf9b2b77f3d56806048d45607097fd9eceb5dc5b62e7e2a948802221fb5cb",
+   "ko": "나사."
+  },
+  {
+   "id": "da1311:T00053",
+   "source_sha256": "e32e7658c9212d36469a85cfb5039faa07499a67b15f7b1a474a4032898ad796",
+   "ko": " 톱니바퀴."
+  },
+  {
+   "id": "da1311:T00054",
+   "source_sha256": "e0237e1eebddb0710da7cb1194b762ffc0d4c748c11865eccff6cf51273960d2",
+   "ko": " 태엽."
+  },
+  {
+   "id": "da1311:T00055",
+   "source_sha256": "00e835577de26068d7c240da4bec6b9a6563543bb15bf74ccc8e465549e7ac85",
+   "ko": " 나 또한 마찬가지."
+  },
+  {
+   "id": "da1311:T00056",
+   "source_sha256": "a009db4d1359845639fbe1d07b9c8cfd6ea13cebedd9c3f563ee0df0dbb800af",
+   "ko": "어나더 블러드와 마찬가지로, 사신의 음모를 조립하는 작은 "
+  },
+  {
+   "id": "da1311:R00009",
+   "source_sha256": "5461d30a804ce645d1361f44d672265ede0fb36d3602d183a40c5f12c2418cf1",
+   "ko": "파츠",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1311:T00057",
+   "source_sha256": "c8212ffab25e892cdf92a6097c13a297be6199d50cd2b8023b049027741f729f",
+   "ko": "부품"
+  },
+  {
+   "id": "da1311:T00058",
+   "source_sha256": "918cc1a9670405fad6b2dc1ee449566446e79bc39618c6c930a5a8dff9030613",
+   "ko": "에\n지나지 않는다.\n\n\n　나는, 누군가를 "
+  },
+  {
+   "id": "da1311:R00010",
+   "source_sha256": "4acedc9c6ff630a66f2e9f2f4c00c97d45487b8e67ba1ea1fffb0c06f1462faf",
+   "ko": "지키는",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1311:T00059",
+   "source_sha256": "b35085ee2826216aaf9d9577c3e61cb02f1ce3326936f8f79b3194aafd2e5aaf",
+   "ko": "수호하는"
+  },
+  {
+   "id": "da1311:T00060",
+   "source_sha256": "362451c2e55ff4daddcd0b8b0b5efecb8fb8425d471c1e8bc99eec3888ad99a7",
+   "ko": ", 기사 따위가 아니었다."
+  },
+  {
+   "id": "da1311:T00061",
+   "source_sha256": "0b757bacce875d79a793202198b019c106e39e3da13a39134ae35659a96fb100",
+   "ko": "그런 고결한 정신 따윈, 요만큼도 있지 않았던 거다."
+  },
+  {
+   "id": "da1311:T00062",
+   "source_sha256": "3747a988bd8ae7ae6c43bffaa5fb4bac71d422d7e4ccc9d0fb448277a73dc035",
+   "ko": "「욱…… 큭…… 그으으……!」"
+  },
+  {
+   "id": "da1311:T00063",
+   "source_sha256": "228a73c4276b4489999619da3c437e50d22f8de4eee25c0ea69df44b4c91e266",
+   "ko": "맹렬한 구역질이 덮쳐 온다."
+  },
+  {
+   "id": "da1311:T00064",
+   "source_sha256": "0105946b87e7c17e0383edf4651bdb240f5bdeafee407d1287352bb921509d86",
+   "ko": "체내에 충만하는 피 냄새――"
+  },
+  {
+   "id": "da1311:R00011",
+   "source_sha256": "de9b2724fa675d58e20ea50646167074286ddb545b77b0cf702a94f249bf46a5",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1311:T00065",
+   "source_sha256": "0c70665b6eb65f1aebf3b59f684ce52ed3473b2443ed4b4e0b815e2e9d66b8c2",
+   "ko": "아니"
+  },
+  {
+   "id": "da1311:T00066",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  },
+  {
+   "id": "da1311:T00067",
+   "source_sha256": "4696ad8413256e31fb944116c36c0bf411dfe702d7f0f98602e659fc1e479666",
+   "ko": "――쇠녹의, 냄새."
+  },
+  {
+   "id": "da1311:T00068",
+   "source_sha256": "7e2ac081756563fb1c4222db6c5b34d018a3605806c5b8cbe87aa520eb08d88b",
+   "ko": "「아아아아아……」"
+  },
+  {
+   "id": "da1311:T00069",
+   "source_sha256": "04ca5df1d98854dafe90ee5bc8361825cb0c4f23b2c6ae9c136e6086cecf9b4f",
+   "ko": "전신에 떠오르는 검은 오염."
+  },
+  {
+   "id": "da1311:T00070",
+   "source_sha256": "8eabf2a61b60482f962fb4be7d061268d3ef1a1d12234a6f09246c34e783979a",
+   "ko": "내 몸은 녹슬어 있었다."
+  },
+  {
+   "id": "da1311:R00012",
+   "source_sha256": "4ab746b5ca55051bd2c6c828bf3c0ad72edafdf8b594cd3a1446c7a5ff182b4b",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1311:T00071",
+   "source_sha256": "a8366e307ec70768691d703088d4ec6c2ab747df156e2f93ed048cbbe076c63d",
+   "ko": "후드득후드득"
+  },
+  {
+   "id": "da1311:T00072",
+   "source_sha256": "55841eefaf354661bd27edf1571a2a443b577b0d1097909f4454910f542cfd7d",
+   "ko": " 가루가 된 쇠녹이 쏟아져 내린다."
+  },
+  {
+   "id": "da1311:R00013",
+   "source_sha256": "4ab746b5ca55051bd2c6c828bf3c0ad72edafdf8b594cd3a1446c7a5ff182b4b",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1311:T00073",
+   "source_sha256": "a8366e307ec70768691d703088d4ec6c2ab747df156e2f93ed048cbbe076c63d",
+   "ko": "푸석푸석"
+  },
+  {
+   "id": "da1311:T00074",
+   "source_sha256": "75e4b27061129ea6b44a75e17a4fc9e29ed1ae4ea7813503e95fab3fce381213",
+   "ko": " 허물어져 간다."
+  },
+  {
+   "id": "da1311:T00075",
+   "source_sha256": "8a44240290eab372ec0e643fc3b928c4f47e6263b08db776e5f7e41295c3a5e9",
+   "ko": "「…………아아」"
+  },
+  {
+   "id": "da1311:T00076",
+   "source_sha256": "ccc8475331ce953f1a34f89b830bdefc4be199394e4c1ee21b5530e331a6e8ec",
+   "ko": "이것이, 결말이다."
+  },
+  {
+   "id": "da1311:T00077",
+   "source_sha256": "5373428f4a1a171fc7c2fcd3436bf366681d0bed7da6bb9df7705e08e41d304b",
+   "ko": "볼썽사납고 우스꽝스러운 "
+  },
+  {
+   "id": "da1311:R00014",
+   "source_sha256": "748a08a50eb367ad86f513eebc650c30597ddc5c36b9442d2171f5f49d262f56",
+   "ko": "돈키호테",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1311:T00078",
+   "source_sha256": "1a25fc37eadef3c28a543b86c3e48ba641364519442486fd787d401046d9d3be",
+   "ko": "광대"
+  },
+  {
+   "id": "da1311:T00079",
+   "source_sha256": "34d81d61b2398e7f6ac671db8dd24e0b3e67f68d7b5102d7e2b979d7bed65ad4",
+   "ko": "에게 걸맞은, 볼썽사납고 우스꽝스러운 결말.\n\n　나 자신도, 품 안의 이 소녀도, 내가 나로서 있는 "
+  },
+  {
+   "id": "da1311:R00015",
+   "source_sha256": "7f627e12807378e3a610599809549d79192128f67c97cc6b165b04939faa5de0",
+   "ko": "것은",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1311:T00080",
+   "source_sha256": "4a558371f938b01d790207375865ed101b0826bdbda2e46b552b7910337d527a",
+   "ko": "존재는"
+  },
+  {
+   "id": "da1311:T00081",
+   "source_sha256": "ccdd19a235e5e9c55435df8fb6887c6e09402744a2c35fdec6c691b180cf7a7f",
+   "ko": " 모두,\n　썩어 사라진다.\n\n　나야말로 잘못된 피――잘못된 미래인 것이다."
+  },
+  {
+   "id": "da1311:T00082",
+   "source_sha256": "f16ae6e5529efdd129ed47598710932c5e26f0c720df317d1b8098a815b7cceb",
+   "ko": "없어져 버리면 된다."
+  },
+  {
+   "id": "da1311:T00083",
+   "source_sha256": "0f3566c9b244b586798fe884acc920335fdb46b0662ad89c0328d8e7b722cfa3",
+   "ko": "제로가 되어 버리면 된다."
+  },
+  {
+   "id": "da1311:T00084",
+   "source_sha256": "671fb34981eacddcbea3bfef08f785521b9dbafedc70d703e1736a09dee5d378",
+   "ko": "모든 것은, 혼돈의 기계가 꾸는 악몽에 지나지 않는다――"
+  },
+  {
+   "id": "da1311:T00085",
+   "source_sha256": "03be3a1bf758b342f14323e26b44723d7d6d2b2f1a14788dbe962f5eafaaf634",
+   "ko": "「……젠장…… 젠자아앙……!」"
+  },
+  {
+   "id": "da1311:T00086",
+   "source_sha256": "e9710345dd67b89e494eb5a27b060f843ea52c2973ebe23caedf4bfc5bbf0304",
+   "ko": "눈물이 멈추지 않는다."
+  },
+  {
+   "id": "da1311:T00087",
+   "source_sha256": "40d4d9ee73f274ce95cb39fc071c58dd2a2cbed00dcc70c68c9796ef37e989bf",
+   "ko": "떨림이 멈추지 않는다."
+  },
+  {
+   "id": "da1311:T00088",
+   "source_sha256": "2275d56d26ea3495da6f91bcb3ff912b6eec6ab3639f21505359370d0fb35cfa",
+   "ko": "이빨이 맞물리지 않아, 딱딱 소리를 내며 계속 떨린다."
+  },
+  {
+   "id": "da1311:T00089",
+   "source_sha256": "8a49d7b87478b0ff7e116860c81088799883a1b55093af14c15d2cd1a5522fee",
+   "ko": "얼굴은 눈물과 콧물과 쇠녹으로 엉망진창이다.\n\n　비참하다."
+  },
+  {
+   "id": "da1311:T00090",
+   "source_sha256": "bf9da034787cac458c8df584a11a7a3c2c9be3fc2e1a19f93a47ad40092c77b9",
+   "ko": " 지독히도 비참하다."
+  },
+  {
+   "id": "da1311:T00091",
+   "source_sha256": "922691399671c5620d296254b7606bf46160a5245ec396fb330cb6066027203d",
+   "ko": "이 지경에 이르러서도, 아직도 추태를 부릴 셈인가."
+  },
+  {
+   "id": "da1311:T00092",
+   "source_sha256": "9dcaf958f755f99be5056690a17cf3fcca79049d2fa7e72fdff293f6e274e0cb",
+   "ko": "스러지는 마지막 순간조차 이토록 볼썽사납게, 울부짖을 것인가.\n\n\n　이런 빈약한 "
+  },
+  {
+   "id": "da1311:R00016",
+   "source_sha256": "e6d39fa5cdb6c4da1727f631fbf2e4f4291f034a72be69c956751adcf44399b5",
+   "ko": "마음",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1311:T00093",
+   "source_sha256": "b9ba74447cbaca624042d82c3ebf3f660837db4fac4a072e6a108fbb6413d8bb",
+   "ko": "영혼"
+  },
+  {
+   "id": "da1311:T00094",
+   "source_sha256": "41dc48303d873cb3d3fb17f8b68d58f9236f9a2736d8fd77281a5119c73084a0",
+   "ko": "에, 어째서 "
+  },
+  {
+   "id": "da1311:R00017",
+   "source_sha256": "edcd28fa7ea44051f0257ef67461b3825ba660795cc6071fba8ea223214baa1d",
+   "ko": "검이",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1311:T00095",
+   "source_sha256": "eda4f9e77842917f0eb3b924517f95380605bae5ae37dc6bff54f11df3ad5b65",
+   "ko": "기사도가"
+  },
+  {
+   "id": "da1311:T00096",
+   "source_sha256": "db40138044cb0d0f89fabf8cd0d616d3e6111ed5beb97f78e782f15f2fc007a2",
+   "ko": " 깃들어 있다고 착각할 수 있었던\n것일까.\n\n　하지만."
+  },
+  {
+   "id": "da1311:T00097",
+   "source_sha256": "e6f572d82f074177a19f014386af166f9d0ff58e64202a0edfa12cb7ddf5f56c",
+   "ko": "그런데도."
+  },
+  {
+   "id": "da1311:T00098",
+   "source_sha256": "10d93364212e8379b3499f870469f31b8aee576afb0be7cc6de64300d47393c3",
+   "ko": "나는――"
+  },
+  {
+   "id": "da1311:T00099",
+   "source_sha256": "3ebcfa5e7b08cdfa9835da8ec1ea599417c49df142f8e66799c1b69206782a6b",
+   "ko": "「…"
+  },
+  {
+   "id": "da1311:T00100",
+   "source_sha256": "b4935894c8ce16bde67bbffc672428b1533c4f1e1e8b1ce21a2933183db6bfa5",
+   "ko": "…"
+  },
+  {
+   "id": "da1311:T00101",
+   "source_sha256": "d2b1c0ffd7ab8f14b7b6f35493077fa41ec725f91512801985bbc419cbe98ce1",
+   "ko": "사라지고 싶지 않아」"
+  },
+  {
+   "id": "da1311:T00102",
+   "source_sha256": "d2ea58f93afd77af95a25c07bb3dd613b182eaf13557808e092788eecaf03852",
+   "ko": "자신의 존재가 없었던 일이 된다."
+  },
+  {
+   "id": "da1311:T00103",
+   "source_sha256": "8171bb9b2de37e6e8e91518141709dd9a4e297139a84f4934a866b9bb47fd6a3",
+   "ko": "제로가 되어 버린다."
+  },
+  {
+   "id": "da1311:T00104",
+   "source_sha256": "6868637807e61625e2fb555e7e893dd0da7b368cc3527ea38d8062062c5b21b5",
+   "ko": "어나더 블러드를 좀먹었던 것과 같은, 거스를 길 없는 공포와 절망.\n\n　이런 건 싫다."
+  },
+  {
+   "id": "da1311:T00105",
+   "source_sha256": "bf4d86dcf7e530e4a0b22debf745f4e8a8dda336f61bce7d29b5f01db5d9b967",
+   "ko": "이렇게 비참한 채로, 사라져 버리고 싶지 않다.\n\n　긍지, 자신감, 자존심――온갖 허식을 벗겨낸 나에게 남은,\n그것이 유일한 본심이었다.\n\n　나는, 최악이다."
+  },
+  {
+   "id": "da1311:T00106",
+   "source_sha256": "c47f0d0a642b48ef2f735bc2ee339e577652ad4c282e4a334d3c90aad687edc8",
+   "ko": "볼썽사납게 멸망하는 게 싫으니까, 볼썽사납게 발버둥 친다."
+  },
+  {
+   "id": "da1311:T00107",
+   "source_sha256": "0ee938e9480f530bd07a376cbc17879485fe59e0c45c469995a29937ed10fcbc",
+   "ko": "실로, 구제 불능이다.\n\n　하지만."
+  },
+  {
+   "id": "da1311:T00108",
+   "source_sha256": "17ab09f91b8abadfbf0b5c968a5caaccd680509337c4be801cfd439674c0281a",
+   "ko": "하지만."
+  },
+  {
+   "id": "da1311:T00109",
+   "source_sha256": "e6f572d82f074177a19f014386af166f9d0ff58e64202a0edfa12cb7ddf5f56c",
+   "ko": "그런데도."
+  },
+  {
+   "id": "da1311:R00018",
+   "source_sha256": "1361c5b1f2bd16f89b5ed29501fe083d0674e979354c970715bf2302bc7d415d",
+   "ko": "・・・・　・・・・・・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1311:T00110",
+   "source_sha256": "fdbdc8562588b03c3ade60ec20123d89a180b833a473ee53530c9ea9e7a73c92",
+   "ko": "그런데도, 나는 구원받고 싶은 것이다"
+  },
+  {
+   "id": "da1311:T00111",
+   "source_sha256": "631157c15452e8cefd925437a26f1d016b1a5d7575f9234fd0bf7aff0369e63d",
+   "ko": "!"
+  },
+  {
+   "id": "da1311:T00112",
+   "source_sha256": "5f0581c6580860349251b1a83f06298e09a415253c6397e129ee48344ba839a3",
+   "ko": "「누군가……」"
+  },
+  {
+   "id": "da1311:T00113",
+   "source_sha256": "fc3fad772473bf328f8102e25086b5fa679e9fcfa06fba53f90b93491995714e",
+   "ko": "누군가."
+  },
+  {
+   "id": "da1311:T00114",
+   "source_sha256": "fc3fad772473bf328f8102e25086b5fa679e9fcfa06fba53f90b93491995714e",
+   "ko": "누군가."
+  },
+  {
+   "id": "da1311:T00115",
+   "source_sha256": "f78e4a85443a388d9e2e515f041d862e48fe7778501d16412fd39a446ab8c4a8",
+   "ko": "누군가.\n\n　누구라도 좋다. 무엇이라도 좋다."
+  },
+  {
+   "id": "da1311:T00116",
+   "source_sha256": "2bed9c60a6094841aaad719d9c3a4be56e96a07cd26cdc13f67e5d728daca960",
+   "ko": "어떤 "
+  },
+  {
+   "id": "da1311:R00019",
+   "source_sha256": "c1ffb0342c7dce440ea380f7752d78bdba74e8fae1c8a82a9cf220ea8d380fe2",
+   "ko": "데우스 엑스 마키나라도",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1311:T00117",
+   "source_sha256": "d2164a2b7a103340c2bc9f889cdc94a125f606929a1f25e4ffed93d09221056b",
+   "ko": "진부한 기적이라도"
+  },
+  {
+   "id": "da1311:T00118",
+   "source_sha256": "7e5e73395ed85affad84de2523292b029665c76b5d13b45931f8e11eb34e7746",
+   "ko": " 상관없다.\n\n　나를…… 우리를…… 이 공허한 지옥에서, 구해내 줘.\n\n　누군가."
+  },
+  {
+   "id": "da1311:T00119",
+   "source_sha256": "fc3fad772473bf328f8102e25086b5fa679e9fcfa06fba53f90b93491995714e",
+   "ko": "누군가."
+  },
+  {
+   "id": "da1311:T00120",
+   "source_sha256": "4be6348a573ed6d09d28e884f36cbb867caffbe8cd15319580d1c6e59cc2471e",
+   "ko": "누군가――"
+  },
+  {
+   "id": "da1311:T00121",
+   "source_sha256": "8431de9cdadc5fbc5806b193833851dde471b782050b5606eec3c5f845d8187c",
+   "ko": "「누군가…… 도와줘…… 윽!」"
+  },
+  {
+   "id": "da1311:T00122",
+   "source_sha256": "5a173ef0785befed1c74528b8a2f8233c89407c201df09d9a94707df6307bf22",
+   "ko": "「도와주는 게…… 당연하잖아아아아앗!」"
+  },
+  {
+   "id": "da1311:T00123",
+   "source_sha256": "e2306ccac8d6dc32f3e20e2a68cc7d51218238a14bcb09c114dfee86704fcba1",
+   "ko": "그 목소리는, 혼돈의 중심에서, 귀를 먹먹하게 하는 그 어떠한 소리보다도\n　드높이 울려 퍼졌다."
+  }
+ ],
+ "issues": [
+  {
+   "id": "da1311:T00032",
+   "kind": "glossary_candidate",
+   "note": "외부 초안의 기존 용어 후보 메모를 스키마에 맞게 보존. Pending glossary candidate 九朔 rendered as 쿠자쿠. 원문: 大十字九朔; 초안 표기: 다이쥬지 쿠자쿠. 이 메모만으로 용어 승인을 뜻하지 않음."
+  },
+  {
+   "id": "da1311:R00001",
+   "kind": "ruby_omission_reviewed",
+   "note": "문맥 대조 완료: 喪失〈うしな〉의 읽기·뜻은 한국어 본문 “상실”와 이어지는 어미에 반영됨. 외래어·별칭·별도 의미가 아니므로 중복 읽기만 생략."
+  },
+  {
+   "id": "da1311:R00002",
+   "kind": "ruby_omission_reviewed",
+   "note": "문맥 대조 완료: 確〈しか〉의 읽기·뜻은 한국어 본문 “확실”와 이어지는 어미에 반영됨. 외래어·별칭·별도 의미가 아니므로 중복 읽기만 생략."
+  },
+  {
+   "id": "da1311:R00003",
+   "kind": "ruby_omission_reviewed",
+   "note": "문맥 대조 완료: 烏滸〈おこ〉의 읽기·뜻은 한국어 본문 “주제넘”와 이어지는 어미에 반영됨. 외래어·별칭·별도 의미가 아니므로 중복 읽기만 생략."
+  },
+  {
+   "id": "da1311:R00006",
+   "kind": "ruby_omission_reviewed",
+   "note": "문맥 대조 완료: 木霊〈こだま〉의 읽기·뜻은 한국어 본문 “메아리”와 이어지는 어미에 반영됨. 외래어·별칭·별도 의미가 아니므로 중복 읽기만 생략."
+  },
+  {
+   "id": "da1311:R00007",
+   "kind": "ruby_omission_reviewed",
+   "note": "문맥 대조 완료: 聾〈ろう〉의 읽기·뜻은 한국어 본문 “먹먹하게”와 이어지는 어미에 반영됨. 외래어·별칭·별도 의미가 아니므로 중복 읽기만 생략."
+  },
+  {
+   "id": "da1311:R00011",
+   "kind": "ruby_omission_reviewed",
+   "note": "문맥 대조 완료: 否〈いや〉의 읽기·뜻은 한국어 본문 “아니”와 이어지는 어미에 반영됨. 외래어·별칭·별도 의미가 아니므로 중복 읽기만 생략."
+  },
+  {
+   "id": "da1311:R00012",
+   "kind": "ruby_omission_reviewed",
+   "note": "문맥 대조 완료: 襤褸々々〈ボロボロ〉의 읽기·뜻은 한국어 본문 “후드득후드득”와 이어지는 어미에 반영됨. 외래어·별칭·별도 의미가 아니므로 중복 읽기만 생략."
+  },
+  {
+   "id": "da1311:R00013",
+   "kind": "ruby_omission_reviewed",
+   "note": "문맥 대조 완료: 襤褸々々〈ボロボロ〉의 읽기·뜻은 한국어 본문 “푸석푸석”와 이어지는 어미에 반영됨. 외래어·별칭·별도 의미가 아니므로 중복 읽기만 생략."
+  }
+ ]
+}

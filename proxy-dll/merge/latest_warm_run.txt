@@ -1,0 +1,11 @@
+14:16:40 (+  1.4s) DUEL AI difficulty for this run: 2 (restored with the ini at the end)
+14:16:40 (+  1.4s) pairs [('AM', 'QM')]; 3 scripted presses; limit 60 s a fight
+14:16:46 (+  7.1s) client 4096x2160, image at (608,0) 2880x2160
+14:17:20 (+ 41.2s) F01: 데몬베인(AM) vs 네임리스 원(QM) BATTLE-13 — scene 262
+14:17:42 (+ 64.0s) F01: battle on after 23 s, scene data/scene/scene21172/scene21172, defs ['PAIR682P0R1NR.def', 'ng_live_682_am.def']
+14:18:20 (+101.4s) F01 데몬베인(AM) vs 네임리스 원(QM) BATTLE-13: defs {0: 'PAIR682P0R1NR.def', 1: 'ng_live_682_am.def'} | moves ['PWIN', 'SINJUU'] | last ours [(26.8, 'STOP'), (29.9, 'PWIN')] | last theirs [(28.8, 'WAIT'), (34.0, 'LOSE1')] | hp (592, 0) | closed by itself: False
+14:18:20 (+101.4s) the battle did not close — closing the game normally, then the rest in a new run
+14:18:21 (+103.0s) dialog 0x511738: clicked first button of 2
+14:18:27 (+109.0s) game exited normally
+14:18:27 (+109.0s) autobattle.ini restored (byte for byte)
+14:18:30 (+112.1s) VERDICT: 0/1 fights closed by themselves

@@ -1,0 +1,7 @@
+LIBRARY d3dxof
+EXPORTS
+    DirectXFileCreate=P_DirectXFileCreate @1
+    DllCanUnloadNow=P_DllCanUnloadNow PRIVATE
+    DllGetClassObject=P_DllGetClassObject PRIVATE
+
+    KhdCamResetView=_KhdCamResetView@0

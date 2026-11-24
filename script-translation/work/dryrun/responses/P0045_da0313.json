@@ -1,0 +1,390 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0045_da0313",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0313:T00001",
+   "source_sha256": "4324b6ddf30ad4ddd7501ba54d2b31d586202291f9f6879cb58660f91aa06c58",
+   "ko": "「그만해!　그만해!\n　그만해에에에에!」"
+  },
+  {
+   "id": "da0313:T00002",
+   "source_sha256": "18f006879de875a1ffe2cd9f964ff3daa9a203e1d83c6e4a3bc482155907c83a",
+   "ko": "라이카는 달린다."
+  },
+  {
+   "id": "da0313:T00003",
+   "source_sha256": "d0317942dd8009e35401ba46db7e371ca2e7ecd18949cd429ef31a419f29f46f",
+   "ko": "계속 달린다.\n\n　심장은 귀가 "
+  },
+  {
+   "id": "da0313:R00001",
+   "source_sha256": "8fe205eb98e124de0a6ad87d2029c87c4449e517d3fc79d93792f74a85dc6748",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0313:T00004",
+   "source_sha256": "4ab9f1715964d07fb8c3e61d4a07ad735f7d5e2f640ff7ef10632a110065037f",
+   "ko": "먹먹해"
+  },
+  {
+   "id": "da0313:T00005",
+   "source_sha256": "5c147159623779342afce56137211539d68f8d9a12034792fc145b31d4796fc2",
+   "ko": "질 정도로 거세게 고동치고, 폐부는 절실히 산소를 갈구하며, 사지는 들어 올리는 것조차 겨우여서 언제 움직이지 않게 되어도 이상하지 않다.\n\n　그럼에도 계속 달린다."
+  },
+  {
+   "id": "da0313:T00006",
+   "source_sha256": "8fadf2b3f05811898c58dadd214291049282f525e14f8cb40a026e64a8f00244",
+   "ko": "아이들을 구하기 위해서."
+  },
+  {
+   "id": "da0313:T00007",
+   "source_sha256": "2dd6961e827880aabb9a52b4f47cfc9d97be4dc0f7e4bdb94f740141e600f808",
+   "ko": "혹은―― 무언가에 내몰리듯 재촉당하여.\n\n　\n　\n　　　　　결코 다다를 수 없는 무한한 거리를, 계속 달린다――"
+  },
+  {
+   "id": "da0313:T00008",
+   "source_sha256": "794f968f1ccb90c622a06b23abc34a9318467abab931175d7b7ee96fcbc532f6",
+   "ko": "그녀를 재촉하는 것은 무엇인가."
+  },
+  {
+   "id": "da0313:T00009",
+   "source_sha256": "bccce5116cb2f116153aa5314912f47797d712b403cdbcc683f678f9ba3335a7",
+   "ko": "사랑하는 자를 구하고 싶다―― 그 마음에 필적하여 마음을 압박하는 무언가."
+  },
+  {
+   "id": "da0313:T00010",
+   "source_sha256": "5aeedf81b75a2da60b586ab6939f835721fa53db0a5efe9d2ade31cb29928c29",
+   "ko": "차갑고, 뜨겁고, 무겁고, 격렬한 이 아픔의 정체는 무엇인가."
+  },
+  {
+   "id": "da0313:T00011",
+   "source_sha256": "2230336a4c57de65f01d01fe6e9fc32cef9cfe14d0430e7441b88be43a3f174d",
+   "ko": "「아아아…… 아아아아아아앗!」"
+  },
+  {
+   "id": "da0313:T00012",
+   "source_sha256": "951790aeb68ba4cab76e97c7e7dfc3ac6b947b1670279fe2ee35fe38c783b76a",
+   "ko": "「소용없다!　당신은 아무것도 구할 수 없어!　아무도 구할 수 없어!」"
+  },
+  {
+   "id": "da0313:T00013",
+   "source_sha256": "c43df0a79d7b9cbf70c58a4802ecde4ba28a4b4dc0314835e4aebbb9bdae0840",
+   "ko": "「그것이 당신의――!」"
+  },
+  {
+   "id": "da0313:T00014",
+   "source_sha256": "b5809ebb02ffb03bfb73ca73f3f0890a972efc16318150b7d121f9610a2207f1",
+   "ko": "「사라지지 않는 죄다!"
+  },
+  {
+   "id": "da0313:R00002",
+   "source_sha256": "57bb6be87876c4cbeba1c58bedd0ffb211b2b74a8ad3993a53ea318c996edea2",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0313:T00015",
+   "source_sha256": "9a9b9d3bbef44ebe4a5899a4e3c3beda82013d523836e998571dd7d4e52cd751",
+   "ko": "내"
+  },
+  {
+   "id": "da0313:T00016",
+   "source_sha256": "09cce993b8412d165c40ad2eafe7321e0ba602af3c3c83e729f0904e6f9837f2",
+   "ko": "가 사라지게 두지 않는다!」"
+  },
+  {
+   "id": "da0313:T00017",
+   "source_sha256": "74780658feef56bd48e8b70684325b922ab79f27229eda0f3642e3c2a62e6099",
+   "ko": "「아아…… 아아아……」"
+  },
+  {
+   "id": "da0313:T00018",
+   "source_sha256": "c87ce531e715b3bcc2029131209d18b705e6f003c679761d8997942fab2d2b6a",
+   "ko": "마침내 마음이 패배했다."
+  },
+  {
+   "id": "da0313:T00019",
+   "source_sha256": "0c9c92bbb08f83613dfbd8ae999b94613de1e284ac4494d120bde02ec4686e51",
+   "ko": "마음이 꺾이면 몸도 무너져 내린다."
+  },
+  {
+   "id": "da0313:T00020",
+   "source_sha256": "613369e5748c9dcc170aa14539845d75ec818099b0f278f771cf0c832fe4b085",
+   "ko": "그 자리에 무릎을 꿇고 머리를 감싸 쥐며 라이카는 울며 무너져 내렸다."
+  },
+  {
+   "id": "da0313:T00021",
+   "source_sha256": "8078175682627b61932159dd27fb9f9d22c74837f738cfa1bd81e5dc77ced9ee",
+   "ko": "아이들의 비명은 그치지 않는다."
+  },
+  {
+   "id": "da0313:T00022",
+   "source_sha256": "bb349a4cc6aee932d34ef3e96f336bd5609713e3f5fbd6058487e04d6aabde8a",
+   "ko": "「미안해…… 미안해……\n　미안해……」"
+  },
+  {
+   "id": "da0313:T00023",
+   "source_sha256": "7cf86a4def0e63ca5fbca2fde3f667a6d25667a2a2ceb97ffe4fe719ad62761b",
+   "ko": "「그래…… 당신은 그렇게 모든 걸\n　저버리고, 자신만 도망쳐 살아남는 거야……」"
+  },
+  {
+   "id": "da0313:T00024",
+   "source_sha256": "aaba197c4b754c1ecdcf47ccdd7a7921fad72e79d2f81217aab37806cf8958ac",
+   "ko": "「미안…… 해…… 어…… 흑」"
+  },
+  {
+   "id": "da0313:T00025",
+   "source_sha256": "0decfd3d33359579bec5990117d6d81eeecba9ca518bcebd46d2fdfe514b4dff",
+   "ko": "「우는 건 저 아이들이 불쌍해서가\n　아니야…… 자신이 불쌍한 거지?\n　그렇잖아……」"
+  },
+  {
+   "id": "da0313:T00026",
+   "source_sha256": "84cf50ab35ecda2bf55b9edb49e4296d6a8ed90cb95e8673156b1f87e7e0a42f",
+   "ko": "「우아아…… 우우우…… 아아아아아……」"
+  },
+  {
+   "id": "da0313:T00027",
+   "source_sha256": "77036e95033feb06fe108404d3ca44ead4b6562afb6aa6325fe28eef18ef1161",
+   "ko": "「――라이카 누나」"
+  },
+  {
+   "id": "da0313:T00028",
+   "source_sha256": "2550f4d7ebede9611c16a29615ea895980923ce9db063a8b14d79e9625dc2c54",
+   "ko": "「그렇네, 라이카」"
+  },
+  {
+   "id": "da0313:T00029",
+   "source_sha256": "6346bc30d1201ea0c4357624d807b370942f43b7223b229f031a8275bed4b326",
+   "ko": "「――――?」"
+  },
+  {
+   "id": "da0313:T00030",
+   "source_sha256": "a504b71cb7fd8381222e7a7f2c4132f5c04eb918b5c46db11c7e93db8e5b079a",
+   "ko": "「울고만 있는 거네?」"
+  },
+  {
+   "id": "da0313:T00031",
+   "source_sha256": "a280bb891ee333a8a0c5b0e8d9ec4e8b23dfdef97bd17435f79f813d1a768353",
+   "ko": "「――어?」"
+  },
+  {
+   "id": "da0313:T00032",
+   "source_sha256": "3021f18f76607d42e1b5d274611f9367c3bc496387f26643337521b4432e7067",
+   "ko": "「그렇게 귀를 막고, 눈을 감고서,\n　그저 울부짖고만 있으면 되는 거야?」"
+  },
+  {
+   "id": "da0313:T00033",
+   "source_sha256": "b3f46fb6b49e0ff036151ae5eb66306cb8e04d5aec382e6458bb955a3dff0e5a",
+   "ko": "「너는……?」"
+  },
+  {
+   "id": "da0313:T00034",
+   "source_sha256": "6c9d5935db05e18e79e0fcbf4f579e74e934cfd8bb7f63508e3c6e0ea8b58316",
+   "ko": "「그런데도 아이들은, 『나』를 믿고\n　기다리고 있는데」"
+  },
+  {
+   "id": "da0313:T00035",
+   "source_sha256": "d34635300f31c1cbe91f21fef585098b22e578f25d9fb287cba9be247006302b",
+   "ko": "「……얘들아」"
+  },
+  {
+   "id": "da0313:T00036",
+   "source_sha256": "ac434afe28e84bec25b3411eb5009ec4d8fa7c12114071abfc5aa2ac5c0ef459",
+   "ko": "「누…… 나……」"
+  },
+  {
+   "id": "da0313:T00037",
+   "source_sha256": "6581b5a60f3071ae361761744ef7d5ad14be084105fb5185a1cce06af2fbd0a1",
+   "ko": "「……누…… 나」"
+  },
+  {
+   "id": "da0313:T00038",
+   "source_sha256": "634fa7391a6db971effb061add5b0c4590bcb1de21b2d16d4d41365ab9f3d2c9",
+   "ko": "「라이카…… 언니…… 흑!」"
+  },
+  {
+   "id": "da0313:T00039",
+   "source_sha256": "dc9f931f561c559ac565b5777c1a64d8eccb56addc68319490af37fd001fe76a",
+   "ko": "「얘들아…… 얘들아……\n　얘들아아!」"
+  },
+  {
+   "id": "da0313:T00040",
+   "source_sha256": "673b7b0d9be20e1c1ab256850a355c49a96f6fbe45b3b25ea3ff738f8a0ca41e",
+   "ko": "「『나』는 또다시…… 배신하는 거야?」"
+  },
+  {
+   "id": "da0313:T00041",
+   "source_sha256": "af673cde21d75cba8f1b1fb30a78be52c135f5f2588f85added5587b08481059",
+   "ko": "「하지만 나에겐, 아무런 힘도……읏!」"
+  },
+  {
+   "id": "da0313:T00042",
+   "source_sha256": "672f28dc17d54918c09fcbdfd9a338500204b47ea96ff9997f252d8e46e191bf",
+   "ko": "「――있어」"
+  },
+  {
+   "id": "da0313:T00043",
+   "source_sha256": "cb8514e41f28e3628e637b94914507dca487018d998490c5256065e1a0c9f4e8",
+   "ko": "「어?」"
+  },
+  {
+   "id": "da0313:T00044",
+   "source_sha256": "008650762afdce3e68dac34558fd6e026991863357ced07fc1dc8f700d021bf6",
+   "ko": "「힘이라면, 여기에 있어」"
+  },
+  {
+   "id": "da0313:T00045",
+   "source_sha256": "cd32721ab87af1437f8e48953af21f0e21b50fe86b7fbb006c8fd9bef5baa599",
+   "ko": "「너는…… 누구야?」"
+  },
+  {
+   "id": "da0313:T00046",
+   "source_sha256": "e887b5e0c8a8fa10666b737dd2deddeb3abaf9bacaa82376108b19c15a2e80e0",
+   "ko": "「나는――」"
+  },
+  {
+   "id": "da0313:T00047",
+   "source_sha256": "4c51c068ab82b191cf33f96fb2d7c9d76a1306ee49a446a854bcd9dfb09bc808",
+   "ko": "「『나』」"
+  },
+  {
+   "id": "da0313:T00048",
+   "source_sha256": "1a595f4dcbd5c95fb5ee98783f0d63ae7109758cc779692968b7371bf6914571",
+   "ko": "「나는 알고 있어.\n　　　『나』는 알고 있어.\n　　　암흑신화를 깨부수는,"
+  },
+  {
+   "id": "da0313:R00003",
+   "source_sha256": "4dadff14a6fbccf5144ee04dbbf49ed4edbbb5dce129d609b3970ca2db47de9b",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0313:T00049",
+   "source_sha256": "f3ee94697fa175ac84b204f40ae978d07238e8b65ce8882799ab26b3cceecdd6",
+   "ko": "황당무계"
+  },
+  {
+   "id": "da0313:T00050",
+   "source_sha256": "30decdf4274513937a5295af56ea082925e2c003e616f76156e9dec43f9164c6",
+   "ko": "한 "
+  },
+  {
+   "id": "da0313:R00004",
+   "source_sha256": "6f090df5f940a27b8d0ebc6bb33da6a0b5a3ef58a93f573524402a7c4ee81828",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0313:T00051",
+   "source_sha256": "f3c39da61b39d310cbd4941b75d324bc5931f7e534d61f9d3d812cd31b07608d",
+   "ko": "옛날이야기"
+  },
+  {
+   "id": "da0313:T00052",
+   "source_sha256": "75149f2440136bf3903211102554eed3893396f5fb5b9bf6c8aef8284355790c",
+   "ko": "를」"
+  },
+  {
+   "id": "da0313:T00053",
+   "source_sha256": "eff4e1f7968b5b60fe4507eb4273d426de6b65a3ce07ea51730510d29faf498b",
+   "ko": "「……아」"
+  },
+  {
+   "id": "da0313:T00054",
+   "source_sha256": "a13a388140d5b34f6b773c4104d58eae293f2a507005c157d52de021c9b59ec9",
+   "ko": "「나…… 알고 있어.\n　누구도 지울 수 없는, 생명의 노래를」"
+  },
+  {
+   "id": "da0313:T00055",
+   "source_sha256": "57f8a93915a68345e7363775259edadaa66956e85c8b1e09dd30a8a7619fc31e",
+   "ko": "「이것은 꿈. 현실을 침식하는 악몽.\n　하지만 꿈이라면―― 좀 더 황당무계한\n　꿈으로 덧칠해 버리면 돼」"
+  },
+  {
+   "id": "da0313:T00056",
+   "source_sha256": "409d5c134ae4913bf720ea0733abe07e00b69ebde6a5d43df56ebbef20764aae",
+   "ko": "「나는 『나』에게 기억을 줄게.\n　　결코 부러지지 않는 검을 줄게」"
+  },
+  {
+   "id": "da0313:T00057",
+   "source_sha256": "5af9dac3a738cf7cdb37142ea621cd457b1259f8e5c15a032d63d70daa7aea5c",
+   "ko": "「나는 『나』에게 마음을 줄게.\n　　『나』를 믿는 강함을 줄게」"
+  },
+  {
+   "id": "da0313:T00058",
+   "source_sha256": "ce6af71c09d3d34a951eba85d909036786f00f3a375f7bc26d307fed3ea46ea6",
+   "ko": "「「성약의 말은 하나――」」"
+  },
+  {
+   "id": "da0313:T00059",
+   "source_sha256": "48e81801da6d070c74dc361a1ef0eaafdd11a636f557e528c20ab841ae9198c2",
+   "ko": "「――"
+  },
+  {
+   "id": "da0313:R00005",
+   "source_sha256": "57e3fb306c077fe4e4fec275a553031ad98fd5328b4ad70be388a6de6dad6a0e",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0313:T00060",
+   "source_sha256": "d1c6621a7dfec51aea55a1d8b42b64009deca62488d40f7cd9046f8cb6ce525d",
+   "ko": "변"
+  },
+  {
+   "id": "da0313:T00061",
+   "source_sha256": "631157c15452e8cefd925437a26f1d016b1a5d7575f9234fd0bf7aff0369e63d",
+   "ko": "!"
+  },
+  {
+   "id": "da0313:R00006",
+   "source_sha256": "fc7931c25e37b8b170dced5d7d48995dd0fb0a34946fbea7c5f3298dafcf5423",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0313:T00062",
+   "source_sha256": "0b44401f360a9ac569b2d802038a8d0c408764b2ec440df83de38b3e8de4fb27",
+   "ko": "신"
+  },
+  {
+   "id": "da0313:T00063",
+   "source_sha256": "5d34639f2294eb85c20ab3b3a3d4989e5f6b81fcfffe085e7d28ca35e0ee26cf",
+   "ko": "!――」"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0313:R00001",
+   "kind": "omit_redundant",
+   "note": "한국어 '먹먹해질'로 의미가 온전히 전달되므로 일본어 음독 루비 생략"
+  },
+  {
+   "id": "da0313:R00002",
+   "kind": "omit_redundant",
+   "note": "한국어 '내가'로 의미가 온전히 전달되므로 일본어 독음 루비 생략"
+  },
+  {
+   "id": "da0313:R00003",
+   "kind": "omit_redundant",
+   "note": "한국어 '황당무계'로 의미가 온전히 전달되므로 일본어 독음 루비 생략"
+  },
+  {
+   "id": "da0313:R00004",
+   "kind": "omit_redundant",
+   "note": "한국어 '옛날이야기'로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0313:R00005",
+   "kind": "omit_redundant",
+   "note": "한국어 한자음 '변'으로 의미가 전달되므로 일본어 음독 루비 생략"
+  },
+  {
+   "id": "da0313:R00006",
+   "kind": "omit_redundant",
+   "note": "한국어 한자음 '신'으로 의미가 전달되므로 일본어 음독 루비 생략"
+  }
+ ]
+}

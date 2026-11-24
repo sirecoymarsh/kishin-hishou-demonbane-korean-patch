@@ -1,0 +1,52 @@
+{
+ "ported": [
+  "script\\da0100.nps",
+  "script\\da0205.nps",
+  "script\\da0314.nps",
+  "script\\da0407.nps",
+  "script\\da0506.nps",
+  "script\\da0606.nps",
+  "script\\da0710.nps",
+  "script\\da0803.nps",
+  "script\\da0902.nps",
+  "script\\da1002.nps",
+  "script\\da1102.nps",
+  "script\\da1204.nps",
+  "script\\da1320.nps",
+  "script\\da1401.nps"
+ ],
+ "save_choices": {
+  "script\\da0119.nps": 2,
+  "script\\da0205.nps": 2,
+  "script\\da0314.nps": 2,
+  "script\\da0407.nps": 2,
+  "script\\da0506.nps": 2,
+  "script\\da0606.nps": 2,
+  "script\\da0710.nps": 2,
+  "script\\da0803.nps": 2,
+  "script\\da0902.nps": 2,
+  "script\\da1002.nps": 2,
+  "script\\da1102.nps": 2,
+  "script\\da1204.nps": 2,
+  "script\\da1320.nps": 2,
+  "script\\da1401.nps": 2
+ },
+ "gameover_first": [
+  "script\\da0205.nps",
+  "script\\da0314.nps",
+  "script\\da0407.nps",
+  "script\\da0506.nps",
+  "script\\da0606.nps",
+  "script\\da0710.nps",
+  "script\\da0803.nps",
+  "script\\da0902.nps",
+  "script\\da1002.nps",
+  "script\\da1102.nps",
+  "script\\da1204.nps",
+  "script\\da1320.nps",
+  "script\\da1401.nps"
+ ],
+ "changed_files": 113,
+ "save_prompts": 28,
+ "out_sha256": "102CF34DFE2DCBA3B800AAC82ACD4E4FBC5A8C046F7C25F80DBB9206EC7EC077"
+}

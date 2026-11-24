@@ -1,0 +1,36 @@
+{
+ "label": "fullP",
+ "game": "F:\\AI\\khd-fullrun-game",
+ "steps": [
+  "prompt"
+ ],
+ "checks": {
+  "prompt_text": "타이틀 화면으로 돌아갈까요?",
+  "prompt_title": "Double Wings Demonbane",
+  "prompt_after_s": 0.2,
+  "prompt_buttons": [
+   "",
+   ""
+  ],
+  "prompt_closed": true,
+  "alive_after_prompt": true
+ },
+ "out": "P:\\AI\\khd-hero-ai\\v30\\runs\\run_1119_020643",
+ "pid": 28188,
+ "exit_code": "0x0",
+ "new_dumps": [],
+ "moved_windows": [
+  [
+   45.25,
+   "#32770",
+   1920,
+   1004
+  ]
+ ],
+ "window_pos_restored": true,
+ "nvlddmkm_before_after": [
+  0,
+  0
+ ],
+ "seconds": 61
+}

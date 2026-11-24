@@ -1,0 +1,644 @@
+{
+  "schema": "khd-gemini-response-v1",
+  "packet_id": "P0128_da9901",
+  "model_id": "Gemini 3.8 Flash (High)",
+  "records": [
+    {
+      "id": "da9901:T00001",
+      "source_sha256": "994779b8eb11a9fbd0873b85efb29e691aafda66d73a1225498884f731efc6d4",
+      "ko": "무대가 막을 내리고, 꿈에서 깨어날지라도, 이야기는 계속되어 간다.\n\n\n\n\n　이어 이야기하는 자가 있는 한."
+    },
+    {
+      "id": "da9901:T00002",
+      "source_sha256": "d644d415a82849c9fcd16440a40dc5064a1d526641505777c94c4ac6c0a637f0",
+      "ko": "귀담아듣는 자가 있는 한."
+    },
+    {
+      "id": "da9901:T00003",
+      "source_sha256": "1952c144340627455fef549d3c150b709b202f4e965bd9f6231ec101553adba5",
+      "ko": "움직이는 자가 있는 한."
+    },
+    {
+      "id": "da9901:T00004",
+      "source_sha256": "5fba04322c48126fb9c2d441d0c84284d7c180b71cd64659de8cb69b3602ec39",
+      "ko": "지켜보는 자가 있는 한."
+    },
+    {
+      "id": "da9901:T00005",
+      "source_sha256": "478ea34e18699c79858bf8b2b01b2fd3cb491981f602d088d20f858627fb6bf3",
+      "ko": "그가 있는 한."
+    },
+    {
+      "id": "da9901:T00006",
+      "source_sha256": "71aaea229fda11cc1dda1d40e86660500b9ddd06a42ff16fd9fe524066a33598",
+      "ko": "그녀가 있는 한."
+    },
+    {
+      "id": "da9901:T00007",
+      "source_sha256": "cc9b93b9f93aca1b0741a2e137176f3b1239bd3e72ab5ee2a16bf82b3b4ee925",
+      "ko": "내가 여기에 있는 한."
+    },
+    {
+      "id": "da9901:T00008",
+      "source_sha256": "a8162bf7a38f29125bc5044cf98c3143ded9124d94e6274ce1dede1634cf567c",
+      "ko": "당신이 그곳에 있는 한――"
+    },
+    {
+      "id": "da9901:T00009",
+      "source_sha256": "97894a94856219036257c09bbadfa25389abae9e77d941b6b400043a5e5bdea0",
+      "ko": "자, 눈을 뜨자."
+    },
+    {
+      "id": "da9901:T00010",
+      "source_sha256": "060ba0f2cc5f43dcf2f5f1c09014a42cf05c238836d662a00a9a38f25bfc9be9",
+      "ko": "움직이기 시작하자."
+    },
+    {
+      "id": "da9901:T00011",
+      "source_sha256": "f3c15e38499bd253d580741feb93d3cea1e51a43c7707433c18d10fb1ab20379",
+      "ko": "――그리고, 나는 눈을 떴다."
+    },
+    {
+      "id": "da9901:T00012",
+      "source_sha256": "dad51585adb9ed9f6e8b602d302773109644d3d009deef57bfc619bed556c697",
+      "ko": "커튼 틈새로 비쳐 드는 햇살에 얼굴을 찌푸린다."
+    },
+    {
+      "id": "da9901:T00013",
+      "source_sha256": "57ab6df81adc4969ee55dba64872499f66a3c5519c5d9079c4436c880a30e25e",
+      "ko": "시계를 쳐다보니 정오에 가까운 시간이었다."
+    },
+    {
+      "id": "da9901:T00014",
+      "source_sha256": "b2a8d38f7e41e6cdb50634e589b689d40dff1352a25351ecae483fddf11980b7",
+      "ko": "「하아아아아아아암～～～～……」\n\n　칠칠치 못한 하품이 흘러나온다."
+    },
+    {
+      "id": "da9901:T00015",
+      "source_sha256": "93a00e06f46b065112f3b0cc2a3904f06ab8a160ce318830a2c03660b4203da9",
+      "ko": "자유업이라지만, 좀 더 똑바로 정신 차려야겠는데……"
+    },
+    {
+      "id": "da9901:T00016",
+      "source_sha256": "ff61dc17cb0b2c14e85985f7b6e63e0bd95e7dbc3d107998942956c2468a2193",
+      "ko": "「테케리・리?」"
+    },
+    {
+      "id": "da9901:T00017",
+      "source_sha256": "51fa3c23be21d3b0a2f02b46114296aa895910a57e7b594e6f6c7f54ff6780af",
+      "ko": "「응아? 아아, 안녕…………\n　잠에서 깨자마자 눈알만 들이대지 말아 줄래. 간 떨어지겠네」"
+    },
+    {
+      "id": "da9901:T00018",
+      "source_sha256": "a5da2acece80e094a7e78b3856ec8db6952536ea69c19ef1fa427e4365030095",
+      "ko": "쇼고스 침대는 여름에는 시원하고 겨울에는 따뜻하며, 탄력성도 이쪽의 체중에 맞춰 가장 적절하게 해 주니, 과연,"
+    },
+    {
+      "id": "da9901:R00001",
+      "source_sha256": "b750c2ece644240b0f8e138a0602b89062dcd4cb934044a963e76bf34670b76d",
+      "ko": "・・・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da9901:T00019",
+      "source_sha256": "e39e16e0efe72316c72d42d27e67bf3db9b3593fd3b0b64c6d786d1632dd5da3",
+      "ko": "익숙해지면"
+    },
+    {
+      "id": "da9901:T00020",
+      "source_sha256": "9de2e21dd9bdc8690552886a3454d6292e6c5d21cb9f92224d95acbb236cb53d",
+      "ko": " 실로 쾌적한 잠자리이긴 하다만――"
+    },
+    {
+      "id": "da9901:T00021",
+      "source_sha256": "51e4b3a04a7d88124463509e8027a1502cdcf63ce4fcfc28bca197788a64d304",
+      "ko": "뭐, 가장 큰 난점이 그거라서, 평생 가도 익숙해질 것 같지 않지만."
+    },
+    {
+      "id": "da9901:T00022",
+      "source_sha256": "2c56e9c016cb28ea0d351b909854a6d41d49e138a18786e8e10b4536a3a89cda",
+      "ko": "아니, 그러니까 촉수 돋우지 마."
+    },
+    {
+      "id": "da9901:T00023",
+      "source_sha256": "d38a1cabb157dccc57f11c049823074ab23c52d0e40ae61855d340d2defdb980",
+      "ko": " 뻗지 마."
+    },
+    {
+      "id": "da9901:T00024",
+      "source_sha256": "b62b9e52d1ab53a158504d5edbc270fa7f84d97f45433235fd82def68cbe95e6",
+      "ko": " 꿈틀거리지 마."
+    },
+    {
+      "id": "da9901:T00025",
+      "source_sha256": "1a89f690dc507068bac5f0a4d772230d384ae46821151edc659a22f150f19224",
+      "ko": "무섭다고……"
+    },
+    {
+      "id": "da9901:T00026",
+      "source_sha256": "fe3c6e78974bc678f064d2d7bcaf5ddc5927032f0aec7c3b0f54cc557a5103ef",
+      "ko": "어, 뭐야? 아아, 커피를 타 주는 거야?"
+    },
+    {
+      "id": "da9901:T00027",
+      "source_sha256": "53970bb2f81c144c0a3be3376caa86a2104efccfc77656a4da4cc9d89a7dec68",
+      "ko": "센스 있네, 고맙다.\n\n　부엌 너머로 뻗어 나간 촉수를\n　무심코 지켜보다가, 몸을 일으키려 하는데……"
+    },
+    {
+      "id": "da9901:T00028",
+      "source_sha256": "2dd98447d054fb0a4acd368e4b0060200809eacb826170bef7600825aba4c358",
+      "ko": "「으…… 으응……」"
+    },
+    {
+      "id": "da9901:T00029",
+      "source_sha256": "45a7cde93253e82d59c029dec14e6f240cb9a2a8a4f467ec16c4439947b6f397",
+      "ko": "하지만, 곁에서 자고 있는 알이\n　내게 매달려 있는 탓에, 뜻대로 되지 않는다."
+    },
+    {
+      "id": "da9901:T00030",
+      "source_sha256": "f9a09dbc9f51d0ae08d7309dff44dff4cce0084e2783bb41a5e32ff08bb3284b",
+      "ko": "「이런이런……」"
+    },
+    {
+      "id": "da9901:T00031",
+      "source_sha256": "422e1d251a667f04f5fb462800946b1919f79a9e34cebf1d349f2d6d496d0fa5",
+      "ko": "알이 깨지 않도록 조심조심, 살그머니 몸을 움직여 나간다."
+    },
+    {
+      "id": "da9901:T00032",
+      "source_sha256": "c6038a200eabc3d6d681ebfc9d757c7c28fff28ef515b4af631992833508603e",
+      "ko": "간신히 품 안에서 빠져나왔을 때, 커피잔을 든 던세이니의 촉수가 돌아왔다."
+    },
+    {
+      "id": "da9901:T00033",
+      "source_sha256": "f63e338a9fae446f20ae3d105f2318d7c4d921eff8749a1d9931f4bd94dd5f65",
+      "ko": "「…………」"
+    },
+    {
+      "id": "da9901:T00034",
+      "source_sha256": "9a9ffba8123515afa744e7eb27e6f093ef93e744bc90b9e7703dbe4b1df6bce2",
+      "ko": "「고마워」\n\n　건네받은 커피를"
+    },
+    {
+      "id": "da9901:R00002",
+      "source_sha256": "2bd0ec0d9940a9f4fe2d77cf6cb4ea7d8b9b8a8059802fb7f3f5060bb30fa945",
+      "ko": "블랙",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da9901:T00035",
+      "source_sha256": "5f422332783a1f5963c33fb2acecc5fdb4a6cb3fe6dcc2afe9fae4e3a0ee476b",
+      "ko": "그대로"
+    },
+    {
+      "id": "da9901:T00036",
+      "source_sha256": "0a622b60304b7139b6e03eb644f32a59b20580d0756988384a3ef6a5ff8c1988",
+      "ko": " 마신다."
+    },
+    {
+      "id": "da9901:T00037",
+      "source_sha256": "9155eaeb44fba3bb941052c9d0248213c1cc486dc404cb41a37ad2b29cdb0bcb",
+      "ko": "진한 쓴맛이, 잠에 덜 깬 머리에 기분 좋다."
+    },
+    {
+      "id": "da9901:T00038",
+      "source_sha256": "937a9c9851d0de43f7a575ff1d4e6e1b55aaf10611b3dddbfc13ba9b7aa159da",
+      "ko": "「응…… 으음……」"
+    },
+    {
+      "id": "da9901:T00039",
+      "source_sha256": "f63e338a9fae446f20ae3d105f2318d7c4d921eff8749a1d9931f4bd94dd5f65",
+      "ko": "「…………」"
+    },
+    {
+      "id": "da9901:T00040",
+      "source_sha256": "8df16e03bbf9a20a12127e0e619a19f92c8a408f760b0d9551741f25a0f5fb58",
+      "ko": "밀어냈을 터인 알의 팔이, 다시금 내게 얽혀 왔다."
+    },
+    {
+      "id": "da9901:T00041",
+      "source_sha256": "96373462a8a49546344e2d351db0714c6307f1bdfd2a2b19d3333da5c888e2ea",
+      "ko": "기분 탓인지 아까보다 더 세게, 나를 끌어안는다.\n\n　하지만 그 모습은 응석을 부리는 연인이라기보다는……"
+    },
+    {
+      "id": "da9901:T00042",
+      "source_sha256": "0e15ec16720092419f4ec2a2ce99456f169dc546c7b6b07063fc583fa4b1d805",
+      "ko": "매달려 우는 미아 같다."
+    },
+    {
+      "id": "da9901:T00043",
+      "source_sha256": "f9a09dbc9f51d0ae08d7309dff44dff4cce0084e2783bb41a5e32ff08bb3284b",
+      "ko": "「이런이런……」"
+    },
+    {
+      "id": "da9901:T00044",
+      "source_sha256": "6502e0a20fe0591424726b7c691cf9710c592217a167c9a099437a87fca068be",
+      "ko": "「테케리・리」"
+    },
+    {
+      "id": "da9901:T00045",
+      "source_sha256": "6b68b2bc80d6ab1bc8cb5ea30b489b137bb199e3de080cdfd76340a852b45eca",
+      "ko": "「응? 그렇지…… 여러 가지 일이 있었으니까」"
+    },
+    {
+      "id": "da9901:T00046",
+      "source_sha256": "40627d74339ae05bb963bff8922d588271ca397c95bae13fb8e3267df2005fca",
+      "ko": "그 사건…… 아컴 시티를 뒤덮었던 기나긴 악몽, 『피의 괴이』\n사건 이후로 알은 조금 기운이 없다.\n\n　이유는 어렴풋이 알 것 같다…… 아마, 쿠자쿠 때문이겠지."
+    },
+    {
+      "id": "da9901:T00047",
+      "source_sha256": "7e1f722748e84d77301bd50c274f75361694d04923e8eb1748771f51198b8c3f",
+      "ko": "미래에서 찾아온, 우리들의 아이.\n\n　……뭐, 그런 말을 들어도 솔직히 실감이고 나발이고 없다."
+    },
+    {
+      "id": "da9901:T00048",
+      "source_sha256": "97b30d58878d530bbd2af80ad7fd7ea30d99b66a007a3739a4c885c364587c09",
+      "ko": "마른하늘에 "
+    },
+    {
+      "id": "da9901:R00003",
+      "source_sha256": "9bb6e775e33ba1f328c44b7d8b2543294b8cf73ad58193b08ec71cca13c0c08e",
+      "ko": "벽력",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da9901:T00049",
+      "source_sha256": "a77ac16ca770786bfe48530e81a20ef57b31d4e5fab03f6447824305eb5a35fd",
+      "ko": "날벼락"
+    },
+    {
+      "id": "da9901:T00050",
+      "source_sha256": "86b9f01409687d6eb2441092ce50aff16c76406216ba7d7513f89d00c4876ff8",
+      "ko": "도 유분수지.\n\n　어떤 감회를 느끼기도 전에, 그 민폐 덩어리 녀석은 폭풍처럼\n지나가 버렸다.\n\n　지금은 그 사건 자체가, 정말로 꿈속의 일처럼 느껴진다."
+    },
+    {
+      "id": "da9901:R00004",
+      "source_sha256": "500453669983eaca02d35d64c7cec9eec81949f38b30db815febb2aa34f810f4",
+      "ko": "추억",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da9901:T00051",
+      "source_sha256": "2892879e37b97d1b65b47ede97b4c28fbb90ff88f55275be78a2aff6a0dd68c6",
+      "ko": "기억"
+    },
+    {
+      "id": "da9901:T00052",
+      "source_sha256": "4f11fc15605205476fba805515ce8bcd5900e200eda0bb3c65c51336489f301c",
+      "ko": "은 조금씩 빛이 바래어, 윤곽도 흐릿해져 간다."
+    },
+    {
+      "id": "da9901:T00053",
+      "source_sha256": "cfcdfced2ead17517d614869b5e421290485ad4a601ce6642a0672389c72a180",
+      "ko": "「음…… 으음……」"
+    },
+    {
+      "id": "da9901:T00054",
+      "source_sha256": "8c6cb10bec6cbd7765b50e3c57c95a54fdee6a9baaa03bd038e2138045b5f04d",
+      "ko": "꼬오옥……."
+    },
+    {
+      "id": "da9901:T00055",
+      "source_sha256": "6daaf0afc8ae5eeea44fd7984cc94812212423548ddf2094b72a770d1c5e9663",
+      "ko": "여전히 매달려 있는 알의 머리를, 나는 살며시 쓰다듬었다."
+    },
+    {
+      "id": "da9901:T00056",
+      "source_sha256": "548e3ff0fd41dc4fadbe2147fdc390ba6d2ddde2bb59a6e21c2e29a9dfe933fd",
+      "ko": "「외로운 거겠지…… 왠지 모르게 말이야」"
+    },
+    {
+      "id": "da9901:T00057",
+      "source_sha256": "cd3a902ff71f3eecb0c4cffa601d9160ed3a5dfd2750a74fec0183d929d65c46",
+      "ko": "「……테케리・리?」"
+    },
+    {
+      "id": "da9901:T00058",
+      "source_sha256": "3ddfefc46853330c068e7ddab9a2452cca82a1e3fb537f11ff86d68146dfb2d9",
+      "ko": "「나? 나는…… 글쎄」"
+    },
+    {
+      "id": "da9901:T00059",
+      "source_sha256": "ffe922c6158d5c7e235e94df3c674990a1be84503b74e4843fa70c7dc4b56ee9",
+      "ko": "쿠자쿠."
+    },
+    {
+      "id": "da9901:T00060",
+      "source_sha256": "d1933d5c32f05419d01490124f3f7191fba745109b7c5e9cd45eb85c2f43664d",
+      "ko": "나는 그 녀석을……"
+    },
+    {
+      "id": "da9901:T00061",
+      "source_sha256": "ac60e5ddda83249383f72a0e4fbd49cde52b42e7d9ce181e97d0ace9a9fad1b2",
+      "ko": "「느오아아아아아아아악!?」\n「냐아아아아아아아악!?」"
+    },
+    {
+      "id": "da9901:T00062",
+      "source_sha256": "f1b75c0b56130791bdb0f4eaf3b5d44887cba6faf6b4cbc0ed9eb66d9d5ed1c7",
+      "ko": "「구웃 모―오오오오니이이잉!\n　달링!」"
+    },
+    {
+      "id": "da9901:T00063",
+      "source_sha256": "4d01924f063561073a695a41c367c45b0f79a18db31da1510e950fbb3c8250fa",
+      "ko": "「푸하하하하하하하하하!」"
+    },
+    {
+      "id": "da9901:T00064",
+      "source_sha256": "7cd01f347131e6304d892e653e5f0771fbc17509fe6f13be26b9ff37af18a7a3",
+      "ko": "「멋진 모닝콜과 함께 당신의 멋진 라이벌이 멋진 『슈퍼 웨스트 무적로보 28호 "
+    },
+    {
+      "id": "da9901:R00005",
+      "source_sha256": "dcc564340d0d513f75267f59e0eff9df91280f4fd2cfc43ef665e70b446be706",
+      "ko": "샌",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da9901:T00065",
+      "source_sha256": "e3b9205e078c29597928876500b1cc02bc26b24af696b5b9a86b3f1298561cdb",
+      "ko": "사"
+    },
+    {
+      "id": "da9901:R00006",
+      "source_sha256": "0f66959f485070f6985797517ca83f9361a97bca997df701cf2e24533e73a72b",
+      "ko": "드",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da9901:T00066",
+      "source_sha256": "6e222c1aa0c85075f7e2d51b88fe5b5808aef8a2dab41d5091a24d48438b6b1f",
+      "ko": "막"
+    },
+    {
+      "id": "da9901:R00007",
+      "source_sha256": "712d53db3a27953878046ae5e75006d7bbd64c6eaa79e35f84896217a4d5771e",
+      "ko": "맨",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da9901:T00067",
+      "source_sha256": "24f88cde34722efe9347e9f489574bd7ca0da0088ae0049720207388053490fd",
+      "ko": "전"
+    },
+    {
+      "id": "da9901:R00008",
+      "source_sha256": "f72ae52ce8ee6dbe71ed6d080d641be16f1db840f265ee3dc4a654d54786bbfe",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da9901:T00068",
+      "source_sha256": "739b2e660758a0a12b4673287ff38e96c7797e0309f43f6f3a15d33db327a34e",
+      "ko": "사"
+    },
+    {
+      "id": "da9901:R00009",
+      "source_sha256": "0f66959f485070f6985797517ca83f9361a97bca997df701cf2e24533e73a72b",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da9901:T00069",
+      "source_sha256": "072c90b0fe8c9e3ff2563b7b5e30fdf5fce85cb8f1dd1e9e3143f39b6deb7295",
+      "ko": "양"
+    },
+    {
+      "id": "da9901:T00070",
+      "source_sha256": "554b209efa0966bd0e9a484f4be4c193b1eacf9f8630a8b43a66bb4d9da4c32a",
+      "ko": "～오늘은 당신의 남은 인생의 첫날～』로 찾아왔던 것입니다아!」"
+    },
+    {
+      "id": "da9901:T00071",
+      "source_sha256": "4ce583d3f0fad75004529d811d0f9cf316b716082b394ec373a6c183171cdd46",
+      "ko": "「――좋은 아침입니다아!\n　좋은 아침이로군요오오!」"
+    },
+    {
+      "id": "da9901:T00072",
+      "source_sha256": "07c687ac869c32a20d14d936556325cdfc3538ea6ba458414a867c1c01dcadaf",
+      "ko": "「「동의할 수 있겠냐아아아아아아아!」」"
+    },
+    {
+      "id": "da9901:T00073",
+      "source_sha256": "1c5f6e1950dbcc89c064786a05b06b6f36df03a42c17d41119e54f322699da7e",
+      "ko": "「죽기에는 딱 좋은 날\n　이로구나아아아아――――앗!?」"
+    },
+    {
+      "id": "da9901:T00074",
+      "source_sha256": "c2cea8049be351794c5dd82acfe934cad7159a6df0f636504cb79b6e8101e1f1",
+      "ko": "「라면\n　사 줘 로보오오오――――옷!」"
+    },
+    {
+      "id": "da9901:T00075",
+      "source_sha256": "d69bfe3df953f41303f442b579e6e9754f92e19c6cb89a34e17ee1c9b2a79295",
+      "ko": "「아아아아아! 피해가 또 늘어난다아아!」"
+    },
+    {
+      "id": "da9901:T00076",
+      "source_sha256": "c4ca212c12b830e36a5074c8281a14a8275770c6e9a1146e00b2a0fec0003e94",
+      "ko": "「제발 좀 봐주라……」"
+    },
+    {
+      "id": "da9901:T00077",
+      "source_sha256": "29af2f02440bc3060a76ab6e07723cf1b7eabe64fefb1974666921973fcb7cec",
+      "ko": "[BROKEN_ENGINE_TAG_DO_NOT_REPLACE]"
+    },
+    {
+      "id": "da9901:T00078",
+      "source_sha256": "322ab8061d7ae54074fca7454efaed392ca4a4ea391559e50aeccf92b0e0e2a6",
+      "ko": "「……정말이지! 불쾌하기 짝이 없는 아침이구나!」"
+    },
+    {
+      "id": "da9901:T00079",
+      "source_sha256": "765149fcc6a5c90751cd5d81cd90c2f6ce2c9267c8e74470746621b382754b4e",
+      "ko": "「벌써 점심이지만 말이야」"
+    },
+    {
+      "id": "da9901:T00080",
+      "source_sha256": "6a9d936450715a009d565c3534ce321fd04a337f773c0739cf801aa508aed930",
+      "ko": "「뭐라고 했느냐!」"
+    },
+    {
+      "id": "da9901:T00081",
+      "source_sha256": "dd650778d27d9f61fe339f5acd875475e5da9153c57686630c60464bbd61e0c4",
+      "ko": "「아니, 딱히……」"
+    },
+    {
+      "id": "da9901:T00082",
+      "source_sha256": "6502e0a20fe0591424726b7c691cf9710c592217a167c9a099437a87fca068be",
+      "ko": "「테케리・리」"
+    },
+    {
+      "id": "da9901:T00083",
+      "source_sha256": "cb61be4ed4ea25cf28d579c4482ba89a95afae2fd6e620c10b63431b028d712f",
+      "ko": "뾰로통해서 성을 내는 알의 뒷모습을 바라보며, 교회를 향해 길을 걷는다.\n\n　무슨 말이라도 걸어 볼까 하다가…… 역시 그만두었다."
+    },
+    {
+      "id": "da9901:T00084",
+      "source_sha256": "7660d57aa13597df4f79c6dfea338935b94d4bd07ad292f6ea89f1403b879956",
+      "ko": "오늘 아침에 생각했던 것――쿠자쿠에 대해서는, 내 안에서도 아직 정리가 되지 않았다."
+    },
+    {
+      "id": "da9901:T00085",
+      "source_sha256": "f63e338a9fae446f20ae3d105f2318d7c4d921eff8749a1d9931f4bd94dd5f65",
+      "ko": "「…………」"
+    },
+    {
+      "id": "da9901:T00086",
+      "source_sha256": "edbeaa276fe1ddf497b82c28769dde8e950ea89ff0dd4c6d88d9da09475673aa",
+      "ko": "어쩐지 애타는 마음을 안고서, 그 뒤로는 묵묵히 걷기만 할 뿐이었다."
+    },
+    {
+      "id": "da9901:T00087",
+      "source_sha256": "a46340c35e0213a2a9eb36f027a647748749b2ef0897f8a6fb657121f4840717",
+      "ko": "「라이카 씨, 밥 줘요―…… 어라?」"
+    },
+    {
+      "id": "da9901:T00088",
+      "source_sha256": "8816414e791e50bc3bb83c823f53534828c1f213efb94ac1ea5a0cc504287268",
+      "ko": "「아, 식충이가 왔다―」"
+    },
+    {
+      "id": "da9901:T00089",
+      "source_sha256": "9c21f6d13d0e11e2ebca71cd56c3235daaa5ee92060f8bc0e8f056a70bb0be0b",
+      "ko": "「시끄러워, 꼬맹아…… 그래서, 라이카 씨는?」"
+    },
+    {
+      "id": "da9901:T00090",
+      "source_sha256": "dd79e0adbc82827094f73441310095e537badb39c2986bd55732af78132d885e",
+      "ko": "「라이카 언니라면 나갔어.\n　점심이라면"
+    },
+    {
+      "id": "da9901:R00010",
+      "source_sha256": "0fac3ba703c833bc320b469586f6e138570e59711e4536b366185f5f4da0f299",
+      "ko": "테이블",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da9901:T00091",
+      "source_sha256": "e67d993c767efb36a519f953ec0a1d9ed19173865e08b8a65d8632cdf131a8ca",
+      "ko": "식탁"
+    },
+    {
+      "id": "da9901:T00092",
+      "source_sha256": "755f77d382158f2858bf745c2417e157f3139e04640aa6bd01b7cc47a908e743",
+      "ko": "에 샌드위치가 있어」"
+    },
+    {
+      "id": "da9901:T00093",
+      "source_sha256": "0c5c77d0f39748242e2754cfbf1fe830db09e5996f76ddf1d2ca0babf76d1942",
+      "ko": "「아, 그래………… 그보다, 너희 뭐 하고 있어?」"
+    },
+    {
+      "id": "da9901:T00094",
+      "source_sha256": "dc1eecacec57d2b2987e67855501a337ce1de1751cc4af41a3db28f2e974a8b4",
+      "ko": "「보고도 몰라―?\n　청소잖아―」"
+    },
+    {
+      "id": "da9901:T00095",
+      "source_sha256": "0c0786b67b82b2f8ce69696624b694abcb323f99634023eef384031da272ecf2",
+      "ko": "「……왜 그래, 갑자기? 라이카 씨가 시킨 거야?」"
+    },
+    {
+      "id": "da9901:T00096",
+      "source_sha256": "a8e34b9d2f526572315d667b208af450de1271ba814082a7acb900f82fbf5934",
+      "ko": "「그게 아니라……」"
+    },
+    {
+      "id": "da9901:T00097",
+      "source_sha256": "bace44e58fea4f6a5f57ed1d1fe9d84680473d273d498fffa26f15cecd7eb30c",
+      "ko": "「언제까지나 라이카 언니한테\n　기대기만 해서는 안 된다고 생각해서」"
+    },
+    {
+      "id": "da9901:T00098",
+      "source_sha256": "c51f7838d7229b633281e5879596589076454d1a6998c90c85ff11000d21175c",
+      "ko": "「그러니까…… 일단 할 수 있는 일부터\n　도와드려야겠다고 해서」"
+    },
+    {
+      "id": "da9901:T00099",
+      "source_sha256": "adc7ae0f10ab27eedc4fa6eeadc8885d219d8ed77aaf3f2e7ce9078490c5f030",
+      "ko": "「헤에……」"
+    },
+    {
+      "id": "da9901:T00100",
+      "source_sha256": "ed47bb5b33d2f1945df5ee8db3a665b6e7b77aba5f52387f5e2ad228aef97ae7",
+      "ko": "「기특한 마음가짐이 아니더냐」"
+    },
+    {
+      "id": "da9901:T00101",
+      "source_sha256": "5b1463df1bd18f44bb8b0624520e9c2ea762e76a9d78a3d08b6dbfd0ac0c2831",
+      "ko": "「어느 분께서도 좀 보고 배웠으면 좋겠네」"
+    },
+    {
+      "id": "da9901:T00102",
+      "source_sha256": "4960e5220f4eb1194f50c0dc9f8109b48c9dd1c98427e10842d5d6db051e118b",
+      "ko": "「한 번만 더 그딴 소릴 지껄이면 어젯밤 네놈이 이 몸에게 저지른\n　행위들을 낱낱이 세부에 이르기까지\n　면밀하고도 때로는 서정성 넘치게\n　가두 연설해 주마」"
+    },
+    {
+      "id": "da9901:T00103",
+      "source_sha256": "2d3f85eebd95ce9b8a911e4c68d8ea0b9d7cb323f4e5300fa0f110757823e5a1",
+      "ko": "「싹싹 빌 테니까 제발 용서해 줘」"
+    },
+    {
+      "id": "da9901:T00104",
+      "source_sha256": "2e61d62f2b8b51e4a8061ec80a7839b6337097cc1f7a2b96bda6972703b1b0b2",
+      "ko": "뭐, 어찌 됐든…… 녀석들도 성장하고 있는 거겠지."
+    },
+    {
+      "id": "da9901:T00105",
+      "source_sha256": "4ac92c584cf6cc7a47aa3b94e0c07c1ea955dfe22ee7190e1ada7711668de5bd",
+      "ko": "언제까지나 어린아이는 아니라는 뜻이겠지."
+    },
+    {
+      "id": "da9901:T00106",
+      "source_sha256": "a584daf2d1bbfcb2d256d706cca00ba7f48712da26622b16e237f6a40109da67",
+      "ko": "「좋았어…… 그럼 나도 신세 지고 있는 처지니 거들기로 할까」"
+    },
+    {
+      "id": "da9901:T00107",
+      "source_sha256": "30fcff4e07f4b5edeb4aca4b57e562a90b6ed9a647089df27d91de1c7a6d67b3",
+      "ko": "「그렇지―.\n　일하지 않는 자 먹지도 마라―」"
+    },
+    {
+      "id": "da9901:T00108",
+      "source_sha256": "bed011f38791f8a2472085cb84ac0b2f801a40f9ae28aaaaf610576947b70159",
+      "ko": "「……조금은 고마워하는 기색이라도 보여라.\n　그럼, 어디부터 손대면 돼?」"
+    },
+    {
+      "id": "da9901:T00109",
+      "source_sha256": "96137a16ec89158b6daacd1ea442c29f0a9a3fd993ab6c2ec4bfdd3556d181d6",
+      "ko": "「그럼 현관을 빗자루로……」"
+    },
+    {
+      "id": "da9901:T00110",
+      "source_sha256": "303a10732d763b74333e528c48afb7608b008b3c8835fc9228d74b34f7a8fa61",
+      "ko": "「잠깐 기다려라. 이 몸도 거들어야 한단 말이냐!」"
+    },
+    {
+      "id": "da9901:T00111",
+      "source_sha256": "e353373762d9106da98221f8247773fd85634593d417ddcfa6f9ce7f382140fb",
+      "ko": "「일하지 않는 자 먹지도 마라―」"
+    },
+    {
+      "id": "da9901:T00112",
+      "source_sha256": "b6540f39c485a9aa90c44a43b41a9969c43e43a941efbe6665baba8c748c938e",
+      "ko": "「마라―」"
+    },
+    {
+      "id": "da9901:T00113",
+      "source_sha256": "ff31e4bd68d7f1290fa7e93f3d083bc16fa3f01639f31ed546ea7a8f5d0529a6",
+      "ko": "「테케리・리―」"
+    }
+  ],
+  "issues": [
+    {
+      "id": "da9901:R00008",
+      "kind": "ruby_decision",
+      "note": "サンドマン 다섯 칸 읽기를 앞 세 칸 「샌드맨」에 담고, 밑글자 「사양」을 되풀이하던 남은 두 칸은 생략"
+    },
+    {
+      "id": "da9901:R00009",
+      "kind": "ruby_decision",
+      "note": "サンドマン 다섯 칸 읽기를 앞 세 칸 「샌드맨」에 담고, 밑글자 「사양」을 되풀이하던 남은 두 칸은 생략"
+    }
+  ]
+}

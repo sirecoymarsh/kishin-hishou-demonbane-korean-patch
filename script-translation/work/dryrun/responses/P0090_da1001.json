@@ -1,0 +1,89 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0090_da1001",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da1001:T00001",
+   "source_sha256": "6c2799f562ad5f0fe13104a7f99e9a20391c1c30a603a6482033eaad82074ded",
+   "ko": "치명적인 일격이 오우가를 벤다/끊는다."
+  },
+  {
+   "id": "da1001:T00002",
+   "source_sha256": "ebd8d0d8fc4d7c8abca6f15a89ac69ed369fe3ae5516bb639ad5a69e4e573906",
+   "ko": "기체 전체에서 불꽃처럼 뿜어져 나오는, 붉은 안개."
+  },
+  {
+   "id": "da1001:T00003",
+   "source_sha256": "f485eacb904642905a6d6a033828c5bb34550cf6bf88d59d67da7d2ae93c57fc",
+   "ko": "오우가가 무너져 간다."
+  },
+  {
+   "id": "da1001:T00004",
+   "source_sha256": "c0ba7d3bebf939fd74494f341bdbdfe230ff8ea50183b7ad5c02cee2f093f5eb",
+   "ko": "「……이걸로, 됐다」"
+  },
+  {
+   "id": "da1001:T00005",
+   "source_sha256": "d6e247e301dfa4de845a39ae6ef889e8e2b822951d13859cee0f870fa365a521",
+   "ko": "안도인지 체념인지 모를, 미약한 중얼거림."
+  },
+  {
+   "id": "da1001:T00006",
+   "source_sha256": "91586ec8aa92099b1a3f8591c6851270c892411215897fd4dbcb9aa3025dd291",
+   "ko": "티투스의 목소리는 아즈랏드에게 닿았을까."
+  },
+  {
+   "id": "da1001:T00007",
+   "source_sha256": "78f199462ff92f582e9efc3e1e9944d0c2d135f2e031904755e0a3227fa81eb5",
+   "ko": "「작별이다. 악몽이라지만――\n　제법 즐거웠다」"
+  },
+  {
+   "id": "da1001:T00008",
+   "source_sha256": "534150bdea28d44ffa3deb8ef133a0bc42e19276fc29176eb7b6b52e1e361089",
+   "ko": "그것은 아즈랏드를 향한 말인가, 아니면 윈필드를 향한 말인가.\n\n　대담한 미소를 띤 얼굴의 절반은 피안개가 되어 기화해 있었다."
+  },
+  {
+   "id": "da1001:T00009",
+   "source_sha256": "312675ef4f1fd4590a87806457a9c4e47bea076adfa049be8bb6de291d5e7aeb",
+   "ko": "이윽고 모든 것이 허물어져 사라진다."
+  },
+  {
+   "id": "da1001:T00010",
+   "source_sha256": "359e111ecb262f755092a03ccb01b992c23b9c7f29788d9d6dacfa75b034fdae",
+   "ko": "어디서 불어오는지도 모를 바람이 피안개를 실어 나른다."
+  },
+  {
+   "id": "da1001:T00011",
+   "source_sha256": "c98381f052582a5de233a5982e3fda04ce9b65b15240c24c15a571b1dc260ef6",
+   "ko": "그렇다."
+  },
+  {
+   "id": "da1001:T00012",
+   "source_sha256": "46707678c621d40577beeab9f37a37a805eb64f08f229e18949fc4463bac7e9c",
+   "ko": "꿈은 그저 꿈으로 흩어져 사라질 뿐이다."
+  },
+  {
+   "id": "da1001:T00013",
+   "source_sha256": "f63e338a9fae446f20ae3d105f2318d7c4d921eff8749a1d9931f4bd94dd5f65",
+   "ko": "「…………」"
+  },
+  {
+   "id": "da1001:T00014",
+   "source_sha256": "4b5ec0e0bf199a20f67801aefbc9913ddb59243a62f32fe46db6bf47c75244e9",
+   "ko": "흩어져 사라지는 오우가를 지켜보며, 아즈랏드는 무슨 생각을 하는가."
+  },
+  {
+   "id": "da1001:T00015",
+   "source_sha256": "f1ed1b5284d53ec5a781a04c2a9c9460b846fa9ca527f4fe6811960dbef3e450",
+   "ko": "티투스와 마찬가지로 몽환의 존재에 불과한 아즈랏드는\n　무슨 생각을 하는 것인가――"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da1001:T00006",
+   "kind": "glossary_candidate",
+   "note": "미확정 용어집 항목 '아즈랏드(アズラッド)' 사용."
+  }
+ ]
+}

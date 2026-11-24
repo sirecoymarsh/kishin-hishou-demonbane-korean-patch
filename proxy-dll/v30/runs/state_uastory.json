@@ -1,0 +1,19 @@
+{
+ "out": "P:\\AI\\khd-hero-ai\\v30\\runs\\run_1118_221244",
+ "t0": 1795007565.1701179,
+ "nv0": 0,
+ "off": {
+  "adv_log.tsv": 6718,
+  "proxy_log.txt": 97775,
+  "subtitle_log.tsv": 0,
+  "play_error.txt": 0
+ },
+ "extra_ini": [
+  "unlock_all=1",
+  "mute=1",
+  "subtitles=0"
+ ],
+ "hwnd": 2761026,
+ "pid": 64632,
+ "newgame_at": 1795007600.391848
+}

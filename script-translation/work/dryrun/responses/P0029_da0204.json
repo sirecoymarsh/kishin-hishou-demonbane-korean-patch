@@ -1,0 +1,168 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0029_da0204",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0204:T00001",
+   "source_sha256": "f63e338a9fae446f20ae3d105f2318d7c4d921eff8749a1d9931f4bd94dd5f65",
+   "ko": "「…………」"
+  },
+  {
+   "id": "da0204:T00002",
+   "source_sha256": "84daefee740c151dd6e69880c79d2ab175a5ac1ccda3af72ebb17c1c16180916",
+   "ko": "「……늘어났군요」"
+  },
+  {
+   "id": "da0204:T00003",
+   "source_sha256": "f2ac406c33ee9e58c4716ec26dab4ced6b07ec087ba8c32e0004187ea0f12bcc",
+   "ko": "「저토록 무서운 것이 2대나……」"
+  },
+  {
+   "id": "da0204:T00004",
+   "source_sha256": "0c0279e2e33a179b9a2016bd6c301044c6c7c7162646aeb5e8673d84d3d8bbb7",
+   "ko": "「같은 기체?　아아니, 조금 달라」"
+  },
+  {
+   "id": "da0204:T00005",
+   "source_sha256": "875e41505a4c34049dd097cb05bbbae2b5a523cc8e662e4bebb9c72d8a343284",
+   "ko": "「쳇…… 성가신 게 온 모양이군」"
+  },
+  {
+   "id": "da0204:T00006",
+   "source_sha256": "a0f5e554f1b1a2ad311fcf0b4840eab3dbe9223fa7907cdbb5d922d0789731fd",
+   "ko": "「자네는 저것이 무엇인지,\n　알고 있는 모양이군」"
+  },
+  {
+   "id": "da0204:T00007",
+   "source_sha256": "4236411ef591acbb62b1c8c14d5009d319a626b27a329f0755f8fb6abcddf24e",
+   "ko": "「저 여자의 『녀석』도, 새로운 『녀석』도\n　마음에 안 들어. 구역질이 난다고…….\n　아아아앗. 짜증 나. 졸라 짜증 나.\n　확 "
+  },
+  {
+   "id": "da0204:R00001",
+   "source_sha256": "7b8a57af352a15e260e709f9058f6291c3bdc7e61a04384357c06e207ab98df4",
+   "ko": "조각내",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0204:T00008",
+   "source_sha256": "363def480b9cd0cb600e0a1ff3588c6a8a0adc877cf275fd57dede164bbc5862",
+   "ko": "해체해"
+  },
+  {
+   "id": "da0204:T00009",
+   "source_sha256": "9840cb79cee66c1eccb357868b10f927d8b700c4428fc35141db821540133008",
+   "ko": " 버리고 싶군」"
+  },
+  {
+   "id": "da0204:T00010",
+   "source_sha256": "87ffdf6a7e22213f16e331d148ec72e0e6e538330e5639e743a120958a291807",
+   "ko": "「칼슘 부족이군.\n　균형 잡힌 식생활에 유의하게나」"
+  },
+  {
+   "id": "da0204:T00011",
+   "source_sha256": "1f3fa60b13ffc6fe785e42852e294c3a5b0dd504755af63bca143912a84ebeb2",
+   "ko": "「시끄럽다고, 영감탱이……\n　슬슬 시작되는 모양이니 말이야.\n　결판을 내주마」"
+  },
+  {
+   "id": "da0204:T00012",
+   "source_sha256": "679f944c2c75136b85a6fe09daf7da9e05edf8950f7a27fa28f987c554cba95b",
+   "ko": "「……시작된다?」"
+  },
+  {
+   "id": "da0204:T00013",
+   "source_sha256": "82018b0a3c0137b7abe68607d319a087465532f65925d42ded0126eb41cd2f26",
+   "ko": "「이제 곧 죽을 녀석이 신경 쓸 일은 아니지」"
+  },
+  {
+   "id": "da0204:T00014",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0204:R00002",
+   "source_sha256": "29d15a2525662e96b0e26c91db0a4fc7ec6d414288e7af8b25e8ed988ed5c960",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0204:T00015",
+   "source_sha256": "e3c30060ac67aedb6166140dadd04c978a1c518abf17e2777a1437bfbfcc3a54",
+   "ko": "공교롭게도"
+  },
+  {
+   "id": "da0204:T00016",
+   "source_sha256": "0c7bf8f846604e2fcad39a1fdbb4e185143b563f9b487e210c072fb10e505fb3",
+   "ko": ", 아직은 한창 인생을\n　구가할 생각이라서 말이네」"
+  },
+  {
+   "id": "da0204:T00017",
+   "source_sha256": "1615ca82803ad4db552146f3e35eeeac356c10b712a37b2487838547e396e384",
+   "ko": "「인생은 굵고 짧게……잖아?\n　몸져눕기 전에 숨통을 끊어 주겠다니까.\n　사양하지 마라, 망할 영감탱이」"
+  },
+  {
+   "id": "da0204:T00018",
+   "source_sha256": "005f72a71f5bce1b9a16f63d6f3b77585759dd85507d2e047b7137aa36f3d6df",
+   "ko": "「욕심 많은 성미라서 말이네.\n　굵고 길게 살 거라네」"
+  },
+  {
+   "id": "da0204:T00019",
+   "source_sha256": "46fa415f6d44d8257f622e3a4947ea66fad2b9b7b9ef384ff69f7a568986cd1b",
+   "ko": "「죽어. 지금 당장 죽어」"
+  },
+  {
+   "id": "da0204:T00020",
+   "source_sha256": "1b6ae6de9fc8065bb238f7b90bcac6ce19985ee5910483082082596440a1fb51",
+   "ko": "「레이디!」"
+  },
+  {
+   "id": "da0204:T00021",
+   "source_sha256": "1eeda206fbf60f659c1d20ec7161158f216285faa0cb71fe2459d334007fe2e1",
+   "ko": "「간다!　――이 『세라에노 단장』"
+  },
+  {
+   "id": "da0204:R00003",
+   "source_sha256": "68106fce80b345961ed0330d5fee0c5e13810309a196f0451c7e83cf4ffa0234",
+   "ko": "바이아크헤",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0204:T00022",
+   "source_sha256": "30d90598dfe4f54d941fc740b6d6f91d247cc5a7d88630fdb469ad940f472912",
+   "ko": "마익"
+  },
+  {
+   "id": "da0204:T00023",
+   "source_sha256": "2fb7e63152e62eabcb7eb621fd84657d5185c2805c5e5a90bec7403e27f38000",
+   "ko": " 형태를 얕보지 마, "
+  },
+  {
+   "id": "da0204:R00004",
+   "source_sha256": "55fe7c6034beb2aaaccb0eea9947dd27a7343597d62ef51445430c40bad38a25",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0204:T00024",
+   "source_sha256": "5fadf4950cf76974e1370eea8ca1efbea26808825165bf65494acff1a611271a",
+   "ko": "가짜"
+  },
+  {
+   "id": "da0204:T00025",
+   "source_sha256": "6560fad1b5299ec45c7562b1e825f123c87101dc289a1eb71426e443d34f4c8c",
+   "ko": "!」"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0204:R00002",
+   "kind": "omit_redundant",
+   "note": "한국어 '공교롭게도'로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0204:R00004",
+   "kind": "omit_redundant",
+   "note": "한국어 '가짜'로 의미가 온전히 전달되므로 일본어 독음 루비 생략"
+  }
+ ]
+}

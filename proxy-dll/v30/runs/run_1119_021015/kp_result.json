@@ -1,0 +1,29 @@
+{
+ "label": "zipB4",
+ "game": "Y:\\AI\\claude-work\\khd-release-1118\\zipcheck\\B",
+ "steps": [
+  "prompt"
+ ],
+ "checks": {
+  "prompt_text": "타이틀 화면으로 돌아갈까요?",
+  "prompt_title": "Double Wings Demonbane",
+  "prompt_after_s": 0.2,
+  "prompt_buttons": [
+   "",
+   ""
+  ],
+  "prompt_closed": true,
+  "alive_after_prompt": true
+ },
+ "out": "P:\\AI\\khd-hero-ai\\v30\\runs\\run_1119_021015",
+ "pid": 85596,
+ "exit_code": "0x0",
+ "new_dumps": [],
+ "moved_windows": [],
+ "window_pos_restored": true,
+ "nvlddmkm_before_after": [
+  0,
+  0
+ ],
+ "seconds": 53
+}

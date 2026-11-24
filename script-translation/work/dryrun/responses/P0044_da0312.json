@@ -1,0 +1,609 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0044_da0312",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0312:T00001",
+   "source_sha256": "3b0d050e4e989eed97a3ea46301a4e27b6187bc745218ac8c3c32b5b267dbc58",
+   "ko": "「……읏!」"
+  },
+  {
+   "id": "da0312:T00002",
+   "source_sha256": "547c47677f453884e6b5c45b00c802e1f241df70d113f52140cf779d453f60f0",
+   "ko": "「호오……」"
+  },
+  {
+   "id": "da0312:T00003",
+   "source_sha256": "77b31895549de15dd6d4afc1fe593810d675df160062db973a44a14477bcd087",
+   "ko": "「방금 그건……!」"
+  },
+  {
+   "id": "da0312:T00004",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0312:R00001",
+   "source_sha256": "417efe554a1f6164fe4bb7007aa4eb0068db2b5a83766c8f1c155e1538e29864",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0312:T00005",
+   "source_sha256": "fd739ddee8af6d57cf2520c6c258147a6c0bc256c79fce16d0c4384e13e83cba",
+   "ko": "피"
+  },
+  {
+   "id": "da0312:T00006",
+   "source_sha256": "0aeb31d3686c679378f178a7dd1616462933b6642303fb5bcbbebf83e6892e85",
+   "ko": "했는가……」"
+  },
+  {
+   "id": "da0312:T00007",
+   "source_sha256": "b9fc5d8c3259f4129621eed5a5c72176753fc306f81d9053c5e68c4cf7c7373e",
+   "ko": "「나의 "
+  },
+  {
+   "id": "da0312:R00002",
+   "source_sha256": "a14ff84b8ad99ba2cf095371bedff15fff693360aa16f4dd90a0ad4dfdbb0363",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0312:T00008",
+   "source_sha256": "1371c7d3e74ad5a271a6a54c40667f2b23517b94bbae0ebba1ae5f2f3c8f6257",
+   "ko": "사연참"
+  },
+  {
+   "id": "da0312:T00009",
+   "source_sha256": "75149f2440136bf3903211102554eed3893396f5fb5b9bf6c8aef8284355790c",
+   "ko": "을」"
+  },
+  {
+   "id": "da0312:T00010",
+   "source_sha256": "e184728c0f71d4141c2894c1c6988f7bf880ecf4c978e25356309656297312cd",
+   "ko": "「네 개의 팔!」"
+  },
+  {
+   "id": "da0312:T00011",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0312:R00003",
+   "source_sha256": "023b5f05ebb5432cfd015a51b46114673cbacb751e856aa7b670a19ed15284a4",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0312:T00012",
+   "source_sha256": "fe4c785508e6a480a13d3def0330185508d154f067de6e0d9f08bfb399f40e83",
+   "ko": "그렇"
+  },
+  {
+   "id": "da0312:T00013",
+   "source_sha256": "42e7b248b7b583c113ed4a0fe842423ad85add32013f594c39dc88f629a29e5e",
+   "ko": "다. 소인은 『시식교전의』의 힘에 의해\n　마인의 "
+  },
+  {
+   "id": "da0312:R00004",
+   "source_sha256": "55a5b00745e50c4e272a350516f4ba87efa82463a647384d39641d6ab24abc57",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0312:T00014",
+   "source_sha256": "7d0737df3df13576ed044c18113dcbd49fdc8439bd0ab0c96b1f5b649bc9ebf5",
+   "ko": "육체"
+  },
+  {
+   "id": "da0312:T00015",
+   "source_sha256": "306dd24ad5215b957c134abe59440bf33b9acf3315566cbf51338605e97f15d6",
+   "ko": "를 손에 넣은 외도다」"
+  },
+  {
+   "id": "da0312:T00016",
+   "source_sha256": "d07404f67a2211b5d463e216dd7a0c00a3fb03740be4ca4c00f11126f321c017",
+   "ko": "「자세한 사정은 모르겠습니다만……\n『악마에게 영혼을 팔았다』는 셈이겠군요?」"
+  },
+  {
+   "id": "da0312:T00017",
+   "source_sha256": "0b0c42a97476ff83e977ef962f99360ee47dce9608a88523f0f580d59ee311a3",
+   "ko": "「그런 셈이지…… 크크큭」"
+  },
+  {
+   "id": "da0312:T00018",
+   "source_sha256": "6fec1b12514cc8f107c4436f13f47159ecc6d3c519c18dd945c6343f0808db2f",
+   "ko": "「……무엇이 우스운 겁니까?」"
+  },
+  {
+   "id": "da0312:T00019",
+   "source_sha256": "33638c5bf61f34879e0a7607ef910e1209cf4e92eaabbc0bf6d693e95f6641c9",
+   "ko": "「아니…… 별것 아니다.\n　방금 전의 검, 그대는 "
+  },
+  {
+   "id": "da0312:R00005",
+   "source_sha256": "fe65050b6cf95368d85f30fd366c092a15824886d51defd754887d1e968f7491",
+   "ko": "・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0312:T00020",
+   "source_sha256": "cb399c7585618b15e39254fbc4c41df2288d5c7ba46514ba5ad87d87ea7ed50f",
+   "ko": "피하지"
+  },
+  {
+   "id": "da0312:R00006",
+   "source_sha256": "b750c2ece644240b0f8e138a0602b89062dcd4cb934044a963e76bf34670b76d",
+   "ko": "・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0312:T00021",
+   "source_sha256": "a54ffde178826b5c1f99e81a110dbdbd7eef74c925e1572386812e54c78a2523",
+   "ko": " 못할 터"
+  },
+  {
+   "id": "da0312:R00007",
+   "source_sha256": "399541026b89787f76b6312375d21b42244869347cf836059cf9eba724bb4824",
+   "ko": "・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0312:T00022",
+   "source_sha256": "02b67cf51016df1e8709a281ba4e41d9bbe856c7c95b864034a298d9f68d2948",
+   "ko": "였거늘"
+  },
+  {
+   "id": "da0312:T00023",
+   "source_sha256": "d93a835d0f2787bcb1a759ad3a1b8fbea56d742d0b99720dbbb9ea8ace1926f8",
+   "ko": "」"
+  },
+  {
+   "id": "da0312:T00024",
+   "source_sha256": "95946b1a5cbbfa29d101296d39e130823f82c9b11523723f295c9e6fe178af5f",
+   "ko": "「……?」"
+  },
+  {
+   "id": "da0312:T00025",
+   "source_sha256": "e4bd7ef62f2ff08d3171be6ca3e30ab3b14fd1ab1ab02939507580df4fdb04d1",
+   "ko": "「피하지 못할 터였는데 말이지?\n　크크크크…… 크하하하하하핫!」"
+  },
+  {
+   "id": "da0312:T00026",
+   "source_sha256": "45ea903ae9b91d236888c9409793221eab0c95c7a7871d7ca7e12971f0a2108a",
+   "ko": "「……상당한 비기였던 모양입니다만,\n　어차피 단순한 기습.\n　얕보셔서는 곤란합니다」"
+  },
+  {
+   "id": "da0312:T00027",
+   "source_sha256": "ff2fb6abe68182f2ca5778f2c382d636169446ca3bdc3c55dfb30d74fa299513",
+   "ko": "「크후후후…… 이거 참 실로 그렇군.\n　무례를 사과하지, 윈필드」"
+  },
+  {
+   "id": "da0312:T00028",
+   "source_sha256": "f63e338a9fae446f20ae3d105f2318d7c4d921eff8749a1d9931f4bd94dd5f65",
+   "ko": "「…………」"
+  },
+  {
+   "id": "da0312:T00029",
+   "source_sha256": "5a594b673d1de70e9182237032c4322d25f8390ea40ef497bca025d2fce8f200",
+   "ko": "――육감 따위에 속하는 것이 아니다."
+  },
+  {
+   "id": "da0312:T00030",
+   "source_sha256": "0e444987a0e743682830323163dae854238b24afc412f26b6d682fc2f66ec2d0",
+   "ko": "윈필드는 그렇게 판단한다."
+  },
+  {
+   "id": "da0312:T00031",
+   "source_sha256": "54c5223acdc3e5c4bd3dd63933360551d5f54777136f8fabcdcc6b886714d04f",
+   "ko": "방금 전의 사연참을 회피한 것은 감이 아니다.\n\n　그것은 『확신』이었다."
+  },
+  {
+   "id": "da0312:T00032",
+   "source_sha256": "b2af21b74e68a8003e2eb587c44151a183e7ef76e5164c88dfa50743bea47fdc",
+   "ko": "「온다」고 감지한 것이 아니다."
+  },
+  {
+   "id": "da0312:T00033",
+   "source_sha256": "065b356ad51df668f1e7b7f9269613143fff28d1ae3f1f486c69179aba3fabf1",
+   "ko": "「온다」는 것을 알고 있었던 것이다.\n\n　이 적에게는 『비장의 수』가 있다고."
+  },
+  {
+   "id": "da0312:T00034",
+   "source_sha256": "2a64712820888f5ab93c96f525c4895c90c513e135297d0348d4d1edfa8f7e33",
+   "ko": "지금 이 타이밍이라면 반드시 그것이 날아온다고.\n\n　윈필드는 알고 있었다."
+  },
+  {
+   "id": "da0312:R00008",
+   "source_sha256": "5173003fa580a2db58f9eb1071a070c2bf5ff385b83db86aabd9b036ea9ecee4",
+   "ko": "・・・・・・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0312:T00035",
+   "source_sha256": "39e9f60192b914b6072ae877860697d65ae18af6549239ecac6c3b9f947f5430",
+   "ko": "싸워 본 적도 없는 적"
+  },
+  {
+   "id": "da0312:T00036",
+   "source_sha256": "5c6ef470b010ecfca5dd0113b3932d1b4958e832fa220ab482f5f38d24b2439a",
+   "ko": "의 비장의 수를."
+  },
+  {
+   "id": "da0312:T00037",
+   "source_sha256": "605b226b04c6efe0d6ebc97184a905f910e72199a9f68b2154f784b5f2e72341",
+   "ko": "그것은 너무나도 선명했던, "
+  },
+  {
+   "id": "da0312:R00009",
+   "source_sha256": "c782a501757bb70c344945320ffab0c034cd0ac20a3a00b2894a009cab013bc7",
+   "ko": "데자뷔",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0312:T00038",
+   "source_sha256": "c214d2e4654acce817cd851b207d93f1c1ed12e823ba5842a8125ef8a83c3166",
+   "ko": "기시감"
+  },
+  {
+   "id": "da0312:T00039",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  },
+  {
+   "id": "da0312:T00040",
+   "source_sha256": "bec86313644da4c9ab70dc9c81ad674db57cab8c69095d76a5faaec09c08b9bc",
+   "ko": "「……그러고 보니, 아직 성함을"
+  },
+  {
+   "id": "da0312:R00010",
+   "source_sha256": "b8f2496fd6568a73ea0cd998f50319aad532a99ecab8524149b6a0a22925777d",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0312:T00041",
+   "source_sha256": "d945333fac97126005494e76bc152b999e47d08f24d37fa2aa5ffd0ffe562083",
+   "ko": "여쭙"
+  },
+  {
+   "id": "da0312:T00042",
+   "source_sha256": "4e7e52986cb47395f60b304e1475eb1670ee2bf71e381974bab03912fc79f21e",
+   "ko": "지 못했군요.\n　괜찮으시다면――」"
+  },
+  {
+   "id": "da0312:T00043",
+   "source_sha256": "622141c3c0ca9ad90693c04061dc675bb0f9a8609b677b4eb734934f039ff919",
+   "ko": "「불필요"
+  },
+  {
+   "id": "da0312:R00011",
+   "source_sha256": "585057261286d4a12a37132c802d105df0b9eeaa8ef37bbe862a803b6dde5d2b",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0312:T00044",
+   "source_sha256": "658605835bfc7ff8ff2387ba751bb7ad6b056a67df75dd0366ecbd4ecdb36c76",
+   "ko": "하다"
+  },
+  {
+   "id": "da0312:T00045",
+   "source_sha256": "d93a835d0f2787bcb1a759ad3a1b8fbea56d742d0b99720dbbb9ea8ace1926f8",
+   "ko": "」"
+  },
+  {
+   "id": "da0312:T00046",
+   "source_sha256": "f63e338a9fae446f20ae3d105f2318d7c4d921eff8749a1d9931f4bd94dd5f65",
+   "ko": "「…………」"
+  },
+  {
+   "id": "da0312:T00047",
+   "source_sha256": "caad4a6c2fa955856370d3a596c80185db0a4eb8c77bf48c62aa4b95b8bbf5dc",
+   "ko": "「소인은 "
+  },
+  {
+   "id": "da0312:R00012",
+   "source_sha256": "77fd935ee4e6a1af2813b0b154be40757a670d53e8654ebdb2d80ae130b7c9db",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0312:T00048",
+   "source_sha256": "10c3914c94c2916c10fbd0e5d348b538c7287c4b6df7b618eaa3aa72eb8bc5be",
+   "ko": "환영"
+  },
+  {
+   "id": "da0312:T00049",
+   "source_sha256": "2e1d8f1c58cb44c5356e2d8263664096709c28261716098fb0e8a0e49a319c74",
+   "ko": ".\n　얕은 잠에서 꾸는, "
+  },
+  {
+   "id": "da0312:R00013",
+   "source_sha256": "0ddf26e15a8e302369cbcdd4561d27b91dcc4bc0381b7f31c55c0b09690da480",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0312:T00050",
+   "source_sha256": "321ca02cc0eb929e5495d15de5d318d620fcf3ba2f1db0424e5656b329aad2d0",
+   "ko": "어렴풋"
+  },
+  {
+   "id": "da0312:T00051",
+   "source_sha256": "15f4f2e35a39b325a23380f5f107a45371c1aa4fb93dc94452bae18e5f759a2d",
+   "ko": "한 악몽에 불과하다."
+  },
+  {
+   "id": "da0312:R00014",
+   "source_sha256": "e5dd0ac3e3845fde3cffa0ca9d4642ea87f644c3dbd97d94002e5e0f1f63f2b7",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0312:T00052",
+   "source_sha256": "bb64d4269bf7d8f1a9febb76cd9719b545134fd2bf425398571f2bc6f9c560de",
+   "ko": "구애"
+  },
+  {
+   "id": "da0312:T00053",
+   "source_sha256": "6bf46eee5e8574a03ec7c7a03b25f26242737c520436adddb2260fde4e6a7701",
+   "ko": "될 가치도 없을 터」"
+  },
+  {
+   "id": "da0312:T00054",
+   "source_sha256": "b299820a89a2d0dfbb24f906104fc9551e50e3205f9c18cbab2186df1b9a721d",
+   "ko": "검은 사무라이의 투기가 차갑고 날카롭게 벼려져 간다."
+  },
+  {
+   "id": "da0312:T00055",
+   "source_sha256": "8656b40abfb967a9e6952a312de686870df17c7412005d2b49a4f6bc8ccf4705",
+   "ko": "그것을 감지한 윈필드 또한 신경을 곤두세운다."
+  },
+  {
+   "id": "da0312:T00056",
+   "source_sha256": "a79e0bebca59b8d2a7b4ed7e8ca09e540231d9b666d62bba7033136f3ae3485e",
+   "ko": "「이 싸움은 단순한 소인의 망집이다.\n　그대는 "
+  },
+  {
+   "id": "da0312:R00015",
+   "source_sha256": "8e12c34b9b825eddd448ccfe7885259e5440f86dd4afde7e1a9cd32cde82a2cd",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0312:T00057",
+   "source_sha256": "173abd3287a3210f75e1cd3bbf4e75e69dd2e284674f737bfebd85bcb947fb4a",
+   "ko": "우연히"
+  },
+  {
+   "id": "da0312:T00058",
+   "source_sha256": "7fdd8e33430a23690a588fa6f819feeea2fdad247a47d0e4572c25cbd80ed95e",
+   "ko": ", 귀신에게 씌었을 뿐이지.\n　그렇다면 퇴마하는 것이 도리 아니겠느냐?」"
+  },
+  {
+   "id": "da0312:T00059",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0312:R00016",
+   "source_sha256": "98068fa109a8390208faa1d8f05ddfe43f4d08842728bea8e5e623d810b2ff46",
+   "ko": "엑소시즘은",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0312:T00060",
+   "source_sha256": "f7d1bcd16c5a9d1d9b013a5fbc65e3ace571bb00ef8e9dcf2bebda9e961f56a2",
+   "ko": "악마 퇴치는"
+  },
+  {
+   "id": "da0312:T00061",
+   "source_sha256": "356c51024302ee20df58461bf1e852f251fe95a1f379963c962df375d9c0a406",
+   "ko": " 전문 분야가 아닙니다만」"
+  },
+  {
+   "id": "da0312:T00062",
+   "source_sha256": "a9244d46baaf5046c83881015d0e1cb94fc9dcbb68c07ccde703091448bccac3",
+   "ko": "「뭘, 소인을 퇴마하는 데 염불은 필요 없다」"
+  },
+  {
+   "id": "da0312:T00063",
+   "source_sha256": "d00272dc459487c5209f2a99ce8e5eb374090a29e8e78e541a8b330491f598d5",
+   "ko": "네 자루의 칼이 요사스럽게 번뜩인다."
+  },
+  {
+   "id": "da0312:T00064",
+   "source_sha256": "e5f1fc03378f7dce91510f77daa8d12b3f559f4966ef578465f85a5314f92fa2",
+   "ko": "고조되는 양자의 투기는 최고조에 달해 있었다."
+  },
+  {
+   "id": "da0312:T00065",
+   "source_sha256": "ec21f497a67d6eac918df20c43d3117eaf79bee178078e82367016784f8a4829",
+   "ko": "대기를 일그러뜨릴 정도의 "
+  },
+  {
+   "id": "da0312:R00017",
+   "source_sha256": "649bb9c4a591f1c70ac131662dfbe0387d5f8e8ca9ac3fa20f710e647b423101",
+   "ko": "프레셔가",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0312:T00066",
+   "source_sha256": "171935884234fcdeee622f9ac6df7ac78b272127fed72306344399612879d6f2",
+   "ko": "압박감이"
+  },
+  {
+   "id": "da0312:T00067",
+   "source_sha256": "025010fd74e93b7834703138c27c5f7e5dc4912cb0aba2c21972a40aa06739a2",
+   "ko": " 홀을 뒤흔든다.\n\n　사무라이는 처참한 미소를 띠며 고했다."
+  },
+  {
+   "id": "da0312:T00068",
+   "source_sha256": "b5822896ae89672c1106ac87e8cd7b14a8985d19e806346759b35a498d2ee071",
+   "ko": "「――그 주먹만 있으면 충분하다」"
+  },
+  {
+   "id": "da0312:T00069",
+   "source_sha256": "834886a3c42698453ffab40e21ed552f7687da9bd2c839a19a3c7abccbf1ec27",
+   "ko": "대홀의 천장."
+  },
+  {
+   "id": "da0312:T00070",
+   "source_sha256": "ea0c838bd4ced059e95792c9d4dabf4aa07ff0c51ea360fe43ca6c906c8b0e29",
+   "ko": "무수히 늘어선 거대한 진공관 중 하나에 걸터앉은 소녀의 모습이 있었다."
+  },
+  {
+   "id": "da0312:T00071",
+   "source_sha256": "b2b1ff6beab6515342acb5976d23855d37d4884cc15108b98155fd1e6d7dc1e5",
+   "ko": "마치 떼를 쓰는 어린아이처럼 볼을 부풀리고 다리를 대롱거리고 있다."
+  },
+  {
+   "id": "da0312:T00072",
+   "source_sha256": "e2784fd5838f76c23e7e547c3428660d47cf8b71e7f1eecddf48bb998aaa38b0",
+   "ko": "「……이상하네에?\n　이런 "
+  },
+  {
+   "id": "da0312:R00018",
+   "source_sha256": "6d5b720e33c28985b30772273c5598340b67f9e1edf99fba720d7c80fa9140cf",
+   "ko": "시추에이션이",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0312:T00073",
+   "source_sha256": "ccd4ff23f93b9172ac0e9ff9289dea95b649b2b3c646f496b50d5d956a45f6a7",
+   "ko": "전개가"
+  },
+  {
+   "id": "da0312:T00074",
+   "source_sha256": "137cbdbced692ca178a11840ed4b3991f0a3549116903757643a02d71b4a5b72",
+   "ko": " 될 리가 없는데\n　말이야. 어딘가 잘못된 걸까?」"
+  },
+  {
+   "id": "da0312:T00075",
+   "source_sha256": "f4deade4fcdc82ce704a25e039be32c7c0cd91321b788b910e0e15ccd9533112",
+   "ko": "검지를 머리에 콕 대고 귀엽게 고개를 갸웃한다."
+  },
+  {
+   "id": "da0312:T00076",
+   "source_sha256": "058fc2689ac2d0bce616a1e8adce5ff90426b6c53b72758f47112f53591fdcd6",
+   "ko": "심각한 듯이 눈살을 찌푸리면서,"
+  },
+  {
+   "id": "da0312:T00077",
+   "source_sha256": "51715aa3508ad461a5c6f25d97dedc4ce1108c061448e3c2c5675623aea04bb1",
+   "ko": "「내가 만드는 이야기가\n　이렇게 긍정적일 리가 없는데.\n　어쩐지…… 시시하네에」"
+  },
+  {
+   "id": "da0312:T00078",
+   "source_sha256": "e8aabde45c656f87fa367cd5b05d9d5e37300605f9fb31cd2c682fd88794b028",
+   "ko": "하지만 아무리 흐뭇해 보이는 동작도, 그 진홍빛 눈동자에 깃든 탁한 증오를 속이지는 못한다.\n\n　피와 어둠과 죽음과 눈물과 진흙과 꿈과 피와 피와 피와 피와 피와…… 그런 것들이 결정화된, "
+  },
+  {
+   "id": "da0312:R00019",
+   "source_sha256": "a14f9355ff5bc703aa175f8a795fc49676901e44794150841f01dd2067dea8c3",
+   "ko": "루비",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0312:T00079",
+   "source_sha256": "1bf5b451af8d5132a4d70302a00a2529edad253128ff6f3438f9f64b2cb9fca8",
+   "ko": "홍옥"
+  },
+  {
+   "id": "da0312:T00080",
+   "source_sha256": "712e10bae3b0c225a9e85bb92f4999fed39f42ca1618811c95894172db2b691f",
+   "ko": "의 눈동자다."
+  },
+  {
+   "id": "da0312:T00081",
+   "source_sha256": "b5611984cc6a1a0eec7ce99b0a5322bde1e10e12ef1fff8460e8044db6ab1f2b",
+   "ko": "「조금 각본에 손을 봐 줄까나?　……응?」"
+  },
+  {
+   "id": "da0312:T00082",
+   "source_sha256": "1f319a27c5557590576228dad5412d6ef3e551740a596a69ea2278f178cd872a",
+   "ko": "그녀의 의식은 이곳과는 다른 어딘가, 또 다른 악몽에서 일어난 일을 지각한다.\n\n　소녀의 얼굴에서 표정이 사라졌다."
+  },
+  {
+   "id": "da0312:R00020",
+   "source_sha256": "9e01e7b843be92a9d32129c0661107e163b54042ac97ad03fcafa75e40d331b6",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0312:T00083",
+   "source_sha256": "389bbac1b256d36df12ea23e0ea5db3f3b5a4242c671c915091732e62596b8b4",
+   "ko": "어둡"
+  },
+  {
+   "id": "da0312:T00084",
+   "source_sha256": "9a755ee52573cae8b67f368cc3bf1739cbdf36fa8f07cedbf7d28abb554d6ca5",
+   "ko": "고 차가운 목소리가 중얼거림이 되어 흘러나온다."
+  },
+  {
+   "id": "da0312:T00085",
+   "source_sha256": "50880df2f9ba533f9d2cd8aa0102d43b59399c11512fb67f897c1549c641bfcf",
+   "ko": "「어째서야…… 내가 아닌 무언가의\n　의지가 개재해 있는 거지?」"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0312:R00001",
+   "kind": "omit_redundant",
+   "note": "한국어 '피했는가'로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0312:R00002",
+   "kind": "omit_redundant",
+   "note": "한국어 '사연참'으로 의미가 온전히 전달되므로 일본어 독음 루비 생략"
+  },
+  {
+   "id": "da0312:R00003",
+   "kind": "omit_redundant",
+   "note": "한국어 '그렇다'로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0312:R00004",
+   "kind": "omit_redundant",
+   "note": "한국어 '육체'로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0312:R00010",
+   "kind": "omit_redundant",
+   "note": "한국어 '여쭙지'로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0312:R00011",
+   "kind": "omit_redundant",
+   "note": "한국어 '불필요하다'로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0312:R00012",
+   "kind": "omit_redundant",
+   "note": "한국어 '환영'으로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0312:R00013",
+   "kind": "omit_redundant",
+   "note": "한국어 '어렴풋한'으로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0312:R00014",
+   "kind": "omit_redundant",
+   "note": "한국어 '구애될'로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0312:R00015",
+   "kind": "omit_redundant",
+   "note": "한국어 '우연히'로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0312:R00020",
+   "kind": "omit_redundant",
+   "note": "한국어 '어둡고'로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  }
+ ]
+}

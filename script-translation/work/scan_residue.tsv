@@ -1,0 +1,198 @@
+pid	sid	reviewed	kind	jp	ko
+P0002_da0101	da0101:R00012	True	ruby_reading	・・	・・
+P0002_da0101	da0101:R00015	True	ruby_reading	・・・・・・	・・・・・・
+P0002_da0101	da0101:R00016	True	ruby_reading	・・・・	・・・・
+P0002_da0101	da0101:R00017	True	ruby_reading	・・・・・・	・・・・・・
+P0003_da0102	da0102:R00002	True	ruby_reading	・・	・・
+P0003_da0102	da0102:R00004	True	ruby_reading	・・・・	・・・・
+P0006_da0104	da0104:R00002	True	ruby_reading	・・・・	・・・・
+P0007_da0105	da0105:R00016	True	ruby_reading	・・・・・・	・・・・・・
+P0007_da0105	da0105:R00018	True	ruby_reading	・・・・	・・・・
+P0007_da0105	da0105:R00019	True	ruby_reading	・・・・・・・・・・	・・・・・・・・・・
+P0007_da0105	da0105:R00024	True	ruby_reading	・・	・・
+P0007_da0105	da0105:R00025	True	ruby_reading	・・・・・・	・・・・・・
+P0007_da0105	da0105:R00029	True	ruby_reading	・・	・・
+P0007_da0105	da0105:R00033	True	ruby_reading	・・	・・
+P0009_da0107	da0107:T00028	True	text	ソレ絡みの処理は、他の仕事を圧迫するほどの量になる。⏎⏎　「殺されるほど忙しい」と書いて「忙殺」。	그 뒤처리만으로도 다른 업무가 밀릴 만큼 일이 많아진다.⏎⏎　「죽을 만큼 바쁘다」고 해서 「망살(忙殺)」.
+P0011_da0109	da0109:R00010	True	ruby_reading	・・	・・
+P0011_da0109	da0109:R00011	True	ruby_reading	・・・・・・・・・	・・・・・・・・・
+P0011_da0109	da0109:R00012	True	ruby_reading	・・	・・
+P0011_da0109	da0109:R00021	True	ruby_reading	・・・・・	・・・・・
+P0014_da0111	da0111:T00031	True	text	「――変神」	「――변신(変神)」
+P0014_da0111	da0111:R00008	True	ruby_reading	・・・・・・・	・・・・・・・
+P0018_da0115	da0115:T00012	False	text	ｂ＾ー゜）	b^ㅡ゜)
+P0018_da0115	da0115:R00008	False	ruby_reading	・・・・・・	・・・・・・
+P0020_da0116	da0116:R00006	True	ruby_reading	・・・・	・・・・
+P0020_da0116	da0116:R00014	False	ruby_reading	・・・・	・・・・
+P0020_da0116	da0116:R00015	False	ruby_reading	・・・・・・・	・・・・・・・
+P0020_da0116	da0116:R00016	False	ruby_reading	・・・・・	・・・・・
+P0021_da0117	da0117:R00007	False	ruby_reading	・・・	・・・
+P0022_da0118	da0118:T00024	False	text	「ダーリン言うな（＃゜д゜）」	「달링이라 부르지 마라(#゜д゜)」
+P0022_da0118	da0118:R00007	False	ruby_reading	・・・・・	・・・・・
+P0025_da0201	da0201:R00010	False	ruby_reading	・・・・・・・・・・・・	・・・・・・・・・・・・
+P0025_da0201	da0201:R00011	False	ruby_reading	・・・	・・
+P0025_da0201	da0201:R00012	False	ruby_reading	・・・・・・	・・・・・・
+P0025_da0201	da0201:R00013	False	ruby_reading	・・・	・・・
+P0025_da0201	da0201:R00014	False	ruby_reading	・・・・・	・・・・
+P0025_da0201	da0201:R00015	False	ruby_reading	・・・・・・・・	・・・・・・・・
+P0025_da0201	da0201:R00016	False	ruby_reading	・・・・・・・・	・・・・・・・
+P0026_da0202	da0202:R00002	False	ruby_reading	・・・・・・・・・	・・・・・・・・・
+P0026_da0202	da0202:R00006	False	ruby_reading	・・・・・	・・・・・
+P0026_da0202	da0202:R00007	False	ruby_reading	・	・
+P0026_da0202	da0202:R00017	True	ruby_reading	・・・・	・・
+P0031_da0301	da0301:R00012	False	ruby_reading	・・	・・
+P0031_da0301	da0301:R00013	False	ruby_reading	・・・・・・・	・・・・・・・
+P0032_da0302	da0302:R00005	False	ruby_reading	・・・・・・・・・・・	・・・・・・・・・・
+P0034_da0304	da0304:R00001	False	ruby_reading	・・	・・
+P0037_da0305	da0305:R00012	False	ruby_reading	・・・・・・・・・	・・・・・・・・・
+P0038_da0306	da0306:R00006	False	ruby_reading	・・・・・・・・・	・・・・・・・・・
+P0044_da0312	da0312:R00005	False	ruby_reading	・・・	・・・
+P0044_da0312	da0312:R00006	False	ruby_reading	・・・・	・・・・
+P0044_da0312	da0312:R00007	False	ruby_reading	・・	・・
+P0044_da0312	da0312:R00008	False	ruby_reading	・・・・・・・・・	・・・・・・・・・
+P0044_da0312	da0312:T00084	False	text	く、冷たい声が呟きとして漏れる。	고 차가운 목소리가 중얼거림となって 흘러나온다.
+P0047_da0401	da0401:R00005	False	ruby_reading	・・・・・・・・	・・・・・・・・
+P0047_da0401	da0401:R00006	True	ruby_reading	・・・・	・・・・
+P0048_da0402	da0402:T00083	False	text	・	・
+P0051_da0405	da0405:R00009	False	ruby_reading	・・・・・・・・	・・・・・・・・
+P0051_da0405	da0405:R00013	False	ruby_reading	・・・	・・・
+P0053_da0406	da0406:R00005	False	ruby_reading	・・・・・・・・	・・・・・・・・
+P0053_da0406	da0406:R00009	False	ruby_reading	・・・	・・・
+P0053_da0406	da0406:R00010	False	ruby_reading	・・・・・・・・・・	・・・・・・・・・・
+P0053_da0406	da0406:R00011	False	ruby_reading	・・・	・・・
+P0053_da0406	da0406:R00019	False	ruby_reading	・・・・・	・・・・・
+P0055_da0501	da0501:T00086	False	text	「神……神だと？　確かにな……⏎　だが、異界の神だ。邪神だ！」	「신…… 신이라고?　확실히 그렇군……⏎　하지만 이계의 신이다. 사신(邪神)이다!」
+P0057_da0502	da0502:T00052	True	text	それは不浄の海を灼き、沸騰、蒸発、浄火する。⏎⏎　⏎　⏎　　　　――邪悪を掻き消すは、叫び上げる兇暴な閃光。	그것은 부정의 바다를 태우고, 비등, 증발, 정화(浄火)한다.⏎⏎　⏎　⏎　　　　――사악을 지워 버리는 것은 부르짖는 흉포한 섬광.
+P0058_da0503	da0503:R00029	False	ruby_reading	・・・	・・・
+P0059_da0504	da0504:T00053	True	text	『ダンウィッチの怪』の元凶／外なる神ヨグ＝ソトースの忌まわしき⏎息子たち／邪神の血を引く異形の双児。⏎⏎　邪神の血を引く――	『더니치의 괴이』의 원흉／외부의 신 요그 소토스의 가증스러운⏎아들들／사신(邪神)의 피를 이어받은 이형의 쌍둥이.⏎⏎　사신의 피를 이어받은――
+P0060_da0505	da0505:T00035	False	text	アラベスク模様に黒檀装丁の大冊――すなわち。	아라베스크 문양에 흑단 장정을 한 대책(大冊)――즉.
+P0060_da0505	da0505:R00008	False	ruby_reading	・・・・	・・・・
+P0060_da0505	da0505:R00009	False	ruby_reading	・・	・・
+P0060_da0505	da0505:R00010	False	ruby_reading	・・・	・・・
+P0060_da0505	da0505:R00016	False	ruby_reading	・・・・	・・・・
+P0060_da0505	da0505:T00106	False	text	はそれぞれ、複雑な呪紋や魔術文字を、目まぐるしく	은 각각 복잡한 주문(呪紋)과 마술문자를 어지럽게 
+P0060_da0505	da0505:R00027	False	ruby_reading	・・・・・・・	・・・・・・・
+P0060_da0505	da0505:T00159	False	text	汚泥の海を退ける光。	오니(汚泥)의 바다를 물리치는 빛.
+P0061_da0506	da0506:T00001	True	text	『偆廿忿２ｙナ圓■弗♯餬幽ＩＡ齒閖■■鴎へ哮■星ゥ昊Ｑ樌ＩＡ蒴マ■■塹キ闢殄■％。ワＱ６瀅ロ睥！→■骭／｝■？暃侔Ｑ賢キＬ輛蝎――――――――――！！！！』	『偆廿忿２ｙ나圓■弗♯餬幽ＩＡ齒閖■■鴎헤哮■星우昊Ｑ樌ＩＡ蒴마■■塹키闢殄■％。와Ｑ６瀅로睥！→■骭／｝■？暃侔Ｑ賢키Ｌ輛蝎――――――――――！！！！』
+P0061_da0506	da0506:T00068	False	text	その体内に圧倒的な威力の気配を湛えながら、闇色の機神は静謐に存在していた。	그 체내에 압도적인 위력의 기척을 머금으면서, 어둠빛 기신은 정밀(静謐)하게 존재하고 있었다.
+P0061_da0506	da0506:T00100	False	text	「アズラッド！　忌まわしいほどの⏎愚者、呪わしいほどの愚物め！⏎此処はお前が立てる舞台ではない！	「아즈랏드!　가증스러울 정도의⏎우자(愚者), 저주스러울 정도의 우물(愚物) 같으니!⏎여기는 네놈이 설 수 있는 무대가 아니다!⏎
+P0061_da0506	da0506:T00105	False	text	『斬尋Ｅ顆！■メ■■■～！Ａム■蝿ト■孱…｛Ａ胼嫩｝	『斬尋Ｅ顆！■메■■■～！Ａ무■蝿토■孱…｛Ａ胼嫩｝
+P0061_da0506	da0506:T00106	False	text	Ｉあレ襭縺ю騷＄９聾表癨！』	Ｉ아레襭縺ю騷＄９聾表癨！』
+P0061_da0506	da0506:R00027	False	ruby_reading	・・・・・・	・・・・・・
+P0061_da0506	da0506:T00125	False	text	『ＡＢ囑Ａ轟Ａ訒ＡＢＡ』	『ＡＢ囑Ａ轟Ａ訒ＡＢＡ』
+P0061_da0506	da0506:R00028	False	ruby_reading	・・・・	・・・・
+P0070_da0701	da0701:T00155	False	text	『胞ネｇ＆忍倢！攘愑タ齲壓Ｚ＞⏎　　　廢廢戲■Ｙ＃咼勇褜――！』	『胞네ｇ＆忍倢! 攘愑타齲壓Ｚ＞⏎　　　廢廢戲■Ｙ＃咼勇褜――!』
+P0071_da0701	da0701:R00025	True	ruby_reading	・・・・・・	・・・・・・
+P0071_da0701	da0701:R00035	False	ruby_reading	・・	・・
+P0071_da0701	da0701:R00036	False	ruby_reading	・・・	・・・
+P0071_da0701	da0701:R00037	False	ruby_reading	・・・	・・・
+P0071_da0701	da0701:R00038	False	ruby_reading	・	・
+P0071_da0701	da0701:R00039	False	ruby_reading	・・・・	・・・・
+P0071_da0701	da0701:R00040	False	ruby_reading	・・	・・
+P0071_da0701	da0701:R00056	False	ruby_reading	・・・・・	・・・・・
+P0072_da0702	da0702:R00001	False	ruby_reading	・・・	・・・
+P0072_da0702	da0702:R00003	False	ruby_reading	・・・　・	・・・　・
+P0072_da0702	da0702:R00006	False	ruby_reading	・・・・・・	・・・・・・
+P0074_da0703	da0703:R00001	False	ruby_reading	・・・・	・・・・
+P0074_da0703	da0703:R00041	False	ruby_reading	・・・・・	・・・・・
+P0074_da0703	da0703:R00042	False	ruby_reading	・・・・・・・・・	・・・・・・・・・
+P0074_da0703	da0703:R00047	False	ruby_reading	・・・	・・・
+P0074_da0703	da0703:R00048	False	ruby_reading	・・・・・	・・・・・
+P0074_da0703	da0703:R00051	False	ruby_reading	・・・・・・	・・・・・・
+P0075_da0704	da0704:R00003	False	ruby_reading	・・・	・・・
+P0077_da0705	da0705:R00032	False	ruby_reading	・	・
+P0081_da0709	da0709:R00019	False	ruby_reading	・・・・・・・・・・・・	・・・・・・・・・・・・
+P0081_da0709	da0709:R00026	False	ruby_reading	・・	・・
+P0081_da0709	da0709:R00034	False	ruby_reading	・・・	・・・
+P0084_da0801	da0801:R00001	False	ruby_reading	・・	・・
+P0084_da0801	da0801:R00002	False	ruby_reading	・・	・・
+P0084_da0801	da0801:R00012	False	ruby_reading	・・・・	・・・・
+P0084_da0801	da0801:R00013	False	ruby_reading	・・・・	・・・・
+P0085_da0802	da0802:R00003	False	ruby_reading	・・・・・・・	・・・・・・・
+P0085_da0802	da0802:R00004	False	ruby_reading	・・・・・	・・・・・
+P0085_da0802	da0802:R00009	False	ruby_reading	・・・・	・・・・
+P0085_da0802	da0802:R00027	False	ruby_reading	・・　・・・・・・・・・・・	・・　・・・・・・・・・・・
+P0085_da0802	da0802:R00043	False	ruby_reading	・・・・・	・・・・・
+P0086_da0802	da0802:R00047	False	ruby_reading	・・・	・・・
+P0093_da1102	da1102:R00004	False	ruby_reading	・・・・・・	・・・・・・
+P0093_da1102	da1102:R00021	False	ruby_reading	・・・・	・・・・
+P0093_da1102	da1102:R00023	False	ruby_reading	・・・・・	・・・・・
+P0093_da1102	da1102:R00024	False	ruby_reading	・・・・・　・	・・・・・　・
+P0093_da1102	da1102:R00025	False	ruby_reading	・・	・・
+P0093_da1102	da1102:R00026	False	ruby_reading	・・・・・・・	・・・・・・・
+P0094_da1102	da1102:R00032	False	ruby_reading	・・・	・・・
+P0095_da1201	da1201:R00008	False	ruby_reading	・・・	・・・
+P0095_da1201	da1201:R00009	False	ruby_reading	・・・	・・・
+P0095_da1201	da1201:R00010	False	ruby_reading	・・・	・・・
+P0095_da1201	da1201:R00011	False	ruby_reading	・・・・・・	・・・・・・
+P0097_da1203	da1203:R00010	False	ruby_reading	・・・	・・・
+P0100_da1301	da1301:R00005	False	ruby_reading	・・	・・
+P0101_da1302	da1302:R00003	False	ruby_reading	・・・・・	・・・・・
+P0102_da1303	da1303:R00001	True	ruby_reading	・・・	・・・
+P0102_da1303	da1303:R00005	False	ruby_reading	・・・・	・・・・
+P0102_da1303	da1303:R00006	False	ruby_reading	・・・・	・・・・
+P0102_da1303	da1303:R00011	False	ruby_reading	・・・	・・・
+P0102_da1303	da1303:R00012	False	ruby_reading	・・・・・・・	・・・・・・・
+P0102_da1303	da1303:R00013	False	ruby_reading	・・・・・	・・・・・
+P0102_da1303	da1303:R00014	False	ruby_reading	・	・
+P0102_da1303	da1303:R00015	False	ruby_reading	・・・・・	・・・・・
+P0102_da1303	da1303:R00016	False	ruby_reading	・・・・	・・・・
+P0102_da1303	da1303:R00017	False	ruby_reading	・・・	・・・
+P0102_da1303	da1303:R00018	False	ruby_reading	・・・	・・・
+P0102_da1303	da1303:R00020	False	ruby_reading	・・・・・	・・・・・
+P0103_da1304	da1304:R00008	False	ruby_reading	・・・・・	・・・・・
+P0103_da1304	da1304:R00014	False	ruby_reading	・・・	・・・
+P0103_da1304	da1304:R00016	False	ruby_reading	・・・・・・・・・・・	・・・・・・・・・・・
+P0104_da1305	da1305:R00020	True	ruby_reading	・・	・・
+P0105_da1306	da1306:R00022	False	ruby_reading	・・・・・・・	・・・・・・・
+P0105_da1306	da1306:R00036	False	ruby_reading	・・	・・
+P0107_da1307	da1307:R00020	False	ruby_reading	・・・・・・　・・・・	・・・・・・　・・・・
+P0107_da1307	da1307:R00025	False	ruby_reading	・・・・・	・・・・・
+P0107_da1307	da1307:R00031	False	ruby_reading	・・・・・・	・・・・・・
+P0107_da1307	da1307:R00034	False	ruby_reading	・・・・・・・・	・・・・・・・・
+P0107_da1307	da1307:R00035	False	ruby_reading	・・・・・・・	・・・・・・・
+P0107_da1307	da1307:R00037	False	ruby_reading	・・・・・・・・・・・	・・・・・・・・・・・
+P0108_da1308	da1308:R00012	False	ruby_reading	・・　・・	・・　・・
+P0108_da1308	da1308:R00014	False	ruby_reading	・・・・	・・・・
+P0108_da1308	da1308:R00015	False	ruby_reading	・・・・・・	・・・・
+P0108_da1308	da1308:R00016	False	ruby_reading	・・・・・・・・・・・	・・・・・・・・・・・
+P0108_da1308	da1308:R00021	False	ruby_reading	・・・・・	・・・・・
+P0108_da1308	da1308:R00022	False	ruby_reading	・・・・	・・・・
+P0108_da1308	da1308:R00023	False	ruby_reading	・・・・・・・・・	・・・・・・・・・
+P0108_da1308	da1308:R00024	False	ruby_reading	・・・・・・	・・・・・・
+P0108_da1308	da1308:R00027	False	ruby_reading	・・・・・	・・・・・
+P0108_da1308	da1308:R00032	False	ruby_reading	・・・・・・・	・・・・・・・
+P0108_da1308	da1308:R00033	False	ruby_reading	・・	・・
+P0109_da1309	da1309:R00002	True	ruby_reading	・・・・・・・・・・	・・・・・・・
+P0109_da1309	da1309:R00024	False	ruby_reading	・・	・・
+P0109_da1309	da1309:R00027	False	ruby_reading	・・・・・・	・・・・・・・
+P0110_da1310	da1310:R00018	False	ruby_reading	・・	・・・
+P0110_da1310	da1310:R00019	False	ruby_reading	・・・・・・・	・・・・
+P0110_da1310	da1310:R00020	False	ruby_reading	・・・	・・
+P0110_da1310	da1310:T00085	True	text	吾舞弗惡流覇坐唖怒⏎⏎　⏎　⏎　⏎　⏎　⏎　⏎　⏎　⏎　　　　　　　　　　　　　　巻頭歌	압둘 알하자드(吾舞弗惡流覇坐唖怒)⏎⏎　⏎　⏎　⏎　⏎　⏎　⏎　⏎　⏎　　　　　　　　　　　　　　권두가
+P0110_da1310	da1310:R00036	False	ruby_reading	・・	・・
+P0110_da1310	da1310:R00037	False	ruby_reading	・・・・	・・・
+P0110_da1310	da1310:R00038	False	ruby_reading	・・・	・・
+P0110_da1310	da1310:R00039	False	ruby_reading	・・・・	・・・・
+P0110_da1310	da1310:R00040	False	ruby_reading	・・・・	・・・
+P0110_da1310	da1310:T00158	False	text	ゲームキーパーが精製した極上の蠱毒だ。⏎⏎　そして。	게임 키퍼가 정제한 극상의 고독(蠱毒)이다.⏎⏎　그리고.
+P0111_da1311	da1311:T00083	False	text	零になってしまえば良い。	영(零)이 되어 버리면 된다.
+P0111_da1311	da1311:T00103	False	text	零になってしまう。	영(零)이 되어 버린다.
+P0111_da1311	da1311:R00018	False	ruby_reading	・・・・　・・・・・・・・・	・・・・　・・・・・・・・・
+P0112_da1312	da1312:R00005	False	ruby_reading	・・・・・	・・・・・
+P0112_da1312	da1312:R00006	False	ruby_reading	・・・・・・・・・・	・・・・・・・・・・
+P0112_da1312	da1312:R00007	False	ruby_reading	・・・	・・
+P0112_da1312	da1312:R00008	False	ruby_reading	・・・・・・	・・・・・・・
+P0112_da1312	da1312:R00009	False	ruby_reading	・・	・・
+P0112_da1312	da1312:R00010	False	ruby_reading	・・・・・	・・・・
+P0112_da1312	da1312:R00011	False	ruby_reading	・・・	・・
+P0112_da1312	da1312:R00012	False	ruby_reading	・・・・・	・・・・・
+P0112_da1312	da1312:R00014	False	ruby_reading	・・・	・・
+P0112_da1312	da1312:R00015	False	ruby_reading	・・・・・	・・・・・
+P0112_da1312	da1312:R00020	False	ruby_reading	・・・・	・・・
+P0112_da1312	da1312:R00021	False	ruby_reading	・・・・	・・・・
+P0112_da1312	da1312:R00027	False	ruby_reading	・・・・・・・・・	・・・・・・・・・
+P0112_da1312	da1312:R00031	False	ruby_reading	・・・	・・・
+P0112_da1312	da1312:R00032	False	ruby_reading	・・・	・・・
+P0112_da1312	da1312:R00033	False	ruby_reading	・・・・・	・・・・
+P0112_da1312	da1312:R00034	False	ruby_reading	・・・	・・・

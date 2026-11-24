@@ -1,0 +1,362 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0052_da0405",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0405:T00140",
+   "source_sha256": "281e3c10e97811f7ede458ada64ecf9f7740f146c8d45ca5f11f1af0c4961da0",
+   "ko": "「……아까도 말했을 텐데.\n　나는 이놈들과 같은 존재라고」"
+  },
+  {
+   "id": "da0405:T00141",
+   "source_sha256": "5e9774bcd75836563c16b89dfe8db0bd8103aeb3dc937bdc88b78f2f1a32d1fe",
+   "ko": "발밑의 불타 짓무른 고깃덩어리에 시선을 향하며 답한다."
+  },
+  {
+   "id": "da0405:T00142",
+   "source_sha256": "74784d70836f47a72d9ca400a2b6ab09f3f2432823ee21edd99dfd4218819d84",
+   "ko": "더러운 썩은 살점은 더 이상 재생할 기미를 보이지 않는다."
+  },
+  {
+   "id": "da0405:T00143",
+   "source_sha256": "db1dcd60b984c15dcbd97f1ac6342fe39310a0fc4c04de39f36a7618a05037a8",
+   "ko": "완전히 정지해 있었다."
+  },
+  {
+   "id": "da0405:T00144",
+   "source_sha256": "bafcfd6d487ce1dd4d2c3df340b01d28d534431874ef8015865f89de60a87bfd",
+   "ko": "「하지만 당신은 다릅니다」"
+  },
+  {
+   "id": "da0405:T00145",
+   "source_sha256": "27ce5ecc0cffcc00966dfa9860936bae2ea3754016d62adc6c06a4accbf852d4",
+   "ko": "「다르지 않아. 나는 그저 꿈이다」"
+  },
+  {
+   "id": "da0405:T00146",
+   "source_sha256": "1c900f9385860fb8003f1421fe9bdaa4f6ab17fca57957f0a9d295715c18f7b9",
+   "ko": "「……꿈?」"
+  },
+  {
+   "id": "da0405:T00147",
+   "source_sha256": "951cbbeb9493b823662718f1d2ce8d7bdcebb6aab18cfee5e5d5e1b369882148",
+   "ko": "남자의 손으로 모든 언월도가 모여들고, 겹쳐져, 한 자루의 스틱으로 돌아갔다."
+  },
+  {
+   "id": "da0405:T00148",
+   "source_sha256": "66511e82b9d614efa740e44a4db1728799b5804be6dbb16f0e1935c5f0ccd353",
+   "ko": "이어서 빈 쪽의 손에 『알 아지프』가 다시 현현한다.\n\n　『알 아지프』는 루리로부터 마력을 되찾는다."
+  },
+  {
+   "id": "da0405:T00149",
+   "source_sha256": "8b4236def076b122fb3d7549ebf1785061177d38c09c07c328c75a409697b3b8",
+   "ko": "술의가 "
+  },
+  {
+   "id": "da0405:R00016",
+   "source_sha256": "2bb9df2369234dd1a09c594d05bb8f486a403b25224bff5eeb85f6e147b6bbbb",
+   "ko": "페이지가",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0405:T00150",
+   "source_sha256": "87fc7f9029cb3830bc99efbf631b743a6abb399b4c3af33a2ce9a06db26a5c12",
+   "ko": "책장이"
+  },
+  {
+   "id": "da0405:T00151",
+   "source_sha256": "4740386f70ffd92015bd5a822f86a3d1a5ba831880ea511671ac29d0f63e3cd6",
+   "ko": " 되어 "
+  },
+  {
+   "id": "da0405:R00017",
+   "source_sha256": "5e50b96c27b2f416824dd21237894b52728e9f8acf21f77ae97378faaafaa899",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0405:T00152",
+   "source_sha256": "09152a2380b09e688a514e86056805ca633afd8381453280be7f536c7140c91a",
+   "ko": "풀어"
+  },
+  {
+   "id": "da0405:T00153",
+   "source_sha256": "dfbe0c4064b6a47357d710a39f904f99e6a63f6b1372fd1fec0c98ca524c5a46",
+   "ko": "지고, 책 속으로 빨려 들어간다."
+  },
+  {
+   "id": "da0405:T00154",
+   "source_sha256": "b361b280010c062cda1bfaac508874cc1f085055e7e754e9bfb2fe2ffbbdf69d",
+   "ko": "「이 세계는 『네크로노미콘』을 자칭하는 괴이의\n마술과, 『알 아지프』의 기억이 합쳐져\n짜인 세계――"
+  },
+  {
+   "id": "da0405:R00018",
+   "source_sha256": "798a829d5bbf96fa300c2c97a0be18727d9a48961f59efd7d55c0a3fc1c9fab2",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0405:T00155",
+   "source_sha256": "1613314fb0cc84d73b2598b9557f8ffd74147cd25453a8158347e85f8749b03e",
+   "ko": "현세"
+  },
+  {
+   "id": "da0405:T00156",
+   "source_sha256": "e79bbace9dcca93e41d95a8ceaef8452a747d157b7a3e6922080769eaee604ca",
+   "ko": "와 몽환의 틈새에 있는 세계다」"
+  },
+  {
+   "id": "da0405:T00157",
+   "source_sha256": "0b28476704eaeb389c305ed3004fa819d60e740d10af934eb964ee40f9ed3d36",
+   "ko": "「그 괴이는 현세를, 자신이 마음속에 그리는\n　『"
+  },
+  {
+   "id": "da0405:R00019",
+   "source_sha256": "3e7ca97dd222dfece75cc1b0e619438b0296dd7b6db45fe8ff3627464f181e69",
+   "ko": "세계",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0405:T00158",
+   "source_sha256": "846c39b0bcb51f41f7a9b92e4d3452d15b86f3e1cd153f8d3d2ba8ef55219731",
+   "ko": "이야기"
+  },
+  {
+   "id": "da0405:T00159",
+   "source_sha256": "81257dcae2e2c42c7cbc756f85afc6d13e32ead06d00e5e486b2c9c7673c7ead",
+   "ko": "』로 덧칠하려 하고 있다」"
+  },
+  {
+   "id": "da0405:T00160",
+   "source_sha256": "8fb9936f3c0dce679a11db5626540c3b371a4ea2dd685658da28c521bf6c5e4b",
+   "ko": "술의 형태가 해제된다."
+  },
+  {
+   "id": "da0405:T00161",
+   "source_sha256": "f111166cf2a3b5c022d90aae7c9a218541a8d8a75f6bf0045b6af30b43e0631f",
+   "ko": "하지만 루리의 차림새는 평소와 다르다."
+  },
+  {
+   "id": "da0405:T00162",
+   "source_sha256": "5e696371811a8b8b23f1ad51499421321769220ff056b541b3869086e60b94f7",
+   "ko": "「……"
+  },
+  {
+   "id": "da0405:R00020",
+   "source_sha256": "3e7ca97dd222dfece75cc1b0e619438b0296dd7b6db45fe8ff3627464f181e69",
+   "ko": "세계",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0405:T00163",
+   "source_sha256": "846c39b0bcb51f41f7a9b92e4d3452d15b86f3e1cd153f8d3d2ba8ef55219731",
+   "ko": "이야기"
+  },
+  {
+   "id": "da0405:T00164",
+   "source_sha256": "062a345406a788f4f1ba0555be713fcc7477ace21a879f5ad79be71013968c4f",
+   "ko": "?」"
+  },
+  {
+   "id": "da0405:T00165",
+   "source_sha256": "82ffb389ee2e903f202173a79128756874329bedf23c28d9b27ccd82116efd57",
+   "ko": "「막아야만 한다.\n　그 아이――알 아지프를 위해서도」"
+  },
+  {
+   "id": "da0405:T00166",
+   "source_sha256": "954f7d12542da936c48b2cd0a90abde0f888e43065dea82a07c8745e874e982d",
+   "ko": "손에 쥔 『알 아지프』를 덮었다."
+  },
+  {
+   "id": "da0405:T00167",
+   "source_sha256": "4f64fb00b200ea202c4fb181a64868bd5178658321d31ba2459604f11b15ead0",
+   "ko": "루리에게 등을 돌리고 걷기 시작한다."
+  },
+  {
+   "id": "da0405:T00168",
+   "source_sha256": "c837add45410ca25cdf5d1735afc504037b19da2b6a2c5276cec128054ceafb4",
+   "ko": "「기다려 주세요!」"
+  },
+  {
+   "id": "da0405:T00169",
+   "source_sha256": "c80c33808cbcd98703551bf60df5f4dc1978968a23b0a3b817bbc5b23ab5de7d",
+   "ko": "「이제 괜찮다.\n　왜냐하면 너는――」"
+  },
+  {
+   "id": "da0405:T00170",
+   "source_sha256": "9202f5f123fb757781b68757a0ccf20ab7032c45f63b3b0faab88d03cb3d5d31",
+   "ko": "「자신이 해야 할 일을\n　되찾았으니까」"
+  },
+  {
+   "id": "da0405:T00171",
+   "source_sha256": "b1688c1a43017c363fc9357faadfed4ebce5d2b4e7fc16d80b8b6e659c1bd4dd",
+   "ko": "「……!」"
+  },
+  {
+   "id": "da0405:T00172",
+   "source_sha256": "88ef936b5fbfa1bfd50865c80e3cc8f95afc76741ad206b0758701c5c6e2c2f4",
+   "ko": "한 번도 뒤돌아보지 않고 남자는 떠나갔다."
+  },
+  {
+   "id": "da0405:T00173",
+   "source_sha256": "b16d66c72d6f5d2261f23e0b9c97aa210e8224958c4873dc2fe79183fa90fb11",
+   "ko": "홀에는 단 한 사람, 루리만이 남겨진다."
+  },
+  {
+   "id": "da0405:T00174",
+   "source_sha256": "db533f26048021880f78b0fd07437366d88f3218c72794b0e3d59605cff3332d",
+   "ko": "「……해야 할 일」"
+  },
+  {
+   "id": "da0405:T00175",
+   "source_sha256": "41d052dba03f82d90ad1b38fae969e87ea96b22ea803e21f9e235453c5c85868",
+   "ko": "――사령복 차림의 루리만이."
+  },
+  {
+   "id": "da0405:T00176",
+   "source_sha256": "343c446c64f9f136b0afa019d02d89fb619576c166ae6c065ef16e61dcd2fb0c",
+   "ko": "「네…… 알고 있어요」"
+  },
+  {
+   "id": "da0405:T00177",
+   "source_sha256": "b105119c3b4bbafec8009e0873edafb0126c7cb60076e6d6b962d7218a7a965c",
+   "ko": "머리 위를 우러러본다."
+  },
+  {
+   "id": "da0405:T00178",
+   "source_sha256": "33f921ef01936ae5833584c32f2f172d90031585213fd1322a59b708497fcb7d",
+   "ko": "생명이 깃들지 않은, 무기물의 "
+  },
+  {
+   "id": "da0405:R00021",
+   "source_sha256": "2869fa462d98ce2cbbd71d7719e0d90a2c6d1b599125c7a79e6a6132252ad531",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0405:T00179",
+   "source_sha256": "fa94d1862f3ed701f053040f43bd30ac78fedb06807833a3971f729a5545b6c5",
+   "ko": "눈동자"
+  },
+  {
+   "id": "da0405:T00180",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  },
+  {
+   "id": "da0405:R00022",
+   "source_sha256": "88301101c0df921085516f57cea6e83553eddd7c46839d775d1a141977bf0586",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0405:T00181",
+   "source_sha256": "d94ededfdd015613317a5e2d858e7ed49acf3314d52c7f77ae219458fd34ae25",
+   "ko": "강철"
+  },
+  {
+   "id": "da0405:T00182",
+   "source_sha256": "18485b3e35f5438d2b6336fc033b3fa7879663435a578b111e1af2083505a953",
+   "ko": "의 괴물이 내려다보고 있다.\n\n　그렇다. 그는 괴물이다."
+  },
+  {
+   "id": "da0405:T00183",
+   "source_sha256": "19ee823f424d92f0c9ef8f16f592aad10caeca101e25cdc8b60843514a37bbb1",
+   "ko": "과학과 마술, 기계와 주술 도구, 사람과 마를 조합한 "
+  },
+  {
+   "id": "da0405:R00023",
+   "source_sha256": "0fd7c16a6af4292887ffe052f8bb136f3a9e88bb18cd1c639e185ae99168c656",
+   "ko": "메이드 인 프랑켄슈타인",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0405:T00184",
+   "source_sha256": "01e3bfeb76ee261cfd59e891ad59685341fc8191f32595790a9ff081510ed91a",
+   "ko": "짜깁기된 거인"
+  },
+  {
+   "id": "da0405:T00185",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  },
+  {
+   "id": "da0405:T00186",
+   "source_sha256": "707006dacc0b39b35481d5c19c9d428bacfab385240a8a31f437884660c3a08c",
+   "ko": "이 세상의 온갖 사악을 멸하기 위해 태어난, 괴물이\n두려워하는 괴물이다."
+  },
+  {
+   "id": "da0405:T00187",
+   "source_sha256": "12d4b3435800d2063b9ae2bd4909e36825c96f8372298b957caf2663edd81246",
+   "ko": "「저희에게는 힘이 있어요.\n　싸울 힘이 있어요. 그렇지요?」"
+  },
+  {
+   "id": "da0405:T00188",
+   "source_sha256": "3063612274c3acc1946c6e4023d479eb5c0ddb3f051bad93997139a068d6212e",
+   "ko": "그녀는 알고 있다."
+  },
+  {
+   "id": "da0405:T00189",
+   "source_sha256": "0c9085b4136315e07582047a569ed93c2679f4df935dc31643e9fb8689a51304",
+   "ko": "괴물의 이름을."
+  },
+  {
+   "id": "da0405:T00190",
+   "source_sha256": "64193b0f60197ea6c38ef37642d2764f30fdd61dd0df3923dadd581d0030937f",
+   "ko": "그는 새기고 있다."
+  },
+  {
+   "id": "da0405:T00191",
+   "source_sha256": "b6407fd1789acba6e18df19f224ed1d7c4b56856ccb7987e9bf810c437966ab8",
+   "ko": "자신의 이름의 의미를.\n\n　괴물이여."
+  },
+  {
+   "id": "da0405:T00192",
+   "source_sha256": "5aa5617979753290f3892390d7945855ff5b5570ee5ea9225a37a2cb2b880192",
+   "ko": "그대는, 증오에 타오르는 하늘에서 태어나 떨어진 눈물."
+  },
+  {
+   "id": "da0405:T00193",
+   "source_sha256": "288bd756fec360495e028d4984439d912696c89f12c4c5899373668c7b82a2f1",
+   "ko": "그대는, 흘려진 피를 핥는 불꽃에 깃든 올바른 분노."
+  },
+  {
+   "id": "da0405:T00194",
+   "source_sha256": "895d63b4a9ad648ebcdf0f9c97119c22762e78d7deee4e1743112f3c51dc4c69",
+   "ko": "그대는, 무구한 칼날.\n\n　그대의 이름은――"
+  },
+  {
+   "id": "da0405:T00195",
+   "source_sha256": "4c67965555016791694c6b94b4bd2ea8aaff24fd3302aa69dd01c29d684fbf56",
+   "ko": "「데몬베인!」"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0405:U00071",
+   "kind": "glossary_candidate",
+   "note": "화자 アズラッド(아즈랏드) pending 항목 등장."
+  },
+  {
+   "id": "da0405:R00017",
+   "kind": "ruby_decision",
+   "note": "解け의 독음 안내(ほど)로 한국어 '풀어지고'와 중복되어 생략."
+  },
+  {
+   "id": "da0405:R00018",
+   "kind": "ruby_decision",
+   "note": "現世의 훈독 안내(うつしよ)로 한국어 '현세'와 중복되어 생략."
+  },
+  {
+   "id": "da0405:R00021",
+   "kind": "ruby_decision",
+   "note": "眸의 독음 안내(ひとみ)로 한국어 '눈동자'와 중복되어 생략."
+  },
+  {
+   "id": "da0405:R00022",
+   "kind": "ruby_decision",
+   "note": "鋼鉄의 훈독 안내(はがね)로 한국어 '강철'과 중복되어 생략."
+  }
+ ]
+}

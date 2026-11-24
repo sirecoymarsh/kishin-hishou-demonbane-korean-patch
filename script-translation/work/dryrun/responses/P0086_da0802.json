@@ -1,0 +1,162 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0086_da0802",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0802:T00213",
+   "source_sha256": "38e002936e408f4c6b8a70b714da41c3da2fe0662bf4beb787b14dd5e4d3008e",
+   "ko": "한층 더 강력한 뇌격이 D 투 소드를 덮친다."
+  },
+  {
+   "id": "da0802:T00214",
+   "source_sha256": "61ea98eacff7c3e0b8d11839c78a83a6c00f4355d92281c8ed52282ae73d1f61",
+   "ko": "터진다, 터진다, 터진다."
+  },
+  {
+   "id": "da0802:T00215",
+   "source_sha256": "37037a50ffec0f43b6eb566f6d2390ed81a152153e8cb07590979b00eb4011b7",
+   "ko": "간신히 살아남아 있던 마술회로가 차례차례 사멸하더니, 마침내\n침묵했다.\n\n　어둠에 휩싸인 콕핏."
+  },
+  {
+   "id": "da0802:T00216",
+   "source_sha256": "f9d137c6aa00d3f607a5b0c3c9464f7e55d31d49f996accbd8ffaa299b3dc2d3",
+   "ko": "자신도 뇌격을 맞고, 쿠자쿠는 피를 토하며 고통에 신음한다."
+  },
+  {
+   "id": "da0802:T00217",
+   "source_sha256": "3deb02743791c6b54c12c3c0092989508d0c76579e4a8ca9503211c747bada9b",
+   "ko": "「빌어…… 먹을……!」"
+  },
+  {
+   "id": "da0802:T00218",
+   "source_sha256": "bb5bc66240e71a80d4b1594ade5698292ae2c6f66250ad62585e0ced68c6e8dc",
+   "ko": "「……끝이다」"
+  },
+  {
+   "id": "da0802:T00219",
+   "source_sha256": "bde8c5e45c8554a92094f73eabf11b0830a46c421cfd3ad19495cbd91f6099da",
+   "ko": "「――――――!」"
+  },
+  {
+   "id": "da0802:T00220",
+   "source_sha256": "a31bf855398dc383490e5d2fbb220dfcd6cf4efab16acd1a5a2e67fd38822487",
+   "ko": "머리 위에 떠오르는 십자가의 검."
+  },
+  {
+   "id": "da0802:T00221",
+   "source_sha256": "3c64df90b34d1cfdd632f574aa3d28759e0d9145e6b2cbdc1afc1f4ba52b76d7",
+   "ko": "그것은 똑바로 D 투 소드를 꿰뚫고, 검에 깃든 마력은 해방되어 작렬하며――"
+  },
+  {
+   "id": "da0802:T00222",
+   "source_sha256": "0955e32bfca14cb7bbd97680e6eb624d0af5b38d7c4684e3d9267c95520a36f8",
+   "ko": "심장의 방에는 진홍의 귀계신만이 남겨졌다."
+  },
+  {
+   "id": "da0802:T00223",
+   "source_sha256": "0842769230a2737dfc8d6ce8f5fd94513f5620c629d3696d37c0bfeffedeec37",
+   "ko": "D 투 소드의 모습은 없다."
+  },
+  {
+   "id": "da0802:T00224",
+   "source_sha256": "3da111b1f1b27f4a856e40e822bd4d202119b78cd9308a56deb4ee1949346801",
+   "ko": "모든 것은 붉고 "
+  },
+  {
+   "id": "da0802:R00046",
+   "source_sha256": "9e01e7b843be92a9d32129c0661107e163b54042ac97ad03fcafa75e40d331b6",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0802:T00225",
+   "source_sha256": "389bbac1b256d36df12ea23e0ea5db3f3b5a4242c671c915091732e62596b8b4",
+   "ko": "어두"
+  },
+  {
+   "id": "da0802:T00226",
+   "source_sha256": "d0939fb618cff298637693a8f2d4dad35e5680b14bcb767f69f625cfe25999bc",
+   "ko": "운 바다 밑바닥으로 삼켜져 갔다."
+  },
+  {
+   "id": "da0802:T00227",
+   "source_sha256": "2baf24dad27cd505f228f78be17438911ff7046fb177150fad6d3327944d0743",
+   "ko": "「……시시하군…… 실로 시시해」"
+  },
+  {
+   "id": "da0802:T00228",
+   "source_sha256": "fc966c2790cd11ed055e6e2f52b29e05dfa8d3c89ce9d2b9d199967ea6051544",
+   "ko": "「이런 "
+  },
+  {
+   "id": "da0802:R00047",
+   "source_sha256": "fe65050b6cf95368d85f30fd366c092a15824886d51defd754887d1e968f7491",
+   "ko": "・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0802:T00229",
+   "source_sha256": "0b4721c99c159eb2f90561ad8c73a0accbd2154369a7e3aaeb1f8bb2059f34da",
+   "ko": "모조품"
+  },
+  {
+   "id": "da0802:T00230",
+   "source_sha256": "c4b7741f8271f7b6aad923069e1315280694a47bb0d2457a0da27a085d4fbd03",
+   "ko": "으로는,\n　나의 기아는 치유되지 않는다……」"
+  },
+  {
+   "id": "da0802:T00231",
+   "source_sha256": "96a3c5f757b22aa6f25b3d9698814da723f82d838553365d2efa446309d1f3bf",
+   "ko": "금빛 눈동자가 먼 어딘가를 "
+  },
+  {
+   "id": "da0802:R00048",
+   "source_sha256": "bfb06973c3079797abc1c5e2084204ac09b2ba55a3f49b04e0fedfb1d15dc928",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0802:T00232",
+   "source_sha256": "b9feb8ef02dae71b472a4be1c7f28a163dc8b5c5bf1c9b66442b5008245e8a35",
+   "ko": "가만"
+  },
+  {
+   "id": "da0802:T00233",
+   "source_sha256": "de060668694ffeed08df70b0b6f03a668c2c6fdf3dbbc1f8f5db813d07a18e2d",
+   "ko": "히 응시하고 있다."
+  },
+  {
+   "id": "da0802:T00234",
+   "source_sha256": "e8552e3ad777f38390d02690c8d1136fa515bdae4d98c0f1472289f21942b8f9",
+   "ko": "일체의 빛을 비추지 않는 금빛 어둠――그 깊은 곳에 깃든 것은 증오인가,\n연모인가.\n\n　아마도 그 둘 다이며, 둘 다 아니다."
+  },
+  {
+   "id": "da0802:T00235",
+   "source_sha256": "0d3a5aba3a930301f8b2eaa8acc46799dbc457fb333d2eb9faf7434c1d6fa4a3",
+   "ko": "「오라…… 다이쥬지 쿠로……\n　알 아지프…… 데몬베인!」"
+  },
+  {
+   "id": "da0802:T00236",
+   "source_sha256": "d1ed1e3ab6b9bd667f1228c6d73fac133bb39838b7c90ea07d6ad4f717bdf3a4",
+   "ko": "「네놈들만이――\n　삼위일체의 검만이, 짐을……」"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0802:T00216",
+   "kind": "glossary_candidate",
+   "note": "Used provisional glossary target 쿠자쿠 for 九朔."
+  },
+  {
+   "id": "da0802:R00046",
+   "kind": "ruby_decision",
+   "note": "Omitted kun'yomi reading くら for 冥."
+  },
+  {
+   "id": "da0802:R00048",
+   "kind": "ruby_decision",
+   "note": "Omitted kun'yomi reading じ for 凝."
+  }
+ ]
+}

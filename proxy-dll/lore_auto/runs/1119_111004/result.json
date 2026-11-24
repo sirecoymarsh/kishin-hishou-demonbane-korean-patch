@@ -1,0 +1,139 @@
+{
+ "game": "Y:\\AI\\claude-work\\khd-release-1118\\zipcheck\\A",
+ "want": 2,
+ "catalog": [
+  {
+   "index": 0,
+   "id": "demonbane-novel-4",
+   "title": "참마대성 데몬베인 · 무구한 칼날",
+   "available": false,
+   "url": "…/novel-4.epub"
+  },
+  {
+   "index": 1,
+   "id": "demonbane-novel-5",
+   "title": "참마대성 데몬베인 · 마를 베는 검",
+   "available": false,
+   "url": "…/novel-5.epub"
+  },
+  {
+   "index": 2,
+   "id": "demonbane-novel-6",
+   "title": "참마대성 데몬베인 · 내일로 향하는 날개",
+   "available": false,
+   "url": "…/novel-6.epub"
+  },
+  {
+   "index": 3,
+   "id": "demonbane-novel-1",
+   "title": "참마대성 데몬베인 · 기신태동",
+   "available": false,
+   "url": "…/novel-1.epub"
+  },
+  {
+   "index": 4,
+   "id": "demonbane-novel-2",
+   "title": "참마대성 데몬베인 · 군신강습",
+   "available": false,
+   "url": "…/novel-2.epub"
+  },
+  {
+   "index": 5,
+   "id": "demonbane-novel-3",
+   "title": "참마대성 데몬베인 · 드 마리니의 시계",
+   "available": false,
+   "url": "…/novel-3.epub"
+  },
+  {
+   "index": 6,
+   "id": "codex-magicians",
+   "title": "기신비상 사전 — 마술사와 마도서",
+   "available": true,
+   "url": "…/codex-magicians.epub"
+  },
+  {
+   "index": 7,
+   "id": "codex-machines",
+   "title": "기신비상 사전 — 데우스 마키나",
+   "available": true,
+   "url": "…/codex-machines.epub"
+  }
+ ],
+ "shelf": [
+  {
+   "volume": "01",
+   "title": "기신비상 사전 · 마술사와 마도서",
+   "art": true,
+   "cover": "https://library.demonbane.test/covers/co"
+  },
+  {
+   "volume": "02",
+   "title": "기신비상 사전 · 데우스 마키나",
+   "art": true,
+   "cover": "https://library.demonbane.test/covers/co"
+  }
+ ],
+ "count": "2권",
+ "import_button": {
+  "visible": true,
+  "text": "책 들여오기",
+  "folder_button_visible": false
+ },
+ "import1_dialog": "서고에 들여올 EPUB 파일 선택 (여러 개 가능)",
+ "import1_dialog_closed": true,
+ "import1_shelf": [
+  "01 기신비상 사전 · 마술사와 마도서 [표지]",
+  "02 기신비상 사전 · 데우스 마키나 [표지]",
+  "03 시험용 자료집 · 표지 자동 [표지]",
+  "04 시험용 자료집 2 · 들여오기 [표지]"
+ ],
+ "import1_notice": "책 2권을 서고에 들여왔습니다.",
+ "import1_files": [
+  "시험 책 1.epub",
+  "시험 책 2.epub"
+ ],
+ "import2_dialog": "서고에 들여올 EPUB 파일 선택 (여러 개 가능)",
+ "import2_dialog_closed": true,
+ "import2_shelf": [
+  "01 기신비상 사전 · 마술사와 마도서 [표지]",
+  "02 기신비상 사전 · 데우스 마키나 [표지]",
+  "03 시험용 자료집 · 표지 자동 [표지]",
+  "04 시험용 자료집 2 · 들여오기 [표지]"
+ ],
+ "import2_notice": "고른 책은 이미 서고에 있습니다.",
+ "import2_files": [
+  "시험 책 1.epub",
+  "시험 책 2.epub"
+ ],
+ "exited": true,
+ "moved_windows": [
+  [
+   "#32770",
+   2896,
+   26
+  ],
+  [
+   "#32770",
+   2896,
+   0
+  ]
+ ],
+ "native_log": [
+  "11531218 pid=33436 tid=54508 shelf: 8 books, 0 found only in the books folder",
+  "11531453 pid=33436 tid=54508 shelf: 8 books, 0 found only in the books folder",
+  "11538375 pid=33436 tid=54508 shelf: 10 books, 2 found only in the books folder",
+  "11539265 pid=33436 tid=54508 shelf: 10 books, 2 found only in the books folder",
+  "11545328 pid=33436 tid=54508 shelf: 10 books, 2 found only in the books folder",
+  "11545437 pid=33436 tid=54508 shelf: 10 books, 2 found only in the books folder"
+ ],
+ "ok": true,
+ "log": [
+  "11:10:05 put in Y:\\AI\\claude-work\\khd-release-1118\\zipcheck\\A: KHDLore.dll, ko-library/library.js, ko-library/index.html",
+  "11:10:06 game window 0x11212 pid 33436",
+  "11:10:44 no settings dialog after PRESS START",
+  "11:10:50 LORE open: True",
+  "11:10:52 library page: https://library.demonbane.test/index.html",
+  "11:11:08 LORE closed",
+  "11:11:10 autobattle.ini restored"
+ ]
+}

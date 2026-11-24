@@ -1,0 +1,528 @@
+{
+  "schema": "khd-gemini-response-v1",
+  "packet_id": "P0063_da0601",
+  "model_id": "Gemini 3.8 Flash (High)",
+  "records": [
+    {
+      "id": "da0601:T00149",
+      "source_sha256": "d3961b2ed4f6d4e85469d194757de72da1d461f961403191a177168f48f9f526",
+      "ko": "공간에 크게 금이 간다."
+    },
+    {
+      "id": "da0601:T00150",
+      "source_sha256": "7f0c0b129415cdda8e33c63993b55d6b636d3ecb8cb6aa86ed81575344bff7ba",
+      "ko": "그와 함께 공간의 『건너편』에서 뿜어져 나오는 지독한 악취."
+    },
+    {
+      "id": "da0601:T00151",
+      "source_sha256": "f6d5bb4a8f3b7eb9b4a979863ccce57eb5a41061e9c4e511cbaecd139c0627a7",
+      "ko": "「웨이틀리!」\n\n　저 녀석!"
+    },
+    {
+      "id": "da0601:T00152",
+      "source_sha256": "e508bdf209e1ef28b9bfb89824e909216e442a5b8742317f8a56a4d4958a3ac2",
+      "ko": "촉수뿐만 아니라, 완전히 『이쪽』으로 나타날 셈인가!"
+    },
+    {
+      "id": "da0601:T00153",
+      "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+      "ko": "「"
+    },
+    {
+      "id": "da0601:R00025",
+      "source_sha256": "8b4bb22cdcfec81ffdbc10d27ecddbab4261e70c83ce5a8f7520efaffb29ade1",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da0601:T00154",
+      "source_sha256": "ab5b1025a18612c4227bf3755a9c6fbb749bd35fc1965d29a736cf287f7a5bc6",
+      "ko": "허락"
+    },
+    {
+      "id": "da0601:T00155",
+      "source_sha256": "d14cad3c25811023668bc3e96c98e93190abe46ec41d17e8e3ae95007748e9ed",
+      "ko": "하겠어!　"
+    },
+    {
+      "id": "da0601:R00026",
+      "source_sha256": "c15e66756f836acc97fe1b71a7a71550b17a744dcccf5855958e2e0d79a9b5a8",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da0601:T00156",
+      "source_sha256": "50f22841ada94795bf47269cafebc2beb803a3eae2046bb928452679b3c5a194",
+      "ko": "침범"
+    },
+    {
+      "id": "da0601:T00157",
+      "source_sha256": "ccc9427d1b7c4c3af59ad7c7b0510b471ad88e395d98010fde3dfeb628807208",
+      "ko": "하렴!」"
+    },
+    {
+      "id": "da0601:T00158",
+      "source_sha256": "0b1d0841a3bbc66ae646c8ae1da0c74eb1e930ea9facbe62112277d469771c37",
+      "ko": "산산이 부서지는 공간의 단말마와 함께, 놈은 마침내 온몸을 드러냈다.\n\n　놈은 알과도 같고, 문어와도 같으며, 지네와도 같고,\n거미와도 같았다.\n\n　그러한 인상들이 모독적일 정도로 왜곡되어, 뒤섞이고 융합되어 발광하고\n있었다.\n\n　그것은 명백히 정상적인 우주에는 존재하지 않는, 존재하는 것조차\n용납되지 않는, 현실의 악랄한 패러디."
+    },
+    {
+      "id": "da0601:T00159",
+      "source_sha256": "42788b6f5d02e4c30c65edd6beb37e35933e55cf6c914afff0b78a8ea430e82f",
+      "ko": "「이 정도일 줄은……!」"
+    },
+    {
+      "id": "da0601:T00160",
+      "source_sha256": "df5c4e598dbeeca1f1e53c44e71bd7f048b2c42b133da653ed841f27a936b8ae",
+      "ko": "더니치의 괴이."
+    },
+    {
+      "id": "da0601:T00161",
+      "source_sha256": "2246a0cb84c29064f02a292405bb85de3bbc6a803b7212b0e0ceb63252fb3eed",
+      "ko": "윌버 웨이틀리의 더없이 사악한 형제."
+    },
+    {
+      "id": "da0601:T00162",
+      "source_sha256": "f9cb6808e4eb7852e52cf228aad1204856a3d79c1408879095d8e8c098520693",
+      "ko": "쌍둥이 한쪽.\n\n　마스터 테리온과 같은――바깥의 신 요그 소토스의 아들이다."
+    },
+    {
+      "id": "da0601:T00163",
+      "source_sha256": "b4914792c3c15843cacc351ca9435f1360b9b4a101a9ba96edb5c7b44da963c2",
+      "ko": "「이 몸이 아는 "
+    },
+    {
+      "id": "da0601:R00027",
+      "source_sha256": "b3240903b6495213199662445c04d0df4b438f83cc1cb21bb961409692e6371a",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da0601:T00164",
+      "source_sha256": "1df0f52452060e9b83b9cf41cb502beda2e3e5ab2264599c6f6ed417f3fcfe7e",
+      "ko": "저놈"
+    },
+    {
+      "id": "da0601:T00165",
+      "source_sha256": "ea94289ff65de84851bbb96fbd5e41eb7376587fde20bf1b7ecac0ab6b11ce95",
+      "ko": "보다,\n　한층 불길해졌구나……!」"
+    },
+    {
+      "id": "da0601:T00166",
+      "source_sha256": "5759b620e04680877779b53bd8a0541f83b70c80aacf1394f40297d8a8d4fbf3",
+      "ko": "귀계신에 필적할 정도의 거구."
+    },
+    {
+      "id": "da0601:T00167",
+      "source_sha256": "df8a03d23c67ea10e7b24180e107c3a33bdfd0f2d518a3114d17d5941659a3cc",
+      "ko": "그 거대한 몸에 극점까지 가득 찬 마력과 악의.\n　독기와 광기."
+    },
+    {
+      "id": "da0601:T00168",
+      "source_sha256": "bc5fad962f860539d71b03b85c3deb2cbfc8ced859ade8a9846b56e4bd603774",
+      "ko": "……심상치 않다."
+    },
+    {
+      "id": "da0601:T00169",
+      "source_sha256": "bcfc110e16ea5b7332f1ab7d1ce3e46a81810fec72398015d61809f07b081258",
+      "ko": "「상황이 엎치락뒤치락하는군, 젠장」"
+    },
+    {
+      "id": "da0601:T00170",
+      "source_sha256": "0e2251b2632bf326eeef78cc5bdb873184bffea9b7f780dc35a4f3573df96d7c",
+      "ko": "「큭……!」"
+    },
+    {
+      "id": "da0601:T00171",
+      "source_sha256": "cb17525a27ea0b4aba4c5b31cd275ab5d9739bd69dfddcefd851dc725edb939b",
+      "ko": "습격에 대비해, 우리는 자세를 가다듬는다."
+    },
+    {
+      "id": "da0601:T00172",
+      "source_sha256": "49c962050e97aa7a6e09738273a146aef275e0d3bd44b780815980cc095d1a67",
+      "ko": "하지만――"
+    },
+    {
+      "id": "da0601:T00173",
+      "source_sha256": "f029192b612a11d0a794ce0a5eb26809d6eeda59c248b86af9d5cefef297db74",
+      "ko": "「이 아이를 상대로,\n　맨몸으로 맞설 생각이야?」"
+    },
+    {
+      "id": "da0601:R00028",
+      "source_sha256": "f58c026c179665797b00157bf4ac8d76bb0bc4ae666609165f837f7ff7226785",
+      "ko": "어나더 블러드",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da0601:T00174",
+      "source_sha256": "7c58b8241c16b415a8072b80c769be7397b9e7bca3dd1eb3bf0637c01669faf8",
+      "ko": "혈액언어판"
+    },
+    {
+      "id": "da0601:T00175",
+      "source_sha256": "41c027315ca606063d231681b654b2527d0d2c3744975c401bf79c5e6ea4b86a",
+      "ko": "의 말대로다."
+    },
+    {
+      "id": "da0601:T00176",
+      "source_sha256": "c78b8b11b38cdc081d32661c17c4222e13e7c4d296da0577764be3a2f3eb64e5",
+      "ko": "이만한 괴물을 쓰러뜨리려면 귀계신 급의 전력이 필요할 것이다.\n\n　하지만 슈루즈베리 "
+    },
+    {
+      "id": "da0601:R00029",
+      "source_sha256": "8abe22c91f0939b6aab3db77f86d607dd7063710622f9cd851250b3a7e367dbc",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da0601:T00177",
+      "source_sha256": "cd98e43da31bb1b90dc152851c85c7d266d47ba97bc5ff7bd137c5920429d467",
+      "ko": "선생"
+    },
+    {
+      "id": "da0601:T00178",
+      "source_sha256": "064842eede80e9500e1c89939cf90aafa29aed58c00b0d8fe33dac65e86acf66",
+      "ko": "의 기체도, 쿠자쿠가 탄 데몬베인도,\n검붉은 타르의 바다에 집어삼켜진 채 전혀 모습을 드러내지 않는다."
+    },
+    {
+      "id": "da0601:T00179",
+      "source_sha256": "a5055861c370659d89c0c645a1964d417b2a2f0dba0cd40b162916e5da24fe5d",
+      "ko": "……두 사람은 무사한 걸까?"
+    },
+    {
+      "id": "da0601:T00180",
+      "source_sha256": "e681357772f00effd0f129b41112e60d6293608b26d9d27820cf708d9087cae5",
+      "ko": "「칫……」"
+    },
+    {
+      "id": "da0601:T00181",
+      "source_sha256": "2fed922ee5085232ef141130b6351bc5ce04145ac5b0cb73ade595c0124f1b6b",
+      "ko": "「아니면 또 새로운"
+    },
+    {
+      "id": "da0601:R00030",
+      "source_sha256": "8b53bf6f987a8b5ba39ff7d74c6daac8b9901799c04ebcbb46eb16c9f0fc4262",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da0601:T00182",
+      "source_sha256": "b87f32284ef5bd65871dae8f15ed9d79945126d50c3517dff67f24e8acecb055",
+      "ko": "볼거리"
+    },
+    {
+      "id": "da0601:T00183",
+      "source_sha256": "bcb46a2c603d3df394033342cb38cd53cfaac3bf11e381957db672d131ba97ed",
+      "ko": "를 보여 주려는 걸까?」"
+    },
+    {
+      "id": "da0601:T00184",
+      "source_sha256": "e8e186ffa5f97f1d06c8242101e302cd0f935e0d31bfdbd3ed683131aa77d3b8",
+      "ko": "「자, 아이온 다음은 뭐지!?\n　어머님!」"
+    },
+    {
+      "id": "da0601:R00031",
+      "source_sha256": "f58c026c179665797b00157bf4ac8d76bb0bc4ae666609165f837f7ff7226785",
+      "ko": "어나더 블러드",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da0601:T00185",
+      "source_sha256": "7c58b8241c16b415a8072b80c769be7397b9e7bca3dd1eb3bf0637c01669faf8",
+      "ko": "혈액언어판"
+    },
+    {
+      "id": "da0601:T00186",
+      "source_sha256": "157c6c7571c804dfd80e2cbd425e91a1650c9d47a6811d598a21c4eb3f9049fd",
+      "ko": "의 노호와 함께, 웨이틀리가 촉완을 휘두른다."
+    },
+    {
+      "id": "da0601:T00187",
+      "source_sha256": "757303deec262299a85dce0b553467c0635ed492a2aa56faee7a530525f5ae9f",
+      "ko": "거리가 휩쓸리고 빌딩이 날아갔다.\n\n　거리를 뒤흔드는 일격에서 피하며, 우리는 각오를 다진다."
+    },
+    {
+      "id": "da0601:T00188",
+      "source_sha256": "77c71f2ba60f947ad5152962c75c6b5bacd22c3f59af099b5859ca4403219f3e",
+      "ko": "「……할 수밖에 없나!」"
+    },
+    {
+      "id": "da0601:T00189",
+      "source_sha256": "31f3d8f3d00f57fe3fe8e1c48d58f0a3f4ee6f687987abdee5a9b879f2951de3",
+      "ko": "「아아…… 으극!」"
+    },
+    {
+      "id": "da0601:T00190",
+      "source_sha256": "2e1b1f7c2ccb9704215944c33e2239c0673588a875218b05c6aa64a48edb390e",
+      "ko": "이 와중에도 마기우스 스타일은 금방이라도 풀릴 것만 같다."
+    },
+    {
+      "id": "da0601:T00191",
+      "source_sha256": "2007d2368678fd88bf7a6bcb65e4f40bab949dcfc8ae1675adad14f772ecf191",
+      "ko": "시간 싸움이다."
+    },
+    {
+      "id": "da0601:T00192",
+      "source_sha256": "634bbad05ad41b8d9dce6d353f8d81124fa508349d5f2170fa73bfc47a0c4bbd",
+      "ko": "그때까지 어떻게든 놈을――!"
+    },
+    {
+      "id": "da0601:T00193",
+      "source_sha256": "784eb45801f13a4078be94226a4713ecc06987ccd1aa76463349e7d23b710906",
+      "ko": "「네 검을 "
+    },
+    {
+      "id": "da0601:R00032",
+      "source_sha256": "7a0a3e30c7c42e14524f50d3681c4cbd6faf5d9e97cb31b8f2e02476bfdfb2b1",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da0601:T00194",
+      "source_sha256": "3c9d3cace4efaa5315e548c863b5134f011caea3824141e2427f23673ed76aaa",
+      "ko": "불러"
+    },
+    {
+      "id": "da0601:T00195",
+      "source_sha256": "d95b11ac0dbb28fabe770833ef6881ad9b07c9149962a04fd5e6d0721e30541c",
+      "ko": "내라!"
+    },
+    {
+      "id": "da0601:R00033",
+      "source_sha256": "e533081aa171fce47c1b7e7265e0f9503a9802e4ae1093331fb742265966d34a",
+      "ko": "마스터 오브 네크로노미콘",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da0601:T00196",
+      "source_sha256": "b552dfbadf554308b98a24c462f3c1d086bf8ab09671a897b316cb874a78d56a",
+      "ko": "『사령비법』의 주인"
+    },
+    {
+      "id": "da0601:T00197",
+      "source_sha256": "6560fad1b5299ec45c7562b1e825f123c87101dc289a1eb71426e443d34f4c8c",
+      "ko": "!」"
+    },
+    {
+      "id": "da0601:T00198",
+      "source_sha256": "d12834877b98593a20f4e2c0caacdffbf2cb26f64e62aeb150bfe6bb89abbf6a",
+      "ko": "「――――!?」\n\n　그 목소리는 리베르 레기스와 격투를 벌이는 아이온에서\n들려왔다."
+    },
+    {
+      "id": "da0601:T00199",
+      "source_sha256": "a035384fec8fb0baa3d7f5e86f669081bab2081c08a4e0933aece5b4f5b4cfad",
+      "ko": "「아즈라드?」"
+    },
+    {
+      "id": "da0601:T00200",
+      "source_sha256": "c36f7f83b69447840b46776ee99bc04731c65156443ae17b29b783b9c2121c2b",
+      "ko": "「……내 검?」"
+    },
+    {
+      "id": "da0601:T00201",
+      "source_sha256": "976007ba73259bcb13785f2c259316c81909305ab3328061de4abd6c5fb093ed",
+      "ko": "「마를 끊는 검을――"
+    },
+    {
+      "id": "da0601:R00034",
+      "source_sha256": "ad00a0b322492061745b24d0a27cfeb54340097e166853622a9781f99bd15efb",
+      "ko": "・・・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da0601:T00202",
+      "source_sha256": "faad4663917e9f697861dd8f8351f4b75876f086445f4735d2e147048b1329b2",
+      "ko": "데몬베인"
+    },
+    {
+      "id": "da0601:T00203",
+      "source_sha256": "7e045fbf6311bc1850575a450e93e56535ab5d814c9e930b201a36a1292e7175",
+      "ko": "을 말이다!」"
+    },
+    {
+      "id": "da0601:T00204",
+      "source_sha256": "0626be29c671fba7714ca83aa929245c4b065191dfe6f02cbe21f6383e051fdb",
+      "ko": "「……데몬베인을?」\n\n　데몬베인."
+    },
+    {
+      "id": "da0601:T00205",
+      "source_sha256": "16d76570300cb8c1e92848ed08c6373a61cfdbcc06695043840c90a2d10913f4",
+      "ko": "그 영겁으로 이어지는 절망 속을 함께 싸워 헤쳐 나온 기체."
+    },
+    {
+      "id": "da0601:T00206",
+      "source_sha256": "89c68889e7294d7dc684b1ef14f2cbc8bbe80b0eb9edafc700bbdb90f2307feb",
+      "ko": "우리의 검."
+    },
+    {
+      "id": "da0601:T00207",
+      "source_sha256": "49a0d2ce754f1d4d595f56469ee2a8fd75114eed17ced76778e6c2cc4be9d6bc",
+      "ko": "우리의 전우.\n\n　그렇다."
+    },
+    {
+      "id": "da0601:T00208",
+      "source_sha256": "f3b0bec974b8bc043a7ebbc04d0b1b012714e574bf34a79f7a5779a8b46c929a",
+      "ko": "데몬베인만 있다면, 우리는 지지 않는다."
+    },
+    {
+      "id": "da0601:T00209",
+      "source_sha256": "eb3f05882ca944bfcc052cee2810f186fae71c1380f3ae8b77fbfe953a5457f9",
+      "ko": "데몬베인과 함께라면, 우리는 "
+    },
+    {
+      "id": "da0601:R00035",
+      "source_sha256": "8063b1d01b8ea9a7954632ec37ef0944824245a51ec22e88594dc2055d420e6c",
+      "ko": "・・・・・・・・・・・・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da0601:T00210",
+      "source_sha256": "be12b635e85fc26a3a630fd7e4ee263168306c938b2cd9a44298875ff60658cf",
+      "ko": "신조차 부숴버릴 수 있다"
+    },
+    {
+      "id": "da0601:T00211",
+      "source_sha256": "64f0d1f26690cc8bf5177b3d028fd865b51837086fbf37f809005fe3e663adc2",
+      "ko": "!\n\n　하지만 데몬베인은 이제 없다."
+    },
+    {
+      "id": "da0601:T00212",
+      "source_sha256": "9e8f96b92f17ac340b35794060251e6e6b1e696bbd4e262974c4cf7a2ac57870",
+      "ko": "그 녀석은 모든 사명을 마치고――"
+    },
+    {
+      "id": "da0601:T00213",
+      "source_sha256": "8ce36707827687ece9032930ba79e3c46b61deac31ff77fbe69257ee2a848f34",
+      "ko": "「데몬베인의 기억은,\n　너희 안에서 살아 있다!」"
+    },
+    {
+      "id": "da0601:T00214",
+      "source_sha256": "2efa646fdff1379b445b97a1ba0f8f18a243b263b0161f837613f0638fdfe1c8",
+      "ko": "「……읏!」"
+    },
+    {
+      "id": "da0601:T00215",
+      "source_sha256": "bcf38f3f10a7089bb4bd6eea7cfebff46ad9a832e4676a792e6996d9c5698d9a",
+      "ko": "「세계가 필요로 한다면――\n　데몬베인은 반드시 응답한다!」"
+    },
+    {
+      "id": "da0601:T00216",
+      "source_sha256": "7b6b964d64f9b8959145a6e2ee1acea42f0e265fa25bd8c0bc26cae84204c07c",
+      "ko": "「저것은 "
+    },
+    {
+      "id": "da0601:R00036",
+      "source_sha256": "ad00a0b322492061745b24d0a27cfeb54340097e166853622a9781f99bd15efb",
+      "ko": "・・・・・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da0601:T00217",
+      "source_sha256": "4ba5dfa47d7eaededb014fe8edd6e205f6b40e9e3aef078c39e02689150fdcef",
+      "ko": "인간을 위한"
+    },
+    {
+      "id": "da0601:R00037",
+      "source_sha256": "73ac229cabfac277c315b4b0d1eb76959473af07f58c11d00bb82a06b250745a",
+      "ko": "데우스 마키나다",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da0601:T00218",
+      "source_sha256": "762524a979d84688362b8dc00d54c75a1be10d7917ed188fd55985924c885e49",
+      "ko": " 귀계신이다"
+    },
+    {
+      "id": "da0601:T00219",
+      "source_sha256": "a9bb5154008ed5f59e89ecabc3c4fa7cb6cc3724056d0090ac2c7e451563fd09",
+      "ko": "!」"
+    },
+    {
+      "id": "da0601:T00220",
+      "source_sha256": "aef16587241deefec3c728def2c7b0948eadfc0be062358b45b6b7325c8f9910",
+      "ko": "「――――――」"
+    },
+    {
+      "id": "da0601:T00221",
+      "source_sha256": "34063b8e143599cd106f4daa47dd4c50edf6a59959b9e7b2a95633f24f53b393",
+      "ko": "「데몬베인을 "
+    },
+    {
+      "id": "da0601:R00038",
+      "source_sha256": "7a0a3e30c7c42e14524f50d3681c4cbd6faf5d9e97cb31b8f2e02476bfdfb2b1",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da0601:T00222",
+      "source_sha256": "3c9d3cace4efaa5315e548c863b5134f011caea3824141e2427f23673ed76aaa",
+      "ko": "불러"
+    },
+    {
+      "id": "da0601:T00223",
+      "source_sha256": "e8e34107de2e159b211efc49444e8d1686ab341881bb4d9d2f3ea57797aa8cbe",
+      "ko": "내라!\n　　　――다이쥬지 쿠로!」"
+    },
+    {
+      "id": "da0601:T00224",
+      "source_sha256": "9a4e7922635c8bb739b4f8e4214b8664189d15d5a93345f9127737c85cd9007c",
+      "ko": "「데몬베인……!」"
+    }
+  ],
+  "issues": [
+    {
+      "id": "da0601:R00025",
+      "kind": "ruby_redundant",
+      "note": "赦す의 훈독 ゆる는 밑말과 완전히 중복되어 생략"
+    },
+    {
+      "id": "da0601:R00026",
+      "kind": "ruby_redundant",
+      "note": "侵し의 훈독 おか는 밑말과 완전히 중복되어 생략"
+    },
+    {
+      "id": "da0601:R00027",
+      "kind": "ruby_redundant",
+      "note": "彼奴의 훈독 きゃつ는 밑말(저놈)과 완전히 중복되어 생략"
+    },
+    {
+      "id": "da0601:R00029",
+      "kind": "ruby_redundant",
+      "note": "先生의 훈독/발음 センセ는 밑말(선생)과 완전히 중복되어 생략"
+    },
+    {
+      "id": "da0601:R00030",
+      "kind": "ruby_redundant",
+      "note": "演し物의 훈독 だ는 밑말과 완전히 중복되어 생략"
+    },
+    {
+      "id": "da0601:R00032",
+      "kind": "ruby_redundant",
+      "note": "喚べ의 훈독 よ는 밑말과 완전히 중복되어 생략"
+    },
+    {
+      "id": "da0601:R00034",
+      "kind": "ruby_emphasis",
+      "note": "한국어 글자수(데몬베인, 4글자)에 맞춰 권점 4개로 조정"
+    },
+    {
+      "id": "da0601:R00035",
+      "kind": "ruby_emphasis",
+      "note": "한국어 글자수(신조차 부숴버릴 수 있다, 13글자)에 맞춰 권점 13개 유지"
+    },
+    {
+      "id": "da0601:R00036",
+      "kind": "ruby_emphasis",
+      "note": "한국어 글자수(인간을 위한, 6글자)에 맞춰 권점 6개 유지"
+    },
+    {
+      "id": "da0601:R00037",
+      "kind": "ruby_particle_split",
+      "note": "본문 기계신(이다)과 루비 데우스 마키나(다)의 받침 차이로 서술격 조사를 두 칸에 각자 넣고 뒷칸에서 분리"
+    },
+    {
+      "id": "da0601:R00038",
+      "kind": "ruby_redundant",
+      "note": "喚べ의 훈독 よ는 밑말과 완전히 중복되어 생략"
+    }
+  ]
+}

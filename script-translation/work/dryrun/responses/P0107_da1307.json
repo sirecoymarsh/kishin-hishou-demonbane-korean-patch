@@ -1,0 +1,1866 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0107_da1307",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da1307:T00001",
+   "source_sha256": "27f1d8b73f6828e4f0f2bbcb287b44a154eda77d65a6b88ebb6e8ba3db2afe03",
+   "ko": "지평을 뒤덮은 잔해에, 흘러가 버린 시간을 떠올린다."
+  },
+  {
+   "id": "da1307:T00002",
+   "source_sha256": "b46b6db99bf9782d21552684c53860fe505930df5fcd9742514896702ed82b48",
+   "ko": "겹겹이 "
+  },
+  {
+   "id": "da1307:R00001",
+   "source_sha256": "36daf08860ec2cfc823df80c64d6b571b43a651c1227303b2940a337bc17dbdc",
+   "ko": "에코",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1307:T00003",
+   "source_sha256": "81aab7083dccfd63d162c6a75960f08945b9bab87f1530607523bbf36bbc20f8",
+   "ko": "메아리"
+  },
+  {
+   "id": "da1307:T00004",
+   "source_sha256": "67003f878dd9e2aeab86b233e48bb6424ee24c7fc6234e408286256e1b3ab0c3",
+   "ko": "치는 "
+  },
+  {
+   "id": "da1307:R00002",
+   "source_sha256": "b9a6f33686a842ff9fb09541728b956c367019de0996cbd15c4c8f9f47fb9cf8",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1307:T00005",
+   "source_sha256": "68c411b217f16b775618b986689da251c38f4b759c77c73bcbc2a911c20c51bf",
+   "ko": "목소리"
+  },
+  {
+   "id": "da1307:T00006",
+   "source_sha256": "3ac6ad5883867873561beacd90c31d186a9e5a665a770ce94860876abc7fa608",
+   "ko": "에, 하늘의 넓이를 안다.\n\n　끝없이 펼쳐진 폐허와 푸른 하늘."
+  },
+  {
+   "id": "da1307:T00007",
+   "source_sha256": "7548366011812e5393c5cf54ee0e5796e7502421ba9c09a8b748043621d83f9f",
+   "ko": "하지만 이 세계가 태어난 것은 바로 방금 전."
+  },
+  {
+   "id": "da1307:T00008",
+   "source_sha256": "1616d592bd136b2e64d4749a1f3d4062617a8c31ab6f95bc36977aef04f97cb7",
+   "ko": "실제 넓이는 고작 수백 미터다.\n\n　대지에 "
+  },
+  {
+   "id": "da1307:R00003",
+   "source_sha256": "3f177467d70e8ece7ea02c32b945a7de8fecc3201ea8011b3ad0e3990dcf2bb7",
+   "ko": "케이블을",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1307:T00009",
+   "source_sha256": "44052b5dcf758c8fc4c04270d2d4fba1bd8ac4693ff3088e9f52d642231b19f7",
+   "ko": "마술 회로를"
+  },
+  {
+   "id": "da1307:T00010",
+   "source_sha256": "17c01713438b8d3fd0393e5105c83e8854ae11b44efbd16b997235aab65ca2cf",
+   "ko": " 뿌리처럼 뻗으며 가로누운 허수전개\n　캐터펄트."
+  },
+  {
+   "id": "da1307:T00011",
+   "source_sha256": "a35b8e0326eb9a6680c030dc5ad3d9685676952a455f3da033d7bc63d868f7df",
+   "ko": "그것을 내려다보는 거대한 시계탑――『드 마리니의 시계탑』.\n\n　이것이 나에게 주어진, 작고 얄팍한 우주."
+  },
+  {
+   "id": "da1307:T00012",
+   "source_sha256": "91d0ebc983ae145dc59574b2a67188861be22540cbd0bb93b187e38c4661b6ed",
+   "ko": "게임의 스타트 지점."
+  },
+  {
+   "id": "da1307:T00013",
+   "source_sha256": "9479c9e3422e8d993968965a8d33fa815ce7c75b5895ea624342481cce392a13",
+   "ko": "진정한 마력을 발휘한 『시계탑』에 의해 온갖 시공으로 이어지는,\n　나의 본거지다."
+  },
+  {
+   "id": "da1307:T00014",
+   "source_sha256": "ca43708fadc356fd42b9a84024d05a8509de2bd5cb7976b3896929e799f722a9",
+   "ko": "어나더 블러드를, 게임 키퍼를 찾아 나는 시공을 건너다닌다."
+  },
+  {
+   "id": "da1307:T00015",
+   "source_sha256": "2416c3342c41a87c00a2a893720f478199a8fa46c68b8c0a8b0ec40c6c94cf26",
+   "ko": "그 가는 곳마다 기다리는 수많은 싸움."
+  },
+  {
+   "id": "da1307:T00016",
+   "source_sha256": "6e1484b8cf7006ebe94a021ac96292cb8a3db73cc8c3079fe9965cc1cab8aa97",
+   "ko": "게임 키퍼가 설치한 "
+  },
+  {
+   "id": "da1307:R00004",
+   "source_sha256": "fd24608330586093b66f5624f72b03e6a91ae1c1e330bc1c9368e294e4c35880",
+   "ko": "게임",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1307:T00017",
+   "source_sha256": "0501ef5e0ef6d4037fa9482db3934205760e66e58807cf79e78ae212ee0bb93b",
+   "ko": "유희"
+  },
+  {
+   "id": "da1307:T00018",
+   "source_sha256": "38630d5c12e1700059a941e0e743f5d4b2af63c66f379ec73103d9c0ae02297d",
+   "ko": "／"
+  },
+  {
+   "id": "da1307:R00005",
+   "source_sha256": "fd24608330586093b66f5624f72b03e6a91ae1c1e330bc1c9368e294e4c35880",
+   "ko": "게임",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1307:T00019",
+   "source_sha256": "6487936a6ea0f70b5cf9ce55a2aab9580a4a8d6a13fd78a5fbcac4acf1d10125",
+   "ko": "함정"
+  },
+  {
+   "id": "da1307:T00020",
+   "source_sha256": "38630d5c12e1700059a941e0e743f5d4b2af63c66f379ec73103d9c0ae02297d",
+   "ko": "／"
+  },
+  {
+   "id": "da1307:R00006",
+   "source_sha256": "fd24608330586093b66f5624f72b03e6a91ae1c1e330bc1c9368e294e4c35880",
+   "ko": "게임",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1307:T00021",
+   "source_sha256": "a608636d6e8d4ba34fe63844c5a3f822b7e39b65f2254f29e1afa5de315ca75e",
+   "ko": "장난"
+  },
+  {
+   "id": "da1307:T00022",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  },
+  {
+   "id": "da1307:T00023",
+   "source_sha256": "f0604c36e9ef6eb1ca75c7dca61a63730767fbbd1de3da0ea63da7a33054eb8c",
+   "ko": "게임인 이상은 룰이 있다."
+  },
+  {
+   "id": "da1307:T00024",
+   "source_sha256": "4f79c462c34b1de6a9602c8621c45ae7977a24fcaa057c754c68845e1e51f8eb",
+   "ko": "찢어발겨진 『세계』의 각처――그곳은 이계의 "
+  },
+  {
+   "id": "da1307:R00007",
+   "source_sha256": "69dbb3e571b6b6c60abd50e5d92d94109ba31a7dc57f9d0828a02c329cacd395",
+   "ko": "룰",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1307:T00025",
+   "source_sha256": "8a0bb9aecd91520197368399b2a82b1d39ed1bb4cdda142ff7afdabd61340eb7",
+   "ko": "법칙"
+  },
+  {
+   "id": "da1307:T00026",
+   "source_sha256": "6aa2111157ea10578869dd0b9d7cc50ed7a02a0e73d4ac995856cbda8fd2533f",
+   "ko": "이 지배하는,\n『동화의 나라』다."
+  },
+  {
+   "id": "da1307:T00027",
+   "source_sha256": "972d354f6256e0cc0b5fcceb400d3ba87dfc3ab617afcb9832514c797d1b48d4",
+   "ko": "누구나 사랑하는 옛날이야기가 아니다."
+  },
+  {
+   "id": "da1307:T00028",
+   "source_sha256": "0a72a6aa91c47eafcb1c84d08808f8c5a728ff4a4b6f4cbfd140dbaa4e09be01",
+   "ko": "어둠과 공포와 비꼼과 악의를 품은 "
+  },
+  {
+   "id": "da1307:R00008",
+   "source_sha256": "daf0f3e34e1ee22ac7cb9f8270156eab2ea6e6b88980bddc96ddbd754a126715",
+   "ko": "패러디",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1307:T00029",
+   "source_sha256": "a218cd07c71e2d2d9c7bfaf3dfd8122ccbde741690ea259ba3a3c0a9a17c4503",
+   "ko": "우화"
+  },
+  {
+   "id": "da1307:T00030",
+   "source_sha256": "73bf67f400ec590ee1a89d2a3d41c668dbf29762da65315c1fc581d740fd5313",
+   "ko": "다.\n\n　옛날이야기란 본래 그런 법이다."
+  },
+  {
+   "id": "da1307:T00031",
+   "source_sha256": "ac26edb56f3e1f351a299fd9da3cd329301209b25d999e5acb2c5216514d9192",
+   "ko": "겉보기는 깨끗하게."
+  },
+  {
+   "id": "da1307:T00032",
+   "source_sha256": "ce2e507f9de7020488339aa6f75682422387df538ef97ed65f2c638c9fb0a423",
+   "ko": " 속은 시꺼멓게."
+  },
+  {
+   "id": "da1307:T00033",
+   "source_sha256": "bf603d94c2781c891aa37ff848b1967bae9834adfe005870ab5d304bc4a5f047",
+   "ko": "찬란한 영웅담의 이면, 교묘하게 숨겨진 기만과 오만을 알라."
+  },
+  {
+   "id": "da1307:T00034",
+   "source_sha256": "bd86e9c9e696a8c94156b4c3af7bd4d89dd35d0adcc69f2ad175aa0d49bc8ec9",
+   "ko": "실로 구역질이 난다."
+  },
+  {
+   "id": "da1307:T00035",
+   "source_sha256": "299f12db28be4b562a78ab18f3ed8ee36b52a3412b56f9aa71e1587ecdf26d72",
+   "ko": "게임이고 룰이 있는 이상은 승리 조건이 있다."
+  },
+  {
+   "id": "da1307:T00036",
+   "source_sha256": "3fa2d188ad4e39c41535e826da9ca6b54f604630f3c95bc16d65fe23135e7d96",
+   "ko": "「불행의 회복」을 위해, "
+  },
+  {
+   "id": "da1307:R00009",
+   "source_sha256": "5c50162a1facc09a3407a54ebef9978298825b241beac4e2eb8f2bf178579f5f",
+   "ko": "퀘스트를",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1307:T00037",
+   "source_sha256": "e79580d830e7e6455b876e8fe0dc6a36ffe7caa17a34474f702d6a22f4074547",
+   "ko": "시련을"
+  },
+  {
+   "id": "da1307:T00038",
+   "source_sha256": "ba43d595ace06b5be1107fddfba49c2c3587ababe5042929f940601160260e79",
+   "ko": " 넘어, "
+  },
+  {
+   "id": "da1307:R00010",
+   "source_sha256": "597a80237c94958ee72b3fd641207796a27d401e9ac7b70d6db132e09d63976a",
+   "ko": "아이템",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1307:T00039",
+   "source_sha256": "3dc09537f601537eb01815d54d99a050935663565689436bb995507dc189c7be",
+   "ko": "마법적 수단"
+  },
+  {
+   "id": "da1307:T00040",
+   "source_sha256": "e9005125cccc844c95e38fd93d96b2b32df0c3ce0295331db26e8b0028bf2739",
+   "ko": "을 입수하고, "
+  },
+  {
+   "id": "da1307:R00011",
+   "source_sha256": "1cd01fe2851d6fbe59a7c077d9a259242d524b7593964d14fee3ab8c16ac46fd",
+   "ko": "보스 캐릭터",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1307:T00041",
+   "source_sha256": "6801e85ce8c593d216b106c4a84b978ad360503abf491132ebb5498bc9b992a1",
+   "ko": "적대자"
+  },
+  {
+   "id": "da1307:T00042",
+   "source_sha256": "adb3cb58b82cbb30ecdb9700e174f9d5228371f0799353fc72c81c6143498169",
+   "ko": "에게 승리한다.\n\n　확실히 게임이다."
+  },
+  {
+   "id": "da1307:T00043",
+   "source_sha256": "2005eb2753b788e224c820ef29911da3d7ee9e8d9e30ec28015e5403f2bc25f6",
+   "ko": "조잡한 게임의 "
+  },
+  {
+   "id": "da1307:R00012",
+   "source_sha256": "e073a39ae65617d23a8bdfa296789ca8fcb78ad385bc88595be931b0dd6d8817",
+   "ko": "플롯이다",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1307:T00044",
+   "source_sha256": "bc7f10be56901ad3ddec443cb7c1bdb6e379b9947961eb3eed30770e16443cca",
+   "ko": "뼈대다"
+  },
+  {
+   "id": "da1307:T00045",
+   "source_sha256": "8919a55f592c9838df42e08533efb9859448a922d06b109ad6541812a986a7c0",
+   "ko": "."
+  },
+  {
+   "id": "da1307:T00046",
+   "source_sha256": "fd418aca5e751b17d6859ba0c1ea278e36e517a621ae50f8c2bcaf184f69b799",
+   "ko": "싸우고, 싸우고, 끝까지 싸웠다."
+  },
+  {
+   "id": "da1307:T00047",
+   "source_sha256": "25d83d8585b3cf9e7b9c2acb1c516bf577cac446afbe5acc1fdcdaaf53f622bb",
+   "ko": "쳐부수고, 베어 버리고, 질주했다."
+  },
+  {
+   "id": "da1307:T00048",
+   "source_sha256": "0ac661e88620a0e3defad6807864fc68e242ed55e024b4aeb3a822db8977efa4",
+   "ko": "찢어발겨진 세계를 원래대로 되돌린다."
+  },
+  {
+   "id": "da1307:T00049",
+   "source_sha256": "d9b837ea59dd57ff465175605ac1406254c549d246173f425e6ed53d20183dad",
+   "ko": "어나더 블러드를 토벌하고, 게임 키퍼를 쳐부순다."
+  },
+  {
+   "id": "da1307:T00050",
+   "source_sha256": "001101eb8c5e5429e17d4f0f5257d035a9e40642b68021b902333d2577f92c26",
+   "ko": "그러기 위하여."
+  },
+  {
+   "id": "da1307:T00051",
+   "source_sha256": "49c962050e97aa7a6e09738273a146aef275e0d3bd44b780815980cc095d1a67",
+   "ko": " 하지만――"
+  },
+  {
+   "id": "da1307:T00052",
+   "source_sha256": "ac1f7951a4b1cd0acdba3e5ca933bea22e252eaee433f9d95040315f13516343",
+   "ko": "하지만 지금, 나는 결정적인 패배를 맛보려 하고 있다."
+  },
+  {
+   "id": "da1307:R00013",
+   "source_sha256": "5e50b96c27b2f416824dd21237894b52728e9f8acf21f77ae97378faaafaa899",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1307:T00053",
+   "source_sha256": "09152a2380b09e688a514e86056805ca633afd8381453280be7f536c7140c91a",
+   "ko": "풀"
+  },
+  {
+   "id": "da1307:T00054",
+   "source_sha256": "05ab8e9d37ef9633d9abc218a02a6611ff5b7de8f5ae6ab6d635cfc7933c5ec6",
+   "ko": "린다."
+  },
+  {
+   "id": "da1307:T00055",
+   "source_sha256": "92c401f085d272ad0d5789109eb5513cde352ddfcdf6cbd9a5207df2a3364f08",
+   "ko": "『나』라는 존재가 붉은 술식이 되어 풀린다."
+  },
+  {
+   "id": "da1307:T00056",
+   "source_sha256": "82f2e73df2c26983b80e5f2e2be2e66a3c80a03c9f7d9ccc56b7f6a4afe8917f",
+   "ko": "풀려서, 피안개가 되어 희박해진다."
+  },
+  {
+   "id": "da1307:T00057",
+   "source_sha256": "4307db442a279bb9fffb2ba81d3be74dbbe81e1c93fdd626430a97d71555280d",
+   "ko": "호흡이 괴롭다."
+  },
+  {
+   "id": "da1307:T00058",
+   "source_sha256": "8e5e9223c9cb7d973727e940e539baeb1d162c7f8b0ea30b87d425f13082e732",
+   "ko": "뭍으로 밀려 올라온 물고기처럼 산소를 갈구한다."
+  },
+  {
+   "id": "da1307:T00059",
+   "source_sha256": "079985ffc6ac529e8c048e246f2c70a7645ef3ee30ee3e055df2729434114a5f",
+   "ko": "하지만 가슴에는 뻥 하니 구멍이 뚫려 폐가 없다."
+  },
+  {
+   "id": "da1307:T00060",
+   "source_sha256": "5818dc23719ed2d17c56cf08a6e98b2665e4added48efa1d65c0d6d23e5f56e4",
+   "ko": "텅 빈 가슴속, 마치 "
+  },
+  {
+   "id": "da1307:R00014",
+   "source_sha256": "a14f9355ff5bc703aa175f8a795fc49676901e44794150841f01dd2067dea8c3",
+   "ko": "루비",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1307:T00061",
+   "source_sha256": "1bf5b451af8d5132a4d70302a00a2529edad253128ff6f3438f9f64b2cb9fca8",
+   "ko": "홍옥"
+  },
+  {
+   "id": "da1307:T00062",
+   "source_sha256": "21541f0e6a51b65dc1d5f3ef8946a792e5f89e4fb0ecd5c052241c16aba27b59",
+   "ko": "처럼 빛나는 심장이 떠 있다."
+  },
+  {
+   "id": "da1307:T00063",
+   "source_sha256": "3fd44bf5e425d9aab655249ded3f45bca9825ce2555804d4e8f035344e282b86",
+   "ko": "맥박 치며, 붉고 붉은 술식을 허공으로 내보내고 있다."
+  },
+  {
+   "id": "da1307:R00015",
+   "source_sha256": "5f7f5e2fdbb3f3bdfb00e7a31478467682b563a75bfb6444e1d3c93b2608a7e6",
+   "ko": "뱀",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1307:T00064",
+   "source_sha256": "c2b013367cbab340866f1fc909d7b4c15b6c55db2362222139e7f639d6dea615",
+   "ko": "술식"
+  },
+  {
+   "id": "da1307:T00065",
+   "source_sha256": "73744d8f278c45da4ad9589a18c482311eecd5226c8eb6eb3023bbcbf95d8dd6",
+   "ko": "은 역시 이중나선을 그리며 떠올라, 이윽고 의미가 이어지지 않는 마술 문자의 나열이 되어 흩어져 사라진다."
+  },
+  {
+   "id": "da1307:T00066",
+   "source_sha256": "9fa83910fa9848e91cf8f88ca0e7dd5b6d1b5a600e32ee334277e1c3b5cc1a66",
+   "ko": "『나』가 없어져 간다."
+  },
+  {
+   "id": "da1307:T00067",
+   "source_sha256": "dbddd27ed24e27756e16fe76b0353da915572eec00ab67af95a292c036b34f1a",
+   "ko": "「……자, 사랑해 주시어요, 아버님」"
+  },
+  {
+   "id": "da1307:T00068",
+   "source_sha256": "bde926d2402fbcc814ed13b13d2c64bac8e5f9790d94ffcc106431a42eb02a20",
+   "ko": "어딘가에서 어나더 블러드의 목소리가 들려온다."
+  },
+  {
+   "id": "da1307:T00069",
+   "source_sha256": "527f73ca912b77c8dd4d91262d2819ddc10a5a47f0b31e5ffcb5165537fa98e5",
+   "ko": "――"
+  },
+  {
+   "id": "da1307:R00016",
+   "source_sha256": "f58c026c179665797b00157bf4ac8d76bb0bc4ae666609165f837f7ff7226785",
+   "ko": "어나더 블러드",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1307:T00070",
+   "source_sha256": "34dbe4d297a99817f4c9cace9a8a523f4ea32beddf1824bdeaa7043fd399ba05",
+   "ko": "어긋난 피"
+  },
+  {
+   "id": "da1307:T00071",
+   "source_sha256": "b34ec8fefc85d93e9108db8a5f6cb19a8ffc5b6a4eb9b828c8c28ab83ce97fb2",
+   "ko": ".\n\n\n　나의 악의."
+  },
+  {
+   "id": "da1307:T00072",
+   "source_sha256": "f19cb20858e44a1e1451a268865ab6b9544b614752d927f9e774dedaecea61aa",
+   "ko": "일그러진 거울."
+  },
+  {
+   "id": "da1307:T00073",
+   "source_sha256": "b41d9ba645f0c886bf04992d1cf5a74607a4a7b9041badfb4463d0a139ec63ce",
+   "ko": "있을 수 없는 가능성."
+  },
+  {
+   "id": "da1307:T00074",
+   "source_sha256": "6292714602de43bdf2809d20faf32a87981452da573ff534a00dcc4093c08841",
+   "ko": "저주스러운 영혼의 쌍둥이.\n\n　하지만 지금이야말로, 그녀야말로 "
+  },
+  {
+   "id": "da1307:R00017",
+   "source_sha256": "419c41f21c060e6ba57316d6c43098477d12a120a2456af9174050bfaad979d7",
+   "ko": "트루 블러드",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1307:T00075",
+   "source_sha256": "7c594fb174a50c98ca56955f9159989a8a573dfd967d7a68738f619fac0f17da",
+   "ko": "올바른 피"
+  },
+  {
+   "id": "da1307:T00076",
+   "source_sha256": "01397c5a9ebc9927e73861766f1898927d2a3e0d69081af3fef42eb466082c84",
+   "ko": "가 되려 하고 있다."
+  },
+  {
+   "id": "da1307:T00077",
+   "source_sha256": "2ba688e4ffdef523f5f5b5f9a80f7b734bec139489c143e0733b6997025f6aba",
+   "ko": "올바른 미래가 되려 하고 있다."
+  },
+  {
+   "id": "da1307:T00078",
+   "source_sha256": "ccaa2d41b6a62743d16d341ee3a1525ff0cd4d04ec8b3348075a8441d9664d5b",
+   "ko": "어긋나 버린 나는, 이렇게 무너져 사라지려 하고 있는 것이다.\n\n　――이런 곳에서, 나는 "
+  },
+  {
+   "id": "da1307:R00018",
+   "source_sha256": "8fc55a91be89a8bee07ee969d9b371c3008ddcbb555adca944c7a4f2abac855c",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1307:T00079",
+   "source_sha256": "3bf6228ec95d88f4d2e28c9bbbc7bfc1c4734890494f13eb0e825e83d120dc21",
+   "ko": "스러"
+  },
+  {
+   "id": "da1307:T00080",
+   "source_sha256": "ab2299a545bc48fda5096018dfd8e7369d0e41243b800d80bd0a4a9753145315",
+   "ko": "져 버리는 것인가."
+  },
+  {
+   "id": "da1307:T00081",
+   "source_sha256": "c2a5d3fb23c3431ecda0d29eae48c9282a3cc4a1318a71cf4f9e39d920b639ba",
+   "ko": "라고 생각은 하지만, 아무런 감회도 없다."
+  },
+  {
+   "id": "da1307:T00082",
+   "source_sha256": "ee0aa9f4df225d77fbb63aa92feb3a59b2505cc63574a967d9467caa2436ac2c",
+   "ko": "비통함을 품기에는 마음이 텅 비어 있었다.\n\n　몸이 무너져 가듯 마음 또한 무너져 내린다."
+  },
+  {
+   "id": "da1307:T00083",
+   "source_sha256": "a302b23a336652f1511d077ed8f908609d3c3e49a3c3822882c2aae3dffbf8bc",
+   "ko": "붕괴를 멈추려는 의지마저 무너져 사라진다."
+  },
+  {
+   "id": "da1307:T00084",
+   "source_sha256": "e5dd7b2a7fa4b834bb315e25a08de117a685286c1ad3648defc872239cb47327",
+   "ko": "나는 "
+  },
+  {
+   "id": "da1307:R00019",
+   "source_sha256": "fd30b4b122e36dac60c8526efe611cd2b7f6b948982771545e656fccba507e98",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1307:T00085",
+   "source_sha256": "3ede87997728bb5f5113832d00a3f0f985869e890578e0ef4fd2b5389ab18861",
+   "ko": "상실"
+  },
+  {
+   "id": "da1307:T00086",
+   "source_sha256": "7866b3be083a3d6ad71a626f5bd41791b5887e5700eab70f96d257a741d28701",
+   "ko": "된다――"
+  },
+  {
+   "id": "da1307:R00020",
+   "source_sha256": "31643759dd6d47e223210c8a73ae1128ac2ec6d83c049ebcefbbecf9235dec60",
+   "ko": "・・・・・・　・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1307:T00087",
+   "source_sha256": "0b5a9bc1726cd8b16e2c494b49766ca13a8fea8ad3bac40401e1a0525baa5da2",
+   "ko": "다이쥬지 쿠로의, 눈앞에서"
+  },
+  {
+   "id": "da1307:T00088",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  },
+  {
+   "id": "da1307:T00089",
+   "source_sha256": "aef16587241deefec3c728def2c7b0948eadfc0be062358b45b6b7325c8f9910",
+   "ko": "「――――――」"
+  },
+  {
+   "id": "da1307:T00090",
+   "source_sha256": "19218c4c2bd0cabdff6c14771c8705ba66ba11c43d73afe07626ff987432d590",
+   "ko": "이중나선의 회전이 멈추었다."
+  },
+  {
+   "id": "da1307:T00091",
+   "source_sha256": "d6fda9a99839815dfd850dec67a3700e1262cbca753a8031f3c5c0e0d570d927",
+   "ko": "피안개는 허공에서 고화된다."
+  },
+  {
+   "id": "da1307:T00092",
+   "source_sha256": "b76ab5c004058f896412e329a03bed32a2454f6b31bd0b56be18b8a8f80098b1",
+   "ko": "모든 것이 정지했다."
+  },
+  {
+   "id": "da1307:T00093",
+   "source_sha256": "e6499c9f474dfd519a1296e9f8fbee844ee7a73f9a8498655676437b13685ef3",
+   "ko": "마음의 움직임마저도.\n\n\n　그저 어나더 블러드의 목소리만이 어째선지 나에게 닿는다."
+  },
+  {
+   "id": "da1307:T00094",
+   "source_sha256": "40c16c565f3d26a237af1497939f93a4de0e9a1693b3f3fb3f23429bc6ff74e8",
+   "ko": "「살포시."
+  },
+  {
+   "id": "da1307:T00095",
+   "source_sha256": "0f40d24ea6e9f80358f2b8615a3c28f3413e73f8c16abf00dd24417c98507870",
+   "ko": "귓가에서."
+  },
+  {
+   "id": "da1307:T00096",
+   "source_sha256": "2cecfcd847d1e807ccaa3c5544647c7126b63b6ba8b21dfdeefe25295606fcec",
+   "ko": "불러 줘."
+  },
+  {
+   "id": "da1307:T00097",
+   "source_sha256": "83d93d8ee0995f5b674e7156e80805b8e37f3e2243e1072fbd05ef4c685ef37d",
+   "ko": "나의――」"
+  },
+  {
+   "id": "da1307:T00098",
+   "source_sha256": "527f73ca912b77c8dd4d91262d2819ddc10a5a47f0b31e5ffcb5165537fa98e5",
+   "ko": "――"
+  },
+  {
+   "id": "da1307:R00021",
+   "source_sha256": "f58c026c179665797b00157bf4ac8d76bb0bc4ae666609165f837f7ff7226785",
+   "ko": "어나더 블러드",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1307:T00099",
+   "source_sha256": "34dbe4d297a99817f4c9cace9a8a523f4ea32beddf1824bdeaa7043fd399ba05",
+   "ko": "어긋난 피"
+  },
+  {
+   "id": "da1307:T00100",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  },
+  {
+   "id": "da1307:T00101",
+   "source_sha256": "b028d2667858817e2ac62e3dbb151f543320952ecc249ee752b3ce5452996a1a",
+   "ko": "어나더 블러드!"
+  },
+  {
+   "id": "da1307:T00102",
+   "source_sha256": "b028d2667858817e2ac62e3dbb151f543320952ecc249ee752b3ce5452996a1a",
+   "ko": "어나더 블러드!"
+  },
+  {
+   "id": "da1307:T00103",
+   "source_sha256": "b028d2667858817e2ac62e3dbb151f543320952ecc249ee752b3ce5452996a1a",
+   "ko": "어나더 블러드!"
+  },
+  {
+   "id": "da1307:T00104",
+   "source_sha256": "527f73ca912b77c8dd4d91262d2819ddc10a5a47f0b31e5ffcb5165537fa98e5",
+   "ko": "――"
+  },
+  {
+   "id": "da1307:R00022",
+   "source_sha256": "3b0bc9525f0120065231e8f9c8804da221dfca67564caaea41e82ca2e326ff31",
+   "ko": "어나더",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1307:T00105",
+   "source_sha256": "40b634d74f37056fc1ba6e9d18cef044c3037f2a97cd798198d6960bfcb14289",
+   "ko": "위작"
+  },
+  {
+   "id": "da1307:T00106",
+   "source_sha256": "5fdfe3d13ae86e416789c1788e895941f7d93206a0258eb69d5fef48593550dd",
+   "ko": " 같으니!"
+  },
+  {
+   "id": "da1307:T00107",
+   "source_sha256": "b3d4eba227665350eae282328a037314f10833f11506a9400fa8dcf4ddc711d1",
+   "ko": "나와 뒤바뀌어 세계에 드러날 셈인가."
+  },
+  {
+   "id": "da1307:R00023",
+   "source_sha256": "46674c35ffeacde9f478b74f2908541c615ea553de64d2bfae6acaf651a6263b",
+   "ko": "뒤틀",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1307:T00108",
+   "source_sha256": "a7fa8d01b60fd31b7f8e9895053c5dcdb090884c2e47eb41e007f68c8db17687",
+   "ko": "나선화"
+  },
+  {
+   "id": "da1307:T00109",
+   "source_sha256": "fcaf3e54eeae050beba85828b3c0c34f5eda0caa2c9fb77113c278a6a4dc13d8",
+   "ko": "된 자신의 미래로 세계를 유인할 셈인가."
+  },
+  {
+   "id": "da1307:T00110",
+   "source_sha256": "736f1ebabc0ddbc4b959d86a7e68b2782e9078eec6098223d6802e61a06d9c3a",
+   "ko": "다이쥬지 쿠로의――아버지의 사랑을 손에 넣고, 세계를 손에 넣을 셈인가."
+  },
+  {
+   "id": "da1307:T00111",
+   "source_sha256": "48ffd0a09c9a7fc81eb70b37b9678ec06e3bfd59c509ec2a37a3b81a49e8228d",
+   "ko": "「……놔…… 둘까…… 보냐…… 읏!」"
+  },
+  {
+   "id": "da1307:T00112",
+   "source_sha256": "dbec438a872d20f7bc5a98b6fef90cb17baa0da300beb664825038634d45120f",
+   "ko": "폐를 "
+  },
+  {
+   "id": "da1307:R00024",
+   "source_sha256": "fd30b4b122e36dac60c8526efe611cd2b7f6b948982771545e656fccba507e98",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1307:T00113",
+   "source_sha256": "3ede87997728bb5f5113832d00a3f0f985869e890578e0ef4fd2b5389ab18861",
+   "ko": "상실하"
+  },
+  {
+   "id": "da1307:T00114",
+   "source_sha256": "782c34928353ac423f18f7f74feba88b9e652b6332dba95e33d0ab5d2a90e79c",
+   "ko": "여 숨을 내뱉을 수 없는 목구멍에서 억지로 목소리를 쥐어짜 낸다."
+  },
+  {
+   "id": "da1307:T00115",
+   "source_sha256": "433b91d730cf3ec7997a4135edc8edaa30786ce34402f96286a36db2f7fe41be",
+   "ko": "가슴속 "
+  },
+  {
+   "id": "da1307:R00025",
+   "source_sha256": "905b0efb2d86b7b8a5e1a663618fe8fda3615a10bcebe5973ba115f428f9c0e2",
+   "ko": "・・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1307:T00116",
+   "source_sha256": "4e3ca87f79889e5d0086f0992b0ec4922d3da8bef334643ac37fcbdf818de5db",
+   "ko": "텅 빈 공동"
+  },
+  {
+   "id": "da1307:T00117",
+   "source_sha256": "57b657f8859307d38a13514171a70d8e4c707e3f415fd6e55e8569318a61acba",
+   "ko": "에 떠 있는 심장이 거세게 맥박 친다."
+  },
+  {
+   "id": "da1307:T00118",
+   "source_sha256": "6a70d09653c3c12f29fc7ff21fdce44d9dc46048f73a0871099cddd71c8a0dd1",
+   "ko": "「놔둘까 보냐……\n　놔둘 성싶으냐…… 읏!」"
+  },
+  {
+   "id": "da1307:T00119",
+   "source_sha256": "ceffa88c027d2ce2e5a403e9457544343741262d9cfdff1cbbd2f327a03c19f9",
+   "ko": "이중나선의 술식이 역전하여 내 안으로 짜여 들어온다."
+  },
+  {
+   "id": "da1307:T00120",
+   "source_sha256": "4a1cb169c769480ba0d3ed9202107914bb4f884574f5d06503ae7be3bbcf8fd7",
+   "ko": "고화한 안개가 빨려 들어와 육체가 되어 결정화된다."
+  },
+  {
+   "id": "da1307:T00121",
+   "source_sha256": "93413cc07ca28b63e28c72fc3df62d3c72be1f83ac70eca0a261636fced6ac45",
+   "ko": "「그것만은 놔둘 성싶으냐…… 읏!\n　어나더 블러드으으으으!」"
+  },
+  {
+   "id": "da1307:R00026",
+   "source_sha256": "8d621c5b39c3b3fc1c4421e71d03d95bf11db997394b0b9280a4826168a392f6",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1307:T00122",
+   "source_sha256": "a9cd525db318f43791bcf8b25adf15fd77187c35be738deeba23766709f41b7c",
+   "ko": "공허"
+  },
+  {
+   "id": "da1307:T00123",
+   "source_sha256": "5fa7b0fa26470e528cfce6ae25ff2344c798892893b0f9aed6cdf6d6c375b4c9",
+   "ko": "했던 마음을 채우는, 부글부글 "
+  },
+  {
+   "id": "da1307:R00027",
+   "source_sha256": "66375f610acae70cb94950511fa7fdb7f8d055ca6387ec2c2101f481a05eb4cf",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1307:T00124",
+   "source_sha256": "d9391958404544734d838bd9b0dae5398d90b46721a4b23eca798d55cfa2815f",
+   "ko": "끓어오"
+  },
+  {
+   "id": "da1307:T00125",
+   "source_sha256": "43ffb6b12278174c44c372a73a6cd0cd4324809cce1423b36d10e0c817ba1260",
+   "ko": "른 뜨거운 무언가."
+  },
+  {
+   "id": "da1307:T00126",
+   "source_sha256": "3673ecbb67987ccd787529d6f0cd014d2193ef8306dc2708308fbb83e8f0e656",
+   "ko": "그 "
+  },
+  {
+   "id": "da1307:R00028",
+   "source_sha256": "a6ab4547fdaedad1f911a4f07e861f3185fd716902a06a072f88038cb9cf2580",
+   "ko": "에너지가",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1307:T00127",
+   "source_sha256": "8cb84a59d28f2acecc910d5f8a0b33db0e6345e6d060f9a31845d39c68329f96",
+   "ko": "열량이"
+  },
+  {
+   "id": "da1307:T00128",
+   "source_sha256": "6edb4340a2d2f19fe1a076c4a8ddb8d9a48b68d980aa525b8e7f943d61659603",
+   "ko": " 나를 밀어 움직이는 동력이 된다."
+  },
+  {
+   "id": "da1307:T00129",
+   "source_sha256": "cbc90d9abf219e51a3bc595be59b6eec90f9d5cce79bf2fa1209d32a78a296ba",
+   "ko": "녀석의 데몬베인에게 짓밟혀 부서진 나의 데몬베인이\n　다시 움직이기 시작한다.\n\n　하늘을 움켜쥐려는 듯이, 부러진 팔을 뻗는다."
+  },
+  {
+   "id": "da1307:T00130",
+   "source_sha256": "961f9b8e291f40bf7652ec5c65af1613d1d89cd94df5e07a08589442df439b94",
+   "ko": "움직일 때마다 "
+  },
+  {
+   "id": "da1307:R00029",
+   "source_sha256": "0fc256cd359e43981a6ccd05cca823e78bcbc9db7a58d048c6f11d9cc6a430d7",
+   "ko": "아조트",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1307:T00131",
+   "source_sha256": "c31447b2a5eb1552deefa787cc64e00d84b52a923f5cafaea34cba65ca40bbe3",
+   "ko": "수은"
+  },
+  {
+   "id": "da1307:T00132",
+   "source_sha256": "b2839f13460b7c1a7f0a9e0ba9e6756c8f1a681e8d140cf385570b4537d176fa",
+   "ko": "의 피가 뿜어져 나와 은빛 비를 내리게 한다."
+  },
+  {
+   "id": "da1307:T00133",
+   "source_sha256": "8448a99a436a6e03b1679b93b045d0d9c66692c6f7922477863513299971ca97",
+   "ko": "피투성이인 녀석의 데몬베인이 이쪽을 내려다보았다."
+  },
+  {
+   "id": "da1307:T00134",
+   "source_sha256": "95595442dd103987d5356103ab364a03de4fa532ca791e5041e8623242697ae9",
+   "ko": "――추하다, 라고 생각했다.\n\n　이런 볼썽사나운 데몬베인을 나는 인정하지 않는다."
+  },
+  {
+   "id": "da1307:T00135",
+   "source_sha256": "2a5a778e16e4ccddfe6e251d9dbc3ea83034d9a1b8ae5b710f1fdebef902044d",
+   "ko": "아버지에게 교태를 파는 천박한 "
+  },
+  {
+   "id": "da1307:R00030",
+   "source_sha256": "02d051d9ebb3d6b56e5c6f03de25e68daeefdd8633c697778d1ff9808964fabb",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1307:T00136",
+   "source_sha256": "655b0adcba98db5a7a10de22aff50195b477fce222b16541f9d6bd9039783439",
+   "ko": "창녀"
+  },
+  {
+   "id": "da1307:T00137",
+   "source_sha256": "bfef8f73d4f91e57dcb64de2d4936027a162f6268e970e53a6f514760c624f81",
+   "ko": "를, 나는 인정하지 않는다."
+  },
+  {
+   "id": "da1307:T00138",
+   "source_sha256": "ee35b3f53e68f6e873b0f33f634888e4776579bb7df6ca67f698525c21712a8a",
+   "ko": "이런 것이 나와 나의 검을 대신해 그 자리에 앉는다는 따위, 나는 결코\n인정하지 않는다!"
+  },
+  {
+   "id": "da1307:T00139",
+   "source_sha256": "b2320eba602475cf179cfb8bf446292b0ef34fc6ff514aab0beab7b234a45192",
+   "ko": "「부정해 주마……\n　어나더 블러드!」"
+  },
+  {
+   "id": "da1307:T00140",
+   "source_sha256": "44a8dfba03a9e16904f4629facb142847235bfea363d14ef0aaed8100e6d4018",
+   "ko": "신속히 배제해야만 한다."
+  },
+  {
+   "id": "da1307:T00141",
+   "source_sha256": "d006a1d8af4620a69f0d8d21aa0231f8b0025f01aa8550642221fb7a0da42d5a",
+   "ko": "눈앞의 추한 존재 모두를.\n\n　저것은 오염이다."
+  },
+  {
+   "id": "da1307:T00142",
+   "source_sha256": "6f1f913de907cb7c08a7f0b0d09ad6b3ae4cea9565433cc5bcacf482078d73f6",
+   "ko": "나를 침식하는 영혼의 오염이다."
+  },
+  {
+   "id": "da1307:T00143",
+   "source_sha256": "c49c1990626da9e4ce1a378e333b26ec462113eca9f618a0fb91449850387310",
+   "ko": "내가 고결하게 있기 위하여, 저 녀석들을……!"
+  },
+  {
+   "id": "da1307:T00144",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da1307:R00031",
+   "source_sha256": "ad00a0b322492061745b24d0a27cfeb54340097e166853622a9781f99bd15efb",
+   "ko": "・・・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1307:T00145",
+   "source_sha256": "faad4663917e9f697861dd8f8351f4b75876f086445f4735d2e147048b1329b2",
+   "ko": "데몬베인"
+  },
+  {
+   "id": "da1307:T00146",
+   "source_sha256": "6560fad1b5299ec45c7562b1e825f123c87101dc289a1eb71426e443d34f4c8c",
+   "ko": "!」"
+  },
+  {
+   "id": "da1307:T00147",
+   "source_sha256": "307d3db8ab507e8070a9b5a35542a4c3f4148c6970a2c4bdb3312ab9b92bffc7",
+   "ko": "나의 검에 부름을 건넨다."
+  },
+  {
+   "id": "da1307:T00148",
+   "source_sha256": "143974f25036eca23c7325a7c22c94afcf82aec7c3049ec3b6f078f54a22574b",
+   "ko": "파손된 데몬베인이 급속히 수복되어 간다."
+  },
+  {
+   "id": "da1307:T00149",
+   "source_sha256": "cb1c29b053a1e85e3cb12171a6b27abac32751cfd74e6a38cbead175ee62f4f8",
+   "ko": "파손 부위에서 넘쳐 나오는 나사／"
+  },
+  {
+   "id": "da1307:T00150",
+   "source_sha256": "1966b432b8d6ca3d5fde29cab9c481528a0f47ff7b66fbd5603d18645d1e235f",
+   "ko": "톱니바퀴／태엽／배관／"
+  },
+  {
+   "id": "da1307:T00151",
+   "source_sha256": "b61202091d64fb0aff31ab049d0afa5168134a0ff2cd04e7a5722f794bc550ed",
+   "ko": "철골／도선／장갑――오염을 물리치기 위한 "
+  },
+  {
+   "id": "da1307:R00032",
+   "source_sha256": "088462f65b7e8bc00db9fd7d87cf33cea200daceb9094dea9dc851b2a1851090",
+   "ko": "시스템을",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1307:T00152",
+   "source_sha256": "81c946eaa0779951bd08ebc4db804dc22b1d2b834bbe846f1991b279690e015a",
+   "ko": "기계를"
+  },
+  {
+   "id": "da1307:T00153",
+   "source_sha256": "329b61daa1e2dc48a238b9fc8f4665986cb542762a52c650543757b8c217f289",
+   "ko": ", 나에게!"
+  },
+  {
+   "id": "da1307:T00154",
+   "source_sha256": "b0fc367c80c209bc6b85380970b618be991db6abd066f234827c4ec85ec34b7f",
+   "ko": "피투성이인 데몬베인의 다리를 붙잡고 일어서려 한다."
+  },
+  {
+   "id": "da1307:T00155",
+   "source_sha256": "6a464342f7db6bec8e407dbfacb112248bc79e374423fcb3ad9b53b43b9e7fb2",
+   "ko": "그사이에도 나사／톱니바퀴／"
+  },
+  {
+   "id": "da1307:T00156",
+   "source_sha256": "1f4febd2d1132f91867519aecb1d70fb89688992d4306db28f5fd932b876d576",
+   "ko": "태엽／배관／철골／도선／장갑은 끝없이 허무에서 솟아나와, "
+  },
+  {
+   "id": "da1307:R00033",
+   "source_sha256": "c487f6c74288ab019961e56aef522e3c87d5dc00cef31baca8f8cb4f04f304e1",
+   "ko": "마키나",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1307:T00157",
+   "source_sha256": "411af9b288fb3385dafecfdc0ac3e1da517282ce9a6f37bc93f01c64cc1765a2",
+   "ko": "기체"
+  },
+  {
+   "id": "da1307:T00158",
+   "source_sha256": "bd48deaa9fa8d115a628556359d08a93484ed6311e39688f1ecfa5cff673d902",
+   "ko": "를 조립한다.\n\n　붙잡은 다리를 "
+  },
+  {
+   "id": "da1307:R00034",
+   "source_sha256": "01df67e1d7cdbc51809b3a90688de6c6f9f4568cf270f141f3169e5f01fee77a",
+   "ko": "・・・・・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1307:T00159",
+   "source_sha256": "4a46ba4c5cb1ef99c96a68c595336b1293bf1fa5e3d6c948aa974ee76bb22e4a",
+   "ko": "끌어내려 떨어뜨리려고"
+  },
+  {
+   "id": "da1307:T00160",
+   "source_sha256": "5d58b1d8a6c23e213c0deff1548ea8a6c5cf71e392848b00ba221c8b8ec33bc9",
+   "ko": " 힘을 준다."
+  },
+  {
+   "id": "da1307:T00161",
+   "source_sha256": "c4029316ff5c5e0c9e67c3713deda305308a73c4863ca8f73b3553da4d7b3c4e",
+   "ko": "나사／톱니바퀴／태엽／배관／철골／"
+  },
+  {
+   "id": "da1307:T00162",
+   "source_sha256": "e7e68e46039de6e31f8841befbb9a7bd4905f7e6945bbfd2c32f608fcb7f9057",
+   "ko": "도선／장갑은 여전히 끊임없이,\n허무에서 솟아나온다.\n\n　적의 몸을 기어오른다. 자신과 같은 나락으로 "
+  },
+  {
+   "id": "da1307:R00035",
+   "source_sha256": "b23809bf96a578e2f1bd090c387ee6bf76b00f431c6ea18868a02155a811f1f4",
+   "ko": "・・・・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1307:T00163",
+   "source_sha256": "f36998774079a37537bdca1c0ae23c9fe61e2442d6edc46e2a049940e831d004",
+   "ko": "끌어들이려고"
+  },
+  {
+   "id": "da1307:T00164",
+   "source_sha256": "779c6b39066380d6fea498238271a86fb29c5487fc5fcd23dc64ed394a877a87",
+   "ko": "."
+  },
+  {
+   "id": "da1307:T00165",
+   "source_sha256": "5cf3fbcdc5388a15551f31c893cd51ac4985a546a345d044aae469cbfd70a5d9",
+   "ko": "솟아나온다."
+  },
+  {
+   "id": "da1307:T00166",
+   "source_sha256": "5cf3fbcdc5388a15551f31c893cd51ac4985a546a345d044aae469cbfd70a5d9",
+   "ko": " 솟아나온다."
+  },
+  {
+   "id": "da1307:T00167",
+   "source_sha256": "77fa0d3d137827f8aea5fbdadd5d16bcd0e3a3c8ff230da4f5c2bfda46b3bfb2",
+   "ko": " 나사／톱니바퀴／태엽／배관／철골／도선／장갑／나사／톱니바퀴／태엽／배관／철골／도선／"
+  },
+  {
+   "id": "da1307:T00168",
+   "source_sha256": "e4d43a88b165e6de3f4232c70ed10a688348862f8d784793d20d88980fb4683d",
+   "ko": "장갑…… 무한\n의 끝자락에서, 여전히. 여전히."
+  },
+  {
+   "id": "da1307:T00169",
+   "source_sha256": "f68aa051e0a48db0de44a1138042c2b9a793c01662493bc7c576f25cd5bf6b0d",
+   "ko": "「……데몬베인?」"
+  },
+  {
+   "id": "da1307:T00170",
+   "source_sha256": "1bfb089ff71c61ae9c731f1a50df3ec94564b251e3ab74c20262712fe9cf7cd6",
+   "ko": "나사／톱니바퀴／태엽／배관／철골／도선／장갑／"
+  },
+  {
+   "id": "da1307:T00171",
+   "source_sha256": "66b05b21800e131134c023b4aac34b83d7e53a7601d990b03c6ce533a59866b5",
+   "ko": "나사／톱니바퀴／태엽／배관／철골／도선／장갑／나사／톱니바퀴／태엽／배관／철골／도선／장갑／나사／톱니바퀴／태엽／"
+  },
+  {
+   "id": "da1307:T00172",
+   "source_sha256": "89c7861770594407c26c9047b92e10268a647b239d9a6c869f6ffac613f6cbbe",
+   "ko": "배관／철골／도선／장갑／나사／톱니바퀴／태엽／"
+  },
+  {
+   "id": "da1307:T00173",
+   "source_sha256": "fc1a921f79020fcd3fd72a1faaa4c77eaaada1d94913765cdd3a5dc159f9dd15",
+   "ko": "배관／철골／도선／장갑／나사／톱니바퀴／태엽／배관／철골／도선／장갑／나사／톱니바퀴／태엽／배관／철골／도선／장갑／나사／"
+  },
+  {
+   "id": "da1307:T00174",
+   "source_sha256": "1966b432b8d6ca3d5fde29cab9c481528a0f47ff7b66fbd5603d18645d1e235f",
+   "ko": "톱니바퀴／태엽／배관／"
+  },
+  {
+   "id": "da1307:T00175",
+   "source_sha256": "00c9f59d686b58c00a9d5510398501c324da1594a4f78392b7ee45642ae9577d",
+   "ko": "철골／도선／"
+  },
+  {
+   "id": "da1307:T00176",
+   "source_sha256": "28224b77e657b79c7503a280e8888180baab44322ac92bf0e8fecb69243b3a6c",
+   "ko": "장갑／나사／톱니바퀴／태엽／배관／철골／도선／장갑／나사／톱니바퀴／태엽／배관／철골／도선／장갑／나사／톱니바퀴／태엽／배관／철골／도선／장갑／나사／톱니바퀴／태엽／배관／철골／"
+  },
+  {
+   "id": "da1307:T00177",
+   "source_sha256": "948502e8d598c28f01e4f605ca76a7f08c07f228c88a3c4cb51024ebdf62d9db",
+   "ko": "도선／장갑／나사／톱니바퀴／태엽／배관／철골／도선／장갑／"
+  },
+  {
+   "id": "da1307:T00178",
+   "source_sha256": "1bfb089ff71c61ae9c731f1a50df3ec94564b251e3ab74c20262712fe9cf7cd6",
+   "ko": "나사／톱니바퀴／태엽／배관／철골／도선／장갑／"
+  },
+  {
+   "id": "da1307:T00179",
+   "source_sha256": "3a44838f13e22c5a67a44750883686dd88ea2dd62c53b287beba185dc94062b9",
+   "ko": "나사／톱니바퀴／태엽／배관／철골／도선／장갑／나사／톱니바퀴／태엽／배관／철골／도선／장갑／나사／톱니바퀴／태엽／배관／"
+  },
+  {
+   "id": "da1307:T00180",
+   "source_sha256": "1d8cfb2e9167cd02cfbec912b7432f5b96bc269c91ca9b322f66562a7bd9b370",
+   "ko": "철골／도선／장갑／나사／톱니바퀴／태엽／배관／철골／도선／장갑／나사／톱니바퀴／태엽／배관／"
+  },
+  {
+   "id": "da1307:T00181",
+   "source_sha256": "a73d2117a51f9bb398259d48352b253ab5d3fc5d541005becefa9c59d2acca82",
+   "ko": "철골／도선／장갑／나사／톱니바퀴／태엽／배관／철골／도선／장갑／"
+  },
+  {
+   "id": "da1307:T00182",
+   "source_sha256": "0406f58c0d8b5ac154b288511f28039c360c04d1a56c8234d4f25a409722a286",
+   "ko": "나사／톱니바퀴／태엽／배관／철골／도선／장갑／나사／톱니바퀴／"
+  },
+  {
+   "id": "da1307:T00183",
+   "source_sha256": "34dba6fddac016b3dee3092ba331a4c74eb6f3343e5d6bb8c72e248436ffc444",
+   "ko": "태엽／배관／철골／도선／장갑／나사／톱니바퀴／태엽／"
+  },
+  {
+   "id": "da1307:T00184",
+   "source_sha256": "89c7861770594407c26c9047b92e10268a647b239d9a6c869f6ffac613f6cbbe",
+   "ko": "배관／철골／도선／장갑／나사／톱니바퀴／태엽／"
+  },
+  {
+   "id": "da1307:T00185",
+   "source_sha256": "d3b875677bebc3fedf1defee5171b7e58e1d6df07fc76e0641a7e90e5961a912",
+   "ko": "배관／철골／도선／장갑／나사／"
+  },
+  {
+   "id": "da1307:T00186",
+   "source_sha256": "edaea782758f3536eb7c3671f3a3968e49ddce2bc3bc3a937b9a9b870637067f",
+   "ko": "톱니바퀴／태엽／배관／철골／"
+  },
+  {
+   "id": "da1307:T00187",
+   "source_sha256": "19605d6bb532873495d698b0a3c41623977e865923cc5c511de431f2d40615dd",
+   "ko": "도선／장갑／나사"
+  },
+  {
+   "id": "da1307:T00188",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da1307:R00036",
+   "source_sha256": "b6059c658b2c4ded04f4347567d5b271690c296a1e922f25663b85bf59a84096",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1307:T00189",
+   "source_sha256": "9626329d6ccf053d75ee3aeb4fb82828a4d3d8583a7554912a6ab89578321eb7",
+   "ko": "그것"
+  },
+  {
+   "id": "da1307:T00190",
+   "source_sha256": "5b5fa18d871151a37c15d2c7bb570823b063f9161dc335c436f9101ba064d172",
+   "ko": "은 나의 이름이 아니니라」"
+  },
+  {
+   "id": "da1307:T00191",
+   "source_sha256": "030ecc41eef4433d0e4192a860a1cc851600715c280061eba0cf476b8d7bdbcc",
+   "ko": "나사／톱니바퀴／태엽／배관／철골／도선／"
+  },
+  {
+   "id": "da1307:T00192",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00193",
+   "source_sha256": "c4029316ff5c5e0c9e67c3713deda305308a73c4863ca8f73b3553da4d7b3c4e",
+   "ko": "나사／톱니바퀴／태엽／배관／철골／"
+  },
+  {
+   "id": "da1307:T00194",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00195",
+   "source_sha256": "f9272fd14c14ac0d84a74200e0a1bedf9266af6ec5ab134369414e9e51c843fe",
+   "ko": "장갑／나사／톱니바퀴／태엽／배관／"
+  },
+  {
+   "id": "da1307:T00196",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00197",
+   "source_sha256": "099e3afb0a2e4bee99a6906d4a8cff81ef626a4e8f390160a8586e41407c7342",
+   "ko": "도선／장갑／나사／톱니바퀴／태엽／"
+  },
+  {
+   "id": "da1307:T00198",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00199",
+   "source_sha256": "f6bfd282778a403e31b4b3525ba3ab59a01c84ff4c1b024844479076e7555d9d",
+   "ko": "철골／도선／장갑／나사／톱니바퀴／"
+  },
+  {
+   "id": "da1307:T00200",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00201",
+   "source_sha256": "d3b875677bebc3fedf1defee5171b7e58e1d6df07fc76e0641a7e90e5961a912",
+   "ko": "배관／철골／도선／장갑／나사／"
+  },
+  {
+   "id": "da1307:T00202",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00203",
+   "source_sha256": "069ef0acc11fd7d5972b097dc6551c603406a68cdc1c85d45c39374f7ce194f4",
+   "ko": "태엽／배관／철골／도선／장갑／"
+  },
+  {
+   "id": "da1307:T00204",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00205",
+   "source_sha256": "1c6e3696980e9c5ae96f764277fe8c57f9d614492dd9b763b976c0b903aaf003",
+   "ko": "톱니바퀴／태엽／배관／철골／도선／"
+  },
+  {
+   "id": "da1307:T00206",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00207",
+   "source_sha256": "f68f609b1406e7cc44ad0ebe83bb5b817f4dc5dcad401750313d0acd995b3004",
+   "ko": "나사／"
+  },
+  {
+   "id": "da1307:T00208",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00209",
+   "source_sha256": "39c29155209fbc688abd586ced54f1193243f874ae511eec167576afe8614244",
+   "ko": "태엽／배관／철골／"
+  },
+  {
+   "id": "da1307:T00210",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00211",
+   "source_sha256": "0f8142b061266ce6dd367c74fca00ab6070918bd029bbcfcb99cab566de5f1da",
+   "ko": "장갑／나사／톱니바퀴／"
+  },
+  {
+   "id": "da1307:T00212",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00213",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00214",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00215",
+   "source_sha256": "44ccf26fc4f0246fc1c0923dd9979246c5450cefe6fefe04f182f3481a0536d5",
+   "ko": "도선／장갑／"
+  },
+  {
+   "id": "da1307:T00216",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00217",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00218",
+   "source_sha256": "a89c35b729eefac0d221f56d7f82f25dd93424f043a1529ff8b3a9c285bbd211",
+   "ko": "태엽／배관／철골／도선／장갑／나사／톱니바퀴／태엽／배관／철골／도선／장갑／나사／톱니바퀴／태엽／배관／철골／"
+  },
+  {
+   "id": "da1307:T00219",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00220",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00221",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00222",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00223",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00224",
+   "source_sha256": "c35a6fb914dfadebcae1d9bcc0ac9e9a0f02a10ebac06cdf1429b003de414e6d",
+   "ko": "배관／"
+  },
+  {
+   "id": "da1307:T00225",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00226",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00227",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00228",
+   "source_sha256": "f68f609b1406e7cc44ad0ebe83bb5b817f4dc5dcad401750313d0acd995b3004",
+   "ko": "나사／"
+  },
+  {
+   "id": "da1307:T00229",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00230",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00231",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00232",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00233",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00234",
+   "source_sha256": "2b8ddcf6fa4559ce0a40a73d13e50ea294d630209aab450872e13d0517f3f1c0",
+   "ko": "장갑／"
+  },
+  {
+   "id": "da1307:T00235",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00236",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00237",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00238",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00239",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00240",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00241",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00242",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00243",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00244",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00245",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00246",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00247",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00248",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00249",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00250",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00251",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00252",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00253",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00254",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00255",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00256",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00257",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00258",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00259",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00260",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00261",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00262",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00263",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00264",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00265",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00266",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00267",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00268",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00269",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00270",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00271",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00272",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00273",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00274",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00275",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00276",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00277",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00278",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00279",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00280",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00281",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00282",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00283",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00284",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00285",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00286",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00287",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00288",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00289",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00290",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00291",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00292",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00293",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00294",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00295",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00296",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00297",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00298",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00299",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00300",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00301",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00302",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00303",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00304",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00305",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00306",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00307",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00308",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00309",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00310",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00311",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00312",
+   "source_sha256": "8bd521e57fe5cd146e9d84ccc6a94d278842d49fed178edf1e261eaa7d8f9399",
+   "ko": "혼돈"
+  },
+  {
+   "id": "da1307:T00313",
+   "source_sha256": "1bfb089ff71c61ae9c731f1a50df3ec94564b251e3ab74c20262712fe9cf7cd6",
+   "ko": "나사／톱니바퀴／태엽／배관／철골／도선／장갑／"
+  },
+  {
+   "id": "da1307:T00314",
+   "source_sha256": "691a23e308baf8d8b5a5423ab944216c32ccaba6d53332e649e1d8857d1e73e3",
+   "ko": "혼돈／"
+  },
+  {
+   "id": "da1307:T00315",
+   "source_sha256": "d303fb8267e18a46387314bf8f4e2bd66ed90e4737ce8a08d5bc0dcca12051a9",
+   "ko": "의 바다에 가라앉으면서, 나는 데몬베인의――아니, "
+  },
+  {
+   "id": "da1307:R00037",
+   "source_sha256": "22a5bebe19dfdce32147b1643d3157f2520606070028ef42d99b9c99fd83b279",
+   "ko": "・・・・・・・・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1307:T00316",
+   "source_sha256": "15ed52e266dc3f71f22fd75d2c122a325828f26df104ce9992ae04159464ce5a",
+   "ko": "데몬베인이었던 무언가"
+  },
+  {
+   "id": "da1307:T00317",
+   "source_sha256": "9ff72df537bf473aa0c41edd031a5ee769f351b00a08f73143436a91ae085418",
+   "ko": "의 목소리를 들었다."
+  },
+  {
+   "id": "da1307:T00318",
+   "source_sha256": "993ff1777cda217bd7b4918f65868cdc5078b765b9f05f10dedebea0c5786e31",
+   "ko": "「――나야말로 기어드는 혼돈, 나이알라토텝이니라」"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da1307:R00002",
+   "kind": "ruby_decision",
+   "note": "'聲(목소리)'의 단순 훈독 루비('こえ')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1307:R00013",
+   "kind": "ruby_decision",
+   "note": "'解(풀리다)'의 단순 훈독 루비('ほど')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1307:R00018",
+   "kind": "ruby_decision",
+   "note": "'潰(스러지다)'의 단순 훈독 루비('つい')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1307:R00019",
+   "kind": "ruby_decision",
+   "note": "'喪失(상실)'의 단순 훈독 루비('うしな')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1307:R00024",
+   "kind": "ruby_decision",
+   "note": "'喪失(상실)'의 단순 훈독 루비('うしな')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1307:R00026",
+   "kind": "ruby_decision",
+   "note": "'空虚(공허)'의 단순 훈독 루비('ウツロ')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1307:R00027",
+   "kind": "ruby_decision",
+   "note": "'滾(끓어오르다)'의 단순 훈독 루비('たぎ')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1307:R00030",
+   "kind": "ruby_decision",
+   "note": "'売女(창녀)'의 단순 훈독 루비('ばいた')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1307:R00036",
+   "kind": "ruby_decision",
+   "note": "'其(그것)'의 단순 훈독 루비('そ')이므로 omit_redundant 처리."
+  }
+ ]
+}

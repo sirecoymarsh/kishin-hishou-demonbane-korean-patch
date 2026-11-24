@@ -1,0 +1,615 @@
+{
+  "schema": "khd-gemini-response-v1",
+  "packet_id": "P0127_da1505",
+  "model_id": "Gemini 3.8 Flash (High)",
+  "records": [
+    {
+      "id": "da1505:T00001",
+      "source_sha256": "b62dbb2b5de8e2dd074329205ad7068e1ceca9994645ea168fb4a126778cc1b2",
+      "ko": "「음, 절경이로군」"
+    },
+    {
+      "id": "da1505:T00002",
+      "source_sha256": "db076721342ad4a3cc572aec5bd00ec8171aa8953c54a0be102e48e0d57b3ec2",
+      "ko": "「너무 몸을 내밀지 마라.\n　위태롭구나」"
+    },
+    {
+      "id": "da1505:T00003",
+      "source_sha256": "ac604baf5c72f5ed793f8237fb8b9c724dcb5a845e84fa61cc6e71e4ccf1bfaf",
+      "ko": "밝아오지 않는 밤은 없고, 깨어나지 않는 악몽도 없다."
+    },
+    {
+      "id": "da1505:T00004",
+      "source_sha256": "fa83ef2140292df1a99f7a0893990446f81f3dec5b7def0187137c9538144414",
+      "ko": "아침 해를 받아 빛나는 아컴 시티는, 한없이 맑고 깨끗한 기운으로\n가득 차 있었다.\n\n　그렇다, 싸움은 끝났다."
+    },
+    {
+      "id": "da1505:T00005",
+      "source_sha256": "ff9e28652bef5aa68d007a4a34952921281c6562c7ea4370b0ae677d4e137461",
+      "ko": "「뭐…… 이번에도 지독한 "
+    },
+    {
+      "id": "da1505:R00001",
+      "source_sha256": "ca886c79cb7dae03c129fb313b0d552a965cbcb4b85a669b27e1817234b69b5f",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1505:T00006",
+      "source_sha256": "c560201b331c54435b445baebe03b8922d6ef6a80065411ed3f379eb8bef9848",
+      "ko": "사건"
+    },
+    {
+      "id": "da1505:T00007",
+      "source_sha256": "509eef7979774ba296daa738966a57ad8ae24c2138f722f5826de4bf8a57076d",
+      "ko": "이었지만, 어떻게든 해결됐군」"
+    },
+    {
+      "id": "da1505:T00008",
+      "source_sha256": "51cbb9a0b093c402a4960f64059d5c90ac6bd1a6b3201e71d49c3ab0df9df4a8",
+      "ko": "「아아. 우리의 승리다」"
+    },
+    {
+      "id": "da1505:T00009",
+      "source_sha256": "d94427a1c61346264cca5d0012905f0ba971bff9392654d00413619ce09bb36c",
+      "ko": "「――아버님. 어머님」"
+    },
+    {
+      "id": "da1505:T00010",
+      "source_sha256": "8b14e8636cb0f554a612cf69bbc6b46ad5b3430e255622041a2aa5dc7d1efd3c",
+      "ko": "「쿠자쿠. 그리고……」"
+    },
+    {
+      "id": "da1505:T00011",
+      "source_sha256": "4828a24f5ac7a098b193675c295f700e0a3bf6f6d605bbcfde8cb4ebcc6a7ce0",
+      "ko": "「――쿠자쿠. 그래, 나도 쿠자쿠.\n　나쁜 아이인 쿠자쿠예요, 아버님」"
+    },
+    {
+      "id": "da1505:T00012",
+      "source_sha256": "b9aaa298acc5faa1ed3a46d6f59b8369aba8563dbd266f0adca6bdcea4fd49b1",
+      "ko": "「딱히 저쪽 퉁명스러운 녀석이, 착한 아이란 소린 아니다만」"
+    },
+    {
+      "id": "da1505:T00013",
+      "source_sha256": "bb019fa302b2ca63d6db3bc3bbab2039ca0766bc7277b895c6dfa709db8da67f",
+      "ko": "「시끄러워, 망할 아범!」"
+    },
+    {
+      "id": "da1505:T00014",
+      "source_sha256": "cc53aed2bb6dcd507b1f33aa7985601adb397893aff3c409bf8d568029039cea",
+      "ko": "「하하하핫」"
+    },
+    {
+      "id": "da1505:T00015",
+      "source_sha256": "d424b4cb7a0d2083643d83a9d640971cfd0baacbcc17b67a1947fd61c3aa35f4",
+      "ko": "「…………………………」"
+    },
+    {
+      "id": "da1505:T00016",
+      "source_sha256": "df8d016ff13b6575a111bb7fb44ce7d32d1da8eb55e126c4cdb8e7b28fa45b1c",
+      "ko": "「……하핫」"
+    },
+    {
+      "id": "da1505:T00017",
+      "source_sha256": "847b59a770cf506c0e4f485d2bc957f4a04c307499f498d2ed7c9a7a1bcf9a15",
+      "ko": "여전한 쿠자쿠의 모습에, 절로 미소가 번졌다."
+    },
+    {
+      "id": "da1505:T00018",
+      "source_sha256": "0b5a3d6956b1214d85f144a8cb0081c82f744e2dfd7bf5038b616466b3e78dbc",
+      "ko": "쿠자쿠도 그런 자신이 우스웠는지, 쑥스러워하듯 쓴웃음을 짓는다."
+    },
+    {
+      "id": "da1505:T00019",
+      "source_sha256": "cbc1a5bb3e3dd30b31d3c238e9d5f238b58ec0ad1cc617938d2cad3e61560bf5",
+      "ko": "「……이제, 괜찮은 거냐?」"
+    },
+    {
+      "id": "da1505:T00020",
+      "source_sha256": "8941934b571d6f8f8214c32df01555ef7c8ab3e9ebda569304f99aa0a3f30d75",
+      "ko": "「아아. 길은 되찾았다. 이제, 헤매지 않아」"
+    },
+    {
+      "id": "da1505:T00021",
+      "source_sha256": "c5862e9b9d0c3d3a3cabdd11795a980182a0a0b4125c5450329ea54cfd83283c",
+      "ko": "「――우리는, "
+    },
+    {
+      "id": "da1505:R00002",
+      "source_sha256": "b750c2ece644240b0f8e138a0602b89062dcd4cb934044a963e76bf34670b76d",
+      "ko": "・・・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1505:T00022",
+      "source_sha256": "c7bf31a411e6815c8819a460484c0fb72c4ab3ae7b85709fcd95738fc0c07476",
+      "ko": "이제서야"
+    },
+    {
+      "id": "da1505:T00023",
+      "source_sha256": "c4a40ea8fe35627476f7f8cb9e1fc7f8898f428c6d1ff18b0bc5479d5db39c5f",
+      "ko": ","
+    },
+    {
+      "id": "da1505:R00003",
+      "source_sha256": "fe65050b6cf95368d85f30fd366c092a15824886d51defd754887d1e968f7491",
+      "ko": "・・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1505:T00024",
+      "source_sha256": "e9cd8ed2bd1d1c86bc01398ea6c80567bc14b5ee1aa9b7487f3dba20b847f31d",
+      "ko": "애초에"
+    },
+    {
+      "id": "da1505:T00025",
+      "source_sha256": "321601462f263e3a0453d726f4234ea50dad2a73f58cf20c452fca42b590d2d1",
+      "ko": ", 같은 "
+    },
+    {
+      "id": "da1505:R00004",
+      "source_sha256": "7f627e12807378e3a610599809549d79192128f67c97cc6b165b04939faa5de0",
+      "ko": "존재",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1505:T00026",
+      "source_sha256": "1bab4829457742b4cb93947b3ad582236d8438f4f0296eaae1bb087401a464a6",
+      "ko": "쿠자쿠"
+    },
+    {
+      "id": "da1505:T00027",
+      "source_sha256": "ab2fba7f4b2bd4af4f57d897b7b6894ff122cf70065fb4c67b5b481f996b8a6c",
+      "ko": "인 거다」"
+    },
+    {
+      "id": "da1505:T00028",
+      "source_sha256": "0f375e88b86be718b39f0daec758545ccb58d84840f2e015a07d7af05ced14da",
+      "ko": "「그런가」"
+    },
+    {
+      "id": "da1505:T00029",
+      "source_sha256": "b129742547f12665b50da9535ed628fd4bb14138718b1b38963d7c0d1967aef7",
+      "ko": "「……민폐를 끼쳤다. 정말로, 미안하다」"
+    },
+    {
+      "id": "da1505:T00030",
+      "source_sha256": "4adea90a53c0b1a6d2d5eefcb0a3bb2fa7ccae8609f6167dd8d074879d2355d5",
+      "ko": "「말 그대로다. 저쪽의 붉은 녀석이\n이 몸을 먹으려 했던 일, 설마 잊었다고는 못 하겠지」"
+    },
+    {
+      "id": "da1505:T00031",
+      "source_sha256": "cb5ee93f6d38a311ec8beece7c613ead54ed1804e78ae0a8ca84737f48417aca",
+      "ko": "「~♪」"
+    },
+    {
+      "id": "da1505:T00032",
+      "source_sha256": "ed5f6a0e478a8dd7609ebd43a6fcf02ee54f108b688c1da94790a26d458612dd",
+      "ko": "「계집애……!」"
+    },
+    {
+      "id": "da1505:T00033",
+      "source_sha256": "734203eee5a4b61beeb9da7cc5bddf58400436d0f84fb41b9ff29435e84ea2c3",
+      "ko": "「워워워워……」"
+    },
+    {
+      "id": "da1505:T00034",
+      "source_sha256": "809bfb28aa0e6f5a19a1b15b84d1c7888ba00f44fe1343f38e2018351162ffee",
+      "ko": "「……어머님 말씀대로다. 이번 일은 모두, 나야말로, 나만이 원인인 거다. 나의 악몽에 당신들을 휘말리게 하고 말았어――」"
+    },
+    {
+      "id": "da1505:T00035",
+      "source_sha256": "53495ee6ca04a4cd9c38ecc6385b500174ebf16bdabbdc78dbabfb9c03891799",
+      "ko": "「뭐, 딱딱한 얘기는 그만두자고?」"
+    },
+    {
+      "id": "da1505:T00036",
+      "source_sha256": "2d527be26fb2d5d5eb211fa204caab0d140a1260c63ce6139ee7f7eac101a931",
+      "ko": "「하지만……」"
+    },
+    {
+      "id": "da1505:T00037",
+      "source_sha256": "937f57469d85f5d21d00e6653ee1be86abeefd3cd7cfba0da54b4a84bab091ac",
+      "ko": "「요컨대 부모가 못나서 자식이 엇나갔다는 얘기잖아?\n　피차일반인 셈 치자고」"
+    },
+    {
+      "id": "da1505:T00038",
+      "source_sha256": "7d672aaca26c389195b9c25555144499bb8caf7b51f3ec442b8b4ef25881bc1c",
+      "ko": "「역시, 아버님은 말이 통하시네요」"
+    },
+    {
+      "id": "da1505:T00039",
+      "source_sha256": "11083040937694491e85435afcac71218d4f3489ddab02340aa14ee360a5636a",
+      "ko": "「적반하장으로 나오지 마라, 계집애야아앗!」"
+    },
+    {
+      "id": "da1505:T00040",
+      "source_sha256": "257ee8fb1135e6e3f3066310965afbfe6142cbc9243e5581ebeb47dd5da04001",
+      "ko": "「――――」"
+    },
+    {
+      "id": "da1505:T00041",
+      "source_sha256": "6ad35c056f72fca72c2483e278ae753e286001ea4ce6efe40bd5e220cc98ba34",
+      "ko": "그때, 소녀는 가만히 미소 지었다."
+    },
+    {
+      "id": "da1505:T00042",
+      "source_sha256": "03af43449f1076c10e97435bf94eab3af747808b1adc95985477303c651d92c0",
+      "ko": "더없이 온화한 미소."
+    },
+    {
+      "id": "da1505:T00043",
+      "source_sha256": "67686480d771743a5735b14bf55076296a90239250b2409ec027719f388d2b4e",
+      "ko": "새벽녘에 아스라이 녹아드는, 아침 안개의 청초함."
+    },
+    {
+      "id": "da1505:T00044",
+      "source_sha256": "37126a8f3d6685a746d66a8c34a2522c0a01ecf700f359cea545535dabc27ad0",
+      "ko": "「――고마워요」"
+    },
+    {
+      "id": "da1505:T00045",
+      "source_sha256": "304adf42b32db4de69e45950f68612fa010e169306a51bed5bda09cfd502ad7e",
+      "ko": "「……무엇이냐? 뜬금없이」"
+    },
+    {
+      "id": "da1505:T00046",
+      "source_sha256": "d9f3b41b744001d161c51e9b7bb8bdae1cc0085c587ee59af23a172c39727379",
+      "ko": "「나는 지금, 여기에 있어」"
+    },
+    {
+      "id": "da1505:T00047",
+      "source_sha256": "37126a8f3d6685a746d66a8c34a2522c0a01ecf700f359cea545535dabc27ad0",
+      "ko": "「――고맙다」"
+    },
+    {
+      "id": "da1505:T00048",
+      "source_sha256": "3202798b08bf8e60fe04f0ef2f0e28c86e2ccf423309822668e609123b1d0deb",
+      "ko": "소년은 가만히 미소 지었다."
+    },
+    {
+      "id": "da1505:T00049",
+      "source_sha256": "cf46d21797bb5c4e7a7c6dd3bd0547501365127945c37d68864c2caa2d3a79bb",
+      "ko": "더없이 맑은 미소."
+    },
+    {
+      "id": "da1505:T00050",
+      "source_sha256": "26d78c3439417d7a58dae75efd4414e5ee566a4aba36127fa3a36c62b1857feb",
+      "ko": "폭풍이 지나간 뒤의, 하늘의 청명함."
+    },
+    {
+      "id": "da1505:T00051",
+      "source_sha256": "aa2fddc2b0f1b0e446108835153ff72761a8783afd78636cf53f1c3c2dabc827",
+      "ko": "「나는 지금, 여기에 있다」"
+    },
+    {
+      "id": "da1505:T00052",
+      "source_sha256": "09e34d05ebbee6173664fd2a48fca650c9d3f73e2ad45464e0dc20a1f7d35919",
+      "ko": "「……쿠자쿠?」"
+    },
+    {
+      "id": "da1505:T00053",
+      "source_sha256": "927bca0a6a7361178f2499b5c701a39b86d5de7e764390205a4194247223586d",
+      "ko": "「내가 살아가는 세계는 이어져 있었다.\n　당신들이 살아가는, 이 세계와」"
+    },
+    {
+      "id": "da1505:T00054",
+      "source_sha256": "33c85a7fccec987796dd5e24ea97879887129a8761f8f573e8c3d0a9a906e2e0",
+      "ko": "「나는 혼자가 아니었다.\n　그 의미를, 이제서야 비로소, 진정으로 깨달았다」"
+    },
+    {
+      "id": "da1505:T00055",
+      "source_sha256": "5d05040f8d374f176a701c8179c58dc8c62a9f9b628044438efb5c4fc7eb709a",
+      "ko": "「내가 꾸는 꿈은 이어져 있었어.\n　당신들이 자아내는, 이 이야기와」"
+    },
+    {
+      "id": "da1505:T00056",
+      "source_sha256": "ade9a14b3e9b65db6c62edf6e070457b319914779bd62537b5d82ea6b556682e",
+      "ko": "「나는 빈 껍데기 따위가 아니었어.\n　그 의미를, 이제서야 비로소, 진정으로 깨달았어」"
+    },
+    {
+      "id": "da1505:T00057",
+      "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+      "ko": "「 "
+    },
+    {
+      "id": "da1505:R00005",
+      "source_sha256": "9645ff23777006e492c41eedfd2efe0fa3324ecbec40a9d5d347baebdec53ed0",
+      "ko": "링크",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1505:T00058",
+      "source_sha256": "2e57961e103fc7dd7042500e4a8cc910abd0eda1d8f6acddfa69eb2630a5ff82",
+      "ko": "인연"
+    },
+    {
+      "id": "da1505:T00059",
+      "source_sha256": "de77c92e700013835c3fc5ad8f581a6c050fa5f015b75f694fe41715cfb4847e",
+      "ko": "은 "
+    },
+    {
+      "id": "da1505:R00006",
+      "source_sha256": "94f5801ec32f7aa6bfc6b59c8e170ecd2cb921827598e0d2456fd34766a40e8b",
+      "ko": "링",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1505:T00060",
+      "source_sha256": "08002c6675f7436cb3d3f94de4e300a9c18e134a8ace3375e4c1d628578753c9",
+      "ko": "원"
+    },
+    {
+      "id": "da1505:T00061",
+      "source_sha256": "a736ffea8576b5e649cf326dc9bcebf8ef76422a05bc3c058430c9930886dc4b",
+      "ko": "인 거다.\n　　세상의 모든 것은 이어져 있는 거다.\n　　그러니――」"
+    },
+    {
+      "id": "da1505:T00062",
+      "source_sha256": "b86493ad6131f75f9995a6e1942ad86c0998e444576c3292b402345eb942a5ef",
+      "ko": "「아버님, 어머님」"
+    },
+    {
+      "id": "da1505:T00063",
+      "source_sha256": "a820edb2493080678c92b6bf51f96a0d36ec381df66e4f9d5545d57a4b29aced",
+      "ko": "「아버님, 어머님」"
+    },
+    {
+      "id": "da1505:T00064",
+      "source_sha256": "57845a50ffea9c36a0f87ed416de9cb224a5c0e03094ebb7bb820777daa7b30e",
+      "ko": "「내가 살아가는 시대는, 당신들의 미래로\n　직접 이어지는 것은 아니지만」"
+    },
+    {
+      "id": "da1505:T00065",
+      "source_sha256": "b99a9b2e1a566906048d1468b48a33335106aad1ea2653e01dc07ef6b2886d3c",
+      "ko": "「내가 꾸는 꿈은, 당신들의 이야기로\n　직접 이어지는 것은 아니지만」"
+    },
+    {
+      "id": "da1505:T00066",
+      "source_sha256": "e322a038ecd2ad0f50ee7e393418ac84ebf81937214810e86b2e1021a8280205",
+      "ko": "「다시 만나요」"
+    },
+    {
+      "id": "da1505:T00067",
+      "source_sha256": "e322a038ecd2ad0f50ee7e393418ac84ebf81937214810e86b2e1021a8280205",
+      "ko": "「다시 만나요」"
+    },
+    {
+      "id": "da1505:T00068",
+      "source_sha256": "09e8bfce1fd2dbdebfff9c012e6c7f3d2bc8c09b3132f1cee94bcdf155a277e8",
+      "ko": "「그것은 나와는 다른 쿠자쿠이고……\n　　　　하지만 같은 쿠자쿠일 테니까」"
+    },
+    {
+      "id": "da1505:T00069",
+      "source_sha256": "a0b94b322f1747a033df2180aeb6fe32bbd411f1e829578adffb0db542e26f44",
+      "ko": "「어, 어이……」"
+    },
+    {
+      "id": "da1505:T00070",
+      "source_sha256": "0c0ef9eea55a94c4c2ad473ed91f7dfa29c0d604d316e1b160e5ed6bfe7a5b98",
+      "ko": "「기다……」"
+    },
+    {
+      "id": "da1505:T00071",
+      "source_sha256": "c9eb91e634112c60ff5c24785aad40bf216aa8ae20d43ffb0581acf5183a78aa",
+      "ko": "「기다려라」라고."
+    },
+    {
+      "id": "da1505:T00072",
+      "source_sha256": "ea734266162b4d80675f58d4d20291a12574fcb1940ebc674ea915ee08aa2039",
+      "ko": "어째선지 말하려 했다."
+    },
+    {
+      "id": "da1505:T00073",
+      "source_sha256": "0ac49d7751ef805e72e0d2f55d3b4b740866ea1d655aa791ec914513dd07919b",
+      "ko": "그때."
+    },
+    {
+      "id": "da1505:T00074",
+      "source_sha256": "3a0b1cf60c56d510c997f362ebd9f08da69663efb861a3b0daaab9711d16c436",
+      "ko": "한층 눈부신 아침 해가, 우리들의 눈을 찔렀다.\n\n　소년의 모습이."
+    },
+    {
+      "id": "da1505:T00075",
+      "source_sha256": "4e0f3b7cba764ef9dfcf79157eb61aef8e0772f941ef071f7d04f5e860eab881",
+      "ko": "소녀의 모습이."
+    },
+    {
+      "id": "da1505:T00076",
+      "source_sha256": "867dab2d1780ffb54c921993ec01709ea98630dd07222e0520431a76501cd48f",
+      "ko": "또 다른 데몬베인의 모습이――"
+    },
+    {
+      "id": "da1505:T00077",
+      "source_sha256": "e4665ab4ee0b890fd1210c1f86a99a275e3fc90ceb472bc5f0e3ae883f27ca5f",
+      "ko": "타오르는 듯한 황금빛 속으로 녹아든다.\n\n　그리고."
+    },
+    {
+      "id": "da1505:T00078",
+      "source_sha256": "45e7339a96cf76c86074f1cb6cb2a971e4c7aeb7951ec7c1194072b8950927ee",
+      "ko": "「「…………」」"
+    },
+    {
+      "id": "da1505:T00079",
+      "source_sha256": "c5931545de8756d405979e7709a413351f479d97917df7456ffd7216f4b484b9",
+      "ko": "새벽빛 너머에는, 아무것도 없다."
+    },
+    {
+      "id": "da1505:T00080",
+      "source_sha256": "204d668d1fabb54f25311ce15c3478a84c7fab8badb08ed11efa3480c516ba7b",
+      "ko": "소년의 모습도."
+    },
+    {
+      "id": "da1505:T00081",
+      "source_sha256": "56cb02103e54dc8b18cd9b6b8183709d77ad7da7096897fda32d005cbd71c21c",
+      "ko": " 소녀의 모습도."
+    },
+    {
+      "id": "da1505:T00082",
+      "source_sha256": "a4a619d4bc5b0623def52338623bd0894ee54585881824a26bdfbe7cbae3cfd2",
+      "ko": "또 다른 데몬베인의 모습도 그 무엇도.\n\n　흔적도 없이 말끔하게."
+    },
+    {
+      "id": "da1505:T00083",
+      "source_sha256": "09dda635e48ed142e5b2a8a814e5ca61a52573b297393c2ad9d4f55cea458c48",
+      "ko": "꿈에서 깨어나는 것처럼."
+    },
+    {
+      "id": "da1505:T00084",
+      "source_sha256": "d61d91d8c882ae73d740f3e62967822246d3dfa52bd6b72ab360cb9b89a022df",
+      "ko": "「상얼간이」"
+    },
+    {
+      "id": "da1505:T00085",
+      "source_sha256": "7359e3542e790ef46799a0aa4db9baf860e366d4a392757b0c01547b97448cbc",
+      "ko": "내뱉듯이, 알이 중얼거렸다."
+    },
+    {
+      "id": "da1505:T00086",
+      "source_sha256": "e403b31722cad40795e07ce656179f9201048678617582134d8b1517592c68b5",
+      "ko": "「온갖 민폐를 다 끼쳐 놓고……\n　설교조차 들을 생각이 없단 말이냐」"
+    },
+    {
+      "id": "da1505:T00087",
+      "source_sha256": "fa4b033951a1ec012f230efdd170ad56c3962519e8a9ff339eb4feffa6db60ba",
+      "ko": "아침 해가 눈부셔서, 알의 얼굴은 잘 보이지 않는다."
+    },
+    {
+      "id": "da1505:T00088",
+      "source_sha256": "539681f9145134b470bfae9d559af74b84b6ed2ef6fe38830cd52012c93cbaa6",
+      "ko": "나는 아무 말도 하지 않았다.\n\n　그저, 소년이, 소녀가, 또 다른 데몬베인이 사라진\n　빛의 너머를 바라보고 있었다."
+    },
+    {
+      "id": "da1505:T00089",
+      "source_sha256": "c20a5c37a76f7cac51a8eee2d93bd7aca17c8a8d8b7e0a15e343d5f2e6aa7441",
+      "ko": "「――불효막심한 놈 같으니」"
+    },
+    {
+      "id": "da1505:T00090",
+      "source_sha256": "4940f714b9ef7cc55e3a7465b9f37c8ea998bbb376bd096731e255b83d3510b7",
+      "ko": "아침이 온다."
+    },
+    {
+      "id": "da1505:T00091",
+      "source_sha256": "5e1dbf0c4dc92a7b6b6ee8b4cd9276892fc983f90abf0aaf5c1e7aebb8909d74",
+      "ko": "눈을 뜰 때가 찾아온다."
+    },
+    {
+      "id": "da1505:T00092",
+      "source_sha256": "8a27f877d053dfa540e7e2c09faaa4d0ed5661cbc40836202ee28ae037b82d85",
+      "ko": "꿈은 그저 꿈으로 돌아갈 뿐."
+    },
+    {
+      "id": "da1505:T00093",
+      "source_sha256": "d40d3bd9eefa55f80cf91ddb6719bc58e33877002af20a2945d273d5f5becd64",
+      "ko": "스쳐 지나가는 바람은,"
+    },
+    {
+      "id": "da1505:T00094",
+      "source_sha256": "325d86a2e0c280295bd9c4d28deb28ffcd7cd014a744877025aceb4724161024",
+      "ko": "어렴풋이 달콤한,"
+    },
+    {
+      "id": "da1505:T00095",
+      "source_sha256": "0eaf0e0705f631649d6c11653cc5d963ec6ce784bd58be942492612bbf00de83",
+      "ko": "피비린내가 났다."
+    },
+    {
+      "id": "da1505:T00096",
+      "source_sha256": "45e7339a96cf76c86074f1cb6cb2a971e4c7aeb7951ec7c1194072b8950927ee",
+      "ko": "「「…………」」"
+    },
+    {
+      "id": "da1505:T00097",
+      "source_sha256": "c5931545de8756d405979e7709a413351f479d97917df7456ffd7216f4b484b9",
+      "ko": "새벽빛 너머에는, 아무것도 없다."
+    },
+    {
+      "id": "da1505:T00098",
+      "source_sha256": "204d668d1fabb54f25311ce15c3478a84c7fab8badb08ed11efa3480c516ba7b",
+      "ko": "소년의 모습도."
+    },
+    {
+      "id": "da1505:T00099",
+      "source_sha256": "56cb02103e54dc8b18cd9b6b8183709d77ad7da7096897fda32d005cbd71c21c",
+      "ko": " 소녀의 모습도."
+    },
+    {
+      "id": "da1505:T00100",
+      "source_sha256": "a4a619d4bc5b0623def52338623bd0894ee54585881824a26bdfbe7cbae3cfd2",
+      "ko": "또 다른 데몬베인의 모습도 그 무엇도.\n\n　흔적도 없이 말끔하게."
+    },
+    {
+      "id": "da1505:T00101",
+      "source_sha256": "09dda635e48ed142e5b2a8a814e5ca61a52573b297393c2ad9d4f55cea458c48",
+      "ko": "꿈에서 깨어나는 것처럼."
+    },
+    {
+      "id": "da1505:T00102",
+      "source_sha256": "d61d91d8c882ae73d740f3e62967822246d3dfa52bd6b72ab360cb9b89a022df",
+      "ko": "「상얼간이」"
+    },
+    {
+      "id": "da1505:T00103",
+      "source_sha256": "7359e3542e790ef46799a0aa4db9baf860e366d4a392757b0c01547b97448cbc",
+      "ko": "내뱉듯이, 알이 중얼거렸다."
+    },
+    {
+      "id": "da1505:T00104",
+      "source_sha256": "e403b31722cad40795e07ce656179f9201048678617582134d8b1517592c68b5",
+      "ko": "「온갖 민폐를 다 끼쳐 놓고……\n　설교조차 들을 생각이 없단 말이냐」"
+    },
+    {
+      "id": "da1505:T00105",
+      "source_sha256": "fa4b033951a1ec012f230efdd170ad56c3962519e8a9ff339eb4feffa6db60ba",
+      "ko": "아침 해가 눈부셔서, 알의 얼굴은 잘 보이지 않는다."
+    },
+    {
+      "id": "da1505:T00106",
+      "source_sha256": "539681f9145134b470bfae9d559af74b84b6ed2ef6fe38830cd52012c93cbaa6",
+      "ko": "나는 아무 말도 하지 않았다.\n\n　그저, 소년이, 소녀가, 또 다른 데몬베인이 사라진\n　빛의 너머를 바라보고 있었다."
+    },
+    {
+      "id": "da1505:T00107",
+      "source_sha256": "c20a5c37a76f7cac51a8eee2d93bd7aca17c8a8d8b7e0a15e343d5f2e6aa7441",
+      "ko": "「――불효막심한 놈 같으니」"
+    },
+    {
+      "id": "da1505:T00108",
+      "source_sha256": "4940f714b9ef7cc55e3a7465b9f37c8ea998bbb376bd096731e255b83d3510b7",
+      "ko": "아침이 온다."
+    },
+    {
+      "id": "da1505:T00109",
+      "source_sha256": "5e1dbf0c4dc92a7b6b6ee8b4cd9276892fc983f90abf0aaf5c1e7aebb8909d74",
+      "ko": "눈을 뜰 때가 찾아온다."
+    },
+    {
+      "id": "da1505:T00110",
+      "source_sha256": "8a27f877d053dfa540e7e2c09faaa4d0ed5661cbc40836202ee28ae037b82d85",
+      "ko": "꿈은 그저 꿈으로 돌아갈 뿐."
+    },
+    {
+      "id": "da1505:T00111",
+      "source_sha256": "d40d3bd9eefa55f80cf91ddb6719bc58e33877002af20a2945d273d5f5becd64",
+      "ko": "스쳐 지나가는 바람은,"
+    },
+    {
+      "id": "da1505:T00112",
+      "source_sha256": "325d86a2e0c280295bd9c4d28deb28ffcd7cd014a744877025aceb4724161024",
+      "ko": "어렴풋이 달콤한,"
+    },
+    {
+      "id": "da1505:T00113",
+      "source_sha256": "0eaf0e0705f631649d6c11653cc5d963ec6ce784bd58be942492612bbf00de83",
+      "ko": "피비린내가 났다."
+    }
+  ],
+  "issues": [
+    {
+      "id": "da1505:R00001",
+      "kind": "ruby_decision",
+      "note": "ヤマ(사건을 이르는 은어)의 한국어 읽기가 밑글자 「사건」과 같아 두 번 보이므로 읽기 줄 생략"
+    }
+  ]
+}

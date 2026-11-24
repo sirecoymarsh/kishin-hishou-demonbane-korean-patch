@@ -1,0 +1,226 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0006_da0104",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0104:T00001",
+   "source_sha256": "27a49bd98818ca1950d540e9255b5aa1b8dcb0156c250a6176f818de1af135a2",
+   "ko": "「실례합니다.\n　차를 가져왔습니다」"
+  },
+  {
+   "id": "da0104:T00002",
+   "source_sha256": "5a886c2538738c902ce3e85f6033fa3d45bfad8288149ee988c948a4775cf918",
+   "ko": "「고마워요, 이나다」"
+  },
+  {
+   "id": "da0104:T00003",
+   "source_sha256": "3cfdb259b771b8e2adfd3dab68ebe43b1aa0ecd69246559e30f8af69ed852c3a",
+   "ko": "「음, 수고했다」"
+  },
+  {
+   "id": "da0104:T00004",
+   "source_sha256": "6890551e5e1154f7cf553ae454d2495538198f14d2359186d69d499db4462928",
+   "ko": "차를 가져다준 메이드 씨를 곁눈질하며, 우리는 어제 있었던 사건에 대해 이야기하고 있었다."
+  },
+  {
+   "id": "da0104:T00005",
+   "source_sha256": "25e7e3b58b7323fb5fc9a9943131291590448befccc844d42f97ffb2a7850223",
+   "ko": "「……그렇군요. 또 나왔나요」"
+  },
+  {
+   "id": "da0104:T00006",
+   "source_sha256": "9a5c4c315aee8a4c7c62a836906fc42175c0a1373d3f586d794c5af74f80990f",
+   "ko": "「게다가 빈도가 늘고 있어.\n　어떻게든 하지 않으면 위험한데…… 으음」"
+  },
+  {
+   "id": "da0104:T00007",
+   "source_sha256": "85f690acb6b2307e9328779920cd23ae4c81aa791ac9861cd77d26631e45cd20",
+   "ko": "「단서는 아직인가요?」"
+  },
+  {
+   "id": "da0104:T00008",
+   "source_sha256": "1ef25f2a6147fd528a544537314fbf781ef37afe24bcfa544b55802263b2eb38",
+   "ko": "「전혀」"
+  },
+  {
+   "id": "da0104:T00009",
+   "source_sha256": "a15ffe556d2cefa450b93bae57a482bd43f47f4461f65fc78ac18f3e0e0ae76d",
+   "ko": "「곤란하네요……」"
+  },
+  {
+   "id": "da0104:T00010",
+   "source_sha256": "6792a49f0bea875775dcf4ce5d2e433218a0b878f01a51b782acce6fae2ec1e3",
+   "ko": "「사용인, 다과를 내오너라」"
+  },
+  {
+   "id": "da0104:T00011",
+   "source_sha256": "15469817c712e2e0b607d13f9a883fa56713cd6cb362d9b975ccd2cbfa4ee609",
+   "ko": "「거기. 대화에 참여해라」"
+  },
+  {
+   "id": "da0104:T00012",
+   "source_sha256": "45ea54918cda57eae4b76f58bd04497c48769c44b21fd55743805a83ccd23930",
+   "ko": "「알 땅…… 오늘도 귀여워……\n　하아하아……」"
+  },
+  {
+   "id": "da0104:T00013",
+   "source_sha256": "689009ddc1a2b789e75bef83cd85e1a932e4138fdc3a3bb7b050cb51dc40b47d",
+   "ko": "「거기. 일하세요」"
+  },
+  {
+   "id": "da0104:T00014",
+   "source_sha256": "4d4b33c5deb3af57317962e95232c8ffbfe88b8a4c27125989700608f9bb4004",
+   "ko": "「어, 어느 틈에……!」"
+  },
+  {
+   "id": "da0104:T00015",
+   "source_sha256": "01cefc9636779fc129bd12cfa78af55bbaec3a6805ef91bf689bc9b8313ce8c4",
+   "ko": "「아~…… 아가씨, 죄송합니더.\n　폐를 끼쳤네예……」"
+  },
+  {
+   "id": "da0104:T00016",
+   "source_sha256": "8810868a4fa91ccc1a772d7ae1bde951fa47791ea286016b6361658337d90a6a",
+   "ko": "「자, 돌아간데이. 마코토!」"
+  },
+  {
+   "id": "da0104:T00017",
+   "source_sha256": "959411f40c3ad827233c1d1bbdcfc98faed0377d1f6e593322b386da9d656430",
+   "ko": "「아아아아…… 하, 하다못해 알 땅의\n　냄새라도……!」"
+  },
+  {
+   "id": "da0104:T00018",
+   "source_sha256": "49cd417d839fbf6455f1c342fa52ffd3575ed0ebf9412826e2a9a1dc50b24155",
+   "ko": "「니 오늘 화장실 청소 아이가.\n　퍼뜩 일해라!」"
+  },
+  {
+   "id": "da0104:T00019",
+   "source_sha256": "2bdaf9d384f858330613031ae9e663f2fca29a4ccc0f4fe2c37f82cc11d62df0",
+   "ko": "「반짝반짝하게 닦아 놔라아!\n　마리아님이라도 똥 싸고 싶어질\n　정도로 말이다아!」"
+  },
+  {
+   "id": "da0104:T00020",
+   "source_sha256": "76ef244c744c6f276bddd4128dc0220ed0ffc800658cd3c72ea9464fbe69ffe1",
+   "ko": "「――소냐 씨.\n　에이프런이, 삐뚤어졌답니다?」"
+  },
+  {
+   "id": "da0104:T00021",
+   "source_sha256": "5a76c2273818c24d4b58f85311ce6f310b3801ba07c2b6d8af5ad3759a1a4323",
+   "ko": "「닥쳐라, 구더기」"
+  },
+  {
+   "id": "da0104:T00022",
+   "source_sha256": "5232e5d072ba752f2686b4f72668225cb4807a8ada904ae8e8faa0ecec4ec1b7",
+   "ko": "「뭐, 뭐냐…… 저 여자는……!」"
+  },
+  {
+   "id": "da0104:T00023",
+   "source_sha256": "bc5dbca13735b46e029a05c0514c3eb1a9aa7e6e34b87a64c097751a07a68bf3",
+   "ko": "「……크흠.\n　어찌 됐든 뭔가 수를 써야만 합니다」"
+  },
+  {
+   "id": "da0104:T00024",
+   "source_sha256": "8523013a2c7da27e114faee49efbcf7ffd90fb90024303d157cbbe82133c8e64",
+   "ko": "「아미티지 영감님이라면, 뭔가 알고 있으려나……?」"
+  },
+  {
+   "id": "da0104:T00025",
+   "source_sha256": "f8ecc478aafd764ee3dae8c9a3e1981235d03f4872d9bbce63b90e48fe71c127",
+   "ko": "「미스캐토닉 대학 말입니까」"
+  },
+  {
+   "id": "da0104:T00026",
+   "source_sha256": "9dc51af3cfea964cadaa97fac347d7c210837fb85733b235968490dff50ee7fa",
+   "ko": "「그다지 내키지는 않지만 말이야」"
+  },
+  {
+   "id": "da0104:T00027",
+   "source_sha256": "10682e0b6d0804a673b8c772628ff9ed846f43617ba280df8ae8c705e9c639aa",
+   "ko": "「뭐냐, 아직도 "
+  },
+  {
+   "id": "da0104:R00001",
+   "source_sha256": "a27626a1e65ab5c40c4d505d677ed712f6a79b849255bf543fea670cfc3e28eb",
+   "ko": "트라우마",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0104:T00028",
+   "source_sha256": "befd6e4a77ca081a422906f62fbacd67cf9c5b08d7918ae82d2f47c5069ba8b8",
+   "ko": "심적 외상"
+  },
+  {
+   "id": "da0104:T00029",
+   "source_sha256": "e9831924856b3c9c4f8ba710de549691f816de6776d49adfffc10c9dd347d3c0",
+   "ko": "에서 벗어나지 못한 것이냐?\n　……원 참, 『전생』의 기억이거늘\n　한심하구나」"
+  },
+  {
+   "id": "da0104:T00030",
+   "source_sha256": "183d6bb98c801c73d6c5dbc0fe8dfb2e50b438e7ff0af658b32b3d83f5e8699a",
+   "ko": "「아니…… 전생이라고 하지 마」"
+  },
+  {
+   "id": "da0104:T00031",
+   "source_sha256": "b34faf1111b5745e5d4433b0c9d963d38a05378616d88e3307e664b022e5308b",
+   "ko": "「?」"
+  },
+  {
+   "id": "da0104:T00032",
+   "source_sha256": "be8e0211fa389de49352472c902fa6b16831404d538188b9da2c6481d36ec063",
+   "ko": "그건 우리한테만 통하는 말일 텐데."
+  },
+  {
+   "id": "da0104:T00033",
+   "source_sha256": "d32bde97616c9f5a0fe66a37585229472f6cc40f47c681391efb865f69498270",
+   "ko": "……봐, 공주님이 고개를 갸웃거리고 있잖아."
+  },
+  {
+   "id": "da0104:T00034",
+   "source_sha256": "4933845bed951ca97096f2f0272ae6fcc151d6beef2662189faf94a1abb23780",
+   "ko": "「트라우마라는 건 아니지만."
+  },
+  {
+   "id": "da0104:R00002",
+   "source_sha256": "b750c2ece644240b0f8e138a0602b89062dcd4cb934044a963e76bf34670b76d",
+   "ko": "・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0104:T00035",
+   "source_sha256": "12709a04aa16a7209eee0a38e91dc2ab371c1c82e18ebda9f045a679af48bb40",
+   "ko": "개성이 강한 인간"
+  },
+  {
+   "id": "da0104:T00036",
+   "source_sha256": "899c28abd048a283a6b4443f0e8760f99a1963e60c1ddb728187acd1575b6e6e",
+   "ko": "이 많거든, 그 대학은.\n　솔직히 말해서 피곤해」\n\n　애초에 내가 다녔던 음비학과 자체가 개성이 지나치게 강하다."
+  },
+  {
+   "id": "da0104:T00037",
+   "source_sha256": "6d5b77483c7143e5df613fe63776c598f89cfc1c0dc09748959f4ed761e5bf8e",
+   "ko": "그중에서도 으뜸인 게 더니치 사건에 관여했던 아미티지\n영감님인데, 거기에 맞먹을 만큼 독한 선생이 또 있다."
+  },
+  {
+   "id": "da0104:T00038",
+   "source_sha256": "f4745b7d72c6837d2444eb3e83d17bfc49fd183e47f9b9f1b72a15398b397dd6",
+   "ko": "「그러고 보니 최근에, 아컴 시티로 돌아왔다고 들었는데.\n　그 선생도 뭔가 알고 있을지 모르겠네」"
+  },
+  {
+   "id": "da0104:T00039",
+   "source_sha256": "e31ce3dbc1d2e193de3c6981c76d0ca7c2eb4c5628f179c793415cd519ef7eba",
+   "ko": "「그 선생님이라니요?」"
+  },
+  {
+   "id": "da0104:T00040",
+   "source_sha256": "0dd5f12677c00a9455d54040039ae20a427dbec8e5ac2840ddaafe512b54227c",
+   "ko": "「유독 대단한 사람이 있거든.\n　……도저히 영감탱이라고는 생각할 수 없는 양반이 말이야」"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0104:T00025",
+   "kind": "glossary_candidate",
+   "note": "용어집 pending 항목인 'ミスカトニック(미스캐토닉)'가 출현하여 임시 기준 표기를 적용함."
+  }
+ ]
+}

@@ -1,0 +1,478 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0050_da0404",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0404:T00001",
+   "source_sha256": "676354439a263a31056de20ea7e078c6c3b64bd4eecae28a8a90fbde31666b28",
+   "ko": "「히에에에에에~~!\n　뭐가 어떻게 돌아가는 건가요오~!」"
+  },
+  {
+   "id": "da0404:T00002",
+   "source_sha256": "88d8d75526e7a13f325edf0c41d2bc5621a8f6c1c7fff425e354a94400efb89b",
+   "ko": "「에잇!\n　궁시렁대지 말고 뛰기나 해라!」"
+  },
+  {
+   "id": "da0404:T00003",
+   "source_sha256": "961cc0cfb6b04ec06babd4f361263e9016388fd64a32c93f24dd7839ce5372c4",
+   "ko": "눈을 떠 보니, 본 적 없는 거대한 시설."
+  },
+  {
+   "id": "da0404:T00004",
+   "source_sha256": "7e173b24d3bcd131f04c89c50f1586489f3fd3ecc6b549db1f46fbf73b74051c",
+   "ko": "거기다 시설 안을 꿈틀거리는, "
+  },
+  {
+   "id": "da0404:R00001",
+   "source_sha256": "9df61bf03aa5ab5b4b2fe2d9c69819160717e64891021bdd520f9b41ab5e107f",
+   "ko": "좀비",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0404:T00005",
+   "source_sha256": "b4fa3b34ec901813c18b63222d859df2c094e0fccaaa6ab2021edb85ef31cb03",
+   "ko": "시체"
+  },
+  {
+   "id": "da0404:T00006",
+   "source_sha256": "d70335ff1bcbf1ce71cf3d70310f1f42c1e8fec6fd88e64d1281677ea4b72475",
+   "ko": "의 무리."
+  },
+  {
+   "id": "da0404:T00007",
+   "source_sha256": "8ade38b7b9da52f833fa3a2012e2b5dfa2896e0b286f87414e759e8aaf9998a9",
+   "ko": "치아키, 마코토, 소냐 3명은 쫓기고 있었다.\n\n　산 자의 피와 살을 갈구하며, 좀비들은 덤벼들어 온다."
+  },
+  {
+   "id": "da0404:T00008",
+   "source_sha256": "16401cb4eb47afeb26bcbfac09dd6c11f4450adbe15d5f8d2e8788686766bac1",
+   "ko": "시체인 만큼 움직임은 둔하다."
+  },
+  {
+   "id": "da0404:T00009",
+   "source_sha256": "677427466240da6c7296a73f87b5aecff6614a6ea3d4a6ec4a1fdb7839f8ee3a",
+   "ko": "하지만 그중에는 『신선도』가 좋아서 민첩한 녀석도 있기에, 전혀 방심할 수\n없다.\n\n　결정타는 그 수다."
+  },
+  {
+   "id": "da0404:T00010",
+   "source_sha256": "48e31015299d16872307b0a98a2752aef6b47abd32022a260462c07b05d254e0",
+   "ko": "도망치는 곳마다 좀비 놈들이 솟아난다."
+  },
+  {
+   "id": "da0404:T00011",
+   "source_sha256": "d3ac1d9403a805876debe7a82c230199e3c633e12ce951c5ca8944c9381a5136",
+   "ko": "3명은 낯선 시설을 우왕좌왕 뛰어다닐 수밖에 없었다."
+  },
+  {
+   "id": "da0404:T00012",
+   "source_sha256": "6b57502d83c3d701928205aaf1228a1b45bd6349b364c4d790d3af572319a853",
+   "ko": "「더는 못 뛰어요오오오오옷」"
+  },
+  {
+   "id": "da0404:T00013",
+   "source_sha256": "fb34fcc93cc51b69b4ff4b5f0b98030ad49376b6030ea12b91df14b7ab83b812",
+   "ko": "「하아…… 하아…… 틀어박힐 만한 방이라도 있으면 좋을 낀데……」"
+  },
+  {
+   "id": "da0404:T00014",
+   "source_sha256": "0385cd4ab483a7d0699899e4f262af40a5fa4d1b742aef1a746820023440bcf4",
+   "ko": "「――아…… 아차」"
+  },
+  {
+   "id": "da0404:T00015",
+   "source_sha256": "2add3e53952867ebf50eb6a2a147ae22c36e36f9b011c74e16698a4e93ca5107",
+   "ko": "「와 그라는데!?」"
+  },
+  {
+   "id": "da0404:T00016",
+   "source_sha256": "1cce74221a12cc0a5ec479e0aaec4ad6be2456eb208878e6831110baf39ca6d8",
+   "ko": "「――포위됐습니다」"
+  },
+  {
+   "id": "da0404:T00017",
+   "source_sha256": "1a731d3a57bee38e639b85977e74c6c6257c75daa688f10cc00d3724abb5b083",
+   "ko": "「「꺄――――――――――――!」」"
+  },
+  {
+   "id": "da0404:T00018",
+   "source_sha256": "38cf4106e2dd66b81700d44dc0404c618d497d5e70033bef5a1c361a390cde0c",
+   "ko": "통로 전방에 좀비 집단."
+  },
+  {
+   "id": "da0404:T00019",
+   "source_sha256": "28e2685097d82407d9b46e01fc87be66eef898a44ce8af0f1ab43aeb9372f537",
+   "ko": "그리고 후방에서는 그녀들을 쫓아온 좀비들이 다가오고 있다.\n\n　통로는 직선, 샛길은 없음."
+  },
+  {
+   "id": "da0404:T00020",
+   "source_sha256": "fff061d70b1e2b76d26ae72c886071aaa3027b634786053e5ba4707cf78c56ae",
+   "ko": "즉 도망칠 곳이 없다."
+  },
+  {
+   "id": "da0404:T00021",
+   "source_sha256": "62e3ba326a18337918ee451c407db8910ae79c1721dd206058fa0aa117c10984",
+   "ko": "「치아키 씨이이이!\n지금이야말로 『이런 일도 있을 줄 알고』\n하면서, 편의주의적 깜짝 놀랄 "
+  },
+  {
+   "id": "da0404:R00002",
+   "source_sha256": "597a80237c94958ee72b3fd641207796a27d401e9ac7b70d6db132e09d63976a",
+   "ko": "아이템",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0404:T00022",
+   "source_sha256": "abf98483a02cd0ca044d12d5679012abe722a4831ce1e4503689f6d15241f356",
+   "ko": "발명품"
+  },
+  {
+   "id": "da0404:T00023",
+   "source_sha256": "99f240a3046fa30daf63cc15ecee08592f8d7eb7a25c805be86ebdedc829c88e",
+   "ko": "을 꺼낼 타이밍 아니냔\n말이에요오오오!」"
+  },
+  {
+   "id": "da0404:T00024",
+   "source_sha256": "f98ebe22fe5b6ee10a47b490ccb4a3e2f79b1e92ec75f6ef9552ec57e4e054a5",
+   "ko": "「자 내놔요!　뜸 들이지 말고 냉큼 내놓으란 말이에요오!　그것만이 치아키 씨의 유일한 존재 가치란 말이에요, 젠장할!」"
+  },
+  {
+   "id": "da0404:T00025",
+   "source_sha256": "5ce92ae936a768d016a99d1da1b0f1aae4b9fdf74e220437ca028302983ba61a",
+   "ko": "「있겠나, 그런 기!\n　……아, 그리고 나중에 두들겨\n　패 줄 끼다. 각오해 두래이?」"
+  },
+  {
+   "id": "da0404:T00026",
+   "source_sha256": "638e0ea7735f74e4e61d2b133008c028f75c79dbb7ffe220034ebe657f7aac97",
+   "ko": "「꺄악꺄악꺄악!\n　온다 온다 다가와요오~~!」"
+  },
+  {
+   "id": "da0404:T00027",
+   "source_sha256": "ce3207258c80df518f3a2931bace778bf77cd78d5419e281a05c16b8e8e13ff8",
+   "ko": "「아아아아아와와왓, 어어어어,\n　어쩌면 좋노…… 읏!」"
+  },
+  {
+   "id": "da0404:T00028",
+   "source_sha256": "e5ddf047c8c79bd159c44ef5e8b94dd3fdaf636718ba70b052cc2cc95a3990d7",
+   "ko": "「――좀비는 징그럽고 냄새나고 더러워서 싫어. 싫습니다. 최악입니다. 습격당할 거라면 알 땅이 좋아. 하아하아」"
+  },
+  {
+   "id": "da0404:T00029",
+   "source_sha256": "2c66e6248e7d536089adae8ca70230a25e36b1b25257b4ee426a2648702ff636",
+   "ko": "「망상하고 자빠졌을 때가!」"
+  },
+  {
+   "id": "da0404:T00030",
+   "source_sha256": "3b9863ff3cfc32f8cbb158cbf69b02ce0d5e931eb0c70e21abc810820371ee77",
+   "ko": "「아우아우아우아우아우~옷!\n　……무, 무기!　무기는요!?\n　샷건이라든가 콜트 파이슨이라든가\n　바주카라든가 전기톱이라든가\n　프로판 가스라든가아아아아앗!」"
+  },
+  {
+   "id": "da0404:T00031",
+   "source_sha256": "ae03869bf798d1f207287e390215428ca0378f271ee6fc4072689804e553ca8e",
+   "ko": "거리가 점점 좁혀져 간다."
+  },
+  {
+   "id": "da0404:T00032",
+   "source_sha256": "36b0b8987fbc112725abb179385d51169a78d5491728d19c8f9725803624f27f",
+   "ko": "앞문의 좀비."
+  },
+  {
+   "id": "da0404:T00033",
+   "source_sha256": "40b21e3cfa3c6331aa3622ccd91c57af7b8eb19c52d1ed0105db21d070e56535",
+   "ko": " 뒷문의 좀비."
+  },
+  {
+   "id": "da0404:T00034",
+   "source_sha256": "cfb342310e10c1a0f813d9a6bc6ea82591425db8ddb73dd4702cadd9f4ddee68",
+   "ko": "좀비 좀비 좀비 좀비 좀비의 무리."
+  },
+  {
+   "id": "da0404:T00035",
+   "source_sha256": "c31beed35f9bbdbf0cc07a168b12182059b06402a1713d5f0f84e4b6ba009978",
+   "ko": "절체절명의 대위기다."
+  },
+  {
+   "id": "da0404:T00036",
+   "source_sha256": "78ffab2591feca49fc1ae678753f75b7fe96c15eb8aa3241e7da9c3de7b9d056",
+   "ko": "「시이이이일어어어어어~~~~엇!」"
+  },
+  {
+   "id": "da0404:T00037",
+   "source_sha256": "f25ee4337ddfabe7dc5909986516545343c6efd7de61ae608b03ddbe05976369",
+   "ko": "첫 번째 개체가 덤벼들려던 때였다."
+  },
+  {
+   "id": "da0404:T00038",
+   "source_sha256": "50e2efdc9621337401a8c038c9bcb46b18a9a002d592eb9d22a7a3a236fed31e",
+   "ko": "고속 회전하는 무언가가 날아와 그 좀비를 일도양단했다.\n\n　상반신과 하반신으로 분단된 몸뚱이는 그 자리에서 갑작스레 불타올라,"
+  },
+  {
+   "id": "da0404:T00039",
+   "source_sha256": "315badd2820f259eee004bc6661788fd523a7406403859b6de867ef8c3461837",
+   "ko": " 단숨에 다 타서 재가 된다."
+  },
+  {
+   "id": "da0404:T00040",
+   "source_sha256": "11b5ff9ef854bbf73964a04534bdf6cc126c92c838442a487dda83b45832fb18",
+   "ko": "「꺄웃!?」"
+  },
+  {
+   "id": "da0404:T00041",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0404:R00003",
+   "source_sha256": "916cafe9495cdd694d98660001477b346aca0dd2f3abfddc600aef1009e0a515",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0404:T00042",
+   "source_sha256": "3265cdd08afe9532de5fa77802f8ad8c6ab37a09b71eed9a33030f7cfc81830d",
+   "ko": "뭐"
+  },
+  {
+   "id": "da0404:T00043",
+   "source_sha256": "7610a47f5c5ac5c13f037ed5c15862c1a9da9c72632b28ed851dcfea32ecbc02",
+   "ko": "야, 뭐꼬!?」"
+  },
+  {
+   "id": "da0404:T00044",
+   "source_sha256": "42f56a9e7812d402a4b28aeeb0c7a45e6d33fb5cd5ac43e4017caefbd5a5ba29",
+   "ko": "비행체는 그대로 무리 속으로 날아들었다."
+  },
+  {
+   "id": "da0404:T00045",
+   "source_sha256": "7fc9f00760705bb6eb0fe59d43f7c4345959c22a699dbe65d054aa0c3039208b",
+   "ko": "좀비들은 차례차례 베이고 불타오른다."
+  },
+  {
+   "id": "da0404:T00046",
+   "source_sha256": "43068ca47e0723a68067cdaf9020a11cb5b14da2dbeb742186a6eaaf46e01c99",
+   "ko": "시체가 타오르는 불길이 통로를 홍련으로 물들인다."
+  },
+  {
+   "id": "da0404:T00047",
+   "source_sha256": "58bb5b4e88b32034275e22d8ab8fa5ca6765bdf4bd6926d73537f902a7ad25a1",
+   "ko": "호를 그리는 궤도."
+  },
+  {
+   "id": "da0404:T00048",
+   "source_sha256": "66f5e34d4d45b513721c8dee15f0e3a69e2f9c76a1077bcdf943925374ae718c",
+   "ko": "이 회전체가 움직이는 모습에 그녀들은 낯이 익었다."
+  },
+  {
+   "id": "da0404:T00049",
+   "source_sha256": "cc3d6da715eaae5e4afcecfab994ad4b60ed440a87b80c518389b563271db228",
+   "ko": "「――바르자이 "
+  },
+  {
+   "id": "da0404:R00004",
+   "source_sha256": "c0b964b65b3fd63dcd25e5b63c12d0b44ef70a0e89732d9da2bc36714bcdaf3a",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0404:T00050",
+   "source_sha256": "03ac7bdf114fe8204b0f3677b7421b8b3f12d37afec9b04bd27d801b9394fa16",
+   "ko": "언월도"
+  },
+  {
+   "id": "da0404:T00051",
+   "source_sha256": "6560fad1b5299ec45c7562b1e825f123c87101dc289a1eb71426e443d34f4c8c",
+   "ko": "!」"
+  },
+  {
+   "id": "da0404:T00052",
+   "source_sha256": "e9a686f85090d500a4af210f9d7c55bc487a3c9a06e69c445533e128034121db",
+   "ko": "바르자이 언월도."
+  },
+  {
+   "id": "da0404:T00053",
+   "source_sha256": "b1db4239ed9feb382237b146d8d801362a656ea9a0ff06ac8248b4c749fc18e2",
+   "ko": "쿠로가 다루는, 마력을 지닌 검이다."
+  },
+  {
+   "id": "da0404:T00054",
+   "source_sha256": "7a963c97e5f6e412cf847a5df5afebd77f835f6a8cec6ff01e7a16a59e04ebbc",
+   "ko": "투척하면 보다시피 부메랑처럼 날아가 적을 베어 가른다."
+  },
+  {
+   "id": "da0404:T00055",
+   "source_sha256": "792094e8736f2f8b02b91cf4a9b50c7caf1f72ee9303234183551ec933ae06b3",
+   "ko": "「쿠로가!」"
+  },
+  {
+   "id": "da0404:T00056",
+   "source_sha256": "776ac9a7ce5c358ca7d331428f07d32f7554b9edfb607e0e765d6000be8b4511",
+   "ko": "바르자이 언월도는 한 자루가 아니었다."
+  },
+  {
+   "id": "da0404:T00057",
+   "source_sha256": "b7e00f15f63372a55ad62a755653360f63dd373f43e89ea1053eab03e5b29ef5",
+   "ko": "뒤이어 날아오는 언월도가 여섯 자루."
+  },
+  {
+   "id": "da0404:T00058",
+   "source_sha256": "7e88433db845968614500cddd16f84f95303c4add2f09ad8ebbb76dd395c262e",
+   "ko": "각기 다른 궤적을 그리며 좀비들을 공격했다."
+  },
+  {
+   "id": "da0404:T00059",
+   "source_sha256": "db86eefde2d988630b4ed75c0f1e908b5344ee35a6fcdcfe43400cf6f949c584",
+   "ko": "일곱 자루의 언월도에 찢겨, 순식간에 좀비 무리는 전멸했다."
+  },
+  {
+   "id": "da0404:T00060",
+   "source_sha256": "333b3b38bb1165807db5ebb17fc98c56f9b70f084669d6046dbad6315493f595",
+   "ko": "타오르는 불길의 열기가 주위의 풍경을 아지랑이처럼 일렁이게 한다.\n\n　일을 마친 언월도가 주인의 곁으로 날아 돌아온다."
+  },
+  {
+   "id": "da0404:T00061",
+   "source_sha256": "44f3edea6958a0495e75a8d2fb77b8edf6b9f73d89e321fa14636776c8f083a6",
+   "ko": "불타는 통로 너머에, 그 장신의 남자는 서 있었다."
+  },
+  {
+   "id": "da0404:T00062",
+   "source_sha256": "a890bdd45a150e2fa0269f63e812f769dbf217476b1666a25303c01016165349",
+   "ko": "처음 돌아온 언월도를 무심하게 받아 낸다."
+  },
+  {
+   "id": "da0404:T00063",
+   "source_sha256": "36459e958b9e41b65f238c752ac4b8078589e6a34e53b0a54ab7179498acd0ce",
+   "ko": "그 칼날에 겹쳐지듯이 2번째 자루가 남자의 손에."
+  },
+  {
+   "id": "da0404:T00064",
+   "source_sha256": "eb7ca0bc232e67f138d9c11838b9de6c31e71689136239a3494eb198bbdb2eb1",
+   "ko": "이어서 3번째 자루."
+  },
+  {
+   "id": "da0404:T00065",
+   "source_sha256": "5054e9fd765b158570fbadc3a269b4f6e7a5d09cd1694bd48ed6966d5d316a66",
+   "ko": " 4번째 자루――"
+  },
+  {
+   "id": "da0404:T00066",
+   "source_sha256": "842076079b9670a4087a11d516a57443e8898211a2180550578d1520cadb378f",
+   "ko": "5, "
+  },
+  {
+   "id": "da0404:T00067",
+   "source_sha256": "1ce41dd3758ea9ddbb2af039dd07af749a885ef7c09ca671da756bf36067e7aa",
+   "ko": "6, "
+  },
+  {
+   "id": "da0404:T00068",
+   "source_sha256": "0eb4d0470f6cba92155c56511e2326f781a9660d2b89af8efc88fb482ea13c1e",
+   "ko": "7."
+  },
+  {
+   "id": "da0404:T00069",
+   "source_sha256": "8c11259a6b248c4795053824b4a81c91b01de8d8da3544831720dabea0c08c44",
+   "ko": "금속끼리 겹쳐지는 날카로운 소리가 통로에 울린다."
+  },
+  {
+   "id": "da0404:T00070",
+   "source_sha256": "812e659e9271a0bffb83a6954648b0f693661214472e38e9da0e59c6339193f5",
+   "ko": "하지만 기이하게도, 남자의 손바닥에 있는 언월도는 한 자루 그대로였다."
+  },
+  {
+   "id": "da0404:T00071",
+   "source_sha256": "b5c268c351291802a14741796d240e63dde79ef13c14c8dc0f72f8c67400b389",
+   "ko": "「다이쥬지 씨!」"
+  },
+  {
+   "id": "da0404:T00072",
+   "source_sha256": "5b40aff159233d8ffa01c656a385a736de4a9341ec2124216d4d3730d34673f9",
+   "ko": "그녀들이 아는 언월도의 사용자는 단 한 사람."
+  },
+  {
+   "id": "da0404:T00073",
+   "source_sha256": "9c53756dd6b34ede774e2f3c012e2891b1f3142e8880d60207c6070f1a07e153",
+   "ko": "소냐는 그 마도탐정의 이름을 불렀다."
+  },
+  {
+   "id": "da0404:T00074",
+   "source_sha256": "a280bb891ee333a8a0c5b0e8d9ec4e8b23dfdef97bd17435f79f813d1a768353",
+   "ko": "「――에?」"
+  },
+  {
+   "id": "da0404:T00075",
+   "source_sha256": "c8f4110358fb07609fbddb1e75b9e768d6fadb50418c8b7afa04334b923be8ab",
+   "ko": "――아니다.\n\n　불길에 비친 그 얼굴은 쿠로와 전혀 다른 사람의 것이었다."
+  },
+  {
+   "id": "da0404:T00076",
+   "source_sha256": "f6128517f3702ba419083ed29ad35b6abffc191789312c412ddb3817a6275c45",
+   "ko": "예상이 빗나간 3명에게 동요가 일어난다."
+  },
+  {
+   "id": "da0404:T00077",
+   "source_sha256": "83aaeb369a87bf7463be9ca2e7d40a4f45db52ff098abe728601c3cf60cd8637",
+   "ko": "「당신…… 누구고?」"
+  },
+  {
+   "id": "da0404:T00078",
+   "source_sha256": "257ee8fb1135e6e3f3066310965afbfe6142cbc9243e5581ebeb47dd5da04001",
+   "ko": "「――――」"
+  },
+  {
+   "id": "da0404:T00079",
+   "source_sha256": "2ed76bf5ce593aecf7cac6cbdd81dee7715f46d8d8ebe94cc305557e3a40d665",
+   "ko": "치아키의 물음에 남자는 답하지 않는다."
+  },
+  {
+   "id": "da0404:T00080",
+   "source_sha256": "7302f86c4363ff0458a3c35b021827297d80f045d050bfc4966539ff9f8bc4cd",
+   "ko": "그저 조용한 눈동자로 마주 바라볼 뿐이다."
+  },
+  {
+   "id": "da0404:T00081",
+   "source_sha256": "87019b1fb1a1eda06b0fa0d2f4585d055d348b6f67c20fa737af418ddeafa52f",
+   "ko": "불길이 한층 격렬하게 타올랐다."
+  },
+  {
+   "id": "da0404:T00082",
+   "source_sha256": "176cda46c1fb03b71d01e7aba9473f1fa48af86407f77037f0c2a80e8c38d2bc",
+   "ko": "열풍에 움츠러들며 그녀들은 고개를 숙인다."
+  },
+  {
+   "id": "da0404:T00083",
+   "source_sha256": "efc1d82f27c00c2cd66242ba3968b75b5084f0ad635f478df59f2ea4ca40369e",
+   "ko": "그리고……"
+  },
+  {
+   "id": "da0404:T00084",
+   "source_sha256": "acb96902fc0f6c1107b1cb71d1c46c66c2ac7d3cd4c0ff59f50abc6f919e24c4",
+   "ko": "「――앗」"
+  },
+  {
+   "id": "da0404:T00085",
+   "source_sha256": "a7084823faccbcb7ce81721ebfcaf628a7b0df48a67c4af51cd4ccb3cf9a68cc",
+   "ko": "그녀들이 다시 고개를 들었을 때에는, 남자의 모습은 이미 없었다."
+  },
+  {
+   "id": "da0404:T00086",
+   "source_sha256": "bbe95a3daafb060ee270b0ce2a91367d7c574057e0a1ab3fbc8cd9fc32f10861",
+   "ko": "방금 것으로 불길은 대강 잦아들고, 나머지는 작은 불꽃이 날름거리며 연기를 피우고\n있을 뿐이다.\n\n　통로에는 멍하니 서 있는 3명만이 남겨졌다."
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0404:R00003",
+   "kind": "ruby_decision",
+   "note": "何의 독음 안내(なん)로 한국어 '뭐'와 의미가 중복되어 생략."
+  },
+  {
+   "id": "da0404:R00004",
+   "kind": "ruby_decision",
+   "note": "偃月刀의 단순 독음 안내(えんげつとう)로 한국어 한자음 '언월도'와 중복되어 생략."
+  },
+  {
+   "id": "da0404:U00026",
+   "kind": "glossary_candidate",
+   "note": "pending 항목 '바르자이 언월도'(バルザイの偃月刀) 적용."
+  }
+ ]
+}

@@ -1,0 +1,461 @@
+{
+  "schema": "khd-gemini-response-v1",
+  "packet_id": "P0125_da1503a",
+  "model_id": "Gemini 3.8 Flash (High)",
+  "records": [
+    {
+      "id": "da1503a:T00001",
+      "source_sha256": "883449011b55b1188732fa17431089ea7cfb34ba6c52496e572fdf7fe5794712",
+      "ko": "세상을 태우는, 섬광."
+    },
+    {
+      "id": "da1503a:T00002",
+      "source_sha256": "e19f8fe778b77f98dbd4c8acde6acbe820f8d7cf77e72e46f7349c0ea76e3c6d",
+      "ko": "그것은 파멸의 틈바구니에서 태어나는, 작은 빛."
+    },
+    {
+      "id": "da1503a:T00003",
+      "source_sha256": "2c63ddaace4e892ae34b32ffcfa4a420df8c64693789c5d89e31ee62f0714938",
+      "ko": "심연의 정적과, 무한히 "
+    },
+    {
+      "id": "da1503a:R00001",
+      "source_sha256": "cb5077b943831678bad5fcbefc19b802dcc052c1bf98201e03f340457f44e4f8",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1503a:T00004",
+      "source_sha256": "81aab7083dccfd63d162c6a75960f08945b9bab87f1530607523bbf36bbc20f8",
+      "ko": "메아리치는"
+    },
+    {
+      "id": "da1503a:T00005",
+      "source_sha256": "cb6afefdd05b1e308afb9a183d332faccbfeac9b7b1adeacbbf87feb5f072028",
+      "ko": " 별의 기도.\n\n　무한한 빛 속에서, 본다."
+    },
+    {
+      "id": "da1503a:T00006",
+      "source_sha256": "96b94b7d131ebb55ca1a5a948c9d8b6bd69ebf71464245e37447d031cceac0ea",
+      "ko": "새벽녘의 해후."
+    },
+    {
+      "id": "da1503a:T00007",
+      "source_sha256": "67c8ccb04d41c9b47cc67a6646e8c884b195b5e3da4c65fce852908efa81b176",
+      "ko": "황혼의 상실."
+    },
+    {
+      "id": "da1503a:T00008",
+      "source_sha256": "bb569f62cb4065b033a740d2afbaf9567cdc1f263f52d74e15ea6100a9d26ec2",
+      "ko": "시간의 대하를 수놓으며 자아내는, 무수한 이야기를.\n\n　그것은, 비처럼 강하게."
+    },
+    {
+      "id": "da1503a:T00009",
+      "source_sha256": "618b260920e98db4539bb20d2fe82dfd7a7f72f9e3858c262fc3ee5665784d24",
+      "ko": "폭풍처럼 다정하게."
+    },
+    {
+      "id": "da1503a:T00010",
+      "source_sha256": "df91b5406580da4ed80371bfbd1153337abb9b61dbe4f2d3c4907af9d8230d01",
+      "ko": "벼락처럼 유쾌하고."
+    },
+    {
+      "id": "da1503a:T00011",
+      "source_sha256": "39bcbcb16d9cae1bcd18a367723fde5e92c30b3561a8e54871c33f9b16e8fb0c",
+      "ko": "불꽃처럼 사랑스러우며――\n\n　그리고――"
+    },
+    {
+      "id": "da1503a:T00012",
+      "source_sha256": "558d45bc9c3614c9268c9bf613a620ccf08b128a021feadc5fcf18719dd80007",
+      "ko": "무한한 빛, 그 너머에――"
+    },
+    {
+      "id": "da1503a:T00013",
+      "source_sha256": "15d46464b2bbda49d96e2eceaf7e2daa5dfc035effba115aca1d166a02e5f425",
+      "ko": "「……아버님!　……어머님!」"
+    },
+    {
+      "id": "da1503a:T00014",
+      "source_sha256": "791f824624e916d87224c1f69bc2eaf02c07f070876465216539c1524f611ff5",
+      "ko": "그 등을 쫓아, 달린다."
+    },
+    {
+      "id": "da1503a:T00015",
+      "source_sha256": "b3df1533b77ade9c5b255b4e08088911bcf1005e314cf9a18f1290e7c4ec209d",
+      "ko": "놓치지 않으려고."
+    },
+    {
+      "id": "da1503a:T00016",
+      "source_sha256": "a37024e15f6ddf3c42a9ee478f4104bc83aae1e74b6685366ef9e0d28597b3a1",
+      "ko": "손을 필사적으로 뻗으며."
+    },
+    {
+      "id": "da1503a:T00017",
+      "source_sha256": "c3034f4a6724f0d9760b51cd151bc94b7e74e33047f3ff2b049ebebc3993b145",
+      "ko": "하지만,"
+    },
+    {
+      "id": "da1503a:T00018",
+      "source_sha256": "3ace64bd6de38d13091b6469ed84a5038112a96561936f22a6c538e39695c20b",
+      "ko": "아무리 달려도 따라잡을 수 없다."
+    },
+    {
+      "id": "da1503a:T00019",
+      "source_sha256": "4168e37a911816b7028fb248a0cc16ffcb32fdc417509f6b40f8e5e2e252b4a2",
+      "ko": "아무리 손을 뻗어도 닿지 않는다."
+    },
+    {
+      "id": "da1503a:T00020",
+      "source_sha256": "e79a7c6342d02f77c87e8902a72ac3fd074adf1f5dda563e1eb82102907c6807",
+      "ko": "언제나 이 "
+    },
+    {
+      "id": "da1503a:R00002",
+      "source_sha256": "c2c6ed485875dd11a4966427710cb40984da45af08c2826a8617cc820e4ef1ac",
+      "ko": "꿈",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1503a:T00021",
+      "source_sha256": "6895f601b65fdc1098ed7c6ba05d6e1846872fb30db59bbfa2fd0c76bb5dd4ca",
+      "ko": "환상"
+    },
+    {
+      "id": "da1503a:T00022",
+      "source_sha256": "7c6f499a95069fe9f5a139a3874ea486f3798ae91b1f46d6284b31b4461d2b53",
+      "ko": "은, 손가락 틈새로 빠져나간다.\n\n　아아, 그렇구나."
+    },
+    {
+      "id": "da1503a:T00023",
+      "source_sha256": "40e9975ba9178321d87dbbbc430580a787f87ab69c8eec1199f4cb5b0b614277",
+      "ko": "또다시, 이제 와서, 깨달았다.\n\n　그래서 나는……"
+    },
+    {
+      "id": "da1503a:T00024",
+      "source_sha256": "8b732dc4c59c44752e592dbca63536abf4c02a9469901279d05d1548a471388b",
+      "ko": "그것이 분하고, 외로워서, 비뚤어져 있었을 뿐이다."
+    },
+    {
+      "id": "da1503a:T00025",
+      "source_sha256": "78f10f8282ccfcc112d6e0545c89c0baead68250b373cdcd77b37279fa801c95",
+      "ko": "전부, 전부, 단순한 "
+    },
+    {
+      "id": "da1503a:R00003",
+      "source_sha256": "333241e5b79b0de0595ac394536a61f7b62b29a9fb22fed81b394862be4db317",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1503a:T00026",
+      "source_sha256": "1f1347b36c214899c332ceceda47516c9fef2b210b97cd4b622af7e2d54569d0",
+      "ko": "어린애"
+    },
+    {
+      "id": "da1503a:T00027",
+      "source_sha256": "3b2e79bc719379948597cf4be8f8c76f1b3296e6089b0a355b1d9b49e5503647",
+      "ko": "의 "
+    },
+    {
+      "id": "da1503a:R00004",
+      "source_sha256": "626a0564f3eaf15403e8c316e63fa800fd057fc66e609fe2a2d5a3151161da53",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1503a:T00028",
+      "source_sha256": "65096eb4b9de423efae8164e99ddc18dc64e8c20470c94908217a34b131e1acc",
+      "ko": "투정"
+    },
+    {
+      "id": "da1503a:T00029",
+      "source_sha256": "70c2cc676c1639a64928296ab5933a215b5a7e9fdebad2dfe59507786cc26c27",
+      "ko": "이었다.\n\n　더 달린다."
+    },
+    {
+      "id": "da1503a:T00030",
+      "source_sha256": "385d216df5313ab2522ae0007f5134b0a3591952777addb077bc5a2128e1b76b",
+      "ko": "더욱더 손을 뻗는다."
+    },
+    {
+      "id": "da1503a:T00031",
+      "source_sha256": "d8bc1c64355d82e465b2d19f8e069a557a49931e1b52dce4d63f42da220551c2",
+      "ko": "어차피 따라잡을 수는 없다."
+    },
+    {
+      "id": "da1503a:T00032",
+      "source_sha256": "cd864a804708e36a72c0034c215af3c399e3a9f5afd462b7900dd11d829e1299",
+      "ko": "닿을 리는 없다.\n\n\n　하지만,"
+    },
+    {
+      "id": "da1503a:T00033",
+      "source_sha256": "bb663700a0da7a0c74690bb4498bde9e83173d1c402e3ecd5854adc5c027b9ac",
+      "ko": "「쿠자쿠」"
+    },
+    {
+      "id": "da1503a:T00034",
+      "source_sha256": "a0faa5b31b269fc248e6dee648b8dcde59ad4944b2a939e36b0082854a48c974",
+      "ko": "「어……?」"
+    },
+    {
+      "id": "da1503a:T00035",
+      "source_sha256": "bb663700a0da7a0c74690bb4498bde9e83173d1c402e3ecd5854adc5c027b9ac",
+      "ko": "「쿠자쿠」"
+    },
+    {
+      "id": "da1503a:T00036",
+      "source_sha256": "957df08e6d2d224d4a983c5aec4d4fada68ef6749f724e2264b24cfa4b622342",
+      "ko": "「아……」"
+    },
+    {
+      "id": "da1503a:R00005",
+      "source_sha256": "ad00a0b322492061745b24d0a27cfeb54340097e166853622a9781f99bd15efb",
+      "ko": "・・・・・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1503a:T00037",
+      "source_sha256": "ebfcb16a8afa467003be7b61fa6a6b8e884e1f8a70c234d3a78c7c4001d61647",
+      "ko": "죽음조차 죽는"
+    },
+    {
+      "id": "da1503a:T00038",
+      "source_sha256": "47c1d074b85d9c3dfeddbdc2d17933f92293ac81dfb233bf24a89a2200e83543",
+      "ko": ", 이 영겁의 싸움 속에서,"
+    },
+    {
+      "id": "da1503a:T00039",
+      "source_sha256": "cba2efa960e1b82a592ae60e25af66d08058ebd8f02cc11361c15ba2e9f7c1bb",
+      "ko": "「너는, 우리의, "
+    },
+    {
+      "id": "da1503a:R00006",
+      "source_sha256": "b750c2ece644240b0f8e138a0602b89062dcd4cb934044a963e76bf34670b76d",
+      "ko": "・・・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1503a:T00040",
+      "source_sha256": "94caecc1dceff962558761c4b14b2ca093c7d2dfb0102094ce43b47bba8d1d6c",
+      "ko": "삶의 보람"
+    },
+    {
+      "id": "da1503a:T00041",
+      "source_sha256": "0580068b40d23ab18d039c0f17cd99866d7cc7161961b1579f0edf953584ff67",
+      "ko": "이다」"
+    },
+    {
+      "id": "da1503a:T00042",
+      "source_sha256": "b948e71ccce15b89a7463c90535479d8b76e4a9d071d0ee51124b5ee6068c344",
+      "ko": "「쿠자쿠!」"
+    },
+    {
+      "id": "da1503a:T00043",
+      "source_sha256": "ffd139f5ab4f13b0a4950e26aa685df77aae74ca78774f6c77698a206e841297",
+      "ko": "「「……읏!?」」"
+    },
+    {
+      "id": "da1503a:T00044",
+      "source_sha256": "d743e1decbfe631d1255fd520b93e1c8b4e3820dfb81d494bb9292e3122118fb",
+      "ko": "눈앞에 펼쳐지는 것은, 남빛 하늘."
+    },
+    {
+      "id": "da1503a:T00045",
+      "source_sha256": "9bf668cc0093b22cdb7a5cf083aa9fa395f734804622f817674f766dad569d89",
+      "ko": "나를 내려다보는, 무수한 별들.\n\n　나는,"
+    },
+    {
+      "id": "da1503a:T00046",
+      "source_sha256": "a2f59fd6b93d222eebeed88aef6e4934a5fc598e614d3c462e66d7c51b24ff4e",
+      "ko": "나는,"
+    },
+    {
+      "id": "da1503a:T00047",
+      "source_sha256": "39f820864ab47e50113a38beec176dce16cb98ebca9a14c21098ab759ef1b9c1",
+      "ko": "데몬베인 투 소드는, 하늘에 떠 있다."
+    },
+    {
+      "id": "da1503a:T00048",
+      "source_sha256": "ae49be9946a97d14f6786a764182fd70087634bd666641d04a0e6a63595cd8f5",
+      "ko": "「뭘 멍하니 있느냐, 멍청이!」"
+    },
+    {
+      "id": "da1503a:T00049",
+      "source_sha256": "5c77badc7d3cd30b13ce64697caf5c7ffb8643baa461ba6d176a16c874a9d39d",
+      "ko": "하늘 저편에서, 데몬베인이 쫓아온다."
+    },
+    {
+      "id": "da1503a:T00050",
+      "source_sha256": "1bc5539d5268be346547a305291a1c4c0abfae615cef5e284e91decd9ec5fc49",
+      "ko": "그 모습이, 눈 깜짝할 사이에 커진다."
+    },
+    {
+      "id": "da1503a:T00051",
+      "source_sha256": "445a6930f0494e530dba1c4b4f5b052de2bbcf0e2f6db2770dfff6188f9075e3",
+      "ko": "샨타크에서 뿜어져 나오는 영자의 "
+    },
+    {
+      "id": "da1503a:R00007",
+      "source_sha256": "04643f35c1e5d8e52fce392a046f448f99df6d3db3878b44e16cd83f0afeacd7",
+      "ko": "플레어가",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1503a:T00052",
+      "source_sha256": "8a120eec13ffe35dcb1c4f54828bea07fb2ee78d659e8ed11159bf6a549aff36",
+      "ko": "폭염이"
+    },
+    {
+      "id": "da1503a:T00053",
+      "source_sha256": "ea8beed8dd4551fbe6f44bc9a0bdb3a5e2966889902416d03c2feab33e254506",
+      "ko": ", 하늘을 비춘다."
+    },
+    {
+      "id": "da1503a:T00054",
+      "source_sha256": "d2736081dbc19ac4a2cf8843ce60ba1dff77691a44859b85cd3e30fc0db4374e",
+      "ko": "추락하는 "
+    },
+    {
+      "id": "da1503a:R00008",
+      "source_sha256": "edf34d8c8f95a92154525371c91d667007974fdd34acaafbdb022d60a068f630",
+      "ko": "D 투 소드",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1503a:T00055",
+      "source_sha256": "3625e7a096c691cff497400e07b2539799fd0d4715a76950d42142a55b2a7a60",
+      "ko": "우리"
+    },
+    {
+      "id": "da1503a:T00056",
+      "source_sha256": "2d3dd6d2c8419d56570906be0e06980efa57729599d578dcfb4dde1c56b0c039",
+      "ko": "를 향해 손을 뻗는다."
+    },
+    {
+      "id": "da1503a:T00057",
+      "source_sha256": "8d29c0a23c09c7e9e652d6e834ec3aca4151710814902a847c36bd358e44585e",
+      "ko": "나 역시, 반사적으로 손을 뻗는다."
+    },
+    {
+      "id": "da1503a:R00009",
+      "source_sha256": "905b0efb2d86b7b8a5e1a663618fe8fda3615a10bcebe5973ba115f428f9c0e2",
+      "ko": "・・・・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1503a:T00058",
+      "source_sha256": "1cdd84509add8d27019ba758ab61f7f213ee961eaf535d647cd48baf2238ebf3",
+      "ko": "따라잡았다"
+    },
+    {
+      "id": "da1503a:T00059",
+      "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+      "ko": "。"
+    },
+    {
+      "id": "da1503a:R00010",
+      "source_sha256": "399541026b89787f76b6312375d21b42244869347cf836059cf9eba724bb4824",
+      "ko": "・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1503a:T00060",
+      "source_sha256": "012fb333f8f01753fbe3887a9c54b293ef9fa1f231013a8cb3ef0f478c141427",
+      "ko": "손이"
+    },
+    {
+      "id": "da1503a:T00061",
+      "source_sha256": "c4a40ea8fe35627476f7f8cb9e1fc7f8898f428c6d1ff18b0bc5479d5db39c5f",
+      "ko": "、"
+    },
+    {
+      "id": "da1503a:R00011",
+      "source_sha256": "399541026b89787f76b6312375d21b42244869347cf836059cf9eba724bb4824",
+      "ko": "・・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1503a:T00062",
+      "source_sha256": "b060d3050c1b2b6a2951d65032050949d8e4f6182fd33a8211ada068268a749e",
+      "ko": "닿는다"
+    },
+    {
+      "id": "da1503a:T00063",
+      "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+      "ko": "。"
+    },
+    {
+      "id": "da1503a:T00064",
+      "source_sha256": "7050f0742e81bed72320d6b760960e35e61a4e08af3ade8c375cbacb7b5d4055",
+      "ko": "강철 손과 손이 맞잡힌다."
+    },
+    {
+      "id": "da1503a:T00065",
+      "source_sha256": "e29ca59a181cefd823f96dc516b6a67aa6e7dcbf20e3ea0a62bbe20031ddd8b5",
+      "ko": "데몬베인 투 소드의 샨타크가 기동한다."
+    },
+    {
+      "id": "da1503a:T00066",
+      "source_sha256": "61cbf9ed872b5544b0fa35422828a64338c2ad4b29e19be3ece02ee15dc36e12",
+      "ko": "눈부신 빛이 날개가 되어 펼쳐진다."
+    },
+    {
+      "id": "da1503a:T00067",
+      "source_sha256": "f09377b6a25036c7d9d92fb18856c834e7cee4036d565995942a6d2e9e0651ea",
+      "ko": "시야를 물들이는 하얀 빛."
+    },
+    {
+      "id": "da1503a:T00068",
+      "source_sha256": "06e969fae4cd37d8fddc5ad51381fe7387d608c6c33ef1ea32993f0e40add71d",
+      "ko": "하지만, 그것은 샨타크 때문이 아니다.\n\n　눈 아래로 내려다보는, 빛의 "
+    },
+    {
+      "id": "da1503a:R00012",
+      "source_sha256": "8c7e9fb864739c75a2296d7df11bd06ba7d476422ad1ef3c8722d114454616a8",
+      "ko": "라인",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1503a:T00069",
+      "source_sha256": "b6c321bc1addff8458ac48d6e4c72ac033f4296179c920fa146ea6e59eacf296",
+      "ko": "지평선"
+    },
+    {
+      "id": "da1503a:T00070",
+      "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+      "ko": "。"
+    },
+    {
+      "id": "da1503a:T00071",
+      "source_sha256": "20bc2009ad5296fc561d4a3c51fd65d8b3fec559ed6b5bd517519aba23a2af6f",
+      "ko": "황금빛 광채가, 아컴 시티를 비추고 있다.\n\n　아침 해가 떠오른다."
+    },
+    {
+      "id": "da1503a:T00072",
+      "source_sha256": "ad5acdf45da668b1632c3553a02132b8cb56038f6b636c4068ee4eb851a62eaf",
+      "ko": "악몽이 걷힌다."
+    }
+  ],
+  "issues": [
+    {
+      "id": "da1503a:R00001",
+      "kind": "redundant_reading_furigana",
+      "note": "Standard reading furigana for 谺 omitted."
+    },
+    {
+      "id": "da1503a:R00003",
+      "kind": "redundant_reading_furigana",
+      "note": "Standard reading furigana for 餓鬼 omitted."
+    },
+    {
+      "id": "da1503a:R00004",
+      "kind": "redundant_reading_furigana",
+      "note": "Standard reading furigana for 我侭 omitted."
+    },
+    {
+      "id": "da1503a:R00007",
+      "kind": "ruby_particle_split",
+      "note": "Postposition split handled across ruby and base segments for batchim compatibility."
+    }
+  ]
+}

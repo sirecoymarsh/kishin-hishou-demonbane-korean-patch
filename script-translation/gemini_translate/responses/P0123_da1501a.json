@@ -1,0 +1,1286 @@
+{
+  "schema": "khd-gemini-response-v1",
+  "packet_id": "P0123_da1501a",
+  "model_id": "Gemini 3.8 Flash (High)",
+  "records": [
+    {
+      "id": "da1501a:T00001",
+      "source_sha256": "296fadef272e8bdf5238b55590cbbfee57c2a526aff46d2ad7b5246787141f0a",
+      "ko": "「이건……」"
+    },
+    {
+      "id": "da1501a:T00002",
+      "source_sha256": "527f73ca912b77c8dd4d91262d2819ddc10a5a47f0b31e5ffcb5165537fa98e5",
+      "ko": "――"
+    },
+    {
+      "id": "da1501a:R00001",
+      "source_sha256": "86ea98bf4baaccd322c6d4540b3b16f9df143f1165c19222e05a54026c7769d8",
+      "ko": "액세스",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1501a:T00003",
+      "source_sha256": "d41162094d9a158e98779e7facca50f12d23ad637975e5da63c860a40d1a6fb9",
+      "ko": "동조"
+    },
+    {
+      "id": "da1501a:T00004",
+      "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+      "ko": "."
+    },
+    {
+      "id": "da1501a:T00005",
+      "source_sha256": "15254d1af8b02b57c2bdf4738c32fef90dc6cf9c2b6e9ed4ace1e4fa95a411da",
+      "ko": "「크윽……!」"
+    },
+    {
+      "id": "da1501a:T00006",
+      "source_sha256": "bffbac9172cc6e6515850476f3a923107beef8b5021a1782cd479b3311c0bd98",
+      "ko": "「데몬베인이――」"
+    },
+    {
+      "id": "da1501a:T00007",
+      "source_sha256": "a119cb0f7bbaefa60a94f977a958ff38bca15af105e6ac7d261d33635170617d",
+      "ko": "「스스로?」"
+    },
+    {
+      "id": "da1501a:T00008",
+      "source_sha256": "50da1716816c318c7e906adb997336806b58ad293d21bf0fc9ae4c3f6c298b12",
+      "ko": "――나아칼 코드로 술식 해동 확인."
+    },
+    {
+      "id": "da1501a:T00009",
+      "source_sha256": "6ea4983f93c06590410a3ac33d43e444e62d4559b7e4fdf60f6f3edcfd12b8a3",
+      "ko": "제1근접승화주법 『레무리아 임팩트』 사용 가능."
+    },
+    {
+      "id": "da1501a:T00010",
+      "source_sha256": "76cbc7e20ea5d8be696932c8411d20f637287b09bae7f74c2da59065ea579303",
+      "ko": "――결계 안의 "
+    },
+    {
+      "id": "da1501a:R00002",
+      "source_sha256": "09fa673682a266196a91d31d5ed99736a1c7d85c250226fb9c9ec5b7006a27ba",
+      "ko": "아자토스",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1501a:T00011",
+      "source_sha256": "5e7930e1744f03b9e3bc03391b9568c30347421f4c5cb7f73d17119a9e29ab74",
+      "ko": "자도자"
+    },
+    {
+      "id": "da1501a:T00012",
+      "source_sha256": "fc6428b780f0752ece03cff7de89872e60e94bf9ba00ad44c07810edd5bab32c",
+      "ko": " 무한 가속――"
+    },
+    {
+      "id": "da1501a:T00013",
+      "source_sha256": "17b9d62ad0b83eb473f69df09abdc306a522b99ab36bcdca6ec5b2ddcd48d6c3",
+      "ko": "――성계 왜곡――"
+    },
+    {
+      "id": "da1501a:T00014",
+      "source_sha256": "f4a3342bfa60aaa4d2a5347e4491b7acf2142f229e6e6cb24070f36ceac01a65",
+      "ko": "――특이점 노출――"
+    },
+    {
+      "id": "da1501a:T00015",
+      "source_sha256": "527f73ca912b77c8dd4d91262d2819ddc10a5a47f0b31e5ffcb5165537fa98e5",
+      "ko": "――"
+    },
+    {
+      "id": "da1501a:R00003",
+      "source_sha256": "ad00a0b322492061745b24d0a27cfeb54340097e166853622a9781f99bd15efb",
+      "ko": "・・・・・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1501a:T00016",
+      "source_sha256": "12d6d2da777d7b095e59b969580fb6b182fb69e136b7fb45dc064ee131ece247",
+      "ko": "술식윤회역전"
+    },
+    {
+      "id": "da1501a:T00017",
+      "source_sha256": "527f73ca912b77c8dd4d91262d2819ddc10a5a47f0b31e5ffcb5165537fa98e5",
+      "ko": "――"
+    },
+    {
+      "id": "da1501a:T00018",
+      "source_sha256": "77d2834183954ea57f48e8f6423e36536571df06eb07788b48380f93171e9854",
+      "ko": "■■■■■■■■■■의 해동 요청."
+    },
+    {
+      "id": "da1501a:T00019",
+      "source_sha256": "3b6484a27ae8f5c11126fe155393ce00f29dfa0d249797c2ae9d6913682eb1b5",
+      "ko": "불허불허불허불허불허불허불허불허불허\n불허불허불허불허불허불허불허불허불허\n불허불허불허불허불허불허불허불허불허\n불허불허불허불허불허불허불허불허불허\n불허불허불허불허불허불허불허불허불허\n불허불허불허불허불허불허불허불허불허\n불허불허불허불허불허불허불허불허불허\n불허불허불허불허불허불허불허불허불허\n불허불허불허불허불허불허불허불허불허\n불허불허불허불허불허불허불허불허불허"
+    },
+    {
+      "id": "da1501a:T00020",
+      "source_sha256": "b67b693efffe7e7b20a189239ba63fa6c80aaad9b3af1c1f1cda85e7246e7b91",
+      "ko": "――옛 신 성약 제"
+    },
+    {
+      "id": "da1501a:T00021",
+      "source_sha256": "d01682b01c736e6bc2d0bbd540b1dcb680790c1495e1c79c3c1996ffc18e79d2",
+      "ko": "■■조에 따른\n　　　　영웅 신화를 위한 면책 조항 해당."
+    },
+    {
+      "id": "da1501a:T00022",
+      "source_sha256": "7f5ff604ececdbf0af993eda313c34e084f8a356562ca861d8ef2bca76c508e4",
+      "ko": "술식 강제 해동.\n\n　――은열쇠 수호신 기관, 제235 가공세계에 "
+    },
+    {
+      "id": "da1501a:R00004",
+      "source_sha256": "86ea98bf4baaccd322c6d4540b3b16f9df143f1165c19222e05a54026c7769d8",
+      "ko": "액세스",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1501a:T00023",
+      "source_sha256": "1f1e05d9a80228435ccb82f7098dfc076fb1a18ff29688b5b237d6e7904642c5",
+      "ko": "접촉"
+    },
+    {
+      "id": "da1501a:T00024",
+      "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+      "ko": "."
+    },
+    {
+      "id": "da1501a:T00025",
+      "source_sha256": "19f740d7a5195f1ceca4d4944cec77159bbe1218bc4cd666b1033fdd7ec5ebea",
+      "ko": "제235 가공세계, "
+    },
+    {
+      "id": "da1501a:R00005",
+      "source_sha256": "09fa673682a266196a91d31d5ed99736a1c7d85c250226fb9c9ec5b7006a27ba",
+      "ko": "아자토스",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1501a:T00026",
+      "source_sha256": "5e7930e1744f03b9e3bc03391b9568c30347421f4c5cb7f73d17119a9e29ab74",
+      "ko": "자도자"
+    },
+    {
+      "id": "da1501a:T00027",
+      "source_sha256": "a73417f82c9b262961b4d99f9eef9c8493cede87fcf709702aa2de46c385a259",
+      "ko": " 절대 연도 붕괴――세계 발광――"
+    },
+    {
+      "id": "da1501a:T00028",
+      "source_sha256": "ca9d4bf2cf4c60680f7d20fd96b6fde9d675bf62322afea9835d308940ca9540",
+      "ko": "제238 허구세계 해탈."
+    },
+    {
+      "id": "da1501a:T00029",
+      "source_sha256": "f7b297be0cd7ae747c031989543acad4807b4f2b77601b87214c34a10ce718f7",
+      "ko": "은열쇠 수호신 기관, 제238 허구세계에 "
+    },
+    {
+      "id": "da1501a:R00006",
+      "source_sha256": "86ea98bf4baaccd322c6d4540b3b16f9df143f1165c19222e05a54026c7769d8",
+      "ko": "액세스",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1501a:T00030",
+      "source_sha256": "1f1e05d9a80228435ccb82f7098dfc076fb1a18ff29688b5b237d6e7904642c5",
+      "ko": "접촉"
+    },
+    {
+      "id": "da1501a:T00031",
+      "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+      "ko": "."
+    },
+    {
+      "id": "da1501a:T00032",
+      "source_sha256": "f154ed1989d56608ee9956c7f49c4c86f445536edd8cba2aa6c5a5f971f01ef0",
+      "ko": "제238 허구세계, "
+    },
+    {
+      "id": "da1501a:R00007",
+      "source_sha256": "09fa673682a266196a91d31d5ed99736a1c7d85c250226fb9c9ec5b7006a27ba",
+      "ko": "아자토스",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1501a:T00033",
+      "source_sha256": "5e7930e1744f03b9e3bc03391b9568c30347421f4c5cb7f73d17119a9e29ab74",
+      "ko": "자도자"
+    },
+    {
+      "id": "da1501a:T00034",
+      "source_sha256": "b1bd221a83d664499d49305edbf9c7915623ea6c0de78813c300a870281e5a5a",
+      "ko": " 절대 연도 도달――세계 결정――"
+    },
+    {
+      "id": "da1501a:T00035",
+      "source_sha256": "a890969c5508dd77e47553cdf448dbc90462f4dfb8945cabaf5259f3126d22a4",
+      "ko": "제239 환상세계로 승화."
+    },
+    {
+      "id": "da1501a:T00036",
+      "source_sha256": "b385ae79999951892ee274b83a81983c6d3644a6134ee4698afd98d1ca608e7b",
+      "ko": "제239 환상세계, 혼돈 정원을 중추로 하는 32국면 전개."
+    },
+    {
+      "id": "da1501a:T00037",
+      "source_sha256": "e550b4f3668975f6d5521421c4005ab55365effafcac7d0ae49e4ea9c4adb2c8",
+      "ko": "동기화."
+    },
+    {
+      "id": "da1501a:T00038",
+      "source_sha256": "0f203bf7b042680098a60fe46a93b1e67a16cac42bf1bc826f5fe3055c83afcf",
+      "ko": " 무한사 형성."
+    },
+    {
+      "id": "da1501a:T00039",
+      "source_sha256": "b6b2818075daa9fee485e923d076a9c177f46875d37a218003155aed4243806f",
+      "ko": " 고속 윤회."
+    },
+    {
+      "id": "da1501a:T00040",
+      "source_sha256": "b85572bb9645480f97f02f981a2d0fa951c3b33870eed5e2f932227683f19dd7",
+      "ko": " 수축."
+    },
+    {
+      "id": "da1501a:T00041",
+      "source_sha256": "6a6742b0c1ec7cae36031a49e8cca57d80324b8c191207c4f018a3ffad25c729",
+      "ko": " 폭발."
+    },
+    {
+      "id": "da1501a:T00042",
+      "source_sha256": "5c73fc9446dc884ef4fe97b0eebe011c9b18454247d8d131bd61f90109d1c3dd",
+      "ko": "――전 "
+    },
+    {
+      "id": "da1501a:R00008",
+      "source_sha256": "93795c8e9f7cce254c7045c963d67b75ba7625f16f7d39eb97d262b333949fef",
+      "ko": "프로텍트",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1501a:T00043",
+      "source_sha256": "8dce51857e2dc21ecf80ef98388092f0470326c4b0728a919e168af74dda7610",
+      "ko": "봉인"
+    },
+    {
+      "id": "da1501a:T00044",
+      "source_sha256": "3846672eb8da8777115ebd989a094d8b0a988cef88287ee8acff29637096cd22",
+      "ko": " 일제 해제."
+    },
+    {
+      "id": "da1501a:T00045",
+      "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+      "ko": "「"
+    },
+    {
+      "id": "da1501a:R00009",
+      "source_sha256": "e0dca0680981c19525576e77eb43edb5a365cd07bcaa8efc5dfb325a2bc8b2ae",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1501a:T00046",
+      "source_sha256": "42ae9091f49d8e597846216f247b663a9364eb3a78ba50881739bed2c229dc8c",
+      "ko": "설마"
+    },
+    {
+      "id": "da1501a:T00047",
+      "source_sha256": "4c616a24551c6f85ad47ada2a6a7c4381bf86fa907fff4a3d9c82b246d56c61e",
+      "ko": "……이건」"
+    },
+    {
+      "id": "da1501a:T00048",
+      "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+      "ko": "「"
+    },
+    {
+      "id": "da1501a:R00010",
+      "source_sha256": "e0dca0680981c19525576e77eb43edb5a365cd07bcaa8efc5dfb325a2bc8b2ae",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1501a:T00049",
+      "source_sha256": "42ae9091f49d8e597846216f247b663a9364eb3a78ba50881739bed2c229dc8c",
+      "ko": "설마"
+    },
+    {
+      "id": "da1501a:T00050",
+      "source_sha256": "60e7cb8e68185062c5d1ec9c31222ce3643e5c905cc5a5847a97c6bd9ac47f5f",
+      "ko": "……이게」"
+    },
+    {
+      "id": "da1501a:R00011",
+      "source_sha256": "f5a738439169e854ec1952b523a05e1f268eddad9f194c5d4b3c81b5a4f7c4c1",
+      "ko": "샤이닝 트라페조헤드론",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1501a:T00051",
+      "source_sha256": "64dfe14ef9001c56b60c40452d1061e79adbf8d64505698f423d2d45fd14fe2d",
+      "ko": "제0봉신승화주법"
+    },
+    {
+      "id": "da1501a:T00052",
+      "source_sha256": "b0770eaec8081721634b994725499513660487279e4b3aa9c23262d823239ab1",
+      "ko": " 발동 허가."
+    },
+    {
+      "id": "da1501a:T00053",
+      "source_sha256": "651239f7445407d60b3ec40509e3718886d15b21fb70d997107b5c69a0d10c8d",
+      "ko": "「……뭐가 시작되는 거지?」"
+    },
+    {
+      "id": "da1501a:T00054",
+      "source_sha256": "c9d9581f1215f5082bed9fb32d79e4679bd14b5a3b7b3fa938914b6ae67ecc4e",
+      "ko": "「――――신화」"
+    },
+    {
+      "id": "da1501a:T00055",
+      "source_sha256": "cb8514e41f28e3628e637b94914507dca487018d998490c5256065e1a0c9f4e8",
+      "ko": "「어?」"
+    },
+    {
+      "id": "da1501a:T00056",
+      "source_sha256": "8895186d15d76c295180288aad8151123fd8f5271e9d47f55e96674930e9d005",
+      "ko": "「――읏!?"
+    },
+    {
+      "id": "da1501a:R00012",
+      "source_sha256": "09fa673682a266196a91d31d5ed99736a1c7d85c250226fb9c9ec5b7006a27ba",
+      "ko": "아자토스",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1501a:T00057",
+      "source_sha256": "5e7930e1744f03b9e3bc03391b9568c30347421f4c5cb7f73d17119a9e29ab74",
+      "ko": "자도자"
+    },
+    {
+      "id": "da1501a:T00058",
+      "source_sha256": "bea8a27e73fb4cfb794a26ae133a3da9ccfe2c527e7ef8a603df3d202df5a869",
+      "ko": " 구성이 "
+    },
+    {
+      "id": "da1501a:R00013",
+      "source_sha256": "5e50b96c27b2f416824dd21237894b52728e9f8acf21f77ae97378faaafaa899",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1501a:T00059",
+      "source_sha256": "09152a2380b09e688a514e86056805ca633afd8381453280be7f536c7140c91a",
+      "ko": "풀"
+    },
+    {
+      "id": "da1501a:T00060",
+      "source_sha256": "fbd025f81b241745727eb707c69b23296ad82cfc81d29f193a9b55e54babd1df",
+      "ko": "려……!」"
+    },
+    {
+      "id": "da1501a:T00061",
+      "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+      "ko": "「"
+    },
+    {
+      "id": "da1501a:R00014",
+      "source_sha256": "c41fc371a325102c525b48b372e16557a1104f96369e42b12441d29329bab54e",
+      "ko": "로스트",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1501a:T00062",
+      "source_sha256": "3ede87997728bb5f5113832d00a3f0f985869e890578e0ef4fd2b5389ab18861",
+      "ko": "상실"
+    },
+    {
+      "id": "da1501a:T00063",
+      "source_sha256": "c36a68f1b0deab7a1206c0a64fbb3e8065e1f537a83a56a4f13707095646aeed",
+      "ko": "? 아니, "
+    },
+    {
+      "id": "da1501a:R00015",
+      "source_sha256": "bb7e2bacfdfc50205aa343de183c695b17f8f4507b5973ea532f37b3dfa55802",
+      "ko": "시프트",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1501a:T00064",
+      "source_sha256": "f0da55e9f019a005568ec53089c7b726eabd79b965e3aa46dfe30aa846d5abc0",
+      "ko": "전이"
+    },
+    {
+      "id": "da1501a:T00065",
+      "source_sha256": "78818fde96cffbc136b0c3024ca4c5fa4c1e6273c7776b9c809323d6bc4a1a5d",
+      "ko": "인가?」"
+    },
+    {
+      "id": "da1501a:T00066",
+      "source_sha256": "65941cd2e214071204ec227bb25240ddca62f4d943a579a1648614967594e7d2",
+      "ko": "「응. 먼저 꿈에서 깰 뿐이야」"
+    },
+    {
+      "id": "da1501a:T00067",
+      "source_sha256": "50fdfc72c83da1038d18baf2990694b23395dea950dea58b055252f79e2fd92a",
+      "ko": "「이제는 괜찮아」"
+    },
+    {
+      "id": "da1501a:T00068",
+      "source_sha256": "abfd6aea44b4d3fcc004ff42d1605f00cfdbbc0b236634ecfce6fd3797891743",
+      "ko": "「누구야?」"
+    },
+    {
+      "id": "da1501a:T00069",
+      "source_sha256": "1c5958770614479ae837c61716d61dbd0303c871ab5d44a7d56dbae5fe0cd1d3",
+      "ko": "「……자네는?」"
+    },
+    {
+      "id": "da1501a:T00070",
+      "source_sha256": "48e81801da6d070c74dc361a1ef0eaafdd11a636f557e528c20ab841ae9198c2",
+      "ko": "「――"
+    },
+    {
+      "id": "da1501a:R00016",
+      "source_sha256": "f934bc45f19cd59a007e7b45d1e701b32bd23ef1782d92cf9356abbc3109c4bb",
+      "ko": "랩소도스",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1501a:T00071",
+      "source_sha256": "4022ebb327d0ae191fa85859365543de687694c8fcdb2b909527801b8856ce5a",
+      "ko": "신화의 가객"
+    },
+    {
+      "id": "da1501a:T00072",
+      "source_sha256": "d93a835d0f2787bcb1a759ad3a1b8fbea56d742d0b99720dbbb9ea8ace1926f8",
+      "ko": "」"
+    },
+    {
+      "id": "da1501a:T00073",
+      "source_sha256": "677eb91da28f2bb641c8d31c9b89b7e85e01609f63dcce3c9b211863ac28a945",
+      "ko": "――그리고 전장은, 신화를 다시 빚어낸다."
+    },
+    {
+      "id": "da1501a:T00074",
+      "source_sha256": "b66c98598109a2fbef39bed13601bb88cc74e5b56c18319a6256b85873a835d3",
+      "ko": "어둠이 모인다."
+    },
+    {
+      "id": "da1501a:T00075",
+      "source_sha256": "b66c98598109a2fbef39bed13601bb88cc74e5b56c18319a6256b85873a835d3",
+      "ko": " 어둠이 모인다."
+    },
+    {
+      "id": "da1501a:T00076",
+      "source_sha256": "b66c98598109a2fbef39bed13601bb88cc74e5b56c18319a6256b85873a835d3",
+      "ko": " 어둠이 모인다."
+    },
+    {
+      "id": "da1501a:T00077",
+      "source_sha256": "294e36890575c4f01732b530c3c31d03d4b7d599a7975d66cb382624270a6c8c",
+      "ko": "뒤틀리고／"
+    },
+    {
+      "id": "da1501a:T00078",
+      "source_sha256": "0c4738b57e7de18c52d45ac6c3d56251e7be66dd29bfbf9ec446186ea527cd25",
+      "ko": "미치고／"
+    },
+    {
+      "id": "da1501a:T00079",
+      "source_sha256": "8073a17838063dd6ec299fd6e6631d7c7189ca63d4c23bd49ccdbe7d490cda5d",
+      "ko": "몸부림치는／"
+    },
+    {
+      "id": "da1501a:T00080",
+      "source_sha256": "59678b1ec9948292cab0fdc976ab60ef72748a57355a6af3d60886b9d29dd277",
+      "ko": "이형의 어둠이 모인다."
+    },
+    {
+      "id": "da1501a:T00081",
+      "source_sha256": "ef45ab2df8484dde89407535e66b2fd1ed8cc1d8f07d51d82f5014e0935a7d03",
+      "ko": "빛이 모인다."
+    },
+    {
+      "id": "da1501a:T00082",
+      "source_sha256": "ef45ab2df8484dde89407535e66b2fd1ed8cc1d8f07d51d82f5014e0935a7d03",
+      "ko": " 빛이 모인다."
+    },
+    {
+      "id": "da1501a:T00083",
+      "source_sha256": "ef45ab2df8484dde89407535e66b2fd1ed8cc1d8f07d51d82f5014e0935a7d03",
+      "ko": " 빛이 모인다."
+    },
+    {
+      "id": "da1501a:T00084",
+      "source_sha256": "bb45564782dc9a97a9ac41b3bb58a0937f8b7caeec9a66352e0102676545fc09",
+      "ko": "사납게 날뛰고／"
+    },
+    {
+      "id": "da1501a:T00085",
+      "source_sha256": "651cf7ed682d94a806f352f21efbe602b26f8696e1ccb583a13144f8311d3f20",
+      "ko": "포효하고／"
+    },
+    {
+      "id": "da1501a:T00086",
+      "source_sha256": "2082b82a01ee1aea5de99f9269044c8ba79c0d23f789d6a79baed125de09ff3d",
+      "ko": "비웃는／"
+    },
+    {
+      "id": "da1501a:T00087",
+      "source_sha256": "2826f46faf3f24f5a434ac45f8ea50491f2cab55a2d2f9740701c8131d549e44",
+      "ko": "이형의 빛이 모인다."
+    },
+    {
+      "id": "da1501a:T00088",
+      "source_sha256": "973d392c39247f893910cbbad2d5cc36b2fa23c9d53f8871c34ef88d31d2bc6f",
+      "ko": "어둠의 극한에 자리 잡은／"
+    },
+    {
+      "id": "da1501a:T00089",
+      "source_sha256": "c223f2353c4398ccae854bf4d5ff65a261a65c25343e4a219442cbbba7bbc4e8",
+      "ko": "빛의 극한에 자리 잡은"
+    },
+    {
+      "id": "da1501a:T00090",
+      "source_sha256": "678fd49b7632e5079a9e2c1394b0ceb40c5aa53d5c97aacf7438a0a9b17b5894",
+      "ko": "이곳은 이계."
+    },
+    {
+      "id": "da1501a:T00091",
+      "source_sha256": "af9b24042f948c7e0d37af0e08e6e2b0b2949aa10edc56ee14289de2e4101a32",
+      "ko": " 있어서는 안 될 세계."
+    },
+    {
+      "id": "da1501a:T00092",
+      "source_sha256": "07d73320db4e74b332b599c300f4ff3ec1c2c6f0379950a87690fa2a6312e6c7",
+      "ko": "모순의 소굴／"
+    },
+    {
+      "id": "da1501a:T00093",
+      "source_sha256": "8e6c516d21848c118a3d8796c5437eb41c764dfb330aae558d3d4db27bbe32a6",
+      "ko": "세계의 터진 틈／"
+    },
+    {
+      "id": "da1501a:T00094",
+      "source_sha256": "3542c67f20fabd824fd225b1dee5d06697c39a460d64d14eec04eabca5a9a59f",
+      "ko": "신들의 금기――\n\n　데몬베인 두 기가 오른 손바닥을 겹친다."
+    },
+    {
+      "id": "da1501a:T00095",
+      "source_sha256": "84a21451b25d9d55bc9a16351a8bd0cbe1b66aa0f1d9e3444881a1bc78480b7f",
+      "ko": "무한한 마력을 가둔 오른 손바닥의 상호 간섭.\n\n　일그러지고／미치고／파이고／찢어지고／부서지는 시공 너머――"
+    },
+    {
+      "id": "da1501a:T00096",
+      "source_sha256": "7a393306165a2c1162ea0df1253b3bd16e3f0360a3954c139582c38c11c3a645",
+      "ko": "금단의 자궁 속 깊은 곳에서, 이형의 물질을 소환한다."
+    },
+    {
+      "id": "da1501a:T00097",
+      "source_sha256": "29f4cb1159d12f30bb73e65b951c5a193ad8a51b238d598a684cd0d598d13de9",
+      "ko": "「오오오오오……!」"
+    },
+    {
+      "id": "da1501a:T00098",
+      "source_sha256": "e7df4f7cf9bb503545de1d497c5975477ef63c10818755492b48f5fb03e70411",
+      "ko": "그것은, "
+    },
+    {
+      "id": "da1501a:R00017",
+      "source_sha256": "3a57a3232e32b7cb2acbd4b22e2736463478ec46e22c0ec2b6e29db3a2c1a2e2",
+      "ko": "장난감 상자였다",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1501a:T00099",
+      "source_sha256": "b64c72ad7745c842e96224fcf8a016d0f85f0229b50a786c2dc63015622867f5",
+      "ko": "완구함이었다"
+    },
+    {
+      "id": "da1501a:T00100",
+      "source_sha256": "ea5e247a3bb78e0a5b6dbc4a347b12ca06cf4957059a5656470a3bd02d781e71",
+      "ko": "."
+    },
+    {
+      "id": "da1501a:T00101",
+      "source_sha256": "1ebe62ea85c096cf77360e8c0cdeadc2fa83b580741d7ba506b6da2bd9167968",
+      "ko": "그것은 곧게 뒤틀린 직선을 지니며 평행선이 없는 정사각형으로 형성된 일곱 면을 가진 정육면체가 으레 그렇듯 다섯 면으로만 이루어지는, 이계의 기하학으로 빚어낸 상자였다."
+    },
+    {
+      "id": "da1501a:R00018",
+      "source_sha256": "86e9501c4d3f49875d0964aec5c172780d038a243e766c7e47861e3ca06ce3ca",
+      "ko": "판도라 박스가",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1501a:T00102",
+      "source_sha256": "b64c72ad7745c842e96224fcf8a016d0f85f0229b50a786c2dc63015622867f5",
+      "ko": "완구함이"
+    },
+    {
+      "id": "da1501a:T00103",
+      "source_sha256": "02ac935d1928b8bbe9ea09f18cff592e4983f24c39f0e118d8178284006e7257",
+      "ko": " 열리고／열려 드러난다."
+    },
+    {
+      "id": "da1501a:T00104",
+      "source_sha256": "60fe5f872081d94aa4e69366bc66390700ebb5f3adf83a109fefc98fad4cddeb",
+      "ko": "상자 속에는, "
+    },
+    {
+      "id": "da1501a:R00019",
+      "source_sha256": "3aa79254aab1818709bc36f342f41c18a04ab736f69515e09cf4ac6e745d3315",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1501a:T00105",
+      "source_sha256": "4acb4a112c790cc862be6f70bea5866bb2c19ceace9b1bee57d841a929ab5fa2",
+      "ko": "유리구슬"
+    },
+    {
+      "id": "da1501a:T00106",
+      "source_sha256": "baa0476fb697926106db8cef564f9b1a826b448809f4947c52760c4284a3df99",
+      "ko": "이 들어 있었다."
+    },
+    {
+      "id": "da1501a:T00107",
+      "source_sha256": "0bae717d641f1861e63623c5318a72ef82636488e654763925e60c3fbd3e16b4",
+      "ko": "일곱 지주로 받쳐진, 검은 "
+    },
+    {
+      "id": "da1501a:R00020",
+      "source_sha256": "d173edc543f6299221c76147da6d9b8dbc8bf2c39aa71c21b9eb385ff1825577",
+      "ko": "트라페조헤드론",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1501a:T00108",
+      "source_sha256": "3b52cbb0544829d22d7263f3dd3ab7560bd20978fc3d39f8e5bb7777e255bb00",
+      "ko": "결정체"
+    },
+    {
+      "id": "da1501a:T00109",
+      "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+      "ko": "."
+    },
+    {
+      "id": "da1501a:T00110",
+      "source_sha256": "9f946f6fa76a3b28176cc0f7bf8e44c3515ffb15b14c059b143f7d23abb6ce01",
+      "ko": "결정체에는 무수한 붉은 "
+    },
+    {
+      "id": "da1501a:R00021",
+      "source_sha256": "8c7e9fb864739c75a2296d7df11bd06ba7d476422ad1ef3c8722d114454616a8",
+      "ko": "라인",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1501a:T00111",
+      "source_sha256": "d36cefb17a131273d97769015483eb6d373e80f3f0870e193b392fa7309e4660",
+      "ko": "선"
+    },
+    {
+      "id": "da1501a:T00112",
+      "source_sha256": "776ad2cb74f4a1caf9c4a843eb9d258ee33082cd56e7181034168ba94f55e269",
+      "ko": "이 내달리며, 혈관처럼 맥동하고 있었다.\n\n\n　상자는 다시 결정체를 중심으로, 비유클리드 기하학적으로 전개."
+    },
+    {
+      "id": "da1501a:T00113",
+      "source_sha256": "d0ca37624748d2d030acd9cacc80e171bd7d612d5813312890b63e4fad087223",
+      "ko": "열리고→열리고→열리고→열리고→열리고→열리고→열리고→열리고→열리고→열리고→열려 드러난다.\n\n　복잡하게 변형되고／변용되어 가는 "
+    },
+    {
+      "id": "da1501a:R00022",
+      "source_sha256": "2a41bb5c6588452cfd74074dc1eab3eeefe185c852269f2dfbf91ae0f491cf8d",
+      "ko": "퍼즐 박스는",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1501a:T00114",
+      "source_sha256": "b64c72ad7745c842e96224fcf8a016d0f85f0229b50a786c2dc63015622867f5",
+      "ko": "완구함은"
+    },
+    {
+      "id": "da1501a:T00115",
+      "source_sha256": "e993f0c55b2fa9da5cc71db52fa44d001bd45a9a9911b16b49e3b1f5078b4016",
+      "ko": " 이윽고 자신을 쥐는 자에게 걸맞은 형상으로 현현한다.\n\n　그것은 허공에서 "
+    },
+    {
+      "id": "da1501a:R00023",
+      "source_sha256": "e5e17c4e499f8ab4c70e902f7bfb93153e0fa964dd0747eeb9c1639a17314f4a",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1501a:T00116",
+      "source_sha256": "2ba4c8777d3a15226bef4c8d46ba47bd8503d5d9919bc121d3a7b5316fdd97c4",
+      "ko": "솟"
+    },
+    {
+      "id": "da1501a:T00117",
+      "source_sha256": "c7a57845f3fb6b8c88af81259225a2c02e74ad0d495cffec6b2ed73392f12de5",
+      "ko": "아올라, 나락을 받치는 뒤틀린 신주."
+    },
+    {
+      "id": "da1501a:T00118",
+      "source_sha256": "d33eb0473f15abcc1bb3a4a08f34228593f24b455c3313f2b9535673f9936258",
+      "ko": "그것은 두 마리 "
+    },
+    {
+      "id": "da1501a:R00024",
+      "source_sha256": "b12ce0e4bdb7e51e2808d9044bb93df7c4115e220b7829016aaa4ef23e49ea7c",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1501a:T00119",
+      "source_sha256": "a8ff9c22a2f35036ba34bcdb3bd8f9f55a4eb1bb8ab5bca69f2e4d849b2927cd",
+      "ko": "새"
+    },
+    {
+      "id": "da1501a:T00120",
+      "source_sha256": "59dd4f9d2b7d03e259bf5a0e39dc4b6059299f59fd5a1dbbbb8baee229fa25d3",
+      "ko": "를 품은, 미쳐 버린 신수."
+    },
+    {
+      "id": "da1501a:T00121",
+      "source_sha256": "7aafdc3014616e994f58b30df192ca831df64fb538eb14cb7ebe67d01f3d6869",
+      "ko": "그것은 날이 없는, 양날의 신검."
+    },
+    {
+      "id": "da1501a:T00122",
+      "source_sha256": "40da8ca31cb867fd1c84c30211d9b69d3c379590441a7bf1af5cb1e53cd9ac78",
+      "ko": "「……빛나는 트라페조헤드론!」"
+    },
+    {
+      "id": "da1501a:T00123",
+      "source_sha256": "dcb81690a45b494e2a5d5cd48e83b4fda519960f96dc56e4f3f183d8bcfc7a7c",
+      "ko": "신주／신수／신검의 중심, 일곱 지주에 구속된 "
+    },
+    {
+      "id": "da1501a:R00025",
+      "source_sha256": "d173edc543f6299221c76147da6d9b8dbc8bf2c39aa71c21b9eb385ff1825577",
+      "ko": "트라페조헤드론이",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1501a:T00124",
+      "source_sha256": "3b52cbb0544829d22d7263f3dd3ab7560bd20978fc3d39f8e5bb7777e255bb00",
+      "ko": "결정체가"
+    },
+    {
+      "id": "da1501a:T00125",
+      "source_sha256": "4e1f7cb02949246c855a811094a890e275b17461a38f68867e585a23be360d7f",
+      "ko": "\n맥동했다."
+    },
+    {
+      "id": "da1501a:T00126",
+      "source_sha256": "a74c61b79c44aea326ff673204edf49985f2960949f7c4b78f4de43e57a2316b",
+      "ko": "상자 속 내용물이 우주 전체로 퍼져 나가고, 우주가 상자 속에 담겼다."
+    },
+    {
+      "id": "da1501a:T00127",
+      "source_sha256": "cfa75f10baab4020f86fd4ff1544f88952c5e08e2f4e69e738cf282809baad7b",
+      "ko": "모든 것이 뒤집히고, 또 뒤집혔다."
+    },
+    {
+      "id": "da1501a:T00128",
+      "source_sha256": "30a082c7a5f0d4a1edf5773991bab15ad9aef01e7b43cffd96acd6d8c5e3a025",
+      "ko": "「그렇군…… 거기 있었구나……!」"
+    },
+    {
+      "id": "da1501a:T00129",
+      "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+      "ko": "「"
+    },
+    {
+      "id": "da1501a:R00026",
+      "source_sha256": "01df67e1d7cdbc51809b3a90688de6c6f9f4568cf270f141f3169e5f01fee77a",
+      "ko": "・・・・・・・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1501a:T00130",
+      "source_sha256": "18b31d1696999651dce4ed1cbafeb3b60f764a2777bafba13dba939cdd20f764",
+      "ko": "거기에 있는 것이냐"
+    },
+    {
+      "id": "da1501a:T00131",
+      "source_sha256": "631157c15452e8cefd925437a26f1d016b1a5d7575f9234fd0bf7aff0369e63d",
+      "ko": "!　"
+    },
+    {
+      "id": "da1501a:R00027",
+      "source_sha256": "399541026b89787f76b6312375d21b42244869347cf836059cf9eba724bb4824",
+      "ko": "・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1501a:T00132",
+      "source_sha256": "6693674cac8ecd37ea54affb9cdbf5841dcc41845e40ea4840cd13e4ff0c0440",
+      "ko": "옛 신"
+    },
+    {
+      "id": "da1501a:T00133",
+      "source_sha256": "6560fad1b5299ec45c7562b1e825f123c87101dc289a1eb71426e443d34f4c8c",
+      "ko": "!」"
+    },
+    {
+      "id": "da1501a:T00134",
+      "source_sha256": "585aac77737499c28e30619ed54f759f8f2053109442171971c31f288e024fe1",
+      "ko": "――그리고 우리는, "
+    },
+    {
+      "id": "da1501a:R00028",
+      "source_sha256": "2869fa462d98ce2cbbd71d7719e0d90a2c6d1b599125c7a79e6a6132252ad531",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1501a:T00135",
+      "source_sha256": "fa94d1862f3ed701f053040f43bd30ac78fedb06807833a3971f729a5545b6c5",
+      "ko": "눈동자"
+    },
+    {
+      "id": "da1501a:T00136",
+      "source_sha256": "46505ed108b4fc81afc6e4472598a0e3cd5c3d3bab4d0f5b048bfaa29e518a19",
+      "ko": "를 열고／열어젖힌다."
+    },
+    {
+      "id": "da1501a:T00137",
+      "source_sha256": "3a42ae1dca384f34352275a02a453d46ed026ddb35f4d72af7e00ba65350d855",
+      "ko": "「아버님?　어머님?」"
+    },
+    {
+      "id": "da1501a:T00138",
+      "source_sha256": "cdedfef643b6b0fe23c83aa5df35750c76c0c1f4c0d243ef47542b4ec71aa0dc",
+      "ko": "「「――어?」」"
+    },
+    {
+      "id": "da1501a:T00139",
+      "source_sha256": "3ae74f213c7f3f14c52af781c9b03e17248477ff2d752878c2f1a33621375e84",
+      "ko": "「하하…… 하하하……\n　그렇군, 그래. 이런 "
+    },
+    {
+      "id": "da1501a:R00029",
+      "source_sha256": "b22cdbd6dd5c278e1f7ad1a26cbfa00696be03df7eba2dd59fee9342cec9305b",
+      "ko": "곳",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1501a:T00140",
+      "source_sha256": "33650a369521ec29f2e26c43d25967535bcb26436755f536735d1ef6e84a1ec5",
+      "ko": "세계"
+    },
+    {
+      "id": "da1501a:T00141",
+      "source_sha256": "d8b70f568a53d5026899ce7638c94c130cf7a6ac5d52694e5662ca2f94001970",
+      "ko": "에까지\n　찾아온 건가?」"
+    },
+    {
+      "id": "da1501a:T00142",
+      "source_sha256": "2ac7771cf11dff03b080e577f55d41ab4146626d7be07fe24c1c44f165aa6289",
+      "ko": "「인간으로서 싸우고――끝까지 싸워 내어――\n　인간을 초월하고――인간을 버리고――\n　신의 영역에――」"
+    },
+    {
+      "id": "da1501a:T00143",
+      "source_sha256": "f8754b2fa1f72d5cad225de9808f91bd26f7a256d93f90cb8621fe1b6158fada",
+      "ko": "「사악을 쳐부수기 위해,\n나와 같은 "
+    },
+    {
+      "id": "da1501a:R00030",
+      "source_sha256": "7f627e12807378e3a610599809549d79192128f67c97cc6b165b04939faa5de0",
+      "ko": "자",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1501a:T00144",
+      "source_sha256": "4a558371f938b01d790207375865ed101b0826bdbda2e46b552b7910337d527a",
+      "ko": "존재"
+    },
+    {
+      "id": "da1501a:T00145",
+      "source_sha256": "bd1c0b426969d9eb71ecefb4665358bc7377da185bbe592ec1eb78788b6c5201",
+      "ko": "가 되어……!」"
+    },
+    {
+      "id": "da1501a:T00146",
+      "source_sha256": "64e6277a9274aea6ed2ddbfb8e828ec3c16ccc689ee798a444715fb7b1c27bc4",
+      "ko": "「사나운 나선에 새겨진\n　여신의 "
+    },
+    {
+      "id": "da1501a:R00031",
+      "source_sha256": "e50d85f5db1585662b602b1129452ffd622c0ddefaa5605eebe1e4cac19ea0f9",
+      "ko": "죄",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1501a:T00147",
+      "source_sha256": "306bb0004a106c1e660e05ac15ffd90715644150cc790eb69c2e0ea4a3b45967",
+      "ko": "원죄"
+    },
+    {
+      "id": "da1501a:T00148",
+      "source_sha256": "3b2e79bc719379948597cf4be8f8c76f1b3296e6089b0a355b1d9b49e5503647",
+      "ko": "의 "
+    },
+    {
+      "id": "da1501a:R00032",
+      "source_sha256": "467d759d194f3a8d1a1e407a31fa090a50d6ac1803c4565467b2be8a1ff4627e",
+      "ko": "끝",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1501a:T00149",
+      "source_sha256": "1be5ca89e0dedc3668bd1024a261e5c36290c917b7ef6622766c7685fbbaeba6",
+      "ko": "가"
+    },
+    {
+      "id": "da1501a:T00150",
+      "source_sha256": "90ed8b73d6e93110f0ca54a5a632ebaec2ea84ad13c6800de31700df5e9445bb",
+      "ko": "의 땅에서」"
+    },
+    {
+      "id": "da1501a:T00151",
+      "source_sha256": "c3ba00eb886eb85e12b16fbef595469daf069839225fced8f685e5955fa038ee",
+      "ko": "「피범벅이 되어 닳고 닳아 썩어 문드러진\n　성자의 "
+    },
+    {
+      "id": "da1501a:R00033",
+      "source_sha256": "e1acc6ebfed9b707cdb9992f0b55cc0c3bc15156b97fac5f0c8570a043d4a524",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1501a:T00152",
+      "source_sha256": "09c7804e4ff80d4f7e6bd1a34c39507766408288a4880d567084278f1c85bf57",
+      "ko": "길"
+    },
+    {
+      "id": "da1501a:T00153",
+      "source_sha256": "3b2e79bc719379948597cf4be8f8c76f1b3296e6089b0a355b1d9b49e5503647",
+      "ko": "의 "
+    },
+    {
+      "id": "da1501a:R00034",
+      "source_sha256": "467d759d194f3a8d1a1e407a31fa090a50d6ac1803c4565467b2be8a1ff4627e",
+      "ko": "끝",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1501a:T00154",
+      "source_sha256": "1be5ca89e0dedc3668bd1024a261e5c36290c917b7ef6622766c7685fbbaeba6",
+      "ko": "가"
+    },
+    {
+      "id": "da1501a:T00155",
+      "source_sha256": "90ed8b73d6e93110f0ca54a5a632ebaec2ea84ad13c6800de31700df5e9445bb",
+      "ko": "의 땅에서」"
+    },
+    {
+      "id": "da1501a:T00156",
+      "source_sha256": "1b261969e5552b0570f2ddffb69769ca473835ad4ffd9a1aaa071b3e0d3afedf",
+      "ko": "「「우리는 다시금 성약을 완수하노라」」"
+    },
+    {
+      "id": "da1501a:T00157",
+      "source_sha256": "1ad89b9465b249f56b0d1172b91db2d62c4b3474e867808eedba5e79cef5f5c1",
+      "ko": "「그것은 마치 옛이야기"
+    },
+    {
+      "id": "da1501a:R00035",
+      "source_sha256": "9ae67eee93f86b90da219f8513ea891532cdf1bd187f4c6ca72dda12ec3c43b4",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1501a:T00158",
+      "source_sha256": "8370d6196610cf5ad083ce8e24961ee1360d010d45f7614ba10c1116c4e81886",
+      "ko": "처럼"
+    },
+    {
+      "id": "da1501a:T00159",
+      "source_sha256": "cf4d17ecc65428df228b20a278ca9ef167611104f39f460516a4bc56a1437f19",
+      "ko": "\n　잠을 좀먹는 아련한 꿈\n　동틀 녘과 함께 스러지는 꿈」"
+    },
+    {
+      "id": "da1501a:T00160",
+      "source_sha256": "e7eec40b3e8f5833915eaa1beea9bb7f079bb11f472e82f0e9ab25c3df8a2c7d",
+      "ko": "「허나 그 장난감"
+    },
+    {
+      "id": "da1501a:R00036",
+      "source_sha256": "9ae67eee93f86b90da219f8513ea891532cdf1bd187f4c6ca72dda12ec3c43b4",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1501a:T00161",
+      "source_sha256": "8370d6196610cf5ad083ce8e24961ee1360d010d45f7614ba10c1116c4e81886",
+      "ko": " 같은"
+    },
+    {
+      "id": "da1501a:T00162",
+      "source_sha256": "a3923f1a7966cfa3da1eb41f9bbe4213b5ce1ceba242ac979ea9c43d3d550112",
+      "ko": " 광휘를\n　우리는 신앙하며 성약을 지키노라」"
+    },
+    {
+      "id": "da1501a:T00163",
+      "source_sha256": "e68f11f9c8e6218b3eab9c4ae079cdda36fb691cebc156e5b7480ed2dbd754f2",
+      "ko": "「나는 빛\n　밤길을 기어가는 나그네에게 밝혀 주는\n　생명의 반짝임」"
+    },
+    {
+      "id": "da1501a:T00164",
+      "source_sha256": "db1056ba5fdd5f1f1d574d3fe550ddc7a7c52f07f7fe869d927cb97aac1507f6",
+      "ko": "「이 몸은 어둠\n　무거운 차꼬가 되어 "
+    },
+    {
+      "id": "da1501a:R00037",
+      "source_sha256": "e1acc6ebfed9b707cdb9992f0b55cc0c3bc15156b97fac5f0c8570a043d4a524",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1501a:T00165",
+      "source_sha256": "09c7804e4ff80d4f7e6bd1a34c39507766408288a4880d567084278f1c85bf57",
+      "ko": "길"
+    },
+    {
+      "id": "da1501a:T00166",
+      "source_sha256": "327d7e8e6163b0fddceda7dcddbe3cccf20fddc5d229e859cfe1c6da35a98828",
+      "ko": "을 빼앗는\n　죽음의 칠흑」"
+    },
+    {
+      "id": "da1501a:T00167",
+      "source_sha256": "97c98f04c945f958b8250ae6e85aa696bc01e1c482d4aefb30ee45ba40997a55",
+      "ko": "「나는 빛 "
+    },
+    {
+      "id": "da1501a:R00038",
+      "source_sha256": "2869fa462d98ce2cbbd71d7719e0d90a2c6d1b599125c7a79e6a6132252ad531",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1501a:T00168",
+      "source_sha256": "fa94d1862f3ed701f053040f43bd30ac78fedb06807833a3971f729a5545b6c5",
+      "ko": "눈동자"
+    },
+    {
+      "id": "da1501a:T00169",
+      "source_sha256": "f99a6df9d5217212cae38240fa7f3f188cb590fc5467369d76bc0b11aaad45c9",
+      "ko": "를／자신을／세계를 불태우는\n　치열과 증오」"
+    },
+    {
+      "id": "da1501a:T00170",
+      "source_sha256": "6d7d2054ee06164dc7fa8ca459de19fcdc007a344929074b7a81c8c03317c260",
+      "ko": "「이 몸은 어둠 물들지 않고／흔들리지 않고／망설이지 않는\n　불변과 사랑」"
+    },
+    {
+      "id": "da1501a:T00171",
+      "source_sha256": "47e598cb290097774cf60457c72d80142fa520b45357f0509992ee550b46d265",
+      "ko": "「사랑은 쓰고 "
+    },
+    {
+      "id": "da1501a:R00039",
+      "source_sha256": "c208dfad3d109cff1ebe57d173b561f96ef5615d6d0ae80d57e72c51d3139f4e",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1501a:T00172",
+      "source_sha256": "23deabc9aa3e2e8f0111dc86e61c936b1798a45f97571090c90495cd3ecbd7a9",
+      "ko": "격"
+    },
+    {
+      "id": "da1501a:T00173",
+      "source_sha256": "2ef00b63665720e278537de63944f3fec2d13e3fb2105dae1198b1e80ae3acf2",
+      "ko": "렬하여 이 몸을 괴롭히노라」"
+    },
+    {
+      "id": "da1501a:T00174",
+      "source_sha256": "8dda4c4a836895d286d436227d1845fa9f1df3a6f8764a35beabcecaa171e91a",
+      "ko": "「증오는 달콤하고 무거워 나를 좀먹노라」"
+    },
+    {
+      "id": "da1501a:T00175",
+      "source_sha256": "8f4f1bbec7ddd4e855e3b92db127b12c21f5216b60e6ac679f44cca39de0bba6",
+      "ko": "「그것은 선」"
+    },
+    {
+      "id": "da1501a:T00176",
+      "source_sha256": "0a400233ff52f829e9b7d22742ceca5ac7daea6208d23c67014faab29eb95b8c",
+      "ko": "「그것은 악」"
+    },
+    {
+      "id": "da1501a:T00177",
+      "source_sha256": "cc620ed5962362b3e191a3f7f92c0e31accd5ce7d5afb060609f6093fce49460",
+      "ko": "「그것은 향유」"
+    },
+    {
+      "id": "da1501a:T00178",
+      "source_sha256": "9bfaa435ef38ec468f168d28ebd427a068de1668818d3c80343c0c0d67970eb5",
+      "ko": "「그것은 거부」"
+    },
+    {
+      "id": "da1501a:T00179",
+      "source_sha256": "3494df4fb1469705a283f863baa95ba0d50e2d50394eeb657d3ad64c0afef9cb",
+      "ko": "「그것은 순결한／추악한 교배 의식\n　맺어지는 대로／서로 녹아드는 대로 "
+    },
+    {
+      "id": "da1501a:R00040",
+      "source_sha256": "e1e4fdf46c99c92eeb0d356d98b3041bf3bdcfa843aadb25103a4aeadfbb7e3f",
+      "ko": "유산",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1501a:T00180",
+      "source_sha256": "8b79773f64a278886353ec009bb3aa9e67501e95026d9fbae782922fbbe863c8",
+      "ko": "낙태"
+    },
+    {
+      "id": "da1501a:T00181",
+      "source_sha256": "caf2baf8b720cb9a13fe80da6b755fd0cfcf53d30b5cf1a7777eb1739e15ad3c",
+      "ko": "되는\n　맹목적인 "
+    },
+    {
+      "id": "da1501a:R00041",
+      "source_sha256": "3e7ca97dd222dfece75cc1b0e619438b0296dd7b6db45fe8ff3627464f181e69",
+      "ko": "세계",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1501a:T00182",
+      "source_sha256": "f83b075539520df761c23c0ddae421319ee8c5c14035f890dc3b286ccfd95100",
+      "ko": "히루코"
+    },
+    {
+      "id": "da1501a:T00183",
+      "source_sha256": "63321751340b87512362484ce19445189b29914f635317879133ed369d821259",
+      "ko": "의――」"
+    },
+    {
+      "id": "da1501a:T00184",
+      "source_sha256": "c5c75da96225886350977487d1d940783d1d4406230cd71b13aae416048199fc",
+      "ko": "「그 깊고 "
+    },
+    {
+      "id": "da1501a:R00042",
+      "source_sha256": "9e01e7b843be92a9d32129c0661107e163b54042ac97ad03fcafa75e40d331b6",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1501a:T00185",
+      "source_sha256": "a6c781ea402f93d4e2413dcb90d9ed4af21b0e66928700378bf79b789eaba132",
+      "ko": "어"
+    },
+    {
+      "id": "da1501a:T00186",
+      "source_sha256": "a9a56b5c811650e798351331d88fdfc2656fc76971cc3fb54f2c2ae2f10e5403",
+      "ko": "두운 원수를 가슴에 품고」"
+    },
+    {
+      "id": "da1501a:T00187",
+      "source_sha256": "1efe450d4846f702d7e219dd7c6f5ac9662d66f3a27cdfe04955a63bc5876833",
+      "ko": "「그 애절한 외침을 가슴에 품고」"
+    },
+    {
+      "id": "da1501a:T00188",
+      "source_sha256": "a99c2f0e02f23c939a46394bfab253860e30181cf864fbbdfebac49e50f6cd9d",
+      "ko": "「매장의 꽃에 맹세코」"
+    },
+    {
+      "id": "da1501a:T00189",
+      "source_sha256": "7dc6eae2d6cb437c96cbf614cbc66b7efcef1416391a61eddcdbd5298f8e734d",
+      "ko": "「축복의 꽃에 맹세코」"
+    },
+    {
+      "id": "da1501a:T00190",
+      "source_sha256": "48ca8351948cddee9cb830a3ed5f921d2f7bf27d909389a12378f02dd4c552a7",
+      "ko": "「다이쥬지 쿠로!　알 아지프!」"
+    },
+    {
+      "id": "da1501a:T00191",
+      "source_sha256": "44e7010986ebf0e76959cfb2ff19384b6bb659a952302b1ff12163927d40381b",
+      "ko": "「「――우리는 신화를 자아내는 자로다!」」"
+    }
+  ],
+  "issues": [
+    {
+      "id": "da1501a:R00009",
+      "kind": "ruby_redundant",
+      "note": "단순 훈독 발음 안내 표기 생략"
+    },
+    {
+      "id": "da1501a:R00010",
+      "kind": "ruby_redundant",
+      "note": "단순 훈독 발음 안내 표기 생략"
+    },
+    {
+      "id": "da1501a:R00013",
+      "kind": "ruby_redundant",
+      "note": "단순 훈독 발음 안내 표기 생략"
+    },
+    {
+      "id": "da1501a:R00019",
+      "kind": "ruby_redundant",
+      "note": "단순 훈독 발음 안내 표기 생략"
+    },
+    {
+      "id": "da1501a:R00023",
+      "kind": "ruby_redundant",
+      "note": "단순 훈독 발음 안내 표기 생략"
+    },
+    {
+      "id": "da1501a:R00024",
+      "kind": "ruby_redundant",
+      "note": "단순 훈독 발음 안내 표기 생략"
+    },
+    {
+      "id": "da1501a:R00028",
+      "kind": "ruby_redundant",
+      "note": "단순 훈독 발음 안내 표기 생략"
+    },
+    {
+      "id": "da1501a:R00033",
+      "kind": "ruby_redundant",
+      "note": "단순 훈독 발음 안내 표기 생략"
+    },
+    {
+      "id": "da1501a:R00035",
+      "kind": "ruby_redundant",
+      "note": "단순 훈독 발음 안내 표기 생략"
+    },
+    {
+      "id": "da1501a:R00036",
+      "kind": "ruby_redundant",
+      "note": "단순 훈독 발음 안내 표기 생략"
+    },
+    {
+      "id": "da1501a:R00037",
+      "kind": "ruby_redundant",
+      "note": "단순 훈독 발음 안내 표기 생략"
+    },
+    {
+      "id": "da1501a:R00038",
+      "kind": "ruby_redundant",
+      "note": "단순 훈독 발음 안내 표기 생략"
+    },
+    {
+      "id": "da1501a:R00039",
+      "kind": "ruby_redundant",
+      "note": "단순 훈독 발음 안내 표기 생략"
+    },
+    {
+      "id": "da1501a:R00042",
+      "kind": "ruby_redundant",
+      "note": "단순 훈독 발음 안내 표기 생략"
+    }
+  ]
+}

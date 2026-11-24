@@ -1,0 +1,421 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0024_da0120ed",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0120ed:T00001",
+   "source_sha256": "f13f43037f5d3772eee61f26d064e714a1640d5371dae78e1baa5062f517cef7",
+   "ko": "「……어째서?」"
+  },
+  {
+   "id": "da0120ed:T00002",
+   "source_sha256": "cac5b5c49666d8908b966c85b5b04283ac3c968575642507850a68cedf264629",
+   "ko": "「…………………………………………」"
+  },
+  {
+   "id": "da0120ed:T00003",
+   "source_sha256": "b197b0daa4d0c32bef135d32ebdd926ffc28b4aed1a093e48c69682fb7705d6a",
+   "ko": "「본인은…… "
+  },
+  {
+   "id": "da0120ed:T00004",
+   "source_sha256": "3c5324e26ee4eec709911635897d7f99db090818c1fea9c323e02b6521a79f04",
+   "ko": "이겼다앗!」"
+  },
+  {
+   "id": "da0120ed:T00005",
+   "source_sha256": "ca550b04b92f9d4ccdb25fc6ae6e04a306f79b3820abaf151a2747d0186bf7f7",
+   "ko": "「이걸로 아컴 시티도 평화로워질 거예요로보」"
+  },
+  {
+   "id": "da0120ed:T00006",
+   "source_sha256": "22da307eb8c14a181da0d678a702a36ef9b57f2130a4bdd56b4a3f1fb7c89887",
+   "ko": "그런가?"
+  },
+  {
+   "id": "da0120ed:T00007",
+   "source_sha256": "4248d5b53406a83cb29878ad5a5c28b6e9411fd7c6df984c2e92814b10877201",
+   "ko": "「하지만 어째서일까나…… 본인의 가슴에는 메마른 바람만이 스쳐 지나가 버리는군……」"
+  },
+  {
+   "id": "da0120ed:T00008",
+   "source_sha256": "05f36fe5df2ded809d0c7b93e9fc2855c201be9970df01996935b88224fe94de",
+   "ko": "「싸움은 허무해요로보……」"
+  },
+  {
+   "id": "da0120ed:T00009",
+   "source_sha256": "2a7948265b3843030ca3ad7fc4eb9c4d302dede3fd5f83e82267aa5bf216f653",
+   "ko": "「동감이다」"
+  },
+  {
+   "id": "da0120ed:T00010",
+   "source_sha256": "bd445d3907953efd2f7442ad17385c637033ebf41a0c466e746faa7299b90ca4",
+   "ko": "「어이…… 이거, 어떻게 마무리 지을 생각이냐?」"
+  },
+  {
+   "id": "da0120ed:T00011",
+   "source_sha256": "221bafaa58c6156d45bf0f8cacc97e27c8f084d2ce1f4009befd9c215b92e92b",
+   "ko": "「상정 외의 사태가 발생하였으므로, 이 이후의 전개는 준비되어 있지 않습니다」"
+  },
+  {
+   "id": "da0120ed:T00012",
+   "source_sha256": "57a1c224815429417ce93281814f58156db0762ab48324f392e85766649d448a",
+   "ko": "「『납득할 수 없어!』라며 분노하시는 고객님께서는, 다음 중에서 마음에 드시는 엔딩을 자유롭게 선택해 주십시오」"
+  },
+  {
+   "id": "da0120ed:T00013",
+   "source_sha256": "0087f15ba304f31c27bbe1ee67f897f89db17bdc9f8c07078129022267c7ff6c",
+   "ko": "엔트리 No.001"
+  },
+  {
+   "id": "da0120ed:T00014",
+   "source_sha256": "6d031ec1ff555fae0ce3287cd8bab323da13a9a1eb892415ab4c16305bf64f57",
+   "ko": "『싸움은 지금부터다』」"
+  },
+  {
+   "id": "da0120ed:T00015",
+   "source_sha256": "0a284f1aa26b9bf9f7d28cb2a499d5642ff6c2588a85a1c29c38e8f8cc6628b0",
+   "ko": "「후하하하!　지구의 로봇도 제법 하는구나!」"
+  },
+  {
+   "id": "da0120ed:T00016",
+   "source_sha256": "6b4b8df36e39deb34d0a37881b89ed953fcb16ed19f7a19fd908ff8e2924881e",
+   "ko": "「허나 네놈이 쓰러뜨린 어나더 블러드는, "
+  },
+  {
+   "id": "da0120ed:T00017",
+   "source_sha256": "2b820ed43e12c8a7de55dda07468d1f41aebc4ce75e8f72aa0b241caf854c543",
+   "ko": "우리 그류=보 512걸 중에서 가장 말석!」"
+  },
+  {
+   "id": "da0120ed:T00018",
+   "source_sha256": "1d58cf301acb2520b3cb981bce7b5302f1be9fee5098d0eee3567d584ed5f1e1",
+   "ko": "「흥, 재미있군!　엘자아아앗!」"
+  },
+  {
+   "id": "da0120ed:T00019",
+   "source_sha256": "5726c8210173b2017b1ba5f7e1c0a0471f1fce0119a649d1e2203de86db63bc5",
+   "ko": "「무적로보, 가라아아아아――――앗!」"
+  },
+  {
+   "id": "da0120ed:T00020",
+   "source_sha256": "25076572c6ac16120a2003e08925f22a1ba39845b7082111cbd292104b57ed2a",
+   "ko": "차기작을 기대해 주십시오"
+  },
+  {
+   "id": "da0120ed:T00021",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  },
+  {
+   "id": "da0120ed:T00022",
+   "source_sha256": "deba42ff6e878290b04dfaa399e94b594dcd5898c6194a0a13b2b944d4a59595",
+   "ko": "엔트리 No.002"
+  },
+  {
+   "id": "da0120ed:T00023",
+   "source_sha256": "794c619fdf0898efcb21909180736ebef6101f32aa4bf7519eaa03cae31b11cb",
+   "ko": "『푸른 하늘에 죽은 동료의 미소』"
+  },
+  {
+   "id": "da0120ed:T00024",
+   "source_sha256": "d99f5ea0c3a0f1a72cbaefbc92d2f94f345d139a2869460371f282850e1f338b",
+   "ko": "「박사니임~!\n　빨리 안 오시면 두고 갈 거예요로보~!」"
+  },
+  {
+   "id": "da0120ed:T00025",
+   "source_sha256": "d047621109675c9d7fda7726729097a23ad4a5078865710b6735617415f9243c",
+   "ko": "「이런이런. 못 말리는 녀석인 것이다, 엘자는」"
+  },
+  {
+   "id": "da0120ed:T00026",
+   "source_sha256": "4b1c632ab9233118c127d10897238b747dd46f79fc7228d55bcaa0d86ecf514d",
+   "ko": "……웨스트."
+  },
+  {
+   "id": "da0120ed:T00027",
+   "source_sha256": "95946b1a5cbbfa29d101296d39e130823f82c9b11523723f295c9e6fe178af5f",
+   "ko": "「……?」"
+  },
+  {
+   "id": "da0120ed:T00028",
+   "source_sha256": "e029689ed238b81f39729622403fc0c4039a535366f596304c37605692423209",
+   "ko": "「지금, 행복하니……?」"
+  },
+  {
+   "id": "da0120ed:T00029",
+   "source_sha256": "427222411758cc5ff9a1bb37b05f81a9b8af0ce334f79ce46d917be80bea3897",
+   "ko": "「……그래. 고맙다」"
+  },
+  {
+   "id": "da0120ed:T00030",
+   "source_sha256": "6676a8d47be7346760ef413773d8358b1ccfea76893aae963ac4030c26112d62",
+   "ko": "엔트리 No.003"
+  },
+  {
+   "id": "da0120ed:T00031",
+   "source_sha256": "dc4457d5c3df4ccf3c9a08c60d303584ee4395a29225923e9da9be99afb5a8fd",
+   "ko": "『범인은 이 안에』"
+  },
+  {
+   "id": "da0120ed:T00032",
+   "source_sha256": "4da13029056721f1e7c910067088f28b5bd29eebde3dcc008f0131abf468779e",
+   "ko": "「당신이――――"
+  },
+  {
+   "id": "da0120ed:T00033",
+   "source_sha256": "0cc618414df772f38f09aef4274a6bb68ff5be903102033be76e547bb3e2aa81",
+   "ko": "거미였군요」"
+  },
+  {
+   "id": "da0120ed:T00034",
+   "source_sha256": "d3d88064ecac471cf7389f6d02609c1f09db41d16d342552254a6c4e4c22dcf2",
+   "ko": "엔트리 No.004"
+  },
+  {
+   "id": "da0120ed:T00035",
+   "source_sha256": "e7ffb8334345acc74cc1a3d3c53bb10505fdd602b03acc7180ec2c4f5dca7994",
+   "ko": "『나보다 강한 녀석』"
+  },
+  {
+   "id": "da0120ed:T00036",
+   "source_sha256": "598e6dcaa5412a9a01369924c121424766175e88108d3a5fd0416bff8527af96",
+   "ko": "자"
+  },
+  {
+   "id": "da0120ed:T00037",
+   "source_sha256": "dc5a4d3d82f7e15792959dc661538ae0e541ce66494516f5c9cfd9cd3308494d",
+   "ko": "아"
+  },
+  {
+   "id": "da0120ed:T00038",
+   "source_sha256": "ac2c2fe2a77e427f9cbb751835b1a88af595cc60744b46a951a9b69e0d6807a1",
+   "ko": "시"
+  },
+  {
+   "id": "da0120ed:T00039",
+   "source_sha256": "5683b53f4d20386456f1d841a31a9b438664ef7b699635f99b65813ffd29421d",
+   "ko": ""
+  },
+  {
+   "id": "da0120ed:T00040",
+   "source_sha256": "8a0179143e31b0958b9d013a63678a1867b19d6b294409d61aa437fd468a2ca4",
+   "ko": "상"
+  },
+  {
+   "id": "da0120ed:T00041",
+   "source_sha256": "1bb602cd1cb019533d75bd7c40521f38b7f08905b86192c9d937e1982b7d211e",
+   "ko": "식"
+  },
+  {
+   "id": "da0120ed:T00042",
+   "source_sha256": "5683b53f4d20386456f1d841a31a9b438664ef7b699635f99b65813ffd29421d",
+   "ko": ""
+  },
+  {
+   "id": "da0120ed:T00043",
+   "source_sha256": "8a0179143e31b0958b9d013a63678a1867b19d6b294409d61aa437fd468a2ca4",
+   "ko": "이"
+  },
+  {
+   "id": "da0120ed:T00044",
+   "source_sha256": "1bb602cd1cb019533d75bd7c40521f38b7f08905b86192c9d937e1982b7d211e",
+   "ko": "다"
+  },
+  {
+   "id": "da0120ed:T00045",
+   "source_sha256": "614459aa75868bbff3754bfc826313738ed1daa9fb5a9dd143b1318a9987b6df",
+   "ko": ""
+  },
+  {
+   "id": "da0120ed:T00046",
+   "source_sha256": "8b53bf6f987a8b5ba39ff7d74c6daac8b9901799c04ebcbb46eb16c9f0fc4262",
+   "ko": ""
+  },
+  {
+   "id": "da0120ed:T00047",
+   "source_sha256": "30decdf4274513937a5295af56ea082925e2c003e616f76156e9dec43f9164c6",
+   "ko": "뭐"
+  },
+  {
+   "id": "da0120ed:T00048",
+   "source_sha256": "5f945f18ef58973201d6df7fc5efda98c57557242b02afb62e8023aacc832b54",
+   "ko": "라"
+  },
+  {
+   "id": "da0120ed:T00049",
+   "source_sha256": "860d62035ff30749f88e6e43edbe02c5a8d9a2aee8350cdb4bd3ff596be3154b",
+   "ko": "고"
+  },
+  {
+   "id": "da0120ed:T00050",
+   "source_sha256": "efe5e8334bbf8cfde4c49d06c889dbb75ad35594c3e5b58c969e309bfdaf6438",
+   "ko": "옷"
+  },
+  {
+   "id": "da0120ed:T00051",
+   "source_sha256": "62fcdf6a847e7083267649148cb44a72249be4f249607e5381fa020108fafa3f",
+   "ko": "웨"
+  },
+  {
+   "id": "da0120ed:T00052",
+   "source_sha256": "c18006dfc27ce40e7fb6fa2b7f1dfb9af85c269b78d1030a04b711886ade664f",
+   "ko": "스"
+  },
+  {
+   "id": "da0120ed:T00053",
+   "source_sha256": "56f2b721baad46f8a3a9d4cbbcd0c62c5e3bc50fdec67310602ee6798baf86cd",
+   "ko": "트"
+  },
+  {
+   "id": "da0120ed:T00054",
+   "source_sha256": "b26a2d796c27bc7ba97571cc02a62b7fab4c04c6c85c1d331e38d9f338a851d8",
+   "ko": "가"
+  },
+  {
+   "id": "da0120ed:T00055",
+   "source_sha256": "e3b21956ce958d2599e4e122f5395b8bb776552bd4ceae0c6bec80e4f73a2905",
+   "ko": " "
+  },
+  {
+   "id": "da0120ed:T00056",
+   "source_sha256": "4c6ff2461396974940d832f3f0ce2a7624668028f9bff88ca807b1e9da44a407",
+   "ko": "없"
+  },
+  {
+   "id": "da0120ed:T00057",
+   "source_sha256": "30decdf4274513937a5295af56ea082925e2c003e616f76156e9dec43f9164c6",
+   "ko": "다"
+  },
+  {
+   "id": "da0120ed:T00058",
+   "source_sha256": "4c6ff2461396974940d832f3f0ce2a7624668028f9bff88ca807b1e9da44a407",
+   "ko": ""
+  },
+  {
+   "id": "da0120ed:T00059",
+   "source_sha256": "631157c15452e8cefd925437a26f1d016b1a5d7575f9234fd0bf7aff0369e63d",
+   "ko": "!"
+  },
+  {
+   "id": "da0120ed:T00060",
+   "source_sha256": "9103fdd09a83e693fa56faa1a9449aed3175e806481ce4119fe22b0df7607916",
+   "ko": "엔트리 No.997"
+  },
+  {
+   "id": "da0120ed:T00061",
+   "source_sha256": "bc79a50c9367851ccc7fab3aecbd3d4933b08fb89d4c27db1075fe09e4cf0d77",
+   "ko": "『그럼 다음으로――옛날이야기를 하지』"
+  },
+  {
+   "id": "da0120ed:T00062",
+   "source_sha256": "9df46da3bc525c01223a9dc711f42b7611177ef81799eb63225609354f6ef745",
+   "ko": "머나먼, 머나먼, 옛날."
+  },
+  {
+   "id": "da0120ed:T00063",
+   "source_sha256": "357d002da0f394688cb1419f20176d91bcb478edb57c2b3d46e0e6e61015915c",
+   "ko": "아득히 먼 옛날의 이야기."
+  },
+  {
+   "id": "da0120ed:T00064",
+   "source_sha256": "707ce02dfdf20182f01cfc481a3aa387a6373b7c0f04d66887a1b1200a9330f7",
+   "ko": "최초의 인간이 태어나기보다도,\n　더욱 전의 이야기입니다."
+  },
+  {
+   "id": "da0120ed:R00001",
+   "source_sha256": "9e01e7b843be92a9d32129c0661107e163b54042ac97ad03fcafa75e40d331b6",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0120ed:T00065",
+   "source_sha256": "389bbac1b256d36df12ea23e0ea5db3f3b5a4242c671c915091732e62596b8b4",
+   "ko": "어두"
+  },
+  {
+   "id": "da0120ed:T00066",
+   "source_sha256": "e4beb6013eb68a55b35eb090c1b543f0b8deef3bc20960c52c88c1e001542908",
+   "ko": "운 어두운 별들 너머에서, 막 태어난 지구에 『그레이트 올드 원』이라 불리는 나쁜 신님들이 찾아왔습니다.\n\n　나쁜 신님들은 제멋대로 날뛰며 지구에 살아가는 모두를 괴롭혔습니다.\n\n　모두 모두, 울었습니다."
+  },
+  {
+   "id": "da0120ed:T00067",
+   "source_sha256": "0297c916ba68d7a861921954c6ac9cc08b4de445eab9ef977872e5bba0fbd874",
+   "ko": "지구도, 아프다 아프다며 울었습니다.\n\n　하지만 그때, 하늘이 빛났습니다."
+  },
+  {
+   "id": "da0120ed:T00068",
+   "source_sha256": "1f2f7adb0478665cd3f7d6b2c8624ca4f2d687d9896ffbcab08da462cd08a196",
+   "ko": "누구나가, 하늘을 올려다보았습니다."
+  },
+  {
+   "id": "da0120ed:T00069",
+   "source_sha256": "8d87ea0da3d1ea65fd7486c33c5c88150cde80a4144632924a439a703a62a59a",
+   "ko": "그리고, 누구나가 그것을 보았습니다.\n\n　――착한 신님이, 내려오신 것입니다."
+  },
+  {
+   "id": "da0120ed:T00070",
+   "source_sha256": "4db4ff158b7e47f48fc9b90643e374718702a140a0f6e036e398c9058e48bcb8",
+   "ko": "「설마――이런 세계에까지 찾아올 줄이야」"
+  },
+  {
+   "id": "da0120ed:T00071",
+   "source_sha256": "b264279292ea07d851020aded552521105bd5940450b8dd08b25157ba9747ff1",
+   "ko": "「인간으로서 싸우고, 끝까지 싸워 내어, 인간을 넘어, 인간을 버리고, 마침내 신의 영역에 도달했는가!　사악을 토벌해 멸하기 위해, 나와 같은 "
+  },
+  {
+   "id": "da0120ed:R00002",
+   "source_sha256": "c83d09288a91cba65388da926999234b69ebe4c1dad3efd7cf413e48f4bdd85e",
+   "ko": "것이",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0120ed:T00072",
+   "source_sha256": "4a558371f938b01d790207375865ed101b0826bdbda2e46b552b7910337d527a",
+   "ko": "존재가"
+  },
+  {
+   "id": "da0120ed:T00073",
+   "source_sha256": "38d691c0dd1c6747942f20f2c3573664323bbba034a7db5b60bc99faebefe34b",
+   "ko": " 되었는가!」"
+  },
+  {
+   "id": "da0120ed:T00074",
+   "source_sha256": "a9b501c207511d60230a98c10189fa5319b8afc41261b9fe51d0efb7c54218e4",
+   "ko": "「같은 부류로 취급하지 말라는 것이다아!」"
+  },
+  {
+   "id": "da0120ed:T00075",
+   "source_sha256": "936d711f91592a1102bd2129779cea5acad7f58e3f3138bc1366d96797e8f311",
+   "ko": "「동류 취급당하다니 엄청 불쾌해로보!」"
+  },
+  {
+   "id": "da0120ed:T00076",
+   "source_sha256": "fa9708ccdefe4c79d23776ae6ae590d520c1dff5d96bd3c804889a70b7e824f9",
+   "ko": "그것은 찰나의 사랑을 자아내어, 영원의 시간을 계속해서 새기는――"
+  },
+  {
+   "id": "da0120ed:T00077",
+   "source_sha256": "68db3de332a9c9a3c3a1fae1ddf35730b62434993d6ccc4465a406889e9d117a",
+   "ko": "생명의 노래."
+  },
+  {
+   "id": "da0120ed:T00078",
+   "source_sha256": "5ee262eaa897cc4dead1a497f320e4f4a3d367888238f8a82ec0f54f398a149c",
+   "ko": "「orz」"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0120ed:R00001",
+   "kind": "ruby_decision",
+   "note": "Omitted redundant phonetic reading くら on 冥."
+  },
+  {
+   "id": "da0120ed:T00015",
+   "kind": "glossary_candidate",
+   "note": "Pending glossary term 九朔 (speaker) corresponds to 쿠자쿠 per 용어집.tsv."
+  }
+ ]
+}

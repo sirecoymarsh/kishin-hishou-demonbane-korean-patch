@@ -1,0 +1,670 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0048_da0402",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0402:T00001",
+   "source_sha256": "35c677ea567909bdffe80a35681f86c3f3305c83e15cae478c67154c97a9fa19",
+   "ko": "간격 안에 들어서면, 그곳은 결코 벗어날 수 없는 검의 감옥이다."
+  },
+  {
+   "id": "da0402:T00002",
+   "source_sha256": "9c1e3233c2b3f746a5a1a1c8837d5567f382468cd31c33a93ce91d6a5695c071",
+   "ko": "네 개의 팔, 네 자루의 칼에서 뻗어 나오는 검격은 신속하고도 교묘하다."
+  },
+  {
+   "id": "da0402:T00003",
+   "source_sha256": "75691c17c89182cb9ce00c5b557dd6725cb3ef9978e23c61a959b994d393c8c2",
+   "ko": "적을 치명적인 일격으로 몰아넣는, 그야말로 검귀의 기술이다."
+  },
+  {
+   "id": "da0402:T00004",
+   "source_sha256": "3995a8fe1b1a364f04625e867158145e659e8a9e6b57f8ae3c9f6a4aa91c2901",
+   "ko": "「흥!」"
+  },
+  {
+   "id": "da0402:T00005",
+   "source_sha256": "758163041ededcdf665d567fedbdac9559e135ab5d73d0bdc8f658c345e5f493",
+   "ko": "하지만 윈필드 또한 초인이다."
+  },
+  {
+   "id": "da0402:T00006",
+   "source_sha256": "f70eb3432e5925c882feb2130a7901a681a5223c4e5502259a0493c57a371d40",
+   "ko": "눈에 보이지도 않는 고속 스텝으로 참격을 피하거나, 단련해 낸 그 주먹으로 칼을 튕겨 낸다.\n\n　양자의 힘은 균형을 이루고 있었다."
+  },
+  {
+   "id": "da0402:T00007",
+   "source_sha256": "49c962050e97aa7a6e09738273a146aef275e0d3bd44b780815980cc095d1a67",
+   "ko": "하지만――"
+  },
+  {
+   "id": "da0402:T00008",
+   "source_sha256": "1752b8eefc8f61b6ed73f6a4b0c942fbec58845d50b78f7347de24226fa7e48b",
+   "ko": "（……품속으로 파고들 수가 없어）"
+  },
+  {
+   "id": "da0402:T00009",
+   "source_sha256": "38b3af1f39f0889ac4a99daa0d349193c6eeedb9bc8f3703ad199cec818a32c0",
+   "ko": "주먹과 검. 본디 간격에서는 불리하다."
+  },
+  {
+   "id": "da0402:T00010",
+   "source_sha256": "a374b949f881e61b36480676a05ad61b8f05224dd38f29666f6c52a506e7fee9",
+   "ko": "윈필드는 자신의 거리에서 싸울 수 없다."
+  },
+  {
+   "id": "da0402:T00011",
+   "source_sha256": "86177fb6c1b41b05f468fc4f8ba2b107fde246c2fffd213785976333a749f659",
+   "ko": "네 자루의 검에 의한 공격은, 동시에 적의 접근을 허용하지 않는 검의 방벽이기도\n했다."
+  },
+  {
+   "id": "da0402:T00012",
+   "source_sha256": "80a0ea4548283138b325b1f744064eeaa1009e382ca7000c4b649259b3fbfe28",
+   "ko": "「어찌 된 게냐!\n　도망치기만 해서는 소인을 "
+  },
+  {
+   "id": "da0402:R00001",
+   "source_sha256": "4dae1fea52814eb01c1f6f5e611386bf5216d66ee363d7ec5b45ff3c60f0ceb9",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0402:T00013",
+   "source_sha256": "e576049bcdb98de738f142c446fc515b0c9df3d3eb8a39b9e9111ad0b06b8306",
+   "ko": "쓰러뜨릴"
+  },
+  {
+   "id": "da0402:T00014",
+   "source_sha256": "335f3caff2f679fd668d875fdf5e62b4b171de93931de65b4184f4536c811222",
+   "ko": " 수 없다!」"
+  },
+  {
+   "id": "da0402:T00015",
+   "source_sha256": "48b5979e5de26df43bbe51ec3d1772732391097c817edf3d92fa944ee19ba780",
+   "ko": "（게다가――）"
+  },
+  {
+   "id": "da0402:T00016",
+   "source_sha256": "9f91af49387074ca69a2979394e797327aa71be9424e9c31c449ffbde553100e",
+   "ko": "……적은 이쪽의 수를 읽고 움직이고 있다."
+  },
+  {
+   "id": "da0402:T00017",
+   "source_sha256": "78fa15f4aa54d7c3e164722f07ce153367485d42a4cc36bc0f6bd59e8f256488",
+   "ko": "역시 이 남자는 이쪽을 알고 있는 것이다."
+  },
+  {
+   "id": "da0402:T00018",
+   "source_sha256": "c8ca64d07e4594551e7d4ca14c62f8da899ec919dcaf35ca1400ebe828732f5b",
+   "ko": "이대로는 영원히 적의 품속으로 파고들 수 없다.\n\n　어떻게 할 것인가?"
+  },
+  {
+   "id": "da0402:T00019",
+   "source_sha256": "fc91df049b3860a8e8261c74d0e61fb1b89ce6faf44fea619f6505497e94e69c",
+   "ko": "어떻게 이 검의 결계를 돌파할 것인가?"
+  },
+  {
+   "id": "da0402:T00020",
+   "source_sha256": "9889f1e94ea2f4ee22509c6914ac0fe0efe51c51c2de8301752f94ad99f16d6e",
+   "ko": "다시금 덮쳐 오는 사연참."
+  },
+  {
+   "id": "da0402:T00021",
+   "source_sha256": "bdbe158f8878e132e8bfc3a420d01a5c5e9abf275fce7606dcc07730b8b2c749",
+   "ko": "피하고／"
+  },
+  {
+   "id": "da0402:T00022",
+   "source_sha256": "bdbe158f8878e132e8bfc3a420d01a5c5e9abf275fce7606dcc07730b8b2c749",
+   "ko": "피하고／"
+  },
+  {
+   "id": "da0402:T00023",
+   "source_sha256": "f886ed192fc454389926a197273a47bf92f04c9166331052cf0303a0a7518110",
+   "ko": "뺨을 스치고／"
+  },
+  {
+   "id": "da0402:T00024",
+   "source_sha256": "96fbb3035211ce2e9aa197280ef383c8fae9fe4c711eb115423327b3974a4ecf",
+   "ko": "이어서 정면에서,"
+  },
+  {
+   "id": "da0402:T00025",
+   "source_sha256": "ac090968dcdfe7aed60c8ce596afabdea070113abb54cd230a02e519949e868a",
+   "ko": "백스텝."
+  },
+  {
+   "id": "da0402:T00026",
+   "source_sha256": "3a5911c47feb550b55bc531833786a09d9508ddbca6e500105b4f4c1181bc2cc",
+   "ko": "간격 밖으로 벗어나――"
+  },
+  {
+   "id": "da0402:T00027",
+   "source_sha256": "ce7021de488b4d8d36ebd91c59f008851f29898a8767d8f8c4d99f1295f8acf1",
+   "ko": "「――읏?」"
+  },
+  {
+   "id": "da0402:T00028",
+   "source_sha256": "89e2598a023b720c04cf8d7c6259e74ff9adb0f18c632f5600d13301fe3d4526",
+   "ko": "한 번 더 백스텝."
+  },
+  {
+   "id": "da0402:T00029",
+   "source_sha256": "031822b368fdbc82b0ee7fd7ac1af9624519ab720a7ea20f00c502c816860591",
+   "ko": "적과의 거리를 필요 이상으로 크게 벌렸다.\n\n　이 거리는 적의 간격에서 벗어난다기보다, 전투 그 자체로부터의\n이탈에 가깝다."
+  },
+  {
+   "id": "da0402:T00030",
+   "source_sha256": "f63e338a9fae446f20ae3d105f2318d7c4d921eff8749a1d9931f4bd94dd5f65",
+   "ko": "「…………」"
+  },
+  {
+   "id": "da0402:T00031",
+   "source_sha256": "987a75c0d43173e8f81a693aa98c880ba6e6c0d8ec476b23fd013a08ef36165e",
+   "ko": "「무슨 속셈이냐?」"
+  },
+  {
+   "id": "da0402:T00032",
+   "source_sha256": "166aa39921aaf5f7c9bac02f48ad47fe03ef8b2e75a94f9ffefc28fec5a49865",
+   "ko": "하지만 안전권으로 물러나서도, 윈필드의 투기에는\n일말의 "
+  },
+  {
+   "id": "da0402:R00002",
+   "source_sha256": "aae18f132f02c13ac0b826f31f9f41ed72db585f10a50ed7a6823c5bf01b5812",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0402:T00033",
+   "source_sha256": "9c22bed5f2032907e2df51eccfb0e1b4fe574e09a62ca84a6e27faa1c1ac12a3",
+   "ko": "그늘"
+  },
+  {
+   "id": "da0402:T00034",
+   "source_sha256": "7bb1c506958e57dbb39378448d0cbedbecf0cab7a5e03f6599ba2bc27a18075b",
+   "ko": "도 없다."
+  },
+  {
+   "id": "da0402:T00035",
+   "source_sha256": "4135b2c1700018593153457cabcc5d41ab70837a36d2c0fe3f74bf5850ae5e8d",
+   "ko": "오히려 더욱 강대한 "
+  },
+  {
+   "id": "da0402:R00003",
+   "source_sha256": "649bb9c4a591f1c70ac131662dfbe0387d5f8e8ca9ac3fa20f710e647b423101",
+   "ko": "프레셔를",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0402:T00036",
+   "source_sha256": "4c822036aa3a8868bf2b26bc4d328b38dc3629b2ff020f7b35dfa78dcb145a82",
+   "ko": "위압감을"
+  },
+  {
+   "id": "da0402:T00037",
+   "source_sha256": "383fa5308f1814f01d6c24572e7d781353626358e43cfff63ed81a3751cc4ac1",
+   "ko": " 사무라이에게 주고 있었다."
+  },
+  {
+   "id": "da0402:T00038",
+   "source_sha256": "99610486d8fe9cd029b906b8bdbba71661dc3c5a446d7cd88db836eb56fb8176",
+   "ko": "일촉즉발의 공기 속에서, 윈필드의 서늘한 목소리가 울린다."
+  },
+  {
+   "id": "da0402:T00039",
+   "source_sha256": "be42e671f6a63292b8af022d6df9b10eb7146d9b3a426a5e04b8e940d0f8a5f8",
+   "ko": "「『검도삼배단』――이었던가요」"
+  },
+  {
+   "id": "da0402:T00040",
+   "source_sha256": "f63e338a9fae446f20ae3d105f2318d7c4d921eff8749a1d9931f4bd94dd5f65",
+   "ko": "「…………」"
+  },
+  {
+   "id": "da0402:T00041",
+   "source_sha256": "92725dc0c75c7fc24155d339fbaa26acdeb3bf54e07887b953af905d2c132f9f",
+   "ko": "「그 논리, 복서에게는 통하지 않습니다」"
+  },
+  {
+   "id": "da0402:T00042",
+   "source_sha256": "8f60217d91c18d96f67b99d0087768cfcfc62db6ae204ce146818c42fa14e647",
+   "ko": "――이것마저 읽히면 자신의 패배다."
+  },
+  {
+   "id": "da0402:T00043",
+   "source_sha256": "358a46144a6c3012771920231ae05dc3793dcd8fa52c6f302f050c0782e1b0da",
+   "ko": "그렇게 각오하고 윈필드는 공격 태세에 들어갔다."
+  },
+  {
+   "id": "da0402:T00044",
+   "source_sha256": "df5f4830daec90537e7066664bef3a64b46ef4ef92d56bd4993536afc4486312",
+   "ko": "하지만 취한 자세는 복서의 상식에서 일탈한 것이었다.\n\n　자세는 낮추고, 허리를 넣고, 몸을 비틀어, 주먹을 치켜든다."
+  },
+  {
+   "id": "da0402:T00045",
+   "source_sha256": "8939b4dcf2ecff101601c0d26dcf07a71be56a449271876dff39adbe2966ac7e",
+   "ko": "더할 나위 없이 "
+  },
+  {
+   "id": "da0402:R00004",
+   "source_sha256": "b3addac98102598fb402e1df067ff9e20b935f9f847c6ba7c860ffe4d5122c0a",
+   "ko": "텔레폰 펀치",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0402:T00046",
+   "source_sha256": "487dcf80826b8dd8e7e04544bc8be5c380ecd555cebd0c76da1c081f3c45f45a",
+   "ko": "크게 휘두르는"
+  },
+  {
+   "id": "da0402:T00047",
+   "source_sha256": "b4729f90d314beecf0a94b35dc6cb41cff8f2bc658de45d4c46950cc9defd26b",
+   "ko": " 자세였다."
+  },
+  {
+   "id": "da0402:T00048",
+   "source_sha256": "ef6582d91830b4e77f50bf69c16602767ff6b3bb9ebf173322714910a5af970b",
+   "ko": "게다가 간격에서 아득히 멀리 떨어진 이 위치에서의 자세다.\n\n　윈필드를 아는 이 검사조차도 그의 제정신을 의심했다."
+  },
+  {
+   "id": "da0402:T00049",
+   "source_sha256": "83021c0f6b315a030ef572e06d1b70d8403552ae309f7e6e89a654af0aee68c3",
+   "ko": "「갑니다」"
+  },
+  {
+   "id": "da0402:T00050",
+   "source_sha256": "552574296710031400ce728303348108ba6a56d05765e33904e341950a6e6ef2",
+   "ko": "선언."
+  },
+  {
+   "id": "da0402:T00051",
+   "source_sha256": "393be8deead45d480e04b4882c7c2ca98db3dacbcbb51fefe8f1faf43098d7f3",
+   "ko": "검은 사무라이는 적의 행동을 "
+  },
+  {
+   "id": "da0402:R00005",
+   "source_sha256": "b92b6868cf206457a04760b958f699e8b1767ad48955bffb373ed3da5a89f2d6",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0402:T00052",
+   "source_sha256": "6d59ec9842b18c224cb9f1f7ef7880bbfca49aca8081d09e173c0793512f4f3d",
+   "ko": "의아해"
+  },
+  {
+   "id": "da0402:T00053",
+   "source_sha256": "8a80546b46d43f773ad6c3438769292319fdd2c197e499ca99c0ff14d91b25b9",
+   "ko": "하며,"
+  },
+  {
+   "id": "da0402:T00054",
+   "source_sha256": "49c962050e97aa7a6e09738273a146aef275e0d3bd44b780815980cc095d1a67",
+   "ko": "하지만――"
+  },
+  {
+   "id": "da0402:T00055",
+   "source_sha256": "6bb3581165d49098f9554c6e330ec0dba1d299d34d9a13ed4dd97d11e088abcc",
+   "ko": "「――――읏!」"
+  },
+  {
+   "id": "da0402:T00056",
+   "source_sha256": "9cc52c3b7bf7097d12cb6b5a7380df1dc4aa03f729a38bfae7c54057d47ecf5f",
+   "ko": "심장을 꿰뚫리는 듯한 위기감에 휩싸인다."
+  },
+  {
+   "id": "da0402:T00057",
+   "source_sha256": "d5e610cefab0c6452eb03f0ec5a65fdfea1b1fe52842ad52e0956c0897830f85",
+   "ko": "그 공포가 그를 움직이게 했다.\n\n　경탄할 만한 반사력으로 요격 태세로 옮겨 가――\n　하지만 그런데도 윈필드의 주먹은 네 개의 팔 그 어느 것보다도\n빨랐다."
+  },
+  {
+   "id": "da0402:T00058",
+   "source_sha256": "15a0598209f5f193fdf87a14722b564af268295c335f24425c88e4225eaf8857",
+   "ko": "「오의――"
+  },
+  {
+   "id": "da0402:R00006",
+   "source_sha256": "36daf08860ec2cfc823df80c64d6b571b43a651c1227303b2940a337bc17dbdc",
+   "ko": "에코",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0402:T00059",
+   "source_sha256": "81aab7083dccfd63d162c6a75960f08945b9bab87f1530607523bbf36bbc20f8",
+   "ko": "메아리"
+  },
+  {
+   "id": "da0402:T00060",
+   "source_sha256": "6560fad1b5299ec45c7562b1e825f123c87101dc289a1eb71426e443d34f4c8c",
+   "ko": "!」"
+  },
+  {
+   "id": "da0402:T00061",
+   "source_sha256": "3c3803fb0eaac9cbd6d4aa1edd31ec8cf96809715fdadd8089f6c09dc2e9651b",
+   "ko": "「크오아…… 커헉……!」"
+  },
+  {
+   "id": "da0402:T00062",
+   "source_sha256": "86da045aad37bbd8199c41ecd7f25ecf0e5b8fb38532ff1df00f8c83e72c5501",
+   "ko": "신기인가 마기인가――윈필드의 주먹은 닿았다."
+  },
+  {
+   "id": "da0402:T00063",
+   "source_sha256": "f50f0f070b8655c52cc768030626743c70057ec22fb3332550561fb86760e635",
+   "ko": "있을 수 없는 거리를 비상하여 검사의 안면을 꿰뚫었다.\n\n　윈필드의 초인적인 육체가 있었기에 가능한 절기였다."
+  },
+  {
+   "id": "da0402:T00064",
+   "source_sha256": "521693648e81d88c3155a5207c5eac071faafc992496be5ae15b465ede440649",
+   "ko": "전신의 "
+  },
+  {
+   "id": "da0402:R00007",
+   "source_sha256": "4ebd785907b381fb111719740549093a27ae09d411f78ccd3db84656620f4a10",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0402:T00065",
+   "source_sha256": "dbffa4b690b03437fb91465f2ad9e4e995992bd8a7a47ff3f3c3433077ba0ed5",
+   "ko": "탄성"
+  },
+  {
+   "id": "da0402:T00066",
+   "source_sha256": "e68b9f837f3661968309496adb5d8358b73de00918939fa24334a88355244090",
+   "ko": "을 극한까지 구사한 발디딤과 신체의 휘어짐이,\n양자의 거리를 한순간에 "
+  },
+  {
+   "id": "da0402:R00008",
+   "source_sha256": "32778b29fea58065310a90200d4724635cfcb412a39c0e13877cd9f349b18b42",
+   "ko": "제로로",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0402:T00067",
+   "source_sha256": "9489a4a6f3fbf136816df3dd09583e15303363fc58288d12697ebb5475901f6e",
+   "ko": "영으로"
+  },
+  {
+   "id": "da0402:T00068",
+   "source_sha256": "fa7b2296adf0bedced26270179788dfa4d8291a40ee9168fe29590775534287f",
+   "ko": " 만든 것이다.\n\n　그것은 한계까지 당겨진 강궁이 쏘아 내는, 필살필중의 화살과도\n같은 일격."
+  },
+  {
+   "id": "da0402:T00069",
+   "source_sha256": "45d12ae6f3a433ea917d6106fe469f54e5ade0555b8ea9ee129fc754ca82d220",
+   "ko": "견디지 못하고 사무라이는 무릎을 꿇었다."
+  },
+  {
+   "id": "da0402:T00070",
+   "source_sha256": "49c962050e97aa7a6e09738273a146aef275e0d3bd44b780815980cc095d1a67",
+   "ko": "하지만――"
+  },
+  {
+   "id": "da0402:T00071",
+   "source_sha256": "13542981e7cf747b9ce7f77e9a02c94d24db87ea45d4f8594b6eb81380e21806",
+   "ko": "（흣…… 얕다!）"
+  },
+  {
+   "id": "da0402:T00072",
+   "source_sha256": "4b18e25f772591c16d512c9edd425cf6d712596372268749914710a066d89055",
+   "ko": "그런데도 사무라이는 아직 완전히 쓰러지지 않았다."
+  },
+  {
+   "id": "da0402:T00073",
+   "source_sha256": "3b72a5e5375f255ebee573b2e10b32b8bc7e6592b75ad54dbd2843b6ddaa9a6f",
+   "ko": "2자루의 칼로 무너져 내릴 듯한 몸을 지탱하고, 남은 2자루를 치켜든다."
+  },
+  {
+   "id": "da0402:T00074",
+   "source_sha256": "29626886bc2e6a8482fe7c5a03b5c1e17950f85456d1d63ef115adb7ec5ab54f",
+   "ko": "「훌륭한 일격이다……\n　전사 윈필드…… 허나아!」"
+  },
+  {
+   "id": "da0402:T00075",
+   "source_sha256": "297cfc6018761e161a36b7d825b98690aae6947f3053fea5f1136b870955fda6",
+   "ko": "흉인의 흉악한 번뜩임이 두 줄기 검섬이 되어 윈필드에게\n날아든다."
+  },
+  {
+   "id": "da0402:T00076",
+   "source_sha256": "9ab545a2a60c89d8b07d7988642839c272dc6ac10d15cc60ef4fb7114fc59ba6",
+   "ko": "「크으으읏!　우오오오오오오!」"
+  },
+  {
+   "id": "da0402:T00077",
+   "source_sha256": "eb5bd520a6a7f67523bf71efab1e3552b0fc2578b658a7148a6649ab5b785aca",
+   "ko": "그것이 마지막 사력을 다해 짜낸 참격이라면,\n이어진 윈필드의 행동은 자신의 한계를 초월한 것이었다."
+  },
+  {
+   "id": "da0402:T00078",
+   "source_sha256": "701e72670e5c882a9ddf96b04765c986c516adf96a341e84f883e3639c36a6a9",
+   "ko": "비명을 지르는 전신을 혹사하여 전력으로 대지를 박찼다."
+  },
+  {
+   "id": "da0402:T00079",
+   "source_sha256": "98e16f74fc1391541f940e9eee7e4e04b1cb3368c115f45bfc78e5c2a46af791",
+   "ko": "무시무시한 부하가 짓누른다."
+  },
+  {
+   "id": "da0402:T00080",
+   "source_sha256": "4126d0b9e6dfde1f486bbe812e99a445a213ade5ddbf915a40f83dc9a0c09be4",
+   "ko": "뼈가 삐걱거리고 근육이 찢겨 나간다.\n\n　미친 듯이 날뛰는 격통을 모조리 무시하고, 그 일격에 남은 모든 것을\n쏟아붓는다."
+  },
+  {
+   "id": "da0402:T00081",
+   "source_sha256": "46f9d993d6c55e34daa1eb67c4d5036b2741431cf4f45eb429a4d591f4269a67",
+   "ko": "「오의…… "
+  },
+  {
+   "id": "da0402:R00009",
+   "source_sha256": "4f6b8c0f04af864c47be41da4acd13ecfd8d754224843a19fca55f12be1774f7",
+   "ko": "레퀴엠",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0402:T00082",
+   "source_sha256": "5a306e6f33290b331d434bfd74152bd120a6da383e7cb384650d81b80a32a375",
+   "ko": "진혼곡"
+  },
+  {
+   "id": "da0402:T00083",
+   "source_sha256": "2a21905f43e5a05954fb631dfc0cf38b1d8b25001f9ccedd80abcd27e88f6fb8",
+   "ko": "・"
+  },
+  {
+   "id": "da0402:R00010",
+   "source_sha256": "67169d9ddee1cf82f343668ddbce8a7d73f7819f6750214a7799d8bdb5d3805b",
+   "ko": "디에스 이레",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0402:T00084",
+   "source_sha256": "36fe3d6ba2cb0726b1ba92af5327f41603585b3de7cf71d54ff7e9e642943889",
+   "ko": "진노의 날"
+  },
+  {
+   "id": "da0402:T00085",
+   "source_sha256": "6560fad1b5299ec45c7562b1e825f123c87101dc289a1eb71426e443d34f4c8c",
+   "ko": "!」"
+  },
+  {
+   "id": "da0402:T00086",
+   "source_sha256": "2db56a295e885fe2c76d93c912cf4278bad5678c29470f25f7fe29d27d7712bf",
+   "ko": "두 개의 칼날이 양 어깨에 파고들었다."
+  },
+  {
+   "id": "da0402:T00087",
+   "source_sha256": "e3dee2e1e1e10bf8074ceffbb5608189e7a4af3d0947986062db4f2fe6ef10fc",
+   "ko": "뿜어져 나오는 선혈. 하지만 치명상에는 이르지 않는다."
+  },
+  {
+   "id": "da0402:T00088",
+   "source_sha256": "243424b77a81dede213d7d003ca8ac2d2c261922922aae603adf015e55bc474a",
+   "ko": "칼날이 그를 베기보다 빠르게, 윈필드는 도약했다."
+  },
+  {
+   "id": "da0402:T00089",
+   "source_sha256": "266756aa26668cd2ba20a1870aa2f7dc8977d1888dd201ad2f7876688b58a4f6",
+   "ko": "도약력을 이용한 혼신의 어퍼컷이 검사의 흉부에 적중했다."
+  },
+  {
+   "id": "da0402:T00090",
+   "source_sha256": "210c5bbb458853bf266e963b2a8b5b2e0e51236df7afe3540b3013e9d38e7899",
+   "ko": "늑골을 부수고, 충격은 심장을 꿰뚫는다."
+  },
+  {
+   "id": "da0402:T00091",
+   "source_sha256": "894f5cf3bf8be9eec16da930f6e19f57e228815b2bafbdaa1e75c8f1f09ef85d",
+   "ko": "「크으가아아아아아아아아아!」"
+  },
+  {
+   "id": "da0402:T00092",
+   "source_sha256": "687733762cab9b457f8a5bbf1e65b57a5e4cbf92b034e9e33f322ef6e219c6b2",
+   "ko": "「이걸로 끝입니다!」"
+  },
+  {
+   "id": "da0402:T00093",
+   "source_sha256": "00f1b3352e9d328456eb6cf37145678bfc91f10c7cb686404fc4612855a6fe2e",
+   "ko": "――검사의 몸이 허공으로 날아올랐다."
+  },
+  {
+   "id": "da0402:T00094",
+   "source_sha256": "7d5b47595e43ea73005437e5d29fb5e587822e03c05ec280b18186e09ca80cb1",
+   "ko": "「아…… 아아……」"
+  },
+  {
+   "id": "da0402:T00095",
+   "source_sha256": "8abaaa603bcfc5880f07b5ae10e51983f6a306a043812015e66c98785d93d394",
+   "ko": "기절해 있던 것은 얼마만큼의 시간이었을까."
+  },
+  {
+   "id": "da0402:T00096",
+   "source_sha256": "6187ee0f3f5de3d7b0ce5bce439d3b940abac2b607a8af19aacbe1b6dc4dae22",
+   "ko": "윈필드는 차가운 바닥 위에 쓰러져 있는 자신을 깨달았다."
+  },
+  {
+   "id": "da0402:T00097",
+   "source_sha256": "38d9fbc2dce577f7b687890f73781f5fa2daa275c3b250b0bd73a0ef9fec4cda",
+   "ko": "「크…… 아아아앗…… 큭……!」"
+  },
+  {
+   "id": "da0402:T00098",
+   "source_sha256": "ae92964b10b8b57331e78f01042aeb9da866b68e898f7daa22266c0702ff0d9b",
+   "ko": "조금이라도 몸을 움직이면 격통에 시달린다."
+  },
+  {
+   "id": "da0402:T00099",
+   "source_sha256": "2a99b660f1655e017144dc01f39f55e6e42499141c6833f7dfc000dbd40d928a",
+   "ko": "무모한 방식으로 싸운 탓에 전신의 근육은 만신창이다."
+  },
+  {
+   "id": "da0402:T00100",
+   "source_sha256": "09f040acff91fabe358e2f4c755a70109139f888d395392f0698382d63e2d02f",
+   "ko": "아무리 윈필드라도 상반신을 일으키는 것이 고작이었다."
+  },
+  {
+   "id": "da0402:T00101",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0402:R00011",
+   "source_sha256": "b0e02406d1e13b0bcabd027695afa75aa87e535827746553217f844cc9911550",
+   "ko": "미스터 무사도",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0402:T00102",
+   "source_sha256": "dfb8f3afc7874266385eb7f4d4abaf8283977ecea9bf410f26205343b632434c",
+   "ko": "그 검사"
+  },
+  {
+   "id": "da0402:T00103",
+   "source_sha256": "04d18f20b88e327bb239811b43ffbe760b6ee05600ea7901126a664221204b91",
+   "ko": "는……?」"
+  },
+  {
+   "id": "da0402:T00104",
+   "source_sha256": "f57e8904ed53af69a94f715fb3af3d725f49c2caf7911fc355e6e3bc8698b72c",
+   "ko": "주위를 둘러보지만, 검은 사무라이의 모습은 없었다."
+  },
+  {
+   "id": "da0402:T00105",
+   "source_sha256": "e74162dc6ee0d1a39f67144fa14b530ab9b57c80dee85ab6d0d8238602f0fd39",
+   "ko": "마무리를 짓지 못한 것인가."
+  },
+  {
+   "id": "da0402:T00106",
+   "source_sha256": "3afdbc8c9283fa9a307fd8578c965352bf86655c07d0465103e19b1c2a7c5fa7",
+   "ko": "하지만 그렇다면, 어째서 그는 기절해 있는 윈필드를 놓아준\n것일까?"
+  },
+  {
+   "id": "da0402:T00107",
+   "source_sha256": "7604513f23a19564babc3306f0b4d5afe50fde300015c5299d38089416aac18d",
+   "ko": "「……아가씨……\n　크으…… 아아아…… 읏!」"
+  },
+  {
+   "id": "da0402:T00108",
+   "source_sha256": "bcc08f01bf29bd7c3db5b89e67f7ea001a774237358d7a143c249880f3630f09",
+   "ko": "의문을 떨쳐 내고, 격통을 떨쳐 내며 일어선다."
+  },
+  {
+   "id": "da0402:T00109",
+   "source_sha256": "3d52394d430226b0ca97585665b465da34220df3f37fe3b3bf4945076f87d456",
+   "ko": "지금은 그럴 때가 아니다."
+  },
+  {
+   "id": "da0402:T00110",
+   "source_sha256": "14bf2c88c67ddb4db6ad91a6fc4e8128de37b262e56214a8f3c4502e066aeda8",
+   "ko": "주인을――하도우 루리를 찾아야만 한다."
+  },
+  {
+   "id": "da0402:T00111",
+   "source_sha256": "4743b003ef22e4b4a7b42ac56f7a956c7cb92dd60cf8bacf9e8b575700ff2a46",
+   "ko": "벽과 난간에 몸을 의지하며 걷기 시작한다."
+  },
+  {
+   "id": "da0402:T00112",
+   "source_sha256": "e78c5605b4c23ce1d5927a9fb829ec01f91bc1015d2a64025cbcd12b64d7014a",
+   "ko": "다시 한번, 주위를 둘러본다."
+  },
+  {
+   "id": "da0402:T00113",
+   "source_sha256": "6c7e81ef180aac4e34d934c5f75f544f9c0066143dc551be69430cc45f73305b",
+   "ko": "경탄할 만한 대시설이다."
+  },
+  {
+   "id": "da0402:T00114",
+   "source_sha256": "10f21bc506d3e80aec9d378b87373e42fe40a3baf1dd7c27bf65a8eecab782f7",
+   "ko": "도대체 누가 만든 것일까.\n\n　애당초 이만한 것을 건조할 수 있는 기술력과 자금력을 가진 조직이, 하도우 재벌 이외에 존재할 리가 있는가?"
+  },
+  {
+   "id": "da0402:T00115",
+   "source_sha256": "e6a76856a7a3bd3d919dad33d62fb05782dd2d094ef9beb7cfb885611b7397e1",
+   "ko": "「하도우 이외에……?」"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0402:R00001",
+   "kind": "ruby_decision",
+   "note": "斃의 독음 안내(たお)로 한국어 '쓰러뜨릴'로 의미가 전달되어 생략."
+  },
+  {
+   "id": "da0402:R00002",
+   "kind": "ruby_decision",
+   "note": "翳り의 독음 안내(かげ)로 한국어 '그늘'과 중복되어 생략."
+  },
+  {
+   "id": "da0402:R00005",
+   "kind": "ruby_decision",
+   "note": "訝り의 독음 안내(いぶか)로 한국어 '의아해'와 중복되어 생략."
+  },
+  {
+   "id": "da0402:R00007",
+   "kind": "ruby_decision",
+   "note": "発条의 독음 안내(ばね)로 한국어 '탄성'(용수철)으로 의미가 전달되어 생략."
+  }
+ ]
+}

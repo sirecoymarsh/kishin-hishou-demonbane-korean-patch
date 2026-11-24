@@ -1,0 +1,909 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0102_da1303",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da1303:T00001",
+   "source_sha256": "e34ba8a1f2460612403e95ab573692c869c52b50c3bfa82793ad8cf7fd1ce52f",
+   "ko": "「쿠자쿠…… "
+  },
+  {
+   "id": "da1303:R00001",
+   "source_sha256": "fe65050b6cf95368d85f30fd366c092a15824886d51defd754887d1e968f7491",
+   "ko": "・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1303:T00002",
+   "source_sha256": "5a3a1d0c0d601157d1615d15b2166b0d93a89f429271de051eae6ffe809f7b7e",
+   "ko": "다이쥬지"
+  },
+  {
+   "id": "da1303:T00003",
+   "source_sha256": "1de34d57b1dbd844be9fb19ffa3d5358779c66a8cde7d3e0ceb12b7c163b41e7",
+   "ko": "…… 쿠자쿠?」"
+  },
+  {
+   "id": "da1303:T00004",
+   "source_sha256": "c1b9f12654c0d7381c2497b6676558098dc371e9a41ced7bb3c794e7549fe170",
+   "ko": "「내…… 아이?」"
+  },
+  {
+   "id": "da1303:T00005",
+   "source_sha256": "a343311a5d9b30d08dc56dc06a9ec7cc2cec2a425a5dd0355552b1c2789cfdb7",
+   "ko": "「그럴 수가……」"
+  },
+  {
+   "id": "da1303:T00006",
+   "source_sha256": "f9d6aa2362648272dd9a726fb0ec65c2c03ded27c48c4c2336a7410d3ad5a972",
+   "ko": "「그뿐만이 아니란다, "
+  },
+  {
+   "id": "da1303:R00002",
+   "source_sha256": "62f083b66f85bb7e91aeeefb564b5a6991560448a77d686a51788b9945d35e81",
+   "ko": "오리지널",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1303:T00007",
+   "source_sha256": "4da921e3249cf37f25e9927129f9bd2d5bb5d89489adb525d35aa2d7c84b9452",
+   "ko": "어머님"
+  },
+  {
+   "id": "da1303:T00008",
+   "source_sha256": "062a345406a788f4f1ba0555be713fcc7477ace21a879f5ad79be71013968c4f",
+   "ko": "?」"
+  },
+  {
+   "id": "da1303:T00009",
+   "source_sha256": "f59ac6908f9c8a06bf5894adf7d7f4e85992f3881c913519c851375808da05f7",
+   "ko": "「그 밖에도 눈치채야 할 것이\n　　있지 않겠어……?」"
+  },
+  {
+   "id": "da1303:T00010",
+   "source_sha256": "a19cbb178f939bd9a5d557b9774de26b0558688ee0168a098c25c029fb2e741e",
+   "ko": "「뭐라고?」"
+  },
+  {
+   "id": "da1303:T00011",
+   "source_sha256": "918bc11064c42c7670c148cdd9db1d83606ffd0baa623890d2191e368847c34c",
+   "ko": "그것은 언어화된 피 "
+  },
+  {
+   "id": "da1303:R00003",
+   "source_sha256": "33439ddb0f66823471fcc299d5d5f75aa20a1470e5cc0d7bb310dbe5b1609c6d",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1303:T00012",
+   "source_sha256": "1f828276b921aa107500f6e9151332285e78eb3c2fd98302107a1970352e1742",
+   "ko": "빛깔"
+  },
+  {
+   "id": "da1303:T00013",
+   "source_sha256": "ed12d7574cbe260b45e07f21c4b48a482cd7aa16de1765dac15e4ecc7738253f",
+   "ko": "의 존재 정의"
+  },
+  {
+   "id": "da1303:T00014",
+   "source_sha256": "e5969976ac59142e9f225c7e94b0119815dbd087b201ec3606a823da369b5c50",
+   "ko": "포개어　덧칠하고　응고된 빛깔과 맛"
+  },
+  {
+   "id": "da1303:T00015",
+   "source_sha256": "b33a9d6c4d652f6631ca3955275414e1201c0f3a37c78a3a817fe4406507578c",
+   "ko": "그 결정을 바라는 의지"
+  },
+  {
+   "id": "da1303:T00016",
+   "source_sha256": "d6ff57b15b98cd5ff389b3dee9685b6e65dce7aa4df9a9976712aa91c255a20a",
+   "ko": "「……읏!?」"
+  },
+  {
+   "id": "da1303:T00017",
+   "source_sha256": "2f1663e3fb3fae53bc2a91a01b0dd8b0859e4d3ccf3e0b2c2f1c695a7c2e4a98",
+   "ko": "쏟아져 내리는 살의의 빛깔　은빛"
+  },
+  {
+   "id": "da1303:T00018",
+   "source_sha256": "39252578884f208b2ccd05e13cf4f8955c8d00f405b2b3d4fc5bdf46752c1d11",
+   "ko": "진홍　뿜어져 나오는 곤혹의 빛깔"
+  },
+  {
+   "id": "da1303:T00019",
+   "source_sha256": "2a66a07f4d8c27347e44d160571479564dd35698e989fcb2979907d4e7d3b451",
+   "ko": "교차하는 빛깔과 빛깔"
+  },
+  {
+   "id": "da1303:T00020",
+   "source_sha256": "314b77d001df3b0c77c393aa5d4dee2444301283d2f90305deb95753dc039760",
+   "ko": "그려 내는 나선은 존재의 확인"
+  },
+  {
+   "id": "da1303:T00021",
+   "source_sha256": "dd10dad5a2b7bbee6338f42b2f65bf27b684691906e64111ab749da9ea2e07ef",
+   "ko": "「혼자가 아니다」라고 신앙하는 증오"
+  },
+  {
+   "id": "da1303:T00022",
+   "source_sha256": "decf74250dc6d30a1aa7a869f80c5f7d16b70b4cd0499b6f57baaab052077f88",
+   "ko": "「크윽……!」"
+  },
+  {
+   "id": "da1303:T00023",
+   "source_sha256": "4417549412bb2bd192f517e726a8c09faed95b13c9274a498095ba1194f64068",
+   "ko": "「――피야말로 나의 존재.\n　　　　　　나의 "
+  },
+  {
+   "id": "da1303:R00004",
+   "source_sha256": "24d7ad880d9dd274550d7dc2480caa180cce47c07ed273889cc65934ddc93c74",
+   "ko": "힘",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1303:T00024",
+   "source_sha256": "522148a1fdcc951dab73d60402911ecae0316c63ca4da1659694d251661570bc",
+   "ko": "마력"
+  },
+  {
+   "id": "da1303:T00025",
+   "source_sha256": "2ee15351838a92ca620449845d406ad4744754ad2fd53e737776731a0ec80fea",
+   "ko": "의 증명.\n　　　　　　나의 마술의 원천」"
+  },
+  {
+   "id": "da1303:T00026",
+   "source_sha256": "39c72eab207562f079cd8d5538744c8800d016f067078a28be72b9eba10b7675",
+   "ko": "「마술…… 피의 마술\n　　　……"
+  },
+  {
+   "id": "da1303:R00005",
+   "source_sha256": "b750c2ece644240b0f8e138a0602b89062dcd4cb934044a963e76bf34670b76d",
+   "ko": "・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1303:T00027",
+   "source_sha256": "98da8a574767b983beb349c2efefbfdbba8993129d395ce47920ad0b68785f6d",
+   "ko": "혈액언어"
+  },
+  {
+   "id": "da1303:T00028",
+   "source_sha256": "062a345406a788f4f1ba0555be713fcc7477ace21a879f5ad79be71013968c4f",
+   "ko": "?」"
+  },
+  {
+   "id": "da1303:T00029",
+   "source_sha256": "70948d14a38bc5a24077b5ec322effd1d3821d9c8a2eeb664722655d150b6321",
+   "ko": "「『피』…… 『혈맥』…… 원한다면 『유전자』라\n　불러도 좋다. 나는 마술 정보――\n　마도의 지식을 피에 품고 태어났다」"
+  },
+  {
+   "id": "da1303:T00030",
+   "source_sha256": "c30c205f5c08101452dff500d3656855088e3208f2ae06d63df43f794b70a8c3",
+   "ko": "「『있을 수 있기에』 나는 존재한다.\n　인간이면서 마도서이기도 한\n　『반인반서』의 존재――그것이 나다」"
+  },
+  {
+   "id": "da1303:T00031",
+   "source_sha256": "2799440600fff29a11ff497aab3134ed9fabe8c60c26b589884feb4ae31585ad",
+   "ko": "「――『"
+  },
+  {
+   "id": "da1303:R00006",
+   "source_sha256": "b750c2ece644240b0f8e138a0602b89062dcd4cb934044a963e76bf34670b76d",
+   "ko": "・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1303:T00032",
+   "source_sha256": "cb609351254ad1c861704f18cc587cd8239ddf938587a52ec43781d63b7423f6",
+   "ko": "반인반서"
+  },
+  {
+   "id": "da1303:T00033",
+   "source_sha256": "8a32357457301d6c7ff2a10d9876c810d1ed6baa9458d0a3a964ada4b95b2571",
+   "ko": "』?\n　　　"
+  },
+  {
+   "id": "da1303:R00007",
+   "source_sha256": "e0dca0680981c19525576e77eb43edb5a365cd07bcaa8efc5dfb325a2bc8b2ae",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1303:T00034",
+   "source_sha256": "42ae9091f49d8e597846216f247b663a9364eb3a78ba50881739bed2c229dc8c",
+   "ko": "설마"
+  },
+  {
+   "id": "da1303:T00035",
+   "source_sha256": "19e91375244963223e5894c601a6cc7028bf0e9754a9d7bb0fe4ef2b751a3423",
+   "ko": "……」"
+  },
+  {
+   "id": "da1303:R00008",
+   "source_sha256": "c6351467c0771e71824d192ef46806cccb5a0bfc62f193a3ddd08bdde3c6b187",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1303:T00036",
+   "source_sha256": "f8465a4c4a7eedbc6e6f440f1693918fb4005bb225b8a1d571901eff8a44f477",
+   "ko": "상처"
+  },
+  {
+   "id": "da1303:T00037",
+   "source_sha256": "bff2867ad531afa7b673346c6b3df3c39e6ae86a7bd0506495d110c219f2d42f",
+   "ko": "를 적시는 청렬한 진홍"
+  },
+  {
+   "id": "da1303:R00009",
+   "source_sha256": "5e50b96c27b2f416824dd21237894b52728e9f8acf21f77ae97378faaafaa899",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1303:T00038",
+   "source_sha256": "09152a2380b09e688a514e86056805ca633afd8381453280be7f536c7140c91a",
+   "ko": "풀"
+  },
+  {
+   "id": "da1303:T00039",
+   "source_sha256": "ccee5890bc41d8b6221e4e0abc55c550d4a9361d77c0f43d66367b34385b8ac6",
+   "ko": "어져 몰아치는 처절한 진홍"
+  },
+  {
+   "id": "da1303:T00040",
+   "source_sha256": "2a66a07f4d8c27347e44d160571479564dd35698e989fcb2979907d4e7d3b451",
+   "ko": "교차하는 빛깔과 빛깔"
+  },
+  {
+   "id": "da1303:T00041",
+   "source_sha256": "2067a96ed7df7cf57691e958b6c9f27dfbfeb88a120f75930c6af2458d3f1b4e",
+   "ko": "그려 내는 나선은 원천의 확인"
+  },
+  {
+   "id": "da1303:T00042",
+   "source_sha256": "819ba5c8ad8d54c4290e85f883906c9c13296451e63be210487a95ac23532dcb",
+   "ko": "「태어났다」라고 확신하는 망집"
+  },
+  {
+   "id": "da1303:T00043",
+   "source_sha256": "02d2f6ce95e19668214637b8a6bebb653665921eb5237abf3c327125480638d9",
+   "ko": "「크악……!」"
+  },
+  {
+   "id": "da1303:T00044",
+   "source_sha256": "6cc0d17b63dfedc56e721206aeda23a3182d2892d2c9ccafc1baf8a27fd17c84",
+   "ko": "「쿠로!」"
+  },
+  {
+   "id": "da1303:T00045",
+   "source_sha256": "22aa8352debb293c13334302a47ecff9319bbab04ab83945abd3a463948129ea",
+   "ko": "「괜찮아…… "
+  },
+  {
+   "id": "da1303:R00010",
+   "source_sha256": "dca68fa81e48ed0c4790233d4757302fe40db9c1b1aa9efb70c35a8bd9d51ae2",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1303:T00046",
+   "source_sha256": "3632a77f010c8809111fed6c5ce5475e1dfb08301db5ca6591c4671e3993deac",
+   "ko": "스쳤"
+  },
+  {
+   "id": "da1303:T00047",
+   "source_sha256": "6d2cf75790fa61db43683a83783fe0b77d674c0d69162d75b3329db85d667615",
+   "ko": "을 뿐이야.\n　그보다도, 알……!」"
+  },
+  {
+   "id": "da1303:T00048",
+   "source_sha256": "a566bb47ec59d80f609c5f190c7a7591c1560c5bb4bb82a201a60c08e5439079",
+   "ko": "「그, 그래.\n　저 녀석은…… 쿠자쿠는」"
+  },
+  {
+   "id": "da1303:T00049",
+   "source_sha256": "9a22f7e0541e935bdd081c1fac1a29371b591793a84d79397e8ed1fce5450857",
+   "ko": "「우리의……」"
+  },
+  {
+   "id": "da1303:T00050",
+   "source_sha256": "27c97e9d144043faf5d3eb9b1e5d6593a2231866c6c798b0d3cee1bcf7538de4",
+   "ko": "「우리들의……」"
+  },
+  {
+   "id": "da1303:T00051",
+   "source_sha256": "8fd41b914c6c9a431f9ff5e85e721521a05938b86e7ba71e40b79faacb1f056b",
+   "ko": "「반인반서!　책의 지혜를\n피에 품은 인간!　그 말대로야!\n다이쥬지 쿠자쿠는 인간 『다이쥬지 쿠로』와\n마도서 『알 아지프』의 아이야!」"
+  },
+  {
+   "id": "da1303:T00052",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da1303:R00011",
+   "source_sha256": "fe65050b6cf95368d85f30fd366c092a15824886d51defd754887d1e968f7491",
+   "ko": "・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1303:T00053",
+   "source_sha256": "3e9ae84d1ba447d78f5d60d6a94a0cb172eebcd0e4ff4f0d048d0f45ba834104",
+   "ko": "우리들"
+  },
+  {
+   "id": "da1303:T00054",
+   "source_sha256": "91d7640678cdbcbbba1d3c263cb81578a9dad1262f88e2a56e4594456b1769ad",
+   "ko": "『"
+  },
+  {
+   "id": "da1303:R00012",
+   "source_sha256": "b23809bf96a578e2f1bd090c387ee6bf76b00f431c6ea18868a02155a811f1f4",
+   "ko": "・・・・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1303:T00055",
+   "source_sha256": "4a9f603b79c8a5a24aee4042109b49498e25b3f7803bdb1857389754e6651579",
+   "ko": "네크로노미콘 "
+  },
+  {
+   "id": "da1303:R00013",
+   "source_sha256": "905b0efb2d86b7b8a5e1a663618fe8fda3615a10bcebe5973ba115f428f9c0e2",
+   "ko": "・・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1303:T00056",
+   "source_sha256": "7c58b8241c16b415a8072b80c769be7397b9e7bca3dd1eb3bf0637c01669faf8",
+   "ko": "혈액언어판"
+  },
+  {
+   "id": "da1303:T00057",
+   "source_sha256": "b72463c14159de4fb05314bbe87427f188c8e257daa14ceb49223b60b24f5a23",
+   "ko": "』"
+  },
+  {
+   "id": "da1303:R00014",
+   "source_sha256": "2a21905f43e5a05954fb631dfc0cf38b1d8b25001f9ccedd80abcd27e88f6fb8",
+   "ko": "・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1303:T00058",
+   "source_sha256": "de77c92e700013835c3fc5ad8f581a6c050fa5f015b75f694fe41715cfb4847e",
+   "ko": "은"
+  },
+  {
+   "id": "da1303:T00059",
+   "source_sha256": "c4a40ea8fe35627476f7f8cb9e1fc7f8898f428c6d1ff18b0bc5479d5db39c5f",
+   "ko": ", "
+  },
+  {
+   "id": "da1303:R00015",
+   "source_sha256": "905b0efb2d86b7b8a5e1a663618fe8fda3615a10bcebe5973ba115f428f9c0e2",
+   "ko": "・・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1303:T00060",
+   "source_sha256": "200b73e17af2b5eb54939915fce4170ee1513c60b8786f4a7d75ac3021102640",
+   "ko": "당신들의 "
+  },
+  {
+   "id": "da1303:R00016",
+   "source_sha256": "b750c2ece644240b0f8e138a0602b89062dcd4cb934044a963e76bf34670b76d",
+   "ko": "・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1303:T00061",
+   "source_sha256": "f49c3b8e4bbf5527053051f6ef41f3d091750b509a0aff490b1e0a175f156bb3",
+   "ko": "아이야"
+  },
+  {
+   "id": "da1303:T00062",
+   "source_sha256": "631157c15452e8cefd925437a26f1d016b1a5d7575f9234fd0bf7aff0369e63d",
+   "ko": "!"
+  },
+  {
+   "id": "da1303:R00017",
+   "source_sha256": "fe65050b6cf95368d85f30fd366c092a15824886d51defd754887d1e968f7491",
+   "ko": "・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1303:T00063",
+   "source_sha256": "f68b9323540998d38167cc9de7c4d45f8a16f52e21527161d0612ccab54b4762",
+   "ko": "아버님"
+  },
+  {
+   "id": "da1303:T00064",
+   "source_sha256": "631157c15452e8cefd925437a26f1d016b1a5d7575f9234fd0bf7aff0369e63d",
+   "ko": "!　"
+  },
+  {
+   "id": "da1303:R00018",
+   "source_sha256": "fe65050b6cf95368d85f30fd366c092a15824886d51defd754887d1e968f7491",
+   "ko": "・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1303:T00065",
+   "source_sha256": "4da921e3249cf37f25e9927129f9bd2d5bb5d89489adb525d35aa2d7c84b9452",
+   "ko": "어머님"
+  },
+  {
+   "id": "da1303:T00066",
+   "source_sha256": "6560fad1b5299ec45c7562b1e825f123c87101dc289a1eb71426e443d34f4c8c",
+   "ko": "!」"
+  },
+  {
+   "id": "da1303:T00067",
+   "source_sha256": "918bc11064c42c7670c148cdd9db1d83606ffd0baa623890d2191e368847c34c",
+   "ko": "그것은 언어화된 피 "
+  },
+  {
+   "id": "da1303:R00019",
+   "source_sha256": "33439ddb0f66823471fcc299d5d5f75aa20a1470e5cc0d7bb310dbe5b1609c6d",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1303:T00068",
+   "source_sha256": "1f828276b921aa107500f6e9151332285e78eb3c2fd98302107a1970352e1742",
+   "ko": "빛깔"
+  },
+  {
+   "id": "da1303:T00069",
+   "source_sha256": "ed12d7574cbe260b45e07f21c4b48a482cd7aa16de1765dac15e4ecc7738253f",
+   "ko": "의 존재 정의"
+  },
+  {
+   "id": "da1303:T00070",
+   "source_sha256": "e5969976ac59142e9f225c7e94b0119815dbd087b201ec3606a823da369b5c50",
+   "ko": "포개어　덧칠하고　응고된 빛깔과 맛"
+  },
+  {
+   "id": "da1303:T00071",
+   "source_sha256": "56136e3704bc33fd7c7b0ed3658918de7f9445020c080760652e5c74fab786d8",
+   "ko": "그 결정을 맹세하는 의지"
+  },
+  {
+   "id": "da1303:T00072",
+   "source_sha256": "cf8af999d26a52470243957a11c3f7c304b3a7e49a34b768e7fc3b6d0454c6d7",
+   "ko": "「원망한다…… 아버지!」"
+  },
+  {
+   "id": "da1303:T00073",
+   "source_sha256": "97f2e0e2c193a5af7fcd5ef01f43b439222c1be0be7f52fd6c14ec5c0d54beae",
+   "ko": "「원망하옵니다, 어머님!」"
+  },
+  {
+   "id": "da1303:T00074",
+   "source_sha256": "10d00d5b25a9c6e420e00e84b30f48f3c2b17628d25d2a38eb212dfbf8201256",
+   "ko": "「어째서냐!\n　　　　　　어째서, 버린 것이냐!\n　　　　　　어째서…… 어째서!」"
+  },
+  {
+   "id": "da1303:T00075",
+   "source_sha256": "f4ed59c1466d21bf1be449b16dbb877f60995c2ee73d46e6c6f77131873f3691",
+   "ko": "「어째서입니까!\n　　　어째서, 쿠자쿠를 낳은 거야!?\n　　　"
+  },
+  {
+   "id": "da1303:R00020",
+   "source_sha256": "905b0efb2d86b7b8a5e1a663618fe8fda3615a10bcebe5973ba115f428f9c0e2",
+   "ko": "・・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1303:T00076",
+   "source_sha256": "dacbbf8e05224aaf8608d9da10a2d4f8fd2ee0693e0e2aa4ac692beda69c326c",
+   "ko": "제가 아니라"
+  },
+  {
+   "id": "da1303:T00077",
+   "source_sha256": "b14c4a9f7ad06383bf55095d025ddd281bbe5670eede79220f60499634e82188",
+   "ko": "!　어째서…… 어째서!」"
+  },
+  {
+   "id": "da1303:T00078",
+   "source_sha256": "2377d95b3b26d3b72d3bba92f94e24d9ab494fd361ee2301d95f29810aa08cac",
+   "ko": "교차하는 선과 선"
+  },
+  {
+   "id": "da1303:T00079",
+   "source_sha256": "2debc01dfe2d01d206ade2974b919ffe38c4129737c34ef07692986a16282634",
+   "ko": "이어지는 "
+  },
+  {
+   "id": "da1303:R00021",
+   "source_sha256": "f91c93611673db1cc3e62784a37ee177cfdad41af8e135ca7ced27743e2852a0",
+   "ko": "꿈",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1303:T00080",
+   "source_sha256": "846c39b0bcb51f41f7a9b92e4d3452d15b86f3e1cd153f8d3d2ba8ef55219731",
+   "ko": "이야기"
+  },
+  {
+   "id": "da1303:T00081",
+   "source_sha256": "427566260604d16fb4a900e51400dd5dfac2ef749901179434735f0d0008d100",
+   "ko": "와 "
+  },
+  {
+   "id": "da1303:R00022",
+   "source_sha256": "f91c93611673db1cc3e62784a37ee177cfdad41af8e135ca7ced27743e2852a0",
+   "ko": "꿈",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1303:T00082",
+   "source_sha256": "846c39b0bcb51f41f7a9b92e4d3452d15b86f3e1cd153f8d3d2ba8ef55219731",
+   "ko": "이야기"
+  },
+  {
+   "id": "da1303:T00083",
+   "source_sha256": "624621f5cec45c6c1c200d961f25afb4dfb830b5397b4bc7160fd1c87478dfee",
+   "ko": "인과는 이곳에 성취되었다"
+  },
+  {
+   "id": "da1303:T00084",
+   "source_sha256": "2915789be08c84e7258ad7eff397af157818f7a2882e15b48e257f0c99ed3e98",
+   "ko": "열린다／"
+  },
+  {
+   "id": "da1303:T00085",
+   "source_sha256": "ec10c7428d07ebdfae5e221fb3057bef3506d6c8a0bfe8a03a11ef5b5693fb80",
+   "ko": "열어젖힌다　"
+  },
+  {
+   "id": "da1303:R00023",
+   "source_sha256": "6c57359ba2c1a345f54b74785ec72e3896bea8b7b427e80107f6bd89a76f518e",
+   "ko": "헤븐즈 도어",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1303:T00086",
+   "source_sha256": "ef319789fd35fadc999bd863b8a3476caf1bf6a33de8e4dfd6412ea20977f927",
+   "ko": "최후의 열쇠"
+  },
+  {
+   "id": "da1303:T00087",
+   "source_sha256": "957df08e6d2d224d4a983c5aec4d4fada68ef6749f724e2264b24cfa4b622342",
+   "ko": "「아……」"
+  },
+  {
+   "id": "da1303:T00088",
+   "source_sha256": "3dfc87872c1b15a3fce0a6543ad031c0a0ed6f8fc334da9b4b37474d6e37825e",
+   "ko": "■"
+  },
+  {
+   "id": "da1303:T00089",
+   "source_sha256": "4fa4e281067f1c932b266b03c2a301296c1e5f085414f904716da4788836e96c",
+   "ko": "게"
+  },
+  {
+   "id": "da1303:T00090",
+   "source_sha256": "1e1acf2ad9d955e41c3b62bc863c793bc86c8a00b21aa6cb5f2e4770caf0e07b",
+   "ko": "임"
+  },
+  {
+   "id": "da1303:T00091",
+   "source_sha256": "f0717b7e4463a13b2a5ac1ac91d58e754922cb65c359bb99f401f953ee2291c0",
+   "ko": " 키"
+  },
+  {
+   "id": "da1303:T00092",
+   "source_sha256": "b34b58bcd32af23fdc12aa6be91446c8fb02af6bceab80d6557144bc33c3f177",
+   "ko": "퍼"
+  },
+  {
+   "id": "da1303:T00093",
+   "source_sha256": "1e1acf2ad9d955e41c3b62bc863c793bc86c8a00b21aa6cb5f2e4770caf0e07b",
+   "ko": "에"
+  },
+  {
+   "id": "da1303:T00094",
+   "source_sha256": "0352b0ed3717b2ad3c746ba4015614405c02e55c1181cbc45d5275526e59fc35",
+   "ko": "게"
+  },
+  {
+   "id": "da1303:T00095",
+   "source_sha256": "1e1acf2ad9d955e41c3b62bc863c793bc86c8a00b21aa6cb5f2e4770caf0e07b",
+   "ko": " 보"
+  },
+  {
+   "id": "da1303:T00096",
+   "source_sha256": "58c25b81f1d2466d10db94d54830856c33b00eeb7bd7ca54aa81c664b4b0f919",
+   "ko": "내"
+  },
+  {
+   "id": "da1303:T00097",
+   "source_sha256": "3b2e79bc719379948597cf4be8f8c76f1b3296e6089b0a355b1d9b49e5503647",
+   "ko": "는"
+  },
+  {
+   "id": "da1303:T00098",
+   "source_sha256": "ba9f45a502c467e53026e8226ed12b37f5c792f5712b225c502d0ea89f5067e9",
+   "ko": " 정"
+  },
+  {
+   "id": "da1303:T00099",
+   "source_sha256": "2e58aa749d4ab08c74ae51847874909adf02a2f35c1e0b2320f4e865ae3d1670",
+   "ko": "보"
+  },
+  {
+   "id": "da1303:T00100",
+   "source_sha256": "f3666aa0d13b6c6a13c4073d1ad57572d6c45fc68832ea6b131dc5999531db0a",
+   "ko": "시"
+  },
+  {
+   "id": "da1303:T00101",
+   "source_sha256": "daeec56715f9dd0af099f945f6835cb55b5fd99a6e2a4ed6b996b958f4012323",
+   "ko": "나"
+  },
+  {
+   "id": "da1303:T00102",
+   "source_sha256": "14b9c3492157eccbcf1b29b7377a7338ba6eae10fe8ebf11c8508cc89aedc1fd",
+   "ko": "리"
+  },
+  {
+   "id": "da1303:T00103",
+   "source_sha256": "19e6e37a2fdbab5ad418d4f726d6dc61458e4dd67ac5a51a4675554c0ccc272d",
+   "ko": "오"
+  },
+  {
+   "id": "da1303:T00104",
+   "source_sha256": "91d7640678cdbcbbba1d3c263cb81578a9dad1262f88e2a56e4594456b1769ad",
+   "ko": "『"
+  },
+  {
+   "id": "da1303:R00024",
+   "source_sha256": "ad80bd83f1b70d461af13580c25b657ef699697eefae4a6eafb8341626be2bf4",
+   "ko": "컬러 미 블러드 레드",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1303:T00105",
+   "source_sha256": "077077d72469b53606810436dd2f9ccae28ff56a401abee022b5349e9a79c8d7",
+   "ko": "피"
+  },
+  {
+   "id": "da1303:T00106",
+   "source_sha256": "3b2e79bc719379948597cf4be8f8c76f1b3296e6089b0a355b1d9b49e5503647",
+   "ko": "의"
+  },
+  {
+   "id": "da1303:T00107",
+   "source_sha256": "a2e569a59aa0f70b62ef8304549db1f99bf93e1b4ac966c100b6beb6b63dc36a",
+   "ko": " 괴"
+  },
+  {
+   "id": "da1303:T00108",
+   "source_sha256": "0c9a27a9fe5603f43b1c4799c21e2da8c11a96468c2b737d312a944239459bcc",
+   "ko": "이"
+  },
+  {
+   "id": "da1303:T00109",
+   "source_sha256": "b72463c14159de4fb05314bbe87427f188c8e257daa14ceb49223b60b24f5a23",
+   "ko": "』"
+  },
+  {
+   "id": "da1303:T00110",
+   "source_sha256": "de77c92e700013835c3fc5ad8f581a6c050fa5f015b75f694fe41715cfb4847e",
+   "ko": "는"
+  },
+  {
+   "id": "da1303:T00111",
+   "source_sha256": "150617a89b449d773c44294572c8fed128a02daefb0284b8f0a15b361d8855a9",
+   "ko": " 최"
+  },
+  {
+   "id": "da1303:T00112",
+   "source_sha256": "e957ecd57fc8e72dbbf75efcca04d344a0d21e5be42c2b68fbb9a1769d04b291",
+   "ko": "종"
+  },
+  {
+   "id": "da1303:T00113",
+   "source_sha256": "0477dbbdee99b5b350f40f5ce620d9a22713bc854fbed0aeacfd458037b3a2b5",
+   "ko": " 단"
+  },
+  {
+   "id": "da1303:T00114",
+   "source_sha256": "cd248cebb3aa9f4f4cd818aa1d4f2d69da89f1c2949a2feb5c317bc878bbff74",
+   "ko": "계"
+  },
+  {
+   "id": "da1303:T00115",
+   "source_sha256": "5f945f18ef58973201d6df7fc5efda98c57557242b02afb62e8023aacc832b54",
+   "ko": "에"
+  },
+  {
+   "id": "da1303:T00116",
+   "source_sha256": "c404effc172031c7b12cc168fc6bf403b2a92be90b5a8a44dab9af5ec65288d4",
+   "ko": " 들"
+  },
+  {
+   "id": "da1303:T00117",
+   "source_sha256": "efe5e8334bbf8cfde4c49d06c889dbb75ad35594c3e5b58c969e309bfdaf6438",
+   "ko": "어섰"
+  },
+  {
+   "id": "da1303:T00118",
+   "source_sha256": "4cef96814184d968c6441958f7ec2d8d0a3639d75d0dbc146f064d80c587b44a",
+   "ko": "다"
+  },
+  {
+   "id": "da1303:T00119",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  },
+  {
+   "id": "da1303:T00120",
+   "source_sha256": "4bc81e480383760f0bc50cccdc440da700d5d2e2398ff1d98dbf8218a60ce3db",
+   "ko": "각"
+  },
+  {
+   "id": "da1303:T00121",
+   "source_sha256": "bb6a90660bf98c4df4508da7b222d59c8eb711362f563fdf3f23fdd895576479",
+   "ko": " 공"
+  },
+  {
+   "id": "da1303:T00122",
+   "source_sha256": "5f0dffef9f6601ea163426da06411744d4602f9a3f953fcc960d60b6445cc031",
+   "ko": "정"
+  },
+  {
+   "id": "da1303:T00123",
+   "source_sha256": "c4a40ea8fe35627476f7f8cb9e1fc7f8898f428c6d1ff18b0bc5479d5db39c5f",
+   "ko": ","
+  },
+  {
+   "id": "da1303:T00124",
+   "source_sha256": "f3666aa0d13b6c6a13c4073d1ad57572d6c45fc68832ea6b131dc5999531db0a",
+   "ko": " 시"
+  },
+  {
+   "id": "da1303:T00125",
+   "source_sha256": "daeec56715f9dd0af099f945f6835cb55b5fd99a6e2a4ed6b996b958f4012323",
+   "ko": "나"
+  },
+  {
+   "id": "da1303:T00126",
+   "source_sha256": "14b9c3492157eccbcf1b29b7377a7338ba6eae10fe8ebf11c8508cc89aedc1fd",
+   "ko": "리"
+  },
+  {
+   "id": "da1303:T00127",
+   "source_sha256": "19e6e37a2fdbab5ad418d4f726d6dc61458e4dd67ac5a51a4675554c0ccc272d",
+   "ko": "오"
+  },
+  {
+   "id": "da1303:T00128",
+   "source_sha256": "91d7640678cdbcbbba1d3c263cb81578a9dad1262f88e2a56e4594456b1769ad",
+   "ko": "『"
+  },
+  {
+   "id": "da1303:T00129",
+   "source_sha256": "b02489a8fc021611502868aef3e14ee944aa90b4c36171c3abb50f36ef4d2886",
+   "ko": "기"
+  },
+  {
+   "id": "da1303:T00130",
+   "source_sha256": "94f892c4974a83c126a09f3937f3cdb1602d315d2780a40cd7364a36a2615ed5",
+   "ko": "계"
+  },
+  {
+   "id": "da1303:T00131",
+   "source_sha256": "739b2e660758a0a12b4673287ff38e96c7797e0309f43f6f3a15d33db327a34e",
+   "ko": "장"
+  },
+  {
+   "id": "da1303:T00132",
+   "source_sha256": "bf00670134ba0520cf28c62dc6e5c13009b9013ef52ebf65ff5b3e304fa43ff4",
+   "ko": "치"
+  },
+  {
+   "id": "da1303:T00133",
+   "source_sha256": "81744914c053bfc39d6ba4e0de92a87cf3247b50805919760d6a5e3ad3575de5",
+   "ko": "의"
+  },
+  {
+   "id": "da1303:T00134",
+   "source_sha256": "3b2e79bc719379948597cf4be8f8c76f1b3296e6089b0a355b1d9b49e5503647",
+   "ko": " 악"
+  },
+  {
+   "id": "da1303:T00135",
+   "source_sha256": "67e3054e9715717f5945cbb8d4223a55bb28c48e121e4acb96651a5c61e3d8e0",
+   "ko": "몽"
+  },
+  {
+   "id": "da1303:T00136",
+   "source_sha256": "1544852c3a627c78ba7fddd5076db915d26925e4962a5dcc00edc94d40ae8ddb",
+   "ko": "』"
+  },
+  {
+   "id": "da1303:T00137",
+   "source_sha256": "b72463c14159de4fb05314bbe87427f188c8e257daa14ceb49223b60b24f5a23",
+   "ko": "으"
+  },
+  {
+   "id": "da1303:T00138",
+   "source_sha256": "58c25b81f1d2466d10db94d54830856c33b00eeb7bd7ca54aa81c664b4b0f919",
+   "ko": "로"
+  },
+  {
+   "id": "da1303:T00139",
+   "source_sha256": "dc82b1be94518babf302a022e4d33b42661dd42c0aeee356d62cf62f26d2df52",
+   "ko": " 이"
+  },
+  {
+   "id": "da1303:T00140",
+   "source_sha256": "4cc7b00050cb1c211acf0c51c02e8de829712f8a1b19d2a5a37cfb874a200024",
+   "ko": "행"
+  },
+  {
+   "id": "da1303:T00141",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  },
+  {
+   "id": "da1303:R00025",
+   "source_sha256": "46b4b469e7386a6ba3e6e08fdc79a3575108d82ec0dce9353e3a1f311c1666b1",
+   "ko": "클라이맥스를",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1303:T00142",
+   "source_sha256": "75a8ec42b127c6f16f9e4083fc4cc67ff2f33f7146507693f693d0bfb7094704",
+   "ko": "해금을"
+  },
+  {
+   "id": "da1303:T00143",
+   "source_sha256": "6b6acb70659c0ff00fa85670e7c221fe883e1d50d846fb7bf08f08cb5c299275",
+   "ko": " 기다려라."
+  }
+ ],
+ "issues": [
+  {
+   "id": "da1303:T00001",
+   "kind": "glossary_candidate",
+   "note": "미확정 용어집 항목 '쿠자쿠(九朔)' 사용."
+  },
+  {
+   "id": "da1303:R00003",
+   "kind": "ruby_decision",
+   "note": "'彩(빛깔)'의 단순 훈독 루비('いろ')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1303:R00007",
+   "kind": "ruby_decision",
+   "note": "'真逆(설마)'의 단순 훈독 루비('まさか')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1303:R00008",
+   "kind": "ruby_decision",
+   "note": "'創(상처)'의 단순 훈독 루비('きず')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1303:R00009",
+   "kind": "ruby_decision",
+   "note": "'解(풀리다)'의 단순 훈독 루비('ほど')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1303:R00010",
+   "kind": "ruby_decision",
+   "note": "'掠(스치다)'의 단순 훈독 루비('かす')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1303:R00019",
+   "kind": "ruby_decision",
+   "note": "'彩(빛깔)'의 단순 훈독 루비('いろ')이므로 omit_redundant 처리."
+  }
+ ]
+}

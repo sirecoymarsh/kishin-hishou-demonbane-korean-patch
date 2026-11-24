@@ -1,0 +1,862 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0042_da0310",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0310:T00001",
+   "source_sha256": "6113bf4dc51d143ac433050c76c723b38012e8ce17694d1c5b38b4f872492e81",
+   "ko": "검격이 화염을 가르고, 총격을 바람이 튕겨 내며, 충격을 검은 날개가 받아 내고, 폭격이 폭격을 상쇄한다.\n\n　싸움은 호각을 이루고 있었다."
+  },
+  {
+   "id": "da0310:T00002",
+   "source_sha256": "b93835ea54496fd56ff5ddfb416fd6e4face7a8a387aa026b61a4807ed6a0904",
+   "ko": "「오라아아아아아아!」"
+  },
+  {
+   "id": "da0310:T00003",
+   "source_sha256": "c122bef785d2886899e89732580d6ae9ca455472d23c830330d10db0c3581649",
+   "ko": "공중전."
+  },
+  {
+   "id": "da0310:T00004",
+   "source_sha256": "cbd8c69aa596db1bcdc08ed227565fc2654ed6099ca48b8a154aa10ca65be00f",
+   "ko": "총탄처럼 날아오는 베고마를 크투가로 쏘아 떨어뜨린다."
+  },
+  {
+   "id": "da0310:T00005",
+   "source_sha256": "c6dfa6d1d6a05ac301aeda9f42cbbb139d3d74f93f575899f7ff53312179d8b9",
+   "ko": "그곳에 바람을 두르고 돌격하는 클라우디우스."
+  },
+  {
+   "id": "da0310:T00006",
+   "source_sha256": "4a53661ea57fd66f3742590bf9b811260ea86c735b7870c732daf2903cb00d8e",
+   "ko": "「큭!」"
+  },
+  {
+   "id": "da0310:T00007",
+   "source_sha256": "b7fc8686f5e0e9884297dbd2e0f369e0b41d51bf0c4cbf988d1f2fea6f278170",
+   "ko": "그 일격을 받아 낸 검은 날개는 바람에 잘려, 파쇄기에 갈린 종잇조각으로 전락해 흩어져 간다.\n\n　나는 부력을 잃고,"
+  },
+  {
+   "id": "da0310:T00008",
+   "source_sha256": "2e488d02ecc46310689626169b7ae10b85e13e93a653d872a6ffdc3bad6a6900",
+   "ko": "「와라!」"
+  },
+  {
+   "id": "da0310:T00009",
+   "source_sha256": "040ce8ba7c1d44c7e012f1422cd49eb39be9d30f2a74f274204a655bda0d75ed",
+   "ko": "종잇조각이 허공에 모여 굳어지더니 한순간만 발판을 만든다."
+  },
+  {
+   "id": "da0310:T00010",
+   "source_sha256": "11b56315bff0e57da0674e80b4c20e4e244c2b6b99ff9aaf1a09674678473f95",
+   "ko": "그것을 박차고 시계탑을 향해 도약."
+  },
+  {
+   "id": "da0310:T00011",
+   "source_sha256": "7350ff276cfdce00702da14568de52d151f5130bc23f8f67ffb0b545b460ffab",
+   "ko": "도약하면서 종잇조각을 칼날로 변화시켜 한 다발의 머리카락을 잘라 냈다."
+  },
+  {
+   "id": "da0310:T00012",
+   "source_sha256": "c5b78ccad6e2220e6c060a6a699e42be50b8d2044b0b5a681c0bbf53e8cd0841",
+   "ko": "손에 쥔 머리카락을 매개로 삼아 마술을 행사한다."
+  },
+  {
+   "id": "da0310:T00013",
+   "source_sha256": "a0bf6a199853f44ff71fc2497ca61bccaac4913c4ccb60d3bc2a3ecbe78a6a74",
+   "ko": "「아틀락 나차!」"
+  },
+  {
+   "id": "da0310:T00014",
+   "source_sha256": "68152b33776e534977f8ce90e4ba8777ed31e552135afcade9fb525af4d672a1",
+   "ko": "주력이 통한 머리카락 다발은 거미줄이 되어 시계탑 벽으로 뻗어 나갔다."
+  },
+  {
+   "id": "da0310:T00015",
+   "source_sha256": "62939a4b2127e0832cd2673c16859bd5062356bfafb5563255c41b65bc7bd4fa",
+   "ko": "실에 매달려 진자의 원리로 벽에 『착지』한다."
+  },
+  {
+   "id": "da0310:T00016",
+   "source_sha256": "c5fe8fbacdd44ab044cdbd714a6738819ea0a6e23cff1c70748153f88fdf262d",
+   "ko": "「칫!」"
+  },
+  {
+   "id": "da0310:T00017",
+   "source_sha256": "3e92bf70f48653fd2a712579470c0058063a5f655dab5eb59bf81e31e2ec21c2",
+   "ko": "시계판의 바늘 위에서는 쿠자쿠와 칼리굴라가 격렬한 공방을 벌이고 있다."
+  },
+  {
+   "id": "da0310:T00018",
+   "source_sha256": "3e01e6d02b9c4ead51a18b41fbe1710b416f02dcbbd00e5b308fb0d039e01579",
+   "ko": "간격 밖에서 주먹을 휘두르는 칼리굴라."
+  },
+  {
+   "id": "da0310:T00019",
+   "source_sha256": "7dcc06040fbe6618e94a09df72a39a3c5f35cc685ceec19778cf385797557e26",
+   "ko": "내리친 주먹에서 뿜어져 나온 하얀 충격이 폭발하며 질주해 쿠자쿠가 있는 곳으로 뻗어 나간다."
+  },
+  {
+   "id": "da0310:T00020",
+   "source_sha256": "511bc75dca255c6d6e97d46cccc96b1de74957290968aac58cb8f316024ba502",
+   "ko": "쿠자쿠는 시계 바늘에서 뛰어 물러나 폭발에서 벗어난다."
+  },
+  {
+   "id": "da0310:T00021",
+   "source_sha256": "a1970728ab6d7d25a203ff10ce6f9fb5331557fc45b8bd26b31041b0b8084a18",
+   "ko": "공중에서 두 자루의 마총을 겨누고 그대로 연사."
+  },
+  {
+   "id": "da0310:T00022",
+   "source_sha256": "2c14695761acce97720d1dec9e204faff8fc54d3b24c2ac15ef81f9445ea90a8",
+   "ko": "「!?」"
+  },
+  {
+   "id": "da0310:T00023",
+   "source_sha256": "602895a2352eb0578ea62cf1da7ec3b6da56a74ecac3e909df9e8ac149e83453",
+   "ko": "그러나 총탄은 전부 칼리굴라의 몸에 튕겨 나가 버린다."
+  },
+  {
+   "id": "da0310:T00024",
+   "source_sha256": "73fec1e53e2ec4f2b98ff2303675cca349dc003e78c1ad315b6efe1f5f6ecebf",
+   "ko": "총격에 찢어진 의복 아래, 칼리굴라의 몸은 게나 새우처럼 갑각으로 뒤덮여 있었다."
+  },
+  {
+   "id": "da0310:T00025",
+   "source_sha256": "a1d01927cb25a9506b2a938f3754597c41cd9634b9331019c461738410cebfe3",
+   "ko": "「안 통한다, 고……」"
+  },
+  {
+   "id": "da0310:T00026",
+   "source_sha256": "2d3d1bc289bd3537746838ad374d2389e32aee529aa5dd6ae9c356ddfd1d4612",
+   "ko": "「대책을 세워 두었다는 건가. 그렇다면――」"
+  },
+  {
+   "id": "da0310:T00027",
+   "source_sha256": "f867f4fa30080c7581bda582020b505e0a5903dc4e2f0feb5a05e09b21696479",
+   "ko": "이타콰를 내리고 크투가의 총구를 향한다."
+  },
+  {
+   "id": "da0310:T00028",
+   "source_sha256": "02a70f49cc0bb3fc24d2e619240dabc5ed5caf04138ad81014bc4359dcc83f3c",
+   "ko": "크투가를 쥔 손에 불거져 나오는 혈관."
+  },
+  {
+   "id": "da0310:T00029",
+   "source_sha256": "01663fdb3e3744fdd06dc4ab62140fefb8761b6689ba38a7aca6d8547a2dcb3c",
+   "ko": null,
+   "record_action": "preserve_source_bytes"
+  },
+  {
+   "id": "da0310:T00030",
+   "source_sha256": "d1a8e1f9135a2f31de6691e567b7188bcca62d8d568bbcbc4ec5bff6b8faeb04",
+   "ko": "그것은 이윽고 투명해지며 붉게 빛나는 "
+  },
+  {
+   "id": "da0310:R00001",
+   "source_sha256": "8c7e9fb864739c75a2296d7df11bd06ba7d476422ad1ef3c8722d114454616a8",
+   "ko": "라인",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0310:T00031",
+   "source_sha256": "d36cefb17a131273d97769015483eb6d373e80f3f0870e193b392fa7309e4660",
+   "ko": "선"
+  },
+  {
+   "id": "da0310:T00032",
+   "source_sha256": "77dc343e8d5302c604df936cfd7374523b6546d9e84abaab8913ee2a64f69dd6",
+   "ko": "이 된다."
+  },
+  {
+   "id": "da0310:T00033",
+   "source_sha256": "ad3ed7e9b8fcf1390fc6de2d598988c7b07ad5fe24edc94b4c4572d7d28279a3",
+   "ko": "붉은 선은 이윽고 크투가를 침식하여 사람과 총을 일체로 만든다."
+  },
+  {
+   "id": "da0310:T00034",
+   "source_sha256": "88ec7b03f04798d0e32776ffb6b3c543366c4e46910911b118e4abb7cf740be6",
+   "ko": "크투가의 총구에 흉포한 빛이 깃들었다."
+  },
+  {
+   "id": "da0310:T00035",
+   "source_sha256": "b70cf27fd86b69e2294eb743836c6a35d3140b1db08ca04309f4578586881255",
+   "ko": "「받아 보겠느냐, "
+  },
+  {
+   "id": "da0310:R00002",
+   "source_sha256": "dafe47c131f7678ebf1244c872f0800ebe9cc0ab05eb03f3714e084bd0af9180",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0310:T00036",
+   "source_sha256": "c2bc87d1e417b384c238f16ef8d3f40fc1d56581286bfef4af2dc8ca145f8ed2",
+   "ko": "대탄"
+  },
+  {
+   "id": "da0310:T00037",
+   "source_sha256": "6560fad1b5299ec45c7562b1e825f123c87101dc289a1eb71426e443d34f4c8c",
+   "ko": "!」"
+  },
+  {
+   "id": "da0310:T00038",
+   "source_sha256": "a9577e0da33c4ef4871e39e837405baba48f418e051c2a1c5d39b461ad14537e",
+   "ko": "「그렇게 둘까 보냐!」"
+  },
+  {
+   "id": "da0310:T00039",
+   "source_sha256": "32e09fe1bdba71ed320fce3b3572020cf3cf970ba328f1bc4957460613c93b61",
+   "ko": "「――읏!」"
+  },
+  {
+   "id": "da0310:T00040",
+   "source_sha256": "28eea81395a253bebabd5f000badbe54c885d293facf802f5ccb893c8f39eb4a",
+   "ko": "바람의 칼날이 날아온다."
+  },
+  {
+   "id": "da0310:T00041",
+   "source_sha256": "aa4053148d288877200bb59971945eca7ad66d1f2250814bb2236bd2958c26ea",
+   "ko": "즉시 감지한 쿠자쿠는 망토를 퍼덕여 피한다."
+  },
+  {
+   "id": "da0310:T00042",
+   "source_sha256": "118caf939badcc06fadd297699732728806dd5c3517a009d3b5b38ab237082b6",
+   "ko": "표적을 클라우디우스로 바꾸어 방아쇠를 당긴다."
+  },
+  {
+   "id": "da0310:T00043",
+   "source_sha256": "71f29fa98b5f7dce05bfd6edb6f8ab5400e15f9f3f4c83a98d71c50f9e61cfe2",
+   "ko": "발사된 총탄은 화약에 포함된 이븐 가즈이의 가루약이 마학 반응을 일으켜 대폭발.\n\n　그러나 조준이 충분하지 않았기 때문에 공격이 클라우디우스를 포착하지는 못했다."
+  },
+  {
+   "id": "da0310:T00044",
+   "source_sha256": "b3ea062efe9dfafbc7b34250c61671caecb1c942452df2ff4de705de63f19b6a",
+   "ko": "「하~하핫!\n　어딜 노리는 거냐 서툰 놈이!」"
+  },
+  {
+   "id": "da0310:T00045",
+   "source_sha256": "5e696371811a8b8b23f1ad51499421321769220ff056b541b3869086e60b94f7",
+   "ko": "「……"
+  },
+  {
+   "id": "da0310:R00003",
+   "source_sha256": "59f19259a5b9a84a7eb7f3a86e2d23f6ccebeae67d89c8355466e91c902380ea",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0310:T00046",
+   "source_sha256": "28f995288781c6f0919e519dc03e71fcbd15350bfba422d6207b761c72978623",
+   "ko": "성가"
+  },
+  {
+   "id": "da0310:T00047",
+   "source_sha256": "4c6ff2461396974940d832f3f0ce2a7624668028f9bff88ca807b1e9da44a407",
+   "ko": "신 "
+  },
+  {
+   "id": "da0310:R00004",
+   "source_sha256": "d19cd4138aead7bd7816ebf69ea5964e7619a1c23852dd80fd143536129ee212",
+   "ko": "파리",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0310:T00048",
+   "source_sha256": "7b495eb3059a45c41b25ae79dcf41bacb74e07882e8938ba9e21f209d4a09d19",
+   "ko": "날벌레"
+  },
+  {
+   "id": "da0310:T00049",
+   "source_sha256": "02e41bd0950f60eb4b46901305e9b86cfc6fe4a515acdb90bf6119105874b6fb",
+   "ko": "로군」"
+  },
+  {
+   "id": "da0310:T00050",
+   "source_sha256": "09b7b3fa1576b60575f45aed271a6535ae1e19c471fdc1eb9317d00686a1e062",
+   "ko": "「……OKOK, 알았어,\n　알았다고. 원하는 대로,\n　그 면상을 난도질해 주마!」"
+  },
+  {
+   "id": "da0310:T00051",
+   "source_sha256": "8a0bda3fabcce276df2cb52201c69b8be9ee87b90cb2e8fac446fad5851f377a",
+   "ko": "「기다려!　네 상대는 나……」"
+  },
+  {
+   "id": "da0310:T00052",
+   "source_sha256": "a7e60a25fb5b4094bf3108b6b2d3022b0488cecdaa575d90e2c6e2fc6da8ea3e",
+   "ko": "검은 날개를 재구성해 날아오르려 했다."
+  },
+  {
+   "id": "da0310:T00053",
+   "source_sha256": "fc09c87b08f26e254b27ffd1270ed2a81738cc53d0bac7b886a61cc16c371adb",
+   "ko": "하지만 날개는 짜임과 동시에 "
+  },
+  {
+   "id": "da0310:R00005",
+   "source_sha256": "5e50b96c27b2f416824dd21237894b52728e9f8acf21f77ae97378faaafaa899",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0310:T00054",
+   "source_sha256": "09152a2380b09e688a514e86056805ca633afd8381453280be7f536c7140c91a",
+   "ko": "풀"
+  },
+  {
+   "id": "da0310:T00055",
+   "source_sha256": "d6121dfcc254349e8aecf8f20e1aa6bfc56f17719a5a6f15b3eacd424e78acc0",
+   "ko": "려 종이 다발이 되어 흩어져 간다."
+  },
+  {
+   "id": "da0310:T00056",
+   "source_sha256": "d0bc23664aca1efeab57e318ff08511b055b7acc1b6f77f89e57ceacbddab370",
+   "ko": "「왜 그래, 알!?」"
+  },
+  {
+   "id": "da0310:T00057",
+   "source_sha256": "51c049b5aef1aca2643e60fff9150f73ea97b798941b3c25368c72a1a7b7fe12",
+   "ko": "「크…… 으으…… 아……」"
+  },
+  {
+   "id": "da0310:T00058",
+   "source_sha256": "3b6003061fda47a3ab54779fb7c4d76fa1c155ecca4aa7f573bbf35af84f7978",
+   "ko": "「알!?」\n\n　내 어깨 위에서 알이 쓰러진다."
+  },
+  {
+   "id": "da0310:T00059",
+   "source_sha256": "56f20df0b485888333f4b52d37dc7e4a8db6acc603a6cfeb6ffd28cbde96d676",
+   "ko": "술법을 유지할 수 없을 정도로 오염이 진행되고 있는 것이다.\n\n　보니 "
+  },
+  {
+   "id": "da0310:R00006",
+   "source_sha256": "074efa7a5212f3f8def5214053dc751da74c24b72ef031cdb97b29454a702ac8",
+   "ko": "슈트",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0310:T00060",
+   "source_sha256": "2d4722dc99b3232196988ec4f1dc0177046270f4ffc644a9807c071945d0caed",
+   "ko": "술의"
+  },
+  {
+   "id": "da0310:T00061",
+   "source_sha256": "895b7a114e6bea89a093284eeee4bd028e035b5e8ff7655c3a749da51c6ba4f4",
+   "ko": "도 여기저기 "
+  },
+  {
+   "id": "da0310:R00007",
+   "source_sha256": "bed91bec6b57fa6a42d982d5d68a092a57ef9cf234b1d867465b26a880d2127a",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0310:T00062",
+   "source_sha256": "09152a2380b09e688a514e86056805ca633afd8381453280be7f536c7140c91a",
+   "ko": "풀"
+  },
+  {
+   "id": "da0310:T00063",
+   "source_sha256": "9e101a5abb5ac6c3ef3b5d6e552595d4de457c2963fb5edbb035381ab42a2e72",
+   "ko": "려, 무의미한 마술문자의 나열이 되어 안개처럼 흩어진다."
+  },
+  {
+   "id": "da0310:T00064",
+   "source_sha256": "0725f64ded72b11d4019b2f115b128bafba2d20d06378287e0db92b13b2c3899",
+   "ko": "「햐하하하하하!\n　꼴사납구만,\n　쿠로 쨩이여!」"
+  },
+  {
+   "id": "da0310:T00065",
+   "source_sha256": "126aa93def6da5cb8648491378fab2e14fdcf1ec4674c3477fc3b647eab53826",
+   "ko": "「……망할 놈이!」"
+  },
+  {
+   "id": "da0310:T00066",
+   "source_sha256": "0898c53aad223e9398fcb9af7daff4b5edc881b15dfcf97930bc0e1430d2d8e1",
+   "ko": "「손대지 마라, 다이쥬지 쿠로!」"
+  },
+  {
+   "id": "da0310:T00067",
+   "source_sha256": "6502f356ab74d04f08f13439c33b248024d23c21373df74d9bb351cb808a7aa0",
+   "ko": "외치면서 칼리굴라에게 크투가를, 클라우디우스에게 이타콰를 향하여 발포한다."
+  },
+  {
+   "id": "da0310:T00068",
+   "source_sha256": "fd52451f1b09e8450a4845ad0f20fd0c67acd6ae6a04a9c7da1d2dac928b3b98",
+   "ko": "총탄은 갑각에 튕겨 나가거나 바람에 빗나간다."
+  },
+  {
+   "id": "da0310:T00069",
+   "source_sha256": "29b4371adfdb1e43709333f92ed1beddbbc2bb1115aac1bb2409ab5fc338fa5a",
+   "ko": "「안 통한다니까아아앗!」"
+  },
+  {
+   "id": "da0310:T00070",
+   "source_sha256": "9e8700c1dc6b724f3374e5b9fd150a2675f44dfc097820518b514d41a2f136ad",
+   "ko": "「나는――!」"
+  },
+  {
+   "id": "da0310:T00071",
+   "source_sha256": "34406ed8b0ca70a2054d381f0add937237ec0e291c31f8d511831ae430838427",
+   "ko": "망토가 예각의 날개가 된다."
+  },
+  {
+   "id": "da0310:T00072",
+   "source_sha256": "6daad7aa86710b9dad40f83762cbffbd0638ebd1dcb86c8e0340aa9efbc4ec1c",
+   "ko": "쿠자쿠의 몸은 로켓처럼 급상승했다."
+  },
+  {
+   "id": "da0310:T00073",
+   "source_sha256": "f7055cf873c02d4d8f88b089274f62c649570e8de0379e0cebe217e3eeb00ec6",
+   "ko": "「하핫!\n　술래잡기냐, 우등생!」"
+  },
+  {
+   "id": "da0310:T00074",
+   "source_sha256": "e10770c120af0fdfc762ef24ab90b8897642683ba14a4a04c4792d0eb95f82a2",
+   "ko": "「안 놓친다!」"
+  },
+  {
+   "id": "da0310:T00075",
+   "source_sha256": "513e43d39ae1805d84d0e21efa7ea923bd48fc14d2f6025ec34bb60a158f532a",
+   "ko": "클라우디우스가 질풍이 되어 뒤를 쫓는다."
+  },
+  {
+   "id": "da0310:T00076",
+   "source_sha256": "b531ff36c0a75937414fc7b36be804bad9f68400a167e920883aa9aa3ccd9f4c",
+   "ko": "칼리굴라 또한 중력을 거스르며 시계탑 벽면을 달려 올라간다."
+  },
+  {
+   "id": "da0310:T00077",
+   "source_sha256": "e6f2943c1b2cddc23e853bbbd9c8d9a37becf695a7d0451536404d4673358fa7",
+   "ko": "하늘을 나는 쿠자쿠의 양손에서 마총이 마술문자로 분해되어 소멸한다.\n\n　마술문자는 새로운 문자열을 구성."
+  },
+  {
+   "id": "da0310:T00078",
+   "source_sha256": "6b66b0373d5990d9d29a7397cc98a3e9f24df82274066dfda1128614a103c2cc",
+   "ko": "이번에는 로이거와 차르가 나타났다."
+  },
+  {
+   "id": "da0310:T00079",
+   "source_sha256": "e943f6d5d4f7c71d5637e30b63ccc88ec92d533baf42bcf7f61877d5349f6293",
+   "ko": "두 자루의 단검은 결합되어 십자검으로."
+  },
+  {
+   "id": "da0310:T00080",
+   "source_sha256": "b38ba2a788bb794aa7453fd2829adfea3527c0c8f5e0cfc4afe554248a01e9cb",
+   "ko": "그때 쿠자쿠는 자신의 손바닥에 상처를 낸다."
+  },
+  {
+   "id": "da0310:T00081",
+   "source_sha256": "c9d730e7dc5d909214a8b6221fbee9439986dc79389845d5b615c83bef19c73e",
+   "ko": "튀어 흩어지는 피보라가 허공에서 소용돌이치며 문양을 그린다."
+  },
+  {
+   "id": "da0310:T00082",
+   "source_sha256": "30ac81ff324667fa63704b9ea32fdab86137da8b86b2d308efd5c8965ffc6be1",
+   "ko": "문양은 무수히 이어지고 엮여 쿠자쿠의 주위에 전개된다."
+  },
+  {
+   "id": "da0310:T00083",
+   "source_sha256": "dfbd76e73a5b4847f0986709090cf643cca085521fa80626c3fd1faf2b6ef362",
+   "ko": "그것은 피로 짜인 구형의 마법진이었다.\n\n　쿠자쿠가 십자검을 치켜든다."
+  },
+  {
+   "id": "da0310:T00084",
+   "source_sha256": "a06530d93a67b8412e91e6f7e51ae7430a1755e48d916f409427836fa7d7a1de",
+   "ko": "나아가 시계탑 옥상에서 도약한 칼리굴라가 폭쇄권을 날린다."
+  },
+  {
+   "id": "da0310:T00085",
+   "source_sha256": "fe9d39ef13ea467d2f5cf244dfa67fc971f3cbc5a951f5ba6227b2553400858c",
+   "ko": "「나는―― 혼자서도 싸울 수 있다!」"
+  },
+  {
+   "id": "da0310:T00086",
+   "source_sha256": "1bffb8e5aaaab84cf2524c342f99c424ac72bad68750eb7298c0d97a9045c4fa",
+   "ko": "강대한 마력과 함께 그 일격은 쏘아졌다."
+  },
+  {
+   "id": "da0310:T00087",
+   "source_sha256": "4ec88685645760fe61f89de48043ef7cc0dcbe72368956814d90caf179268e74",
+   "ko": "쏘아진 일격은 두 사람이 있는 곳으로 날아오는 것이 아니었다."
+  },
+  {
+   "id": "da0310:T00088",
+   "source_sha256": "3ec7209748c976fb8ef4e544f8b743b7cafde0d38120fca7a91950d2baa8ef78",
+   "ko": "「뭐――」"
+  },
+  {
+   "id": "da0310:T00089",
+   "source_sha256": "76da595074f09116172ca182b583a57aa4ea39d5f4103df568eec040312d6148",
+   "ko": "그저 거대한 그림자가 하늘을 가득 메우고 압도적인 질량이 공간을 점거했다."
+  },
+  {
+   "id": "da0310:T00090",
+   "source_sha256": "2540864ec5226595e725b81badd42cb857039f06b07648e2f3fab42593cd7fc9",
+   "ko": "클라우디우스의 회오리도, 칼리굴라의 충격파도, 그 존재를 마주하고서는 아무런 의미도 없었다.\n\n　두 사람은 덮쳐 오는 질량에 삼켜지고 짓눌려――"
+  },
+  {
+   "id": "da0310:T00091",
+   "source_sha256": "32e96dc5df3dac12fb74bdd25d4fb79996c7a92e0f8418572f7ae525ea6b8f36",
+   "ko": "「그와아앗!」\n\n　시계탑이 격렬하게 흔들렸다."
+  },
+  {
+   "id": "da0310:T00092",
+   "source_sha256": "08792259f0729988e8a8ed7ce6fbe9ab471aad18e33919f8c8111e179a456bee",
+   "ko": "대지가 폭발하며 이 또한 거대한 무언가가 뛰쳐나온 것이다."
+  },
+  {
+   "id": "da0310:T00093",
+   "source_sha256": "08de211c55030f24afc7995fad8395a71cf67ecf7656718b9c7ab1bd18c5c2b6",
+   "ko": "거대한 금속과 금속이 격돌하여 폭발이 되어 하늘을 "
+  },
+  {
+   "id": "da0310:R00008",
+   "source_sha256": "08f18ad99009f87ee27924eeba7113cd0e7f989df143f4b6c726651ea83ed144",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0310:T00094",
+   "source_sha256": "2f937e533697345ac064d164bb0a931513e0e10f4ec567b99531cfae602215e7",
+   "ko": "가른"
+  },
+  {
+   "id": "da0310:T00095",
+   "source_sha256": "ef0d6de63479f3c19ba54d274fd809b56008ef8fc1c733ba8915eb8e47004499",
+   "ko": "다."
+  },
+  {
+   "id": "da0310:T00096",
+   "source_sha256": "ae630f48721303b7afaf6f8b523a4e1f2bcc426a44c7ac4a6767a9dcd871108e",
+   "ko": "「무, 무엇이……?」\n\n　모든 것이 갑작스러운 데다 스케일이 너무나도 커서 무슨 일이 일어났는지 이해할 수 없다.\n\n　잠시 후 혼란스러웠던 머리가 겨우 상황을 파악한다."
+  },
+  {
+   "id": "da0310:T00097",
+   "source_sha256": "c2b1a91bc4c68e29bd06eeef1fcfc0148575885295be040e01ba8fc410394a1a",
+   "ko": "이 녀석은……!"
+  },
+  {
+   "id": "da0310:T00098",
+   "source_sha256": "103ebe81b56797970f85cd6d1245f6e32b413692fb6ffd34f3e852c45fa5ba28",
+   "ko": "「……로이거, 차르!」\n\n　쿠자쿠가 날린 것은 십자검이 된 로이거, 차르였다."
+  },
+  {
+   "id": "da0310:T00099",
+   "source_sha256": "11de59323583a7a0542792b15da458a303e331b5ea6f53812fa516f8ed751d95",
+   "ko": "그러나 통상적인 사이즈가 아니다."
+  },
+  {
+   "id": "da0310:T00100",
+   "source_sha256": "b95cab6fdca705243365a4f50183dff3f48ea20d16be364aa688622e27efc7c4",
+   "ko": "전장 30미터에 달할 듯한 거대한 십자검이다.\n\n　아무래도 데몬베인을 거치지 않고 데몬베인용 무장을 소환한 모양이다.\n\n　이 무슨 무모한 짓을 벌이는 거야."
+  },
+  {
+   "id": "da0310:T00101",
+   "source_sha256": "5e696371811a8b8b23f1ad51499421321769220ff056b541b3869086e60b94f7",
+   "ko": "「……"
+  },
+  {
+   "id": "da0310:R00009",
+   "source_sha256": "ade3e0f425a2c6bd48627306b83699be8080048eeab03b936199bdc5fdb3948c",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0310:T00102",
+   "source_sha256": "1b3c5e85cc16fa0f2d74a1196c12c86b9b5b03494cb8b7d1f6270cf7641c6787",
+   "ko": "이 녀석"
+  },
+  {
+   "id": "da0310:T00103",
+   "source_sha256": "d93a835d0f2787bcb1a759ad3a1b8fbea56d742d0b99720dbbb9ea8ace1926f8",
+   "ko": "」"
+  },
+  {
+   "id": "da0310:T00104",
+   "source_sha256": "bf5102047054ad65be7e54805b4f1465c5e52c817818b0395b21758451c7d5bd",
+   "ko": "「크…… 크크…… 큭……읏!」"
+  },
+  {
+   "id": "da0310:T00105",
+   "source_sha256": "e55e56268e0bc4edd81c6c26a7ca7b431ffb3f0e2e46439b354f24e556008c4f",
+   "ko": "하지만 십자검은 막혀 있었다."
+  },
+  {
+   "id": "da0310:T00106",
+   "source_sha256": "ad3464cd9c381fd41ad2107d1cd95b6c6abf18b89b0cf4fbe8a837f4da4ec085",
+   "ko": "지표면에서 300미터의 거리를 넘어 뻗어 나온 강철의 팔에 의해서!"
+  },
+  {
+   "id": "da0310:T00107",
+   "source_sha256": "5e696371811a8b8b23f1ad51499421321769220ff056b541b3869086e60b94f7",
+   "ko": "「……"
+  },
+  {
+   "id": "da0310:R00010",
+   "source_sha256": "73ac229cabfac277c315b4b0d1eb76959473af07f58c11d00bb82a06b250745a",
+   "ko": "데우스 마키나",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0310:T00108",
+   "source_sha256": "762524a979d84688362b8dc00d54c75a1be10d7917ed188fd55985924c885e49",
+   "ko": "귀계신"
+  },
+  {
+   "id": "da0310:T00109",
+   "source_sha256": "150d4ec76479aef62f182305a3d14ee74a8d1a33fa4fdffefa5bd0407f0c83f2",
+   "ko": " 크라켄!」"
+  },
+  {
+   "id": "da0310:T00110",
+   "source_sha256": "05f64af599a85c7b122aee55a5ff7eecb9c0fcbd7762893aad948c3b28c26b3e",
+   "ko": "구렁이를 연상시키는 신축자재의 팔."
+  },
+  {
+   "id": "da0310:T00111",
+   "source_sha256": "24a55c7a4fe9bebc58e976603edc0c9e1a110ce125ed1d136688484c68004175",
+   "ko": "그것은 칼리굴라가 가진 마도서 『"
+  },
+  {
+   "id": "da0310:R00011",
+   "source_sha256": "5253b06365a9024c32af81a77cdc62a2a9e086fb56d02d52185b97f299ac7c47",
+   "ko": "크타트 아쿠아딩겐",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0310:T00112",
+   "source_sha256": "b8acb1fd3a9840726d78d424d88d9e44b1c2f4f64602c54e5bb8cf686f14679a",
+   "ko": "수신 크타아트"
+  },
+  {
+   "id": "da0310:T00113",
+   "source_sha256": "5d895e69b032efd9fef9c2bdd6332587d1b1385ceb4e4e3e0a0d20f471903b66",
+   "ko": "』에 의해 소환되는 "
+  },
+  {
+   "id": "da0310:R00012",
+   "source_sha256": "73ac229cabfac277c315b4b0d1eb76959473af07f58c11d00bb82a06b250745a",
+   "ko": "데우스 마키나",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0310:T00114",
+   "source_sha256": "762524a979d84688362b8dc00d54c75a1be10d7917ed188fd55985924c885e49",
+   "ko": "귀계신"
+  },
+  {
+   "id": "da0310:T00115",
+   "source_sha256": "ed0d076e6dd8205b8816a6a28e92b00ea98126d46c294e262eec8453fd630309",
+   "ko": ", 크라켄의 것이다.\n\n　슈루즈베리 "
+  },
+  {
+   "id": "da0310:R00013",
+   "source_sha256": "8abe22c91f0939b6aab3db77f86d607dd7063710622f9cd851250b3a7e367dbc",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0310:T00116",
+   "source_sha256": "cd98e43da31bb1b90dc152851c85c7d266d47ba97bc5ff7bd137c5920429d467",
+   "ko": "선생"
+  },
+  {
+   "id": "da0310:T00117",
+   "source_sha256": "a1c58a1face64966aee744ac2c0ed476206ea95b486b33f593069c672e7cd431",
+   "ko": "이 말했던 대로, "
+  },
+  {
+   "id": "da0310:R00014",
+   "source_sha256": "f58c026c179665797b00157bf4ac8d76bb0bc4ae666609165f837f7ff7226785",
+   "ko": "어나더 블러드가",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0310:T00118",
+   "source_sha256": "7c58b8241c16b415a8072b80c769be7397b9e7bca3dd1eb3bf0637c01669faf8",
+   "ko": "혈액언어판이"
+  },
+  {
+   "id": "da0310:T00119",
+   "source_sha256": "46feb5dee2585f1cc6cf401aa19f30cd0e106260642528291ff76090e1dc5d3b",
+   "ko": " 만들어 내는 "
+  },
+  {
+   "id": "da0310:R00015",
+   "source_sha256": "2951219ebd08c545a379b1c05c27d96424e261b9f0b0e325add06585eef772df",
+   "ko": "안티크로스는",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0310:T00120",
+   "source_sha256": "e4c2d34c0328cb1fcae35af2e3215a06c42e93e2c9b66820264ebe01b78a0e95",
+   "ko": "악몽은"
+  },
+  {
+   "id": "da0310:T00121",
+   "source_sha256": "8b70b68844fb9ff64f06e909585e75cd9502a31a3e82fe4afb2a4d1671e37784",
+   "ko": " 기신소환까지 해내는 것이다!"
+  },
+  {
+   "id": "da0310:T00122",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0310:R00016",
+   "source_sha256": "30decdf4274513937a5295af56ea082925e2c003e616f76156e9dec43f9164c6",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0310:T00123",
+   "source_sha256": "2da4e9878b465197d8b3b633b2126695130536cee714cf77e48afbf6eb80f1b7",
+   "ko": "얕"
+  },
+  {
+   "id": "da0310:T00124",
+   "source_sha256": "8c7385bed71d79ed72ce4adff79a95536305e0273ef5779352d9ebcab6c625a7",
+   "ko": "보지 마라아아아아아아아!」"
+  },
+  {
+   "id": "da0310:T00125",
+   "source_sha256": "e43971b3fbb5f14a8b8e7cc880267391ed82c83a434edb6054f13ff8b1ad3e01",
+   "ko": "폭음과 함께 고층 빌딩에 필적할 만큼 거대한 물기둥이 뿜어져 나왔다."
+  },
+  {
+   "id": "da0310:T00126",
+   "source_sha256": "1f9902d50167d9502a0ded7e466f2a295c1616122309430425165c6b8dd4d88b",
+   "ko": "크라켄 현현의 전조다."
+  },
+  {
+   "id": "da0310:T00127",
+   "source_sha256": "bae39186a51d79be1efe5c6270b68a55760929f661255ad2558b0c2813a28c06",
+   "ko": "하늘로 솟구치는 수류에 가로막혀 주위의 모습은 보이지 않게 된다."
+  },
+  {
+   "id": "da0310:T00128",
+   "source_sha256": "33918bc49bdc495a43281eeec840aa77dc495c7b47464e029d6cd29e14d1d486",
+   "ko": "「젠장!」"
+  },
+  {
+   "id": "da0310:T00129",
+   "source_sha256": "19460ab432adf90c2f3a654dc12d65111762b412aa8ae28f3b67d14f8d77fb69",
+   "ko": "이러고 있을 때가 아니다."
+  },
+  {
+   "id": "da0310:T00130",
+   "source_sha256": "9adb5011e00cfc6b5fee43c05aad1f5b47534d65dade3e0fc6fe59fd09281bb8",
+   "ko": "불안정한 마기우스 스타일을 어떻게든 유지하면서, "
+  },
+  {
+   "id": "da0310:R00017",
+   "source_sha256": "39a2e6b6907e00b264e0b5c27ea6317abee0134b7d79cc014d9ef6aee2ae1026",
+   "ko": "록 클라이밍",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0310:T00131",
+   "source_sha256": "6346e78c79e0243bee5b1a897a562d750f454099f6b22bb0e0b11d5ceee48843",
+   "ko": "벽면을 기어오른다"
+  },
+  {
+   "id": "da0310:T00132",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  },
+  {
+   "id": "da0310:T00133",
+   "source_sha256": "30225f2983537624b79f71df2a3fc2eb74fe2bfa6d31ae3cccde81dfa213726d",
+   "ko": "「칼리굴라 자식, 또 꼭지가 돌아 버렸구만.\n　뭐, 좋아」"
+  },
+  {
+   "id": "da0310:T00134",
+   "source_sha256": "2b32f287269dbaf68b42da37e38c1690e9180981c7016a80fbb6c1ce3699ddd7",
+   "ko": "「――!?」"
+  },
+  {
+   "id": "da0310:T00135",
+   "source_sha256": "ab4826cc67a050c8c3c741a60dc63edf09d1731ccdd304c5dd3e897401610ca4",
+   "ko": "상공, 어느 틈에 클라우디우스가 우리를 내려다보고 있다."
+  },
+  {
+   "id": "da0310:T00136",
+   "source_sha256": "5e2b53083c7ede175855e4f6f539614be58321bb13015f21aec5fee37923b26c",
+   "ko": "입가가 잔인한 미소로 뒤틀려 있다."
+  },
+  {
+   "id": "da0310:T00137",
+   "source_sha256": "f269e85d525d631a876f409426f22639d843bdac90cbc0e40dc9e9a5a3a4ef33",
+   "ko": "「맛있는 부분은 내가 챙기도록 할까. 자아아아, 어떻게 요리해 줄까나, 응?」"
+  },
+  {
+   "id": "da0310:T00138",
+   "source_sha256": "0bab3f16da20d4109f8d137f9ccd0cc4db203445c7fcaaf787d399f58d109eb8",
+   "ko": "「네 녀석……!」"
+  },
+  {
+   "id": "da0310:T00139",
+   "source_sha256": "351f9803039d665da8feb350646cf60ba7e204aabffb781a8870d06cad43174b",
+   "ko": "알은 내 어깨 위에서 쓰러진 채다."
+  },
+  {
+   "id": "da0310:T00140",
+   "source_sha256": "bc94cd447ceafc0dff2e050c98eda57e8882b598e21ba321655abaf0d53bbf8d",
+   "ko": "의식은 유지하고 있으나 마기우스 스타일은 언제 해제되어도 이상하지 않다.\n\n　안티크로스를 상대로 이 상태로 어디까지 버틸 수 있을까……!?"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0310:T00029",
+   "kind": "source_corruption",
+   "note": "원문 스크립트(da0310.nps)의 <LAYER SRC=\"#ffffff\" TRANSPARENT=\"55\" NUM=\"10> 태그 내 큰따옴표 누락으로 인해 엔진 태그가 텍스트 세그먼트로 추출됨. 검증기 규칙(태그 포함 금지 및 빈 문자열 금지)에 따라 '……'로 대체하고 이슈로 보고함."
+  },
+  {
+   "id": "da0310:R00002",
+   "kind": "omit_redundant",
+   "note": "한국어 '대탄'으로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0310:R00003",
+   "kind": "omit_redundant",
+   "note": "한국어 '성가신'으로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0310:R00005",
+   "kind": "omit_redundant",
+   "note": "한국어 '풀려'로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0310:R00007",
+   "kind": "omit_redundant",
+   "note": "한국어 '풀려'로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0310:R00008",
+   "kind": "omit_redundant",
+   "note": "한국어 '가른다'로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0310:R00009",
+   "kind": "omit_redundant",
+   "note": "한국어 '이 녀석'으로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0310:R00013",
+   "kind": "omit_redundant",
+   "note": "한국어 '선생'으로 의미가 온전히 전달되므로 일본어 구어 독음 루비 생략"
+  },
+  {
+   "id": "da0310:R00016",
+   "kind": "omit_redundant",
+   "note": "한국어 '얕보지'로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0310:T00029",
+   "kind": "protected_engine_command",
+   "note": "원본 추출기에서 텍스트로 오분류된 엔진 명령. ko는 null이며 번역 삽입 대상에서 제외한다. contracts/contract.json의 원본 바이트 구간과 해시를 보존해야 한다."
+  }
+ ]
+}

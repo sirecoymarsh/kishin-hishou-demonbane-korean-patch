@@ -1,0 +1,335 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0095_da1201",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da1201:T00001",
+   "source_sha256": "10b6080cf1b81ceb56b309cf31066cc202361fd70df407ed801a6f9142e8f327",
+   "ko": "「하…… 하하하……\n　하하하하하하하!\n　하하하하하하하하하!」"
+  },
+  {
+   "id": "da1201:T00002",
+   "source_sha256": "17c594cb3e66c46d44dfba2a3317387d0d431390bbfc2ed29fe9e84bb9570a34",
+   "ko": "홍소가 광대한 심장의 방에 울려 퍼진다."
+  },
+  {
+   "id": "da1201:T00003",
+   "source_sha256": "5e96e6b406a80b1231ab4735de12335a093620787180220ce7a0827e28a6231b",
+   "ko": "하지만 그것은 웃고 있는데도 울고 있는 것처럼 들렸다."
+  },
+  {
+   "id": "da1201:T00004",
+   "source_sha256": "14c718d691ef6e9f000777ddd6d4022975d18343e1e96408718b7130ed32dc23",
+   "ko": "「……마스터」"
+  },
+  {
+   "id": "da1201:T00005",
+   "source_sha256": "99ccc5003f0c10a9e131f77dbc57b553ea0a9851e20dcd328b3fca9884781b6d",
+   "ko": "힘을 잃은 네임리스 원은 말라죽은 거목 같은 모습으로\n우두커니 서 있었다."
+  },
+  {
+   "id": "da1201:T00006",
+   "source_sha256": "99b6e08fb9f20202af847ce7650250c3061ac832fce76d844be686204469f269",
+   "ko": "금이 가는 기체."
+  },
+  {
+   "id": "da1201:T00007",
+   "source_sha256": "24a34fb04d8bf636805b5b9ecbcd0a04b02debc32839cd770747b5bbf1b5b72b",
+   "ko": "무너진 파편이 후드득 피의 바다로 떨어져 내린다."
+  },
+  {
+   "id": "da1201:T00008",
+   "source_sha256": "b77bbe5590f09dc780594b72b50b8c394a1b090f0ad63e454ac4656ac8ace891",
+   "ko": "리베르 레기스가 네임리스 원의 흉부를 움켜쥐고,\n단숨에 뜯어냈다.\n\n\n　제단과도 닮은 조종실이 고스란히 드러난다."
+  },
+  {
+   "id": "da1201:T00009",
+   "source_sha256": "318264afe5165cdea42ff37da33c887505709dc67e71e8b079f0965301f2caf9",
+   "ko": "그 안에, 숨이 끊어질 듯한 소녀의 모습."
+  },
+  {
+   "id": "da1201:T00010",
+   "source_sha256": "e03f2e799fefe38c7849d6fe37d6d62f969317e8367af5a33f37a6520c63b062",
+   "ko": "「자…… 어머니.\n　저의 "
+  },
+  {
+   "id": "da1201:R00001",
+   "source_sha256": "500453669983eaca02d35d64c7cec9eec81949f38b30db815febb2aa34f810f4",
+   "ko": "마음",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1201:T00011",
+   "source_sha256": "4fd4052f4e950eb5524fbe7f78e967660499d43909a9b02328a70567a9a1bfc5",
+   "ko": "원망"
+  },
+  {
+   "id": "da1201:T00012",
+   "source_sha256": "feca85c167c10c3e4607c0aaf36bcfdd4b69a5911e7fe7dff5b577f98f2e5b84",
+   "ko": "을 받아 주세요」"
+  },
+  {
+   "id": "da1201:T00013",
+   "source_sha256": "86bd89ab0bba9cf8ef393324d226143bbb5d99682c59a5a384cc5facfb2dafd5",
+   "ko": "리베르 레기스의 오른 손바닥이 하얗게 "
+  },
+  {
+   "id": "da1201:R00002",
+   "source_sha256": "06ccdf06d7529eb8ab462d5628f9b0cdd5d3cee7ca2b1522ef47f21fdd8f14d2",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1201:T00014",
+   "source_sha256": "1efbe008f21e7be0d14389cb293e2390aa1041ad542efcf3c5ffb99795490f49",
+   "ko": "불타오"
+  },
+  {
+   "id": "da1201:T00015",
+   "source_sha256": "b93db20ce337e0e4e4a0331c917b21b3a99ecb7375a3d3237b7c8d0ce73d0f6e",
+   "ko": "른다."
+  },
+  {
+   "id": "da1201:R00003",
+   "source_sha256": "497083956a5add9aeb600ca73aeee4df4271b9d08bd8eb278d7a1f6df95bc893",
+   "ko": "하이퍼보리아 제로드라이브",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1201:T00016",
+   "source_sha256": "2d2245a0c1d8304323f694cabf08ebd737e3c291e4e5755352a11b4bbc5f9121",
+   "ko": "절대영도의 칼날"
+  },
+  {
+   "id": "da1201:T00017",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  },
+  {
+   "id": "da1201:T00018",
+   "source_sha256": "fb153a299f4c9816ad1170274cb51fa299ac5d16aae10c24e90a0e9570bbfcc9",
+   "ko": "그 손바닥에 닿으면 일체가 죽음의 정적 속에 정지하여, 흔적도 없이\n　소멸한다.\n\n　이걸로 모든 것에 "
+  },
+  {
+   "id": "da1201:R00004",
+   "source_sha256": "da2e77034b9ff7ab2c0c3e2a1bdf3cb6b0ce3c0ee81188297e0e8731b6c1fd1f",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1201:T00019",
+   "source_sha256": "cd44dff0840669529a4c4dc1dd9d5438c5900b442caebcb4def8b6b8e72beb28",
+   "ko": "끝"
+  },
+  {
+   "id": "da1201:T00020",
+   "source_sha256": "53427fd8a24e0d67261c564f77e6215e26d7cf8a7a9fefea42478fad48c89a9e",
+   "ko": "을."
+  },
+  {
+   "id": "da1201:T00021",
+   "source_sha256": "a8d7618fea93ed7e1f8b84b0850a3dbf02c6b40b363731e1c15914a87dd3cb6b",
+   "ko": "그리고 다시 흑의 왕으로서 데몬베인 앞에――"
+  },
+  {
+   "id": "da1201:T00022",
+   "source_sha256": "851aab3a78273ea0d238cbe6dfd56c815d23ae4f583619065853a13f3f76b39b",
+   "ko": "「……이제 됐단다」"
+  },
+  {
+   "id": "da1201:T00023",
+   "source_sha256": "95946b1a5cbbfa29d101296d39e130823f82c9b11523723f295c9e6fe178af5f",
+   "ko": "「……?」"
+  },
+  {
+   "id": "da1201:T00024",
+   "source_sha256": "23d26f4bbe5d61bccbcca65db0dda88bd176e0f9207189a2e327825e4a5a9faf",
+   "ko": "갑자기 돌아온 소녀의 목소리에, 마스터 테리온은 심한 위화감을\n느꼈다."
+  },
+  {
+   "id": "da1201:T00025",
+   "source_sha256": "66cc65fb38fff2ea60a22b59e61bf64631f772ea0c9640bf0eebf806e72f6f4a",
+   "ko": "「……더는 괴로워하지 않아도 돼」"
+  },
+  {
+   "id": "da1201:T00026",
+   "source_sha256": "25f11f15d9ced914dc354e6abff9c35b894382c40eb34ab5d9f95ae2bdb45aa7",
+   "ko": "뇌리를 스치는 "
+  },
+  {
+   "id": "da1201:R00005",
+   "source_sha256": "968bddbc2afd2996c64ca4d51bcdab5ccebc4885ba7796e043d8e8f71c97e00a",
+   "ko": "노이즈",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1201:T00027",
+   "source_sha256": "06d03566feb2dac785be10ca27617a27388955e4f3ff637577102c8727f7e390",
+   "ko": "잡념"
+  },
+  {
+   "id": "da1201:T00028",
+   "source_sha256": "38630d5c12e1700059a941e0e743f5d4b2af63c66f379ec73103d9c0ae02297d",
+   "ko": "／"
+  },
+  {
+   "id": "da1201:R00006",
+   "source_sha256": "968bddbc2afd2996c64ca4d51bcdab5ccebc4885ba7796e043d8e8f71c97e00a",
+   "ko": "노이즈",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1201:T00029",
+   "source_sha256": "06d03566feb2dac785be10ca27617a27388955e4f3ff637577102c8727f7e390",
+   "ko": "잡념"
+  },
+  {
+   "id": "da1201:T00030",
+   "source_sha256": "38630d5c12e1700059a941e0e743f5d4b2af63c66f379ec73103d9c0ae02297d",
+   "ko": "／"
+  },
+  {
+   "id": "da1201:R00007",
+   "source_sha256": "968bddbc2afd2996c64ca4d51bcdab5ccebc4885ba7796e043d8e8f71c97e00a",
+   "ko": "노이즈",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1201:T00031",
+   "source_sha256": "06d03566feb2dac785be10ca27617a27388955e4f3ff637577102c8727f7e390",
+   "ko": "잡념"
+  },
+  {
+   "id": "da1201:T00032",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  },
+  {
+   "id": "da1201:T00033",
+   "source_sha256": "3850190238d4514553fe29ae0befcd0230c6f7729c70ec3dd49277cddac76ad8",
+   "ko": "「――아니야」"
+  },
+  {
+   "id": "da1201:T00034",
+   "source_sha256": "addef2ec281a61667186d738bec69886860a1975321702e0b8e0a94ce8c45cbe",
+   "ko": "「……마스터?」"
+  },
+  {
+   "id": "da1201:T00035",
+   "source_sha256": "6df7b0b6a5d15e41816d9626f83e387e9978b199c42a5e5809a4de512e0d216c",
+   "ko": "「너는, 원래대로라면 이미……\n　　　　　　구원받았으니까」"
+  },
+  {
+   "id": "da1201:T00036",
+   "source_sha256": "56f0120c8daaa327f0036910d6ba2b9c3999670d02b97959d209563c4a91f4b4",
+   "ko": "조금 전까지와는 다르다."
+  },
+  {
+   "id": "da1201:T00037",
+   "source_sha256": "731690c9455fc0d4bf07880a12ad6a9430038d523a12524fd31f73eca98238b7",
+   "ko": "리베르 레기스를 올려다보는 눈동자――"
+  },
+  {
+   "id": "da1201:T00038",
+   "source_sha256": "fcf24e0b7ada1973e1221d926e21699b4d4456358a0825649da26ea784005785",
+   "ko": "그곳에 깃든 것은 저 밑바닥 없는 어둠이 아니다."
+  },
+  {
+   "id": "da1201:R00008",
+   "source_sha256": "fe65050b6cf95368d85f30fd366c092a15824886d51defd754887d1e968f7491",
+   "ko": "・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1201:T00039",
+   "source_sha256": "881728eeaf68076541ea3a1237ad5766358f5b90705fe1e16cbf990e5b286666",
+   "ko": "밑바닥 없는 것"
+  },
+  {
+   "id": "da1201:T00040",
+   "source_sha256": "4d5598e9e0d5037365447fd90a3152b1cffd8f766b599d811efd61d8d8499eb4",
+   "ko": "보다도 깊고, 그러나 무엇보다도 투명한 눈동자."
+  },
+  {
+   "id": "da1201:T00041",
+   "source_sha256": "c792ad429487ab899654f5a88f6e4b3a8924d611417163488f15ce0700d87bec",
+   "ko": "그것은 소년이 알지 못하는, 소녀/어머니의 눈동자다."
+  },
+  {
+   "id": "da1201:T00042",
+   "source_sha256": "bbb5d22a61e96898ac7e27a5288efb0c1b87178917f62dcf4b9a3f2db6aa339d",
+   "ko": "「…………읏!」"
+  },
+  {
+   "id": "da1201:T00043",
+   "source_sha256": "02bd2082fe71e70e1bc1ae20d36be324d537478e9be0ccd675020acfe5ff5a9f",
+   "ko": "――결정적으로, 다르다."
+  },
+  {
+   "id": "da1201:T00044",
+   "source_sha256": "e49c4610393665c60a219a232a66d88e68e1954c46ffcacb8caf7ac89546434b",
+   "ko": "「그대는……\n　"
+  },
+  {
+   "id": "da1201:R00009",
+   "source_sha256": "fe65050b6cf95368d85f30fd366c092a15824886d51defd754887d1e968f7491",
+   "ko": "・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1201:T00045",
+   "source_sha256": "3f6f6cefb0fcae3a02dc37d35729474ced90b0820d0a0052e769da104dfa8a03",
+   "ko": "방금 전"
+  },
+  {
+   "id": "da1201:R00010",
+   "source_sha256": "fe65050b6cf95368d85f30fd366c092a15824886d51defd754887d1e968f7491",
+   "ko": "・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1201:T00046",
+   "source_sha256": "6e5f2c3f5c1141560aa2efca04fde1942ace9d2d3cd98b2709c873c49864ebd0",
+   "ko": "까지의 "
+  },
+  {
+   "id": "da1201:R00011",
+   "source_sha256": "ad00a0b322492061745b24d0a27cfeb54340097e166853622a9781f99bd15efb",
+   "ko": "・・・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1201:T00047",
+   "source_sha256": "39b7e3d6c402235981d2e888c869cdbcf9ab66d6195aef4ea7eeb035e00b03dc",
+   "ko": "악몽이 아니야"
+  },
+  {
+   "id": "da1201:T00048",
+   "source_sha256": "6560fad1b5299ec45c7562b1e825f123c87101dc289a1eb71426e443d34f4c8c",
+   "ko": "!」"
+  },
+  {
+   "id": "da1201:T00049",
+   "source_sha256": "a8d191869fd88635b97558b570a8a3de3b7dcd48bb132bde04cdd69dbf213d27",
+   "ko": "「뭐…… 무엇입니까,\n　당신은……!」"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da1201:T00008",
+   "kind": "glossary_candidate",
+   "note": "미확정 용어집 항목 '리베르 레기스(リベル・レギス)' 사용."
+  },
+  {
+   "id": "da1201:R00002",
+   "kind": "ruby_decision",
+   "note": "'焔える(불타오르다)'의 단순 훈독 루비('も')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1201:R00004",
+   "kind": "ruby_decision",
+   "note": "'止め(끝)'의 단순 훈독 루비('とど')이므로 omit_redundant 처리."
+  }
+ ]
+}

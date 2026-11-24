@@ -1,0 +1,746 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0013_da0110",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0110:T00001",
+   "source_sha256": "0e992c13eb54c374461db710bdef381f1a5120de64ff5b832a01d6d15af35095",
+   "ko": "말은 마술이다."
+  },
+  {
+   "id": "da0110:T00002",
+   "source_sha256": "9cedd3512c3554a6f495ddf0ba954dbd66290b0eda49242b9e8c2ae0c51ea02e",
+   "ko": "이야기는 세계다."
+  },
+  {
+   "id": "da0110:R00001",
+   "source_sha256": "edc77f1593e2e69340081095b426de3b6863a575b8c4393dcbf787fee9b3fee7",
+   "ko": "말",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0110:T00003",
+   "source_sha256": "7bf72df9c1ba06a18ebcd0fc3bff59f207ec52763bb09583903e602af349fe84",
+   "ko": "마술"
+  },
+  {
+   "id": "da0110:T00004",
+   "source_sha256": "ccbfba8ed0b1620e42b410ae4b5e5ee30c8e91b6086ff8eeac68192bb7f69e2e",
+   "ko": "을 자아내어, "
+  },
+  {
+   "id": "da0110:R00002",
+   "source_sha256": "3e7ca97dd222dfece75cc1b0e619438b0296dd7b6db45fe8ff3627464f181e69",
+   "ko": "세계",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0110:T00005",
+   "source_sha256": "846c39b0bcb51f41f7a9b92e4d3452d15b86f3e1cd153f8d3d2ba8ef55219731",
+   "ko": "이야기"
+  },
+  {
+   "id": "da0110:T00006",
+   "source_sha256": "41b45207dc61d06d43991ce6e74e37e596c51518d20cf2d58b2c945e107b4d27",
+   "ko": "를 만든다."
+  },
+  {
+   "id": "da0110:T00007",
+   "source_sha256": "9e9a9cbd0fdd69adda54986d037a856d62efad2009173ef196733fdab4591584",
+   "ko": "마술사에게만 국한된 일이 아니다."
+  },
+  {
+   "id": "da0110:T00008",
+   "source_sha256": "790c692b7c5b9c736ca5329f6c842da2e65bbcfc2d8539720a7515664aff538c",
+   "ko": "인간은 개개의 세계관에 따라, 살아간다."
+  },
+  {
+   "id": "da0110:T00009",
+   "source_sha256": "adf4d381aa99e5504d764da4652532f35b2b13cc1c7757fe635b5ea24048834f",
+   "ko": "말이 인간에게 세계를 부여하는 것이다.\n\n　인간의 수만큼 세계는 존재하며, "
+  },
+  {
+   "id": "da0110:R00003",
+   "source_sha256": "3e7ca97dd222dfece75cc1b0e619438b0296dd7b6db45fe8ff3627464f181e69",
+   "ko": "세계",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0110:T00010",
+   "source_sha256": "846c39b0bcb51f41f7a9b92e4d3452d15b86f3e1cd153f8d3d2ba8ef55219731",
+   "ko": "이야기"
+  },
+  {
+   "id": "da0110:T00011",
+   "source_sha256": "b76dd2b0c9bc9565a6aa03740ab9a1fb672df560c29c93dae0f738937ddd6847",
+   "ko": " 없이는 인간은 살아갈 수 없다."
+  },
+  {
+   "id": "da0110:T00012",
+   "source_sha256": "24d799d8c224c0f86ac99fe3199296c768613cf1bf19e2a52bbd6c4d80b2bb94",
+   "ko": "외도의 혈맥인 나라고 해서, 다를 바 없다.\n\n　나는 나의 세계를 만든다."
+  },
+  {
+   "id": "da0110:T00013",
+   "source_sha256": "5d38296be7141a97723a5fb0a248ad6150fb7f1f12491be82f2d1ad7df90db4f",
+   "ko": "나의 말로 세계를 자아낸다."
+  },
+  {
+   "id": "da0110:T00014",
+   "source_sha256": "2866fdea197a1eb85cf210a4914421275491a8b7463d2f39ab6e0e6d705af923",
+   "ko": "나의 사념으로 세계를 구축한다."
+  },
+  {
+   "id": "da0110:T00015",
+   "source_sha256": "bb5b3757a53201741d6eec1fce0c4dd149d92854953714264df930bf4c6d8828",
+   "ko": "내가 나인 이상, 그 누구도 나의 이야기를 멈출 수는 없다.\n\n　자, 세계여."
+  },
+  {
+   "id": "da0110:T00016",
+   "source_sha256": "cefc4de4bd14adcb1aab4e2f7f47569a98f32cf0a6c27368b74c52ea5be9fa80",
+   "ko": "나의 "
+  },
+  {
+   "id": "da0110:R00004",
+   "source_sha256": "3e7ca97dd222dfece75cc1b0e619438b0296dd7b6db45fe8ff3627464f181e69",
+   "ko": "세계",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0110:T00017",
+   "source_sha256": "846c39b0bcb51f41f7a9b92e4d3452d15b86f3e1cd153f8d3d2ba8ef55219731",
+   "ko": "이야기"
+  },
+  {
+   "id": "da0110:T00018",
+   "source_sha256": "3963fa4d7255639714b8238a56d5bc276ee7f6c83efcea7b7301ef5169fd817f",
+   "ko": "를 받아들여라."
+  },
+  {
+   "id": "da0110:T00019",
+   "source_sha256": "fab933584efa561a98f302e942bef12d3f06c9e089fce561e1590d8bd03e738a",
+   "ko": "내가 바라는 이야기는――"
+  },
+  {
+   "id": "da0110:T00020",
+   "source_sha256": "dac235b3b5e24a3449c4fed9fad78eeaa8e912aba7a0ece72704f5c2fe5393d3",
+   "ko": "「악덕!」"
+  },
+  {
+   "id": "da0110:T00021",
+   "source_sha256": "dac235b3b5e24a3449c4fed9fad78eeaa8e912aba7a0ece72704f5c2fe5393d3",
+   "ko": "「악덕!」"
+  },
+  {
+   "id": "da0110:T00022",
+   "source_sha256": "8d21caf75f714677bd7ade21ec76855b0ee5e22a884fe099dc6cf42e20af297f",
+   "ko": "「악덕의 도가니를!」"
+  },
+  {
+   "id": "da0110:T00023",
+   "source_sha256": "ab775fe0982e26ca4f0d4d1fc5878821cef01696a8e6f8e23f8697185fc55921",
+   "ko": "나의 세계는, 그 외에는 형태를 이룰 수 없다."
+  },
+  {
+   "id": "da0110:T00024",
+   "source_sha256": "6f065864906224d3e21eba02257e0bfea581d9f961acbb48baa761eaf482e2fd",
+   "ko": "나의 말은 저주다."
+  },
+  {
+   "id": "da0110:T00025",
+   "source_sha256": "517c4213422636ac699c21f497f5a18213ace303c0e31680f7532c9c7ab94b4f",
+   "ko": "나의 사념은 원망이다."
+  },
+  {
+   "id": "da0110:T00026",
+   "source_sha256": "131f21d957951a299f9618d99c9a9990b4f97353e0bdfb9b9715c5c0c9edbeaa",
+   "ko": "내가 자아내고, 구축하고, 만드는 것은, 그저 타락해 갈 뿐인 구원받지 못할 이야기.\n\n　자, 세계여."
+  },
+  {
+   "id": "da0110:R00005",
+   "source_sha256": "e1e4fdf46c99c92eeb0d356d98b3041bf3bdcfa843aadb25103a4aeadfbb7e3f",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0110:T00027",
+   "source_sha256": "8b79773f64a278886353ec009bb3aa9e67501e95026d9fbae782922fbbe863c8",
+   "ko": "낙태"
+  },
+  {
+   "id": "da0110:T00028",
+   "source_sha256": "1c34c23f7c94685f76a118e0d2329cf848ada999fef34597655a0a5a1822167f",
+   "ko": "된 "
+  },
+  {
+   "id": "da0110:R00006",
+   "source_sha256": "43875788c668dd0af31729d8fdb7f13c77e95d418de16d255783e14be5b7cc1c",
+   "ko": "히루코",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0110:T00029",
+   "source_sha256": "f83b075539520df761c23c0ddae421319ee8c5c14035f890dc3b286ccfd95100",
+   "ko": "거머리 아이"
+  },
+  {
+   "id": "da0110:T00030",
+   "source_sha256": "ddf3321179c09421c26884182f07980317fbc3d99757083bff33fbedf76e8d43",
+   "ko": "가, 원념으로 엮어 올린 "
+  },
+  {
+   "id": "da0110:R00007",
+   "source_sha256": "3e7ca97dd222dfece75cc1b0e619438b0296dd7b6db45fe8ff3627464f181e69",
+   "ko": "세계",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0110:T00031",
+   "source_sha256": "846c39b0bcb51f41f7a9b92e4d3452d15b86f3e1cd153f8d3d2ba8ef55219731",
+   "ko": "이야기"
+  },
+  {
+   "id": "da0110:T00032",
+   "source_sha256": "c8cb20189b152264e4eeb42e69c758ceb7017d98a28145e30fbea69487459165",
+   "ko": "를 받아들여라."
+  },
+  {
+   "id": "da0110:R00008",
+   "source_sha256": "d9a63e871e2958faa3fce720b7028e6f6143d4b633c03c18c9e7029688028fe2",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0110:T00033",
+   "source_sha256": "9b509d2956852d977d822eff6965863280610b699199e9fd658674102cdd0322",
+   "ko": "수많은"
+  },
+  {
+   "id": "da0110:T00034",
+   "source_sha256": "6568fde1e02df61ca5ad008ce25bf5ae02afa48826cb1b04ee8574370622647b",
+   "ko": " 세계를 "
+  },
+  {
+   "id": "da0110:R00009",
+   "source_sha256": "a9baaa2b6c7f773d0767f8261b0642bb185f1a566f5a0b2b51dfacc409a68c9a",
+   "ko": "제물로",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0110:T00035",
+   "source_sha256": "859d0f2e0a4ea55479762917c42df5d81e783bdce0e4202054f3a44f6893d08b",
+   "ko": "모판으로"
+  },
+  {
+   "id": "da0110:T00036",
+   "source_sha256": "e680c6f817651b1dcebe2bfcf0408e6bafae56a8a7184ea900fe4a852d748879",
+   "ko": " 삼아, 나의 "
+  },
+  {
+   "id": "da0110:R00010",
+   "source_sha256": "3e7ca97dd222dfece75cc1b0e619438b0296dd7b6db45fe8ff3627464f181e69",
+   "ko": "세계",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0110:T00037",
+   "source_sha256": "846c39b0bcb51f41f7a9b92e4d3452d15b86f3e1cd153f8d3d2ba8ef55219731",
+   "ko": "이야기"
+  },
+  {
+   "id": "da0110:T00038",
+   "source_sha256": "e9fb55bb55c0253089221657d2bf13c1941da10817fe8ead1dff8bebf365a541",
+   "ko": "를 길러 내자."
+  },
+  {
+   "id": "da0110:T00039",
+   "source_sha256": "02f89697649974ede119c0d83cd86179240777fcbad2e5f8cde98fc3faf4bbcb",
+   "ko": "사랑도 기쁨도 안식도 향락도 모두, 달콤하게 "
+  },
+  {
+   "id": "da0110:R00011",
+   "source_sha256": "1939d82b79ee06b250f2a51587d3dc3a15c4d4196fe8cebe6488bbf59cc6f069",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0110:T00040",
+   "source_sha256": "dbb85b0ced871ef7ec02536de7933b82532853f428b65d34eeb3bfa54ba3ae57",
+   "ko": "썩어 가"
+  },
+  {
+   "id": "da0110:T00041",
+   "source_sha256": "ceb22fda52ac59cc5fcb7882c6b185d60cb46103f8bdb5c7a7f735ed897d7d99",
+   "ko": "는 고통에서 태어나는 것이다."
+  },
+  {
+   "id": "da0110:T00042",
+   "source_sha256": "006ae8385c554bead48113b4aab2b3533370969b7057f75fff1ae5cf1ea98439",
+   "ko": "「……아핫」"
+  },
+  {
+   "id": "da0110:T00043",
+   "source_sha256": "a1b2164e4c7a0b6f3f3bd2184d29d83f852d1cdca0325164424918deaf73becc",
+   "ko": "「강철의 피를 나눈다――"
+  },
+  {
+   "id": "da0110:R00012",
+   "source_sha256": "2b826478f59c2fee27b95e2947c15a7596908f21671c84c287eaf3dfdfa9128b",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0110:T00044",
+   "source_sha256": "0a02e0d09dc74cad30d832a411825bc5fbf4b5af04baf6aff8cee8af35cb38dd",
+   "ko": "나타나"
+  },
+  {
+   "id": "da0110:T00045",
+   "source_sha256": "34347b746b62032325118a9a0742f3d0093f022f9bf2fb193db86e32af76e42b",
+   "ko": "라」"
+  },
+  {
+   "id": "da0110:T00046",
+   "source_sha256": "702632e049282e4bab50bc54362785728807ef8acb6a339f664882e48ebaf563",
+   "ko": "「원격 소환――여전히 재주가 좋네」"
+  },
+  {
+   "id": "da0110:T00047",
+   "source_sha256": "bfad16c1d0a4e436c39351c3819ca326ee7fa9c4678a6e62c64a9303715e74cb",
+   "ko": "「하지만 나한테 신경 쓰고 있을 때일까?\n　봐, 서두르지 않으면 그 애들이……\n　응?」"
+  },
+  {
+   "id": "da0110:T00048",
+   "source_sha256": "cd13956a3d16108dccd3d63787b1949b45768b88f1b36c6942d905be0b43c2f0",
+   "ko": "「원래부터 알고 있다!」"
+  },
+  {
+   "id": "da0110:T00049",
+   "source_sha256": "060c8d153db8b8364aa22fc1ab2079ef089b68a378e0f158dbb0b583bc03baf8",
+   "ko": "그래도 방금 일격으로, 정신 집중이 흐트러졌을 터이다."
+  },
+  {
+   "id": "da0110:T00050",
+   "source_sha256": "37f86ae9b4cccb854e5d7a9542e44fdd5bb7534d24692ecee6b5371312158d6b",
+   "ko": "네놈이 자아내는 악몽은, 그토록 견고한 것이 아닐 테지."
+  },
+  {
+   "id": "da0110:T00051",
+   "source_sha256": "ffb81a409bebceb4dfa95b4eb9b43d571ee8b6593aedc1908c3a88ccc5eb5d66",
+   "ko": "그렇다면 반드시 틈이 생긴다!\n\n　달린다／"
+  },
+  {
+   "id": "da0110:R00013",
+   "source_sha256": "def18b1f5631a74e05ec0b6234a8e199275e5d1402ba14bd2874890cc7171a98",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0110:T00052",
+   "source_sha256": "1cba0068ed2989f2702a73319cb70a68180cd286fc71e9bbc16f00fed91890b4",
+   "ko": "질주한"
+  },
+  {
+   "id": "da0110:T00053",
+   "source_sha256": "99a0dc5aa29b04f0da3c54d82ee2c255278c12f068f11b32b8e8de1e83df3525",
+   "ko": "다／"
+  },
+  {
+   "id": "da0110:R00014",
+   "source_sha256": "def18b1f5631a74e05ec0b6234a8e199275e5d1402ba14bd2874890cc7171a98",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0110:T00054",
+   "source_sha256": "781fa27755d19bd64eb016769714d5f5a27660c4c8b04d266dd1c639a286b670",
+   "ko": "내달린"
+  },
+  {
+   "id": "da0110:T00055",
+   "source_sha256": "6aaed105226702014d0e2ce39fc09bf4699f41e481b776d5e73aaa1868ed9da0",
+   "ko": "다."
+  },
+  {
+   "id": "da0110:T00056",
+   "source_sha256": "ec82877bf66379e6cc16ef2843f79495b022d5c73f5faaebf0b7fca8a8707439",
+   "ko": "나의 "
+  },
+  {
+   "id": "da0110:R00015",
+   "source_sha256": "7bf933b9f1ee39559b24ea99c5fb84c3d91f54730ea8003ab0aa466abfd63fb8",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0110:T00057",
+   "source_sha256": "b396c18ea561591d6703d832ecd48d71c99ddd79c3700fd8887c9e9883f35436",
+   "ko": "행동"
+  },
+  {
+   "id": "da0110:T00058",
+   "source_sha256": "e255d1d1dc23dea1120762854203ae8ee8e63009daa38f58aafb79a7ea53bdc9",
+   "ko": "이 『수호』인 이상, 무엇도 나의 속도를\n　따라잡을 수 없다――"
+  },
+  {
+   "id": "da0110:R00016",
+   "source_sha256": "334bdc29cac13392f8612ff480792dada4c2453a686ada4a6c93a90807b7b9f4",
+   "ko": "바람",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0110:T00059",
+   "source_sha256": "739514d87c36f51090eb6bcb159c9c3ce9203ac5c7dc75a5e9aa90d4b4221cad",
+   "ko": "질풍"
+  },
+  {
+   "id": "da0110:T00060",
+   "source_sha256": "0d9936d59d5ec249141eaa40b7fa5352bb24d7923938e649f37dd22c071fed20",
+   "ko": "이라 할지라도, "
+  },
+  {
+   "id": "da0110:R00017",
+   "source_sha256": "97d68df7e807fb8264375e917e4f099791b4d56d5d2de2aeff0f1c289b6bc6d9",
+   "ko": "숙명",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0110:T00061",
+   "source_sha256": "269a29ab55fbb0934a58f22d5b4ce151960cac29df8b9bc5ba167c760b5d7ee6",
+   "ko": "운명"
+  },
+  {
+   "id": "da0110:T00062",
+   "source_sha256": "5af234291e69e79fe04fd344709750b957c23c6125d3990375040a4854cb94f4",
+   "ko": "이라 할지라도.\n\n　왜냐하면."
+  },
+  {
+   "id": "da0110:T00063",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0110:R00018",
+   "source_sha256": "b82ecd8ad5cdb22fed852be1e1136348794e60f43cd489a70d2c3a519514f87b",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0110:T00064",
+   "source_sha256": "b70bb4acc0484cf040de4c07c60f9db722283da2c4a672c39291de621e92c33f",
+   "ko": "내"
+  },
+  {
+   "id": "da0110:T00065",
+   "source_sha256": "c96a4eb1b3e5c5acef748335e72d4706fe24a7885d1ebb0085f4d1c6239868aa",
+   "ko": "가, 『기사』이기 때문이다!」"
+  },
+  {
+   "id": "da0110:T00066",
+   "source_sha256": "4949b37758b6454da8746d3deeccd7234690178f0bb71ab9efe564398d44d894",
+   "ko": "달리면서, 엄지손가락의 살갗을 물어뜯는다."
+  },
+  {
+   "id": "da0110:T00067",
+   "source_sha256": "a837dc334534b2b758e0f1b615cc45de870b072fd2856f7abb80997dade2556c",
+   "ko": "상처에서 넘쳐흐르는 뜨거운 피가, 『세계』를 향해 흘러든다."
+  },
+  {
+   "id": "da0110:T00068",
+   "source_sha256": "07da13b43fa992b9d728d027b58756dc7aa57b89c79e742d772f41a8b555968b",
+   "ko": "피야말로 나의 존재."
+  },
+  {
+   "id": "da0110:T00069",
+   "source_sha256": "ec82877bf66379e6cc16ef2843f79495b022d5c73f5faaebf0b7fca8a8707439",
+   "ko": "나의 "
+  },
+  {
+   "id": "da0110:R00019",
+   "source_sha256": "24d7ad880d9dd274550d7dc2480caa180cce47c07ed273889cc65934ddc93c74",
+   "ko": "힘",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0110:T00070",
+   "source_sha256": "522148a1fdcc951dab73d60402911ecae0316c63ca4da1659694d251661570bc",
+   "ko": "마력"
+  },
+  {
+   "id": "da0110:T00071",
+   "source_sha256": "0bc6a2ca3971cdf01afd8c43360fe3e7f344ffc49d440c8521abf74e2c367a52",
+   "ko": "의 증명."
+  },
+  {
+   "id": "da0110:T00072",
+   "source_sha256": "89de0361843eb595f642e29287f36df630cd82181b7acc54cab2da342d3ebcf1",
+   "ko": "나의 마술의 원천."
+  },
+  {
+   "id": "da0110:T00073",
+   "source_sha256": "05e00b0728525a91a3636fa17643bc2d48ffa696d7d8c426179594b0356982f1",
+   "ko": "「――휘몰아쳐라」"
+  },
+  {
+   "id": "da0110:T00074",
+   "source_sha256": "2341c2c0d1f00bb609bf3518a6737d0a6921e6ebc058bf4e9fae303f933ae228",
+   "ko": "흐르는 피가 "
+  },
+  {
+   "id": "da0110:R00020",
+   "source_sha256": "334bdc29cac13392f8612ff480792dada4c2453a686ada4a6c93a90807b7b9f4",
+   "ko": "바람",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0110:T00075",
+   "source_sha256": "22ae617be31b3309d1be515080bbe8daaf4f3430a718957e7b11d3f6d6d0c140",
+   "ko": "혈풍"
+  },
+  {
+   "id": "da0110:T00076",
+   "source_sha256": "e6751d807bdebd4ce2d92be7851bc7fc3f966ace7d9789ed9844d44fe3a19497",
+   "ko": "으로 화하여, "
+  },
+  {
+   "id": "da0110:R00021",
+   "source_sha256": "def18b1f5631a74e05ec0b6234a8e199275e5d1402ba14bd2874890cc7171a98",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0110:T00077",
+   "source_sha256": "2536cd03c70a9f64b354a3eb7ae0c12f7a98b0b1935233486910f796beb207b7",
+   "ko": "질주하"
+  },
+  {
+   "id": "da0110:T00078",
+   "source_sha256": "247cdee7af73def8e0a449a064a0254f0d4af51fa6933a1f8354c5814f501a5b",
+   "ko": "는 나를 휘감으며 나란히 달린다."
+  },
+  {
+   "id": "da0110:T00079",
+   "source_sha256": "ea1fde3f282305b83c031f2e53e7121fcecc1361c0d81d5dc963b6129bd05b79",
+   "ko": "혈풍의 흐름은 두 줄기."
+  },
+  {
+   "id": "da0110:T00080",
+   "source_sha256": "0e6d1a095f25c081e0b4f9e40f5967f026180cf42e529450f53ceda53b034f96",
+   "ko": "지극히 가까운 속성을 지닌, 쌍둥이 같은 두 개의 "
+  },
+  {
+   "id": "da0110:R00022",
+   "source_sha256": "24d7ad880d9dd274550d7dc2480caa180cce47c07ed273889cc65934ddc93c74",
+   "ko": "힘",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0110:T00081",
+   "source_sha256": "522148a1fdcc951dab73d60402911ecae0316c63ca4da1659694d251661570bc",
+   "ko": "마력"
+  },
+  {
+   "id": "da0110:T00082",
+   "source_sha256": "524549885e4a49ef68ec00e0ae73cff265a97a966e311f67016ef2d139872e18",
+   "ko": ".\n\n　혈풍은 흉풍이다."
+  },
+  {
+   "id": "da0110:T00083",
+   "source_sha256": "7eecb2ecfe699b5e6fdfe47ec421fe627c4fb0484d6d87a29b80a9449cc7e219",
+   "ko": "마력은 불길한 기척을 품는다."
+  },
+  {
+   "id": "da0110:T00084",
+   "source_sha256": "3195b652d64d03fdebc11e064243287a34c6949634db68d421175d14004c8196",
+   "ko": "허나 나의 인식, 나의 피에는, 그것을 제어하기 위한 외도의 지식이 있다.\n\n　기사의 긍지와 외도의 지식이 깃든 이 피로써, 나는 고결한 길로\n나아가리라."
+  },
+  {
+   "id": "da0110:T00085",
+   "source_sha256": "48e81801da6d070c74dc361a1ef0eaafdd11a636f557e528c20ab841ae9198c2",
+   "ko": "「――"
+  },
+  {
+   "id": "da0110:R00023",
+   "source_sha256": "2b826478f59c2fee27b95e2947c15a7596908f21671c84c287eaf3dfdfa9128b",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0110:T00086",
+   "source_sha256": "0a02e0d09dc74cad30d832a411825bc5fbf4b5af04baf6aff8cee8af35cb38dd",
+   "ko": "모습을 드러내라"
+  },
+  {
+   "id": "da0110:T00087",
+   "source_sha256": "95949d6dd1e07a79a22ffcdb3ef415eade5bd2f8b0811d1a878c17b7828aa97f",
+   "ko": ", "
+  },
+  {
+   "id": "da0110:R00024",
+   "source_sha256": "4c6ff2461396974940d832f3f0ce2a7624668028f9bff88ca807b1e9da44a407",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0110:T00088",
+   "source_sha256": "4d5f7e15c8a569bfc0f1f798cdde3be85e58e795ca3b4843bd95a02b4022ef6b",
+   "ko": "나오"
+  },
+  {
+   "id": "da0110:T00089",
+   "source_sha256": "609cb062393dfc2969254d336d64f28962e25e8e27fabe5eba81533ece5493b2",
+   "ko": "너라」"
+  },
+  {
+   "id": "da0110:T00090",
+   "source_sha256": "16608ed45b4073cbce3f4c076c17769d93f45dedba9456cb4246058a77dece80",
+   "ko": "혈풍을 감싸는 마술문자."
+  },
+  {
+   "id": "da0110:T00091",
+   "source_sha256": "48d22d1314ebefdd44f4f324400d4f428bac40c15195671e3e68c21a6f93fb3e",
+   "ko": "애매하고 부정형인 마력의 소용돌이가, 확실한 존재를, 질량을 얻는다."
+  },
+  {
+   "id": "da0110:T00092",
+   "source_sha256": "3f89d9664d0daec0771d8f3f68b8aad6dface06a1fda12785096c5adcbc95dde",
+   "ko": "두 개의 마력을 엮어 구축된 그것은, 금속의 광택을 띠고 있었다."
+  },
+  {
+   "id": "da0110:T00093",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0110:R00025",
+   "source_sha256": "def18b1f5631a74e05ec0b6234a8e199275e5d1402ba14bd2874890cc7171a98",
+   "ko": "달려",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0110:T00094",
+   "source_sha256": "5113a2329ab08be9d7127a09a0a65fc6614c81877a0d63af9c90d5db31f7591b",
+   "ko": "비상하"
+  },
+  {
+   "id": "da0110:T00095",
+   "source_sha256": "724a8830df4cad81f5caa4c7c621274de4933c5a576f50ebd8245f2f0a554c30",
+   "ko": "라!」"
+  },
+  {
+   "id": "da0110:T00096",
+   "source_sha256": "6ed2691eea6271557b01f5e83eea6d73fe433916230ec7df5babf2b5d67b3e13",
+   "ko": "현현한 그것을 움켜잡고, 치켜든다."
+  },
+  {
+   "id": "da0110:T00097",
+   "source_sha256": "39d19a2defaba2160033a48b37e1a6bacc79362d43ba9d299fd1a082310429c7",
+   "ko": "최대한의 위력과 마력을 실어, "
+  },
+  {
+   "id": "da0110:R00026",
+   "source_sha256": "cc404c5d1a409cf671ddec944df2605744414938d2e48dd79a3494b9e2e472bd",
+   "ko": "스윙",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0110:T00098",
+   "source_sha256": "99c07d6310ea926082878245cf8448495e72c6cd1c325545e00be6f43a4acfda",
+   "ko": "투척"
+  },
+  {
+   "id": "da0110:T00099",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  },
+  {
+   "id": "da0110:T00100",
+   "source_sha256": "3f6319ae5709fb47fe8ff08cd3ee3a81eb71e35588b39a1a5ad254b5d60390df",
+   "ko": "방출된 파괴력이, 번개처럼 "
+  },
+  {
+   "id": "da0110:R00027",
+   "source_sha256": "def18b1f5631a74e05ec0b6234a8e199275e5d1402ba14bd2874890cc7171a98",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0110:T00101",
+   "source_sha256": "456ff23ca34b1f416a48ae866e538967967cb03be94adef8308fe75c68eb5f59",
+   "ko": "내달린"
+  },
+  {
+   "id": "da0110:T00102",
+   "source_sha256": "6aaed105226702014d0e2ce39fc09bf4699f41e481b776d5e73aaa1868ed9da0",
+   "ko": "다."
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0110:T00048",
+   "kind": "glossary_candidate",
+   "note": "본 패킷의 화자 태그로 용어집 pending 항목인 '九朔(쿠자쿠)'가 출현함(da0110:U00011 등)."
+  },
+  {
+   "id": "da0110:R00005",
+   "kind": "ruby_decision",
+   "note": "원문 '堕胎(おと)されし'의 루비 'おと'는 훈독 발음 안내이며, 본문(da0110:T00027~T00028)을 '낙태된'으로 번역하여 의미가 온전히 전달되므로 omit_redundant 처리함."
+  },
+  {
+   "id": "da0110:R00008",
+   "kind": "ruby_decision",
+   "note": "원문 '数多(あまた)'의 루비 'あまた'는 한자 표기의 독음 안내이며, 본문(da0110:T00033)을 '수많은'으로 번역하여 의미가 온전히 전달되므로 omit_redundant 처리함."
+  },
+  {
+   "id": "da0110:R00011",
+   "kind": "ruby_decision",
+   "note": "원문 '腐爛(ふらん)'의 루비 'ふらん'는 한자어 '腐爛'의 단순 음독 발음 안내이며, 본문(da0110:T00040)을 '부란'으로 번역하여 의미가 일치하므로 omit_redundant 처리함."
+  },
+  {
+   "id": "da0110:R00012",
+   "kind": "ruby_decision",
+   "note": "원문 '顕(あらわ)れよ'의 루비 'あらわ'는 한자 '顕'의 훈독 발음 안내이며, 본문(da0110:T00044~T00045)을 '나타나라'로 번역하여 의미가 온전히 전달되므로 omit_redundant 처리함."
+  },
+  {
+   "id": "da0110:R00013",
+   "kind": "ruby_decision",
+   "note": "원문 '疾(はし)る'의 루비 'はし'는 한자 '疾'의 훈독 발음 안내이며, 본문(da0110:T00052~T00053)을 '질주한다'로 번역하여 의미가 온전히 전달되므로 omit_redundant 처리함."
+  },
+  {
+   "id": "da0110:R00014",
+   "kind": "ruby_decision",
+   "note": "원문 '奔(はし)る'의 루비 'はし'는 한자 '奔'의 훈독 발음 안내이며, 본문(da0110:T00054~T00055)을 '내달린다'로 번역하여 의미가 온전히 전달되므로 omit_redundant 처리함."
+  },
+  {
+   "id": "da0110:R00015",
+   "kind": "ruby_decision",
+   "note": "원문 '行動(おこない)'의 루비 'おこない'는 훈독 발음 안내이며, 본문(da0110:T00057)을 '행동'으로 번역하여 의미가 온전히 전달되므로 omit_redundant 처리함."
+  },
+  {
+   "id": "da0110:R00018",
+   "kind": "ruby_decision",
+   "note": "원문 '我(われ)'의 루비 'われ'는 한자 '我'의 훈독 발음 안내이며, 본문(da0110:T00064~T00065)을 '내가'로 번역하여 의미가 온전히 전달되므로 omit_redundant 처리함."
+  },
+  {
+   "id": "da0110:R00021",
+   "kind": "ruby_decision",
+   "note": "원문 '疾走(はし)る'의 루비 'はし'는 동사 훈독 발음 안내이며, 본문(da0110:T00077~T00078)을 '질주하는'으로 번역하여 의미가 온전히 전달되므로 omit_redundant 처리함."
+  },
+  {
+   "id": "da0110:R00023",
+   "kind": "ruby_decision",
+   "note": "원문 '顕(あらわ)れ'의 루비 'あらわ'는 한자 '顕'의 훈독 발음 안내이며, 본문(da0110:T00086)을 '나타나'로 번역하여 의미가 온전히 전달되므로 omit_redundant 처리함."
+  },
+  {
+   "id": "da0110:R00024",
+   "kind": "ruby_decision",
+   "note": "원문 '出(い)でよ'의 루비 'い'는 한자 '出'의 훈독 발음 안내이며, 본문(da0110:T00088~T00089)을 '나오거라'로 번역하여 의미가 온전히 전달되므로 omit_redundant 처리함."
+  },
+  {
+   "id": "da0110:R00027",
+   "kind": "ruby_decision",
+   "note": "원문 '迅(はし)る'의 루비 'はし'는 한자 '迅'의 훈독 발음 안내이며, 본문(da0110:T00101~T00102)을 '내달린다'로 번역하여 의미가 온전히 전달되므로 omit_redundant 처리함."
+  }
+ ]
+}

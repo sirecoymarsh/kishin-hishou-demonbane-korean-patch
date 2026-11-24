@@ -1,0 +1,667 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0026_da0202",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0202:T00001",
+   "source_sha256": "3ace64f23448c849ce648acc508be705ed88b54f325eacd25cc67299cc31579a",
+   "ko": "「이걸로 조금은 조용해졌네」"
+  },
+  {
+   "id": "da0202:T00002",
+   "source_sha256": "efe5d1636b9471effd2d3cbc8894ca73a67a4ff0b1ec088ac8717ee7b8105843",
+   "ko": "파괴로보를 쓰러뜨린 데몬베인이 다시 우리 쪽을 향했다."
+  },
+  {
+   "id": "da0202:T00003",
+   "source_sha256": "b9586bb3a473015f81e58aa3f4d5d6645a4f61a5e12a939b4e841c4b0c297121",
+   "ko": "아까 싸우는 방식을 보고 확신했다."
+  },
+  {
+   "id": "da0202:T00004",
+   "source_sha256": "02bc26d6e1511e4bdbd07f338f96a5da44a7d86b1407aca7fad39aeb19b6df4b",
+   "ko": "인정하고 싶지 않은 사실이지만…… 이 녀석은 틀림없는 데몬베인이다."
+  },
+  {
+   "id": "da0202:T00005",
+   "source_sha256": "5a625f938317db1942710cc82e407f7e0c0e36ff6d3b7cacc1dc65e0ac0a3a38",
+   "ko": "「새삼스럽게, 처음 뵙겠어요.\n　다이쥬지 쿠로 님과 알 아지프 님.\n　만나 뵙게 되어 무척 영광이야」"
+  },
+  {
+   "id": "da0202:T00006",
+   "source_sha256": "896fb3a3d03f579612c45fabe912aaa7857e17c56c2b8807d3ed1beaea710186",
+   "ko": "다시 소녀의 목소리가 울려 퍼진다."
+  },
+  {
+   "id": "da0202:T00007",
+   "source_sha256": "3ac05585934486bc3ac3e1c44763394a6859ebf7bdf7ae23a9a271fb23e02b55",
+   "ko": "조금 새침하고 조숙한 느낌의 말투."
+  },
+  {
+   "id": "da0202:T00008",
+   "source_sha256": "ff9df2cae04493ac7d1d158f643ec429cf06dbf8aaf57eda10b71606604bca26",
+   "ko": "그 순진무구함이 오히려 섬뜩했다."
+  },
+  {
+   "id": "da0202:T00009",
+   "source_sha256": "3c44d1e4cf8753313334c3dec8bfbe3f2fa0dc1636f520fdaf156304d941f1ed",
+   "ko": "「……네 녀석이 피의 괴물 놈들의 우두머리냐?」"
+  },
+  {
+   "id": "da0202:T00010",
+   "source_sha256": "2f6fca60bdcbc2f1f5694b92d1ad02ae477a9a6cac0acdaae47a237cc19bd6bf",
+   "ko": "「괴물이라니 너무해.\n　좀 더 귀여운 호칭은 없는 걸까?」"
+  },
+  {
+   "id": "da0202:T00011",
+   "source_sha256": "4c9a7b5b15f8ee8be3aba61397cf4926ebd30fbbbaafa8f5d5b48ed11b1ba2c1",
+   "ko": "「존재할 리 없는 안티크로스.\n　그리고 데몬베인!\n　――"
+  },
+  {
+   "id": "da0202:R00001",
+   "source_sha256": "30decdf4274513937a5295af56ea082925e2c003e616f76156e9dec43f9164c6",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0202:T00012",
+   "source_sha256": "8c82875ab04265373825b1b25efcc5850926815c50b871a69e755a6caf326685",
+   "ko": "그대"
+  },
+  {
+   "id": "da0202:T00013",
+   "source_sha256": "c98d3d186fce778bfbca761cc5ca8e28b5e3136c3eb69fb083884fd5866bec00",
+   "ko": "는 정체가 무엇이냐!」"
+  },
+  {
+   "id": "da0202:T00014",
+   "source_sha256": "d02be63c6cde512a17caa8fe84d0a40fa4f1587e31aec54b6dc88546af3180a1",
+   "ko": "「모르겠어? "
+  },
+  {
+   "id": "da0202:R00002",
+   "source_sha256": "5173003fa580a2db58f9eb1071a070c2bf5ff385b83db86aabd9b036ea9ecee4",
+   "ko": "・・・・・・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0202:T00015",
+   "source_sha256": "0184950a97914e5ad28a3daf6bdc315aa1ea0725ac1113ae992d3779cd245073",
+   "ko": "당신과 동질의 존재야"
+  },
+  {
+   "id": "da0202:T00016",
+   "source_sha256": "d93a835d0f2787bcb1a759ad3a1b8fbea56d742d0b99720dbbb9ea8ace1926f8",
+   "ko": "」"
+  },
+  {
+   "id": "da0202:T00017",
+   "source_sha256": "a19cbb178f939bd9a5d557b9774de26b0558688ee0168a098c25c029fb2e741e",
+   "ko": "「뭐라?」"
+  },
+  {
+   "id": "da0202:T00018",
+   "source_sha256": "6c22c3a496871f586a11a897e77b66dac6149c0b125dbd23c35b71cf9818b3d2",
+   "ko": "「나는―― 『네크로노미콘』.\n　외도의 지식을 집대성한 것.\n　당신의 "
+  },
+  {
+   "id": "da0202:R00003",
+   "source_sha256": "e5ea407477f834a5b56bac957fe404d202680ae7f93fb46b8e6698aa8168d90e",
+   "ko": "복사본",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0202:T00019",
+   "source_sha256": "9d73e1a835ba58111e009c8c636f364ffa12eedd647c25a0c0750ed20b267054",
+   "ko": "사본"
+  },
+  {
+   "id": "da0202:T00020",
+   "source_sha256": "75b1c3a8d89641a3ee0ad7cf7c3606aa8ab58547bc0bfb02cd6bc60bfcdf9bf0",
+   "ko": "이야…… "
+  },
+  {
+   "id": "da0202:R00004",
+   "source_sha256": "62f083b66f85bb7e91aeeefb564b5a6991560448a77d686a51788b9945d35e81",
+   "ko": "오리지널",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0202:T00021",
+   "source_sha256": "4da921e3249cf37f25e9927129f9bd2d5bb5d89489adb525d35aa2d7c84b9452",
+   "ko": "어머님"
+  },
+  {
+   "id": "da0202:T00022",
+   "source_sha256": "d93a835d0f2787bcb1a759ad3a1b8fbea56d742d0b99720dbbb9ea8ace1926f8",
+   "ko": "」"
+  },
+  {
+   "id": "da0202:T00023",
+   "source_sha256": "a5fa48d8d7d87e0e9e3ce63bee079278c159801578c648e6a19cf79165bb9594",
+   "ko": "「『네크로노미콘』이라고!?」"
+  },
+  {
+   "id": "da0202:T00024",
+   "source_sha256": "5e696371811a8b8b23f1ad51499421321769220ff056b541b3869086e60b94f7",
+   "ko": "「……"
+  },
+  {
+   "id": "da0202:R00005",
+   "source_sha256": "0cd7f7295dcb4889ae766e48ca91a49b3cbb9003920bfbefd6c4bfb38286c4f7",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0202:T00025",
+   "source_sha256": "a4655f8a49afccf41cefd45e5d143e42157e44d1b6c70e2ba96a3e11ce154d4c",
+   "ko": "헛소리"
+  },
+  {
+   "id": "da0202:T00026",
+   "source_sha256": "8b955bff0cc7d2cfd9cad71a007296d52ed65ed0131b29a90d78b97c1ef3b9b4",
+   "ko": "를. 그리스어판, 라틴어판, 불완전한 영어판…… 기계어판 따위의 변종도 있었다만. 그대처럼 뒤틀린 술식으로 엮인 사본 따위는 존재치 않는다」"
+  },
+  {
+   "id": "da0202:T00027",
+   "source_sha256": "d99d09a34d5b8ea051d59cad1b2135ae220104045feec66666f86cb3a17b650f",
+   "ko": "「그건 당연하지.\n　왜냐하면 나는…… "
+  },
+  {
+   "id": "da0202:R00006",
+   "source_sha256": "905b0efb2d86b7b8a5e1a663618fe8fda3615a10bcebe5973ba115f428f9c0e2",
+   "ko": "・・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0202:T00028",
+   "source_sha256": "4d2ad6d94cf8d685abdb6a30d1498d93d85eff63a46c0f36658b959af80f8cd9",
+   "ko": "존재하지 않는"
+  },
+  {
+   "id": "da0202:R00007",
+   "source_sha256": "2a21905f43e5a05954fb631dfc0cf38b1d8b25001f9ccedd80abcd27e88f6fb8",
+   "ko": "・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0202:T00029",
+   "source_sha256": "fe8a6cd9570c115539ef263a266df47c43cd11a755b189a0be06c8670de81426",
+   "ko": " 『책』"
+  },
+  {
+   "id": "da0202:T00030",
+   "source_sha256": "fed9ee044fe35b603a4c2753482fd6b6b868468097725e81adef65faa11920f4",
+   "ko": "인걸」"
+  },
+  {
+   "id": "da0202:T00031",
+   "source_sha256": "36bcac25903cc1d07e4756f159e8b63f1fd748760ee4c4427533403332fab9c6",
+   "ko": "「존재하지 않는……?」"
+  },
+  {
+   "id": "da0202:T00032",
+   "source_sha256": "de47c531e256d6359b9b034e7e34362fb2218d370679a97f841dde524c0c0fd3",
+   "ko": "존재하지 않는다―― 안티크로스처럼?"
+  },
+  {
+   "id": "da0202:T00033",
+   "source_sha256": "ed96aa7e4b2dbeb72c1a9ae978b77920183e93a9ae4b769bb4e68f865d00d552",
+   "ko": "「나는 태어나지 못한 "
+  },
+  {
+   "id": "da0202:R00008",
+   "source_sha256": "3076ec2d0dc6b57095f184f9c08f5db27e2479f249e33589283fe643aae40a57",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0202:T00034",
+   "source_sha256": "45bc77bc1c58d0449b9b35c54ff8883e3b1389eee3e04e4dd1300a5632ec46ca",
+   "ko": "생명"
+  },
+  {
+   "id": "da0202:T00035",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  },
+  {
+   "id": "da0202:T00036",
+   "source_sha256": "f924ad6dabc8d0af66878b839bc8c67a9e4acd86778076616c66c21d851a115b",
+   "ko": "나는 바라는 이 없는 "
+  },
+  {
+   "id": "da0202:T00037",
+   "source_sha256": "45bc77bc1c58d0449b9b35c54ff8883e3b1389eee3e04e4dd1300a5632ec46ca",
+   "ko": "생명"
+  },
+  {
+   "id": "da0202:T00038",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  },
+  {
+   "id": "da0202:T00039",
+   "source_sha256": "d485b73decf143212abf0de848f43434db58257509b8a8a67ae2c834b0c90e87",
+   "ko": "나는 "
+  },
+  {
+   "id": "da0202:R00009",
+   "source_sha256": "33be91faf8ad1575e617a6fe3bd8f075e1302a1fdcac31d26c3f743aa70add8c",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0202:T00040",
+   "source_sha256": "a9bbb73ea71719a9a56f66ac4f48789b51943e68fa63ae4d4214bc8879ef6c76",
+   "ko": "저주"
+  },
+  {
+   "id": "da0202:T00041",
+   "source_sha256": "7febedce03bba1749602dbfd5109277061b93f42307572f6d22483a97364fd12",
+   "ko": "를 피에 품은 『책』."
+  },
+  {
+   "id": "da0202:T00042",
+   "source_sha256": "6f6dbc3506e8b3c37ae818d8ab3136a2f31fde55a53e5c2ace71678dc1162b67",
+   "ko": "나는 원망으로 엮인 이야기."
+  },
+  {
+   "id": "da0202:T00043",
+   "source_sha256": "a876b9d3716fffde300c5292bc5fe6ff19dfd5c17344a58c94e7e0e553da5c86",
+   "ko": " 나는――」"
+  },
+  {
+   "id": "da0202:T00044",
+   "source_sha256": "daeef692ca8bcd76b9df569b0af7287143861cf336e5defa199fd0482b15cb41",
+   "ko": "「네크로노미콘 혈액언어판」"
+  },
+  {
+   "id": "da0202:T00045",
+   "source_sha256": "5885cbd9ce6db2609593c4b0aba37a936af89bbc92ccd0aa4b6d452a055983f8",
+   "ko": "「혈액…… 언어?」"
+  },
+  {
+   "id": "da0202:T00046",
+   "source_sha256": "0c1bd5152b182262b1bcf8707edc040514b7f7f9164d2f721d713e454253eb0c",
+   "ko": "「뭐냐, 그것은?"
+  },
+  {
+   "id": "da0202:R00010",
+   "source_sha256": "b8335796c737135ddc329d328796fd632309743d7bb776d9e981c25876bc61f9",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0202:T00047",
+   "source_sha256": "edca73adc7220a79b08f0adb86cbc2075facd277d1bc9534d9c4500f17eb3f20",
+   "ko": "수작"
+  },
+  {
+   "id": "da0202:T00048",
+   "source_sha256": "7ef49b7ca3ac53eb5129da8c3d7152d5df9b7827680c10e19712ef319c9a7c34",
+   "ko": "을 부리는 것이냐」"
+  },
+  {
+   "id": "da0202:T00049",
+   "source_sha256": "751b22bb1beda07775d8bd9cb83e115729375edead49ac46b96ca25dbc44b6f1",
+   "ko": "「이해하지 못해도 어쩔 수 없어.\n　이해해 줄 필요도 없지만」"
+  },
+  {
+   "id": "da0202:T00050",
+   "source_sha256": "50dd07764da184d125fe4756ec5f9c656501675ffd70e887e1632c16b99cc9c4",
+   "ko": "「……그런가. 그렇다면 이 어릿광대놀음,\n　끝내 주마」"
+  },
+  {
+   "id": "da0202:T00051",
+   "source_sha256": "6e5086293cf055f949117f41f9fa822ee73dbb6f51592304d4c9436844471ac9",
+   "ko": "「간다, 쿠로! 저 천박한 것을\n　데몬베인에서 끌어내려라!」"
+  },
+  {
+   "id": "da0202:T00052",
+   "source_sha256": "a494641b46570f89d996f1998d584059986d185ec3fb3ddf2caf714fc991ca08",
+   "ko": "「……알」\n\n　원래 성미가 불같은 녀석이지만, 이토록 진심으로 분노하는 알은\n오랜만이다.\n\n　하지만 그 심정은 뼈저리게 이해한다."
+  },
+  {
+   "id": "da0202:T00053",
+   "source_sha256": "62396650121924fe2807d4e61ad62f08ff8b4dcf737327d82b3a65b35ecfe872",
+   "ko": " 나이기 때문에 이해한다."
+  },
+  {
+   "id": "da0202:T00054",
+   "source_sha256": "664219e443ea70a2ce41fec98ac23992455283b9d3c5ef013bd5af10af56f5a4",
+   "ko": "데몬베인은 우리에게 둘도 없는 전우였다."
+  },
+  {
+   "id": "da0202:T00055",
+   "source_sha256": "870b56472d0511fcecb93d3476e285c028af45a9eb5a1ce51b7ebf55c3dc9035",
+   "ko": "반신과도 같은 존재……라고 해도 과언이 아닐 것이다.\n\n　길고 긴―― 시간에서조차 소실된 싸움을 거쳐, 마침내 그 소임을 다한 데몬베인."
+  },
+  {
+   "id": "da0202:T00056",
+   "source_sha256": "631e729b35c9fd9af7454401f04f3f68a2e606c395146cb6de70bdb2b55269b8",
+   "ko": "그 싸움을 "
+  },
+  {
+   "id": "da0202:R00011",
+   "source_sha256": "9a5091e227e390ae9d7166cc682cba12fce70a91136bc7b3935e4fcc9832d974",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0202:T00057",
+   "source_sha256": "dcd513c15472014280ec703fc5ac1cee18ef00314197cd5db3387d1564a16850",
+   "ko": "더럽히"
+  },
+  {
+   "id": "da0202:T00058",
+   "source_sha256": "6efeb11e29a04afda42dbb20cded6e964f1cb8a047a0637d49243a63732594a5",
+   "ko": "는 이 피의 괴물을 "
+  },
+  {
+   "id": "da0202:R00012",
+   "source_sha256": "8b4bb22cdcfec81ffdbc10d27ecddbab4261e70c83ce5a8f7520efaffb29ade1",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0202:T00059",
+   "source_sha256": "ab5b1025a18612c4227bf3755a9c6fbb749bd35fc1965d29a736cf287f7a5bc6",
+   "ko": "용서"
+  },
+  {
+   "id": "da0202:T00060",
+   "source_sha256": "e8e1e7e91d6286c06360378595407045618db9007eb945b5c1b1e66efe33948a",
+   "ko": "할 수 없는 것이다."
+  },
+  {
+   "id": "da0202:T00061",
+   "source_sha256": "26a337d9dd2c6f60360ac0196cc8cf67f9b24681154afc268cc6cf9120607c24",
+   "ko": "그 마음은 나도 마찬가지다."
+  },
+  {
+   "id": "da0202:T00062",
+   "source_sha256": "3fa15a46e02f0568f4a1c85956af915453858602bd16a0f73e3e9b0456007080",
+   "ko": "「어머? 놀아 주려는 걸까?」"
+  },
+  {
+   "id": "da0202:T00063",
+   "source_sha256": "2106dadc15984efd92636d1caeec36bafc04105dc1145579ca1476d382848cc2",
+   "ko": "「그 기체는 네 녀석한테는 분수에 안 맞아……\n　지금 당장 벗겨 내 주마!」"
+  },
+  {
+   "id": "da0202:T00064",
+   "source_sha256": "173694e3feac04de3c620866b9c227572ff5df3c9e93509dacccbd4fbaece8a3",
+   "ko": "「맨몸으로 이 아이에게 덤비는 거야?"
+  },
+  {
+   "id": "da0202:T00065",
+   "source_sha256": "5de064aab139b4161b9e439dd158e670f0c837956bf2ea3792c9dab654c8f030",
+   "ko": "즐겁네."
+  },
+  {
+   "id": "da0202:T00066",
+   "source_sha256": "65e3226364664b6e8b159246e7a7e444459445809b1de7262077aadbe12d7e93",
+   "ko": "마치 마스터 테리온 같아」"
+  },
+  {
+   "id": "da0202:T00067",
+   "source_sha256": "4115cda472e97e31c64885e8decbb668161acdaba014c4d1d373ee42fdd4e5a6",
+   "ko": "「――윽!?」\n\n　마스터 테리온."
+  },
+  {
+   "id": "da0202:T00068",
+   "source_sha256": "fb2fa8ae4bd5b5e9086dcf62cae42f1a3b780bf9bb8183b7a4d206fc31f24195",
+   "ko": "잃어버린 시간과 세계에서 악의 마술결사 『블랙 로지』를\n이끌었던 "
+  },
+  {
+   "id": "da0202:R00013",
+   "source_sha256": "f5ebb01666e60671095276fa94753086c1c01a0a3cad55d577a397d0eab0210f",
+   "ko": "그랜드 마스터",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0202:T00069",
+   "source_sha256": "4b95b01e75d534eccb110f45125f2bcdc9a23e9705c67d6e8cafe3aefc367948",
+   "ko": "대도사"
+  },
+  {
+   "id": "da0202:T00070",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  },
+  {
+   "id": "da0202:T00071",
+   "source_sha256": "17c26b4f63001bd6bbe3d7b19dc5a9cab7291795ed0ec67ab7f5080dc8e5bec5",
+   "ko": "절망에 사로잡힌 금빛 마인.\n\n\n　그 강대한 마력을 품은 소년은 한 번 맨몸으로 데몬베인을 쓰러뜨린 적이 있다.\n\n\n　――역시 이 녀석은 나와 알밖에 기억하지 못하는 세계를 알고 있다!"
+  },
+  {
+   "id": "da0202:T00072",
+   "source_sha256": "a391437048dd17d34d9e5db25f5ff4afa4b92d6f2546d096df6e53eb681a87a3",
+   "ko": "「조금 세게 간다!」"
+  },
+  {
+   "id": "da0202:T00073",
+   "source_sha256": "7f655b6f7aa08344bd90a04c2774c5126a190f3fb78e3b4746dcef79d4d3cf61",
+   "ko": "「――쿠로!」"
+  },
+  {
+   "id": "da0202:T00074",
+   "source_sha256": "6a6397c118d79c23b9ef97d5228031d31506772f4be0d2341fca645c55bfc17c",
+   "ko": "대답보다 빠르게 비상."
+  },
+  {
+   "id": "da0202:T00075",
+   "source_sha256": "b91602178bf59174f32b72bc0b3a301d9dd34860b2f43174689147ef00ae768e",
+   "ko": "방금 전까지 서 있던 장소는 붉은 폭발에 날아갔다.\n\n　폭풍은 피비린내를 머금고 있다."
+  },
+  {
+   "id": "da0202:T00076",
+   "source_sha256": "61b917a9fb1fbbece7aa0323c3146f09ce5842cd3823ebd7c643dcac3d13b38a",
+   "ko": " 혈풍이다."
+  },
+  {
+   "id": "da0202:T00077",
+   "source_sha256": "e6b12511244c6128166e01fd0f47c18d80980bb107e1dcf526f49a0447b92076",
+   "ko": "피가 터지며 대지를 도려낸 것이다."
+  },
+  {
+   "id": "da0202:T00078",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0202:R00014",
+   "source_sha256": "b38ec6cc283798bd0d3aff9b3db4335ceae90e03791727cb3a66345ac28b865f",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0202:T00079",
+   "source_sha256": "f39889aff480f48601159bb902fbbdfed6603d8a85c09e1c7511723e97ef3b0e",
+   "ko": "피의 칼날"
+  },
+  {
+   "id": "da0202:T00080",
+   "source_sha256": "72fb8025c8aebf5793ea3139dcc0ab5d565b189cf0884e5d8b41ef8dcf161953",
+   "ko": "을 날린다, 끊어라」"
+  },
+  {
+   "id": "da0202:T00081",
+   "source_sha256": "fd5aec1947888ffdfaca3746dc0bb5265422c434ccb19d79888acc62d9efc3d2",
+   "ko": "데몬베인이 내민 손바닥 전방, 어디선가 뿜어져 나온\n혈풍이 모인다.\n\n　혈풍은 두께를 얻고 질량을 얻어, "
+  },
+  {
+   "id": "da0202:R00015",
+   "source_sha256": "a14f9355ff5bc703aa175f8a795fc49676901e44794150841f01dd2067dea8c3",
+   "ko": "루비",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0202:T00082",
+   "source_sha256": "1bf5b451af8d5132a4d70302a00a2529edad253128ff6f3438f9f64b2cb9fca8",
+   "ko": "홍옥"
+  },
+  {
+   "id": "da0202:T00083",
+   "source_sha256": "750b7ce15b3dd3e5fb9d2ecc4e5b8b950963b18df8714ecc05bd420e3ef5b4d8",
+   "ko": "의 빛을 띤 거대한 칼날로\n변했다.\n\n　기체/액체/고체, 실체/비실체의 경계를 끊임없이 오가는,"
+  },
+  {
+   "id": "da0202:R00016",
+   "source_sha256": "86261182463e378d15e8042a7b1d817137521eb7f87e108cf6e2bbf1ef1ac6cf",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0202:T00084",
+   "source_sha256": "3030235d7d109b93f1d76328981e54b2760dd9d3394bd0e6eb93e40825f52a1f",
+   "ko": "일렁"
+  },
+  {
+   "id": "da0202:T00085",
+   "source_sha256": "6a3e6eb4053285599d313d3666ff12b1caefb5a6ced8b0b1494757ea08f89733",
+   "ko": "이는 피의 칼날을 데몬베인이 내리친다."
+  },
+  {
+   "id": "da0202:T00086",
+   "source_sha256": "8ce99e4dd4ac9e4df5c68953bfc91f215229a72de4e4b6be389b31600d939966",
+   "ko": "칼날은 내 몸을 스치며 등 뒤에 있는 거리 풍경을 일도양단."
+  },
+  {
+   "id": "da0202:T00087",
+   "source_sha256": "b78daa499b041b41183e8229cc40fcdf03854e07187d6c1854f221f10e4bdd72",
+   "ko": "부서져 날아가는 빌딩군이 잔해의 비가 되어 쏟아져 내린다.\n\n　나 또한 검압에 튕겨 나가 검풍에 휩쓸려 솟구친다."
+  },
+  {
+   "id": "da0202:T00088",
+   "source_sha256": "c2a9dc10a28ffaf76200cd8450b3c4ef442e7f450dcf0a1a0743ce7d7c70246d",
+   "ko": "어떻게든 자세를 바로잡았지만, 틈을 두지 않고 2격째가 덮쳐 온다."
+  },
+  {
+   "id": "da0202:T00089",
+   "source_sha256": "e62355b98b4979af19fca6dc1dbde14ed5d911091df7ac7e51b115e2da709440",
+   "ko": "「아직 안 끝났어!」"
+  },
+  {
+   "id": "da0202:T00090",
+   "source_sha256": "28c70991d725efe31821f2d8331e25a832a43cc099016e731c1f6127810965d3",
+   "ko": "「크아아아아!」"
+  },
+  {
+   "id": "da0202:T00091",
+   "source_sha256": "c710059d2fcf054dc19387e94ba11d28ec557c17a8966812fa6a69cde948c22b",
+   "ko": "가로베는 일격."
+  },
+  {
+   "id": "da0202:T00092",
+   "source_sha256": "4cb4dc68492c478f03005ed9aadd467b28aff814abd4a1b03ff9f5a32fa3d5ff",
+   "ko": "붉은 참격이 스쳐 지나가며 거리 풍경이 부서진다."
+  },
+  {
+   "id": "da0202:T00093",
+   "source_sha256": "6ed4ca4a6c5b4e086d373bdc3d5a4c526cdf228f987d934c300e37ee31eb939f",
+   "ko": "이어서 참격. 참격. 참격."
+  },
+  {
+   "id": "da0202:T00094",
+   "source_sha256": "12847b44e93750ea918c0b79a472b3bd4788523d4ebd25b2b160186e77c83c33",
+   "ko": "「……강철의 거인」"
+  },
+  {
+   "id": "da0202:T00095",
+   "source_sha256": "0698d5d4e0b5c532c9bc53e3b0d459615c7a8e6a25b0a93832f50536dbadff53",
+   "ko": "「어찌 이토록 무시무시한……」"
+  },
+  {
+   "id": "da0202:T00096",
+   "source_sha256": "b1846b09975080b5e47edf774279dfc580e00dd47155658d72ddd9a57b01f67f",
+   "ko": "「무엇인가요…… 저것은?」"
+  },
+  {
+   "id": "da0202:T00097",
+   "source_sha256": "4e46100a285dee6ac8cbd0d1df1c44f6679e40406c2b133b26fc884f00664002",
+   "ko": null,
+   "record_action": "preserve_source_bytes"
+  },
+  {
+   "id": "da0202:T00098",
+   "source_sha256": "ec4a213f0296895c3f1cf106ec737f90f3175dbe18eee5b7b583a2c5e993f0f3",
+   "ko": "「대체 무엇인가요!?\n　저…… 저 "
+  },
+  {
+   "id": "da0202:R00017",
+   "source_sha256": "b750c2ece644240b0f8e138a0602b89062dcd4cb934044a963e76bf34670b76d",
+   "ko": "・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0202:T00099",
+   "source_sha256": "cd9e25d7181e248f659fbb741a3994e9b108a93f7eba0485f01263c78b793428",
+   "ko": "괴물"
+  },
+  {
+   "id": "da0202:T00100",
+   "source_sha256": "f4f74fbab0625d325200f6c5fca8fc5991008c4b552e8f0dbdb7b8d3182b07b0",
+   "ko": "은!?」"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0202:R00001",
+   "kind": "omit_redundant",
+   "note": "汝(な)의 훈독 발음 안내로 한국어 '그대'로 번역되어 omit_redundant 제안."
+  },
+  {
+   "id": "da0202:R00005",
+   "kind": "omit_redundant",
+   "note": "戯言(ざれごと)의 훈독 발음 안내로 한국어 '헛소리'에 반영되어 omit_redundant 제안."
+  },
+  {
+   "id": "da0202:R00008",
+   "kind": "ruby_reading",
+   "note": "生命(생명)에 いのち 독음이 지정되어 있으나 한국어 번역은 둘 다 '생명/목숨' 범주이므로 루비 유지."
+  },
+  {
+   "id": "da0202:R00010",
+   "kind": "omit_redundant",
+   "note": "巫山戯(ふざけ)의 훈독 발음 안내로 한국어 본문에 반영되어 omit_redundant 제안."
+  },
+  {
+   "id": "da0202:R00011",
+   "kind": "omit_redundant",
+   "note": "穢(けが)す의 훈독 발음 안내로 한국어 '더럽히는'에 반영되어 omit_redundant 제안."
+  },
+  {
+   "id": "da0202:R00012",
+   "kind": "omit_redundant",
+   "note": "赦(ゆる)せない의 훈독 발음 안내로 한국어 '용서할'에 반영되어 omit_redundant 제안."
+  },
+  {
+   "id": "da0202:R00014",
+   "kind": "omit_redundant",
+   "note": "血刃(けつじん)의 단순 한자 독음 안내로 한국어 '혈인'과 중복되어 omit_redundant 제안."
+  },
+  {
+   "id": "da0202:R00016",
+   "kind": "omit_redundant",
+   "note": "幽(ゆら)めく의 훈독 발음 안내로 한국어 '일렁이는'에 반영되어 omit_redundant 제안."
+  },
+  {
+   "id": "da0202:T00097",
+   "kind": "source_corruption",
+   "note": "원문 보존본 A의 da0202.nps 350행, 413행, 447행에서 '<SE ID=\"1\" SRC=\"seロボ特殊_汎用斬撃命中飛翔 MODE=\"normal\" ...>'와 같이 SRC 속성 닫는 따옴표가 누락되어 파서가 447행의 SE 태그를 일반 텍스트 세그먼트(da0202:T00097)로 추출함. 반환 텍스트에 게임 엔진 태그(<...>)를 넣는 것이 금지되어 있으므로 중립 기호('……')로 대체하고 원문 태그 손상을 보고함."
+  },
+  {
+   "id": "da0202:T00097",
+   "kind": "protected_engine_command",
+   "note": "원본 추출기에서 텍스트로 오분류된 엔진 명령. ko는 null이며 번역 삽입 대상에서 제외한다. contracts/contract.json의 원본 바이트 구간과 해시를 보존해야 한다."
+  },
+  {
+   "id": "da0202:R00009",
+   "kind": "ruby_decision",
+   "note": "呪詛〈ノロイ〉: a1이 본문 '주저'를 '저주'로 고쳐 읽기와 겹침. 루비 생략"
+  }
+ ]
+}

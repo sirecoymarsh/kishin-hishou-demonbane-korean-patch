@@ -1,0 +1,244 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0073_da0702",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0702:T00114",
+   "source_sha256": "cc97f02b8dcc75745de436c319ebc22ef13a09d01bbe0599548f5db650731c01",
+   "ko": "「……역시나인가」\n\n　진홍의 소녀."
+  },
+  {
+   "id": "da0702:T00115",
+   "source_sha256": "71393e61e15ed613c55bfc27714b008deb83d931f0952698f10c62fb7b4aebc2",
+   "ko": "『네크로노미콘 혈액언어판』."
+  },
+  {
+   "id": "da0702:T00116",
+   "source_sha256": "e56c5e72157f7c5f1b35cbf727b1488c78367aabd8ccddc5a1e8b874ddf84934",
+   "ko": "역시 그 녀석을 어떻게든 해야만 하는 모양이다."
+  },
+  {
+   "id": "da0702:T00117",
+   "source_sha256": "4a426c7a4c82421c4ff4135a43d4f280f3412885c2135bb10552b0e7a9b7abf1",
+   "ko": "「어차피 피해 갈 수 없는 적이다」"
+  },
+  {
+   "id": "da0702:T00118",
+   "source_sha256": "20df11fb2252ee0d6d15c170bfbb462c729c0725f78ad1e49a6a3e76fbc265c0",
+   "ko": "「……그렇군」"
+  },
+  {
+   "id": "da0702:T00119",
+   "source_sha256": "90011b170d734015169c3a28acdaad06ad33d5f79a1a465610d05d8ed58f5551",
+   "ko": "「다만 주의해 주세요. 침공은 멈춰 있지만, 지금도 "
+  },
+  {
+   "id": "da0702:R00014",
+   "source_sha256": "e044a46d6095b6710697e40f22b82795ab29b4a1f1b64275c79b6d78b01db222",
+   "ko": "바이러스는",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0702:T00120",
+   "source_sha256": "a5dea466dc729992e9c0ea352a298a629fe67aaeceacbd4affd80dc21e7cfc8b",
+   "ko": "주독은"
+  },
+  {
+   "id": "da0702:T00121",
+   "source_sha256": "4b40b356f5e17e27e179a567f585f992c0d82b7b6ea76e202c36b796892dbd41",
+   "ko": " 『알 아지프』에게 큰 부담을 주고 있습니다.\n　무리는 금물입니다」"
+  },
+  {
+   "id": "da0702:T00122",
+   "source_sha256": "ac1d2bf6abe07e1e651638c11670d3c7207768a724738906a57b2b1b0697a158",
+   "ko": "「그래, 알고 있어」"
+  },
+  {
+   "id": "da0702:T00123",
+   "source_sha256": "6810ed41e2a443c23ba84f28bf1bae149072963c79b9cb9629318399c322f8e9",
+   "ko": "「……미안하구나. 이 몸이 못난 탓에」"
+  },
+  {
+   "id": "da0702:T00124",
+   "source_sha256": "62a6aa5f8bcd987cc7dbcb14daebb3cb36293f3372d89d3def5cc3829a9f34de",
+   "ko": "「기특하게 구는 네 녀석은 모독적으로 기분 나쁘니까 그만둬」"
+  },
+  {
+   "id": "da0702:T00125",
+   "source_sha256": "595f91ce4ded8083016a6196a556cdce8269f67d5df7876d3a23ed02e253849b",
+   "ko": "「네 이놈」"
+  },
+  {
+   "id": "da0702:T00126",
+   "source_sha256": "6502e0a20fe0591424726b7c691cf9710c592217a167c9a099437a87fca068be",
+   "ko": "「테케리・리」"
+  },
+  {
+   "id": "da0702:T00127",
+   "source_sha256": "50ca33f7a42d0e4ae1d0b1e1781d9d6a0a00246df2f5ae6917a10c21ed662e29",
+   "ko": "「……참 나. 뭘 새삼스럽게 그래」\n\n　한숨을 내쉬며 알의 머리를 난폭하게 쓰다듬는다."
+  },
+  {
+   "id": "da0702:T00128",
+   "source_sha256": "7bc20a585a0d892048fefa52f385e42688c059b86eba88175a159ea669a4ea3c",
+   "ko": "성가시다는 듯 얼굴을 "
+  },
+  {
+   "id": "da0702:R00015",
+   "source_sha256": "4d94a06988a6df34b9e51316836e4d4f0155a395a76f78c6169383d6009b464c",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0702:T00129",
+   "source_sha256": "c7075ebb8a17489e7aaa2d48a660811c75a5044e5c63762b89d8000c82823f2c",
+   "ko": "찌푸"
+  },
+  {
+   "id": "da0702:T00130",
+   "source_sha256": "c093c3f39bd821484988cfb9ab112204784651a746f4b6d9789b7efa4e77fb1c",
+   "ko": "리는 알."
+  },
+  {
+   "id": "da0702:T00131",
+   "source_sha256": "7aeec253fd6967451b021c7cdfe50088830f1344ae16133d98efa2b5b6ee5389",
+   "ko": "하지만 저항하지는 않는다."
+  },
+  {
+   "id": "da0702:T00132",
+   "source_sha256": "f63e338a9fae446f20ae3d105f2318d7c4d921eff8749a1d9931f4bd94dd5f65",
+   "ko": "「…………」"
+  },
+  {
+   "id": "da0702:T00133",
+   "source_sha256": "64bddc8ca89b5ede4d1d66acfd9f4108c04f6f0717062437ba7a28de8ec96ae6",
+   "ko": "「폐 끼치는 건 어제오늘 일이 아니잖아.\n　늘 있는 일이다, 바보 녀석」"
+  },
+  {
+   "id": "da0702:T00134",
+   "source_sha256": "65c2e50e6e291c8d4eba0327049fb709e6190f51c2da1935f051edfc1729bb4f",
+   "ko": "「……으으으」"
+  },
+  {
+   "id": "da0702:T00135",
+   "source_sha256": "8d15082fcf77ad048d416831bb80c80ebb0d5cf69313af05edc8c81dd6b494be",
+   "ko": "「이런 걸로 서로 신경 써 줄 만큼 얌전한 사이냐, 우리가?\n　뻔뻔하게 굴어라, 평소처럼」"
+  },
+  {
+   "id": "da0702:T00136",
+   "source_sha256": "7d0ef3ad34d46085601adc224ec97c703572e4a9d92b52e15bff5e2446efb83a",
+   "ko": "「음…… 알았다」"
+  },
+  {
+   "id": "da0702:T00137",
+   "source_sha256": "f0b9c375a2361e6a42faa0550be917835d49f516f9180107a170b245bc752f8e",
+   "ko": "그제야 안심한 듯 미소 짓는 알."
+  },
+  {
+   "id": "da0702:T00138",
+   "source_sha256": "719d0dc85b0e57331811f5d6171911281383bfd361111f6dd09a9a0e9b500125",
+   "ko": "그런 우리의 모습을 보고 선생 일행이 쓴웃음을 짓는다.\n\n　뭐, 이런 거지."
+  },
+  {
+   "id": "da0702:T00139",
+   "source_sha256": "26f0af1861116bafe99e72ce651572b8ee4b81887db60b5715a87e45f8185359",
+   "ko": "사신 상대의 싸움에서도 "
+  },
+  {
+   "id": "da0702:R00016",
+   "source_sha256": "92e9729e7ba79ef8ec0750664643548c1f13e3666d6032b8128b1f33cee9dcce",
+   "ko": "시리어스",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0702:T00140",
+   "source_sha256": "841e19290f9ad9f32d532aba67c484256c01cceedafc9bd68c0c86b9391902dd",
+   "ko": "심각"
+  },
+  {
+   "id": "da0702:T00141",
+   "source_sha256": "efcca79035c6920cc74aaaf1017c0d510da6e6fbaa49df14372ce5fe13897b53",
+   "ko": "해지지 못하는 우리다.\n\n　이 분위기는 이제 바꿀 도리가 없다."
+  },
+  {
+   "id": "da0702:R00017",
+   "source_sha256": "2be13e2cf39eaf5109e52e326b527922176e6558356307896e6d7f06856e794e",
+   "ko": "해피",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0702:T00142",
+   "source_sha256": "ec6dc17cddb90e1c7273c64b6454005041fc26ff492f27bb5f56fb7b8977b3be",
+   "ko": "낙천주의"
+  },
+  {
+   "id": "da0702:T00143",
+   "source_sha256": "7f15ea3821da4908d34fab0d60505834ec9665d240ba7ec398d4c146c814d33f",
+   "ko": " & "
+  },
+  {
+   "id": "da0702:R00018",
+   "source_sha256": "5bee1f879d37c1d36c957e16624a9031ed02b9ab6c8433af470a4136584fb51d",
+   "ko": "이지",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0702:T00144",
+   "source_sha256": "7eab796d9244bb5bebef95e96dfbc49d530e40595fadb3bb3272bd7546f959b6",
+   "ko": "편의주의"
+  },
+  {
+   "id": "da0702:T00145",
+   "source_sha256": "367f2f8b7b33f8bddc41f0485192d484b5f0c6f745705980b4e556be40b2fb3c",
+   "ko": "를 관철할 수밖에 없지."
+  },
+  {
+   "id": "da0702:T00146",
+   "source_sha256": "8efe34864d6ab1a414ffb3dcff16e52221a3c79b06fe530c949c93d1e30dd414",
+   "ko": "「어떻게든 될 거야…… 데몬베인과 모두가 있는 한은 말이지」\n\n　데몬베인과 함께 싸운 동료들."
+  },
+  {
+   "id": "da0702:T00147",
+   "source_sha256": "4c7eb7ee7b35b4db8c9a37ed972c1798e76915ee67f1f4d2447bb2d4ee287220",
+   "ko": "그것은 한때의 『유대』.\n\n　올바른 시간의 흐름 대신에 잃어버렸을 『유대』다."
+  },
+  {
+   "id": "da0702:T00148",
+   "source_sha256": "140401570720d8d7d689f9df9c9000c3da9d5c4a4348dd5602f60f147ce6e745",
+   "ko": "이만한 올캐스트 총출동이다."
+  },
+  {
+   "id": "da0702:T00149",
+   "source_sha256": "db20c39878faa4dbf161fc63cb97ebc7418c4db10307332dc0ac0eaec5cfce23",
+   "ko": "질 도리가 보이지 않는다.\n\n　……『유대』라.\n\n　마음에 걸리는 것도 있다."
+  },
+  {
+   "id": "da0702:T00150",
+   "source_sha256": "cee1370a9edfa1b6c9e6511e36145c4e7ba2fcbb0dce788715bb463c8144fae2",
+   "ko": "내가 모르는 사람들…… 아즈랏드는 과거의 마스터 오브 네크로노미콘이니까 그렇다 쳐도, 또 한 사람――그의 정체만은 아직도 불명인 것이다."
+  },
+  {
+   "id": "da0702:T00151",
+   "source_sha256": "9b5c88cabf3eeebdefdcd59f1ed708bc025e553641468ac1eb0bd0bc34c25337",
+   "ko": "(쿠자쿠……인가)\n\n　그 소년이 이번 사건에\n　크게 관여하고 있는 것은 틀림없다――."
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0702:R00015",
+   "kind": "ruby_decision",
+   "note": "Omitted standard kun'yomi reading ひそ for 顰."
+  },
+  {
+   "id": "da0702:T00150",
+   "kind": "glossary_candidate",
+   "note": "Used provisional glossary target 아즈랏드 for アズラッド."
+  },
+  {
+   "id": "da0702:T00151",
+   "kind": "glossary_candidate",
+   "note": "Used provisional glossary target 쿠자쿠 for 九朔."
+  }
+ ]
+}

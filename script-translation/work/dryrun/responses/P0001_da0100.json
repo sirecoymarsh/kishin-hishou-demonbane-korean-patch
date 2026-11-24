@@ -1,0 +1,60 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0001_da0100",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0100:T00001",
+   "source_sha256": "01c7c7abf6985383467986ec2255c86155660ab57291668dc3453e5aaf76bf57",
+   "ko": "「「추락해라아아아아!　데몬베인!」」"
+  },
+  {
+   "id": "da0100:T00002",
+   "source_sha256": "6fbd7f45ab59de4d4c63b351d03e3500f9ef10117b5f677071d0067a35c56ea7",
+   "ko": "「네놈도 길동무다아아아아아!」"
+  },
+  {
+   "id": "da0100:T00003",
+   "source_sha256": "706735d82f4efefcd9cf83d0b58f61898b5e4b39c47c04035b7998db846f2e3f",
+   "ko": "이 또한, 하나의 세계이자 이야기."
+  },
+  {
+   "id": "da0100:T00004",
+   "source_sha256": "57cbd5757e0a23a97bff618057c5357212806ceb92b9a6caa61df256f1fe30c0",
+   "ko": "신이 "
+  },
+  {
+   "id": "da0100:R00001",
+   "source_sha256": "00215ef31df725f9bc09ad69205c885dd4d1806f05e2710ec1f0aeb9dbe2e6e2",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0100:T00005",
+   "source_sha256": "7d6739abb05e10909ca875067193a47f1487787349e58f840f46dcfff361d228",
+   "ko": "희롱하"
+  },
+  {
+   "id": "da0100:T00006",
+   "source_sha256": "fc91fd934a87cae6e4bdf03a34d2699add649f0914e82d249decd6dbb5b58012",
+   "ko": "는 무한나선은 부서져 깨지고――"
+  },
+  {
+   "id": "da0100:T00007",
+   "source_sha256": "30cf6cf5b70ee9d63c5635269fe74632eac2830d83341fb4108ba95b6353c7f8",
+   "ko": "세계는 다시금, 미래를 향해 움직이기 시작한다."
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0100:T00001",
+   "kind": "speaker_inference",
+   "note": "원문 VOICE 태그는 단일 화자(テリオン)로 지정되어 있으나, 대사 텍스트가 겹낫표(「「...」」)로 표기된 동시 발화(마스터 테리온 및 에셀드레이다 추정)이므로 원문 겹낫표 구조를 그대로 유지함."
+  },
+  {
+   "id": "da0100:R00001",
+   "kind": "ruby_decision",
+   "note": "원문 '玩(もてあそ)ぶ'의 루비 'もてあそ'는 한자 '玩'의 단순 훈독 발음 안내이며, 본문(da0100:T00005)을 '희롱하(는)'로 번역함에 따라 의미가 온전히 전달되어 별도 루비 표기가 불필요하므로 omit_redundant 처리함."
+  }
+ ]
+}

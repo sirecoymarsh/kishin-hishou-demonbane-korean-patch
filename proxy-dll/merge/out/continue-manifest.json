@@ -1,0 +1,536 @@
+{
+  "base": "argon script.pak 8c8979b2ec2345fa",
+  "changed_scripts": [
+    "script\\da0100.nps",
+    "script\\da0205.nps",
+    "script\\da0314.nps",
+    "script\\da0407.nps",
+    "script\\da0506.nps",
+    "script\\da0606.nps",
+    "script\\da0710.nps",
+    "script\\da0803.nps",
+    "script\\da0902.nps",
+    "script\\da1002.nps",
+    "script\\da1102.nps",
+    "script\\da1204.nps",
+    "script\\da1320.nps",
+    "script\\da1401.nps"
+  ],
+  "voices": [
+    {
+      "script": "script\\da0100.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー１\">",
+      "voice": "voice\\battle\\am\\dt17802.ogg",
+      "seconds": 0.0,
+      "wait_100ms": 1,
+      "old_tail": "\r　<k>\r\r",
+      "audio_found": false
+    },
+    {
+      "script": "script\\da0100.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー２\">",
+      "voice": "voice\\battle\\am\\01a_db24001.ogg",
+      "seconds": 3.906734693877551,
+      "wait_100ms": 41,
+      "old_tail": "\r　\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da0100.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー３\">",
+      "voice": "voice\\battle\\am\\01a_db24109.ogg",
+      "seconds": 7.666326530612245,
+      "wait_100ms": 78,
+      "old_tail": "\r　\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da0100.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー４\">",
+      "voice": "voice\\battle\\am\\01a_db24307.ogg",
+      "seconds": 7.51578231292517,
+      "wait_100ms": 77,
+      "old_tail": "\r　\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da0100.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー５\">",
+      "voice": "voice\\battle\\am\\01a_db24411.ogg",
+      "seconds": 10.08907029478458,
+      "wait_100ms": 102,
+      "old_tail": "\r　\r\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da0100.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー６\">",
+      "voice": "voice\\battle\\am\\01a_db24619.ogg",
+      "seconds": 8.224036281179139,
+      "wait_100ms": 84,
+      "old_tail": "\r　\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da0205.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー１\">",
+      "voice": "voice\\battle\\fm\\dt17802.ogg",
+      "seconds": 9.79297052154195,
+      "wait_100ms": 99,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da0205.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー２\">",
+      "voice": "voice\\battle\\fm\\02a_dt17925.ogg",
+      "seconds": 7.323764172335601,
+      "wait_100ms": 75,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da0205.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー３\">",
+      "voice": "voice\\battle\\fm\\02a_dt18000.ogg",
+      "seconds": 9.050249433106575,
+      "wait_100ms": 92,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da0205.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー４\">",
+      "voice": "voice\\battle\\fm\\02a_dt18303.ogg",
+      "seconds": 7.898027210884353,
+      "wait_100ms": 80,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da0314.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー１\">",
+      "voice": "voice\\battle\\fm\\dt17802.ogg",
+      "seconds": 9.79297052154195,
+      "wait_100ms": 99,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da0314.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー２\">",
+      "voice": "voice\\battle\\fm\\02a_dt17925.ogg",
+      "seconds": 7.323764172335601,
+      "wait_100ms": 75,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da0314.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー３\">",
+      "voice": "voice\\battle\\fm\\02a_dt18000.ogg",
+      "seconds": 9.050249433106575,
+      "wait_100ms": 92,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da0314.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー４\">",
+      "voice": "voice\\battle\\fm\\02a_dt18303.ogg",
+      "seconds": 7.898027210884353,
+      "wait_100ms": 80,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da0407.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー１\">",
+      "voice": "voice\\battle\\hm\\04_anb18504.ogg",
+      "seconds": 4.108367346938776,
+      "wait_100ms": 43,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da0407.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー２\">",
+      "voice": "voice\\battle\\hm\\04_anb18604.ogg",
+      "seconds": 3.390453514739229,
+      "wait_100ms": 35,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da0407.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー３\">",
+      "voice": "voice\\battle\\hm\\04_anb18705.ogg",
+      "seconds": 4.672857142857143,
+      "wait_100ms": 48,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da0506.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー１\">",
+      "voice": "voice\\battle\\em\\03_aio14201.ogg",
+      "seconds": 5.062834467120181,
+      "wait_100ms": 52,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da0506.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー２\">",
+      "voice": "voice\\battle\\em\\aio14334.ogg",
+      "seconds": 8.736507936507936,
+      "wait_100ms": 89,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da0506.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー３\">",
+      "voice": "voice\\battle\\em\\03_aio14444.ogg",
+      "seconds": 7.796575963718821,
+      "wait_100ms": 79,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da0606.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー１\">",
+      "voice": "voice\\battle\\am\\01a_db23900.ogg",
+      "seconds": 6.745283446712018,
+      "wait_100ms": 69,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da0606.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー２\">",
+      "voice": "voice\\battle\\db\\01a_db24001.ogg",
+      "seconds": 3.906734693877551,
+      "wait_100ms": 41,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da0606.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー３\">",
+      "voice": "voice\\battle\\am\\01a_db24109.ogg",
+      "seconds": 7.666326530612245,
+      "wait_100ms": 78,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da0606.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー４\">",
+      "voice": "voice\\battle\\am\\01a_db24307.ogg",
+      "seconds": 7.51578231292517,
+      "wait_100ms": 77,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da0606.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー５\">",
+      "voice": "voice\\battle\\am\\01a_db24411.ogg",
+      "seconds": 10.08907029478458,
+      "wait_100ms": 102,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da0606.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー６\">",
+      "voice": "voice\\battle\\am\\01a_db24619.ogg",
+      "seconds": 8.224036281179139,
+      "wait_100ms": 84,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da0710.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー１\">",
+      "voice": "voice\\battle\\fm\\dt17802.ogg",
+      "seconds": 9.79297052154195,
+      "wait_100ms": 99,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da0710.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー２\">",
+      "voice": "voice\\battle\\fm\\02a_dt17925.ogg",
+      "seconds": 7.323764172335601,
+      "wait_100ms": 75,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da0710.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー３\">",
+      "voice": "voice\\battle\\fm\\02a_dt18000.ogg",
+      "seconds": 9.050249433106575,
+      "wait_100ms": 92,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da0710.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー４\">",
+      "voice": "voice\\battle\\fm\\02a_dt18303.ogg",
+      "seconds": 7.898027210884353,
+      "wait_100ms": 80,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da0803.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー１\">",
+      "voice": "voice\\battle\\am\\01a_db23900.ogg",
+      "seconds": 6.745283446712018,
+      "wait_100ms": 69,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da0803.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー２\">",
+      "voice": "voice\\battle\\db\\01a_db24001.ogg",
+      "seconds": 3.906734693877551,
+      "wait_100ms": 41,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da0803.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー３\">",
+      "voice": "voice\\battle\\am\\01a_db24109.ogg",
+      "seconds": 7.666326530612245,
+      "wait_100ms": 78,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da0803.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー４\">",
+      "voice": "voice\\battle\\am\\01a_db24307.ogg",
+      "seconds": 7.51578231292517,
+      "wait_100ms": 77,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da0803.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー５\">",
+      "voice": "voice\\battle\\am\\01a_db24411.ogg",
+      "seconds": 10.08907029478458,
+      "wait_100ms": 102,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da0803.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー６\">",
+      "voice": "voice\\battle\\am\\01a_db24619.ogg",
+      "seconds": 8.224036281179139,
+      "wait_100ms": 84,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da0902.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー１\">",
+      "voice": "voice\\battle\\em\\03_aio14201.ogg",
+      "seconds": 5.062834467120181,
+      "wait_100ms": 52,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da0902.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー２\">",
+      "voice": "voice\\battle\\em\\aio14334.ogg",
+      "seconds": 8.736507936507936,
+      "wait_100ms": 89,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da0902.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー３\">",
+      "voice": "voice\\battle\\em\\03_aio14444.ogg",
+      "seconds": 7.796575963718821,
+      "wait_100ms": 79,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da1002.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー１\">",
+      "voice": "voice\\battle\\hm\\04_anb18504.ogg",
+      "seconds": 4.108367346938776,
+      "wait_100ms": 43,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da1002.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー２\">",
+      "voice": "voice\\battle\\hm\\04_anb18604.ogg",
+      "seconds": 3.390453514739229,
+      "wait_100ms": 35,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da1002.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー３\">",
+      "voice": "voice\\battle\\hm\\04_anb18705.ogg",
+      "seconds": 4.672857142857143,
+      "wait_100ms": 48,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da1102.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー１\">",
+      "voice": "voice\\battle\\bm\\05_rib19427.ogg",
+      "seconds": 18.659501133786847,
+      "wait_100ms": 188,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da1204.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー１\">",
+      "voice": "voice\\battle\\am\\01a_db23900.ogg",
+      "seconds": 6.745283446712018,
+      "wait_100ms": 69,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da1204.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー２\">",
+      "voice": "voice\\battle\\db\\01a_db24001.ogg",
+      "seconds": 3.906734693877551,
+      "wait_100ms": 41,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da1204.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー３\">",
+      "voice": "voice\\battle\\am\\01a_db24109.ogg",
+      "seconds": 7.666326530612245,
+      "wait_100ms": 78,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da1204.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー４\">",
+      "voice": "voice\\battle\\am\\01a_db24307.ogg",
+      "seconds": 7.51578231292517,
+      "wait_100ms": 77,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da1204.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー５\">",
+      "voice": "voice\\battle\\am\\01a_db24411.ogg",
+      "seconds": 10.08907029478458,
+      "wait_100ms": 102,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da1204.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー６\">",
+      "voice": "voice\\battle\\am\\01a_db24619.ogg",
+      "seconds": 8.224036281179139,
+      "wait_100ms": 84,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da1320.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー１\">",
+      "voice": "voice\\battle\\fm\\dt20802.ogg",
+      "seconds": 8.908730158730158,
+      "wait_100ms": 91,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da1320.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー２\">",
+      "voice": "voice\\battle\\fm\\02b_dt21101.ogg",
+      "seconds": 10.660181405895692,
+      "wait_100ms": 108,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da1401.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー１\">",
+      "voice": "voice\\battle\\am\\01a_db23900.ogg",
+      "seconds": 6.745283446712018,
+      "wait_100ms": 69,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da1401.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー２\">",
+      "voice": "voice\\battle\\db\\01a_db24001.ogg",
+      "seconds": 3.906734693877551,
+      "wait_100ms": 41,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da1401.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー３\">",
+      "voice": "voice\\battle\\am\\01a_db24109.ogg",
+      "seconds": 7.666326530612245,
+      "wait_100ms": 78,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da1401.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー４\">",
+      "voice": "voice\\battle\\am\\01a_db24307.ogg",
+      "seconds": 7.51578231292517,
+      "wait_100ms": 77,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da1401.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー５\">",
+      "voice": "voice\\battle\\am\\01a_db24411.ogg",
+      "seconds": 10.08907029478458,
+      "wait_100ms": 102,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r\r",
+      "audio_found": true
+    },
+    {
+      "script": "script\\da1401.nps",
+      "marker": "<MARKER NAME=\"#コンティニュー６\">",
+      "voice": "voice\\battle\\am\\01a_db24619.ogg",
+      "seconds": 8.224036281179139,
+      "wait_100ms": 84,
+      "old_tail": "\r<WAIT TIME=\"50\">\r\r",
+      "audio_found": true
+    }
+  ],
+  "same_as_gpt_on_old_translation": true,
+  "sha256": "1733be477cb20cb2eba68473210eba72ba34591cb06f5a84bb4622862fa97cb9"
+}

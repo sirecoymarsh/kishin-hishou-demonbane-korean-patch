@@ -1,0 +1,50 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0098_da1203",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da1203:T00163",
+   "source_sha256": "c11d7c53b1f56e8d18a0bcf30599416822d0bd8ecd9942bdc1961ab25615465d",
+   "ko": "리베르 레기스에 의해 파괴된 나의 데몬베인이 재생한다."
+  },
+  {
+   "id": "da1203:T00164",
+   "source_sha256": "f3dc0519577c3863e2c2d76c0fe66004caf09e48dbbf833395c9deb6aa07e87e",
+   "ko": "나사가 톱니바퀴가 태엽이 배관이 철골이 도선이 장갑이 무진장으로 솟아나와 파손 부위를 보완한다.\n\n　그렇다…… 내가 타는 데몬베인이야말로 진정한 데몬베인."
+  },
+  {
+   "id": "da1203:T00165",
+   "source_sha256": "9c9f46f0f9b1abda0276f04b26c6c98feae184c8d281785fdeefb5a5544140f1",
+   "ko": "저 영웅 행세를 하는 자가 타는 우상과는 다르다!\n\n　――깨닫게 해 주마!"
+  },
+  {
+   "id": "da1203:T00166",
+   "source_sha256": "1b970f1e318f06d5501d603019de2ac7404d718d556bf42386514bae3ca50304",
+   "ko": "「참극을 자아내라!　『"
+  },
+  {
+   "id": "da1203:R00020",
+   "source_sha256": "25b57b2614177361ac5835f61b08fa3f4116744d8275d0e97142056f7e6686a7",
+   "ko": "투 소드／투 건",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1203:T00167",
+   "source_sha256": "f8cc521ba37a92038ef768e668a4527c2a7d969381ad66558edf63d7338efd9e",
+   "ko": "이투류"
+  },
+  {
+   "id": "da1203:T00168",
+   "source_sha256": "a71ee50bb38216dc376f2dc9b2de6fbe88d1ba70fa4af4eb973381fe485210ac",
+   "ko": "』!」"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da1203:T00163",
+   "kind": "glossary_candidate",
+   "note": "미확정 용어집 항목 '리베르 레기스(リベル・レギス)' 사용."
+  }
+ ]
+}

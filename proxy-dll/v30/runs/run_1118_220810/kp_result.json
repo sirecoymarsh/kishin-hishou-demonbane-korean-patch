@@ -1,0 +1,21 @@
+{
+ "label": "ua1b",
+ "game": "Y:\\AI\\claude-work\\khd-release-1118\\testbase\\기신비상 시험",
+ "steps": [
+  "screens"
+ ],
+ "checks": {
+  "screens_alive": true
+ },
+ "out": "P:\\AI\\khd-hero-ai\\v30\\runs\\run_1118_220810",
+ "pid": 26144,
+ "exit_code": "0x0",
+ "new_dumps": [],
+ "moved_windows": [],
+ "window_pos_restored": true,
+ "nvlddmkm_before_after": [
+  0,
+  0
+ ],
+ "seconds": 114
+}

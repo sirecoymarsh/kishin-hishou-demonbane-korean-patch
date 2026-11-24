@@ -1,0 +1,225 @@
+{
+  "schema": "khd-gemini-response-v1",
+  "packet_id": "P0134_da9905",
+  "model_id": "Gemini 3.8 Flash (High)",
+  "records": [
+    {
+      "id": "da9905:T00164",
+      "source_sha256": "d7e961b8be1acc9eaf6acb2f9b6c9027506e5d176937af7d10e2f2936abe9996",
+      "ko": "「요컨대, 말이다. 서글펐던 것이로다」"
+    },
+    {
+      "id": "da9905:T00165",
+      "source_sha256": "2c1fb9ad8b9c18d4619e857e22951313ba52a2378def850bec7c5559abb0d47c",
+      "ko": "「미래마저도, 이 몸의 곁을\n　스쳐 지나가는 것처럼 느껴져서……」"
+    },
+    {
+      "id": "da9905:T00166",
+      "source_sha256": "9e977122cea212e9b38fc7f3739d3cf01a314a069d04336a9599a10513789d0e",
+      "ko": "「……이봐 이봐. 무슨 소릴 하는 건지」"
+    },
+    {
+      "id": "da9905:T00167",
+      "source_sha256": "957df08e6d2d224d4a983c5aec4d4fada68ef6749f724e2264b24cfa4b622342",
+      "ko": "「아……」"
+    },
+    {
+      "id": "da9905:T00168",
+      "source_sha256": "cf1047cb75c1074c0a20870eb0c1ff8892c61289488daaa0c26c15c012cb3fdc",
+      "ko": "이번에는 두 팔로 힘껏 안긴다."
+    },
+    {
+      "id": "da9905:T00169",
+      "source_sha256": "c489b3bdb731569bb4a18a796069e1c98505d7735019af339401d1731e112f7e",
+      "ko": "강하고, 다정한 포옹."
+    },
+    {
+      "id": "da9905:T00170",
+      "source_sha256": "38ae7313898892bf5a78b941ce2cfa79b643b21885fe8b43c299c3211c8793d6",
+      "ko": "베풀기 위해."
+    },
+    {
+      "id": "da9905:T00171",
+      "source_sha256": "6ea6d3e8594c0e4a1ff2bf135009e5b4d6e60c43aea265d9779df31d3b2a0e59",
+      "ko": " 바라기 위해."
+    },
+    {
+      "id": "da9905:T00172",
+      "source_sha256": "5a6365a5a6a0907d2eccfd9403e4822e46e63420a62239105d590d67186b570d",
+      "ko": "요컨대, 이어지기 위해."
+    },
+    {
+      "id": "da9905:T00173",
+      "source_sha256": "356dc6ccb6f1cd4c472b0698cc534025d9105df1c0473086db5e5d2bac9d99a3",
+      "ko": "두 사람의 고동이 하나로 겹쳐진다."
+    },
+    {
+      "id": "da9905:T00174",
+      "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+      "ko": "「"
+    },
+    {
+      "id": "da9905:R00024",
+      "source_sha256": "8063b1d01b8ea9a7954632ec37ef0944824245a51ec22e88594dc2055d420e6c",
+      "ko": "・・・・・・・・・・・・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da9905:T00175",
+      "source_sha256": "d53ba98ea4947dfd484e0461a99d9f44ed20c5d113817b9e41c4eea3f76c94db",
+      "ko": "앞으로 만날 수 있잖아"
+    },
+    {
+      "id": "da9905:T00176",
+      "source_sha256": "d93a835d0f2787bcb1a759ad3a1b8fbea56d742d0b99720dbbb9ea8ace1926f8",
+      "ko": "」"
+    },
+    {
+      "id": "da9905:T00177",
+      "source_sha256": "f63e338a9fae446f20ae3d105f2318d7c4d921eff8749a1d9931f4bd94dd5f65",
+      "ko": "「…………」"
+    },
+    {
+      "id": "da9905:T00178",
+      "source_sha256": "2807927e40c1248ecd96668e1b2eb53feb60f7f4852fa34a03b1de811b0495a0",
+      "ko": "그것은 몹시 뜨겁고 강렬한――"
+    },
+    {
+      "id": "da9905:T00179",
+      "source_sha256": "47cd3b01ee9e6e85f736cc0ef1ce2034ce2a2aed9b8de6a425ad49e2ca57f8c8",
+      "ko": "하지만, 몹시 고요하고 평온한 "
+    },
+    {
+      "id": "da9905:R00025",
+      "source_sha256": "3e7ca97dd222dfece75cc1b0e619438b0296dd7b6db45fe8ff3627464f181e69",
+      "ko": "세계",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da9905:T00180",
+      "source_sha256": "54235654a51428db8c3b374d475d5ef2e1f214b2001b284005c0eb8cfa33ca64",
+      "ko": "일체감"
+    },
+    {
+      "id": "da9905:T00181",
+      "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+      "ko": "。"
+    },
+    {
+      "id": "da9905:T00182",
+      "source_sha256": "e4a7a377da350159c09543a394803370afbefd1c24217951229bf14a311ee414",
+      "ko": "아아, 그렇다."
+    },
+    {
+      "id": "da9905:T00183",
+      "source_sha256": "4ee363cae16fa396a9e17eda717f55c4d03182122f65715e5b6842b19c6e6860",
+      "ko": "당연한 일이다.\n\n　모든 것이 지나쳐 간다."
+    },
+    {
+      "id": "da9905:T00184",
+      "source_sha256": "eeaf0e53e81c283cae1f53c7aa50c617cffa7d27354da9da963a755e981b6ed0",
+      "ko": "하지만 지금, 분명히 이곳에 있다."
+    },
+    {
+      "id": "da9905:T00185",
+      "source_sha256": "5f51eed2882bed1fef8682401697a780a8f3cd64865a2ef13564f22c71f36ac7",
+      "ko": "그리고 언젠가, 반드시 찾아온다.\n\n　그렇다면――"
+    },
+    {
+      "id": "da9905:T00186",
+      "source_sha256": "dc1ad8a2014e0c688aeeed246f33aeaedfdd74456af0b4b38982baf97dce8911",
+      "ko": "언젠가 답을 얻으리라.\n\n　――쿠자쿠."
+    },
+    {
+      "id": "da9905:T00187",
+      "source_sha256": "e4e7a36899914b69ee8a225df487f9bff79f41b161df476381cec2821ae60c02",
+      "ko": "머지않아 찾아올, 이 몸과 쿠로의 아이여.\n\n　너라는 『미래』의 의미를, 이제부터 획득해 간다."
+    },
+    {
+      "id": "da9905:T00188",
+      "source_sha256": "e288f6d4520c33e0ba27e3ecf564faf367f90e60c75e1dc2609f681ebe2872d1",
+      "ko": "너를 사랑하는 나날을, 획득한다."
+    },
+    {
+      "id": "da9905:T00189",
+      "source_sha256": "36794ce9f84213a802dbf46feaf6833af2d8291a860f8530e90b874ad2181920",
+      "ko": "「저기…… 쿠로?」"
+    },
+    {
+      "id": "da9905:T00190",
+      "source_sha256": "8c3cb3b20a4436098792dd1bc6f13c8b8f90a1f4e553a37ae8633f1e61f9a4a7",
+      "ko": "「――? 왜 그래?」"
+    },
+    {
+      "id": "da9905:T00191",
+      "source_sha256": "eac0d4e39f455c2e1e8e4af9f83985999b2c39578f5b2ca3c3bdc5c9a9c486c6",
+      "ko": "이 몸은 비상한다."
+    },
+    {
+      "id": "da9905:T00192",
+      "source_sha256": "74dfff9ea802125ff5593c69edb510f6f19edd1f68af709da2e27281a2d30936",
+      "ko": " 이 사내와 함께."
+    },
+    {
+      "id": "da9905:T00193",
+      "source_sha256": "1319af14a181e3e9ffa44e9c3dfba3095128c8e8a0d2712ad2c5a9cc5ce1243e",
+      "ko": "같은 속도로 달리고, 같은 풍경을 바라보리라."
+    },
+    {
+      "id": "da9905:T00194",
+      "source_sha256": "f89800f8776bc61e584cce354ebb3c4285851a9c4d82b171996901f8f14d29b6",
+      "ko": "「방금 대사에는, 어쩐지 음란한\n　의미가 담겨 있지 않느냐?」"
+    },
+    {
+      "id": "da9905:T00195",
+      "source_sha256": "6a2b0284bf8492c8e5a8c50dc66f3dc3d76ef4e1962d8b1d16447aa4655ac09d",
+      "ko": "「하…… 아하하하하……!\n　글쎄? 무슨 소린지, 전혀……」"
+    },
+    {
+      "id": "da9905:T00196",
+      "source_sha256": "a1a5bf9e5095191ba35b1200e7ac333aba2c02bfeab2863b44cbcc16c148d8a1",
+      "ko": "「딱딱한 것이 닿고 있느니라. 아랫배에 말이다」"
+    },
+    {
+      "id": "da9905:T00197",
+      "source_sha256": "ddcf3996f56ca0e74f15e5e93d18a4e717e1517fb41346e1b9252839f19c3a94",
+      "ko": "「………………」"
+    },
+    {
+      "id": "da9905:T00198",
+      "source_sha256": "ddcf3996f56ca0e74f15e5e93d18a4e717e1517fb41346e1b9252839f19c3a94",
+      "ko": "「………………」"
+    },
+    {
+      "id": "da9905:T00199",
+      "source_sha256": "479ac00821d3b0045e8140cf1dc01d44a9bebfe3c771a7817d21d498da66fc5a",
+      "ko": "「하루라도 빨리 재회하고 싶잖아……\n　그러니까, 그, 그거다. 힘내야지……\n　그렇지?」"
+    },
+    {
+      "id": "da9905:T00200",
+      "source_sha256": "20c325b0e0cb795ef604f54cb228e47f1b20096d489d7faa7e3e0d7ebc169c6b",
+      "ko": "「우쭐대지 마라♪」"
+    },
+    {
+      "id": "da9905:T00201",
+      "source_sha256": "aa52d69d36682ec07b7a659cf221da0f38201508382accc4e5c7368d31126baf",
+      "ko": "다이지쥬지 쿠로."
+    },
+    {
+      "id": "da9905:T00202",
+      "source_sha256": "5dfa567258d7182cf9ef3c1aa4e1f0b03dd2128264912860ea1192e515ee5324",
+      "ko": "이 몸은, 그대와 같은 세계에서 살아간다.\n\n　그리고, 바라노라."
+    },
+    {
+      "id": "da9905:T00203",
+      "source_sha256": "383434f8bb6ab3be300c17b7421dd7fe65078c8dbd7ccf14fc0bc7772c473848",
+      "ko": "우리가 함께 머물기를――\n\n　\n　\n　　　　　세계의 모든 것이,"
+    },
+    {
+      "id": "da9905:T00204",
+      "source_sha256": "a7a63f560162ddbf78b0b1c95530366622c0360c8119c79750f86388b1a230bf",
+      "ko": "다정한 이야기로 이어져 있기를."
+    }
+  ],
+  "issues": []
+}

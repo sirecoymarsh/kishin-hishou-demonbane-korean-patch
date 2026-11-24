@@ -1,0 +1,622 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0039_da0307",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0307:T00001",
+   "source_sha256": "3123181e3cfc41b189136a2612531220c121016e18a19df9741f8f9076b22f18",
+   "ko": "「…………음」"
+  },
+  {
+   "id": "da0307:T00002",
+   "source_sha256": "dd876486a23dfde871663dfabab2949ff9ffed5896796d7023c343131ac07ac3",
+   "ko": "뺨에 느껴지는 바닥의 차가움에 눈을 떴다."
+  },
+  {
+   "id": "da0307:T00003",
+   "source_sha256": "c221322f3496739b0f4d62b7c64c0e9772266c96ccf00271b2f2ac3aa2e8de49",
+   "ko": "「어…… 제가…… 무엇을?」"
+  },
+  {
+   "id": "da0307:T00004",
+   "source_sha256": "35830832f67069ad62b7881870aef2efd6a2398f7c5f9dd583ec6fa2863662f3",
+   "ko": "어둠 속에서 몸을 일으킨다."
+  },
+  {
+   "id": "da0307:T00005",
+   "source_sha256": "ec5e4545fae647c8f3f86a4e0f9a5ca488f5bf7696cd1b82b682cf3c6609621a",
+   "ko": "자신이 처해 있는 상황을 전혀 이해할 수 없었다.\n\n　몽롱한 사고를 총동원하여 기억의 실마리를 더듬는다."
+  },
+  {
+   "id": "da0307:T00006",
+   "source_sha256": "d3d9f8bab9ee8ed18b9f6a912537570adfb66e91d7d1e92c2fecb45782704ded",
+   "ko": "분명 나는 거리를 이동하던 중,"
+  },
+  {
+   "id": "da0307:T00007",
+   "source_sha256": "7b30c043b2deff8a54ee3cff482aee34f4b04a469ebb32a7a4b838b3ecf3a8d4",
+   "ko": " 핏빛 하늘과,"
+  },
+  {
+   "id": "da0307:T00008",
+   "source_sha256": "ee4d7d6d1f4e8ce695d1933dd13a0d007f49096aff482043de98a20c1a7de8ab",
+   "ko": " 피로 물든 거인과 조우해서\n……"
+  },
+  {
+   "id": "da0307:T00009",
+   "source_sha256": "ea378c0ef5ce0bc02288664fbd23eeddd0663c364b9900a603e13f2b9d0dbede",
+   "ko": "그리고선, 커다란 회오리에 집어삼켜져서――"
+  },
+  {
+   "id": "da0307:T00010",
+   "source_sha256": "0632e711305a27f8f4a5f335e9e7f11b17c623d165904241c507c5b4702a429f",
+   "ko": "「맞아요……\n　윈필드!　어디에 있나요!?\n　무사한 건가요!?」"
+  },
+  {
+   "id": "da0307:T00011",
+   "source_sha256": "0b3882960cf7c69fdc167be23a167bb6accb02b88990f287af9b494c830bd0c8",
+   "ko": "대답은 없다."
+  },
+  {
+   "id": "da0307:T00012",
+   "source_sha256": "cbca6e38c15e77f0b6ad8cfb879501de790392b66b09cdf54a869bef64025e4e",
+   "ko": "루리의 목소리는 공허하게 "
+  },
+  {
+   "id": "da0307:R00001",
+   "source_sha256": "cb5077b943831678bad5fcbefc19b802dcc052c1bf98201e03f340457f44e4f8",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0307:T00013",
+   "source_sha256": "818e35547405e9352bde6c72057e9490f968f12e0c6a5301a088fedca22bd985",
+   "ko": "메아리"
+  },
+  {
+   "id": "da0307:T00014",
+   "source_sha256": "17fc64c59f9e9e84e8f7f74c1eac858feef63870c7f3fb322c2ad1e86049ed8f",
+   "ko": "친다."
+  },
+  {
+   "id": "da0307:T00015",
+   "source_sha256": "67f238dbf355cb013aa5e59db6a23c641f5b9e391dd9443d935cd34d4665c417",
+   "ko": "그 울리는 정도로 보아 이곳이 상당히 넓은 공간임을 알 수 있었다."
+  },
+  {
+   "id": "da0307:T00016",
+   "source_sha256": "e2c84c7109ea2fb9a78210579c9c93f97d8bc07197081bf7dd3e1dbefdd5c058",
+   "ko": "이윽고 눈이 어둠에 익숙해진다."
+  },
+  {
+   "id": "da0307:T00017",
+   "source_sha256": "8f55c6903ad4f6dc0cfa6b76abef88b87e1d15adba3270d2631b0f3e2f59bd67",
+   "ko": "루리가 있는 곳은 광대한 통로 같았다."
+  },
+  {
+   "id": "da0307:T00018",
+   "source_sha256": "2d69d8f9ef9e97bd707875156d1bac617f267600be9edbc93efc39150ff6a326",
+   "ko": "「……어디인 걸까요?」"
+  },
+  {
+   "id": "da0307:T00019",
+   "source_sha256": "0f50644f114b15801006509c2278be9acc8b4e951f8ec45dbce6a7534069d3c4",
+   "ko": "그리고 어째서 자신은 이런 장소에 있는 것인가."
+  },
+  {
+   "id": "da0307:T00020",
+   "source_sha256": "b6fd94363101471a9dcee4d702d9a7219c03f6f4017e965c6d4b3a512496adc5",
+   "ko": "그 회오리에 날려 와서?"
+  },
+  {
+   "id": "da0307:T00021",
+   "source_sha256": "0971e89640b60d884beedc88a25e0c735467ef5b8b4d3e191b1fe9f6e18b2547",
+   "ko": "말도 안 된다."
+  },
+  {
+   "id": "da0307:T00022",
+   "source_sha256": "44be12ee38130e7b0b980ecfc5b5bb31231f1532e1c0e146bce199dacce8d6a2",
+   "ko": "「……가만히 있어 봤자,\n　별수 없겠군요」"
+  },
+  {
+   "id": "da0307:T00023",
+   "source_sha256": "4d35bf4685a8c4c9794212b9cc5bd8caa210cf498cdf9ecf32350e3d44dd3e7c",
+   "ko": "상황을 파악하기 위해서라도 루리는 걷기 시작했다.\n\n　통로는 어둑어둑하다."
+  },
+  {
+   "id": "da0307:T00024",
+   "source_sha256": "905344622e5e0fc3d5dc8cb5bcdfde6269c6d2084f5619cc2899d54e211398f6",
+   "ko": "다만 바람의 움직임이 있었다."
+  },
+  {
+   "id": "da0307:T00025",
+   "source_sha256": "ece3830aa18f95dfe88f72814ba74d3f94f6625b561c6bf627d93c13d7cd0601",
+   "ko": "그것을 의지해 루리는 통로를 나아간다."
+  },
+  {
+   "id": "da0307:T00026",
+   "source_sha256": "2455abfdee5d795da0f5ba91633a3e27c90b70d50988234fc4f46a8c5287bc0a",
+   "ko": "얼마나 걸었을까."
+  },
+  {
+   "id": "da0307:T00027",
+   "source_sha256": "0be396287a136e4e39d3dede346ab17680f6be3e14a127a9406e63509e8e6e91",
+   "ko": "통로가 끝나고, 루리는 한층 더 광대한 공간으로 나왔다.\n\n　넓다."
+  },
+  {
+   "id": "da0307:T00028",
+   "source_sha256": "6ca13438cccad0ff6bc5fff8f41b3c697c17f4f2cea80bce5dd90b2867850d69",
+   "ko": " 정말로 넓다."
+  },
+  {
+   "id": "da0307:T00029",
+   "source_sha256": "3eaa23445f5689c6a0eac7e24aa221946c8470c8790cac744777f68ee9579e2e",
+   "ko": "천장의 높이는 고층 빌딩이 넉넉히 들어가고도 남을 정도다.\n\n　너무나도 넓은 크기와 어둑어둑함 때문에 홀 전체를 파악할 수는 없다."
+  },
+  {
+   "id": "da0307:T00030",
+   "source_sha256": "2b30b0f5f9c96c7809649f39df4070c6224d62633ff1d7803a7c7956841a5181",
+   "ko": "「뭔가요, 여기는……?」"
+  },
+  {
+   "id": "da0307:T00031",
+   "source_sha256": "97ddcd4308724e6506f083b6e2e2c1820de8e85008a1882637695a7f80d0d6a9",
+   "ko": "「꺄악!」"
+  },
+  {
+   "id": "da0307:T00032",
+   "source_sha256": "958060e3dc2a12d642a5f260a8b4d3e2d4378f90380f2b76d4335df3e22475a5",
+   "ko": "갑작스러운 라이트에 눈이 부셔 루리는 비틀거렸다."
+  },
+  {
+   "id": "da0307:T00033",
+   "source_sha256": "33bc79647b2c8d8ff1d353770736e583b16bd7b32919d3175946838a0fd168c3",
+   "ko": "눈을 손바닥으로 가리면서 어떻게든 빛 너머를 보려고 시도한다."
+  },
+  {
+   "id": "da0307:T00034",
+   "source_sha256": "f1fba11676f11bf3f570b5a5bc2ac6f780766aae4768abc30710d1e196d20c8d",
+   "ko": "그리고, 눈동자를 태울 듯한 강렬한 빛 너머에서 그녀는 보았다.\n\n　빛 속에 떠오른 그 거대한 그림자는――"
+  },
+  {
+   "id": "da0307:T00035",
+   "source_sha256": "9fa1cf8e07dfc10677d0cc3309685d4028dc8ac53f98304a00927a2bf51763f1",
+   "ko": "강철의 주검."
+  },
+  {
+   "id": "da0307:T00036",
+   "source_sha256": "de213a69830b85d728a1b4725ca913d0dd8a4a9c3aebe42358ca9c8d62b25cc9",
+   "ko": "강철의 태아."
+  },
+  {
+   "id": "da0307:T00037",
+   "source_sha256": "16c61f5b03c4729945ca18591197b022a5d7a0a629b38dc4bd881c5e7c6921ed",
+   "ko": "크레인에 매달린 몸."
+  },
+  {
+   "id": "da0307:T00038",
+   "source_sha256": "30962f5e653a2a8eb7a0334ec8fc204e2aa044439387e3110f2b898adb72218b",
+   "ko": "드러난 골격."
+  },
+  {
+   "id": "da0307:T00039",
+   "source_sha256": "20d46640b07f1bc96a3208ade7fd974738d2beda0c22a67013bc1c7238eebb46",
+   "ko": "기계의 "
+  },
+  {
+   "id": "da0307:R00002",
+   "source_sha256": "896e493978e99cd163caeab7fc280fd9593f8aff88726ecc635b52ab89059f46",
+   "ko": "창자",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0307:T00040",
+   "source_sha256": "16e50c6d829cb1d0a236a50793e03acf1e0c1d34786c6a085ffe8a2ebf69e86e",
+   "ko": "내부기구"
+  },
+  {
+   "id": "da0307:T00041",
+   "source_sha256": "d7a8d3aca62072e9a742d1b8edd36c2c5a8df2a1a7f31173630933c8f3a50382",
+   "ko": "―― 『죽음』을 연상시키는 섬뜩한 인간 형태,"
+  },
+  {
+   "id": "da0307:T00042",
+   "source_sha256": "6e97bf2e701b8dcdac99321ba638491e110ed1cb762d12d87a864c7a1169f401",
+   "ko": "하지만 아직 『태어나지 않은』 것.\n\n　그것은 제조 도중의 기계인형―― 기계장치의 거인이었다.\n\n　그리고, 그 아직 태어나지 않은 죽은 거인의 "
+  },
+  {
+   "id": "da0307:R00003",
+   "source_sha256": "a050ca136404a57e3ad168affc7ee86ddfe27548a0578ed125a618a337dbcd88",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0307:T00043",
+   "source_sha256": "cd11f3660ed6891f63cb9cc89900d8436cc5ba566088448a3d2a6e232ea4e428",
+   "ko": "얼굴"
+  },
+  {
+   "id": "da0307:T00044",
+   "source_sha256": "ad2c839d0ddeaab35123cd69978710faf8e1a304382de6e67e7d4fcaacc92832",
+   "ko": "이 루리는 눈에 익었다."
+  },
+  {
+   "id": "da0307:T00045",
+   "source_sha256": "01b92690a680cf7c522300b50f292a7295b46e10152a292232499f4b844c0518",
+   "ko": "「……그때의 괴물!」"
+  },
+  {
+   "id": "da0307:T00046",
+   "source_sha256": "bd961ef44613f2b9a99b00cb7ca2d50e619a26a7056c5d5fa9526be1ec46f3d5",
+   "ko": "미완성 상태이기 때문에 인상이 다르지만 틀림없다."
+  },
+  {
+   "id": "da0307:T00047",
+   "source_sha256": "822d64e84cc096ad52e3774d12f8fa02f66495674b3dbb35ee9e53f659d1bb14",
+   "ko": "아컴 시티에 출현한 2대의 거인."
+  },
+  {
+   "id": "da0307:T00048",
+   "source_sha256": "3231ce60a834af95c94e34ab2bd7a575eafe610b289b51c66b6667656b7e438f",
+   "ko": "눈앞의 괴물은 그 2대와 같은 것이다."
+  },
+  {
+   "id": "da0307:T00049",
+   "source_sha256": "d6cf0b49de1f3709e6ae6f5b5c318fdd116eb29d65378457f13388c691033cea",
+   "ko": "「어째서, 이것이 이런 곳에……」"
+  },
+  {
+   "id": "da0307:T00050",
+   "source_sha256": "605be63dc72dc8236f2ee6c61abf157b9d9b7f683898c336aea9c4b1b9ba169e",
+   "ko": "괴물이 내려다본다."
+  },
+  {
+   "id": "da0307:T00051",
+   "source_sha256": "33f921ef01936ae5833584c32f2f172d90031585213fd1322a59b708497fcb7d",
+   "ko": "생명이 깃들지 않은 무기물의 "
+  },
+  {
+   "id": "da0307:R00004",
+   "source_sha256": "2869fa462d98ce2cbbd71d7719e0d90a2c6d1b599125c7a79e6a6132252ad531",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0307:T00052",
+   "source_sha256": "fa94d1862f3ed701f053040f43bd30ac78fedb06807833a3971f729a5545b6c5",
+   "ko": "눈동자"
+  },
+  {
+   "id": "da0307:T00053",
+   "source_sha256": "358fc40b08577d134af336ec282d6ad9a7e90b3494417426c5f4c0f3677d21d2",
+   "ko": "로."
+  },
+  {
+   "id": "da0307:T00054",
+   "source_sha256": "954e8908865790c635a42775c861074bfe84b9199b0a25b06ff529826dd50214",
+   "ko": "루리는 겁에 질려 저도 모르게 뒷걸음질 치고,"
+  },
+  {
+   "id": "da0307:T00055",
+   "source_sha256": "a0faa5b31b269fc248e6dee648b8dcde59ad4944b2a939e36b0082854a48c974",
+   "ko": "「어……?」"
+  },
+  {
+   "id": "da0307:T00056",
+   "source_sha256": "55f606adeeedec5f0017849e7400b97cfa6171ed0d6adc08338dd4ffee870e67",
+   "ko": "소리를 들었다."
+  },
+  {
+   "id": "da0307:T00057",
+   "source_sha256": "5a17a6cfc3a1a88f8b9f15ebb5bcb7cf009f37e49ac82253a8dec888c277fb42",
+   "ko": "의미 있는 말이 아니다. 단순한 신음이다."
+  },
+  {
+   "id": "da0307:T00058",
+   "source_sha256": "c500d5ed92aa9b0164908c9e96d20d8fbb72e1134c6cdbe8f4ec19e16e592057",
+   "ko": "그것도 하나가 아니다."
+  },
+  {
+   "id": "da0307:T00059",
+   "source_sha256": "0ac9e49dfb44331dd4bc446385ff1111c6a159f5c5752009db25bbff34cc086e",
+   "ko": "「누군가…… 있는 건가요?」"
+  },
+  {
+   "id": "da0307:T00060",
+   "source_sha256": "bc150b43aadeed4d789a0422c3315a4b020468f0be43d9e605db4552f6ae7db8",
+   "ko": "스르륵."
+  },
+  {
+   "id": "da0307:T00061",
+   "source_sha256": "e5080c7cbd61527f3323f7030b324b2fad5f9609848b251848710a3375124bb0",
+   "ko": "미끈거리고 부드러운 무언가가 기어 다니는 듯한 소리."
+  },
+  {
+   "id": "da0307:T00062",
+   "source_sha256": "508ba124ad20b8935a50a6a37c136733ee49466da9683e42888f7c68231cc0e1",
+   "ko": "홀의 어두운 구석에서 누군가가 모습을 드러냈다."
+  },
+  {
+   "id": "da0307:T00063",
+   "source_sha256": "bec5ccec1370bbb0b2d018644ac08a1fbce60b0fb92e0a2acc43a036ddb4f4eb",
+   "ko": "「……윈필드?」"
+  },
+  {
+   "id": "da0307:T00064",
+   "source_sha256": "99aa21fba0ddd53897cd1da5c7020f507896cdec6f29cc31d941595e004588c3",
+   "ko": "물론, 아니다."
+  },
+  {
+   "id": "da0307:T00065",
+   "source_sha256": "4a719c4d34137ab496aeb26c0182c77c2fa450d7370891d41ea6d9604e8ef99e",
+   "ko": "어두운 탓도 있지만, 젊은지 늙었는지 판별하기 어려운 사내였다."
+  },
+  {
+   "id": "da0307:T00066",
+   "source_sha256": "103a332a9ceb9108bc773b9b69f49859b848af0d2d84a876bcab2d4c17d14484",
+   "ko": "부상이라도 입은 것인지 다리를 질질 끌듯이 걷고 있다.\n\n　이곳에 와서 처음으로 마주친 인간이다."
+  },
+  {
+   "id": "da0307:T00067",
+   "source_sha256": "b61b1e390159c351e8d469adb5f14cbddd2d689b2a2690847a93ab6477a0993f",
+   "ko": "루리는 말을 걸려다가―― 본능적인 위기감을 감지하고 움직임을 멈췄다."
+  },
+  {
+   "id": "da0307:T00068",
+   "source_sha256": "665e8306be29699559933b41ac7b381f0cad8d57f8152f2a93094533de13a452",
+   "ko": "아니다."
+  },
+  {
+   "id": "da0307:T00069",
+   "source_sha256": "f17d4ea4594856afb5c6bdba41854e24595851395cb9988cd322ebe2f43e1404",
+   "ko": "무언가가 다르다."
+  },
+  {
+   "id": "da0307:T00070",
+   "source_sha256": "2b0bffcf959a478407303aea0135ca9009ccf4c537d7e51fbe6077b1d6fb3ba7",
+   "ko": "이 인간 형태는, 인간이라 부르기에는 어딘가 일그러져 있었다."
+  },
+  {
+   "id": "da0307:T00071",
+   "source_sha256": "72ee8ad66137a5c35e4b06d9b019992e99805bb2814d3e64ff1e2adf9deafbe3",
+   "ko": "「……히익!」"
+  },
+  {
+   "id": "da0307:T00072",
+   "source_sha256": "e8bf2c4187fd3fb8fd64a3e01de676e88e61c16feb350434977cab89046eec1b",
+   "ko": "비명을 삼킨다."
+  },
+  {
+   "id": "da0307:T00073",
+   "source_sha256": "9921080d0db25660842fe372dd8f625a80f911f6ea73ec3a566dabb65006331f",
+   "ko": "루리는 이해하고 말았다.\n\n　일그러진 인간 형태의 그것은, 목을 있을 수 없는 각도로 꺾고 썩은 창자를 질질 끄는 시체였다.\n\n\n　확실히 죽어 있다―― 하지만 움직이고 있다."
+  },
+  {
+   "id": "da0307:T00074",
+   "source_sha256": "5156bd7ac9fcd90a605cbf29a4d1e69b09405a613b1dcabada303a6b828de610",
+   "ko": "완만하게, 그러나 확실하게 루리가 있는 곳으로 다가오고 있다."
+  },
+  {
+   "id": "da0307:R00005",
+   "source_sha256": "24a4d0d38e30a882bf7b88f560069b561e33a980c3f1920ea06b226b8ead714c",
+   "ko": "리빙 데드",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0307:T00075",
+   "source_sha256": "747fdd442d2ef890598d2f93a6742d1c6cb73643b4d9425cc529b660f4959a0b",
+   "ko": "움직이는 시체"
+  },
+  {
+   "id": "da0307:T00076",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  },
+  {
+   "id": "da0307:T00077",
+   "source_sha256": "ac61f8b0f87181a3731ed24d677480b1978c8de5a2063e39fee7465707f440c3",
+   "ko": "「아…… 아아……!」"
+  },
+  {
+   "id": "da0307:T00078",
+   "source_sha256": "1b757b76f41e1ca032b0d5ab2ee140ca0527f92603bb221beab0b3aac17170da",
+   "ko": "시체는 한 구가 아니다."
+  },
+  {
+   "id": "da0307:T00079",
+   "source_sha256": "ef1bd9daa4b4b6b6b57c7df146822726c507ef25d8cacb4a4be6a317d1c22791",
+   "ko": "어둠 속 여기저기서 신음 소리와 미끈거리는 물소리와 함께 망자 무리가 기어 나온다.\n\n　이해를 초월한 공포와 비현실감이 루리의 사고를 마비시켰다."
+  },
+  {
+   "id": "da0307:T00080",
+   "source_sha256": "1509e1ca50b4cc70ebe7246272c2cf57cd7ea036483d374e3b067380f70f8c74",
+   "ko": "꼼짝도 하지 못한 채 우두커니 서서 떨 뿐."
+  },
+  {
+   "id": "da0307:T00081",
+   "source_sha256": "57ba204f6fda1165d7cc7df0d79ae40ed1ef894be55b2743e1b780dcb4f7e3da",
+   "ko": "「어머어머어머, 왜 그러니~?\n　좀 더 무서워해 주지 않으면 재미없단다~,\n　루리 아가씨이이잉」"
+  },
+  {
+   "id": "da0307:T00082",
+   "source_sha256": "611aea0c165c6a3f012eefbec1342c4ef55f108d6bcb9db852c6387410ed73f2",
+   "ko": "「……읏!?」"
+  },
+  {
+   "id": "da0307:T00083",
+   "source_sha256": "8fa964c1025a79ca6d310b3a0d28ba474764c7bbaa86daf104bca188665be2ba",
+   "ko": "말 없는 죽은 자들 속에서 의지가 담긴 목소리가 들려왔다."
+  },
+  {
+   "id": "da0307:T00084",
+   "source_sha256": "899fd2e25e81812aa557af1df5942b51c429b4ea38deaaa4990d7474a7cf7403",
+   "ko": "망자 무리를 가르며 목소리의 주인은 루리의 앞에 모습을 드러냈다."
+  },
+  {
+   "id": "da0307:T00085",
+   "source_sha256": "aecd3199db1c2f9022f550ece4d2fd3c8ed8d99e1be5437406195bdf288596a5",
+   "ko": "광대다."
+  },
+  {
+   "id": "da0307:T00086",
+   "source_sha256": "4bc8c8a2c5480bdad84fca0caf6d7f4c74fef3bf21c7ef49b87e0937f2f950ee",
+   "ko": "무대에 나오는 마법사 같은 긴 로브로 몸을 감싸고, 얼굴에는 『웃음』 표정을 본뜬 가면을 쓰고 있었다.\n\n　일그러진 죽음이 가득한 이 공간에서 광대의 차림새는 섬뜩할 정도로 어울리지 않았다."
+  },
+  {
+   "id": "da0307:T00087",
+   "source_sha256": "6b507156c6ff04cfd24acd915c8207ce8633d1179978a1dcd62da6025b6700e1",
+   "ko": "혹은 얄궂을 정도로 잘 어울렸다."
+  },
+  {
+   "id": "da0307:T00088",
+   "source_sha256": "3c0a63e364a9bca160e4f8e659a0b184870c70c211feaeeeda46db0d180886d4",
+   "ko": "「오랜만이네잉, 루리 아가씨?\n　보고 싶었단다아앙」"
+  },
+  {
+   "id": "da0307:T00089",
+   "source_sha256": "e6844ff8a56dd68dfc7ef2b4681ebc855b51ac46af7c4e66f6c623f35ae1c982",
+   "ko": "「누, 누구인가요, 당신은!」"
+  },
+  {
+   "id": "da0307:T00090",
+   "source_sha256": "fe6b0cdde295c77568364755a4392d100537d648d6cb5cb8779e24bbdfa28268",
+   "ko": "「에에에~엣.\n　나를 잊어버렸다는 거니~?\n　너~무해. 정말 심술쟁이라니까아!」"
+  },
+  {
+   "id": "da0307:R00006",
+   "source_sha256": "2927083fd030844f9818164e0bb0ade8c3169e934eb92dc1f49df876f77bd5ac",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0307:T00091",
+   "source_sha256": "0f55c1b29730d09eae296e101a12467fa6fb8c9c44d1f69a49f9df47be9fee35",
+   "ko": "비웃"
+  },
+  {
+   "id": "da0307:T00092",
+   "source_sha256": "b21177207388475239a7eefcba4088ea6d10d157d446815d64c7ea5f68b9c2db",
+   "ko": "는 광대."
+  },
+  {
+   "id": "da0307:T00093",
+   "source_sha256": "a7747372b8a13e12c4b5744ab5ceaa1de9c4ed639c3b73bc12a0f1b1b284e87f",
+   "ko": "그 목소리는 명랑함을 가장하고 있으나 결코 그렇지 않은, 인간의 도덕이나 가치관에서 모독적일 정도로 일탈한, 결코 용납될 수 없는 사악한 것이었다."
+  },
+  {
+   "id": "da0307:T00094",
+   "source_sha256": "66b55c1b9e298f8bbe2440c2c623a76c8164058660bb179f29c605c1a83a8088",
+   "ko": "「『저번 때』는 아주 잘도 함께\n　놀았잖니이……」"
+  },
+  {
+   "id": "da0307:T00095",
+   "source_sha256": "e4c70ed517a860cfe142ae010fcc58e3df634a186a817be5873f04f3ebca5701",
+   "ko": "루리는 움직일 수 없다."
+  },
+  {
+   "id": "da0307:T00096",
+   "source_sha256": "21c9a13d8b0dc9a7285cacde7e23bb07e83076966ca91ea4d8d431615385ff96",
+   "ko": "그 마음속에서는 공포인지 혐오감인지 모를 강렬한 무언가가 사납게 날뛰고 있었다.\n\n　티베리우스는 공포에 움츠러든 루리를 만족스러운 듯이 "
+  },
+  {
+   "id": "da0307:R00007",
+   "source_sha256": "9e228bcc5ed49ae30ec7fac37d7fceb6bb6a4d048ce689d48bd42de211fb3fd1",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0307:T00097",
+   "source_sha256": "cbe96fba51fc9384048ac8188b57b38801f689bacd5becb97224acc642f8374f",
+   "ko": "노려보"
+  },
+  {
+   "id": "da0307:T00098",
+   "source_sha256": "d5f9b28e2350204f5b822ad11fca9ca5e26bfe75e65703df7e9dc604509ce43c",
+   "ko": "듯 훑어본다."
+  },
+  {
+   "id": "da0307:T00099",
+   "source_sha256": "fd4073c4ecb9690cbeee44e4784a03b5a18d12c7e1cc0d046b1cce3f0f1a36c0",
+   "ko": "그리고――"
+  },
+  {
+   "id": "da0307:T00100",
+   "source_sha256": "8afa3014d412dda4456b76b7614d86433adc35f6e258120f7f7719d9487e4682",
+   "ko": "「자아…… 이렇게 말이야앗!」"
+  },
+  {
+   "id": "da0307:T00101",
+   "source_sha256": "f966a1ea44e27a5fef1dfd202ed11976ce2e1a6ede523636a8a1b2c41e4c2eec",
+   "ko": "광대가 피어난다."
+  },
+  {
+   "id": "da0307:T00102",
+   "source_sha256": "d7729effc1ae3512b28491fed5df43a72bb53ec08babf8a34c3af1e48730b5d5",
+   "ko": "썩은 진물을 뚝뚝 흘리는 촉수 다발이 사방팔방으로 펼쳐졌다."
+  },
+  {
+   "id": "da0307:T00103",
+   "source_sha256": "736e5a86b315ed7ce43908c510a6194b5acd8902492db1756056256c59df5262",
+   "ko": "촉수의 정체는 부패한 "
+  },
+  {
+   "id": "da0307:R00008",
+   "source_sha256": "896e493978e99cd163caeab7fc280fd9593f8aff88726ecc635b52ab89059f46",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0307:T00104",
+   "source_sha256": "276da831d902e556c85773539c5fdbf90bc6629bfe80841962623f24644a1670",
+   "ko": "내장"
+  },
+  {
+   "id": "da0307:T00105",
+   "source_sha256": "8650fe8af98cbd222514a7314c21d7fb2287293df878feef6bee3f012f6c937b",
+   "ko": "을 엮은 것이다."
+  },
+  {
+   "id": "da0307:T00106",
+   "source_sha256": "ab86403067da879628e677b8b072bc78a6a60a939026d654b47e70bf1f912aaa",
+   "ko": "「――――으으읏!」"
+  },
+  {
+   "id": "da0307:T00107",
+   "source_sha256": "8afdc63d326433cb9e1cee0d89e40007b2072bf5a09394d63bb522c83e804fa9",
+   "ko": "더러운 내장 무리가 루리에게 밀려든다."
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0307:R00001",
+   "kind": "omit_redundant",
+   "note": "한국어 '메아리친다'로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0307:R00003",
+   "kind": "omit_redundant",
+   "note": "한국어 '얼굴'로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0307:R00004",
+   "kind": "omit_redundant",
+   "note": "한국어 '눈동자'로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0307:R00006",
+   "kind": "omit_redundant",
+   "note": "한국어 '비웃는'으로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0307:R00007",
+   "kind": "omit_redundant",
+   "note": "한국어 '노려보듯 훑어본다'로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0307:R00008",
+   "kind": "omit_redundant",
+   "note": "한국어 '내장'으로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  }
+ ]
+}

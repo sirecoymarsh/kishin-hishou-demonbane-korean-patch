@@ -1,0 +1,3380 @@
+{
+"base": "P:\\AI\\Codex\\visualizations\\2026\\07\\29\\019facee-1827-7382-b698-1808dbc6fa45\\kishin_hishou_demonbane_ko\\work\\trusted_baseline\\KishinHisho_original_1.00",
+"rows": [
+{
+"rel": "0advdata.pak",
+"size": 207153,
+"status": "new"
+},
+{
+"rel": "0cg.pak",
+"size": 4084653,
+"status": "new"
+},
+{
+"rel": "0continue_ko.pak",
+"size": 120478,
+"status": "new"
+},
+{
+"rel": "0finishers_list.pak",
+"size": 1574936,
+"status": "new"
+},
+{
+"rel": "0freefight_continue.pak",
+"size": 8265,
+"status": "new"
+},
+{
+"rel": "0logo.pak",
+"size": 918582,
+"status": "new"
+},
+{
+"rel": "0replay.pak",
+"size": 132420219,
+"status": "new"
+},
+{
+"rel": "0replay.pak.before_chant",
+"size": 27721002,
+"status": "exclude"
+},
+{
+"rel": "0replay.pak.before_chant2",
+"size": 27721002,
+"status": "exclude"
+},
+{
+"rel": "0replay.pak.before_duel_359FA4F9",
+"size": 23316938,
+"status": "exclude"
+},
+{
+"rel": "0replay.pak.before_layout_menu",
+"size": 27720903,
+"status": "exclude"
+},
+{
+"rel": "0sound.pak",
+"size": 272270,
+"status": "new"
+},
+{
+"rel": "0system.pak",
+"size": 10606,
+"status": "new"
+},
+{
+"rel": "0system.pak.before_restore.bak",
+"size": 10602,
+"status": "exclude"
+},
+{
+"rel": "0voice.pak",
+"size": 1363191,
+"status": "new"
+},
+{
+"rel": "_compat_direct.cmd",
+"size": 129,
+"status": "new"
+},
+{
+"rel": "_compat_launch.cmd",
+"size": 138,
+"status": "new"
+},
+{
+"rel": "advdata.pak",
+"size": 10330885,
+"status": "original"
+},
+{
+"rel": "autobattle/adv/all_end.png",
+"size": 734663,
+"status": "new"
+},
+{
+"rel": "autobattle/adv/cg_back.png",
+"size": 847518,
+"status": "new"
+},
+{
+"rel": "autobattle/adv/con_back.png",
+"size": 1097770,
+"status": "new"
+},
+{
+"rel": "autobattle/adv/con_back02.png",
+"size": 848557,
+"status": "new"
+},
+{
+"rel": "autobattle/adv/con_back03.png",
+"size": 777261,
+"status": "new"
+},
+{
+"rel": "autobattle/adv/extraback.png",
+"size": 817739,
+"status": "new"
+},
+{
+"rel": "autobattle/adv/extraback2.png",
+"size": 777392,
+"status": "new"
+},
+{
+"rel": "autobattle/adv/freefight-back.png",
+"size": 593473,
+"status": "new"
+},
+{
+"rel": "autobattle/adv/gameover.jpg",
+"size": 353492,
+"status": "new"
+},
+{
+"rel": "autobattle/adv/press_start_screen.png",
+"size": 371035,
+"status": "new"
+},
+{
+"rel": "autobattle/adv/press_startback.png",
+"size": 410577,
+"status": "new"
+},
+{
+"rel": "autobattle/adv/rp_finish.png",
+"size": 272027,
+"status": "new"
+},
+{
+"rel": "autobattle/adv/rp_story_c00.png",
+"size": 248106,
+"status": "new"
+},
+{
+"rel": "autobattle/adv/rp_story_c01.png",
+"size": 208615,
+"status": "new"
+},
+{
+"rel": "autobattle/adv/rp_story_c01p2.png",
+"size": 215132,
+"status": "new"
+},
+{
+"rel": "autobattle/adv/rp_story_c02.png",
+"size": 232658,
+"status": "new"
+},
+{
+"rel": "autobattle/adv/rp_story_c03.png",
+"size": 209139,
+"status": "new"
+},
+{
+"rel": "autobattle/adv/rp_story_c03p2.png",
+"size": 236871,
+"status": "new"
+},
+{
+"rel": "autobattle/adv/rp_story_c04.png",
+"size": 226244,
+"status": "new"
+},
+{
+"rel": "autobattle/adv/rp_story_c05.png",
+"size": 232045,
+"status": "new"
+},
+{
+"rel": "autobattle/adv/rp_story_c06.png",
+"size": 232296,
+"status": "new"
+},
+{
+"rel": "autobattle/adv/rp_story_c07.png",
+"size": 207943,
+"status": "new"
+},
+{
+"rel": "autobattle/adv/rp_story_c08.png",
+"size": 240450,
+"status": "new"
+},
+{
+"rel": "autobattle/adv/rp_story_c09.png",
+"size": 242961,
+"status": "new"
+},
+{
+"rel": "autobattle/adv/rp_story_c10.png",
+"size": 243128,
+"status": "new"
+},
+{
+"rel": "autobattle/adv/rp_story_c11.png",
+"size": 242637,
+"status": "new"
+},
+{
+"rel": "autobattle/adv/rp_story_c12.png",
+"size": 236073,
+"status": "new"
+},
+{
+"rel": "autobattle/adv/rp_story_c13.png",
+"size": 209141,
+"status": "new"
+},
+{
+"rel": "autobattle/adv/rp_story_c13p2.png",
+"size": 209106,
+"status": "new"
+},
+{
+"rel": "autobattle/adv/rp_story_c14.png",
+"size": 247427,
+"status": "new"
+},
+{
+"rel": "autobattle/adv/rp_story_c15.png",
+"size": 242867,
+"status": "new"
+},
+{
+"rel": "autobattle/adv/rp_story_c99.png",
+"size": 234398,
+"status": "new"
+},
+{
+"rel": "autobattle/adv/rp_story_detail.png",
+"size": 164326,
+"status": "new"
+},
+{
+"rel": "autobattle/adv/rp_story_top.png",
+"size": 294154,
+"status": "new"
+},
+{
+"rel": "autobattle/adv/rp_theater.png",
+"size": 230653,
+"status": "new"
+},
+{
+"rel": "autobattle/adv/select-no-01.png",
+"size": 10693,
+"status": "new"
+},
+{
+"rel": "autobattle/adv/select-no-02.png",
+"size": 23962,
+"status": "new"
+},
+{
+"rel": "autobattle/adv/select-no-03.png",
+"size": 23199,
+"status": "new"
+},
+{
+"rel": "autobattle/adv/select-yes-01.png",
+"size": 12025,
+"status": "new"
+},
+{
+"rel": "autobattle/adv/select-yes-02.png",
+"size": 25475,
+"status": "new"
+},
+{
+"rel": "autobattle/adv/select-yes-03.png",
+"size": 24681,
+"status": "new"
+},
+{
+"rel": "autobattle/adv/setumei.jpg",
+"size": 171459,
+"status": "new"
+},
+{
+"rel": "autobattle/adv/skipfight_da0119.png",
+"size": 317810,
+"status": "new"
+},
+{
+"rel": "autobattle/adv/soundback.png",
+"size": 833078,
+"status": "new"
+},
+{
+"rel": "autobattle/adv/soundlibrary-list.png",
+"size": 502176,
+"status": "new"
+},
+{
+"rel": "autobattle/adv/title-back.jpg",
+"size": 218239,
+"status": "new"
+},
+{
+"rel": "autobattle/adv/title_menuback.png",
+"size": 743872,
+"status": "new"
+},
+{
+"rel": "autobattle/adv_log.tsv",
+"size": 105693,
+"status": "exclude"
+},
+{
+"rel": "autobattle/adv_test.txt",
+"size": 331,
+"status": "new"
+},
+{
+"rel": "autobattle/autobattle.ini",
+"size": 2740,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B01/commands.tsv",
+"size": 22478,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B01/danger.tsv",
+"size": 14946,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B01/dodge_stats.tsv",
+"size": 352,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B01/enemy_moves.tsv",
+"size": 2770,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B01/flags.tsv",
+"size": 177,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B01/foe_bands.tsv",
+"size": 409,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B01/foe_mode.txt",
+"size": 72,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B01/KhdBattle.exe",
+"size": 123392,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B01/missiles.tsv",
+"size": 474,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B01/motion_cats.tsv",
+"size": 4772,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B01/motion_cats_def.tsv",
+"size": 30096,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B01/move_kinds.tsv",
+"size": 471,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B01/ours_extra.txt",
+"size": 4676,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B01/play_log.tsv",
+"size": 146277,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B01/qm_bow_finish.txt",
+"size": 0,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B01/skill_files.txt",
+"size": 24347,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B01/skill_names.tsv",
+"size": 6420,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B01/skill_power.tsv",
+"size": 9281,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B01/skill_stats.tsv",
+"size": 60107,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B01/stage_bounds.tsv",
+"size": 175,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B01/yog_dodge.txt",
+"size": 3,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B02/commands.tsv",
+"size": 22478,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B02/danger.tsv",
+"size": 14946,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B02/dodge_stats.tsv",
+"size": 352,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B02/enemy_moves.tsv",
+"size": 3254,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B02/flags.tsv",
+"size": 176,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B02/foe_bands.tsv",
+"size": 412,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B02/foe_mode.txt",
+"size": 72,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B02/KhdBattle.exe",
+"size": 123392,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B02/missiles.tsv",
+"size": 474,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B02/motion_cats.tsv",
+"size": 4772,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B02/motion_cats_def.tsv",
+"size": 30096,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B02/move_kinds.tsv",
+"size": 614,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B02/ours_extra.txt",
+"size": 4676,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B02/play_log.tsv",
+"size": 354785,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B02/qm_bow_finish.txt",
+"size": 0,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B02/skill_files.txt",
+"size": 24347,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B02/skill_names.tsv",
+"size": 6420,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B02/skill_power.tsv",
+"size": 9281,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B02/skill_stats.tsv",
+"size": 60741,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B02/stage_bounds.tsv",
+"size": 176,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B02/stage_seen.tsv",
+"size": 100,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B02/yog_dodge.txt",
+"size": 3,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B03/commands.tsv",
+"size": 22478,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B03/danger.tsv",
+"size": 14976,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B03/dodge_stats.tsv",
+"size": 352,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B03/enemy_moves.tsv",
+"size": 2714,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B03/flags.tsv",
+"size": 183,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B03/foe_bands.tsv",
+"size": 395,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B03/foe_mode.txt",
+"size": 72,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B03/KhdBattle.exe",
+"size": 123392,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B03/missiles.tsv",
+"size": 474,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B03/motion_cats.tsv",
+"size": 4772,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B03/motion_cats_def.tsv",
+"size": 30096,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B03/move_kinds.tsv",
+"size": 398,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B03/ours_extra.txt",
+"size": 4676,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B03/play_log.tsv",
+"size": 469534,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B03/qm_bow_finish.txt",
+"size": 0,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B03/skill_files.txt",
+"size": 24347,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B03/skill_names.tsv",
+"size": 6420,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B03/skill_power.tsv",
+"size": 9281,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B03/skill_stats.tsv",
+"size": 60366,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B03/stage_bounds.tsv",
+"size": 176,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B03/stage_seen.tsv",
+"size": 100,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B03/yog_dodge.txt",
+"size": 3,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B04/commands.tsv",
+"size": 22478,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B04/danger.tsv",
+"size": 14946,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B04/dodge_stats.tsv",
+"size": 352,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B04/enemy_moves.tsv",
+"size": 2714,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B04/flags.tsv",
+"size": 159,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B04/foe_bands.tsv",
+"size": 395,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B04/foe_mode.txt",
+"size": 72,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B04/KhdBattle.exe",
+"size": 123392,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B04/missiles.tsv",
+"size": 474,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B04/motion_cats.tsv",
+"size": 4772,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B04/motion_cats_def.tsv",
+"size": 30096,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B04/move_kinds.tsv",
+"size": 398,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B04/ours_extra.txt",
+"size": 4676,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B04/play_log.tsv",
+"size": 172132,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B04/qm_bow_finish.txt",
+"size": 0,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B04/skill_files.txt",
+"size": 24347,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B04/skill_names.tsv",
+"size": 6420,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B04/skill_power.tsv",
+"size": 9281,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B04/skill_stats.tsv",
+"size": 60292,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B04/stage_bounds.tsv",
+"size": 175,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B04/stage_seen.tsv",
+"size": 100,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B04/yog_dodge.txt",
+"size": 3,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B05/commands.tsv",
+"size": 22478,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B05/danger.tsv",
+"size": 14946,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B05/dodge_stats.tsv",
+"size": 352,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B05/enemy_moves.tsv",
+"size": 2731,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B05/flags.tsv",
+"size": 166,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B05/foe_bands.tsv",
+"size": 411,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B05/foe_mode.txt",
+"size": 72,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B05/KhdBattle.exe",
+"size": 123904,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B05/missiles.tsv",
+"size": 474,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B05/motion_cats.tsv",
+"size": 4772,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B05/motion_cats_def.tsv",
+"size": 30096,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B05/move_kinds.tsv",
+"size": 321,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B05/ours_extra.txt",
+"size": 4676,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B05/play_log.tsv",
+"size": 766631,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B05/qm_bow_finish.txt",
+"size": 0,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B05/skill_files.txt",
+"size": 24347,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B05/skill_names.tsv",
+"size": 6420,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B05/skill_power.tsv",
+"size": 9281,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B05/skill_stats.tsv",
+"size": 60302,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B05/stage_bounds.tsv",
+"size": 176,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B05/stage_seen.tsv",
+"size": 100,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B05/yog_dodge.txt",
+"size": 3,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B06/commands.tsv",
+"size": 22478,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B06/danger.tsv",
+"size": 14946,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B06/dodge_stats.tsv",
+"size": 352,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B06/enemy_moves.tsv",
+"size": 3285,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B06/flags.tsv",
+"size": 253,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B06/foe_bands.tsv",
+"size": 417,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B06/foe_mode.txt",
+"size": 72,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B06/KhdBattle.exe",
+"size": 124928,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B06/missiles.tsv",
+"size": 474,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B06/motion_cats.tsv",
+"size": 4772,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B06/motion_cats_def.tsv",
+"size": 30096,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B06/move_kinds.tsv",
+"size": 471,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B06/ours_extra.txt",
+"size": 4676,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B06/play_log.tsv",
+"size": 1030664,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B06/qm_bow_finish.txt",
+"size": 0,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B06/skill_files.txt",
+"size": 24347,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B06/skill_names.tsv",
+"size": 6420,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B06/skill_power.tsv",
+"size": 9281,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B06/skill_stats.tsv",
+"size": 61824,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B06/stage_bounds.tsv",
+"size": 176,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B06/stage_seen.tsv",
+"size": 100,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B06/yog_dodge.txt",
+"size": 3,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B07/commands.tsv",
+"size": 22478,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B07/danger.tsv",
+"size": 14946,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B07/dodge_stats.tsv",
+"size": 352,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B07/enemy_moves.tsv",
+"size": 4082,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B07/flags.tsv",
+"size": 202,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B07/foe_bands.tsv",
+"size": 413,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B07/foe_mode.txt",
+"size": 72,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B07/KhdBattle.exe",
+"size": 140800,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B07/missiles.tsv",
+"size": 1079,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B07/motion_cats.tsv",
+"size": 4772,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B07/motion_cats_def.tsv",
+"size": 30096,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B07/move_kinds.tsv",
+"size": 338,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B07/ours_extra.txt",
+"size": 4676,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B07/play_log.tsv",
+"size": 4002645,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B07/qm_bow_finish.txt",
+"size": 0,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B07/skill_files.txt",
+"size": 24347,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B07/skill_names.tsv",
+"size": 6420,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B07/skill_power.tsv",
+"size": 8929,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B07/skill_stats.tsv",
+"size": 60226,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B07/stage_bounds.tsv",
+"size": 182,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B07/stage_seen.tsv",
+"size": 100,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B07/yog_dodge.txt",
+"size": 3,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B08/commands.tsv",
+"size": 22478,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B08/danger.tsv",
+"size": 14946,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B08/dodge_stats.tsv",
+"size": 352,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B08/enemy_moves.tsv",
+"size": 3160,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B08/flags.tsv",
+"size": 170,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B08/foe_bands.tsv",
+"size": 418,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B08/foe_mode.txt",
+"size": 72,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B08/KhdBattle.exe",
+"size": 123392,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B08/missiles.tsv",
+"size": 474,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B08/motion_cats.tsv",
+"size": 4772,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B08/motion_cats_def.tsv",
+"size": 30096,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B08/move_kinds.tsv",
+"size": 317,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B08/ours_extra.txt",
+"size": 4676,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B08/play_log.tsv",
+"size": 355952,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B08/qm_bow_finish.txt",
+"size": 0,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B08/skill_files.txt",
+"size": 24347,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B08/skill_names.tsv",
+"size": 6420,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B08/skill_power.tsv",
+"size": 9281,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B08/skill_stats.tsv",
+"size": 60581,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B08/stage_bounds.tsv",
+"size": 176,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B08/stage_seen.tsv",
+"size": 100,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B08/yog_dodge.txt",
+"size": 3,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B09/commands.tsv",
+"size": 22478,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B09/danger.tsv",
+"size": 14946,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B09/dodge_stats.tsv",
+"size": 352,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B09/enemy_moves.tsv",
+"size": 4196,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B09/flags.tsv",
+"size": 206,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B09/foe_bands.tsv",
+"size": 395,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B09/foe_mode.txt",
+"size": 82,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B09/KhdBattle.exe",
+"size": 144896,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B09/missiles.tsv",
+"size": 474,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B09/motion_cats.tsv",
+"size": 4772,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B09/motion_cats_def.tsv",
+"size": 30096,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B09/move_kinds.tsv",
+"size": 711,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B09/ours_extra.txt",
+"size": 4676,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B09/play_log.tsv",
+"size": 16837550,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B09/qm_bow_finish.txt",
+"size": 0,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B09/skill_files.txt",
+"size": 24347,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B09/skill_names.tsv",
+"size": 6420,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B09/skill_power.tsv",
+"size": 9281,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B09/skill_stats.tsv",
+"size": 62095,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B09/stage_bounds.tsv",
+"size": 179,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B09/stage_seen.tsv",
+"size": 100,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B09/yog_dodge.txt",
+"size": 3,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B10/commands.tsv",
+"size": 22478,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B10/danger.tsv",
+"size": 15011,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B10/dodge_stats.tsv",
+"size": 352,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B10/enemy_moves.tsv",
+"size": 2681,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B10/flags.tsv",
+"size": 177,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B10/foe_bands.tsv",
+"size": 395,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B10/foe_mode.txt",
+"size": 72,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B10/KhdBattle.exe",
+"size": 139776,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B10/missiles.tsv",
+"size": 551,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B10/motion_cats.tsv",
+"size": 4772,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B10/motion_cats_def.tsv",
+"size": 30096,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B10/move_kinds.tsv",
+"size": 474,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B10/ours_extra.txt",
+"size": 4676,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B10/play_log.tsv",
+"size": 5473846,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B10/qm_bow_finish.txt",
+"size": 0,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B10/skill_files.txt",
+"size": 24347,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B10/skill_names.tsv",
+"size": 6420,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B10/skill_power.tsv",
+"size": 9281,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B10/skill_stats.tsv",
+"size": 60107,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B10/stage_bounds.tsv",
+"size": 174,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B10/stage_seen.tsv",
+"size": 99,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B10/yog_dodge.txt",
+"size": 3,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B11/commands.tsv",
+"size": 22478,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B11/danger.tsv",
+"size": 14946,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B11/dodge_stats.tsv",
+"size": 352,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B11/enemy_moves.tsv",
+"size": 3597,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B11/flags.tsv",
+"size": 160,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B11/foe_bands.tsv",
+"size": 395,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B11/foe_mode.txt",
+"size": 72,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B11/KhdBattle.exe",
+"size": 124416,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B11/missiles.tsv",
+"size": 474,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B11/motion_cats.tsv",
+"size": 4772,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B11/motion_cats_def.tsv",
+"size": 30096,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B11/move_kinds.tsv",
+"size": 597,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B11/ours_extra.txt",
+"size": 4676,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B11/play_log.tsv",
+"size": 1107601,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B11/qm_bow_finish.txt",
+"size": 0,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B11/skill_files.txt",
+"size": 24347,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B11/skill_names.tsv",
+"size": 6420,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B11/skill_power.tsv",
+"size": 9281,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B11/skill_stats.tsv",
+"size": 60238,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B11/stage_bounds.tsv",
+"size": 174,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B11/stage_seen.tsv",
+"size": 98,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B11/yog_dodge.txt",
+"size": 3,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B12/commands.tsv",
+"size": 22478,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B12/danger.tsv",
+"size": 14946,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B12/dodge_stats.tsv",
+"size": 352,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B12/enemy_moves.tsv",
+"size": 3415,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B12/flags.tsv",
+"size": 209,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B12/foe_bands.tsv",
+"size": 413,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B12/foe_mode.txt",
+"size": 72,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B12/KhdBattle.exe",
+"size": 123392,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B12/missiles.tsv",
+"size": 474,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B12/motion_cats.tsv",
+"size": 4772,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B12/motion_cats_def.tsv",
+"size": 30096,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B12/move_kinds.tsv",
+"size": 290,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B12/ours_extra.txt",
+"size": 4676,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B12/play_log.tsv",
+"size": 574842,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B12/qm_bow_finish.txt",
+"size": 0,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B12/skill_files.txt",
+"size": 24347,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B12/skill_names.tsv",
+"size": 6420,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B12/skill_power.tsv",
+"size": 9281,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B12/skill_stats.tsv",
+"size": 60217,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B12/stage_bounds.tsv",
+"size": 176,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B12/stage_seen.tsv",
+"size": 100,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B12/yog_dodge.txt",
+"size": 3,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B13/commands.tsv",
+"size": 22478,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B13/danger.tsv",
+"size": 14946,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B13/dodge_stats.tsv",
+"size": 352,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B13/enemy_moves.tsv",
+"size": 3359,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B13/flags.tsv",
+"size": 190,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B13/foe_bands.tsv",
+"size": 395,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B13/foe_mode.txt",
+"size": 81,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B13/KhdBattle.exe",
+"size": 123392,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B13/missiles.tsv",
+"size": 474,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B13/motion_cats.tsv",
+"size": 4772,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B13/motion_cats_def.tsv",
+"size": 30096,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B13/move_kinds.tsv",
+"size": 538,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B13/ours_extra.txt",
+"size": 4676,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B13/play_log.tsv",
+"size": 694691,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B13/qm_bow_finish.txt",
+"size": 0,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B13/skill_files.txt",
+"size": 24347,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B13/skill_names.tsv",
+"size": 6420,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B13/skill_power.tsv",
+"size": 9281,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B13/skill_stats.tsv",
+"size": 60164,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B13/stage_bounds.tsv",
+"size": 180,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B13/stage_seen.tsv",
+"size": 100,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B13/yog_dodge.txt",
+"size": 3,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B14/commands.tsv",
+"size": 22478,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B14/danger.tsv",
+"size": 14946,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B14/dodge_stats.tsv",
+"size": 352,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B14/enemy_moves.tsv",
+"size": 5436,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B14/flags.tsv",
+"size": 167,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B14/foe_bands.tsv",
+"size": 395,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B14/foe_mode.txt",
+"size": 72,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B14/KhdBattle.exe",
+"size": 130048,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B14/missiles.tsv",
+"size": 474,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B14/motion_cats.tsv",
+"size": 4772,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B14/motion_cats_def.tsv",
+"size": 30096,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B14/move_kinds.tsv",
+"size": 1718,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B14/ours_extra.txt",
+"size": 4676,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B14/play_log.tsv",
+"size": 1936472,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B14/qm_bow_finish.txt",
+"size": 0,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B14/skill_files.txt",
+"size": 24347,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B14/skill_names.tsv",
+"size": 6420,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B14/skill_power.tsv",
+"size": 9281,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B14/skill_stats.tsv",
+"size": 60107,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B14/stage_bounds.tsv",
+"size": 179,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B14/stage_seen.tsv",
+"size": 100,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B14/yog_dodge.txt",
+"size": 3,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B15/commands.tsv",
+"size": 22478,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B15/danger.tsv",
+"size": 14946,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B15/dodge_stats.tsv",
+"size": 352,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B15/enemy_moves.tsv",
+"size": 2644,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B15/flags.tsv",
+"size": 190,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B15/foe_bands.tsv",
+"size": 395,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B15/foe_mode.txt",
+"size": 72,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B15/KhdBattle.exe",
+"size": 123392,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B15/missiles.tsv",
+"size": 564,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B15/motion_cats.tsv",
+"size": 4772,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B15/motion_cats_def.tsv",
+"size": 30096,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B15/move_kinds.tsv",
+"size": 354,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B15/ours_extra.txt",
+"size": 4676,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B15/play_log.tsv",
+"size": 174949,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B15/qm_bow_finish.txt",
+"size": 0,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B15/skill_files.txt",
+"size": 24347,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B15/skill_names.tsv",
+"size": 6420,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B15/skill_power.tsv",
+"size": 9281,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B15/skill_stats.tsv",
+"size": 60107,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B15/stage_bounds.tsv",
+"size": 176,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B15/yog_dodge.txt",
+"size": 3,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B16/commands.tsv",
+"size": 22478,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B16/danger.tsv",
+"size": 14962,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B16/dodge_stats.tsv",
+"size": 352,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B16/enemy_moves.tsv",
+"size": 3426,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B16/flags.tsv",
+"size": 211,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B16/foe_bands.tsv",
+"size": 395,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B16/foe_mode.txt",
+"size": 81,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B16/KhdBattle.exe",
+"size": 123392,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B16/missiles.tsv",
+"size": 474,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B16/motion_cats.tsv",
+"size": 4772,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B16/motion_cats_def.tsv",
+"size": 30096,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B16/move_kinds.tsv",
+"size": 446,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B16/ours_extra.txt",
+"size": 4676,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B16/play_log.tsv",
+"size": 367016,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B16/qm_bow_finish.txt",
+"size": 0,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B16/skill_files.txt",
+"size": 24347,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B16/skill_names.tsv",
+"size": 6420,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B16/skill_power.tsv",
+"size": 9281,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B16/skill_stats.tsv",
+"size": 60107,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B16/stage_bounds.tsv",
+"size": 175,
+"status": "new"
+},
+{
+"rel": "autobattle/battles/B16/yog_dodge.txt",
+"size": 3,
+"status": "new"
+},
+{
+"rel": "autobattle/battles.tsv",
+"size": 1529,
+"status": "new"
+},
+{
+"rel": "autobattle/duel_ai_alias.tsv",
+"size": 61944,
+"status": "new"
+},
+{
+"rel": "autobattle/duel_auto.tsv",
+"size": 13055,
+"status": "new"
+},
+{
+"rel": "autobattle/duel_balance.tsv",
+"size": 28187,
+"status": "new"
+},
+{
+"rel": "autobattle/duel_balance.tsv.before_mmhm_fire_20261105",
+"size": 27987,
+"status": "exclude"
+},
+{
+"rel": "autobattle/duel_balance_scenes.tsv",
+"size": 9980,
+"status": "new"
+},
+{
+"rel": "autobattle/hard/dmpack900_hard.dat",
+"size": 2842155,
+"status": "new"
+},
+{
+"rel": "autobattle/khd4k.dll",
+"size": 197632,
+"status": "new"
+},
+{
+"rel": "autobattle/khd4k_frame.raw",
+"size": 1440000,
+"status": "new"
+},
+{
+"rel": "autobattle/khd4k_trace.txt",
+"size": 507378,
+"status": "exclude"
+},
+{
+"rel": "autobattle/KhdAutoBattle.exe",
+"size": 29696,
+"status": "new"
+},
+{
+"rel": "autobattle/KhdSubtitles.exe",
+"size": 32768,
+"status": "new"
+},
+{
+"rel": "autobattle/ours_extra.txt",
+"size": 4676,
+"status": "new"
+},
+{
+"rel": "autobattle/play_error.txt",
+"size": 64,
+"status": "exclude"
+},
+{
+"rel": "autobattle/play_log.old.tsv",
+"size": 48048949,
+"status": "exclude"
+},
+{
+"rel": "autobattle/play_log.tsv",
+"size": 2521070,
+"status": "exclude"
+},
+{
+"rel": "autobattle/proxy_log.txt",
+"size": 14496801,
+"status": "exclude"
+},
+{
+"rel": "autobattle/skill_files.txt",
+"size": 24347,
+"status": "new"
+},
+{
+"rel": "autobattle/skill_names.tsv",
+"size": 6420,
+"status": "new"
+},
+{
+"rel": "autobattle/story_subs.before_codex_20261018.tsv",
+"size": 3754,
+"status": "exclude"
+},
+{
+"rel": "autobattle/story_subs.tsv",
+"size": 7969,
+"status": "new"
+},
+{
+"rel": "autobattle/story_subs.tsv.before_freefight",
+"size": 7756,
+"status": "exclude"
+},
+{
+"rel": "autobattle/subs.tsv",
+"size": 143054,
+"status": "new"
+},
+{
+"rel": "autobattle/subs_long.tsv",
+"size": 1416,
+"status": "new"
+},
+{
+"rel": "autobattle/subtitle_log.tsv",
+"size": 17459448,
+"status": "exclude"
+},
+{
+"rel": "autobattle/subtitle_status.txt",
+"size": 25,
+"status": "exclude"
+},
+{
+"rel": "autobattle/ui/band_bottom.bmp",
+"size": 172854,
+"status": "new"
+},
+{
+"rel": "autobattle/ui/band_top.bmp",
+"size": 172854,
+"status": "new"
+},
+{
+"rel": "autobattle/ui/face_00.bmp",
+"size": 2814,
+"status": "new"
+},
+{
+"rel": "autobattle/ui/face_01.bmp",
+"size": 2814,
+"status": "new"
+},
+{
+"rel": "autobattle/ui/face_02.bmp",
+"size": 2814,
+"status": "new"
+},
+{
+"rel": "autobattle/ui/face_03.bmp",
+"size": 2814,
+"status": "new"
+},
+{
+"rel": "autobattle/ui/face_04.bmp",
+"size": 2814,
+"status": "new"
+},
+{
+"rel": "autobattle/ui/face_05.bmp",
+"size": 2814,
+"status": "new"
+},
+{
+"rel": "autobattle/ui/face_06.bmp",
+"size": 2814,
+"status": "new"
+},
+{
+"rel": "autobattle/ui/face_07.bmp",
+"size": 2814,
+"status": "new"
+},
+{
+"rel": "autobattle/ui/face_08.bmp",
+"size": 2814,
+"status": "new"
+},
+{
+"rel": "autobattle/ui/face_09.bmp",
+"size": 2814,
+"status": "new"
+},
+{
+"rel": "autobattle/ui/face_10.bmp",
+"size": 2814,
+"status": "new"
+},
+{
+"rel": "autobattle/ui/face_11.bmp",
+"size": 2814,
+"status": "new"
+},
+{
+"rel": "autobattle/ui/face_12.bmp",
+"size": 2814,
+"status": "new"
+},
+{
+"rel": "autobattle/ui/face_13.bmp",
+"size": 2814,
+"status": "new"
+},
+{
+"rel": "autobattle/ui/face_14.bmp",
+"size": 2814,
+"status": "new"
+},
+{
+"rel": "autobattle/ui/khd_v6.manifest",
+"size": 426,
+"status": "new"
+},
+{
+"rel": "autobattle/ui/parchment.bmp",
+"size": 860214,
+"status": "new"
+},
+{
+"rel": "autobattle/voice_groups.tsv",
+"size": 258789,
+"status": "new"
+},
+{
+"rel": "autobattle/voice_len.tsv",
+"size": 92786,
+"status": "new"
+},
+{
+"rel": "autobattle/읽어주세요.before_duel_20261018.md",
+"size": 11994,
+"status": "exclude"
+},
+{
+"rel": "autobattle/읽어주세요.md",
+"size": 35288,
+"status": "new"
+},
+{
+"rel": "cg.pak",
+"size": 421537007,
+"status": "original"
+},
+{
+"rel": "d3d8.dll.d3d8to9_off",
+"size": 124416,
+"status": "exclude"
+},
+{
+"rel": "d3d8.dll.dgvoodoo_off",
+"size": 414208,
+"status": "exclude"
+},
+{
+"rel": "d3dxof.dll",
+"size": 199680,
+"status": "new"
+},
+{
+"rel": "demonbane.dll",
+"size": 1241088,
+"status": "modified"
+},
+{
+"rel": "demonbane.dll.before_escpause_4D891D51.bak",
+"size": 1241088,
+"status": "exclude"
+},
+{
+"rel": "demonbane.dll.before_vtap_4493E5BF.bak",
+"size": 1241088,
+"status": "exclude"
+},
+{
+"rel": "demonbane.dll.orig_3F389D2D",
+"size": 1241088,
+"status": "exclude"
+},
+{
+"rel": "dgVoodoo.conf",
+"size": 21870,
+"status": "new"
+},
+{
+"rel": "dinput8.dll",
+"size": 428032,
+"status": "new"
+},
+{
+"rel": "dinput8.dll.before_duel_4EB0F276",
+"size": 190976,
+"status": "exclude"
+},
+{
+"rel": "dinput8.dll.before_esc_9BD68572.bak",
+"size": 188928,
+"status": "exclude"
+},
+{
+"rel": "dmpack.dat",
+"size": 350378339,
+"status": "modified"
+},
+{
+"rel": "dmpack.dat.orig_FDD3D1A8",
+"size": 350364479,
+"status": "exclude"
+},
+{
+"rel": "dmpack001.dat",
+"size": 33284227,
+"status": "new"
+},
+{
+"rel": "dmpack001.dat.orig_0B479A4D",
+"size": 33248392,
+"status": "exclude"
+},
+{
+"rel": "dmpack002.dat",
+"size": 27875209,
+"status": "new"
+},
+{
+"rel": "dmpack003.dat",
+"size": 525939,
+"status": "new"
+},
+{
+"rel": "dmpack500_replay.dat",
+"size": 11114207,
+"status": "new"
+},
+{
+"rel": "dmpack500_replay.dat.before_cross_044C5E77",
+"size": 5633481,
+"status": "exclude"
+},
+{
+"rel": "dmpack502_duel.dat",
+"size": 23419140,
+"status": "new"
+},
+{
+"rel": "dmpack504_duelhero.dat",
+"size": 14983522,
+"status": "new"
+},
+{
+"rel": "dmpack505_duelauto.dat",
+"size": 226688606,
+"status": "new"
+},
+{
+"rel": "dmpack506_duelfix.dat",
+"size": 34734761,
+"status": "new"
+},
+{
+"rel": "dmpack508_mm_qm_c12.dat",
+"size": 1647823,
+"status": "new"
+},
+{
+"rel": "dmpack509_mm_stall.dat",
+"size": 759535,
+"status": "new"
+},
+{
+"rel": "dmpack510_nero_ground.dat",
+"size": 16775798,
+"status": "new"
+},
+{
+"rel": "dmpack512_aion_native_ai.dat",
+"size": 1097817,
+"status": "new"
+},
+{
+"rel": "dmpack513_hm_owned.dat",
+"size": 824214,
+"status": "new"
+},
+{
+"rel": "dmpack514_a2_air.dat",
+"size": 413189,
+"status": "new"
+},
+{
+"rel": "dmpack514_am_owned.dat",
+"size": 441692,
+"status": "new"
+},
+{
+"rel": "dmpack514_em_owned.dat",
+"size": 821337,
+"status": "new"
+},
+{
+"rel": "dmpack514_f2_owned.dat",
+"size": 366791,
+"status": "new"
+},
+{
+"rel": "dmpack517_nero_demonbane.dat",
+"size": 820191,
+"status": "new"
+},
+{
+"rel": "dmpack520_kokuin666.dat",
+"size": 43586632,
+"status": "new"
+},
+{
+"rel": "dmpack522_hard_v11.dat",
+"size": 184406465,
+"status": "new"
+},
+{
+"rel": "dmpack523_tiberius_mix.dat",
+"size": 31699318,
+"status": "new"
+},
+{
+"rel": "dmpack524_pause.dat",
+"size": 4718914,
+"status": "new"
+},
+{
+"rel": "dmpack525_auto_pause.dat",
+"size": 4718914,
+"status": "new"
+},
+{
+"rel": "dmpack526_nero_demonbane_hard.dat",
+"size": 43156,
+"status": "new"
+},
+{
+"rel": "dmpack530_duel_sight.dat",
+"size": 46153143,
+"status": "new"
+},
+{
+"rel": "dmpack531_mm_finishers.dat",
+"size": 3567863,
+"status": "new"
+},
+{
+"rel": "dmpack532_hm_load_ai.dat",
+"size": 4588621,
+"status": "new"
+},
+{
+"rel": "dmpack533_nero_event.dat",
+"size": 34878839,
+"status": "new"
+},
+{
+"rel": "dmpack534_nero_ground_p1.dat",
+"size": 233068,
+"status": "new"
+},
+{
+"rel": "dmpack535_pm_yog_voice.dat",
+"size": 7467535,
+"status": "new"
+},
+{
+"rel": "dmpack536_nero_story.dat",
+"size": 508306,
+"status": "new"
+},
+{
+"rel": "dmpack600_retex.dat",
+"size": 61796739,
+"status": "new"
+},
+{
+"rel": "FONTCHANGER.dll",
+"size": 334336,
+"status": "new"
+},
+{
+"rel": "hook.ini",
+"size": 353,
+"status": "new"
+},
+{
+"rel": "khdcam.ini",
+"size": 2040,
+"status": "new"
+},
+{
+"rel": "khdcam_log.txt",
+"size": 1226,
+"status": "exclude"
+},
+{
+"rel": "khdjump.ini",
+"size": 416,
+"status": "new"
+},
+{
+"rel": "khdjump_log.txt",
+"size": 43789,
+"status": "exclude"
+},
+{
+"rel": "KHDKorean-CP932Han-Ext.otf",
+"size": 16474720,
+"status": "new"
+},
+{
+"rel": "KishinHisho_chs.1DD6D1D34AB4C93.crash.dmp",
+"size": 0,
+"status": "exclude"
+},
+{
+"rel": "KishinHisho_chs.exe",
+"size": 167936,
+"status": "new"
+},
+{
+"rel": "LoaderDll.dll",
+"size": 6144,
+"status": "new"
+},
+{
+"rel": "LocaleEmulator.dll",
+"size": 63488,
+"status": "new"
+},
+{
+"rel": "mpeg.pak",
+"size": 302076602,
+"status": "modified"
+},
+{
+"rel": "SAVE/bjump/000001.dat",
+"size": 9695,
+"status": "exclude"
+},
+{
+"rel": "SAVE/bjump/000002.dat",
+"size": 9735,
+"status": "exclude"
+},
+{
+"rel": "SAVE/bjump/000003.dat",
+"size": 9808,
+"status": "exclude"
+},
+{
+"rel": "SAVE/bjump/000004.dat",
+"size": 9804,
+"status": "exclude"
+},
+{
+"rel": "SAVE/bjump/000005.dat",
+"size": 9788,
+"status": "exclude"
+},
+{
+"rel": "SAVE/bjump/000006.dat",
+"size": 9829,
+"status": "exclude"
+},
+{
+"rel": "SAVE/bjump/000007.dat",
+"size": 9823,
+"status": "exclude"
+},
+{
+"rel": "SAVE/bjump/000008.dat",
+"size": 9789,
+"status": "exclude"
+},
+{
+"rel": "SAVE/bjump/000009.dat",
+"size": 9776,
+"status": "exclude"
+},
+{
+"rel": "SAVE/bjump/000010.dat",
+"size": 9821,
+"status": "exclude"
+},
+{
+"rel": "SAVE/bjump/000011.dat",
+"size": 9831,
+"status": "exclude"
+},
+{
+"rel": "SAVE/bjump/000012.dat",
+"size": 9782,
+"status": "exclude"
+},
+{
+"rel": "SAVE/bjump/000013.dat",
+"size": 9709,
+"status": "exclude"
+},
+{
+"rel": "SAVE/bjump/000014.dat",
+"size": 9718,
+"status": "exclude"
+},
+{
+"rel": "SAVE/bjump/000015.dat",
+"size": 9724,
+"status": "exclude"
+},
+{
+"rel": "SAVE/bjump/000016.dat",
+"size": 9694,
+"status": "exclude"
+},
+{
+"rel": "SAVE/bjump/000017.dat",
+"size": 9773,
+"status": "exclude"
+},
+{
+"rel": "SAVE/bjump/000018.dat",
+"size": 9756,
+"status": "exclude"
+},
+{
+"rel": "SAVE/bjump/000019.dat",
+"size": 9745,
+"status": "exclude"
+},
+{
+"rel": "SAVE/bjump/000020.dat",
+"size": 9752,
+"status": "exclude"
+},
+{
+"rel": "SAVE/bjump/000021.dat",
+"size": 9810,
+"status": "exclude"
+},
+{
+"rel": "SAVE/bjump/000022.dat",
+"size": 9792,
+"status": "exclude"
+},
+{
+"rel": "SAVE/bjump/000023.dat",
+"size": 9824,
+"status": "exclude"
+},
+{
+"rel": "SAVE/bjump/000024.dat",
+"size": 9807,
+"status": "exclude"
+},
+{
+"rel": "SAVE/bjump/000025.dat",
+"size": 9785,
+"status": "exclude"
+},
+{
+"rel": "SAVE/bjump/000026.dat",
+"size": 9753,
+"status": "exclude"
+},
+{
+"rel": "SAVE/bjump/000027.dat",
+"size": 9802,
+"status": "exclude"
+},
+{
+"rel": "SAVE/bjump/000028.dat",
+"size": 9760,
+"status": "exclude"
+},
+{
+"rel": "SAVE/bjump/000029.dat",
+"size": 9811,
+"status": "exclude"
+},
+{
+"rel": "SAVE/bjump/000030.dat",
+"size": 9787,
+"status": "exclude"
+},
+{
+"rel": "SAVE/bjump/000031.dat",
+"size": 9809,
+"status": "exclude"
+},
+{
+"rel": "SAVE/bjump/000032.dat",
+"size": 9741,
+"status": "exclude"
+},
+{
+"rel": "SAVE/bjump/000033.dat",
+"size": 9849,
+"status": "exclude"
+},
+{
+"rel": "SAVE/bjump/000034.dat",
+"size": 9769,
+"status": "exclude"
+},
+{
+"rel": "SAVE/bjump/000035.dat",
+"size": 9841,
+"status": "exclude"
+},
+{
+"rel": "SAVE/bjump/000036.dat",
+"size": 9808,
+"status": "exclude"
+},
+{
+"rel": "SAVE/bjump/000037.dat",
+"size": 9768,
+"status": "exclude"
+},
+{
+"rel": "SAVE/bjump/000038.dat",
+"size": 9778,
+"status": "exclude"
+},
+{
+"rel": "SAVE/bjump/000039.dat",
+"size": 9832,
+"status": "exclude"
+},
+{
+"rel": "SAVE/bjump/000040.dat",
+"size": 9832,
+"status": "exclude"
+},
+{
+"rel": "SAVE/bjump/000041.dat",
+"size": 9776,
+"status": "exclude"
+},
+{
+"rel": "SAVE/bjump/000042.dat",
+"size": 9753,
+"status": "exclude"
+},
+{
+"rel": "SAVE/bjump/000043.dat",
+"size": 9789,
+"status": "exclude"
+},
+{
+"rel": "SAVE/bjump/000044.dat",
+"size": 9810,
+"status": "exclude"
+},
+{
+"rel": "SAVE/comm00.txt",
+"size": 32,
+"status": "exclude"
+},
+{
+"rel": "SAVE/comm01.txt",
+"size": 18,
+"status": "exclude"
+},
+{
+"rel": "SAVE/comm02.txt",
+"size": 42,
+"status": "exclude"
+},
+{
+"rel": "SAVE/comm03.txt",
+"size": 40,
+"status": "exclude"
+},
+{
+"rel": "SAVE/comm04.txt",
+"size": 64,
+"status": "exclude"
+},
+{
+"rel": "SAVE/comm05.txt",
+"size": 48,
+"status": "exclude"
+},
+{
+"rel": "SAVE/comm06.txt",
+"size": 12,
+"status": "exclude"
+},
+{
+"rel": "SAVE/comm07.txt",
+"size": 32,
+"status": "exclude"
+},
+{
+"rel": "SAVE/comm08.txt",
+"size": 44,
+"status": "exclude"
+},
+{
+"rel": "SAVE/comm09.txt",
+"size": 41,
+"status": "exclude"
+},
+{
+"rel": "SAVE/comm10.txt",
+"size": 44,
+"status": "exclude"
+},
+{
+"rel": "SAVE/comm11.txt",
+"size": 84,
+"status": "exclude"
+},
+{
+"rel": "SAVE/comm12.txt",
+"size": 81,
+"status": "exclude"
+},
+{
+"rel": "SAVE/comm13.txt",
+"size": 34,
+"status": "exclude"
+},
+{
+"rel": "SAVE/comm14.txt",
+"size": 19,
+"status": "exclude"
+},
+{
+"rel": "SAVE/comm15.txt",
+"size": 46,
+"status": "exclude"
+},
+{
+"rel": "SAVE/comm16.txt",
+"size": 48,
+"status": "exclude"
+},
+{
+"rel": "SAVE/comm17.txt",
+"size": 30,
+"status": "exclude"
+},
+{
+"rel": "SAVE/comm18.txt",
+"size": 33,
+"status": "exclude"
+},
+{
+"rel": "SAVE/comm19.txt",
+"size": 33,
+"status": "exclude"
+},
+{
+"rel": "SAVE/comm20.txt",
+"size": 35,
+"status": "exclude"
+},
+{
+"rel": "SAVE/comm21.txt",
+"size": 67,
+"status": "exclude"
+},
+{
+"rel": "SAVE/comm22.txt",
+"size": 33,
+"status": "exclude"
+},
+{
+"rel": "SAVE/comm23.txt",
+"size": 52,
+"status": "exclude"
+},
+{
+"rel": "SAVE/comm24.txt",
+"size": 19,
+"status": "exclude"
+},
+{
+"rel": "SAVE/comm25.txt",
+"size": 31,
+"status": "exclude"
+},
+{
+"rel": "SAVE/comm26.txt",
+"size": 120,
+"status": "exclude"
+},
+{
+"rel": "SAVE/comm27.txt",
+"size": 23,
+"status": "exclude"
+},
+{
+"rel": "SAVE/comm28.txt",
+"size": 40,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save.dat",
+"size": 1437,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save00",
+"size": 8898,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save00.dat",
+"size": 85564,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save01",
+"size": 9949,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save01.dat",
+"size": 98452,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save02",
+"size": 9356,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save02.dat",
+"size": 101924,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save03",
+"size": 8548,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save03.dat",
+"size": 106537,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save04",
+"size": 9252,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save04.dat",
+"size": 115279,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save05",
+"size": 9402,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save05.dat",
+"size": 121117,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save06",
+"size": 11396,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save06.dat",
+"size": 125071,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save07",
+"size": 9315,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save07.dat",
+"size": 129331,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save08",
+"size": 8930,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save08.dat",
+"size": 129739,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save09",
+"size": 7686,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save09.dat",
+"size": 14333,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save10",
+"size": 11960,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save10.dat",
+"size": 14667,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save11",
+"size": 8910,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save11.dat",
+"size": 14728,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save12",
+"size": 8955,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save12.dat",
+"size": 15657,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save13",
+"size": 11252,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save13.dat",
+"size": 8193,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save14",
+"size": 6828,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save14.dat",
+"size": 11419,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save15",
+"size": 7620,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save15.dat",
+"size": 7359,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save16",
+"size": 9161,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save16.dat",
+"size": 7498,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save17",
+"size": 7429,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save17.dat",
+"size": 6694,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save18",
+"size": 12515,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save18.dat",
+"size": 6213,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save19",
+"size": 12515,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save19.dat",
+"size": 6213,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save20",
+"size": 11567,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save20.dat",
+"size": 17493,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save21",
+"size": 9113,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save21.dat",
+"size": 14090,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save22",
+"size": 7948,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save22.dat",
+"size": 42000,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save23",
+"size": 9838,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save23.dat",
+"size": 20302,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save24",
+"size": 11410,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save24.dat",
+"size": 16348,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save25",
+"size": 7886,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save25.dat",
+"size": 45222,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save26",
+"size": 8866,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save26.dat",
+"size": 71886,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save27",
+"size": 8640,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save27.dat",
+"size": 79403,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save28",
+"size": 11550,
+"status": "exclude"
+},
+{
+"rel": "SAVE/save28.dat",
+"size": 79729,
+"status": "exclude"
+},
+{
+"rel": "SAVE/sys01.dat",
+"size": 126438,
+"status": "exclude"
+},
+{
+"rel": "SAVE/sys02.dat",
+"size": 41620,
+"status": "exclude"
+},
+{
+"rel": "script.pak",
+"size": 784611,
+"status": "modified"
+},
+{
+"rel": "script.pak.before_argon",
+"size": 783926,
+"status": "exclude"
+},
+{
+"rel": "script.pak.before_chant",
+"size": 785115,
+"status": "exclude"
+},
+{
+"rel": "script.pak.before_chant2",
+"size": 785137,
+"status": "exclude"
+},
+{
+"rel": "script.pak.before_layout_menu",
+"size": 785108,
+"status": "exclude"
+},
+{
+"rel": "script.pak.before_replay.bak",
+"size": 773739,
+"status": "exclude"
+},
+{
+"rel": "script.pak.before_restore.bak",
+"size": 754571,
+"status": "exclude"
+},
+{
+"rel": "sound.pak",
+"size": 184521262,
+"status": "original"
+},
+{
+"rel": "system.dll",
+"size": 1101824,
+"status": "modified"
+},
+{
+"rel": "system.dll.before_inputfix.bak",
+"size": 1097728,
+"status": "exclude"
+},
+{
+"rel": "system.pak",
+"size": 10603,
+"status": "modified"
+},
+{
+"rel": "version.dll",
+"size": 177152,
+"status": "new"
+},
+{
+"rel": "voice.pak",
+"size": 163706414,
+"status": "original"
+},
+{
+"rel": "대화 기록 점프 안내.txt",
+"size": 1711,
+"status": "new"
+},
+{
+"rel": "전투 카메라 안내.txt",
+"size": 1809,
+"status": "new"
+}
+]
+}

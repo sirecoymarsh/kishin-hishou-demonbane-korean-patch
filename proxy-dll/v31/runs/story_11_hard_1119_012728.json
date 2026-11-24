@@ -1,0 +1,179 @@
+{
+ "out": "P:\\AI\\khd-runtime-fix\\logs\\duel_1119_012727",
+ "samples": 188,
+ "enemy_def": "NM.def",
+ "hp_end": [
+  450,
+  0
+ ],
+ "enemy_motions": [
+  "ASHURA_1",
+  "ASHURA_2",
+  "AUTOEVENT1",
+  "BACK_B",
+  "COMBO1",
+  "COMBO1_HF",
+  "COMBO2",
+  "COMBO3",
+  "DAMAGE1",
+  "DAMAGE2",
+  "DAMAGE3_G",
+  "FORWARD_B",
+  "GUARD",
+  "HIRYUU",
+  "MODE_CHANGE1",
+  "MODE_CHANGE2",
+  "MODE_CHANGE3",
+  "MODE_CHANGE4",
+  "START",
+  "STOP_G",
+  "STOP_MUTEKI",
+  "TSUBAME",
+  "WAIT",
+  "WAIT2"
+ ],
+ "big_moves": [
+  {
+   "motion": "MODE_CHANGE1",
+   "t0": 19.1,
+   "t1": 21.9,
+   "f0": 2,
+   "f1": 42,
+   "hp_lost": 44,
+   "next": "DAMAGE2"
+  },
+  {
+   "motion": "MODE_CHANGE2",
+   "t0": 35.2,
+   "t1": 35.2,
+   "f0": 2,
+   "f1": 2,
+   "hp_lost": 0,
+   "next": "ASHURA_1"
+  },
+  {
+   "motion": "ASHURA_1",
+   "t0": 37.3,
+   "t1": 39.8,
+   "f0": 7,
+   "f1": 99,
+   "hp_lost": 280,
+   "next": "ASHURA_2"
+  },
+  {
+   "motion": "MODE_CHANGE3",
+   "t0": 41.3,
+   "t1": 43.4,
+   "f0": 2,
+   "f1": 55,
+   "hp_lost": 80,
+   "next": "HIRYUU"
+  },
+  {
+   "motion": "HIRYUU",
+   "t0": 43.9,
+   "t1": 53.9,
+   "f0": 8,
+   "f1": 503,
+   "hp_lost": 370,
+   "next": "MODE_CHANGE4"
+  },
+  {
+   "motion": "MODE_CHANGE4",
+   "t0": 54.1,
+   "t1": 55.9,
+   "f0": 2,
+   "f1": 53,
+   "hp_lost": 0,
+   "next": "ASHURA_1"
+  },
+  {
+   "motion": "ASHURA_1",
+   "t0": 56.2,
+   "t1": 72.8,
+   "f0": 9,
+   "f1": 95,
+   "hp_lost": 20,
+   "next": "ASHURA_2"
+  },
+  {
+   "motion": "HIRYUU",
+   "t0": 78.4,
+   "t1": 81.2,
+   "f0": 14,
+   "f1": 183,
+   "hp_lost": 12,
+   "next": "WAIT"
+  }
+ ],
+ "enemy_hp_drops": {
+  "in_guarded_move": [
+   200,
+   10,
+   10,
+   30,
+   10,
+   10,
+   30,
+   10,
+   10,
+   30,
+   10,
+   10,
+   1,
+   1,
+   10
+  ],
+  "outside": [
+   288,
+   14,
+   14,
+   14,
+   14,
+   30,
+   20,
+   20,
+   60,
+   114,
+   20,
+   280,
+   20,
+   20,
+   60,
+   30,
+   20,
+   20,
+   8,
+   24,
+   20,
+   8
+  ]
+ },
+ "proxy": [
+  "pid 11524  fight kind: FREE FIGHT (scene 9, menu mask 0x200007e2) - 자동 전투 on",
+  "pid 11524  fight difficulty scope: scene=9 duel=0 combat_rank=2 duel_AI=2 story_rank=2",
+  "pid 11524  STORY_ONRYOU_FAST installed: 어려움 story / FREE FIGHT - Tiberius's 원령 주탄 charges in about half the time"
+ ],
+ "battle": 11,
+ "want_difficulty": 2,
+ "fixture": true,
+ "notes": [
+  "difficulty variable 0x100ee708: 1 -> 2",
+  "fixture: enemy max HP 1500, cut-in thresholds [1200, 900, 600, 300]",
+  "fixture: enemy HP 1500 -> 1212 (stage 0, during FORWARD_B)",
+  "fixture: saw MODE_CHANGE1 at enemy HP 1170",
+  "fixture: enemy HP 1026 -> 912 (stage 1, during STOP_MUTEKI)",
+  "fixture: saw MODE_CHANGE2 at enemy HP 892",
+  "fixture: enemy HP 892 -> 612 (stage 2, during ASHURA_1)",
+  "fixture: saw MODE_CHANGE3 at enemy HP 592",
+  "fixture: enemy HP 512 -> 312 (stage 3, during HIRYUU)",
+  "fixture: saw MODE_CHANGE4 at enemy HP 112",
+  "window position back to (0, 215)",
+  "SAVE restored from save_before_1119_012728; registry ActDifficult back to 2"
+ ],
+ "registry_after": {
+  "ActDifficult": 2,
+  "XPos": 0,
+  "YPos": 215
+ }
+}

@@ -1,0 +1,508 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0087_da0803",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0803:T00001",
+   "source_sha256": "f20640119ea58990302b9cdb7868cf92a6b5e871b11e6d582df17d285534eda8",
+   "ko": "「……그래서, 여기는 어디냐?」\n\n　『몽환심모』로 돌입한 다음 순간, 우리는 이 이질적인 공간 안에 있었다."
+  },
+  {
+   "id": "da0803:T00002",
+   "source_sha256": "5d5047cf6f452825a74e4a32e598d955247fcc11f15a7683cc9c40be04bf9ede",
+   "ko": "「대강의 짐작은 가지만」"
+  },
+  {
+   "id": "da0803:T00003",
+   "source_sha256": "02a8b2fe37c83cdc135c00c1859eb00c8f91c5c06fe33cdd5260ea5607241f64",
+   "ko": "「그래. "
+  },
+  {
+   "id": "da0803:R00001",
+   "source_sha256": "f58c026c179665797b00157bf4ac8d76bb0bc4ae666609165f837f7ff7226785",
+   "ko": "어나더 블러드군",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0803:T00004",
+   "source_sha256": "7c58b8241c16b415a8072b80c769be7397b9e7bca3dd1eb3bf0637c01669faf8",
+   "ko": "혈액언어판이군"
+  },
+  {
+   "id": "da0803:T00005",
+   "source_sha256": "833b0e6c5428822994b67e1aa19c2ee66cd2a2c5391831900de8312f4ac49b0e",
+   "ko": "」\n\n　어나더 블러드가 만드는 악몽의 공간."
+  },
+  {
+   "id": "da0803:T00006",
+   "source_sha256": "3856107d733bf395e877c40e4eb88d3c50f351126a293bb2bb8da4125b565bc4",
+   "ko": "이젠 익숙해졌다."
+  },
+  {
+   "id": "da0803:T00007",
+   "source_sha256": "d1c8a72c5f252c5f80e4411e197835069e8b97f605ad996dd6518bb2e50ea5f0",
+   "ko": "「바르자이 언월도를 쓰겠다」"
+  },
+  {
+   "id": "da0803:T00008",
+   "source_sha256": "ffa4fa8148aca0f35f27c4c1cb303cab3bea9c8deeab8465ad8d24710a6701d8",
+   "ko": "폭염을 동반하며 바르자이 언월도가 소환된다."
+  },
+  {
+   "id": "da0803:T00009",
+   "source_sha256": "302a85019d99d988772b3856a1d8b48cc38f2cf3e6069e385cda8a17b676bc69",
+   "ko": "도신에 떠오르는 마술 문양."
+  },
+  {
+   "id": "da0803:T00010",
+   "source_sha256": "cdc6b671c2cdb08b20c2454e149c157d99cf98e20da6736ad4e960e87dbb8c3f",
+   "ko": "언월도는 허공에 정지한 상태 그대로 저 혼자 회전을 시작했다."
+  },
+  {
+   "id": "da0803:T00011",
+   "source_sha256": "e3aec6e888d6da19ff43dadcc0613274c27dc607b0e11a2face8f81b86df9d77",
+   "ko": "「인도를 받도록 하지」"
+  },
+  {
+   "id": "da0803:T00012",
+   "source_sha256": "aee44e9c0b49b802dcfe0a2292937796cfd0519eede24ef17d2481313ff81e27",
+   "ko": "가로 회전에서 세로 회전으로."
+  },
+  {
+   "id": "da0803:T00013",
+   "source_sha256": "97c9327926dd9375c7330fa342c3bb7bb6f8a7c259b9802cf5d493fb0d03aea4",
+   "ko": "이윽고 검끝을 바로 아래로 향하더니 급강하한다."
+  },
+  {
+   "id": "da0803:T00014",
+   "source_sha256": "f39ff1dd7dd9d953e185138e4bbfd3a323c299cbcb7ce177d0b46a888d1532a5",
+   "ko": "검섬의 궤적이 옅은 빛이 되어 잔류한다."
+  },
+  {
+   "id": "da0803:T00015",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0803:R00002",
+   "source_sha256": "c59629c769866924bb57810e9781eab838b507ae4eeb4ea37d326119af80c31e",
+   "ko": "다우징",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0803:T00016",
+   "source_sha256": "f21ea3b3c5a290357eb2d95f926dc88cbd9c95ccc4ef8ba82bea6ee0299d1a9d",
+   "ko": "길안내"
+  },
+  {
+   "id": "da0803:T00017",
+   "source_sha256": "e6a4e539720e59d0a7a7736453074cdcf9f2da7427f3436f59ada80570ab4dd0",
+   "ko": "인가」"
+  },
+  {
+   "id": "da0803:T00018",
+   "source_sha256": "cec675d7755d984cba0df71c0f7fa4a2244e54e1b413f4b092cd820bde789a6d",
+   "ko": "언월도의 인도에 따라 기형적인 공간을 내려간다."
+  },
+  {
+   "id": "da0803:T00019",
+   "source_sha256": "366b33be3cafc7ef42f800cc4706274e8ef0f0aa1a473a4fe87d84dbe341c6de",
+   "ko": "붉은 안개가 무겁고 무겁게 데몬베인에게 휘감긴다."
+  },
+  {
+   "id": "da0803:T00020",
+   "source_sha256": "1a681b5b2ab4c11986dd9ff8eaa0f3883fa3e77999258595c913d9b4d2abc8c6",
+   "ko": "내려가면 내려갈수록 붉은 안개는 농도를 더한다."
+  },
+  {
+   "id": "da0803:T00021",
+   "source_sha256": "636f4c3b87b489243a4f943cdd430ff43e5f3cb4287f54b459dd0a4e94ce98d7",
+   "ko": "안개는 피로."
+  },
+  {
+   "id": "da0803:T00022",
+   "source_sha256": "00279599cced0a445f7c99dc28b3d94312f415fc23ba7f4aef3492a3e8acb4aa",
+   "ko": " 피는 덩어리로."
+  },
+  {
+   "id": "da0803:T00023",
+   "source_sha256": "199b13b35c3d2af7d5a7ec0b87d4454d91b7dc6142fc5a559772f196984da066",
+   "ko": "정신을 차려 보니 우리는 붉은 "
+  },
+  {
+   "id": "da0803:R00003",
+   "source_sha256": "586e8857c414912d1553ecc4bc99ca2a9a11e7c3a75d0c9b805cc4bf608e583f",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0803:T00024",
+   "source_sha256": "d0d1f84f368754fc617dea47071aad5e9a4deb55491246fe8e2c60d6e6e12950",
+   "ko": "진흙탕"
+  },
+  {
+   "id": "da0803:T00025",
+   "source_sha256": "a2659fc5fc90bca8a17232267b32f57fb973b3880b79f140b86ecfc216522940",
+   "ko": " 속으로 잠수해 있었다."
+  },
+  {
+   "id": "da0803:T00026",
+   "source_sha256": "aeebc43ca687bead327f8c64edeffd8b9f493ca6eed811b744f02e9194dd9040",
+   "ko": "「에에잇! 성가시구만, 제기랄!」"
+  },
+  {
+   "id": "da0803:T00027",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0803:R00004",
+   "source_sha256": "6fdd335fc7eb57892197ef6a73f836d68f0a6e14f8b6c7d28dc855a7c963912a",
+   "ko": "진흙",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0803:T00028",
+   "source_sha256": "e4c2d34c0328cb1fcae35af2e3215a06c42e93e2c9b66820264ebe01b78a0e95",
+   "ko": "악몽"
+  },
+  {
+   "id": "da0803:T00029",
+   "source_sha256": "f88527af6206359204729890334c55613c0daf3149606609f725544369411a14",
+   "ko": "에서 빠져나간다」"
+  },
+  {
+   "id": "da0803:T00030",
+   "source_sha256": "44849904a7d64e5f0355b6281a98ce810ae8d92b8e94c49f02160a27e591d9bd",
+   "ko": "시야가 트인다."
+  },
+  {
+   "id": "da0803:T00031",
+   "source_sha256": "66faaea4f90a9c4cd06059ad14bd4dcbbd775cd8bfbd798d9bdfde2cde759b6e",
+   "ko": "진흙탕 속에서 튀어나온 데몬베인은 허공으로 뛰어올랐다.\n\n　지표면이 다가온다."
+  },
+  {
+   "id": "da0803:T00032",
+   "source_sha256": "cb6b3861046834b6ff59e1b149bb6fac4d5fcffffae7aeadb0f509733b78f2a1",
+   "ko": "샨타크를 조종해 천천히 내려선다."
+  },
+  {
+   "id": "da0803:T00033",
+   "source_sha256": "296fadef272e8bdf5238b55590cbbfee57c2a526aff46d2ad7b5246787141f0a",
+   "ko": "「이건……」"
+  },
+  {
+   "id": "da0803:T00034",
+   "source_sha256": "0207356d8df12968f2b00822678239bf4eae4a956eef3094eb8aec9b725c6523",
+   "ko": "주위를 둘러본다."
+  },
+  {
+   "id": "da0803:T00035",
+   "source_sha256": "ed0fa5482d93c0b2be501de64b14ff124bf3af1f5d6d7c3c82944d3985ba7e68",
+   "ko": "그곳은 무기물과 유기물이 뒤엉켜 조립된 공간이다."
+  },
+  {
+   "id": "da0803:T00036",
+   "source_sha256": "2b36110a9cc59d684fd9cb40628e8b9541d1e036cdba3ac719262a20d3f18505",
+   "ko": "벽도 바닥도 천장도, 끔찍하게 맥박 치는 살점에 파묻혀 있다."
+  },
+  {
+   "id": "da0803:T00037",
+   "source_sha256": "a08ca4e60971bc488a1636d9a3945a04921e2b3b974b243bb3d9cb919da2c151",
+   "ko": "내장과 "
+  },
+  {
+   "id": "da0803:R00005",
+   "source_sha256": "04587df3668e9310c2ec996fd86c9f6581bab03238738546195910889d2dcc57",
+   "ko": "파이프가",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0803:T00038",
+   "source_sha256": "0b54e7b7de55ea6076a57cd06cecbf8d002faa009acdd54868b21e6db3aa3d50",
+   "ko": "배관이"
+  },
+  {
+   "id": "da0803:T00039",
+   "source_sha256": "257e785187e76009add312ae7d68150b023299519aacb1e26f7c77b0c5e85786",
+   "ko": " 복잡하게 뒤엉켜 기분 나쁜 오브제를 구축하고 있었다.\n\n　이 광경은 본 기억이 있다."
+  },
+  {
+   "id": "da0803:T00040",
+   "source_sha256": "b4ae50ff1367573725d9941fc681e0cb7ebbeaa0c893c5d4c1605a15bb54865c",
+   "ko": "「『몽환심모』의 내부인가」"
+  },
+  {
+   "id": "da0803:T00041",
+   "source_sha256": "d4661d46c967834374f041bbd63c4b4efce34d003b020f963d22e6c497f98767",
+   "ko": "「……또 『육화』하고 있는 건가?」\n\n　만마전 『몽환심모』는 애초에 사신을 강림시키기 위한 그릇이었다."
+  },
+  {
+   "id": "da0803:T00042",
+   "source_sha256": "9a5012d198e45fb5d631000388c360512e3d6ef3cce1cba48001adaa6b818ee6",
+   "ko": "설마 이번에도……?"
+  },
+  {
+   "id": "da0803:T00043",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0803:R00006",
+   "source_sha256": "f58c026c179665797b00157bf4ac8d76bb0bc4ae666609165f837f7ff7226785",
+   "ko": "어나더 블러드",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0803:T00044",
+   "source_sha256": "7c58b8241c16b415a8072b80c769be7397b9e7bca3dd1eb3bf0637c01669faf8",
+   "ko": "혈액언어판"
+  },
+  {
+   "id": "da0803:T00045",
+   "source_sha256": "92978ba46ae7bcee222c37eff44016778e712982aa090ae82b7364fbb3f6f423",
+   "ko": "에게 그만한 "
+  },
+  {
+   "id": "da0803:R00007",
+   "source_sha256": "24d7ad880d9dd274550d7dc2480caa180cce47c07ed273889cc65934ddc93c74",
+   "ko": "힘",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0803:T00046",
+   "source_sha256": "522148a1fdcc951dab73d60402911ecae0316c63ca4da1659694d251661570bc",
+   "ko": "마력"
+  },
+  {
+   "id": "da0803:T00047",
+   "source_sha256": "55a3b56038890b30b8292b3a7da04abc95c149bd9eb05667ca2aa2e079eda84f",
+   "ko": "은\n없을 테지. "
+  },
+  {
+   "id": "da0803:R00008",
+   "source_sha256": "48645e4b692e3c56b1767979434e4ee8bec81df93279323a69324cf95ffa659a",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0803:T00048",
+   "source_sha256": "223821e46794885fc6fbdb30ffe510b3a7010c4acbd9647d5107382437acf384",
+   "ko": "무대 배경"
+  },
+  {
+   "id": "da0803:T00049",
+   "source_sha256": "69e604d54368941b071cd62a69f56866192cada8dece88feac5af67e2abb1f32",
+   "ko": " 같은 것이다――\n악몽의 무대를 연출하기 위한 것 말이다」"
+  },
+  {
+   "id": "da0803:T00050",
+   "source_sha256": "36f0201a3006b3d716a4af4dd631f86c0027b6b4f352b4be0f882923ef9a8f17",
+   "ko": "「취미 한번 고약하군…… 참 나」"
+  },
+  {
+   "id": "da0803:T00051",
+   "source_sha256": "9d53ae3338ac9b95383a46b5064fb8de423d8b61da267efb03d3c88ac0fbb002",
+   "ko": "「이곳에 있는 것은 우리들뿐인 모양이다」"
+  },
+  {
+   "id": "da0803:T00052",
+   "source_sha256": "ca9114737cde2ce7a9b1e5dae8dbaf38c20735bf88b842ddf8e334f3c881a994",
+   "ko": "주위에 아이온도 암브로시우스도 보이지 않는다."
+  },
+  {
+   "id": "da0803:T00053",
+   "source_sha256": "d49e42e4d5d510b3e7797b4713f63982e3f849045343e539875739496ff9d644",
+   "ko": "완전히 흩어져 버린 모양이다."
+  },
+  {
+   "id": "da0803:T00054",
+   "source_sha256": "78fc7386459ab1072b2a863965b1c413f2d82fbc57dc70d10ad8c0648b5b4ff7",
+   "ko": "「아까 그건 우리를 분단하기 위한 함정이었나…… 빌어먹을」"
+  },
+  {
+   "id": "da0803:T00055",
+   "source_sha256": "26e591e246537437b6c3373030a456057a6142e6d0728f785a4401519734fb03",
+   "ko": "「그 말대로야…… 이러면 누구의\n　방해도 들어오지 않겠지?」"
+  },
+  {
+   "id": "da0803:T00056",
+   "source_sha256": "2239ccc4eb67e10f879d00472c9554425a84990a665e8fac7181bd6eabb085ca",
+   "ko": "「――――윽!?」"
+  },
+  {
+   "id": "da0803:T00057",
+   "source_sha256": "3d450dedb83cdc0f086348b0335f609d7503315393f7adcc63784b128c84fef5",
+   "ko": "「온다!」"
+  },
+  {
+   "id": "da0803:T00058",
+   "source_sha256": "b5e55ed94008457bfd18453e1ec0fe68935e8137237ae9e37602a1581113c398",
+   "ko": "어디선가 벌레의 날갯짓 소리가 들려온다."
+  },
+  {
+   "id": "da0803:T00059",
+   "source_sha256": "efc0e8b279624c7152008d945ba8fa7575b1d2fdffca0df29546f8f9a6baea48",
+   "ko": "생리적인 혐오감을 부추기는 지극히 불쾌한 날갯짓 소리다."
+  },
+  {
+   "id": "da0803:T00060",
+   "source_sha256": "946da2a524648a53ee3fc47e12e60831231540c2a796a322bd5bd79ee175ccc4",
+   "ko": "데몬베인의 전방에 검은 안개가 생겨난다."
+  },
+  {
+   "id": "da0803:T00061",
+   "source_sha256": "c84d71a56bb1aa35f9f3e7dcff3b4c47eff4e3de764713ce879a959d7957aa34",
+   "ko": "안개의 정체는 수만, 수억에 달하는 파리 떼다."
+  },
+  {
+   "id": "da0803:T00062",
+   "source_sha256": "7ca343f111acfae94883484115bdd111956958fead5f1fbe034e81cec085ce34",
+   "ko": "파리 떼가 암흑의 마법진을 그린다."
+  },
+  {
+   "id": "da0803:T00063",
+   "source_sha256": "44993960d693a54c0e16c8f907545341d00541e7de0b874cb644ef3cda83ffae",
+   "ko": "생겨나는 사악하고 강대한 마력의 기척."
+  },
+  {
+   "id": "da0803:T00064",
+   "source_sha256": "16b0b182cd88746b3959abcbfab502b4362f58e24e82946c60a1c5bb4e8de41e",
+   "ko": "이 구역질을 유발하는 존재감――틀림없다!"
+  },
+  {
+   "id": "da0803:T00065",
+   "source_sha256": "b855ec8790efc78ede54e6739742022c38564a3abe76c8f23d4defab148f9ab3",
+   "ko": "「티베리우스!」"
+  },
+  {
+   "id": "da0803:T00066",
+   "source_sha256": "8c56e8232338fd2a260f9216bd9d1b928ad944cc48f09e616a9a8c9c7be836c2",
+   "ko": "「벨제뷔트! 폭식하라!」"
+  },
+  {
+   "id": "da0803:T00067",
+   "source_sha256": "9b6bf9adbac472854636eca54df683987f4043dcd18f5737f2e48b6b018cd10e",
+   "ko": "뿜어져 나오는 독기가 주위의 고깃덩어리를 한순간에 부패시킨다."
+  },
+  {
+   "id": "da0803:T00068",
+   "source_sha256": "7e1d9a1820d5a66c1fb77f02912da7b6464e8c8f9593f7aa12cfc7ee371fc970",
+   "ko": "문드러져 떨어지는 썩은 살점의 중심, 파리 떼를 빙의체로 삼아 한 대의 귀계신이\n현현했다."
+  },
+  {
+   "id": "da0803:T00069",
+   "source_sha256": "f2c56d55d4e4f4580ff5b4146b1043bdbc6df6c6b9f042f0cbe66c121a1e46e9",
+   "ko": "『요충의 비밀』이 소환하는 귀계신, 벨제뷔트."
+  },
+  {
+   "id": "da0803:T00070",
+   "source_sha256": "216d1c558dc2c2158a9a8e7fed7fcde25d276a80cee99a79b0cc88accf6a55a6",
+   "ko": "그리고 그것을 모는 것은 안티크로스 중 한 명, "
+  },
+  {
+   "id": "da0803:R00009",
+   "source_sha256": "838575dc382704b7fbd6c27c8dff2e34d09f23ce63190d6c752f5329258c16db",
+   "ko": "언데드",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0803:T00071",
+   "source_sha256": "81686c6ccf018bd5b2050b2d3e34f4b11f2292e2c95a5de423de5fd4c5f2baed",
+   "ko": "불사"
+  },
+  {
+   "id": "da0803:T00072",
+   "source_sha256": "13b071262db670caf1a0cbaa138636b92f8fd9d7d06475c784da8dfaba1dd33e",
+   "ko": "의 마술사\n티베리우스."
+  },
+  {
+   "id": "da0803:T00073",
+   "source_sha256": "bf0ba82dd38c99f537bf45aaca6baeefb37db63c625502287d4f4699ca2be3ef",
+   "ko": "「하~이, 잘 지냈어엉?\n　쿠로 쨩, 알 쨔아앙☆」"
+  },
+  {
+   "id": "da0803:T00074",
+   "source_sha256": "bad9944800cf85af3aebd8919112c5d1c98f6db558ac4b2e0784a68982471ef0",
+   "ko": "「……공주님한테 들었어.\n　여전히 심보가 썩어 빠져 있다면서, 좀비 자식!」\n\n　데몬베인에게 짓뭉개졌을 텐데, 역시 그 정도로는\n죽지 않는 건가.\n\n　질기고 짜증 나고 냄새나고 성가신 녀석이다."
+  },
+  {
+   "id": "da0803:T00075",
+   "source_sha256": "437bd86f44c0504891f81ea818df03796cd89860f26a5e162faa1fcc75f0c04e",
+   "ko": "「루리 아가씨랑은 좀 더 추억담에 꽃을 피우고 싶었는데 말야\n……"
+  },
+  {
+   "id": "da0803:T00076",
+   "source_sha256": "deac62c707ba5a8c3d0404c08e4bf48cb165a3a76fcb8550f2e1554f1ff71275",
+   "ko": "뭐, 됐어. 내 진짜 상대는\n너희들이니까」"
+  },
+  {
+   "id": "da0803:T00077",
+   "source_sha256": "e0b26b99d90882026b7710ea8b162bf88cc58d72aae0b9478f3214518a30b876",
+   "ko": "티베리우스의 목소리 톤이 변한다."
+  },
+  {
+   "id": "da0803:T00078",
+   "source_sha256": "81384fafcd48864cf737ec4f584f6929897d1de59be7025fb66c55f11c767c95",
+   "ko": "분노, 증오, 원망――온갖 부정적인 감정이 독기가 되어 뿜어져 나와,\n벨제뷔트를 감싸 간다."
+  },
+  {
+   "id": "da0803:T00079",
+   "source_sha256": "bbfcad2b30c0defdfc981a7f0f4d93ad41fbdd8e62a80cfa610dd62185786292",
+   "ko": "「잊지 않아…… 잊지 않는다고, 너희들에게 멸망당했을 때의 공포와 절망…… 되살아나고 나서 줄곧, 너희\n들 생각만 했거든」"
+  },
+  {
+   "id": "da0803:T00080",
+   "source_sha256": "0e2251b2632bf326eeef78cc5bdb873184bffea9b7f780dc35a4f3573df96d7c",
+   "ko": "「큭……!」"
+  },
+  {
+   "id": "da0803:T00081",
+   "source_sha256": "6bb710d7baf24310027fbbbad4f9158b19642fddd0059eaf697691d6dafba55b",
+   "ko": "방어진을 전개해 독기의 폭풍을 막는다."
+  },
+  {
+   "id": "da0803:T00082",
+   "source_sha256": "4a045d96398174939935da8d6cdc5bccbd1f4e949831919de7e47dc8822ac24b",
+   "ko": "데몬베인의 장갑 일부가 살짝 부식되었다."
+  },
+  {
+   "id": "da0803:T00083",
+   "source_sha256": "739d59cc92942a3df62f317d61a7b293f4732f22bbc6b8f458034a5e4c7d4a36",
+   "ko": "「그래…… 너희들을 멸망시킬 생각\n만 했어……!\n뼈저리게 깨닫게 해 줄게, 데몬베인. 내 공포를 똑똑히 알아라앗!」"
+  },
+  {
+   "id": "da0803:T00084",
+   "source_sha256": "02e168e48fd5c9df4da0734d526ef2fc504ca9e327818eec85954287fc8532c5",
+   "ko": "「짖지 마라, 악몽!\n　그대는 이제 죽은 자조차 아니다.\n　존재하지 않는 것이다!\n　우리가 멸했다!」"
+  },
+  {
+   "id": "da0803:T00085",
+   "source_sha256": "0a35869a7174ea93382f71059c4f95cae1c87e95dbd6861a53e4889179ae28ca",
+   "ko": "「지금 여기에 존재하는 나는 확실한 증오야!\n　죽여 주지 따윈 않을 거야…… 산 채로\n　썩혀서 구더기들의 먹이로 만들어 주마아앗!」"
+  },
+  {
+   "id": "da0803:T00086",
+   "source_sha256": "199d9e268f227f309afa8630d58c9ce5662628ce247acb810f0930e3a5423f17",
+   "ko": "「안중에도 없거든, 등신아!\n　한 번 더 멸망하고 와라, 이 정신적 브라크라 자식아!」"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0803:T00007",
+   "kind": "glossary_candidate",
+   "note": "Used provisional glossary target 바르자이 언월도 for バルザイの偃月刀."
+  },
+  {
+   "id": "da0803:R00003",
+   "kind": "ruby_decision",
+   "note": "Omitted reading ドロ for 泥濘 as 진흙탕 conveys both."
+  },
+  {
+   "id": "da0803:R00008",
+   "kind": "ruby_decision",
+   "note": "Omitted standard kun'yomi reading かきわり for 書割."
+  }
+ ]
+}

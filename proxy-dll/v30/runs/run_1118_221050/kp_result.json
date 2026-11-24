@@ -1,0 +1,32 @@
+{
+ "label": "uatog",
+ "game": "Y:\\AI\\claude-work\\khd-release-1118\\testbase\\기신비상 시험",
+ "steps": [
+  "uatoggle"
+ ],
+ "checks": {
+  "ua_box_on": true,
+  "ua_question": true,
+  "ua_checked_on": 1,
+  "ua_box_off": true,
+  "ua_checked_off": 0
+ },
+ "out": "P:\\AI\\khd-hero-ai\\v30\\runs\\run_1118_221050",
+ "pid": 81160,
+ "exit_code": "0x0",
+ "new_dumps": [],
+ "moved_windows": [
+  [
+   36.77,
+   "#32770",
+   1845,
+   978
+  ]
+ ],
+ "window_pos_restored": true,
+ "nvlddmkm_before_after": [
+  0,
+  0
+ ],
+ "seconds": 78
+}

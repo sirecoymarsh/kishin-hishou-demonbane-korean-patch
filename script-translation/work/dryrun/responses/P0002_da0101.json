@@ -1,0 +1,922 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0002_da0101",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0101:R00001",
+   "source_sha256": "d62fca5b5073ab465d648b608d0e4a2ccf32c01aba979bc1c7f015a7aa047ada",
+   "ko": "이미지",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0101:T00001",
+   "source_sha256": "ff07e296d3ea1625b03ccdbe2ff9d1d5c7f862fbb7445602871dee850f043910",
+   "ko": "상상"
+  },
+  {
+   "id": "da0101:T00002",
+   "source_sha256": "014b3637e12bf3096b3451bbbed1eaaa1919db181054adf2e53a5996ca19ce21",
+   "ko": "해 보시라."
+  },
+  {
+   "id": "da0101:R00002",
+   "source_sha256": "c086e4e1928b34ce09a9e204759e99986f278d027d01c033bbe8e6db2ff74d6b",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0101:T00003",
+   "source_sha256": "28b60c262690765fbe6da6737def6664342fa57cc320e962b8f9f48838c8aff5",
+   "ko": "벌레"
+  },
+  {
+   "id": "da0101:T00004",
+   "source_sha256": "ffcf613cd3707b39247255a98c9170efc946ae5461d9fabdeb59d7aba9f9f650",
+   "ko": "가 울고, 바람이 흐느끼는 밤."
+  },
+  {
+   "id": "da0101:T00005",
+   "source_sha256": "74eb8043394e0e569d1f545ef6fcc4a2d1d37c0771a0816da1039a68c91b317d",
+   "ko": "아스라이 일렁이는 "
+  },
+  {
+   "id": "da0101:R00003",
+   "source_sha256": "fcd81183c9a3208a7b249dfaa4c9d8d291d1f3c6e2788f131deb03842d47eac7",
+   "ko": "램프",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0101:T00006",
+   "source_sha256": "f6fdd9cab8b4242bad6351c84c6b1847c56cb81aaea6dbbf0755331a95364ee7",
+   "ko": "양등"
+  },
+  {
+   "id": "da0101:T00007",
+   "source_sha256": "8d64b66b9a2fc0576781eac931b24297e6c9abe1af6800e77feb50bce0a49340",
+   "ko": "의 불빛."
+  },
+  {
+   "id": "da0101:T00008",
+   "source_sha256": "7e6070ec562ceaee2ff1654f3595eb911dd6339d90d1ab3ae1a45b285317f758",
+   "ko": "책장을 넘기는 고서에서 풍기는 곰팡내.\n\n　그런 요몽의 기척에 도취된 채, 괴기 환상에 매료된 호사가들은 그 도시의 이름을 입에 올린다.\n\n　예컨대 환도 "
+  },
+  {
+   "id": "da0101:R00004",
+   "source_sha256": "c1137ca799ca1bf4673368c23594a3c268b86a975af23c074cc81ef2616c6a79",
+   "ko": "런던",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0101:T00009",
+   "source_sha256": "b4b420c7649e0269947390786b11f6d4774d899b41d7dd7a419662bd9a70387f",
+   "ko": "윤돈"
+  },
+  {
+   "id": "da0101:T00010",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  },
+  {
+   "id": "da0101:T00011",
+   "source_sha256": "61ea0e985ce1f0587d0c1e395f503b1e5b5262dba767aee7f4b1a2bccacad974",
+   "ko": "도사린 안개. 일렁이는 그림자. 흔들리는 꿈.\n\n　예컨대 마도 "
+  },
+  {
+   "id": "da0101:R00005",
+   "source_sha256": "42a6daca483b2484f34eecb7b5cc4969cffc8d9c5dad03e629860dbf17deb1b7",
+   "ko": "상하이",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0101:T00012",
+   "source_sha256": "4906a49adc5c472b34483976104ec1d76992745367cc22d5fbc2a4db8e8e1ed7",
+   "ko": "상해"
+  },
+  {
+   "id": "da0101:T00013",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  },
+  {
+   "id": "da0101:T00014",
+   "source_sha256": "beac7ac8d776d140a9abf4dc10ab600fb432e6b23ad92d072d56acea5c24422d",
+   "ko": "뒤섞이는 문화. 뒤섞이는 어둠. 미쳐 날뛰는 이형.\n\n　예컨대 제도 "
+  },
+  {
+   "id": "da0101:R00006",
+   "source_sha256": "632f87b4d370b64d3b5853766d74f7f25725f797799f59184bd097abf0ee7225",
+   "ko": "도쿄",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0101:T00015",
+   "source_sha256": "130016b2599bf7e5978cae78e528c67f29aa47eaa2490ffedd729df334a2790c",
+   "ko": "동경"
+  },
+  {
+   "id": "da0101:T00016",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  },
+  {
+   "id": "da0101:T00017",
+   "source_sha256": "c361798bfdc67d17e9b10365d81b7c5c52f3af2d0338cb6fedf8ea168c6a168a",
+   "ko": "흩날리는 밤벚꽃. 쏟아지는 달빛. 춤추는 괴기.\n\n　그리고 또 하나."
+  },
+  {
+   "id": "da0101:T00018",
+   "source_sha256": "2e348509d02b4dbc09ab56c7eb9d80a69daa1203c2fa64aeb3e8c7e56b12ea25",
+   "ko": "마술 이론의 최첨단."
+  },
+  {
+   "id": "da0101:T00019",
+   "source_sha256": "ef43950d74a259ec5779ad1320c16bc8421fdcb5683264bc98c438c45ad547c1",
+   "ko": "대황금시대이자 대암흑시대이며 대혼란시대인 "
+  },
+  {
+   "id": "da0101:R00007",
+   "source_sha256": "3be4c69aea3762d3e532b1fbb150fafe9b37842f4bebf55f959f77d58b3bec6d",
+   "ko": "펄프 픽션 시티",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0101:T00020",
+   "source_sha256": "104adddcf67430a7c2dbef3ea60b92c1b3b243e89f40ba00d47e37c483cf1bac",
+   "ko": "혼돈도시"
+  },
+  {
+   "id": "da0101:T00021",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  },
+  {
+   "id": "da0101:T00022",
+   "source_sha256": "a0669edc1ae7acbeb5846779de4dadff61d300499bf18a97247d8cc58968669c",
+   "ko": "――요도 "
+  },
+  {
+   "id": "da0101:R00008",
+   "source_sha256": "ad805b4b7ad67172fb1fb131160ac37c793ad26f8521c809d86fb616ccab9f82",
+   "ko": "아컴",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0101:T00023",
+   "source_sha256": "7b47943fe1693f14fd1d60824c3e67d0a42fc141c192547f5a55ae2d83110986",
+   "ko": "궤몽"
+  },
+  {
+   "id": "da0101:T00024",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  },
+  {
+   "id": "da0101:T00025",
+   "source_sha256": "566fd7af1b30e16f201d403f95394238f5fa03e2f508ed0d647824ab9bb6ca31",
+   "ko": "그 인지를 초월한――아니, 『"
+  },
+  {
+   "id": "da0101:R00009",
+   "source_sha256": "732bc364a60de25ef4c3eae753ad1db3bb884eafcc44e1135f03f877b60822e8",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0101:T00026",
+   "source_sha256": "f18d90bb3f9294a2a658917c0e86c1b638daab5f5e69f5cda3c1a34a1906e4d1",
+   "ko": "신지"
+  },
+  {
+   "id": "da0101:T00027",
+   "source_sha256": "11bc768a66a973a029c438a31e92ac20aa94b65851b6f05c33214aff177741e3",
+   "ko": "』마저 초월한 싸움은 시간의 기억에서 사라졌고……\n　허나 그럼에도, 이 도시의 속성은 조금도 "
+  },
+  {
+   "id": "da0101:R00010",
+   "source_sha256": "417efe554a1f6164fe4bb7007aa4eb0068db2b5a83766c8f1c155e1538e29864",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0101:T00028",
+   "source_sha256": "1e5d2c37518cc500e60394cebc84768dae1045e401617bdd9d90cbf7ccc4e4df",
+   "ko": "변하"
+  },
+  {
+   "id": "da0101:T00029",
+   "source_sha256": "99bffaa4c0efa4412af6a0ac9f5a0b3c1f5272b838cdfa3bf49ca034bb40486c",
+   "ko": "지 않는다."
+  },
+  {
+   "id": "da0101:T00030",
+   "source_sha256": "4a5838e47b0c23a3edf0c8a7628e9714f697f3913c452a15fec3ceb0476c69ef",
+   "ko": "미스캐토닉 대학, 비밀도서관."
+  },
+  {
+   "id": "da0101:T00031",
+   "source_sha256": "26e93ed5db9aa718a2dd44749a31af504c24fea10933af1ba5aedcb20700b365",
+   "ko": "그 역사를 살펴보면, 금단의 지식을 노리는 열람자들과 이를 봉하려는 관리자들 사이의 투쟁으로 엮여 있다.\n\n　그중 일부는 어쩌면 세계의 명운을 건 싸움이었을지도 모른다."
+  },
+  {
+   "id": "da0101:T00032",
+   "source_sha256": "681e2c5a35efcd762f75a4b718b439877579a708a038254b7ed7b8fb414d3fad",
+   "ko": "그가 아는 사건 또한, 분명 그중 하나였을 것이다.\n\n　미스캐토닉 대학 도서관장 헨리 아미티지는 회고한다."
+  },
+  {
+   "id": "da0101:T00033",
+   "source_sha256": "342d10794b007a3ff52c29022084d2aaa62f9e8dafbb61004eab9be6d9fb1623",
+   "ko": "아무도 없는 도서실의, 아무도 없는 어둠을 응시하면서."
+  },
+  {
+   "id": "da0101:T00034",
+   "source_sha256": "deda1ddd2b440a84f29a0873a59b3a3a72c546b15aa67de7e5f2d0f237fb04a7",
+   "ko": "「……그날 밤이 떠오르는군.\n　잊을 수도 없지. 8월 3일의 일이다」"
+  },
+  {
+   "id": "da0101:T00035",
+   "source_sha256": "d699fef56cc226003379026c50df9c9c8f360f121a3fa0fe314c5c1c832432e2",
+   "ko": "아무도 없을 터인 도서실의, 아무도 없을 터인 어둠이 술렁였다."
+  },
+  {
+   "id": "da0101:T00036",
+   "source_sha256": "a5c6a7577b07df759d179ca5b4e05e5e52095e9a06fca9066c3dcb0a002c4071",
+   "ko": "「새벽이 가까웠다."
+  },
+  {
+   "id": "da0101:R00011",
+   "source_sha256": "ecf471578b87f268a9146480d241d38e4de17d3182503fdcf8b6f84ed77ace20",
+   "ko": "휩푸어윌",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0101:T00037",
+   "source_sha256": "653bae3245d5a7414e2cd2b34afaa0b5c2f6f1840a3f9f905091bda5b0662bba",
+   "ko": "쏙독새"
+  },
+  {
+   "id": "da0101:T00038",
+   "source_sha256": "e3d26ebe2180d07e6fa2432ef48a7d69b5839e8fb815f7ac71a9ca035f715088",
+   "ko": "의 요란한 울음소리는,\n　끔찍할 정도로 리드미컬했지」"
+  },
+  {
+   "id": "da0101:T00039",
+   "source_sha256": "d61d99a981d67a1ef66097a717b627bd907293db83a03dd30f1078ef4447b5ff",
+   "ko": "공기가 일변했다."
+  },
+  {
+   "id": "da0101:T00040",
+   "source_sha256": "8cd2c599f8381abf267bccdce6cd5da3bb3f4cdbc2ed37d8b698990310a9c9b4",
+   "ko": "어디선가 미지근한 바람이 불어온다."
+  },
+  {
+   "id": "da0101:T00041",
+   "source_sha256": "5abbac40dc7e4eb829e2539011d3a32f81392fd74a954b79ed6d26a94c1a3158",
+   "ko": "바람은 부패취와도 비슷한 악취를 품고 있다."
+  },
+  {
+   "id": "da0101:R00012",
+   "source_sha256": "399541026b89787f76b6312375d21b42244869347cf836059cf9eba724bb4824",
+   "ko": "・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0101:T00042",
+   "source_sha256": "dbd074699c950b6e723783a8ec2d899d461ce61b24f7ca134f674c868dc7b110",
+   "ko": "독기"
+  },
+  {
+   "id": "da0101:T00043",
+   "source_sha256": "8919a55f592c9838df42e08533efb9859448a922d06b109ad6541812a986a7c0",
+   "ko": "다."
+  },
+  {
+   "id": "da0101:T00044",
+   "source_sha256": "229559d074031c24a7863f8bf03a810383ec4fb1cd127008087500fae8d9f984",
+   "ko": " 독기 어린 바람이다."
+  },
+  {
+   "id": "da0101:T00045",
+   "source_sha256": "ffef872060848bac8c78bff74e800a7d205a32a9b3950d7906cfc69d10f08685",
+   "ko": "「번견의 포효. 영혼을 찢어발기는 듯한 단말마.\n　도서관을 가득 채운 악취. 더니치의 괴이가\n　가져온, 그것은 악몽의 기억이다」"
+  },
+  {
+   "id": "da0101:T00046",
+   "source_sha256": "cd1ef1a05f597870581b2fb0e5d30123478c7716ac3b841bc44d4f4b746d16cb",
+   "ko": "바람이 휘몰아친다."
+  },
+  {
+   "id": "da0101:T00047",
+   "source_sha256": "cdc1f387590164e95bf660599bc479e06fd32d9abb547b60ef8a6eac1b0f8903",
+   "ko": "독기를 품은 이계의 바람에, 서가의 마도서가 날아간다."
+  },
+  {
+   "id": "da0101:R00013",
+   "source_sha256": "2bb9df2369234dd1a09c594d05bb8f486a403b25224bff5eeb85f6e147b6bbbb",
+   "ko": "페이지",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0101:T00048",
+   "source_sha256": "87fc7f9029cb3830bc99efbf631b743a6abb399b4c3af33a2ce9a06db26a5c12",
+   "ko": "책장"
+  },
+  {
+   "id": "da0101:T00049",
+   "source_sha256": "e3b21956ce958d2599e4e122f5395b8bb776552bd4ceae0c6bec80e4f73a2905",
+   "ko": "들이 "
+  },
+  {
+   "id": "da0101:R00014",
+   "source_sha256": "5e50b96c27b2f416824dd21237894b52728e9f8acf21f77ae97378faaafaa899",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0101:T00050",
+   "source_sha256": "09152a2380b09e688a514e86056805ca633afd8381453280be7f536c7140c91a",
+   "ko": "풀어"
+  },
+  {
+   "id": "da0101:T00051",
+   "source_sha256": "1db2f5838d910969846fc8a411eb842f512bdddedacd539b84265b7eb21ce587",
+   "ko": "져, 무수한 종잇조각이 허공에 흩날린다."
+  },
+  {
+   "id": "da0101:T00052",
+   "source_sha256": "7b431bd5f3ae6e6061b800b500e2207806a2bd8f72e0d77d4f8bc55e73ede29e",
+   "ko": "내리치는 듯한 폭풍을 정면으로 받아 내면서도, 노령의\n　아미티지는 움츠러들지 않고 그곳에 서 있다."
+  },
+  {
+   "id": "da0101:T00053",
+   "source_sha256": "ae213db4fe9dc7b7e7009abfee182f0572013659cec2a80203ba78eb191406b2",
+   "ko": "아미티지의 시선 끝에서 마도서의 조각들이 소용돌이치고 있다."
+  },
+  {
+   "id": "da0101:R00015",
+   "source_sha256": "ad00a0b322492061745b24d0a27cfeb54340097e166853622a9781f99bd15efb",
+   "ko": "・・・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0101:T00054",
+   "source_sha256": "94281e704afbd81e17c8a06075f43164541751caa63ff0186f152751ddb19c4f",
+   "ko": "더욱 풀어헤쳐진다"
+  },
+  {
+   "id": "da0101:T00055",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  },
+  {
+   "id": "da0101:T00056",
+   "source_sha256": "524cc4c287fbcf7f998850b66659d4a9e50e0ee97c5b507312ebde2d29f21040",
+   "ko": "마도서의 책장, 한 장 한 장에서 『문자』가 "
+  },
+  {
+   "id": "da0101:R00016",
+   "source_sha256": "b750c2ece644240b0f8e138a0602b89062dcd4cb934044a963e76bf34670b76d",
+   "ko": "・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0101:T00057",
+   "source_sha256": "8328981ea25d4bfb33c3e89345e21be2ac7b6a0a2ab90aab99d12e6f8b94e18e",
+   "ko": "흘러넘쳐"
+  },
+  {
+   "id": "da0101:T00058",
+   "source_sha256": "2109e43c17832230b1b3d0699c4603f471e142baf341c2904154b12589d21eaf",
+   "ko": ", 빠른 속도로 회오리의 중심에 "
+  },
+  {
+   "id": "da0101:R00017",
+   "source_sha256": "ad00a0b322492061745b24d0a27cfeb54340097e166853622a9781f99bd15efb",
+   "ko": "・・・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0101:T00059",
+   "source_sha256": "e603caa4339d76a97f758607c2f7eb29b1ca7fc220d213fc3ffaf5e90a5a6141",
+   "ko": "수렴해 간다"
+  },
+  {
+   "id": "da0101:T00060",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  },
+  {
+   "id": "da0101:T00061",
+   "source_sha256": "7d9698e153507c32b59bf461b97fd787082d33a18162ff1a3a81e2fb78bee09b",
+   "ko": "수만 수억의 문자가 복잡하게 엮여 간다."
+  },
+  {
+   "id": "da0101:T00062",
+   "source_sha256": "0de642e5858e3296fb209077848acc693ebdaf079e7aff30c59e5d1574769895",
+   "ko": " 결정화된다."
+  },
+  {
+   "id": "da0101:T00063",
+   "source_sha256": "50964a9f341b9d4679f578256dd3f51b8709b6ea490cc1088752eec2339d4256",
+   "ko": "그것은 피처럼 붉은 그림자였다."
+  },
+  {
+   "id": "da0101:T00064",
+   "source_sha256": "ad0e9a4aef23da03491fb95e35da422152ad56020779eff2f07b868cd35d7f04",
+   "ko": "「……헨리 아미티지」"
+  },
+  {
+   "id": "da0101:T00065",
+   "source_sha256": "28cea5d3fab55061b1c4aa30eb26836b588be2139b01c1904f4cd51f2e917d69",
+   "ko": "「호오?　나를 알고 있나.\n하지만, 그렇다면 규칙도 알아주었으면 하는군.\n지금은 열람 시간이 아니다만」"
+  },
+  {
+   "id": "da0101:T00066",
+   "source_sha256": "f04c94f1949f722ce0b79a27b1300dce0562e2c4e08f1658e7b3c0cae3ec78ce",
+   "ko": "「도적 놈…… 이 미스캐토닉 대학 비밀도서관에 무슨 볼일이지?」"
+  },
+  {
+   "id": "da0101:T00067",
+   "source_sha256": "3184355dd1fa786800e30c3e0ffe19eb9770b6e69be3687cfabc867841247542",
+   "ko": "「싫어라, 할아버지. 그렇게 무서운 얼굴 하지 마」"
+  },
+  {
+   "id": "da0101:T00068",
+   "source_sha256": "91d7547f65d696de0873255feb59eabd215178271e6942483a655a355c0b47df",
+   "ko": "쿡쿡, 하고 붉은 그림자가 "
+  },
+  {
+   "id": "da0101:R00018",
+   "source_sha256": "2895ce20a7385bc2cc182870401439c7986e12de3e6b4a814eefe718fb782e64",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0101:T00069",
+   "source_sha256": "0f55c1b29730d09eae296e101a12467fa6fb8c9c44d1f69a49f9df47be9fee35",
+   "ko": "비웃"
+  },
+  {
+   "id": "da0101:T00070",
+   "source_sha256": "16a5f3b27585b6e9d0ae2d1e67d1ec73dd01024e63ff09aa46d6070ada014b5d",
+   "ko": "는다."
+  },
+  {
+   "id": "da0101:T00071",
+   "source_sha256": "e90abf3054aaf079a02df994f161421f146d110ad3544e243956fa28853dd0b6",
+   "ko": "그 손안에, 한 권의 마도서가 들려 있었다."
+  },
+  {
+   "id": "da0101:T00072",
+   "source_sha256": "b2f90c346b031626d4255cf176b1d25e68c2a3b508a243fe7f17a70eb08c21b7",
+   "ko": "「나는 그저, 동료를 마중하러 왔을 뿐이야」"
+  },
+  {
+   "id": "da0101:T00073",
+   "source_sha256": "63ce5e21eb0f6822b8b2e22b0ef44135d4b8a15bf9716a4686188e2eb262f348",
+   "ko": "손에 든 마도서를 치켜든다."
+  },
+  {
+   "id": "da0101:T00074",
+   "source_sha256": "979ffd35925803649c2adc0623cef652a40dd4413fcbba3d3b5983020d238bf8",
+   "ko": "아미티지는 보았다."
+  },
+  {
+   "id": "da0101:T00075",
+   "source_sha256": "87f7bdfee9811e8c1c259b96a3461fc5ad8234a4303c65abbc05178210b16789",
+   "ko": "그 전율을 자아내는 "
+  },
+  {
+   "id": "da0101:R00019",
+   "source_sha256": "a20f57232e9f7d6229cc4b98aba553d351911d2f9d8d4110ec5f627c7c673d38",
+   "ko": "타이틀",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0101:T00076",
+   "source_sha256": "d06cef7e5647349e2a1c48b5cf11b8f36ccf762555d85326d583aa418afe732d",
+   "ko": "제목"
+  },
+  {
+   "id": "da0101:T00077",
+   "source_sha256": "9758ee8f9fbe04b6cdd8cbf39368b62bbec99e3879cc5ccb0cc3f5141ea95411",
+   "ko": "을."
+  },
+  {
+   "id": "da0101:T00078",
+   "source_sha256": "b21bae4ca186caf09d76e482cbecbd28e94c318a15ad2de85c549d128fdc77a6",
+   "ko": "「『"
+  },
+  {
+   "id": "da0101:R00020",
+   "source_sha256": "4a9f603b79c8a5a24aee4042109b49498e25b3f7803bdb1857389754e6651579",
+   "ko": "네크로노미콘",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0101:T00079",
+   "source_sha256": "f86730329dc338896cf624b2a3406b91e2736b7913a45ee05d87717f465fe7ff",
+   "ko": "사령비법"
+  },
+  {
+   "id": "da0101:T00080",
+   "source_sha256": "8c7aa818d7a505f12c46518711f859a17975e5b4dcfa4316ceddbe24049b48ce",
+   "ko": "』!?」"
+  },
+  {
+   "id": "da0101:T00081",
+   "source_sha256": "19703c3e2ea25f39f48bfcff90053e394439827d4675abacd2e97c9806bbfc80",
+   "ko": "책장과 책장의 틈새에서, 무수한 마술문자가 벌레처럼 기어 나온다."
+  },
+  {
+   "id": "da0101:R00021",
+   "source_sha256": "c086e4e1928b34ce09a9e204759e99986f278d027d01c033bbe8e6db2ff74d6b",
+   "ko": "벌레",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0101:T00082",
+   "source_sha256": "14b69bd6eeb0839b41f193e8190713b89e19d280bf1b688bfff962dca31362b9",
+   "ko": "문자"
+  },
+  {
+   "id": "da0101:T00083",
+   "source_sha256": "bb93aa74879d2237e08ad0dc676491fbf56b23266b36d639689dc13f208c9a09",
+   "ko": "는 뒤엉키고, 이어져, 긴 "
+  },
+  {
+   "id": "da0101:R00022",
+   "source_sha256": "5f7f5e2fdbb3f3bdfb00e7a31478467682b563a75bfb6444e1d3c93b2608a7e6",
+   "ko": "뱀",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0101:T00084",
+   "source_sha256": "5d29d8bd7dc20e6f02db4a6c2cc299f39a2118f7833eb4efa99cd182ac9e118c",
+   "ko": "문자열"
+  },
+  {
+   "id": "da0101:T00085",
+   "source_sha256": "1a17affd67715b7b3834bacb94e73123787d05a1a1d93d4234278e1198ee1999",
+   "ko": "이 되어, 붉은 그림자의, 붉은 입술 안쪽, 붉은 입안 "
+  },
+  {
+   "id": "da0101:R00023",
+   "source_sha256": "a4e6c99cc1a7730256a08797c38a66a9981f6b4102dda034d53fb538651cb021",
+   "ko": "속으로",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0101:T00086",
+   "source_sha256": "6f225eb36d6d4e6a281fa9dc0a3374ad99d0b57c64e2e196a4680668dd26e3f9",
+   "ko": "내부로"
+  },
+  {
+   "id": "da0101:T00087",
+   "source_sha256": "d62d055ef628f90a4e46930c744f42d349f481d99eee6cae410958f450b86cb0",
+   "ko": " 빨려 들어간다."
+  },
+  {
+   "id": "da0101:T00088",
+   "source_sha256": "580c3b02b40bc7283cc6861e883ef0b041cad374c6809fc96d7390c96fb572eb",
+   "ko": "「더니치의 괴이와 동족인가!」"
+  },
+  {
+   "id": "da0101:T00089",
+   "source_sha256": "788d85e163ee4ae85939a63fb7cd345e3d89464a775bdf874a086d9c44ea2761",
+   "ko": "「원하신다면야!」"
+  },
+  {
+   "id": "da0101:T00090",
+   "source_sha256": "7f6a512c4784655bae43a8f07da3c574a6790c730cd83f8b162fd9e516985a8c",
+   "ko": "알에 금이 가는 듯한 소리를 아미티지는 들었다."
+  },
+  {
+   "id": "da0101:T00091",
+   "source_sha256": "3f4f89daf40fed7f7bcfc29009c201f3673f213cd49f141f234e8ced4d46a524",
+   "ko": "붉은 그림자의 가슴이, 세로로 갈라진다."
+  },
+  {
+   "id": "da0101:T00092",
+   "source_sha256": "0875007bc8f8fef21767b34df01af1cfc1ea114ed105e8120c4627ce79306270",
+   "ko": "뿜어져 나오는 선혈은 어둠을 배경으로 "
+  },
+  {
+   "id": "da0101:R00024",
+   "source_sha256": "b49688659500a731ebdefbe5500a2f1bcb4c0644cc959341fb4cd5aee8130425",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0101:T00093",
+   "source_sha256": "d2cfc0f18cdf602e2bcf786fd70465e78caad60de49258f9817d7dce26e64a05",
+   "ko": "반짝반짝"
+  },
+  {
+   "id": "da0101:T00094",
+   "source_sha256": "cd30ee8217525a6d5811428e90f2ffba7a8ecc49b3f20c064be25035f3e78e2b",
+   "ko": " 빛나고 있었다."
+  },
+  {
+   "id": "da0101:T00095",
+   "source_sha256": "8fc22181bb0e6c740a74820fda507a16d4478996be02b5785dd41c9170f276a9",
+   "ko": "흩뿌려지는 선혈은, 허공에 진홍빛 마법진\n　　　　　　　　　　　　　　　＝"
+  },
+  {
+   "id": "da0101:R00025",
+   "source_sha256": "ef1afae959f0abb618a9f95bd63015530659b9bd762cc084e09383ca733cec95",
+   "ko": "스퀘어",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0101:T00096",
+   "source_sha256": "3379dba0f10b4d83fba4a6e631ed4950ed14021c042700d0ab9e6b11a0c7d868",
+   "ko": "정사각형"
+  },
+  {
+   "id": "da0101:T00097",
+   "source_sha256": "8db71ed28b0f2f1432561e8d8a0dc3878f2da540c53a2ab82335b6f716da2ef3",
+   "ko": "×"
+  },
+  {
+   "id": "da0101:R00026",
+   "source_sha256": "ef1afae959f0abb618a9f95bd63015530659b9bd762cc084e09383ca733cec95",
+   "ko": "스퀘어",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0101:T00098",
+   "source_sha256": "3379dba0f10b4d83fba4a6e631ed4950ed14021c042700d0ab9e6b11a0c7d868",
+   "ko": "정사각형"
+  },
+  {
+   "id": "da0101:T00099",
+   "source_sha256": "51038463e8f6493ce9d33270d552504f519bada2dbdd9e59b2974659474f1571",
+   "ko": "＝회전식 팔망성을 그린다."
+  },
+  {
+   "id": "da0101:T00100",
+   "source_sha256": "43e11d6e6bdc67e5df999b7498b269fd7411b0267ee2e370f5f51ca9277e66ac",
+   "ko": "「뭐라!?」"
+  },
+  {
+   "id": "da0101:T00101",
+   "source_sha256": "98ed752aef00db01b67228d81184d3a60ee5081b11d7cffc13723cb7a7196c30",
+   "ko": "공간이 갈라지고, 시공이 피를 흘렸다."
+  },
+  {
+   "id": "da0101:T00102",
+   "source_sha256": "fee306047d6c0f7ddcda7196b473004033dc7724ec1bcd6008a93f866e6583fb",
+   "ko": "지금까지와는 비교도 안 되는 독기와 악취가, 시공의 저편에서 흘러들어 온다.\n\n　이 기척과 악취를 아미티지는 알고 있다."
+  },
+  {
+   "id": "da0101:T00103",
+   "source_sha256": "f3026accbf995ab2d93ad22ed7d48abd5c1b49f14362424fef755ae40c4bff19",
+   "ko": "시공의 저편, 이형의 눈이 이쪽 세계를 들여다보고 있다."
+  },
+  {
+   "id": "da0101:T00104",
+   "source_sha256": "7e8e0b1ccd2bb710ab524017a89a9a47c28e678a845e48162fb5dc00e31b2d3e",
+   "ko": "하나가 아니다／"
+  },
+  {
+   "id": "da0101:T00105",
+   "source_sha256": "51d653947f13f4c19fde70df03973bc25ad392662dfe8152bc47545b4f7fe5d2",
+   "ko": "２、３、４、５、６、７、８、９"
+  },
+  {
+   "id": "da0101:T00106",
+   "source_sha256": "6b00a581de9eff011b55f16c42901b07b0cd47054dc60265e57c8201f2fbfaad",
+   "ko": "늘어난다／"
+  },
+  {
+   "id": "da0101:T00107",
+   "source_sha256": "b574031a8647154e3d88ced74ebf094237b9c92276deb55b51c9c6423690c363",
+   "ko": "１０、１００、１０００、１００００、１０００００００"
+  },
+  {
+   "id": "da0101:T00108",
+   "source_sha256": "f4a8be5fe46084d85bc1d5c77de2661a3133f31c260cc5ba7eaebeb1e78c7b59",
+   "ko": "현실을 침식하는 악성종양／"
+  },
+  {
+   "id": "da0101:T00109",
+   "source_sha256": "bc6b8014b83f87bfd63a6e2a554c1dc99883890820d49a7d0e68bff4455c753c",
+   "ko": "조경해자양구간정재극항하사아승기나유타불가사의무량대수"
+  },
+  {
+   "id": "da0101:T00110",
+   "source_sha256": "04153714af940f9e2fc695d0f6c369e105a43f110346a1f0fca72027f08d95fa",
+   "ko": "이／♂"
+  },
+  {
+   "id": "da0101:T00111",
+   "source_sha256": "8e433a91787eb71ba5a65c8c9a5f5cb89aa038c84b115d65a759b0869ab983e8",
+   "ko": "／계와／"
+  },
+  {
+   "id": "da0101:T00112",
+   "source_sha256": "ff3dcacbf226dfe95af69929ad249eb190ab25fa1bfe6af86a2fb4a306c58328",
+   "ko": "현／♀"
+  },
+  {
+   "id": "da0101:T00113",
+   "source_sha256": "340d9b10aaffa0e7f95116bfbad764851629b557fcf949ecd08620e84ff41f67",
+   "ko": "／\n　　　　　　　　　실의／＊"
+  },
+  {
+   "id": "da0101:T00114",
+   "source_sha256": "e0a1947fb6e2f9155fd925a7deff0010a71c24ba2a542b215372ee73f86e79ae",
+   "ko": "／벽이 마침／＋／"
+  },
+  {
+   "id": "da0101:T00115",
+   "source_sha256": "33ba0e0a0f2d78768cee370e8f9a15f383505b3a258a1d133fd3a23f6bb1283c",
+   "ko": "내 붕괴한／"
+  },
+  {
+   "id": "da0101:T00116",
+   "source_sha256": "1ed061f00fb6e08d9569200e9cb23e7de7a1c38b4987bf15645c392bd88f42a9",
+   "ko": "다"
+  },
+  {
+   "id": "da0101:T00117",
+   "source_sha256": "4f20b9664b77d97603cc399b380c3309b1859e8c42afca86c78168c787dae71b",
+   "ko": "『　　∞　　』"
+  },
+  {
+   "id": "da0101:T00118",
+   "source_sha256": "42d9b3bd3e2aacc9c668d0dd0d142d3f702c8d88c17fd75dad9f0a68de18f566",
+   "ko": "「웨이틀리!?」"
+  },
+  {
+   "id": "da0101:T00119",
+   "source_sha256": "cdf370c68e0d3fa36e2ec01cc4bb472b3f5d3fc99b88a8aa094bcd28d7b735af",
+   "ko": "이차원에서 뻗어 나오는 무수한 촉수."
+  },
+  {
+   "id": "da0101:T00120",
+   "source_sha256": "a730e88de3f3c1ccee991be811260def2014d52078cf3876d5ce7a148b8dd626",
+   "ko": "반사적으로 인을 맺는 아미티지의 주위에, 가루 같은 것이 흩날린다."
+  },
+  {
+   "id": "da0101:T00121",
+   "source_sha256": "379940d037d8d94dc9a06fac2b5ab65af94782827fdd72dd364ba434a0e51f1a",
+   "ko": "가루는 어둠 속에서 빛나며, 공간에 마법진을 떠오르게 한다."
+  },
+  {
+   "id": "da0101:T00122",
+   "source_sha256": "ff23965b2f5e45284de74179efed26289359ca9835ccc9a4397554800ef0dbc8",
+   "ko": " 술식 전개."
+  },
+  {
+   "id": "da0101:T00123",
+   "source_sha256": "5634044b475882c934e4d985ca9b69fa96f19326b93b40850993be560e61cc1d",
+   "ko": "두 마력이 격돌하고, 빛과 소리와 악취와 충격과 사념이 휘몰아치며, 불꽃을 튀기고, 그리고."
+  },
+  {
+   "id": "da0101:T00124",
+   "source_sha256": "c8b8a32f8207b94e8abacf8eb7a71157fc82e29a67bb4b67ef97640260cdf92f",
+   "ko": "달려온 워런 라이스 교수와 프랜시스 모건 박사가 본 것은, 폭발의 상흔이 생생한 비밀도서관의 모습이었다."
+  },
+  {
+   "id": "da0101:T00125",
+   "source_sha256": "7ea00d3b4cfb166572d975c3ce35f0ca205577c1d9a11cde0c9fbf84ecdb72c7",
+   "ko": "잔류하는 독기는 아직도 짙어, 관내는 지독한 악취로 가득 차 있다.\n\n　두 사람은 알고 있다."
+  },
+  {
+   "id": "da0101:T00126",
+   "source_sha256": "cf13f888b8f71028ff9d8ed19931c619e75cb12e3d6ede8147926ff21938cf9b",
+   "ko": "이 냄새의 정체――떠올리고 싶지도 않은 악몽의 정체를."
+  },
+  {
+   "id": "da0101:T00127",
+   "source_sha256": "8f1724e347c7e71047c069f419b96998e9958f7d013446937bfd8b11607a5b79",
+   "ko": "「윌버 웨이틀리 때와 같군……」"
+  },
+  {
+   "id": "da0101:T00128",
+   "source_sha256": "52fd5bffc2cb724b7d8f8a6583cc6ffc42ceac6966f94fd8479fcbec31d43cfd",
+   "ko": "「아미티지 박사님!」"
+  },
+  {
+   "id": "da0101:T00129",
+   "source_sha256": "166d6d2d30b76b761e35376c05c789308019ec8ede905ada6e6f59e8910d5467",
+   "ko": "도서관 중앙, 무릎을 꿇고 "
+  },
+  {
+   "id": "da0101:R00027",
+   "source_sha256": "86eb1d8872ed663a668f39ccbdaaf80221a9a2ca059dc7af9253eaaf61dcd6bb",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0101:T00130",
+   "source_sha256": "1e65da29355e8f917557e6675cef67913c5ebd8f8a3f21f686713600572a8c31",
+   "ko": "웅크"
+  },
+  {
+   "id": "da0101:T00131",
+   "source_sha256": "347165ce53c52024f5dbe55b23cb6cc9126a6e5beaf3d86e8bb24641957996d9",
+   "ko": "린, 상처투성이의 아미티지를 발견한 모건이 외친다. 쓰러진 책장을 "
+  },
+  {
+   "id": "da0101:R00028",
+   "source_sha256": "99037e081331cb182f33f5e3c8e7d63df7f49bc1045de7de9f6ecdcd88a57bd6",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0101:T00132",
+   "source_sha256": "7aa152312a04cbad4772b50d3abf76625269db84c20aac7dc0f92563d1c1c8d1",
+   "ko": "성가시다는"
+  },
+  {
+   "id": "da0101:T00133",
+   "source_sha256": "7641d7c8d41eff2ecdc795eb8f71240fdd2ee91bb834f0d382b784a06164eaad",
+   "ko": " 듯이 피해 가며, 달려간다."
+  },
+  {
+   "id": "da0101:T00134",
+   "source_sha256": "53bac5209ac72b32fbb008431a6a23a3a4f93b4a483b146cbb6c4e69c986e337",
+   "ko": "「무슨 일이 있었던 겁니까!?」"
+  },
+  {
+   "id": "da0101:T00135",
+   "source_sha256": "19b4081ea087aea4a54b53ec01dd3ade94bb76d881837599f1a0f26422c1d0dd",
+   "ko": "「……도적에게\n　『네크로노미콘』을 빼앗겼다」"
+  },
+  {
+   "id": "da0101:T00136",
+   "source_sha256": "369f7e0d439ee3012b202af0d4f5212b6881594b438ae3bb88a930ee40b1dd56",
+   "ko": "「뭐라고요!?」"
+  },
+  {
+   "id": "da0101:T00137",
+   "source_sha256": "de7846d83f2295fd3d1b99d41d04542af5e03bf93c8961ce7453b691d0029030",
+   "ko": "「게다가 이 냄새…… 설마,\n　또 더니치의 괴물이……!」"
+  },
+  {
+   "id": "da0101:T00138",
+   "source_sha256": "bd352e5deeed03e0bfa9904bc3586af2fc3168139fb4c06a1815384eaf66935c",
+   "ko": "「……모르겠다」"
+  },
+  {
+   "id": "da0101:T00139",
+   "source_sha256": "8086cea56385e699821d396b2bcb009cf830a9e2f19781de3dc7fa0e900728e7",
+   "ko": "「허나……\n　엄청난 일이 벌어지고 있다……」"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0101:T00030",
+   "kind": "glossary_candidate",
+   "note": "용어집의 pending 상태 항목인 'ミスカトニック(미스캐토닉)'이 본 세그먼트 및 da0101:T00032, da0101:T00066에 등장하여 지정된 임시 표기('미스캐토닉')를 적용함."
+  },
+  {
+   "id": "da0101:R00002",
+   "kind": "ruby_decision",
+   "note": "원문 '蟲(ムシ)'의 루비 'ムシ'는 한자 '蟲'의 단순 발음 안내이며, 본문(da0101:T00003)을 '벌레'로 번역하여 의미가 일치하므로 omit_redundant 처리함."
+  },
+  {
+   "id": "da0101:R00009",
+   "kind": "ruby_decision",
+   "note": "원문 '神智(しんち)'의 루비 'しんち'는 한자어의 단순 독음 안내이며, 본문(da0101:T00026)을 '신지(神智)'로 번역하여 의미와 독음이 모두 전달되므로 omit_redundant 처리함."
+  },
+  {
+   "id": "da0101:R00010",
+   "kind": "ruby_decision",
+   "note": "원문 '変容(かわ)る'의 루비 'かわ'는 동사 활용 독음 안내이며, 본문(da0101:T00028)을 '변하(지)'로 번역하여 중복되므로 omit_redundant 처리함."
+  },
+  {
+   "id": "da0101:R00014",
+   "kind": "ruby_decision",
+   "note": "원문 '解(ほど)けて'의 루비 'ほど'는 한자 '解'의 훈독 발음 안내이며, 본문(da0101:T00050)을 '풀어(져)'로 번역하여 의미가 온전히 전달되므로 omit_redundant 처리함."
+  },
+  {
+   "id": "da0101:R00018",
+   "kind": "ruby_decision",
+   "note": "원문 '嗤(わら)う'의 루비 'わら'는 한자 '嗤'의 훈독 발음 안내이며, 본문(da0101:T00069)을 '비웃(는다)'으로 번역하여 의미가 온전히 전달되므로 omit_redundant 처리함."
+  },
+  {
+   "id": "da0101:R00024",
+   "kind": "ruby_decision",
+   "note": "원문 '綺羅綺羅(きらきら)'의 루비 'きらきら'는 한자 표기의 독음 안내이며, 본문(da0101:T00093)을 '찬란하게'로 번역함에 따라 별도 루비가 불필요하므로 omit_redundant 처리함."
+  },
+  {
+   "id": "da0101:R00027",
+   "kind": "ruby_decision",
+   "note": "원문 '蹲(うずくま)る'의 루비 'うずくま'는 한자 '蹲'의 훈독 발음 안내이며, 본문(da0101:T00130)을 '웅크(린)'로 번역하여 의미가 온전히 전달되므로 omit_redundant 처리함."
+  },
+  {
+   "id": "da0101:R00028",
+   "kind": "ruby_decision",
+   "note": "원문 '鬱陶(うっとう)しそうに'의 루비 'うっとう'는 난독 한자의 독음 안내이며, 본문(da0101:T00132)을 '성가시다는'으로 번역하여 별도 루비가 불필요하므로 omit_redundant 처리함."
+  },
+  {
+   "id": "da0101:T00125",
+   "kind": "variant_difference",
+   "note": "Variant A 원문은 '２人は知っている。'이고 Variant B는 '二人は知っている。'로 표기만 상이하며 의미 차이는 없음. Variant A를 기준으로 '두 사람은 알고 있다.'로 번역함."
+  }
+ ]
+}

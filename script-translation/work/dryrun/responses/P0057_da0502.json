@@ -1,0 +1,304 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0057_da0502",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0502:T00001",
+   "source_sha256": "92ff74495c7ab3600767f480b274d4fc1b3c51fac71153e424f39b67dfa175cf",
+   "ko": "타이어를 삐걱거리며 장갑차가 일그러진 거리를 폭주한다."
+  },
+  {
+   "id": "da0502:T00002",
+   "source_sha256": "76d7bd351c037680beee7642035c2d39694ef2f4478721524774fafeea85d02e",
+   "ko": "등 뒤에서는 타르의 대해일."
+  },
+  {
+   "id": "da0502:T00003",
+   "source_sha256": "596c0c74de73a382f67c71b6e65412b5c4cc957dc4a554e5ddf60f1087a5ce43",
+   "ko": "건물을 집어삼키며 밀려든다."
+  },
+  {
+   "id": "da0502:T00004",
+   "source_sha256": "de30e3e5be3d48f19cff908347950516cd00fe5923a29bb825096da928a023dd",
+   "ko": "「우오오오오!　스톤 군!\n　따라잡히겠어, 따라잡히겠다구!」"
+  },
+  {
+   "id": "da0502:T00005",
+   "source_sha256": "7b74b275376f8f482e3ac7fa0892ecd4faa150451eb82f5e684ed8b1113fdfe1",
+   "ko": "「아까부터 전속력이지 말입니다!\n　흐으으읍!」"
+  },
+  {
+   "id": "da0502:T00006",
+   "source_sha256": "697d3a3dbe5fb7bab86b71b98c4f3eed73b0067169245c367596596f3231c144",
+   "ko": "「히야아아아~~~~~~!」"
+  },
+  {
+   "id": "da0502:R00001",
+   "source_sha256": "98b1e931eaf2b0b974f392841533e2d5a56daa028d7ca2f4d60d9928e955a77f",
+   "ko": "풀 스로틀",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0502:T00007",
+   "source_sha256": "432f5f11efa8f94f14ba5edcfa6c04b4f4a40902b529fe0f83cf7638901e7445",
+   "ko": "전속력"
+  },
+  {
+   "id": "da0502:T00008",
+   "source_sha256": "6a8e268ffbf4d33b1240580be496da6cf843ad0a3e6f1a890be082414528e914",
+   "ko": "인 채로 신들린 "
+  },
+  {
+   "id": "da0502:R00002",
+   "source_sha256": "9de2fd59c9fb35ab17d3a6d2f02ce779035e7ad05cfac3e5473b7786cfcf762f",
+   "ko": "핸들링",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0502:T00009",
+   "source_sha256": "a17ce1fbb3ac713cdc51cbcb92c63fac1016aee48516863bbcc5a6f2eca56f7f",
+   "ko": "운전"
+  },
+  {
+   "id": "da0502:T00010",
+   "source_sha256": "a2e54fdcf32b8ceaa593999f460bd361bd0ba4f0a598c6a11bcdda7c52e6ae6c",
+   "ko": "으로 "
+  },
+  {
+   "id": "da0502:R00003",
+   "source_sha256": "05c04c0bc561e76b7f1f5bf6e54fe74979fbded79202771dce714dabab05fe1c",
+   "ko": "코너",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0502:T00011",
+   "source_sha256": "beddda2bcf2473af2920dc0ec2c48819aa688d644e9ef975cf194d788143e371",
+   "ko": "모퉁이"
+  },
+  {
+   "id": "da0502:T00012",
+   "source_sha256": "18c7ee6e920f911d1aca44d439ef5b7649b22ed1e9b373e325baacf7489dfe9b",
+   "ko": "를 도는 스톤."
+  },
+  {
+   "id": "da0502:T00013",
+   "source_sha256": "2140c78bd8713168a6faf20123d6eaa8430927184cefdf485dc7c37144d66b18",
+   "ko": "그러나 그런데도 해일과의 거리는 좁혀질 뿐이다."
+  },
+  {
+   "id": "da0502:T00014",
+   "source_sha256": "27d746628239edb80c0975f5c6f37d2891a9f1bab770594083e4da894073e3dd",
+   "ko": "「안 돼 안 돼 안 돼 안 돼!\n　죽어 죽어 죽어 죽어~~~~엇!」"
+  },
+  {
+   "id": "da0502:T00015",
+   "source_sha256": "1d78f521dcddd4b2d8fcaae458f4a59383f931ff2f9edf9c9b2b053cf9df5cbb",
+   "ko": "「아아아아아!　참 나!　\n　혀 깨물지 말입니다!?」"
+  },
+  {
+   "id": "da0502:T00016",
+   "source_sha256": "9230978798e99a6b22160ed6a1239c7b96d6f33e8a83b0cfbb904dd99d248bbb",
+   "ko": "「스톤 군!　앞으으으으으윽!」"
+  },
+  {
+   "id": "da0502:T00017",
+   "source_sha256": "e6e795842dfc441c419304a18ece0092206d3a83cac5ca0fbf5d8855b7253ddc",
+   "ko": "「이이이이이익!?」"
+  },
+  {
+   "id": "da0502:T00018",
+   "source_sha256": "15dd1f8b7b61cd4023f742789c0a0a380d4f9fdf1db8a5d78aed291b101245fe",
+   "ko": "장갑차, 전방의 도로가 폭발했다."
+  },
+  {
+   "id": "da0502:T00019",
+   "source_sha256": "ae68c2133453a4d8710e2dc525a8cee738be3c98f8ded290b190d7aa04bb7dfa",
+   "ko": "갈라지는 지면에서 뿜어져 나온 것은 타르의 물기둥……"
+  },
+  {
+   "id": "da0502:T00020",
+   "source_sha256": "975e1591eda91c7956d45247cdd9dbe586c94439a154f63b9ae6718e6883879e",
+   "ko": " 아니, 촉수다.\n\n　촉수는 십수 미터 높이까지 치솟은 뒤, 사리를 틀며 장갑차를 덮친다."
+  },
+  {
+   "id": "da0502:T00021",
+   "source_sha256": "ad5a79ac1039cbccc4c7019733e48b0888cf65dc3f80631dbb4f4e6fd644e661",
+   "ko": "「갸아아아아아아아아아아!?」"
+  },
+  {
+   "id": "da0502:T00022",
+   "source_sha256": "5b736ab42dfc2daf3b6836a1a165cf7d9e472648f5ecfd191380a74adcef620f",
+   "ko": "뒤틀려 찌그러진 장갑차가 검붉은 타르의 바다 속으로 가라앉아 간다."
+  },
+  {
+   "id": "da0502:T00023",
+   "source_sha256": "321ad04fc7abdffddf2c819cd9d50cb04c7208b55a39c83fdb3649824c254eec",
+   "ko": "그 광경을 네스와 스톤은 상공에서 내려다보고 있었다."
+  },
+  {
+   "id": "da0502:T00024",
+   "source_sha256": "02816be9a94de8ceef8add506ed7e9f72676614e650e716a7d3dcb6a00d4e09c",
+   "ko": "「아우아…… 아아아……"
+  },
+  {
+   "id": "da0502:T00025",
+   "source_sha256": "9f6711768d82845ea575677155a7726012f3d1095ecf218b2b1e6d7a5c150b22",
+   "ko": "아우우우……윽」"
+  },
+  {
+   "id": "da0502:T00026",
+   "source_sha256": "e8afff698187087a5e6807e7cd6bbd65299ef7cbf47e0b51ba6f6871f0223e8a",
+   "ko": "「제때 맞췄나」"
+  },
+  {
+   "id": "da0502:T00027",
+   "source_sha256": "eac3f8a47dbc2e6c7dd41a94d526b305f707a12e24136221c6b8c41571cab56e",
+   "ko": "두 사람은 하얀 장갑으로 몸을 감싼 『천사』의 양옆에 옆구리를 끼인 채 안겨\n있었다."
+  },
+  {
+   "id": "da0502:T00028",
+   "source_sha256": "da811e774e269c7be48a699e1d3d7a87365e9838051e82d982b76e3b7bf5d207",
+   "ko": "스톤은 조심스럽게 가면으로 뒤덮인 얼굴을 본다."
+  },
+  {
+   "id": "da0502:T00029",
+   "source_sha256": "74430bf6b6e14d87b4b78dec736557bdc20b2f48674341ce58bbfab7165858a4",
+   "ko": "「저…… 저기,\n　누구시지 말입니까?」"
+  },
+  {
+   "id": "da0502:T00030",
+   "source_sha256": "1fb2b541c9aae2e5a6901c357c029c546f0f8b3aa364817c62e7ed3805641f4c",
+   "ko": "「……이름을 밝힐 만한 자는 아니다」"
+  },
+  {
+   "id": "da0502:T00031",
+   "source_sha256": "dc852bb334a8064f58db6180bd25675e478af3122968913a4e15a53361e903b7",
+   "ko": "천사――메타트론은 타르에 삼켜지지 않은 빌딩 옥상에 착지하여 두 사람을 내려놓는다.\n\n　그곳에서 내려다보이는 광경은 끔찍하고 모독적인 지옥도다."
+  },
+  {
+   "id": "da0502:T00032",
+   "source_sha256": "041d3e4b6da71cfc27a47622f53f67a3aedbf96108adeea684669ebf8bb383be",
+   "ko": "「뭐야, 저건……」"
+  },
+  {
+   "id": "da0502:T00033",
+   "source_sha256": "8a93c2e8e89800b49931a754842d173ed1271060fd5bd9b4605652b7d695efc4",
+   "ko": "「애초에 거리 자체가 비정상이지 말입니다. 아무리 아컴 시티라지만 이\n정도로 대규모인 괴이는 전례가 없지\n말입니다……」"
+  },
+  {
+   "id": "da0502:T00034",
+   "source_sha256": "54bfcd298333223ed9db8355cb5bb8edd46d39ac3518b81806dedb91dd3bf7b0",
+   "ko": "타르의 바다는 여전히 팽창을 계속하고 있다."
+  },
+  {
+   "id": "da0502:T00035",
+   "source_sha256": "a0215900db429edc4f720db72742cc37952a3a6116e291145afd1051a0b84ee4",
+   "ko": "여기저기서 소용돌이가 발생하여 거리의 구획째로 가라앉혀 간다."
+  },
+  {
+   "id": "da0502:T00036",
+   "source_sha256": "d57a7560b50e6fb8f3990ecadaa3fb9c647d7af4421af8951c08967d5dbd2d24",
+   "ko": "「위험하군…… 이대로는 아컴 시티\n　전체가 집어삼켜지고 만다」"
+  },
+  {
+   "id": "da0502:T00037",
+   "source_sha256": "0fdf33720e9c066b3be423fd9e4a80ad4b329f8f3f352e39895f242de4afea92",
+   "ko": "교회에 두고 온 아이들을 생각하며 메타트론은 초조해한다."
+  },
+  {
+   "id": "da0502:T00038",
+   "source_sha256": "80848102d962f51b77277d702cf133ea6342eba358bf2a4fd724c0cc339ae3e8",
+   "ko": "교회의 구획까지는 아직 멀었다고는 하나 시간문제다.\n\n　돌아가야 할까."
+  },
+  {
+   "id": "da0502:T00039",
+   "source_sha256": "e77de6c33f79a71a42b7af81195206d46eeab115efa0e0aa58165f206750261e",
+   "ko": "그러나 이대로는 머지않아 도망칠 곳 자체가 사라져 버린다."
+  },
+  {
+   "id": "da0502:T00040",
+   "source_sha256": "2a7fc348f5de6c9e726f7f912857970b8fe9ce4b56779930f7b973e7ece48708",
+   "ko": "「어쩌면 좋지……」"
+  },
+  {
+   "id": "da0502:T00041",
+   "source_sha256": "0847778486e76c24c270314146f3c97aa7a22e4d2f548053c45fcb4ba4a2d8dc",
+   "ko": "「……뭐지?」"
+  },
+  {
+   "id": "da0502:T00042",
+   "source_sha256": "bc38910c9854f35b3653d64ed35f3514e8dea9c24f50ed307d16d78d0eea8c4b",
+   "ko": "메타트론의 마술회로가 커다란 "
+  },
+  {
+   "id": "da0502:R00004",
+   "source_sha256": "09fa673682a266196a91d31d5ed99736a1c7d85c250226fb9c9ec5b7006a27ba",
+   "ko": "아자토스",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0502:T00043",
+   "source_sha256": "5e7930e1744f03b9e3bc03391b9568c30347421f4c5cb7f73d17119a9e29ab74",
+   "ko": "자도자"
+  },
+  {
+   "id": "da0502:T00044",
+   "source_sha256": "d22ab877ac088fa746fc16164439851f8bdbc687a3de4732d1c2259c9fe931d7",
+   "ko": " 반응을 지각한다."
+  },
+  {
+   "id": "da0502:T00045",
+   "source_sha256": "22596faa560ff02352ed16a6361091f24fc629622ae25668d3dda2d8eba0a3ce",
+   "ko": "무슨 일인가 싶었던, 다음 순간――"
+  },
+  {
+   "id": "da0502:T00046",
+   "source_sha256": "f7d9a9ecdc1134c6d3529d071156fafd86cb1654d10e18d946973cfa0a934acd",
+   "ko": "「어, 어이!　저쪽에……!」"
+  },
+  {
+   "id": "da0502:T00047",
+   "source_sha256": "ea3a5f7eb5b70b523b500caa89d21f5370e3862418678dfc189604557b3d2392",
+   "ko": "「이번엔 뭐지 말입니까!?」"
+  },
+  {
+   "id": "da0502:T00048",
+   "source_sha256": "a97d769781ffe32b8b8a6d33c6b45e91d1e4c8301d96fbf3390986cf0bed8b85",
+   "ko": "저 멀리 건너편, 미스캐토닉 대학 시계탑 근처에서 "
+  },
+  {
+   "id": "da0502:R00005",
+   "source_sha256": "f8797412334f868e6b153ad2c3c8336f9d8d373334bd0628aa9e88d021b8c136",
+   "ko": "빛",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0502:T00049",
+   "source_sha256": "e1a3baadc08f596502a0613865aeea5db547cef231775ffc3f1813ac669d8572",
+   "ko": "섬광"
+  },
+  {
+   "id": "da0502:T00050",
+   "source_sha256": "6bc6e5165a58cc9fc303678864d1469e9b5d07aa9d801f9559fad87bb80faea3",
+   "ko": "이 터졌다."
+  },
+  {
+   "id": "da0502:T00051",
+   "source_sha256": "b3dab878ad1eeee66398fda2e26b2ee8af0db38b086a04fa434af095baf06a03",
+   "ko": "지상에 생겨난 두 번째 태양."
+  },
+  {
+   "id": "da0502:T00052",
+   "source_sha256": "5f82562a5497180f927209fe5513d91cfa40048190c75769a93a7ef2f30097cb",
+   "ko": "그것은 부정의 바다를 태우고, 비등, 증발, 정화(浄火)한다.\n\n　\n　\n　　　　――사악을 지워 버리는 것은 부르짖는 흉포한 섬광."
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0502:U00029",
+   "kind": "glossary_candidate",
+   "note": "미확정 용어 'ミスカトニック'에 대해 임시 표기 '미스캐토닉' 적용."
+  }
+ ]
+}

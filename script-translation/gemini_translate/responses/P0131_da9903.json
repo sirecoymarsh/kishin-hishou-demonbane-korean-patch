@@ -1,0 +1,254 @@
+{
+  "schema": "khd-gemini-response-v1",
+  "packet_id": "P0131_da9903",
+  "model_id": "Gemini 3.8 Flash (High)",
+  "records": [
+    {
+      "id": "da9903:T00001",
+      "source_sha256": "591df9b59549a7ad2b8b6133212ef324ad02b649c4b5330c4fe186e1c3822cd8",
+      "ko": "――그리고, 나는 눈을 떴다."
+    },
+    {
+      "id": "da9903:T00002",
+      "source_sha256": "cf71918a9bf22d36ed87798fb33fa03e1012fa368432696f43340e505a52bae3",
+      "ko": "「음……」"
+    },
+    {
+      "id": "da9903:T00003",
+      "source_sha256": "99b61802247eef1b2d042897dbbf4a2db034a861e1c536cd7269f9fe43cb57d8",
+      "ko": "「피곤하신가요, 아미티지 박사님?」"
+    },
+    {
+      "id": "da9903:T00004",
+      "source_sha256": "afeb6fee6fb8e3a57873021e3a2d3d4bd60dadb563014065d1c8070cf3716798",
+      "ko": "「흠…… 나도 나이를 먹었군」"
+    },
+    {
+      "id": "da9903:T00005",
+      "source_sha256": "194ac424b097708450a8f705d3c4fdb2d35c3d5a50f5e0fb39fed5d635955639",
+      "ko": "「하하, 무슨 약한 소리를 하십니까」"
+    },
+    {
+      "id": "da9903:T00006",
+      "source_sha256": "91d8cf375094fdf8486de46346da372e119d42c07acfeac45b4199eb7679d8dc",
+      "ko": "「하지만 이렇게나 "
+    },
+    {
+      "id": "da9903:R00001",
+      "source_sha256": "c7b0fa5d747f6f394aea6ba203e41b425ab5ca243127d3e3566817510512e9ed",
+      "ko": "오컬트",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da9903:T00007",
+      "source_sha256": "a83337288e64bf3ae49901b7ae64cd867ce8cd914acdb8e4fbc81f19621b26c2",
+      "ko": "괴기"
+    },
+    {
+      "id": "da9903:T00008",
+      "source_sha256": "d31e076a2b4d663fe66c5c1e7313fe875f51b0681fc647210f54f9ed657792ba",
+      "ko": " 사건이 많아서야.\n　쉴 틈도 없군」"
+    },
+    {
+      "id": "da9903:T00009",
+      "source_sha256": "ea36145f20556a8f1e03e766c1f65831f562a299ddccc091175f51b31effbafe",
+      "ko": "「이 도시에서 마술에 관련된 이상,\n　어쩔 수 없는 일이지요」"
+    },
+    {
+      "id": "da9903:T00010",
+      "source_sha256": "f84389d38f82fba91ef3e7a1d1c9ddd723bd9432d53b79d892755f791ac38b66",
+      "ko": "「……그 말대로일세」"
+    },
+    {
+      "id": "da9903:T00011",
+      "source_sha256": "88e44c49ed7d1f5b783c2c1dee911546f7d0e417b5ad954f568e961c6f43116f",
+      "ko": "「아미티지 박사」"
+    },
+    {
+      "id": "da9903:T00012",
+      "source_sha256": "9f511a35760848d42db2ed1cddf6bd9cb37f824e5b90a2b7a340ed4d7dfe8fde",
+      "ko": "「우리는 지켜내야만 하네.\n　이 대학에 봉인된 금단의 지식을」"
+    },
+    {
+      "id": "da9903:T00013",
+      "source_sha256": "086561883e32919bc3ee2d81aefaf00f735bd53ec5b60f0944ccda082f549381",
+      "ko": "「……네, 그렇습니다. 웨이틀리 형제 같은 존재에게 닿게 두어서는 안 됩니다. 절대로요」"
+    },
+    {
+      "id": "da9903:T00014",
+      "source_sha256": "29526a8666804c2778d87133406aef509b6ec8e49147571a748e181cdc285cec",
+      "ko": "「슈루즈베리 박사는 어떻게 지내고 있나?」"
+    },
+    {
+      "id": "da9903:T00015",
+      "source_sha256": "d79cf2f2709a4f2846a3e31147e3628f9b486e932afad9161c08ffd0390a6fd9",
+      "ko": "「『르뤼에 이본』의 행방을 쫓고 있네. 인스머스의 움직임도 수상쩍어지고 있어…… 또 바빠지겠군」"
+    },
+    {
+      "id": "da9903:T00016",
+      "source_sha256": "44cc632d6b5290fa8bef872fc3d9fbd31c15d86fb18e310091b85bc4d9211671",
+      "ko": "「……싸움은 계속되는 것인가」"
+    },
+    {
+      "id": "da9903:T00017",
+      "source_sha256": "073678765e661b5a4f240426322d3efd62b45be3793e2eafc353d8b2c04beca8",
+      "ko": "「포위당했어, 대디?」"
+    },
+    {
+      "id": "da9903:T00018",
+      "source_sha256": "b591df0a1d171ee29c8f390ec8a37b8d2e73794627075d7d768f0f18653f0c61",
+      "ko": "「이런이런…… 아직도 이렇게 살아남아 있었나.\n　연방 정부는 무얼 하고 있는 건지?」"
+    },
+    {
+      "id": "da9903:T00019",
+      "source_sha256": "7bfe4de6daaa1fa69e4e4bb5fed48ced2da391a9ecd91c02ffd7db8a77627759",
+      "ko": "「어차피 본거지는 해저잖아?\n　겉만 부숴 봤자 소용없다는 거네」"
+    },
+    {
+      "id": "da9903:T00020",
+      "source_sha256": "d66971731bb9414d4856de091f1145060ccbe5c60f0306e24e5c9814eb228b35",
+      "ko": "「흠…… 차라리 핵이라도 떨어뜨렸으면 좋았을 것을」"
+    },
+    {
+      "id": "da9903:T00021",
+      "source_sha256": "744b7d618bab04aed33eec75b79f07fd305976c316d8f74f2a6080a78966cfe7",
+      "ko": "「……이래서\n　정의와 자유의 나라 사람이란」"
+    },
+    {
+      "id": "da9903:T00022",
+      "source_sha256": "d1b2e51ec81d97b33349e7d654133e17b51770e13f316793f6c4c9d69f437403",
+      "ko": "「뭐, 상관없지」"
+    },
+    {
+      "id": "da9903:T00023",
+      "source_sha256": "6e187361d40c060b2b24383d0e773058ab4023c32ef7e6f6834514e8e7084b09",
+      "ko": "「서둘러 해치우도록 할까」"
+    },
+    {
+      "id": "da9903:T00024",
+      "source_sha256": "eb5d7abea1dbf5b739bbdf43693bcc2a0c445fe23be5789d823b0cb61d632d0a",
+      "ko": "「찬성」"
+    },
+    {
+      "id": "da9903:T00025",
+      "source_sha256": "e504631849a8deac4f52121b253932f78f89720e019261d1f75e73bc84258978",
+      "ko": "「――대디! 저기에!」"
+    },
+    {
+      "id": "da9903:T00026",
+      "source_sha256": "25c6a1176b104803fd77e3ca12c0176f31f51835fe15502721d727fdb88e2187",
+      "ko": "「물요괴의 기운…… 『르뤼에 이본』이다!」"
+    },
+    {
+      "id": "da9903:T00027",
+      "source_sha256": "7223f64a77566a2a7f77fd6a0b7e81b2354abcac851a06b1f1f75e64ac733cd2",
+      "ko": "「풍글루이 므글우나프 크툴루\n      르뤼에 우가프나글 프타근!」"
+    },
+    {
+      "id": "da9903:T00028",
+      "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+      "ko": "「"
+    },
+    {
+      "id": "da9903:R00002",
+      "source_sha256": "4957089527b55d380fc721ef0494d66b9e5e6077129472ffafd9c6fe940bb7a5",
+      "ko": "이아 르・리에 크툴루 후타군 이아 게르=호 오투움 라 라",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da9903:T00029",
+      "source_sha256": "07c64eebc604d3ed249b2c408de6907bcefe8498a209cc0ac974111772750dde",
+      "ko": "我招喚鬼械神鬼歹老海的騎魚的武士"
+    },
+    {
+      "id": "da9903:T00030",
+      "source_sha256": "d93a835d0f2787bcb1a759ad3a1b8fbea56d742d0b99720dbbb9ea8ace1926f8",
+      "ko": "(나 귀계신 크툴루의 물고기를 탄 무사를 소환하노라)」"
+    },
+    {
+      "id": "da9903:T00031",
+      "source_sha256": "5429048d97e286df12940b9946db23a017530057ccd98acab30c9cd7aa1f2e36",
+      "ko": "「……『"
+    },
+    {
+      "id": "da9903:R00003",
+      "source_sha256": "f9553192b8b6f071078df2190dfd36a413e5de1c29eec0b17a425e157a715d44",
+      "ko": "딥 원",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da9903:T00032",
+      "source_sha256": "a03c5eacdb01dfe65d6645314e9d1ea7fcb512195020f9bf731421eb420e2401",
+      "ko": "깊은 자들"
+    },
+    {
+      "id": "da9903:T00033",
+      "source_sha256": "bcc9d2aba3f8015011b11e830d1a2562dce21b9a1f13c3bd3b0fbec9338109a7",
+      "ko": "』 중에"
+    },
+    {
+      "id": "da9903:R00004",
+      "source_sha256": "0a6107be07defc84146f2308a7c309c62701b105cd81570d1bc8b8b2bd0ce81e",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da9903:T00034",
+      "source_sha256": "8463639f14965e777384e8511ab5f61b9be3856fd1b8f11048d94e189ea7c026",
+      "ko": "영악"
+    },
+    {
+      "id": "da9903:T00035",
+      "source_sha256": "80f47703770210238b86dd64fd06e43378a17231d11fb5170956ab5794f1ce2c",
+      "ko": "한 놈이 있었던 모양이군!」"
+    },
+    {
+      "id": "da9903:T00036",
+      "source_sha256": "9cae1265408317a9cdcd287bc16f4b978d1b59fd2196c9b64adbc7adbc2f7a07",
+      "ko": "「온다, 대디! "
+    },
+    {
+      "id": "da9903:R00005",
+      "source_sha256": "73ac229cabfac277c315b4b0d1eb76959473af07f58c11d00bb82a06b250745a",
+      "ko": "데우스 마키나다",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da9903:T00037",
+      "source_sha256": "762524a979d84688362b8dc00d54c75a1be10d7917ed188fd55985924c885e49",
+      "ko": "귀계신이다"
+    },
+    {
+      "id": "da9903:T00038",
+      "source_sha256": "5abd5463fffb32cb1d020da2d7adfe873cf5c3dfcaa2df5667f867d26d33efb5",
+      "ko": "!」"
+    },
+    {
+      "id": "da9903:T00039",
+      "source_sha256": "4ee9eb4aac96b61cac33ca9cf419d2b720bece2b99fa2f41719820cc2f3c167e",
+      "ko": "「간다, 레이디!」"
+    },
+    {
+      "id": "da9903:T00040",
+      "source_sha256": "9f4b033343e3bbb2844c8f0a04d7cd8b556792bcb79fee0ba1f2693b68a8f30d",
+      "ko": "「오케이! 대디!」"
+    },
+    {
+      "id": "da9903:T00041",
+      "source_sha256": "bbba25ff1307141327f0fb5f438341fb31cb4d58899d5a91b586a35f64dd2344",
+      "ko": "「날아내려라! 암브로시우스!」"
+    }
+  ],
+  "issues": [
+    {
+      "id": "da9903:R00004",
+      "kind": "ruby_redundant",
+      "note": "한자 훈독 단순 발음 루비(さか→賢). omit_redundant 적용."
+    },
+    {
+      "id": "da9903:T00037",
+      "kind": "ruby_particle_conflict",
+      "note": "본문(귀계신, 받침 있음)과 루비(데우스 마키나, 받침 없음)의 서술격 조사 불일치. 뒤 칸에 '이다ッ!」' 유지."
+    }
+  ]
+}

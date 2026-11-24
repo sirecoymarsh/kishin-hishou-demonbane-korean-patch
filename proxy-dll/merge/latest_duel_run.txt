@@ -1,0 +1,16 @@
+14:07:59 (+  1.6s) DUEL AI difficulty for this run: 2 (restored with the ini at the end)
+14:07:59 (+  1.6s) pairs [('AM', 'QM'), ('A2', 'QM'), ('IM', 'MM')]; 3 scripted presses; limit 240 s a fight
+14:08:06 (+  9.3s) client 4096x2160, image at (608,0) 2880x2160
+14:08:40 (+ 43.4s) F01: 데몬베인(AM) vs 네임리스 원(QM) BATTLE-13 — scene 262
+14:09:05 (+ 67.5s) F01: battle on after 24 s, scene data/scene/scene21172/scene21172, defs ['PAIR682P0R1NR.def', 'ng_live_682_am.def']
+14:09:48 (+111.0s) F01 데몬베인(AM) vs 네임리스 원(QM) BATTLE-13: defs {0: 'PAIR682P0R1NR.def', 1: 'ng_live_682_am.def'} | moves ['PWIN', 'SINJUU'] | last ours [(27.0, 'STOP'), (29.9, 'PWIN')] | last theirs [(29.1, 'WAIT'), (34.0, 'LOSE1')] | hp (592, 0) | closed by itself: True after 42 s
+14:10:15 (+138.5s) F02: 데몬베인(공중전)(A2) vs 네임리스 원(QM) BATTLE-13 — scene 374
+14:10:37 (+160.4s) F02: battle on after 22 s, scene data/scene/scene21019/scene21019, defs ['AM014HVAB.def', 'qmdv.def']
+14:12:26 (+268.6s) F02 데몬베인(공중전)(A2) vs 네임리스 원(QM) BATTLE-13: defs {0: 'AM014HVAB.def', 1: 'qmdv.def'} | moves ['EMPTY', 'FORWARD_B', 'FORWARD_G', 'KEN_OUT', 'KEN_SUMMON', 'PWIN', 'S_COMBO1', 'S_COMBO2', 'S_COMBO3'] | last ours [(92.6, 'S_COMBO3'), (94.9, 'PWIN')] | last theirs [(93.9, 'WAIT'), (98.9, 'LOSE1')] | hp (166, 0) | closed by itself: True after 106 s
+14:12:53 (+296.2s) F03: 벨제부트(IM) vs 로드 비야키(MM) BATTLE-06 — scene 159
+14:13:08 (+310.6s) F03: battle on after 14 s, scene data/scene/scene20421/scene20421, defs ['PAIR579P0R1.def', 'pair579p1r1.def']
+14:15:34 (+457.2s) F03 벨제부트(IM) vs 로드 비야키(MM) BATTLE-06: defs {0: 'PAIR579P0R1.def', 1: 'pair579p1r1.def'} | moves ['CHOHATSU', 'FORWARD_B', 'FORWARD_G', 'KICK', 'MODE_CHANGE1', 'MODE_CHANGE2', 'MODE_CHANGE3', 'ONRYOU', 'PLOSE', 'S_VANPIRE'] | last ours [(120.2, 'ONRYOU'), (136.3, 'PLOSE')] | last theirs [(134.7, 'FUUJIN'), (136.0, 'WIN1')] | hp (0, 456) | closed by itself: True after 145 s
+14:16:03 (+485.7s) dialog 0x701e1e: clicked first button of 2
+14:16:03 (+486.2s) game exited normally
+14:16:03 (+486.2s) autobattle.ini restored (byte for byte)
+14:16:07 (+490.0s) VERDICT: 3/3 fights closed by themselves

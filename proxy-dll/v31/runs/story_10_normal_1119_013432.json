@@ -1,0 +1,73 @@
+{
+ "out": "P:\\AI\\khd-runtime-fix\\logs\\duel_1119_013431",
+ "samples": 104,
+ "enemy_def": "IM.def",
+ "hp_end": [
+  1000,
+  1066
+ ],
+ "enemy_motions": [
+  "COMBO1",
+  "COMBO2",
+  "COMBO3",
+  "DAMAGE2",
+  "DAMAGE4",
+  "EPIDEMIC",
+  "FORWARD_B",
+  "FORWARD_G",
+  "GUARD",
+  "KICK",
+  "START",
+  "STOP_G",
+  "S_VANPIRE"
+ ],
+ "big_moves": [
+  {
+   "motion": "S_VANPIRE",
+   "t0": 23.7,
+   "t1": 24.8,
+   "f0": 12,
+   "f1": 62,
+   "hp_lost": 30,
+   "next": "DAMAGE4"
+  },
+  {
+   "motion": "S_VANPIRE",
+   "t0": 42.8,
+   "t1": 44.6,
+   "f0": 6,
+   "f1": 113,
+   "hp_lost": 0,
+   "next": "-"
+  }
+ ],
+ "enemy_hp_drops": {
+  "in_guarded_move": [],
+  "outside": [
+   15,
+   15,
+   30,
+   30,
+   22,
+   22
+  ]
+ },
+ "proxy": [
+  "pid 66316  difficulty 1: Hard pack out (the original game)",
+  "pid 66316  fight kind: FREE FIGHT (scene 8, menu mask 0x200007e2) - 자동 전투 on",
+  "pid 66316  fight difficulty scope: scene=8 duel=0 combat_rank=1 duel_AI=2 story_rank=1"
+ ],
+ "battle": 10,
+ "want_difficulty": 1,
+ "fixture": false,
+ "notes": [
+  "difficulty variable 0x100ee708: 2 -> 1",
+  "window position back to (0, 215)",
+  "SAVE restored from save_before_1119_013432; registry ActDifficult back to 2"
+ ],
+ "registry_after": {
+  "ActDifficult": 2,
+  "XPos": 0,
+  "YPos": 215
+ }
+}

@@ -1,0 +1,916 @@
+{
+  "schema": "khd-gemini-response-v1",
+  "packet_id": "P0068_da0606",
+  "model_id": "Gemini 3.8 Flash (High)",
+  "records": [
+    {
+      "id": "da0606:T00001",
+      "source_sha256": "97435a91b12c20ff36476ad5003ab296fe33f572a88b8a4fd854937ea4704b27",
+      "ko": "눈을 뜬다."
+    },
+    {
+      "id": "da0606:T00002",
+      "source_sha256": "792bbfc05dc09ad6ac22925d8ff2b17bb74a51bec7a7f2283275835e7c1305c7",
+      "ko": "……또다."
+    },
+    {
+      "id": "da0606:T00003",
+      "source_sha256": "1160a8e751270820e304d95f2f9ea9c9fd53fe1d6499178b8d401a052b038c7c",
+      "ko": "또 나는 이곳에 있다.\n\n　설마 다시 한번, 이 광경을 보게 될 줄이야."
+    },
+    {
+      "id": "da0606:R00001",
+      "source_sha256": "074efa7a5212f3f8def5214053dc751da74c24b72ef031cdb97b29454a702ac8",
+      "ko": "슈트",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da0606:T00004",
+      "source_sha256": "2d4722dc99b3232196988ec4f1dc0177046270f4ffc644a9807c071945d0caed",
+      "ko": "술의"
+    },
+    {
+      "id": "da0606:T00005",
+      "source_sha256": "427566260604d16fb4a900e51400dd5dfac2ef749901179434735f0d0008d100",
+      "ko": "와 "
+    },
+    {
+      "id": "da0606:R00002",
+      "source_sha256": "b1e280383828ad75a6bf6ddccb9841c55d371aaea25786c7d9599c9755723391",
+      "ko": "윙",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da0606:T00006",
+      "source_sha256": "6b1ab87667a58cc0cbdeffdc60efbfcd05c8337b4dd8e3b78b6742038867e77a",
+      "ko": "흑익"
+    },
+    {
+      "id": "da0606:T00007",
+      "source_sha256": "e3b21956ce958d2599e4e122f5395b8bb776552bd4ceae0c6bec80e4f73a2905",
+      "ko": "이 "
+    },
+    {
+      "id": "da0606:R00003",
+      "source_sha256": "5e50b96c27b2f416824dd21237894b52728e9f8acf21f77ae97378faaafaa899",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da0606:T00008",
+      "source_sha256": "09152a2380b09e688a514e86056805ca633afd8381453280be7f536c7140c91a",
+      "ko": "풀"
+    },
+    {
+      "id": "da0606:T00009",
+      "source_sha256": "a5ec6bc8605007908b6ff5d3365f848352ec4c64fae3dd5cb69f7a5c2b0233d1",
+      "ko": "려, "
+    },
+    {
+      "id": "da0606:R00004",
+      "source_sha256": "7f54901aacf7225268c87134665a5b20140ae8d933048dc76d6a91acb4ef0cf5",
+      "ko": "레버를",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da0606:T00010",
+      "source_sha256": "49b83c94747833897d3e4df3f6bd03061d6931798dfef0c845731105ae31a296",
+      "ko": "조종간을"
+    },
+    {
+      "id": "da0606:T00011",
+      "source_sha256": "7e614902850e3b7fcc9b7cd496353e95d4e32caec65bce07e9994dd8597b6f73",
+      "ko": ", "
+    },
+    {
+      "id": "da0606:R00005",
+      "source_sha256": "1780f8d0b5ca3d56781f372cab1e4453a7e7a11b09379f9a47e53cf585c71d63",
+      "ko": "모니터를",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da0606:T00012",
+      "source_sha256": "d051df30a6362ad3a8609806ffb547db5d5ecc690640858cc163a6de79cda01d",
+      "ko": "화면을"
+    },
+    {
+      "id": "da0606:T00013",
+      "source_sha256": "7e614902850e3b7fcc9b7cd496353e95d4e32caec65bce07e9994dd8597b6f73",
+      "ko": ", "
+    },
+    {
+      "id": "da0606:R00006",
+      "source_sha256": "04e33ef78efe2b03552bf05c31e536e194a93ba89b4082e62b1b6762a0516ed2",
+      "ko": "콘솔을",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da0606:T00014",
+      "source_sha256": "bfcc66347a35e8bd2170077c4d1041c2b8c6ac5a7ba706d36dc34c6c87ddff97",
+      "ko": "제어장치를"
+    },
+    {
+      "id": "da0606:T00015",
+      "source_sha256": "e9c0473858d560194ae82b8d56166eed15f5b8d7c23fd6ddc8e31f5dc8476f3e",
+      "ko": " 형성한다.\n\n　뇌리를 질주하는 술식."
+    },
+    {
+      "id": "da0606:T00016",
+      "source_sha256": "440ec7d11ea16e443d232325a5788329b481e39e569a1defa777f8f4c1228e14",
+      "ko": "데몬베인을 조종하기 위한 이론."
+    },
+    {
+      "id": "da0606:T00017",
+      "source_sha256": "5dbe60e3e8c886ed8214e745d7e2676868e1e7ac4cf85997546cf0eb8571f55b",
+      "ko": "적을 쓰러뜨리기 위한 이론.\n\n　실감한다."
+    },
+    {
+      "id": "da0606:T00018",
+      "source_sha256": "662741e82d54acacc9867115540a5a27ab87f1fb917536171758e2e9459fa67e",
+      "ko": "나는 다시, 이곳으로 돌아온 것이다."
+    },
+    {
+      "id": "da0606:T00019",
+      "source_sha256": "1b4dfa6934f46f4323ddb18fd2bc417e6003d3a0c1785e5b386d47dd766858ec",
+      "ko": "나의 "
+    },
+    {
+      "id": "da0606:R00007",
+      "source_sha256": "db132d621cb137c86316dace88d375c556f513c97de438acc04991ee6e81c717",
+      "ko": "필드",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da0606:T00020",
+      "source_sha256": "5a35f9aac88182574445ec4740e4db235889a54b2bfb274b7d1d0de1e19221b1",
+      "ko": "전장"
+    },
+    {
+      "id": "da0606:T00021",
+      "source_sha256": "29a5c1e0830fa32c35ece8a434231639b595c77e5b627393aaa4c141cc5ad784",
+      "ko": "――데몬베인의 "
+    },
+    {
+      "id": "da0606:R00008",
+      "source_sha256": "16f0743d46c22e155e0fc89238475a58824ee7da3dae1b471f1b1b1f7f2e9d07",
+      "ko": "콕핏",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da0606:T00022",
+      "source_sha256": "8dc579f738134d3d31e9335b1a315dc0209a159fbbf38881e98c9a5e26d4e552",
+      "ko": "조종실"
+    },
+    {
+      "id": "da0606:T00023",
+      "source_sha256": "3834e63f2e78ba23d91c670ee491da680bfb248120bba792362626920add9b8b",
+      "ko": "에."
+    },
+    {
+      "id": "da0606:T00024",
+      "source_sha256": "dda78d4a850a212200c02e246136a213f6ddb8e7275c638d17b401619f029a22",
+      "ko": "「갈 수 있겠냐, 알?」"
+    },
+    {
+      "id": "da0606:T00025",
+      "source_sha256": "4d3d409bc8ac99ec59a36bc1829936eec0c9532717816f1b19918b9c16800fec",
+      "ko": "「그래…… 할 수 있다」"
+    },
+    {
+      "id": "da0606:R00009",
+      "source_sha256": "795ea4682715f83fac4782a340277ca62c2c813af33366bfa2dda9939ae8651d",
+      "ko": "내비",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da0606:T00026",
+      "source_sha256": "902940b9c6dfae994447b1b46d9971b76bb260524efffa42c3e0a3254790a07e",
+      "ko": "마도서용"
+    },
+    {
+      "id": "da0606:T00027",
+      "source_sha256": "3b2e79bc719379948597cf4be8f8c76f1b3296e6089b0a355b1d9b49e5503647",
+      "ko": "의 "
+    },
+    {
+      "id": "da0606:R00010",
+      "source_sha256": "453ba1172e5534742e6f28a5d8bed221fc1939e489e7976ab48c85122944056e",
+      "ko": "시트",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da0606:T00028",
+      "source_sha256": "558b79c6c662065e5a267000ab65c0d5fb06a5ab8c75a4d98bec547f2112016b",
+      "ko": "조종석"
+    },
+    {
+      "id": "da0606:T00029",
+      "source_sha256": "54a6fb13a934aeb76d7be5bda766fcdab796644e2e094293f888d1c65f26d6cd",
+      "ko": "에 앉아, 알은 조용히 고개를 끄덕였다."
+    },
+    {
+      "id": "da0606:T00030",
+      "source_sha256": "46ba536c490dee0df86df766f81603848db0d317936f8a0b0e3c7be1dc8e94e8",
+      "ko": "기분 탓인지, 지금까지보다 더 차분해 보였다."
+    },
+    {
+      "id": "da0606:T00031",
+      "source_sha256": "9b1557e1bb789cedefc7b7140945fe44720e5c352b0d341d545481bb2e98d728",
+      "ko": "「고통이 가라앉는다…… 힘이 넘쳐흐르는 것 같구나. 역시 싸우는 우리에게는 이곳이 어울려」"
+    },
+    {
+      "id": "da0606:T00032",
+      "source_sha256": "a86602d24a21f7716ac06ed28ede829d2bdf41c292fc895674062d0c4f03f71d",
+      "ko": "「아아…… 그렇군」"
+    },
+    {
+      "id": "da0606:T00033",
+      "source_sha256": "df619c795476097682dfb6be8c10455ce8cfc20876fd2cdc667a5becd4ac20ec",
+      "ko": "「이쪽도 준비 완료예요.\n　다이쥬지 씨, 알 아지프!」"
+    },
+    {
+      "id": "da0606:T00034",
+      "source_sha256": "6a4bbf149b01ba25a3e87df49ef4dc0bc760dc72ee21d036e0e4ca4abf0781f8",
+      "ko": "「아가씨!?」"
+    },
+    {
+      "id": "da0606:T00035",
+      "source_sha256": "a73755e6e31d6a22a76ebc2db01f7af0bf02cb27995951db4009e600aee64c88",
+      "ko": "「꼬맹이!?」"
+    },
+    {
+      "id": "da0606:T00036",
+      "source_sha256": "9f7ac329d480896f31c46974ccef467d86078ddb64b3df62e0c07b31fc90cef9",
+      "ko": "돌연 모니터에 끼어든 것은, 사령관 복장을 한 아가씨다."
+    },
+    {
+      "id": "da0606:T00037",
+      "source_sha256": "cf8ca95cb66727faeb60980d86d1c85655e78465664e0fa74ad39891ab0fd3fc",
+      "ko": "물론, 그것은 본래 있을 수 없을 터인 아가씨의 모습이다."
+    },
+    {
+      "id": "da0606:T00038",
+      "source_sha256": "6c0c3d32bb196d57d25c2128b63602332a5e215719ccb23fd435bf8593e18f9f",
+      "ko": "「아가씨『도』……인 건가?」\n\n　라이카 씨와 마찬가지로――아가씨 또한 그 싸움의 기억을?\n\n　과연 아가씨는 상냥하게 미소 지었다."
+    },
+    {
+      "id": "da0606:T00039",
+      "source_sha256": "d85e0c37014803ec58a67e64a3e491939701d81031c59dfb3ad8ff7df5cbaa3e",
+      "ko": "「다이쥬지 씨. 알…… 두 분은 단둘이서, 이렇게나 무거운 『"
+    },
+    {
+      "id": "da0606:R00011",
+      "source_sha256": "224189fa92c38c72063b083858e042a3ac2c3ff7030bf34485cd14a47dcb56c5",
+      "ko": "메모리",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da0606:T00040",
+      "source_sha256": "0691ee1aaaeb18f7c4c03afbedbb3b3132dd15f96dc88372130bfc48b8ecd4c3",
+      "ko": "마음"
+    },
+    {
+      "id": "da0606:T00041",
+      "source_sha256": "f519d60ef76140d657aed19ab8d8d786f2e0310c65e4ab8b4ee7ffef56552a99",
+      "ko": "』을 품고 계셨던 거군요」"
+    },
+    {
+      "id": "da0606:T00042",
+      "source_sha256": "9767bf393484a304cef770464a655b7224f4e97ac99792e0fbff734595e62310",
+      "ko": "「하지만 지금의 저희라면,\n　두 분을 서포트할 수 있어요!」"
+    },
+    {
+      "id": "da0606:T00043",
+      "source_sha256": "661a1fb03f3703c932d6cb2f3380f0031bef6e3ffbcef2fd19add7473e91d011",
+      "ko": "「갑니다, 여러분!」"
+    },
+    {
+      "id": "da0606:T00044",
+      "source_sha256": "db5eb99aa2f6ee95c90a70723c869a6e7bac33859de4e246701ee80d089d6176",
+      "ko": "「알겠습니다, 아가씨…… 아니, 사령」"
+    },
+    {
+      "id": "da0606:T00045",
+      "source_sha256": "d22abb90e7c8848be94ffc339af7ca464ff99fc6ac21ea70b4ffeff240898b4c",
+      "ko": "「신기하네…… 처음 보는 "
+    },
+    {
+      "id": "da0606:R00012",
+      "source_sha256": "088462f65b7e8bc00db9fd7d87cf33cea200daceb9094dea9dc851b2a1851090",
+      "ko": "시스템",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da0606:T00046",
+      "source_sha256": "ae109331ef7728d53f6a4f94c05af52b4c97bc32703b370b4eaaaf3a58bd58b1",
+      "ko": "장치"
+    },
+    {
+      "id": "da0606:T00047",
+      "source_sha256": "77a06bb193c369b51b869f9eb927cfdc62360e70603547c75a4d24f3f3d43b03",
+      "ko": "인데도, 사용법을 "
+    },
+    {
+      "id": "da0606:R00013",
+      "source_sha256": "67972a2c8e5ecaca4ffebbe487dfef1e8db028ebd1569d5547e4e96156650b7c",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da0606:T00048",
+      "source_sha256": "5cb53e3de202ecbb3e7fd1e3903cb9bc748413ba5caaf013960008b13708f3f5",
+      "ko": "알"
+    },
+    {
+      "id": "da0606:T00049",
+      "source_sha256": "b5405c08287756fa3a568a7cf19da5056261a6b5b856161e94fd71b2a117857c",
+      "ko": "겠어」"
+    },
+    {
+      "id": "da0606:T00050",
+      "source_sha256": "2856c7cb89dc3f702355c49f9dabe1e5e260b8bec4fd16bc4490cc72870ad68f",
+      "ko": "「어쨌든, 『저 마더퍼커 같은 촉수 몬스터를 쳐죽여라』라고 지시만 내리면 되는 거죠, 그렇죠?\n라져입니다아~!」"
+    },
+    {
+      "id": "da0606:T00051",
+      "source_sha256": "51582899a5000a7e1f040e1d3b298e96235076e8bc885355d1e148ea44fd3365",
+      "ko": "「――이쪽도 문제없습니다」"
+    },
+    {
+      "id": "da0606:T00052",
+      "source_sha256": "c8e1d478405a327058d7c77a487e9e09f059524c165f9efccf9a5b5de0407d41",
+      "ko": "「――보시다시피, 이쪽은 만반의 준비가 끝났어요.\n　마음껏 싸워주세요!」"
+    },
+    {
+      "id": "da0606:T00053",
+      "source_sha256": "60caac0f1444172ea5ddf598de1f8690b583e8e99c457f7a67f5b45546075a7f",
+      "ko": "「……알!」"
+    },
+    {
+      "id": "da0606:T00054",
+      "source_sha256": "ab94bb935862f53cf43bb89b4401e07d24504b0d183c6cbb7f7a6a0c8a8ba476",
+      "ko": "「……음!」"
+    },
+    {
+      "id": "da0606:T00055",
+      "source_sha256": "ba1ccffae6e255329a4474171505cf680da643a4be8a05bc0dcc7c0dd8a9aaf7",
+      "ko": "결여된 것은 아무것도 없다."
+    },
+    {
+      "id": "da0606:T00056",
+      "source_sha256": "5027d8fbc5c96e5833022b0fb255d77ea2d5ca2c398024dfc736adc940a18d49",
+      "ko": "내가 있고, 알이 있고, 모두가 있다.\n\n　그렇다."
+    },
+    {
+      "id": "da0606:T00057",
+      "source_sha256": "4cb9589a4a5ef313b75974c2b0e5c665ef56f52325122ac9c007ccd6ef2e301a",
+      "ko": "데몬베인은 변함없이 우리를 맞이해 준 것이다."
+    },
+    {
+      "id": "da0606:T00058",
+      "source_sha256": "1d6d4845e47a105d8fcc6d3995b3a165a6242480fdb6acbcb746ea430083eac4",
+      "ko": "「가라――――앗!\n　　　　　　　데몬베인!」"
+    },
+    {
+      "id": "da0606:R00014",
+      "source_sha256": "3665dae4aa325fd92f5051dc596d6484b7a0ac974ed0c51c6f053c499fb954f2",
+      "ko": "마기우스",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da0606:T00059",
+      "source_sha256": "497da8a40b63248877795b608460ea8b429cbb806628acdc355ed560db9990f5",
+      "ko": "의지"
+    },
+    {
+      "id": "da0606:T00060",
+      "source_sha256": "427566260604d16fb4a900e51400dd5dfac2ef749901179434735f0d0008d100",
+      "ko": "와 "
+    },
+    {
+      "id": "da0606:R00015",
+      "source_sha256": "d8593abf567a1c68b234247ccb6231b219aecdb68474ce39016d695304fc8a1a",
+      "ko": "그리모어",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da0606:T00061",
+      "source_sha256": "dc1678ea2211f3ca2a97ce5367e460fada037ada2007f0cfea12fb7323ffb762",
+      "ko": "지혜"
+    },
+    {
+      "id": "da0606:T00062",
+      "source_sha256": "427566260604d16fb4a900e51400dd5dfac2ef749901179434735f0d0008d100",
+      "ko": "와 "
+    },
+    {
+      "id": "da0606:R00016",
+      "source_sha256": "86dd734eaf7fe426a687eecf58a6f59f669b51f946f00e6415a0ef6e3ef7b66c",
+      "ko": "데모스 마키나",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da0606:T00063",
+      "source_sha256": "bc90551c0ef83900ca08d19f581b29bcd0b6a06185d7e2d51f7748c1a201c1e2",
+      "ko": "위력"
+    },
+    {
+      "id": "da0606:T00064",
+      "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+      "ko": "."
+    },
+    {
+      "id": "da0606:T00065",
+      "source_sha256": "3673ecbb67987ccd787529d6f0cd014d2193ef8306dc2708308fbb83e8f0e656",
+      "ko": "그 "
+    },
+    {
+      "id": "da0606:R00017",
+      "source_sha256": "77231c034f8731c6d5cd91a1ff47185a3915290e7c1692cd689f125430a4b7eb",
+      "ko": "트리니타스",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da0606:T00066",
+      "source_sha256": "0bc70873212c720e5d68a9838bfce8f9e690665e583de0a4a40b03d8221a6ded",
+      "ko": "삼위일체"
+    },
+    {
+      "id": "da0606:T00067",
+      "source_sha256": "02b6cece6ebafa3c6619517e0a02cef07064b62e24e37aea26b87331f5832fba",
+      "ko": "를 통해, 우리는 『"
+    },
+    {
+      "id": "da0606:R00018",
+      "source_sha256": "faad4663917e9f697861dd8f8351f4b75876f086445f4735d2e147048b1329b2",
+      "ko": "데몬베인",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da0606:T00068",
+      "source_sha256": "2ac8144e433bacbb2822cf92205a3440a571a127ecf3c67f21ef8798d9f7a27c",
+      "ko": "마를 쳐부수는 자"
+    },
+    {
+      "id": "da0606:T00069",
+      "source_sha256": "9c1aeb7b67a3866364a48693b268135cf2290cb6076694d98529b8729dd7f2a6",
+      "ko": "』가 된다!\n\n　파괴로보를 덮치고 있던 웨이틀리가, 시선을 이쪽으로 돌렸다."
+    },
+    {
+      "id": "da0606:T00070",
+      "source_sha256": "0dcb3a3be776d76d7b6ae157d02d7f1f2f49e657da530ec1578fdba3303d1899",
+      "ko": "부풀어 오른 거대한 눈동자가, 증오의 "
+    },
+    {
+      "id": "da0606:R00019",
+      "source_sha256": "33439ddb0f66823471fcc299d5d5f75aa20a1470e5cc0d7bb310dbe5b1609c6d",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da0606:T00071",
+      "source_sha256": "1f828276b921aa107500f6e9151332285e78eb3c2fd98302107a1970352e1742",
+      "ko": "색"
+    },
+    {
+      "id": "da0606:T00072",
+      "source_sha256": "5f945f18ef58973201d6df7fc5efda98c57557242b02afb62e8023aacc832b54",
+      "ko": "으로 "
+    },
+    {
+      "id": "da0606:R00020",
+      "source_sha256": "06ccdf06d7529eb8ab462d5628f9b0cdd5d3cee7ca2b1522ef47f21fdd8f14d2",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da0606:T00073",
+      "source_sha256": "1fddc5a562ee1fbeb4fc6def7d4be4911fcdae4273b02ae3a507b170ba0ea169",
+      "ko": "타"
+    },
+    {
+      "id": "da0606:T00074",
+      "source_sha256": "b93db20ce337e0e4e4a0331c917b21b3a99ecb7375a3d3237b7c8d0ce73d0f6e",
+      "ko": "오른다."
+    },
+    {
+      "id": "da0606:T00075",
+      "source_sha256": "0a3df25183841e609f011228ce8c5feb5eae84191e9585e557261ba08a0cd66f",
+      "ko": "「그래, 네놈 상대는 이쪽이다. 덤벼봐라, 괴물 녀석」"
+    },
+    {
+      "id": "da0606:T00076",
+      "source_sha256": "79331f80b099c37b0fca31301118d59221784de05d983e8b0e07eeceb464de7e",
+      "ko": "「ＩＡＡａａａａａａａ！」"
+    },
+    {
+      "id": "da0606:T00077",
+      "source_sha256": "0860d0e355810166cfa9ab933553bd71e5d9431060f1e64c7abffe3608328aea",
+      "ko": "무수한 촉수가 모든 각도, 있을 수 없는 각도에서 덮쳐왔다."
+    },
+    {
+      "id": "da0606:T00078",
+      "source_sha256": "3d9fd6e61866fffe01025fa04f7cb392b467be1d92d3729b4b499d4bc68cace0",
+      "ko": "칫, 어설퍼!"
+    },
+    {
+      "id": "da0606:T00079",
+      "source_sha256": "c5739476ef667d38376f88450c096bf5c77c18cb68d84ad75d094372a5acf405",
+      "ko": "「――――!?」"
+    },
+    {
+      "id": "da0606:T00080",
+      "source_sha256": "e286383dc4ab1e01d9b12c08fe051da2e07a1a85fba10196966aa1ed3deac549",
+      "ko": "망설임 없이 정면으로 돌진한다."
+    },
+    {
+      "id": "da0606:T00081",
+      "source_sha256": "1f25bfaac1f541b90a93647012e476c492e8de2f931694fcc0053cbc8e1e22e9",
+      "ko": "그 앞에는 시야를 가득 메울 정도의 촉수."
+    },
+    {
+      "id": "da0606:T00082",
+      "source_sha256": "6e12a284fa892bcba9af7fc86489d2b3e3f0c52f151d07d9a85c1c5bb00899e4",
+      "ko": "「그런 걸로, 데몬베인을――!」"
+    },
+    {
+      "id": "da0606:T00083",
+      "source_sha256": "82af2266860137beddca42502062c9a194f4f749f9f14cb8d4dd14bd35675803",
+      "ko": "「막을 수 있을 줄 알았더냐! 가소롭다!」"
+    },
+    {
+      "id": "da0606:T00084",
+      "source_sha256": "aac0b6d1775f6541539b13ffe3f45489dc5478b90d4bb5fa9a7901263304284f",
+      "ko": "「ＥＥＥＥＥＥｙＡＡａａａａＡＡ――――ａａＡ!?」"
+    },
+    {
+      "id": "da0606:T00085",
+      "source_sha256": "7806ae2b76b072021039d7eb36405fe0c931143520413504eb0d0629636250e0",
+      "ko": "촉수 무리가 일제히 거품을 일으키며 증발한다."
+    },
+    {
+      "id": "da0606:T00086",
+      "source_sha256": "d41c307e52c4f72ad1c9df0a2348642982cdd718b0a24913b89528f47d19edf6",
+      "ko": "순식간에 소환된 마총 크투가가 뿜어내는 총탄."
+    },
+    {
+      "id": "da0606:T00087",
+      "source_sha256": "bac0737e184f02f246f043163429b4be537c822c87263e42637f3f228246cbc2",
+      "ko": "폭렬탄에 봉인된 술식이 "
+    },
+    {
+      "id": "da0606:R00021",
+      "source_sha256": "f82ba0b74230562fc2c2c595d971367df84eed2e2861c036af2c6d71381e077f",
+      "ko": "플라스마를",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da0606:T00088",
+      "source_sha256": "c720ed7c0f262983f754755d85e763074fa16c9a673ddaa56e96bd814a1b8e9e",
+      "ko": "초고열을"
+    },
+    {
+      "id": "da0606:T00089",
+      "source_sha256": "31d1ba1d5e7e1878af65b5b4a674dc6e1df9776d3ba6f51e68f7a9e272e2fcbd",
+      "ko": " 해방하여, 촉수를 불태운 것이다."
+    },
+    {
+      "id": "da0606:T00090",
+      "source_sha256": "1383c89bf4417ed8fa8f04833ca8c6a6142d018607a3fca7e4356529e4ee18da",
+      "ko": "「단쇄술식 1호 티마이오스――」"
+    },
+    {
+      "id": "da0606:T00091",
+      "source_sha256": "305676180659c842da8f15b1b8152f6e35a9d449107e8be7d0e8e96d6b7d310e",
+      "ko": "「2호 크리티아스――」"
+    },
+    {
+      "id": "da0606:T00092",
+      "source_sha256": "b398e8c0362f2eb307f3e04cb1da9e4ff2f1140e2ca85c67203524389a0eb58b",
+      "ko": "섬광 속으로 곧장 뛰어든다."
+    },
+    {
+      "id": "da0606:T00093",
+      "source_sha256": "8c8a06ef755ec31e998b0ec2b7f8b7df20ee20845418c1fd4e92d68be719d811",
+      "ko": "하얀 시야를 넘어선 곳에는, 웨이틀리의 흉악하게 맥동하는\n거체가 있다."
+    },
+    {
+      "id": "da0606:T00094",
+      "source_sha256": "c6aeffecf932a7facaca060adbce8a1ec139ea5d99cc702fe4b94fc65bd7b8e6",
+      "ko": "「「해방!」」"
+    },
+    {
+      "id": "da0606:T00095",
+      "source_sha256": "b281019b830375ae2404b291b6cdd565d21b27c12d88d521a63ddea6a870c3d2",
+      "ko": "해방된 "
+    },
+    {
+      "id": "da0606:R00022",
+      "source_sha256": "8d5605b4122616865962e36f4d11187ccff02b4ffe9b55c62b2a579ed3eb6ba6",
+      "ko": "실드가",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da0606:T00096",
+      "source_sha256": "ed1aeb2f2211575f62d7a013a4959bbabe029ced9577a9684338c56cd01bb72d",
+      "ko": "기관이"
+    },
+    {
+      "id": "da0606:T00097",
+      "source_sha256": "f61baed82d9a4f58cd4d6f76d646cc040b608d2adaf2551f6e32442afbb75655",
+      "ko": " 뿜어내는 에너지, 이 사악한 자에게 처박는다!"
+    },
+    {
+      "id": "da0606:T00098",
+      "source_sha256": "86a475eefe3f61855ae5d280b0ea35b54f721a5c1d01eea42211bd122d2693c7",
+      "ko": "「아틀란티스 스트라이크!」"
+    },
+    {
+      "id": "da0606:T00099",
+      "source_sha256": "b79c5ff4f19f9685649853b064adc66b546bbd59b641a89a7ac25b16a1edba23",
+      "ko": "「ＡＡ아ＡＡａａ＆아％（’Ｕ아￥ＡＡ!?」"
+    },
+    {
+      "id": "da0606:T00100",
+      "source_sha256": "e2370b2f528dc8dcd32519ef81e97f5777e09e20a4a90a717abcc9dc2b28d5eb",
+      "ko": "「호와아아아아아아아~~~~~앗!?\n　로보오오~~~~~~~~~~앗!?」"
+    },
+    {
+      "id": "da0606:T00101",
+      "source_sha256": "0f2c9fa0de1804a0bb95d4a4c67cfc4d3b8d798169379f6a48a75c966c56a14d",
+      "ko": "함께 뭔가 다른 것도 날려버린 것 같은 기분이 들지만,\n지금은 신경 쓰지 않는다."
+    },
+    {
+      "id": "da0606:T00102",
+      "source_sha256": "82d898b1c5fc2dadc8b5be0b714eedff0690f96f3abef5ce79a68603e2245539",
+      "ko": "「……뭐, 괜찮겠지」"
+    },
+    {
+      "id": "da0606:T00103",
+      "source_sha256": "b299afb0241290207a246838eeca30c926d13ea297bed64fa081c491237d939b",
+      "ko": "「대사를 앞둔 소사다」"
+    },
+    {
+      "id": "da0606:T00104",
+      "source_sha256": "8a88d86db1f46e1ee9b0096745f625672e27b57c85109d05aa0b43e5824cde6d",
+      "ko": "그것보다도――"
+    },
+    {
+      "id": "da0606:T00105",
+      "source_sha256": "5038bb97c09071ad3034b0ecffd053a69d9d4847efd8954f6883b58ab38183d4",
+      "ko": "「위그나위이…… 이그나위이……」"
+    },
+    {
+      "id": "da0606:T00106",
+      "source_sha256": "577b6c2b1ec2aa77de139c83d19068f48388fea6c0f6e77a0d28ed750ae2b9fd",
+      "ko": "웨이틀리 쪽으로 돌아선다."
+    },
+    {
+      "id": "da0606:T00107",
+      "source_sha256": "7b3782eb410b01feaadd5fa4c7d49731fb2cf44cc43f597457b8d6b1cd19d52f",
+      "ko": "날아간 웨이틀리는, 거품 이는 점액을 온몸에서 뿜어내며 괴로워하고 있다. 몸부림치는 흉악한 고깃덩어리."
+    },
+    {
+      "id": "da0606:T00108",
+      "source_sha256": "c5739476ef667d38376f88450c096bf5c77c18cb68d84ad75d094372a5acf405",
+      "ko": "「――――!?」"
+    },
+    {
+      "id": "da0606:T00109",
+      "source_sha256": "f5a464fa00de96484122c2cd9e1ad09fa905305738ad3ae31202f7b5ee69c122",
+      "ko": "하지만, 내가 보고 있는 바로 앞에서, 웨이틀리는 "
+    },
+    {
+      "id": "da0606:R00023",
+      "source_sha256": "7614c4c21215aaafb751bbdca726c2be0e7df42e4c437476947512685c828bb0",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da0606:T00110",
+      "source_sha256": "389a3f1a1da19814193679df29fa9c6643e49e2ced1372ef84ac856a56e6eae7",
+      "ko": "안개"
+    },
+    {
+      "id": "da0606:T00111",
+      "source_sha256": "fb86ce0aaafff37bb44fbe09a5318835ec30cd7d2b036f55daa20904e004ea17",
+      "ko": "처럼 희미해져 간다."
+    },
+    {
+      "id": "da0606:T00112",
+      "source_sha256": "cab0f40be4b1a91ea14bc63c3b54e746790fabec5a63075122701dcfeffecfb2",
+      "ko": "그 정도의 거체가 흔적도 없이, 소멸했다."
+    },
+    {
+      "id": "da0606:T00113",
+      "source_sha256": "142ab238bf04952b07659a15efb84b360719c6363064f6c63799a8cfe04d68b7",
+      "ko": "「……사라졌어?」"
+    },
+    {
+      "id": "da0606:T00114",
+      "source_sha256": "d3ce71ea9f9b3292972df906b6e599a88da2ec4b4977683841c013ce49fb7564",
+      "ko": "「놈은 본래 불가시의 괴물이다.\n　거기에 차원을 넘나드는 힘까지……\n　골치 아프겠구나」"
+    },
+    {
+      "id": "da0606:T00115",
+      "source_sha256": "c5739476ef667d38376f88450c096bf5c77c18cb68d84ad75d094372a5acf405",
+      "ko": "「――――!?」"
+    },
+    {
+      "id": "da0606:T00116",
+      "source_sha256": "e6c8144e9baa9889adc7752f9fe45285e8ea5fc279c7fc510c892ef00a4684f3",
+      "ko": "그때, 웨이틀리가 사라진 부근에서 마력의 폭발이 일어났다."
+    },
+    {
+      "id": "da0606:T00117",
+      "source_sha256": "b03c744a8a1d3d70cfafe23311bfd3a2f1882166a02cc67d33778b22d5d29f12",
+      "ko": "터져 나오는 마력의 파동은 공간으로 퍼져나가, 주문의 문양을 그리며, 현상으로서\n현현한다."
+    },
+    {
+      "id": "da0606:T00118",
+      "source_sha256": "07dc241c2f9993d97c5fefc01e2363f4e8a68df2ffc41af5ce03c32ec60830aa",
+      "ko": "빛의 입자가 넘쳐흘러, 공간을 가득 채운다."
+    },
+    {
+      "id": "da0606:T00119",
+      "source_sha256": "c7885814d569eef03dee2fdff62cf8bf0a01180c3587b3c1a0dd7c0656e15c18",
+      "ko": "은은한 빛의 안개 속에, 거대한 그림자가 떠오른다."
+    },
+    {
+      "id": "da0606:T00120",
+      "source_sha256": "952183f403a0fee58348cd328efe50f5e7dddbf0909249720ed77839ae441fbb",
+      "ko": "「이위위위위이위위위위위……!」"
+    },
+    {
+      "id": "da0606:T00121",
+      "source_sha256": "a0bb6f96b7cc527d62e6aa8723f6f65690c5f9a0f9b2e751081af53f9c48299d",
+      "ko": "「어이, 또 "
+    },
+    {
+      "id": "da0606:R00024",
+      "source_sha256": "2b826478f59c2fee27b95e2947c15a7596908f21671c84c287eaf3dfdfa9128b",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da0606:T00122",
+      "source_sha256": "0a02e0d09dc74cad30d832a411825bc5fbf4b5af04baf6aff8cee8af35cb38dd",
+      "ko": "나타"
+    },
+    {
+      "id": "da0606:T00123",
+      "source_sha256": "7bcf1444050a196134d441f2ba5f6384d9ed17f5623f5884fdbb3455b210b2ed",
+      "ko": "났다고?」\n\n　빛의 안개 속에서, 웨이틀리는 뭍에 올려진 물고기처럼 헐떡이며,\n펄떡거린다.\n\n　마구잡이로 휘둘러지는 촉완이 빌딩을 쓸어 쓰러뜨려 간다."
+    },
+    {
+      "id": "da0606:T00124",
+      "source_sha256": "f9a5a240b4af6c44be192dc957f1ec79b9eefbdb9c5c50f3b42a6cc3631025a0",
+      "ko": "「이 술식은……!」"
+    },
+    {
+      "id": "da0606:T00125",
+      "source_sha256": "baf7e1c4dc91b3cbd22ba75d4708867e510e757ca7f20a4a1dfc8bf5bb149a94",
+      "ko": "「이븐 가지의 가루약――영질과\n물질을 결합하는 "
+    },
+    {
+      "id": "da0606:R00025",
+      "source_sha256": "b3c2d0ad57639105ec806b0ba5d0251fe5c09f15bf86de3523641fa75b566a12",
+      "ko": "파우더지",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da0606:T00126",
+      "source_sha256": "c1ea9debcb4ac8df7664a4e5f8817911704eace705defd43ae314634902b5f02",
+      "ko": "가루약이지"
+    },
+    {
+      "id": "da0606:T00127",
+      "source_sha256": "fce5cc7168b5d499a298a18826be2841a2e88043fccd9a88a1d75fadac9d58ba",
+      "ko": ".\n내 술식 앞에서 본질을 끝까지 숨길 수 있는\n이형 따위는 존재하지 않네」"
+    },
+    {
+      "id": "da0606:T00128",
+      "source_sha256": "7c847fd5993509f52ea30809d5dc381c35c4e226bf8cf1102aed3eb933ca9286",
+      "ko": "「아미티지 영감님!」"
+    },
+    {
+      "id": "da0606:T00129",
+      "source_sha256": "b22ac4542fb14ab5300a28b11385931ee5f69f5442a35824554c6e333414c62c",
+      "ko": "「……설마 더니치의 괴이와,\n　다시금 "
+    },
+    {
+      "id": "da0606:R00026",
+      "source_sha256": "b2cfffd46caf7b91ea98e26404d4b1a667606041b48a0a1fe1d7d8ae871c16b7",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da0606:T00130",
+      "source_sha256": "aa7b526258ccf22287414bb35b25964072d9e495fdec0a8c10d93a12fc92cb61",
+      "ko": "마주하"
+    },
+    {
+      "id": "da0606:T00131",
+      "source_sha256": "d41a8e6d528e1aa3d13c7dede073d386e26f7bb8bb66c21a870a6a0a4b203c6d",
+      "ko": "게 될 줄이야」"
+    },
+    {
+      "id": "da0606:T00132",
+      "source_sha256": "9c006e8a9757636bf1b0bf21f1acc6dc261a64e0776125082bd2528688043d48",
+      "ko": "「헨리 아미티지!」"
+    },
+    {
+      "id": "da0606:T00133",
+      "source_sha256": "09d73fdb978976076b0e45689b8d7c4cec43def29c2d92b43a188a8a744004ba",
+      "ko": "「…………!?」"
+    },
+    {
+      "id": "da0606:T00134",
+      "source_sha256": "2eb414e7619af971e6cd0842899f4e7e1a615ebefcf65d9c2ed8b3b5a7351613",
+      "ko": "「옛날의 저는 "
+    },
+    {
+      "id": "da0606:R00027",
+      "source_sha256": "2ede1e195c618fd02f76f1cc2978bce4d65b4a9ca2a7992ef9c30eb49fc4690f",
+      "ko": "이딴 것으로",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da0606:T00135",
+      "source_sha256": "bc77f688b96c3457d47e441db889dd05a16cc1e67062d0d2d7a14e33f745aff3",
+      "ko": "대형 라이플로"
+    },
+    {
+      "id": "da0606:T00136",
+      "source_sha256": "a8809e96d4ea410b91095c5da624d05f7df1b4c671f484ca68ec1a48a1da3a5f",
+      "ko": ",\n　저것을 상대하려고 했었으니\n　말입니다…… 정말 부끄럽기 짝이 없군요」"
+    },
+    {
+      "id": "da0606:T00137",
+      "source_sha256": "aae13c38c3b59c5e7e58f92d4932b54982d4f4019ac0b3c3654c6214ccf4dcb8",
+      "ko": "「프랜시스 모건!」"
+    },
+    {
+      "id": "da0606:T00138",
+      "source_sha256": "edf819eb090d9a31b661bd611e9c29af513e4177c3b1c3a79387ecd712d32b9b",
+      "ko": "「아무래도 당신이 도둑님인 모양이군요」"
+    },
+    {
+      "id": "da0606:T00139",
+      "source_sha256": "eb6aa8256ac5ca46676e0e81303d0ab59d2debbfda552cee233a451305ef5130",
+      "ko": "「거기에 이 악몽 같은 세계……\n　어찌 된 영문인지 설명해 줄 수 있겠나?」"
+    },
+    {
+      "id": "da0606:T00140",
+      "source_sha256": "6a8fc7f75c2820d3802a49dd87e088fae05eaa38edcb87f97e12965de9522b58",
+      "ko": "「워런 라이스……\n　삼총사가 다 모였다는 거네?」"
+    },
+    {
+      "id": "da0606:T00141",
+      "source_sha256": "8c326aea705a5448b52820d5115d05a3acd8a6703d2e272f42b171584fa0ca9a",
+      "ko": "「나를 잊어서도 곤란하지」"
+    },
+    {
+      "id": "da0606:T00142",
+      "source_sha256": "f63e338a9fae446f20ae3d105f2318d7c4d921eff8749a1d9931f4bd94dd5f65",
+      "ko": "「…………」"
+    }
+  ],
+  "issues": [
+    {
+      "id": "da0606:R00003",
+      "kind": "ruby_decision",
+      "note": "일본어 독음 ほど이 한국어 본문과 겹쳐 읽기 줄을 생략"
+    },
+    {
+      "id": "da0606:R00013",
+      "kind": "ruby_decision",
+      "note": "일본어 독음 わか이 한국어 본문과 겹쳐 읽기 줄을 생략"
+    },
+    {
+      "id": "da0606:R00019",
+      "kind": "ruby_decision",
+      "note": "일본어 독음 いろ이 한국어 본문과 겹쳐 읽기 줄을 생략"
+    },
+    {
+      "id": "da0606:R00020",
+      "kind": "ruby_decision",
+      "note": "일본어 독음 も이 한국어 본문과 겹쳐 읽기 줄을 생략"
+    },
+    {
+      "id": "da0606:R00023",
+      "kind": "ruby_decision",
+      "note": "일본어 독음 かすみ이 한국어 본문과 겹쳐 읽기 줄을 생략"
+    },
+    {
+      "id": "da0606:R00024",
+      "kind": "ruby_decision",
+      "note": "일본어 독음 あらわ이 한국어 본문과 겹쳐 읽기 줄을 생략"
+    },
+    {
+      "id": "da0606:R00026",
+      "kind": "ruby_decision",
+      "note": "일본어 독음 あいまみ이 한국어 본문과 겹쳐 읽기 줄을 생략"
+    }
+  ]
+}

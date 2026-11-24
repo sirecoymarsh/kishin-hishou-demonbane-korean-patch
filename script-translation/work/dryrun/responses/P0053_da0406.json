@@ -1,0 +1,868 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0053_da0406",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0406:T00001",
+   "source_sha256": "66389d124b82f1955c989ffcb2106163d76651bb28ffb682cce12ddf67317c81",
+   "ko": "「알…… 힘내라」"
+  },
+  {
+   "id": "da0406:T00002",
+   "source_sha256": "2f8c0606ada9f2adabfa9665f0273f5586e3c7f17b4a94c3ed529e1b7395f633",
+   "ko": "「아아…… 이깟 일……\n　크으…… 읏!」"
+  },
+  {
+   "id": "da0406:T00003",
+   "source_sha256": "f63e338a9fae446f20ae3d105f2318d7c4d921eff8749a1d9931f4bd94dd5f65",
+   "ko": "「…………」"
+  },
+  {
+   "id": "da0406:T00004",
+   "source_sha256": "a5fc936415caef324293e485b2b1e170074910de7c0150b23ac1f2e6715b7add",
+   "ko": "시계탑에 내려진 우리들은 모두의 싸움을 지켜보고 있었다."
+  },
+  {
+   "id": "da0406:T00005",
+   "source_sha256": "67de59668c996d0b23f569175a3428298b1da7524135f28f52184f11479bebfb",
+   "ko": "저쪽에서는 방금 전, 데몬베인 투 소드가 크라켄을 격파한 참이다.\n\n　그리고 슈루즈베리 "
+  },
+  {
+   "id": "da0406:R00001",
+   "source_sha256": "8abe22c91f0939b6aab3db77f86d607dd7063710622f9cd851250b3a7e367dbc",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0406:T00006",
+   "source_sha256": "cd98e43da31bb1b90dc152851c85c7d266d47ba97bc5ff7bd137c5920429d467",
+   "ko": "선생"
+  },
+  {
+   "id": "da0406:T00007",
+   "source_sha256": "cdcd55c3618b1c034440c38997b065058de2f6baf63ca5e81133ba6f02b77b8e",
+   "ko": "과 클라우디우스의 싸움도 격화되고 있다."
+  },
+  {
+   "id": "da0406:T00008",
+   "source_sha256": "653b9f336a4ea49d257add62be9fb464965991b203e5552d8c8f58afaeb30c59",
+   "ko": "전장은 상공으로 옮겨져, 이 장소에서는 간혹 번뜩이는 빛의 선과,\n폭음, 여기까지 닿는 폭풍으로밖에 상황을 알 수가 없다."
+  },
+  {
+   "id": "da0406:T00009",
+   "source_sha256": "426d18ccc489b0a4933f9be25b0cefd8acefecf3fc90ca9682f11028536073a7",
+   "ko": "「젠장……!」\n\n　지금의 나로서는 아무것도 할 수 없다."
+  },
+  {
+   "id": "da0406:T00010",
+   "source_sha256": "003812f88c2592818d96cb1c9bf8e517ee076fd97499fa0062fc8b7c70f90bf6",
+   "ko": "싸울 수도, 알을 도와줄 수도 없다."
+  },
+  {
+   "id": "da0406:T00011",
+   "source_sha256": "a58c05b158036ecfe2d980241966bd881cfdb369d1e5cc2bbf52c15a6764f4bd",
+   "ko": "자신의 무력함에 나는 이를 악물었다."
+  },
+  {
+   "id": "da0406:T00012",
+   "source_sha256": "8d68208109aac1e3b76c55da811ab57ebfebf7d694c9b4623ffbd618a58ab5f0",
+   "ko": "슈루즈베리의 노랫소리가 "
+  },
+  {
+   "id": "da0406:R00002",
+   "source_sha256": "09fa673682a266196a91d31d5ed99736a1c7d85c250226fb9c9ec5b7006a27ba",
+   "ko": "아자토스",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0406:T00013",
+   "source_sha256": "5e7930e1744f03b9e3bc03391b9568c30347421f4c5cb7f73d17119a9e29ab74",
+   "ko": "자도자"
+  },
+  {
+   "id": "da0406:T00014",
+   "source_sha256": "b5719e335d9beefb491d39d6225970d70ed9c0a1d8d1b62985f23a58430a1c27",
+   "ko": "를 뒤흔든다."
+  },
+  {
+   "id": "da0406:T00015",
+   "source_sha256": "45e1233858065fa96110c7f210bab13485ff448e0f8a3f01cc495ff283e71109",
+   "ko": "그것은 "
+  },
+  {
+   "id": "da0406:R00003",
+   "source_sha256": "b89114d064872a3a05a9a98bf270132b3da68c70340f761f62c5b074e191401a",
+   "ko": "갓 보이스",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0406:T00016",
+   "source_sha256": "9ce40b18f092b7ac40468d85382b23f6d0dc1f95855624c48a36b96e5bdcfb03",
+   "ko": "신의 목소리"
+  },
+  {
+   "id": "da0406:T00017",
+   "source_sha256": "c337412a586361901ee246ac41f188cc08d7976f9669f21b12ecfb54e928e3d3",
+   "ko": "라고도, "
+  },
+  {
+   "id": "da0406:R00004",
+   "source_sha256": "420619a12226c5209844e031b1b676e5ec3bbd01865921f36fc2077ad47e65f3",
+   "ko": "송 오브 하스터",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0406:T00018",
+   "source_sha256": "99a09912818ede898298034efa2e72cdb3ab0cdc30aaf09384c8f08533524b69",
+   "ko": "신의 노래"
+  },
+  {
+   "id": "da0406:T00019",
+   "source_sha256": "620497cd85370b4d855384b2269ddbb153849014ae0533cfe18e8ecd52f0c1e1",
+   "ko": "라고도 불리는 금단의 주문이다."
+  },
+  {
+   "id": "da0406:T00020",
+   "source_sha256": "1bd5d543edc2c2cd9b05423a93f65106c25a99e38bf6df62fd05b297441a8583",
+   "ko": "「아…… 커하아아아……\n　아아아아아아아아!」"
+  },
+  {
+   "id": "da0406:T00021",
+   "source_sha256": "00be7c1f1f61d2bf5d196a41520bb58ec60967038e58caad8096bccb0cc1e23f",
+   "ko": "클라우디우스의 육체가 거품을 일으켰다."
+  },
+  {
+   "id": "da0406:T00022",
+   "source_sha256": "5107fab25be8da6827193b4ace98a6e64ebae5f983b38052ccb6701e7a9622be",
+   "ko": "타서 짓무르는 몸에서 붉은 안개가 단숨에 뿜어져 나온다."
+  },
+  {
+   "id": "da0406:T00023",
+   "source_sha256": "f27db54f267f1113e705e956128c8e917d97aea0bc4a228d5231e749542d998a",
+   "ko": "피가 비등하고 있는 것이다."
+  },
+  {
+   "id": "da0406:T00024",
+   "source_sha256": "741e2a48c7962951866cc8f0910c6e9f232143c107c0ae98a0db702b165fa875",
+   "ko": "「하으…… 아아……\n　크으으아아아아아아!」"
+  },
+  {
+   "id": "da0406:T00025",
+   "source_sha256": "243be2677afd3f1dae39963b7bd68e77e352353239a81e3d394a4e91d5cf7e9d",
+   "ko": "육체를 태우고, 녹이고, 허물어뜨리려 격통이 난무한다."
+  },
+  {
+   "id": "da0406:T00026",
+   "source_sha256": "7d6db967c96cbe75f57adc3b29fe5b85405bb603bb3389216f26a4b5ab8b2ab7",
+   "ko": "붕괴하는 몸을 멈추려 클라우디우스는 스스로를 움켜안는다."
+  },
+  {
+   "id": "da0406:T00027",
+   "source_sha256": "2e99a1d1f90ca2200420e3aebc4e251d3cd057cdc12af89e02e2a1c7bb64eb9d",
+   "ko": "두른 마풍은 제어를 잃고 폭풍이 되어 미친 듯이 날뛴다."
+  },
+  {
+   "id": "da0406:T00028",
+   "source_sha256": "d8e2e562b6486d700c3112d883fd5ae9d4983b1b07ffa611b6bf154723093db9",
+   "ko": "「아아아아아아아아아아아아아\n　아아아아아아아――――앗!」"
+  },
+  {
+   "id": "da0406:T00029",
+   "source_sha256": "3a944b7d67f6a1b155b153d4468a6f87134a373a92bb771284f051373a50258c",
+   "ko": "마풍이 클라우디우스의 "
+  },
+  {
+   "id": "da0406:R00005",
+   "source_sha256": "01df67e1d7cdbc51809b3a90688de6c6f9f4568cf270f141f3169e5f01fee77a",
+   "ko": "・・・・・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0406:T00030",
+   "source_sha256": "305eb7e2b298de49770a6dd77d11bd3eedc6857e57ec7f0e6245f1b784f82df5",
+   "ko": "내부에서 뿜어져 나와"
+  },
+  {
+   "id": "da0406:T00031",
+   "source_sha256": "7d379d458b00a2de189386ef93b6b19584d9c64e628f7ad415966be6bc548aeb",
+   "ko": ", 폭발했다."
+  },
+  {
+   "id": "da0406:T00032",
+   "source_sha256": "f5877bd775e83be60fa1584c13850d99f22c9951ad0bc7b9644373b9017a5b6e",
+   "ko": "자신의 정신 내에 마풍을 불게 하여 폭발시킴으로써, 영혼을 침식하는 적의 술식을 일소한 것이다.\n\n　잉여분의 마력은 실체화하여 그의 체내에서 밖으로 단숨에 뿜어져 나온다."
+  },
+  {
+   "id": "da0406:T00033",
+   "source_sha256": "76ca58cf3659b13c63aac4e70c0f5a01b06b260ded99f222b9576b369fe5bcaf",
+   "ko": "전신의 살점과 혈관이 터져 나가, 클라우디우스는 만신창이였다."
+  },
+  {
+   "id": "da0406:T00034",
+   "source_sha256": "4a320c4b48562bf57382ab12e93e6515963099d1eceb0bfc404068fe7c606e36",
+   "ko": "「크…… 으으으윽…… 아아극!\n　하아…… 하아…… 하아……」"
+  },
+  {
+   "id": "da0406:T00035",
+   "source_sha256": "6d1ddb1c43df660ab7c3c571fe9101249027078faf94a2ec87759f11840ac561",
+   "ko": "한편, 마익기가 파괴된 슈루즈베리는 추락한다."
+  },
+  {
+   "id": "da0406:T00036",
+   "source_sha256": "63fda6a5d8a86a2931fb008ad4bf3d2e19720cda81da547e44d2035b195308f4",
+   "ko": "하지만 초조해하는 기색은 없었다."
+  },
+  {
+   "id": "da0406:T00037",
+   "source_sha256": "77b18b671c7d77afe321c957f418a2febb3073c571e9a633330d1e1b9e70449e",
+   "ko": "그는 품에서 돌피리를 꺼내 들고 외친다."
+  },
+  {
+   "id": "da0406:T00038",
+   "source_sha256": "1b6ae6de9fc8065bb238f7b90bcac6ce19985ee5910483082082596440a1fb51",
+   "ko": "「레이디!」"
+  },
+  {
+   "id": "da0406:T00039",
+   "source_sha256": "3402b86d0a646c0844d6b01391b2d523008de417c6d590dbde07de0f7191a1b7",
+   "ko": "슈루즈베리가 돌피리를 분다."
+  },
+  {
+   "id": "da0406:T00040",
+   "source_sha256": "bb2cb7344502dcc21afb69952c2ec0f8b2514b48e9a26863b2f0acb0001df84a",
+   "ko": "이것은 평범한 돌피리가 아니다."
+  },
+  {
+   "id": "da0406:T00041",
+   "source_sha256": "ecba02de2ece3865ec11da546c5a483eb72e8aad48790853643943a58e62b22f",
+   "ko": "이 마적은 음계로 변환한 술식을 발동시키는 마도구다.\n\n　이계의 "
+  },
+  {
+   "id": "da0406:R00006",
+   "source_sha256": "36f1fdb2a7fb338230a7f6a12b27713fe7397790f0ea12a5558ed41c9ebb5e12",
+   "ko": "멜로디를",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0406:T00042",
+   "source_sha256": "6ab9d2bde92cea4a1a49cb18fa45734d1aad035bfaa107a1c6c423ddbbc9115c",
+   "ko": "음색을"
+  },
+  {
+   "id": "da0406:T00043",
+   "source_sha256": "374fd2890c723711d8ac3a82ed00f7b24763828d04ba46cc992603eb7377db7a",
+   "ko": " 연주하는 부름 피리에, 과연 그녀는 응답했다."
+  },
+  {
+   "id": "da0406:T00044",
+   "source_sha256": "151a71c19ead7e6789cb980ee54b713d09d59a4fce4f1dbc8950aa4d9ad94b76",
+   "ko": "「ＹＥＳ！　ＤＡＤＤＹ！」"
+  },
+  {
+   "id": "da0406:T00045",
+   "source_sha256": "509a4365930b93e018a38a302d01286d8a671db0005f4fd631f966f9f17d212b",
+   "ko": "탄환처럼, "
+  },
+  {
+   "id": "da0406:R00007",
+   "source_sha256": "e1e4fdf46c99c92eeb0d356d98b3041bf3bdcfa843aadb25103a4aeadfbb7e3f",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0406:T00046",
+   "source_sha256": "a7f753165df914b0b6ba0b97aa3a0040ee878190e73e65f0a2c2ae4fefa71786",
+   "ko": "격추"
+  },
+  {
+   "id": "da0406:T00047",
+   "source_sha256": "4ef0064668562baf8b6460b6c093840729178a829f06b70ab5fe217126d3a37b",
+   "ko": "된 줄 알았던 소녀――『세라에노 단장』의 정령\n하즈키는 하늘로 날아오른다."
+  },
+  {
+   "id": "da0406:T00048",
+   "source_sha256": "c9379da25b31933fdfef0ca348eb9d03df91c2b22d0c08988ceac8fbfb21b1a4",
+   "ko": "유클리드 기하학과 질량 보존 법칙을 배반하며, 하즈키가 『전개』한다."
+  },
+  {
+   "id": "da0406:T00049",
+   "source_sha256": "6ec1b2b5f7d9ea5ec4097822dc860a98830212c4dd3fc8a4131f27dad73123b1",
+   "ko": "가련하고 가냘픈 소녀의 내부로부터 투박하고 거대한 기계가, 장갑이 모습을 "
+  },
+  {
+   "id": "da0406:R00008",
+   "source_sha256": "2b826478f59c2fee27b95e2947c15a7596908f21671c84c287eaf3dfdfa9128b",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0406:T00050",
+   "source_sha256": "0a02e0d09dc74cad30d832a411825bc5fbf4b5af04baf6aff8cee8af35cb38dd",
+   "ko": "드러"
+  },
+  {
+   "id": "da0406:T00051",
+   "source_sha256": "6589af7588841d5f32035f7b53754e4995611e56e4de5322f0f106cd55bbd6f2",
+   "ko": "냈다."
+  },
+  {
+   "id": "da0406:T00052",
+   "source_sha256": "cdaa0a91f7506e5b32a6ccfaf7a36f396a586a4c5985abd5078151f8a79f872a",
+   "ko": "그것들은 복잡하게 맞물리며 날개를, 내부 기관을, 외장을 구축해\n간다.\n\n　더불어 소녀와 함께 비상하는 마익기의 파편이 퍼즐처럼 부족한 부분을 메워 나갔다.\n\n　소녀의 몸이 기계에 묻히고 조립되어――마익기 바이아크헤는 이곳에 재생한다.\n\n　마익기는 추락해 온 자신의 주인을 그 등에 태웠다."
+  },
+  {
+   "id": "da0406:T00053",
+   "source_sha256": "54971d1b65e5d4b196108fa60aa5cdb2bfd796a470debde2ea5cdf09bb1f447e",
+   "ko": "「하아…… 하아……\n　크으…… 아아아아아!\n　젠장 젠장 젠장!\n　망할 영감탱이가아아아아앗!」"
+  },
+  {
+   "id": "da0406:T00054",
+   "source_sha256": "d10b9f2066a81098d06bc079fa41124129891a6dd793d2f58957b0244909fd54",
+   "ko": "「――말버릇 좀 조심하라고\n　말하고 있는 것이다. "
+  },
+  {
+   "id": "da0406:R00009",
+   "source_sha256": "fe65050b6cf95368d85f30fd366c092a15824886d51defd754887d1e968f7491",
+   "ko": "・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0406:T00055",
+   "source_sha256": "fa1457f0ea78de5bbf25e519ef5a53099382d66db82e77e54941c1651f22eaeb",
+   "ko": "똥애송이"
+  },
+  {
+   "id": "da0406:T00056",
+   "source_sha256": "d93a835d0f2787bcb1a759ad3a1b8fbea56d742d0b99720dbbb9ea8ace1926f8",
+   "ko": "」"
+  },
+  {
+   "id": "da0406:T00057",
+   "source_sha256": "e2aaad3605afd5b41805e23ae7b137996a118891d2d421b6c53322ef27503b65",
+   "ko": "악귀의 표정으로 노려보는 클라우디우스."
+  },
+  {
+   "id": "da0406:T00058",
+   "source_sha256": "fc1ee738c1ffd1a8eaa9ac6bb377d72c67f9ef62e56f0ca36a111d4dd5f90d0f",
+   "ko": "대담한 미소로 응수하는 슈루즈베리."
+  },
+  {
+   "id": "da0406:T00059",
+   "source_sha256": "418836d5ee94d1a1756108fde3937e5fad985054a1b97b35e3286d8351f38163",
+   "ko": "두 사람의 시선이 마주치는 일은 없다."
+  },
+  {
+   "id": "da0406:T00060",
+   "source_sha256": "df4df053669624b4d74881e7ac27912f47dea5a287101cb677eded84f2d082c5",
+   "ko": "당연하다."
+  },
+  {
+   "id": "da0406:R00010",
+   "source_sha256": "a1407e2c31827977a6418a657c59b8db6dc3f0b0c07c2112d37d62847cf8d666",
+   "ko": "・・・・・・・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0406:T00061",
+   "source_sha256": "115b5d1d69984c09b1348b20cbd8f9cbb4ff70ca5d801199ac073c69460863f3",
+   "ko": "슈루즈베리에게 눈"
+  },
+  {
+   "id": "da0406:R00011",
+   "source_sha256": "fe65050b6cf95368d85f30fd366c092a15824886d51defd754887d1e968f7491",
+   "ko": "・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0406:T00062",
+   "source_sha256": "6fc367b5a54719ef66b64c1c0bb29423c59cd3209fdb0639862fbf4ead337f1d",
+   "ko": "은 없다"
+  },
+  {
+   "id": "da0406:T00063",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  },
+  {
+   "id": "da0406:T00064",
+   "source_sha256": "69636ce6c43b857598a5b6553d998ecd4205e19cbc3cd5a96a55503b148a2f18",
+   "ko": "안구가 있어야 할 자리에는 텅 빈 안와가 있을 따름."
+  },
+  {
+   "id": "da0406:T00065",
+   "source_sha256": "cb32fb3afb82177f0149e2d1ac395784d25bf125d878981dc58e65a691a14b58",
+   "ko": "「하…… 하하…… 뭐야 그 낯짝은,\n　장난하냐, 아앙 이 새끼야!?」"
+  },
+  {
+   "id": "da0406:T00066",
+   "source_sha256": "1b6ef2948b1fa2d87fe19fea62aa4a484dab411ec1b81b26622899bff1d4c288",
+   "ko": "「역겹다고 징그럽다고 죽어\n　불쾌해 죽어 당장 죽어 "
+  },
+  {
+   "id": "da0406:R00012",
+   "source_sha256": "5841477d5267b95f7e8f61a66b12b2357d26ef1f3ea69da2814fd7abd5471e12",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0406:T00067",
+   "source_sha256": "46e929555a9336fd25547154c44277b9ca6eef063f336bf09cfebba6522a8826",
+   "ko": "똥벌레"
+  },
+  {
+   "id": "da0406:T00068",
+   "source_sha256": "e22b6cc0185bf0b1bfb3142b2bae22019d5b14fa2f8f5b978ccd682b7acf5560",
+   "ko": "가\n　죽어엇 죽어 죽어 죽어 죽어어엇!!」"
+  },
+  {
+   "id": "da0406:T00069",
+   "source_sha256": "f688977af56fa9397aee0017f19493b98ef6915031ef3ed4b6a9d150adb9be78",
+   "ko": "「아아…… 이거 말인가.\n　흉한 꼴을 보여 주고 말았군」"
+  },
+  {
+   "id": "da0406:T00070",
+   "source_sha256": "cde1718de76984b7c26f45e8fc3f8d9f1903300f13b69dff4dcf1ec4a649f21e",
+   "ko": "안와에 손가락을 찔러 넣으며 익살스러운 어조로 말한다."
+  },
+  {
+   "id": "da0406:T00071",
+   "source_sha256": "221bab105d2c35b4f4fe5eac9ca6755375b2c25b7277f02d04ef6da4241fcf15",
+   "ko": "「이건 말이지. 내 손으로 도려낸 것이다」"
+  },
+  {
+   "id": "da0406:T00072",
+   "source_sha256": "b0efe9b3d092a4fa033fc89798f4f91ccd47746a2fe28236376d735bebd38ce2",
+   "ko": "「……하아아앗!?」"
+  },
+  {
+   "id": "da0406:T00073",
+   "source_sha256": "04f5ecd028fe7c3d4ab6cb9b6c2e2d3b185dfc78b5a68fb5455b2f6bd431c8b2",
+   "ko": "「보아서는 안 될 것을 보고 말았던 것이다」"
+  },
+  {
+   "id": "da0406:T00074",
+   "source_sha256": "908f501bcd83f32feb09c74cb1569bb8d9d1d324226ee2702b25d2d114d94ac8",
+   "ko": "슈루즈베리의 뇌리에 끔찍한 기억이 되살아난다."
+  },
+  {
+   "id": "da0406:T00075",
+   "source_sha256": "edbb52b4fe71c9b1f47c57ae603e57b39eccb9c62e00f0f40c65229714e2ddac",
+   "ko": "우주의 이면에 도사린 "
+  },
+  {
+   "id": "da0406:R00013",
+   "source_sha256": "2dc83fbd20d852ebc57acbd21403e5d7ef037dcdcd04c98c8aca6c2caeac920e",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0406:T00076",
+   "source_sha256": "ae0f56e8fa98e115575873150d7b657021ae833d0abeb461373a4145636aed33",
+   "ko": "암흑"
+  },
+  {
+   "id": "da0406:T00077",
+   "source_sha256": "45e44f7d27ae0561d40f3e463ab02881747e01a193be919a87ec71dc3b1ae3ef",
+   "ko": "――우주의 사악한 본성을 알게 되었던 그때의\n일이다.\n\n　그 순간부터 그의 영혼은 오염되었다."
+  },
+  {
+   "id": "da0406:T00078",
+   "source_sha256": "c44a60ea2baa53af497a0dba72dfdd496b4045c94a49fcb11122aecd90a47803",
+   "ko": "무지야말로 취약한 인간에게 주어진 유일한 구원임을\n알았다.\n\n　반짝이는 햇살도, 아름다운 풍경도, 더 이상 그의 영혼을 구원할 수 없다――\n\n　그래서 도려냈다."
+  },
+  {
+   "id": "da0406:T00079",
+   "source_sha256": "43fb4ab7c4f2830227d6824950a340db37717c52daf0ed3bbaf01cbebdacdf3a",
+   "ko": "보아서는 안 될 것을 두 번 다시 보는 일이 없도록."
+  },
+  {
+   "id": "da0406:T00080",
+   "source_sha256": "5859c5b14f2be08dc8cda5ba1bb23bf560044787f27e55643c15ef68107c4fce",
+   "ko": "「하지만 소용없었다. 그 끔찍한 사악은\n　내 뇌수에 달라붙어 버렸다」"
+  },
+  {
+   "id": "da0406:T00081",
+   "source_sha256": "2d303b188df8d272b927c86a731499b550052e950a1adcaf06f717260a14285c",
+   "ko": "어느새 익살스러운 어조는 사라져 있었다."
+  },
+  {
+   "id": "da0406:T00082",
+   "source_sha256": "daaf34bd9bd0ae07ab5d6c70df268a1c277df652e216e5f54afb45d7ad1efa2a",
+   "ko": "지금은 그저 조용한 분노를 말에 담아――"
+  },
+  {
+   "id": "da0406:T00083",
+   "source_sha256": "8245d7aac3d967ca17be7bc32d1236be83a0bfaf5272424a487faa89aa4db05e",
+   "ko": "「그러므로 나는 싸우는 것을 선택했다.\n　네놈들 사악에게, 이토록 아름다운 이 세계를\n　침범당하지 않기 위하여」"
+  },
+  {
+   "id": "da0406:T00084",
+   "source_sha256": "224b5cedf446b71f29c966248de550b099eadac1867401bdc3d719adde94acfe",
+   "ko": "라반 슈루즈베리는 선언한다."
+  },
+  {
+   "id": "da0406:T00085",
+   "source_sha256": "4fd65ff853600575e9fd284be0e61c4e22154824dc2f9c03b9510863a944f9e8",
+   "ko": "영원히 잃어버린 빛을 다시 한번 믿기 위하여."
+  },
+  {
+   "id": "da0406:T00086",
+   "source_sha256": "1d994ac44b2871bf65433cd2ef44100054d7c40fbeaa1c2a7840345da9459793",
+   "ko": "「흥!　쫄아서 "
+  },
+  {
+   "id": "da0406:R00014",
+   "source_sha256": "e531c7825714841b55477b53a278cbe9a2e518c41010fc46d86d7ab7810ee81c",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0406:T00087",
+   "source_sha256": "ca6690114253b0cfdfb47a74eba4c41cf2e00275bd1b1f927a2d423ff24dd26e",
+   "ko": "오줌"
+  },
+  {
+   "id": "da0406:T00088",
+   "source_sha256": "616576ded1c79ce8c5aba660027885866d8b91872e00d2ba66904140bbd09ce1",
+   "ko": "이나 지린\n　겁쟁이가 잘난 척 짖어 대지 마라!」"
+  },
+  {
+   "id": "da0406:T00089",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0406:R00015",
+   "source_sha256": "e531c7825714841b55477b53a278cbe9a2e518c41010fc46d86d7ab7810ee81c",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0406:T00090",
+   "source_sha256": "ca6690114253b0cfdfb47a74eba4c41cf2e00275bd1b1f927a2d423ff24dd26e",
+   "ko": "오줌"
+  },
+  {
+   "id": "da0406:T00091",
+   "source_sha256": "a99cd5a95134befe68075f49772565b5e7db76340edcea198e19b08f33a8ca93",
+   "ko": " 지릴 각오조차 없이 사신에게 꼬리를 흔든 패배자 개가 잘난 척 짖지 마라」"
+  },
+  {
+   "id": "da0406:T00092",
+   "source_sha256": "8131a06f410e5ebad76840120d48a3812a3fa1fcdaa1acfa6872809b9cc94977",
+   "ko": "「……이제 지긋지긋하다고 영감탱이.\n　이번에야말로 끝장을 내 주마」"
+  },
+  {
+   "id": "da0406:T00093",
+   "source_sha256": "50271ab36003f46a2f4de0a472d0442f0fc2322eb2fd721458e34f61cc87a782",
+   "ko": "다시금 검은 바람이 클라우디우스의 주위를 선회한다."
+  },
+  {
+   "id": "da0406:T00094",
+   "source_sha256": "f3c763db70e1448adc16ebf6d15387945c9322253771ee1299d76dc9af67be5f",
+   "ko": "순식간에 거대해진 독기의 회오리바람은 주위의 건축물을 집어삼키고,\n부수며, 거리에 상흔을 새긴다.\n\n　검은 흉풍 너머, 막대한 질량을 지닌 물질이 현현하려 하고 있었다."
+  },
+  {
+   "id": "da0406:T00095",
+   "source_sha256": "98ca5f9067e9995b799346d96bbccced19fa80f41af1ecc6dadea7ccf89c26c6",
+   "ko": "「이아!"
+  },
+  {
+   "id": "da0406:T00096",
+   "source_sha256": "9bea3a1f8899a4d32d1d214c4c44b2c825a455945e42674a4b4602fcd548f43f",
+   "ko": "이아!"
+  },
+  {
+   "id": "da0406:T00097",
+   "source_sha256": "ec2222c62b4e4a499fff75127636a4ea2cd70f50e1345a27c240ad71efaa3ef3",
+   "ko": "하스터어어어어어어――――앗!」"
+  },
+  {
+   "id": "da0406:T00098",
+   "source_sha256": "c859445aadc4d75404f076a62557000571e4ccbc01131861625bf21ece64024e",
+   "ko": "회오리바람이 폭발했다."
+  },
+  {
+   "id": "da0406:T00099",
+   "source_sha256": "c645646eb6616d019f4c8737036f51dd22997c7d9fd1548839128d46db491d67",
+   "ko": "슈루즈베리가 탄 마익기는 『"
+  },
+  {
+   "id": "da0406:R00016",
+   "source_sha256": "4d4d789051c9376ec1e5d4e7af8580597cd3abd14a4d9bd71b34844a8d104c0c",
+   "ko": "엘더 사인",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0406:T00100",
+   "source_sha256": "05777d05b898ea5daafcb3839f0ff892ab7d645627d61dcb1244a8356ed81335",
+   "ko": "옛 인"
+  },
+  {
+   "id": "da0406:T00101",
+   "source_sha256": "787cd4010882c81b5393f2c5ba08efd7857ed0f507e18d3b78561e5a9f30fb27",
+   "ko": "』을 전개."
+  },
+  {
+   "id": "da0406:T00102",
+   "source_sha256": "bfcd3797fe3252e3ea7b867e99937ad20477b17e74fb982dddb27a4992479cca",
+   "ko": "독기와 충격파로부터 주인을 지킨다."
+  },
+  {
+   "id": "da0406:T00103",
+   "source_sha256": "eb3df2c8e5be959f84ebe80ad8294431ce66fdf6d7e12ee6d927c7e2f958b698",
+   "ko": "회오리바람이 사라지고――거대한 강철이 모습을 드러낸다."
+  },
+  {
+   "id": "da0406:R00017",
+   "source_sha256": "73ac229cabfac277c315b4b0d1eb76959473af07f58c11d00bb82a06b250745a",
+   "ko": "데우스 마키나",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0406:T00104",
+   "source_sha256": "762524a979d84688362b8dc00d54c75a1be10d7917ed188fd55985924c885e49",
+   "ko": "귀계신"
+  },
+  {
+   "id": "da0406:T00105",
+   "source_sha256": "24a193086f3c13b436bcb3d3f1bd07fbd4914ab3d299b33510fc12ae7b46de60",
+   "ko": " 로드 비야키."
+  },
+  {
+   "id": "da0406:T00106",
+   "source_sha256": "2dc7fd031eb312f604f1f93f8e81869c1140e5ad52d5b829292a970a8eb8f782",
+   "ko": "「저것이 놈의 "
+  },
+  {
+   "id": "da0406:R00018",
+   "source_sha256": "73ac229cabfac277c315b4b0d1eb76959473af07f58c11d00bb82a06b250745a",
+   "ko": "데우스 마키나",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0406:T00107",
+   "source_sha256": "762524a979d84688362b8dc00d54c75a1be10d7917ed188fd55985924c885e49",
+   "ko": "귀계신"
+  },
+  {
+   "id": "da0406:T00108",
+   "source_sha256": "e6a4e539720e59d0a7a7736453074cdcf9f2da7427f3436f59ada80570ab4dd0",
+   "ko": "인가」"
+  },
+  {
+   "id": "da0406:T00109",
+   "source_sha256": "2439a070724de32e702b09b5045ea5dcc894f00c82e0bc5ea00455522721001f",
+   "ko": "「……역시 닮았네. 『내 것』이랑」"
+  },
+  {
+   "id": "da0406:T00110",
+   "source_sha256": "9425069a6a15fcdd1cc218873c076293d32e463d7c67c036ca22ec594796886b",
+   "ko": "「이길 수 있겠나?」"
+  },
+  {
+   "id": "da0406:T00111",
+   "source_sha256": "8894c43909ce424f0c61725ab1c42cc2c47b8ca9eba4e47ee2d5ab79038b07d4",
+   "ko": "「『내 것』이 "
+  },
+  {
+   "id": "da0406:R00019",
+   "source_sha256": "905b0efb2d86b7b8a5e1a663618fe8fda3615a10bcebe5973ba115f428f9c0e2",
+   "ko": "・・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0406:T00112",
+   "source_sha256": "f1beee7a147782baa283323943cc15f19e5a01fb09d45cdfcb872c92228b6884",
+   "ko": "압도적으로 위"
+  },
+  {
+   "id": "da0406:T00113",
+   "source_sha256": "6a010c594be3705cc4aefdc261bca222fb8b67a30c36926b5f3207c243903c86",
+   "ko": "네.\n　나머지는 대디 하기 나름이야」"
+  },
+  {
+   "id": "da0406:T00114",
+   "source_sha256": "7ebc8b0a9de8c1f35c8f3559bd09411425832a49bcb5550f30ebfc2aa96a2be8",
+   "ko": "「좋다. 그럼 요조숙녀답게\n　부탁한다, 레이디?」"
+  },
+  {
+   "id": "da0406:T00115",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0406:R00020",
+   "source_sha256": "2291be275bbb167368a215bf912178926315453740082e89355c22ac8d6ac97b",
+   "ko": "오케이",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0406:T00116",
+   "source_sha256": "9efcbd213a94957c28e41091b2e37a4d0823a3b226e331071699fabe1121b5bf",
+   "ko": "알았다"
+  },
+  {
+   "id": "da0406:T00117",
+   "source_sha256": "c4a40ea8fe35627476f7f8cb9e1fc7f8898f428c6d1ff18b0bc5479d5db39c5f",
+   "ko": ", "
+  },
+  {
+   "id": "da0406:R00021",
+   "source_sha256": "ebfda995a0477d5207e649652597861c9a960146af55a9d3aa046de249f0f000",
+   "ko": "마이 대디",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0406:T00118",
+   "source_sha256": "958bc9309d479a0a7dd1f99b5fa6810bc7d9c0e4b928c48468ba4e07f051d739",
+   "ko": "나의 주인"
+  },
+  {
+   "id": "da0406:T00119",
+   "source_sha256": "d93a835d0f2787bcb1a759ad3a1b8fbea56d742d0b99720dbbb9ea8ace1926f8",
+   "ko": "」"
+  },
+  {
+   "id": "da0406:T00120",
+   "source_sha256": "aedb7d8b476045ce45886a53115a16db1bf61920758c771d45c5d6ba5b3a506b",
+   "ko": "슈루즈베리는 품에서 마개를 막은 시험관을 꺼냈다."
+  },
+  {
+   "id": "da0406:T00121",
+   "source_sha256": "358878e99d571a73d6cac2e10f1feb33dc7f34bdd1f150625fcba82570e97f33",
+   "ko": "안에는 기이할 정도로 황금빛으로 빛나는 액체가 들어 있다."
+  },
+  {
+   "id": "da0406:T00122",
+   "source_sha256": "2e38a08c8536f069049c24de307ebbf8c09027284f9d41ae730b7af824e32f49",
+   "ko": "마치 스스로 빛을 내뿜고 있는 듯한 황금색이었다."
+  },
+  {
+   "id": "da0406:T00123",
+   "source_sha256": "bb8444a16d8f1b5d794cc1aceaca0d8529e294d674be6158aa859cd41a50cb8e",
+   "ko": "슈루즈베리는 마개를 열고 그 액체를 한 방울도 남김없이 단숨에 들이켰다."
+  },
+  {
+   "id": "da0406:T00124",
+   "source_sha256": "72e931728dc7a36d1d8c40539c80230cb3842a9f9ce2745b899a6b5a28940bb5",
+   "ko": "「――『기신소환』!」"
+  },
+  {
+   "id": "da0406:T00125",
+   "source_sha256": "f38c2dd18011fdce5df7562a8feb7af2d1dca933927fbea3b86843fbc33148d1",
+   "ko": "「나는 승리를 맹세하는 "
+  },
+  {
+   "id": "da0406:R00022",
+   "source_sha256": "ba5cc6aa3faed01e4b0e2bc0fb6fc61150d9b3e08de1c40bb0f7334c99299dc5",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0406:T00126",
+   "source_sha256": "cbf25022620199332bfe298a5b20c1f28d513c3aab0004b97aca4b1fe2467490",
+   "ko": "강철"
+  },
+  {
+   "id": "da0406:T00127",
+   "source_sha256": "38b4935b34a7c42074ff0392cdfb988d09525e30bf7423f55d656d4a64ac41b7",
+   "ko": "나는 "
+  },
+  {
+   "id": "da0406:R00023",
+   "source_sha256": "5302fe4d3f5ee1613f81eaeb5acae97f583d899243f154cd0a38acbe23882e10",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0406:T00128",
+   "source_sha256": "fd95f613e5fda181d62b8060a29e8cf672e80f3583d8dc829208d7ac95b1181a",
+   "ko": "재앙의 바람"
+  },
+  {
+   "id": "da0406:T00129",
+   "source_sha256": "a59aad0a00de8e2f2759f34f0412201db0ff9643c316cf09e210cf56d7e833d4",
+   "ko": "에 맞서는 날개」"
+  },
+  {
+   "id": "da0406:T00130",
+   "source_sha256": "e755a9ad52dcde3814098e3a6200a54795d04e722c7c193138edfa3166559d65",
+   "ko": "「무궁한 하늘을 넘어"
+  },
+  {
+   "id": "da0406:R00024",
+   "source_sha256": "e407f89f5117fd51f56275b41f027437a3e19c0195cc6bfe8186e421c8ab02b3",
+   "ko": "아이테르",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0406:T00131",
+   "source_sha256": "e6d6aac85c371bf8b59c93e557895346b461baac2482eb8755937aef2141ab39",
+   "ko": "영자"
+  },
+  {
+   "id": "da0406:T00132",
+   "source_sha256": "b65c0843328dc2fa3d7160c41b3c8ba4d3e61e889ddbf7672a2f57b619fdc068",
+   "ko": "의 바다를 건너\n　　　날아라, 강철의 날개여!」"
+  },
+  {
+   "id": "da0406:T00133",
+   "source_sha256": "a9f016361976bd5d4d57f209cba5568b53f53ae3e892f91e52d0008f89b081a7",
+   "ko": "「날아 내려오라――"
+  },
+  {
+   "id": "da0406:T00134",
+   "source_sha256": "7619563c7c1d33fe0f70f01077359b75e2b51e38ccbe918ec048f87ec5e5a000",
+   "ko": "암브로시우스!」"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0406:R00001",
+   "kind": "ruby_decision",
+   "note": "先生의 구어 발음 안내(センセ)로 한국어 '선생'과 의미가 중복되어 생략."
+  },
+  {
+   "id": "da0406:R00007",
+   "kind": "ruby_decision",
+   "note": "撃墜された의 훈독 안내(おと)로 한국어 '격추'와 중복되어 생략."
+  },
+  {
+   "id": "da0406:R00008",
+   "kind": "ruby_decision",
+   "note": "顕した의 독음 안내(あらわ)로 한국어 '드러냈다'와 중복되어 생략."
+  },
+  {
+   "id": "da0406:R00012",
+   "kind": "ruby_decision",
+   "note": "糞虫의 독음 안내(クソムシ)로 한국어 '똥벌레'와 중복되어 생략."
+  },
+  {
+   "id": "da0406:R00013",
+   "kind": "ruby_decision",
+   "note": "黯黒의 독음 안내(あんこく)로 한국어 한자음 '암흑'과 중복되어 생략."
+  },
+  {
+   "id": "da0406:R00014",
+   "kind": "ruby_decision",
+   "note": "小便의 구어 독음 안내(しょんべん)로 한국어 '오줌'과 중복되어 생략."
+  },
+  {
+   "id": "da0406:R00015",
+   "kind": "ruby_decision",
+   "note": "小便의 구어 독음 안내(しょんべん)로 한국어 '오줌'과 중복되어 생략."
+  },
+  {
+   "id": "da0406:R00022",
+   "kind": "ruby_decision",
+   "note": "刃金의 독음 안내(ハガネ)로 한국어 '강철'과 의미가 중복되어 생략."
+  },
+  {
+   "id": "da0406:R00023",
+   "kind": "ruby_decision",
+   "note": "禍風의 고풍 훈독 안내(まがつかぜ)로 한국어 '재앙의 바람'과 중복되어 생략."
+  }
+ ]
+}

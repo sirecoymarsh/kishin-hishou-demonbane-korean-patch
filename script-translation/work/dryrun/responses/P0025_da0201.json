@@ -1,0 +1,615 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0025_da0201",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0201:T00001",
+   "source_sha256": "cd282489614ad6682ccae4033bd5635339960ea2e5a4f9aee898501e206f8984",
+   "ko": "파괴로보가 분쇄되는 모습은 상공의 슈루즈베리도\n확인할 수 있었다.\n\n　피투성이 거인을 내려다보며 슈루즈베리는 "
+  },
+  {
+   "id": "da0201:R00001",
+   "source_sha256": "c6de86614f1296ce727645f29898dd25daf4bc5a6476dc610425ba6c29484050",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0201:T00002",
+   "source_sha256": "e0976785f18152debeb4f3299885f4cb0c25b6cad6782e8ae78376f56cac8c33",
+   "ko": "전율"
+  },
+  {
+   "id": "da0201:T00003",
+   "source_sha256": "5d732731fa29a1a207c3c147b375dc3502e6d180abaef58ae9a4638963b10e95",
+   "ko": " 속에 외친다."
+  },
+  {
+   "id": "da0201:T00004",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0201:R00002",
+   "source_sha256": "73ac229cabfac277c315b4b0d1eb76959473af07f58c11d00bb82a06b250745a",
+   "ko": "데우스 마키나",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0201:T00005",
+   "source_sha256": "762524a979d84688362b8dc00d54c75a1be10d7917ed188fd55985924c885e49",
+   "ko": "귀계신"
+  },
+  {
+   "id": "da0201:T00006",
+   "source_sha256": "6560fad1b5299ec45c7562b1e825f123c87101dc289a1eb71426e443d34f4c8c",
+   "ko": "!」"
+  },
+  {
+   "id": "da0201:T00007",
+   "source_sha256": "dec014819839bde2b1b3df4da2f4ac5e5c978040182869b3ebea6c49f554356d",
+   "ko": "「하지만 이전 것과는 다른 "
+  },
+  {
+   "id": "da0201:R00003",
+   "source_sha256": "572a6a52e9a6e8ae7e47849da19b36d05c97bf2b072078e01a9add4358604cd3",
+   "ko": "타입이야",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0201:T00008",
+   "source_sha256": "850e16d958cea72a95707148f5dc4ad7e984134f35b4c9ac7289facfeeca78ba",
+   "ko": "형태야"
+  },
+  {
+   "id": "da0201:T00009",
+   "source_sha256": "b558175e7f3a672ad78b914f6acec6c106e87c61b6591d6e982cb0d4d6365a7e",
+   "ko": "…… 게다가」"
+  },
+  {
+   "id": "da0201:T00010",
+   "source_sha256": "00110369341b76f5816a4dfd403af94a4465d0fa61b1d405423f17ccd78ddf55",
+   "ko": "「뭔가 알겠나, 레이디?」"
+  },
+  {
+   "id": "da0201:T00011",
+   "source_sha256": "5e696371811a8b8b23f1ad51499421321769220ff056b541b3869086e60b94f7",
+   "ko": "「……"
+  },
+  {
+   "id": "da0201:R00004",
+   "source_sha256": "73ac229cabfac277c315b4b0d1eb76959473af07f58c11d00bb82a06b250745a",
+   "ko": "데우스 마키나",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0201:T00012",
+   "source_sha256": "762524a979d84688362b8dc00d54c75a1be10d7917ed188fd55985924c885e49",
+   "ko": "귀계신"
+  },
+  {
+   "id": "da0201:T00013",
+   "source_sha256": "eaabf8b94a1187c1f8f9b4eedb1b38572550083fa6c856ea63ca58346fb04441",
+   "ko": "하고는 뭔가 달라.\n　심하게 불안정한 느낌이야」"
+  },
+  {
+   "id": "da0201:T00014",
+   "source_sha256": "872125a7633bb5b3fec2a832b97ef200e73768729e01034bf89292d802dd99a2",
+   "ko": "「불완전한 건가?」"
+  },
+  {
+   "id": "da0201:T00015",
+   "source_sha256": "259d9a1221c4747f409f670a40252c6dd1455cd5fe5ef8b4e3db526b2f271c39",
+   "ko": "「그것도 있지만……\n　"
+  },
+  {
+   "id": "da0201:R00005",
+   "source_sha256": "f044d12b2a9f611b8c505b5ce1b6f52d755b8aead0a508cff89bebaef2048fe2",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0201:T00016",
+   "source_sha256": "76df119826e4312ec04a74529a617e1a957439c46623a8669053a3314085afde",
+   "ko": "불순"
+  },
+  {
+   "id": "da0201:T00017",
+   "source_sha256": "c1d75ad65b0a7817458d54a545972bc9bd222f6736014d730b250d5e5b659a2f",
+   "ko": "물이 많아, 저 아이.\n　순수한 "
+  },
+  {
+   "id": "da0201:R00006",
+   "source_sha256": "73ac229cabfac277c315b4b0d1eb76959473af07f58c11d00bb82a06b250745a",
+   "ko": "데우스 마키나가",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0201:T00018",
+   "source_sha256": "762524a979d84688362b8dc00d54c75a1be10d7917ed188fd55985924c885e49",
+   "ko": "귀계신이"
+  },
+  {
+   "id": "da0201:T00019",
+   "source_sha256": "66a1e125242bfa46ca4e6ec0c9915327d17cb43afafcdf6817705b099462ee26",
+   "ko": " 아니야」"
+  },
+  {
+   "id": "da0201:T00020",
+   "source_sha256": "73724d14447587f704289e287bafd0c987a5723742d11cf863ab9a16944c7850",
+   "ko": "「하지만 저 위력…… "
+  },
+  {
+   "id": "da0201:T00021",
+   "source_sha256": "2ff40099d044f8873c5313756dd6d16641b6becfa410136c6ba0ad3914ec401d",
+   "ko": "내버려 둘 수 없군」"
+  },
+  {
+   "id": "da0201:T00022",
+   "source_sha256": "9505bf97edea670072bc2dd0557e197cb7afde7166dfe503b84ceae7a48896b1",
+   "ko": "「하즈키네가\n　해치울 수밖에 없겠네」"
+  },
+  {
+   "id": "da0201:T00023",
+   "source_sha256": "296b5c20991802257ccbcb218f15f0a82e9224329485d96d67333d5763afd58c",
+   "ko": "「이길 수 있겠나, 레이디?」"
+  },
+  {
+   "id": "da0201:T00024",
+   "source_sha256": "5bf4c74e452de028514207531ea1db3c511323a6918abed49334736b2ad65dc7",
+   "ko": "「얕보지 마, 대디. 거뜬해」"
+  },
+  {
+   "id": "da0201:T00025",
+   "source_sha256": "f9e91b232f0f0209c5840d1f45914eac79639a8a4c656e9fa42533ab2aa4357d",
+   "ko": "「든든하군. 그럼…… 간다!」"
+  },
+  {
+   "id": "da0201:T00026",
+   "source_sha256": "23b765ca94ca067fef48fc064a1e744e737e94634dac255407326344bb1a89d1",
+   "ko": "「그럴 줄 알고!\n         할아범어어어어어어――――――!」"
+  },
+  {
+   "id": "da0201:T00027",
+   "source_sha256": "838266659de89fc69e1cad74dae809d79658b6e70ffefd2716957f57979e83eb",
+   "ko": "「――!?\n　위험하다, 피해라 레이디!」"
+  },
+  {
+   "id": "da0201:T00028",
+   "source_sha256": "4a53661ea57fd66f3742590bf9b811260ea86c735b7870c732daf2903cb00d8e",
+   "ko": "「큭!」"
+  },
+  {
+   "id": "da0201:T00029",
+   "source_sha256": "96ec550584cdc386aa5030202b4d5a01761091028395784d3f611b6d5ddc57b1",
+   "ko": "초스피드로 덮쳐 오는 붉은 광선을 슈루즈베리가 탄 비행체는\n간신히 피한다."
+  },
+  {
+   "id": "da0201:T00030",
+   "source_sha256": "0d7f7bd3074b77b6d72058be70ef731e7ed9207da0d90f7650d3b808c718d33b",
+   "ko": "「이 속도―― 녀석인가!」"
+  },
+  {
+   "id": "da0201:T00031",
+   "source_sha256": "e0286cda8f905909854317a330da324f4832d4114b0d6d5d5649cf7fecf07a49",
+   "ko": "「햐하하하하하하!\n              또 만났구나아아아!」"
+  },
+  {
+   "id": "da0201:T00032",
+   "source_sha256": "000c8540a4f32903749562071755eedd3dff6fc92bf88041b4a7687da399ba7c",
+   "ko": "붉은 광선은 공중에서 소용돌이치며 회오리가 되어 터진다."
+  },
+  {
+   "id": "da0201:T00033",
+   "source_sha256": "4be2ca5157216f58a35e2fa051805b45bd92b0edd0f682477b3265daffb1fcf9",
+   "ko": "흩날리는 혈풍 속에서 사악한 미소를 띤 소년이 나타났다."
+  },
+  {
+   "id": "da0201:T00034",
+   "source_sha256": "e854b1902c1fc3a86e3245dc1e02a8a16502660035d9177074200ab24f0b2ed3",
+   "ko": "「역시 그때 그 애송이였나」"
+  },
+  {
+   "id": "da0201:T00035",
+   "source_sha256": "511c439ff648bf5e1335dac589c17859d475436e55c37246eedb39d49dd57003",
+   "ko": "「클라우디우스라고 한다, 잘 부탁해.\n　죽다 만 영감탱이야」"
+  },
+  {
+   "id": "da0201:T00036",
+   "source_sha256": "e2d7a9a59073cb438d1cd2c8401cffcedf8d6dd469f465cc7f047a3ad263c8a3",
+   "ko": "소년은 바람을 두른 채 공중에 머물러 있다."
+  },
+  {
+   "id": "da0201:T00037",
+   "source_sha256": "f5e3bd00d108aee1be4659e4ed7e0c80f685fa0746bec15a32881aae52430ec6",
+   "ko": "독기를 품은, "
+  },
+  {
+   "id": "da0201:R00007",
+   "source_sha256": "a3912059407b1de10c4e4e829a8f0ba4863982da95f6676681b92a8408615728",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0201:T00038",
+   "source_sha256": "f26618e3292ab51f2a2d5f7a9830ec40de7053eed98b19d92f924341726f677d",
+   "ko": "흉악"
+  },
+  {
+   "id": "da0201:T00039",
+   "source_sha256": "1060335a002d53622b26896a67cc9a52b374aad0374f4885ddfde5cea931e157",
+   "ko": "한 바람이다."
+  },
+  {
+   "id": "da0201:T00040",
+   "source_sha256": "a0a9f8c8f10f7c466b81b6a2b0e37c22e4e6e9762a55118cea24eb49e08552a7",
+   "ko": "「하스터의 "
+  },
+  {
+   "id": "da0201:R00008",
+   "source_sha256": "24d7ad880d9dd274550d7dc2480caa180cce47c07ed273889cc65934ddc93c74",
+   "ko": "힘",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0201:T00041",
+   "source_sha256": "522148a1fdcc951dab73d60402911ecae0316c63ca4da1659694d251661570bc",
+   "ko": "마력"
+  },
+  {
+   "id": "da0201:T00042",
+   "source_sha256": "0572341b0d10bfb09cc78bd881ab0b4fda5dba4cd53ecb0faa3d00144194e4de",
+   "ko": "……\n　짐작한 대로인가」"
+  },
+  {
+   "id": "da0201:T00043",
+   "source_sha256": "2e09a78120e013b01f9eaaef3122ce9813d5e900a57d0be85e9713c64045bf1c",
+   "ko": "「맞아. 네놈이랑 똑같지」"
+  },
+  {
+   "id": "da0201:T00044",
+   "source_sha256": "62c820885d1587a65ecc463e622b5c5043db206983c81d0201fe127644ac4b94",
+   "ko": "「얕보지 마라.\n　나는 하스터의 노예가 아니다」"
+  },
+  {
+   "id": "da0201:T00045",
+   "source_sha256": "0ff1c06d2d04e904a907d53561dd565e3bbd598a048f832a15b706928089e924",
+   "ko": "「아니, 똑같다니까…… 왜냐하면 말이지……」"
+  },
+  {
+   "id": "da0201:T00046",
+   "source_sha256": "75b1313fe70a9ad3b35b07058f2dde70da100dea02a9c60990e2ab11fb3268d8",
+   "ko": "클라우디우스의 손바닥 위에서 어둠빛 바람이 소용돌이쳤다."
+  },
+  {
+   "id": "da0201:T00047",
+   "source_sha256": "e81ff2ab9d6c9ee05f0f309fac12c5e85b8415a4f42226e1219ec9ab801eb612",
+   "ko": "그것은 나선형으로 고속 회전하는 문자열, 고밀도의 마술 정보체.\n\n　나선 운동의 가속이 임계에 달했을 때,\n　그것은 급속히 압축→반전→팽창과 동시에 물질화."
+  },
+  {
+   "id": "da0201:T00048",
+   "source_sha256": "92664df92247fb812e1e4a7d0f32f045a7e6deee56af9f4a70734170cfbbd569",
+   "ko": "칠흑빛 회오리의 『안쪽』에서 마도서의 "
+  },
+  {
+   "id": "da0201:R00009",
+   "source_sha256": "2bb9df2369234dd1a09c594d05bb8f486a403b25224bff5eeb85f6e147b6bbbb",
+   "ko": "페이지가",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0201:T00049",
+   "source_sha256": "87fc7f9029cb3830bc99efbf631b743a6abb399b4c3af33a2ce9a06db26a5c12",
+   "ko": "책장이"
+  },
+  {
+   "id": "da0201:T00050",
+   "source_sha256": "a98400b1d975000137fc6a3107e12696dd01974dc4af75342e7628f463d73573",
+   "ko": " 넘쳐흐른다."
+  },
+  {
+   "id": "da0201:T00051",
+   "source_sha256": "3991c6c012b5a43f6beb265d9bd40bdc2d5e5f8f598474827c2e676619d95d8c",
+   "ko": "무수한 책장은 회전에 맞추어 "
+  },
+  {
+   "id": "da0201:R00010",
+   "source_sha256": "22e2d2538e950753f7dadcd85bbe657cddcd59eecc44b04d35287f197ad44964",
+   "ko": "・・・・・・・・・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0201:T00052",
+   "source_sha256": "171c17bf470081c35fd775988d9f117f72e783791ba9c9a66e0308ba0f67a867",
+   "ko": "스스로를 스스로의 안으로 접어 넣으며"
+  },
+  {
+   "id": "da0201:T00053",
+   "source_sha256": "003034910b9e10c872d4204b7e2ca366a51b3bfbba942ae736cfffe37685a788",
+   "ko": ",\n복잡하고도 정미하게 한 권의 『책』을 엮어 냈다."
+  },
+  {
+   "id": "da0201:T00054",
+   "source_sha256": "8803e886608e4d0f8455f766fd96ce9c533a59bded3075464e01984c08ca362a",
+   "ko": "클라우디우스가 손에 쥔 책."
+  },
+  {
+   "id": "da0201:T00055",
+   "source_sha256": "ba2cafd1d2e05ed0e1be5f791607356870748e20cda00f6aa5d3f41da6323a7c",
+   "ko": "그 정체를 눈치챈 슈루즈베리에게 뚜렷한 동요가 스쳤다."
+  },
+  {
+   "id": "da0201:T00056",
+   "source_sha256": "976196cd434c363b413bddb046536523c0226c31deff2bb582d90c2985002239",
+   "ko": "「그 마도서는!?」"
+  },
+  {
+   "id": "da0201:T00057",
+   "source_sha256": "48e81801da6d070c74dc361a1ef0eaafdd11a636f557e528c20ab841ae9198c2",
+   "ko": "「――"
+  },
+  {
+   "id": "da0201:R00011",
+   "source_sha256": "fe65050b6cf95368d85f30fd366c092a15824886d51defd754887d1e968f7491",
+   "ko": "・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0201:T00058",
+   "source_sha256": "81142b6085d7e37be840f3afba98c83935915a2ac6ff5bdcb93c39855b99c782",
+   "ko": "나도"
+  },
+  {
+   "id": "da0201:T00059",
+   "source_sha256": "91d7640678cdbcbbba1d3c263cb81578a9dad1262f88e2a56e4594456b1769ad",
+   "ko": " 『"
+  },
+  {
+   "id": "da0201:R00012",
+   "source_sha256": "ad00a0b322492061745b24d0a27cfeb54340097e166853622a9781f99bd15efb",
+   "ko": "・・・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0201:T00060",
+   "source_sha256": "746c39b3b272e0ad0e0d1efc0324f33d85069034db4666fa9eb17e31b9e179f7",
+   "ko": "세라에노 단장"
+  },
+  {
+   "id": "da0201:T00061",
+   "source_sha256": "b72463c14159de4fb05314bbe87427f188c8e257daa14ceb49223b60b24f5a23",
+   "ko": "』"
+  },
+  {
+   "id": "da0201:R00013",
+   "source_sha256": "fe65050b6cf95368d85f30fd366c092a15824886d51defd754887d1e968f7491",
+   "ko": "・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0201:T00062",
+   "source_sha256": "40cf486d6cd63cfe39fd4f4bbe3eb56aea9c2602b701d00042e42297c5126f15",
+   "ko": "과 계약"
+  },
+  {
+   "id": "da0201:R00014",
+   "source_sha256": "905b0efb2d86b7b8a5e1a663618fe8fda3615a10bcebe5973ba115f428f9c0e2",
+   "ko": "・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0201:T00063",
+   "source_sha256": "93255f62a6f5419edc47454e4664c36c8ddf5c36a7f47b406b3fc9a3f298233e",
+   "ko": "했거든"
+  },
+  {
+   "id": "da0201:T00064",
+   "source_sha256": "9ddc1f6e8c46d407c41ce4d5019345c87c7834f287538e859fbf4949b7e9344f",
+   "ko": "!」"
+  },
+  {
+   "id": "da0201:T00065",
+   "source_sha256": "a252424b2aa944cd8315a49d12850feed4cd8918323eb8e59e20777de240d239",
+   "ko": "「어!? 에에에에엣!?」"
+  },
+  {
+   "id": "da0201:T00066",
+   "source_sha256": "6c3439a385ddea858077118b1e731ae784d7e5996e13c8f32e81a8f5972df4bd",
+   "ko": "「말도 안 돼, 있을 수 없는 일이다!\n　그건 "
+  },
+  {
+   "id": "da0201:R00015",
+   "source_sha256": "01df67e1d7cdbc51809b3a90688de6c6f9f4568cf270f141f3169e5f01fee77a",
+   "ko": "・・・・・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0201:T00067",
+   "source_sha256": "f4812bba201ef446487d3ef9e2292be753ece4f4330df4166452a19beb555c8f",
+   "ko": "내가 번역한 책이다"
+  },
+  {
+   "id": "da0201:T00068",
+   "source_sha256": "6560fad1b5299ec45c7562b1e825f123c87101dc289a1eb71426e443d34f4c8c",
+   "ko": "!」"
+  },
+  {
+   "id": "da0201:T00069",
+   "source_sha256": "a1baec678f78b828d07502cbe6536da89c09a1e9951cdf9ed23ff39083b80f36",
+   "ko": "「하아아앙?\n　있을 수 없긴 뭐가 없어, 망할 할아범!\n　실제로 이렇게 "
+  },
+  {
+   "id": "da0201:R00016",
+   "source_sha256": "01df67e1d7cdbc51809b3a90688de6c6f9f4568cf270f141f3169e5f01fee77a",
+   "ko": "・・・・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0201:T00070",
+   "source_sha256": "998220ae415ea0cb78d71f3c692a080ad04a549d72b43d1bc89d0d397f55439e",
+   "ko": "있잖아"
+  },
+  {
+   "id": "da0201:T00071",
+   "source_sha256": "f3d103c28c9d9fddc3909bff490eaeecd98b830dd4a26fb2e22cbac05a0c4ec8",
+   "ko": ", 노망난 할아범!」"
+  },
+  {
+   "id": "da0201:T00072",
+   "source_sha256": "19bd02f48bbcb9182e47a2f0e210f9751782a3d56c6028d546b7fc3632755493",
+   "ko": "「오라아아!\n　네놈 몸으로 직접 확인해 봐라!」"
+  },
+  {
+   "id": "da0201:T00073",
+   "source_sha256": "605bc9d6b2ed94e340a66d902d022fae10a1da49a0039de88974106fe215d608",
+   "ko": "「큭…… "
+  },
+  {
+   "id": "da0201:R00017",
+   "source_sha256": "15fd3110efa416b8c270e60de1f990607b040a10c18105d536c9c9efb3e5737b",
+   "ko": "카아아앗",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0201:T00074",
+   "source_sha256": "193632bffe7bd10527a17203336eea83fb483fb325aa20da7fee5e257592b0e7",
+   "ko": "갈"
+  },
+  {
+   "id": "da0201:T00075",
+   "source_sha256": "ecfe416e941818f04253f2cd37966ab40e1e3b156b09ca5d69c27c277a16376a",
+   "ko": "!」"
+  },
+  {
+   "id": "da0201:T00076",
+   "source_sha256": "10d4eb4f4062ed3faa1abd4f97edc15f8af1b49d41b0299787e80310bcddb919",
+   "ko": "뿜어져 나오는 바람의 칼날."
+  },
+  {
+   "id": "da0201:T00077",
+   "source_sha256": "839e89b2c20261777f57b50df6e1ad870fdc70b649e4798ba917f00af3ab19cb",
+   "ko": "하지만 슈루즈베리의 "
+  },
+  {
+   "id": "da0201:R00018",
+   "source_sha256": "ef07b481be5dc1e6e4b5495cd4f8b62608fdaaa77b07be07d85e42e3cce73521",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0201:T00078",
+   "source_sha256": "d6fd2c47e01315a3e77dc0d8c6f5cb12f992b835ce1702e0adea896aee33f113",
+   "ko": "찢어질 듯한"
+  },
+  {
+   "id": "da0201:T00079",
+   "source_sha256": "9693d86eacd268158ccd63046e784aef2d53b76601d11d401202786fae8ec057",
+   "ko": " 기합이 주력을 품고, 솟구치는 충격파가\n되어 마풍을 분쇄한다."
+  },
+  {
+   "id": "da0201:T00080",
+   "source_sha256": "5b363a815ea9c040a5df503ca7356a3b181127ae2978fe1c4d80a6d1f372e569",
+   "ko": "「칫…… 할아범 주제에 제법이잖아」"
+  },
+  {
+   "id": "da0201:T00081",
+   "source_sha256": "b675c67ff543a9ca01c66446beba1551f40ed5d4329ae3384576d95217fe4093",
+   "ko": "「이게 어떻게 된 일이지, 레이디!?」"
+  },
+  {
+   "id": "da0201:T00082",
+   "source_sha256": "4a2cb5243be0095513095deedfc091ff4e7dc3042e2f75c05f8f07bad283cd0d",
+   "ko": "「모르겠어…… 하지만 저 책은 틀림없이,\n　나랑 "
+  },
+  {
+   "id": "da0201:R00019",
+   "source_sha256": "a12b45ddd51618c93d318b0b2069c43712e98171f262a3a9b3343f7fdf871223",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0201:T00083",
+   "source_sha256": "4a7e9a926adb81a1034a66d43be5b106dad8726f418cd43623ed90a3acbecde2",
+   "ko": "똑같"
+  },
+  {
+   "id": "da0201:T00084",
+   "source_sha256": "ab49ad24a1420ccbc4675fea0617926446866f27260d61a38278d1f1819177a0",
+   "ko": "아……!」"
+  },
+  {
+   "id": "da0201:T00085",
+   "source_sha256": "9be3981c62bba34ca6789757fdabde34369f4633601a99e5dd8e2adb8faad5e4",
+   "ko": "「그렇다니까…… 똑같은 책이 두 권\n　있으면 곤란하겠지?\n　뒷일은 젊은 "
+  },
+  {
+   "id": "da0201:R00020",
+   "source_sha256": "69d5bab206d7f2a43ae8d61e69011a9d1d7250c04fdbb20a46f407a5f8bb57d6",
+   "ko": "놈",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0201:T00086",
+   "source_sha256": "5618dc0903030d38d24c342573ad1bc2f031b7a62bae59798d396bcc95ecb2cc",
+   "ko": "사람"
+  },
+  {
+   "id": "da0201:T00087",
+   "source_sha256": "b3916d7aa7fbc24faa133df6e1bcc75a260e5f01b07fb2a51f001674ea6e4e25",
+   "ko": "한테 맡기고,\n　냉큼 뒈져 버려라 늙은이!」"
+  },
+  {
+   "id": "da0201:T00088",
+   "source_sha256": "cf0a3802983619a5222ae7b71f4bd4acabef65c576343c5b59f374e824140e44",
+   "ko": "클라우디우스는 다시 회오리를 두르고 무시무시한 속도로 슈루즈베리에게 덤벼든다."
+  },
+  {
+   "id": "da0201:T00089",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0201:R00021",
+   "source_sha256": "7b8a57af352a15e260e709f9058f6291c3bdc7e61a04384357c06e207ab98df4",
+   "ko": "갈가리",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0201:T00090",
+   "source_sha256": "363def480b9cd0cb600e0a1ff3588c6a8a0adc877cf275fd57dede164bbc5862",
+   "ko": "해체"
+  },
+  {
+   "id": "da0201:T00091",
+   "source_sha256": "d09aa53f75474ae32448eeeb33ce99de2b886c8ff0540b17cc73ae551ae67507",
+   "ko": "해 주마아아아!\n                햐하하하하하하!」"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0201:R00001",
+   "kind": "ruby_reading",
+   "note": "戦慄(전율)에 훈독 おののき가 붙은 구조이나 한국어 본문은 '전율'이므로 루비를 유지."
+  },
+  {
+   "id": "da0201:R00005",
+   "kind": "omit_redundant",
+   "note": "雑ざり物(まざりもの)의 단순 훈독 발음 안내이므로 한국어 '불순물'에서 중복/불필요하여 omit_redundant 제안."
+  },
+  {
+   "id": "da0201:R00007",
+   "kind": "omit_redundant",
+   "note": "兇悪(きょうあく)의 단순 한자 독음 안내로 한국어 '흉악'과 중복되어 omit_redundant 제안."
+  },
+  {
+   "id": "da0201:R00018",
+   "kind": "omit_redundant",
+   "note": "裂帛(れっぱく)의 단순 한자 독음 안내로 한국어 '열백'과 중복되어 omit_redundant 제안."
+  },
+  {
+   "id": "da0201:R00019",
+   "kind": "omit_redundant",
+   "note": "同じ(おんなじ)의 구어 발음 안내로 한국어 '똑같아'에 반영되어 omit_redundant 제안."
+  }
+ ]
+}

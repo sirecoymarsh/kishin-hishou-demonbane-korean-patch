@@ -1,0 +1,414 @@
+{
+  "schema": "khd-gemini-response-v1",
+  "packet_id": "P0065_da0603",
+  "model_id": "Gemini 3.8 Flash (High)",
+  "records": [
+    {
+      "id": "da0603:T00001",
+      "source_sha256": "3b76e6e11a1ca665f5e51c4509c0a2db604516b83d9c6732834422dfa13bb374",
+      "ko": "마음속에――"
+    },
+    {
+      "id": "da0603:T00002",
+      "source_sha256": "78dc34ce07be29b61c0e1cfff0d83043ffad2371e5279d760d2fef55e8b2f953",
+      "ko": "「증오의 하늘에서 도래하여――」"
+    },
+    {
+      "id": "da0603:T00003",
+      "source_sha256": "185f0537c303903ebd838f79a66ee132e0a051b1e13586efac2d6cb0dd4ac883",
+      "ko": "「쿠로……」"
+    },
+    {
+      "id": "da0603:T00004",
+      "source_sha256": "44f821f0ca2345cb7397e9c46f30f58833e90a02ea14a56f20a1a577e6f04ff4",
+      "ko": "나는 노래하고 구송한다."
+    },
+    {
+      "id": "da0603:T00005",
+      "source_sha256": "f172d646129026701eff523e9645c5a005933c3ab877fb4ff69a8772ab392759",
+      "ko": "지난 싸움에서 수없이 되풀이했던 그 성구를."
+    },
+    {
+      "id": "da0603:T00006",
+      "source_sha256": "a1b27e462c3503827139a8a65a9717c9ee4a1884cfc3661a56d251657a57db53",
+      "ko": "알은 불안한 듯 나를 올려다보고――"
+    },
+    {
+      "id": "da0603:T00007",
+      "source_sha256": "82af917b8d4a13979fc5eeb79a113cec5e4afeb62a010baa8bb48276c859e5b4",
+      "ko": "「올바른 분노를 가슴에 품고――」"
+    },
+    {
+      "id": "da0603:T00008",
+      "source_sha256": "f63e338a9fae446f20ae3d105f2318d7c4d921eff8749a1d9931f4bd94dd5f65",
+      "ko": "「…………」"
+    },
+    {
+      "id": "da0603:T00009",
+      "source_sha256": "da91a80736bbeb7aaa8d91223f250e136b6b2eefb94cfe39226fe2bb9a5729d6",
+      "ko": "빛이 터져 나가며 알이 원래 모습으로 되돌아온다."
+    },
+    {
+      "id": "da0603:T00010",
+      "source_sha256": "82c8bd65700dc2258fc25266a01f5699f5fde4c5af48c4eaf8e4462eda9d760f",
+      "ko": "내 곁에 선다."
+    },
+    {
+      "id": "da0603:T00011",
+      "source_sha256": "bacfffd47a11514a68f2d540dd232e3ab226b70c0f99344c210e3c615d63aae7",
+      "ko": "「「우리는 마를 끊는 검을 잡는다!」」"
+    },
+    {
+      "id": "da0603:T00012",
+      "source_sha256": "02e5e6afdbf4b01c923d1e7f3715089929fb8561e147c1b7e151ace6630a2c3a",
+      "ko": "두 사람의 목소리가 겹쳐진다."
+    },
+    {
+      "id": "da0603:T00013",
+      "source_sha256": "5df07f1fc339cb47467b180f6ef25247891065b4233b68da5b8d0de470939ff0",
+      "ko": "두 사람의 맹세가, 기도가 겹쳐진다.\n\n　우리가 노래하고 구송하는 것은 세계 최강의 성구다!"
+    },
+    {
+      "id": "da0603:T00014",
+      "source_sha256": "a92992bcfc2b5bd6bd119a933aa152f6cc176505beae8ac8032dd77f4310b7a6",
+      "ko": "「「그대, 무구한 칼날 데몬베인!」」"
+    },
+    {
+      "id": "da0603:T00015",
+      "source_sha256": "55015ec0d1d09b4978f5c4d39633f19f4b5559bb9832e199fc84e40365d2249d",
+      "ko": "상공에서 격렬한 빛이 나선을 그렸다."
+    },
+    {
+      "id": "da0603:T00016",
+      "source_sha256": "684d91f189cfc23c1a1ada251a001e03d961f60e69758dfbb32bfcc75f6a09a5",
+      "ko": "빛의 회오리 중심부, 편재화된 존재가 재구성을 시작한다.\n\n　그곳에 결코 있을 수 없는 물질이 존재할 무한소의 가능성."
+    },
+    {
+      "id": "da0603:T00017",
+      "source_sha256": "5fe01534fa5c7a8d420fbf351b36f57160e8bcc8b510065d1ab943fcfefbd03e",
+      "ko": "한없이 『0』에 가까운 확률이 집적되어, 완전한 『1』을 실현한다.\n\n　그리고 『마를 끊는 검』은 거칠게 날뛰는 하늘에 현현했다."
+    },
+    {
+      "id": "da0603:T00018",
+      "source_sha256": "58fd64cddea935fdfeb43f12ca623fc41384fcba1792cf02f07aefd5e8e8ee16",
+      "ko": "「왔어……!」"
+    },
+    {
+      "id": "da0603:T00019",
+      "source_sha256": "087bebb3c7304207929af2f483008757f672fa7a9cbd302d80e7d708fdd650bb",
+      "ko": "「하지만, 이건……!?」"
+    },
+    {
+      "id": "da0603:T00020",
+      "source_sha256": "93e9f3c274950b4519db9bdf53ba09be2024e6c6558cd1f797c43c13ab016e23",
+      "ko": "소환된 데몬베인은 아직 미완이었다."
+    },
+    {
+      "id": "da0603:T00021",
+      "source_sha256": "b089bd81e39c092dc417aacb4588190a71212c00c2198f998f4f24c926481047",
+      "ko": "장갑은 군데군데 벗겨져, 적나라한 내부를 드러내고 있었다."
+    },
+    {
+      "id": "da0603:T00022",
+      "source_sha256": "c1d1b210c9b4d4ea0f6db2b9432dcf10d0bd6a505d542142ff8a13fb487c600b",
+      "ko": "그 모습은 강철로 조립된 거대한 해골을 연상시켰다.\n\n　『강철의 주검』 주위에 부유하는 무수한 "
+    },
+    {
+      "id": "da0603:R00001",
+      "source_sha256": "5461d30a804ce645d1361f44d672265ede0fb36d3602d183a40c5f12c2418cf1",
+      "ko": "파츠",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da0603:T00023",
+      "source_sha256": "c8212ffab25e892cdf92a6097c13a297be6199d50cd2b8023b049027741f729f",
+      "ko": "부품"
+    },
+    {
+      "id": "da0603:T00024",
+      "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+      "ko": "."
+    },
+    {
+      "id": "da0603:T00025",
+      "source_sha256": "d8bfcb1346a41e4513f7518bbe757091643013ff7d926ef53d5aeae98a38e8e3",
+      "ko": "나사가 톱니바퀴가 태엽이 배관이 철골이 도선이 장갑이, "
+    },
+    {
+      "id": "da0603:R00002",
+      "source_sha256": "399541026b89787f76b6312375d21b42244869347cf836059cf9eba724bb4824",
+      "ko": "・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da0603:T00026",
+      "source_sha256": "319df777c4a488b2760ebc1bb37e7a8625de88cb1cc3edfb244f2c76af30931b",
+      "ko": "아직"
+    },
+    {
+      "id": "da0603:R00003",
+      "source_sha256": "fe65050b6cf95368d85f30fd366c092a15824886d51defd754887d1e968f7491",
+      "ko": "・・・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da0603:T00027",
+      "source_sha256": "e6c696b1029757dce891cb3191a9ac72af5302ca97fc7d97157daa84a99626a3",
+      "ko": " 태어나지"
+    },
+    {
+      "id": "da0603:R00004",
+      "source_sha256": "399541026b89787f76b6312375d21b42244869347cf836059cf9eba724bb4824",
+      "ko": "・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da0603:T00028",
+      "source_sha256": "92998c9a52463dce647b5dc77f952f8c08c5f074883c0735a7185da7599b1ba4",
+      "ko": " 않은"
+    },
+    {
+      "id": "da0603:R00005",
+      "source_sha256": "2a21905f43e5a05954fb631dfc0cf38b1d8b25001f9ccedd80abcd27e88f6fb8",
+      "ko": "・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da0603:T00029",
+      "source_sha256": "927e89ec13a3f64e08c7125311d598322feaedbdb4f93c4ee3827e58122ceee1",
+      "ko": " 주검"
+    },
+    {
+      "id": "da0603:T00030",
+      "source_sha256": "c081aead3c1c3c2e7e5e7b49774403924bcf2b7502c16f4650d766320cb34d09",
+      "ko": "을 탄생／재생시키고자, "
+    },
+    {
+      "id": "da0603:R00006",
+      "source_sha256": "82f34ce4d33090dad98275801154778530edfec0c61076b51cc7e38e8f0b2898",
+      "ko": "우로보로스를",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da0603:T00031",
+      "source_sha256": "4920de9da558454c61ca2572a33b5548d0b5685a13e3ab4cc006b83ab7e367b7",
+      "ko": "원환을"
+    },
+    {
+      "id": "da0603:T00032",
+      "source_sha256": "7e614902850e3b7fcc9b7cd496353e95d4e32caec65bce07e9994dd8597b6f73",
+      "ko": ","
+    },
+    {
+      "id": "da0603:R00007",
+      "source_sha256": "f24e1d4c1416020a350748b1a9d32690050e439e40e3feec1386d1cf90ad46bb",
+      "ko": "카두케우스를",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da0603:T00033",
+      "source_sha256": "05ffbe319012ddf822d8e71458411cad7a0800b97c64951feb76c8792e2f297d",
+      "ko": "나선을"
+    },
+    {
+      "id": "da0603:T00034",
+      "source_sha256": "cd84b58b628908d33f90c3abfa2a245bff5c454ae02972c3020093688ec11b89",
+      "ko": " 그리며 돌고／몸부림친다."
+    },
+    {
+      "id": "da0603:T00035",
+      "source_sha256": "7e765b29ce218257bddba7d0a0890ba26a0f3818e002c3b13bd46ee91991e468",
+      "ko": "「이것은…… 최초의 기억인가?\n　데몬베인의?」"
+    },
+    {
+      "id": "da0603:T00036",
+      "source_sha256": "fa7a58f2559ad9e628c09c5435103abc0f61f0e7f8ec41a6f084cdcbe1219e1b",
+      "ko": "「……데몬베인!」"
+    },
+    {
+      "id": "da0603:T00037",
+      "source_sha256": "89ebbf9576f8d651b64a39f70c29a5da75ccc15733438a1fba5736c480f7d379",
+      "ko": "하늘을 올려다보며 붉은 소녀가 절규한다."
+    },
+    {
+      "id": "da0603:T00038",
+      "source_sha256": "c90b8a5a27477e466b5f2bcf2718912a4f2c7627e68191697c9a6a5ffeba0e63",
+      "ko": "피를 토하는 듯한 목소리로."
+    },
+    {
+      "id": "da0603:T00039",
+      "source_sha256": "328eee7dce88a9c8398bbe329d82eebd16792561f460bd043c776e4b48453cba",
+      "ko": "끝없이 깊고 어두운 원망을 담아."
+    },
+    {
+      "id": "da0603:T00040",
+      "source_sha256": "5a56e05764aa36115609143c1d346f0c75519a858b6035623a15ba0dcee45d7f",
+      "ko": "「ＥｈＹｙＡＹＡｙＡＨＡＡｈＥ’ＹＡ"
+    },
+    {
+      "id": "da0603:T00041",
+      "source_sha256": "3849f397bc8a33b79ac8dc82012827b6df410f1e03d23b7f2ec3064b8d919bb9",
+      "ko": "ＹＡＹＡＡＡＡ！\n　ＮｇＨ’ａ"
+    },
+    {
+      "id": "da0603:T00042",
+      "source_sha256": "17e8fa30e006e8e5ac9ff2a36c1e9f4f6f9241167d2c63acb937a14312299358",
+      "ko": "ａＡｎｇｈ’ａａＡＨ’ｙｕ"
+    },
+    {
+      "id": "da0603:T00043",
+      "source_sha256": "b0f74a110378dfad3afe6206c03a92c65b55778a28ad0c6f405b411e1877fe7a",
+      "ko": "Ｈｈ’ＹｕＨ！」"
+    },
+    {
+      "id": "da0603:T00044",
+      "source_sha256": "fa0c8915c6348ad3f15b84cede897f294a0af390276e0410dd3da68fa2061571",
+      "ko": "웨이틀리가 포효한다."
+    },
+    {
+      "id": "da0603:T00045",
+      "source_sha256": "3c05a945098f68faf55dfa53541d2bbc2f375e9dcc5a1a1896f9001e7a5009b9",
+      "ko": "이형의 "
+    },
+    {
+      "id": "da0603:R00008",
+      "source_sha256": "b9a6f33686a842ff9fb09541728b956c367019de0996cbd15c4c8f9f47fb9cf8",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da0603:T00046",
+      "source_sha256": "68c411b217f16b775618b986689da251c38f4b759c77c73bcbc2a911c20c51bf",
+      "ko": "목소리"
+    },
+    {
+      "id": "da0603:T00047",
+      "source_sha256": "358fc40b08577d134af336ec282d6ad9a7e90b3494417426c5f4c0f3677d21d2",
+      "ko": "로."
+    },
+    {
+      "id": "da0603:T00048",
+      "source_sha256": "b2a85c4cf0beb7be6ec8ee69e0c5e0b7c702990f8ee73935653f280d40a1c32c",
+      "ko": "원망, 증오, 분노――그리고 무엇보다, 공포를 담아.\n\n　이 괴이는 깨달았을지도 모른다."
+    },
+    {
+      "id": "da0603:T00049",
+      "source_sha256": "84b65bdbf3f7004a2f2cced664e1bfd1ed06946851f9600411fd31b838bfa05c",
+      "ko": "이 조잡한 고철이야말로, 불구대천의 원적임을."
+    },
+    {
+      "id": "da0603:T00050",
+      "source_sha256": "5567cf8af83cbd26c4666f11abfdaaeae039e6c3e1048bc572c1275a3039c885",
+      "ko": "온갖 사악의 천적임을."
+    },
+    {
+      "id": "da0603:R00009",
+      "source_sha256": "536ea8479442dbef9a242bc8561a7b90eaf72bf3973b1486220e3fff3a340c48",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da0603:T00051",
+      "source_sha256": "dc1678ea2211f3ca2a97ce5367e460fada037ada2007f0cfea12fb7323ffb762",
+      "ko": "지혜"
+    },
+    {
+      "id": "da0603:T00052",
+      "source_sha256": "9891d39c5500f849448888c1a2c675fd94184a4430fba634251a2881a8533f27",
+      "ko": "로서가 아니라, 본능으로 깨달았는지도 모른다."
+    },
+    {
+      "id": "da0603:T00053",
+      "source_sha256": "d7399cf9c115045e0859b55d23f2b46084fabbccb74512487a2412bcbae9d1e3",
+      "ko": "「Ｅ’ＹＡ아아ＡＡ"
+    },
+    {
+      "id": "da0603:T00054",
+      "source_sha256": "df53a7e6578b5aec1b87f6461e45fc410cc8cd8fc071f1bd880cce8f65a10bcb",
+      "ko": "ＡａａａＡＡ아"
+    },
+    {
+      "id": "da0603:T00055",
+      "source_sha256": "5d1e24bbae3e7e14f923b8f5435a6c311b0af331314c22fff9c916f40e24bf0f",
+      "ko": "아아ＡＡＡ！」"
+    },
+    {
+      "id": "da0603:T00056",
+      "source_sha256": "845cb99e77a2493c157d0758c07b4ed00597a0c4c32c3cfacd9b8e1b30fb16ac",
+      "ko": "웨이틀리의 촉수가 상공을 향해 뻗는다."
+    },
+    {
+      "id": "da0603:T00057",
+      "source_sha256": "f6bfcd1e3ba1bff9ccc1df9ea7099254cb8930691079be99fac3a2f5efcd97aa",
+      "ko": "수백 미터 거리를 순식간에 좁혀, 불완전한 데몬베인을 덮친다!"
+    },
+    {
+      "id": "da0603:T00058",
+      "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+      "ko": "「"
+    },
+    {
+      "id": "da0603:R00010",
+      "source_sha256": "2cf9e21f8ca6f3b86ca5be0eb392994be2a9799b1f2c162099efa48eea901774",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da0603:T00059",
+      "source_sha256": "3ab61458dc74353d1607a03f149f546869898f2e6addfef5f4c60d57bdc55be9",
+      "ko": "위험"
+    },
+    {
+      "id": "da0603:T00060",
+      "source_sha256": "9800ddb40801a8b4fa5bea3ad617cfa4dbbdb84fff5116a0f62f749f72c55bd4",
+      "ko": "해!」"
+    },
+    {
+      "id": "da0603:T00061",
+      "source_sha256": "595aff3504ce289ee38ccbc67fbff4bf1eb4e4dc338cf6f70a41ea7c989ec9bf",
+      "ko": "「그만둬어어어――――――읏!」"
+    }
+  ],
+  "issues": [
+    {
+      "id": "da0603:R00003",
+      "kind": "ruby_emphasis_dot_count_adjusted",
+      "note": "Adjusted dot count to match Korean text length (태어나지 4 dots)"
+    },
+    {
+      "id": "da0603:R00005",
+      "kind": "ruby_emphasis_dot_count_adjusted",
+      "note": "Adjusted dot count to match Korean text length (주검 2 dots)"
+    },
+    {
+      "id": "da0603:R00006",
+      "kind": "ruby_particle_split",
+      "note": "Base text 원환 takes 을, ruby reading 우로보로스 takes 를; particle absorbed into both, trailing cell retains comma"
+    },
+    {
+      "id": "da0603:R00007",
+      "kind": "ruby_particle_split",
+      "note": "Base text 나선 takes 을, ruby reading 카두케우스 takes 를; particle absorbed into both"
+    },
+    {
+      "id": "da0603:R00008",
+      "kind": "omit_redundant",
+      "note": "단순 훈독 루비 생략"
+    },
+    {
+      "id": "da0603:T00049",
+      "kind": "pending_term_怨敵",
+      "note": "사용자 결정 대기 12번: 怨敵을 '원적'으로 임시 표기"
+    },
+    {
+      "id": "da0603:R00009",
+      "kind": "omit_redundant",
+      "note": "단순 음독 루비 생략"
+    },
+    {
+      "id": "da0603:R00010",
+      "kind": "omit_redundant",
+      "note": "단순 훈독 루비 생략"
+    }
+  ]
+}

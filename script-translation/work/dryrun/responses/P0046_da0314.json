@@ -1,0 +1,281 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0046_da0314",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0314:T00001",
+   "source_sha256": "3230aeae014aafb2f0fcc3101e967b12cc047fed14afb08de5a7a703d47c3ad8",
+   "ko": "「뭐야, 이건!　웃기지 마!\n　이런 건, 내 이야기가……!」"
+  },
+  {
+   "id": "da0314:T00002",
+   "source_sha256": "5981ff5c687684cc9474a8b09a9c6a5a2f5b33503b16b9bc750742a92c7fbb12",
+   "ko": "「그아아아아앗!」"
+  },
+  {
+   "id": "da0314:T00003",
+   "source_sha256": "5e124dccf84c11d04a72c6771a8d601930f7abe9e786d472600eb2b3bb19cf39",
+   "ko": "폭풍이 덮쳐 온다."
+  },
+  {
+   "id": "da0314:T00004",
+   "source_sha256": "ea379b8e444a7c760f4cbc70b62928e566a5144a31851dbea1ef9142ebbf90dd",
+   "ko": "솟구치는 충격파의 난류는 바람의 결계로 보호받던 클라우디우스를 가볍게 날려 버렸다.\n\n　물론 그런 걸 우리가 버텨 낼 수 있을 리가 없다."
+  },
+  {
+   "id": "da0314:T00005",
+   "source_sha256": "adcac58e1ce36afd6be7138c94dab48c227879220c6f8fef06c59e39876ec041",
+   "ko": "「그으윽!?」"
+  },
+  {
+   "id": "da0314:T00006",
+   "source_sha256": "54ae17b46b84d79725c4ac42015a18619c042b02ad00ebcec352f775188b826e",
+   "ko": "「우와아아아아!?　또 떨어지는 거냐아아아아아!?」"
+  },
+  {
+   "id": "da0314:T00007",
+   "source_sha256": "91ee7af0f074bb2fcd087ad31ddbb8f1bc0e12f00b9fc2f350af83d9987bd2e8",
+   "ko": "허공으로 날려 간 몸은, 그러나 낙하하기보다도 빠르게 마력의 바람에 휩싸였다."
+  },
+  {
+   "id": "da0314:T00008",
+   "source_sha256": "40f4587357756c240a50a87940780f6b8b2342e538c79c50b6607a597a620f81",
+   "ko": "바람이 내 몸을 지탱하여 낙하 속도를 완만하게 만든다."
+  },
+  {
+   "id": "da0314:T00009",
+   "source_sha256": "eaac235e265eac5dcc18508f9e921884b7098f0ab7586aa2e5d6f21b92d704cf",
+   "ko": "내려앉는 그 끝에는 기억에 생생한 그 비행체가 대기하고 있었다."
+  },
+  {
+   "id": "da0314:T00010",
+   "source_sha256": "ab796a75d7581143cefeb9f17ef60c0d75de0d9e96bb28f261e15e1e9aec34f0",
+   "ko": "「주인공 등장!…… 이려나?」"
+  },
+  {
+   "id": "da0314:T00011",
+   "source_sha256": "da1ce201e035ab1d472c4c556f698ebd8331b16fa0e585db966313a250ab31b2",
+   "ko": "「음. 이러한 전개는 "
+  },
+  {
+   "id": "da0314:R00001",
+   "source_sha256": "0de5e66a19853fd36a5548bcb6196b4d7fbc7e4289f989022d78f89633bdfd4b",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0314:T00012",
+   "source_sha256": "da36720afdbd0b1d7072dec5c842e9923b1532e387254de706c81b2f08f7ec98",
+   "ko": "몇 살"
+  },
+  {
+   "id": "da0314:T00013",
+   "source_sha256": "c60f71fa606aab8f59aef70d850de8cdb5c800b113982f8ad4ecfe8fe0190e7a",
+   "ko": "이 되어도\n　피가 끓고 살이 뛰는 법이지」"
+  },
+  {
+   "id": "da0314:T00014",
+   "source_sha256": "cdbf73cb5888cda91b60f814cdb06a32237d39e66e2e76bf948efa0af02f9540",
+   "ko": "「슈루즈베리 "
+  },
+  {
+   "id": "da0314:R00002",
+   "source_sha256": "8abe22c91f0939b6aab3db77f86d607dd7063710622f9cd851250b3a7e367dbc",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0314:T00015",
+   "source_sha256": "cd98e43da31bb1b90dc152851c85c7d266d47ba97bc5ff7bd137c5920429d467",
+   "ko": "선생"
+  },
+  {
+   "id": "da0314:T00016",
+   "source_sha256": "6560fad1b5299ec45c7562b1e825f123c87101dc289a1eb71426e443d34f4c8c",
+   "ko": "!」"
+  },
+  {
+   "id": "da0314:T00017",
+   "source_sha256": "06c12840c55d6ed0d412a25bf0db94a8a212be92953f8c5f2f22f8818b6b4b04",
+   "ko": "「이걸로 빚이 두 개일세, 다이쥬지 쿠로 군」"
+  },
+  {
+   "id": "da0314:T00018",
+   "source_sha256": "878c21e4d62d0a7e0b275c259296929db8a3f46b000ac8a08488e918193983f2",
+   "ko": "클라우디우스의 마풍에 대항할 수 있을 정도의 폭풍을 조종할 수 있는 건 이 사람밖에 없다.\n\n　『세라에노 단장』의 번역자이자 소유자, 라반 슈루즈베리."
+  },
+  {
+   "id": "da0314:T00019",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0314:R00003",
+   "source_sha256": "62438252bb38b900e745c4471e87d3474772db15816df043dc0c15d2f5443d2c",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0314:T00020",
+   "source_sha256": "987df73af5a9da1c3cd8ebfb023420305bdc9d497da76f09c87d8af5b7a847b6",
+   "ko": "영감"
+  },
+  {
+   "id": "da0314:T00021",
+   "source_sha256": "7853c5530a0fdf22a04f69fe93364b34fddd87ce941733527e2dc54e14f8ab51",
+   "ko": "탱이냐!」"
+  },
+  {
+   "id": "da0314:T00022",
+   "source_sha256": "4bf01b2eb76d3b4aad3b83a202cd2ff51d7c1f9c443890d13a252cb63730f0b1",
+   "ko": "「연장자에 대한 말투에는\n　주의하게나, 애송이」"
+  },
+  {
+   "id": "da0314:T00023",
+   "source_sha256": "247843dd48f31fba4291cc0f67b84576763039031c58868565c32cb145054094",
+   "ko": "선글라스에 가려진 표정은 변함없이 읽기 어렵다."
+  },
+  {
+   "id": "da0314:T00024",
+   "source_sha256": "98aedef1d948fdaf99d0e5c22eb5dc6ed67f8f323bd06d80eb9109c0b157b9a7",
+   "ko": "하지만 그럼에도 그 입가만은 대담한 미소를 내비치고 있었다."
+  },
+  {
+   "id": "da0314:T00025",
+   "source_sha256": "7a742a6ac18ca6a83412f29efcfc4ced3fef871db65725605a6b6c6e38c38eb3",
+   "ko": "「제3라운드다. "
+  },
+  {
+   "id": "da0314:R00004",
+   "source_sha256": "1cdae12c838dca9d597ae523b796148e8005da9504cb303e18ed9ccb2ef3fad9",
+   "ko": "초즌 오브 하스터",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0314:T00026",
+   "source_sha256": "a2e6b3c69e55da6545f554fdae5b0c8bb2d16f591413d32d83476dc231a057e5",
+   "ko": "하스터의 노예"
+  },
+  {
+   "id": "da0314:T00027",
+   "source_sha256": "2f11508f5619001a5e59e5d87451f4f2a46622d4420a4d1271d20d90473b78ff",
+   "ko": "여」"
+  },
+  {
+   "id": "da0314:T00028",
+   "source_sha256": "a3011dcb86ee3bcc5937dee069999787240d090c3f0ae274957e303e7423cf5e",
+   "ko": "「망할 영감탱이……읏」"
+  },
+  {
+   "id": "da0314:T00029",
+   "source_sha256": "86e0504ae264d8006b14e7038c633ce3fdf789c3e5f180c918bcff59a8fb4636",
+   "ko": "「자, 제군. 반격할 시간이다」"
+  },
+  {
+   "id": "da0314:T00030",
+   "source_sha256": "48e81801da6d070c74dc361a1ef0eaafdd11a636f557e528c20ab841ae9198c2",
+   "ko": "「――"
+  },
+  {
+   "id": "da0314:R00005",
+   "source_sha256": "023b5f05ebb5432cfd015a51b46114673cbacb751e856aa7b670a19ed15284a4",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0314:T00031",
+   "source_sha256": "fe4c785508e6a480a13d3def0330185508d154f067de6e0d9f08bfb399f40e83",
+   "ko": "그렇고"
+  },
+  {
+   "id": "da0314:T00032",
+   "source_sha256": "d886eeca224e3114c18ee41f8e720171d1f26b1817d9125a4ef9eb50f3bb89ee",
+   "ko": "말고, 그렇고말고!"
+  },
+  {
+   "id": "da0314:R00006",
+   "source_sha256": "f58c026c179665797b00157bf4ac8d76bb0bc4ae666609165f837f7ff7226785",
+   "ko": "어나더 블러드",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0314:T00033",
+   "source_sha256": "267fbc023996f74336171683d318e28d91331d58d6f6694feff4b235307b8861",
+   "ko": "저주받은 피"
+  },
+  {
+   "id": "da0314:T00034",
+   "source_sha256": "c02046397d6b343e7cca6ee800f6967efa4ad451f2ad52f664a2a6a7f9f5d146",
+   "ko": "의 악몽!\n　한 방울도 남김없이, 토벌해 내겠다!」"
+  },
+  {
+   "id": "da0314:T00035",
+   "source_sha256": "0e3deab5e900c9d5963e0ed355a4a12bc631734fc7435537291c126982a63ce2",
+   "ko": "「크라켄!\n　부숴라 부숴 부숴라아――――앗!」"
+  },
+  {
+   "id": "da0314:T00036",
+   "source_sha256": "d723a0a81e2bd4747ee759b995cd5fbaced77c2f9360fb7b7a7317adaf4ac672",
+   "ko": "「허수전개 캐터펄트 작동!"
+  },
+  {
+   "id": "da0314:T00037",
+   "source_sha256": "3ab822069a9a31480454216405469cf8dce0c853ca8aed5787e26e27c613d05f",
+   "ko": "『기신소환』!」"
+  },
+  {
+   "id": "da0314:T00038",
+   "source_sha256": "6fe7e6ce728ecdf9ac5f95c40a633e79d1fcfea45227dccf7f188f449e1471dd",
+   "ko": "「증오의 하늘에서 도래하여,\n　올바른 분노를 가슴에 품고,\n　나의 "
+  },
+  {
+   "id": "da0314:R00007",
+   "source_sha256": "afafbae591c156ee7f019d48ea7a74beb639f38112cda9fa29c06bd5dd77f5c8",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0314:T00039",
+   "source_sha256": "7cbc0a4ceb4c56112e8a3f61cb26b1919832168cd10a1864056fecb44e3b33b0",
+   "ko": "손"
+  },
+  {
+   "id": "da0314:T00040",
+   "source_sha256": "b6b5b9a62f77f4cf809719b5ab899013f685d9a8fddc2dd9de24e584d0f1e948",
+   "ko": "은 마를 끊는 검을 잡는다!"
+  },
+  {
+   "id": "da0314:T00041",
+   "source_sha256": "46040c4b9f99dc1a14b309d042fb5f853905fdf8efa64b3805438aa3a8afbada",
+   "ko": "그대, 무구한 칼날 데몬베인!」"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0314:R00001",
+   "kind": "omit_redundant",
+   "note": "한국어 '몇 살'로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0314:R00002",
+   "kind": "omit_redundant",
+   "note": "한국어 '선생'으로 의미가 온전히 전달되므로 일본어 구어 독음 루비 생략"
+  },
+  {
+   "id": "da0314:R00003",
+   "kind": "omit_redundant",
+   "note": "한국어 '영감탱이'로 의미가 온전히 전달되므로 일본어 독음 루비 생략"
+  },
+  {
+   "id": "da0314:R00005",
+   "kind": "omit_redundant",
+   "note": "한국어 '그렇고말고'로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0314:R00007",
+   "kind": "omit_redundant",
+   "note": "한국어 '손'으로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  }
+ ]
+}

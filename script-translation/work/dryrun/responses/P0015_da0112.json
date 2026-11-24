@@ -1,0 +1,590 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0015_da0112",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0112:T00001",
+   "source_sha256": "78f655f7fadd29b9ce2cee0c8300a818e340089dc64ac012839c14351cf581b9",
+   "ko": "「――버텨라」"
+  },
+  {
+   "id": "da0112:T00002",
+   "source_sha256": "2c0d3452dfe442893d6cf4fd88fc80990e4754eaba7b61eea422a39ef1f7c5ba",
+   "ko": "느닷없이 그런 목소리가 들렸다."
+  },
+  {
+   "id": "da0112:T00003",
+   "source_sha256": "c10d21ea48fd069c6d3ecfed8aa361a64cf255ce5702ba8044943b3d4e338e8f",
+   "ko": "공기를 매개로 한 목소리가 아니다."
+  },
+  {
+   "id": "da0112:T00004",
+   "source_sha256": "5305afe1eb2c52ac265cbed8180c1a804a34c465c5706a6612681dca68055ccb",
+   "ko": " 염화다."
+  },
+  {
+   "id": "da0112:T00005",
+   "source_sha256": "d20d9e46ebd1740de4ce37b29e79df6a30782211f70696688655bbd546819db2",
+   "ko": "불길한 예감이 치밀어 오른다."
+  },
+  {
+   "id": "da0112:T00006",
+   "source_sha256": "8ade2dc9192d6fd83f493f71051131fc0c19c20d20052d0b1b682c7e1dd28825",
+   "ko": "「기다……!」"
+  },
+  {
+   "id": "da0112:T00007",
+   "source_sha256": "cbaeb84ea6ea2b676b174c8001f09673123ca06c8c38c4da231d5c75a45396b7",
+   "ko": "다음 순간, 충격이 닥쳐왔다."
+  },
+  {
+   "id": "da0112:T00008",
+   "source_sha256": "e7b2a21f23f556497119dbb7acc8901828e0267a4215b7204f5ef12955015220",
+   "ko": "해머로 후려치는 듯한, 옆에서 몰아치는 격풍."
+  },
+  {
+   "id": "da0112:T00009",
+   "source_sha256": "1a381fa85502d04f44b8780135c4797e53d062a4e8857c22f260447ce4e09f16",
+   "ko": "그 일격에, 우리에게 휘감겨 있던 무형의 사생아가 전부 날아가\n버린다."
+  },
+  {
+   "id": "da0112:T00010",
+   "source_sha256": "9809536cb43bc7da1d9d828ac1efde7cec405ee61be7587f244152f1d6d92112",
+   "ko": "「우아아아아악!?」"
+  },
+  {
+   "id": "da0112:T00011",
+   "source_sha256": "8ce5ea628a06fb1b49320aabae4ec619938dc068b57a7f2151ed2a2c4b5f19fc",
+   "ko": "당연히, 우리도 날아가 버렸다."
+  },
+  {
+   "id": "da0112:T00012",
+   "source_sha256": "d043181a8a67667ecab2b71548eb5be3ff19c858b568e8e9432c4b514a938a3b",
+   "ko": "허공에서 엉망진창으로 휘저어지는 듯한 감각."
+  },
+  {
+   "id": "da0112:T00013",
+   "source_sha256": "b19d54cb4d63b96db7205af20e57ea2b4c4ae4e19fc703d383dfdf19bbe23094",
+   "ko": "사지가 찢겨 나갈 것만 같은 충격이다."
+  },
+  {
+   "id": "da0112:T00014",
+   "source_sha256": "82adcc56b0318e6fb15c8d6cd274222542c7e4604ead705ba6980b98598b80f0",
+   "ko": "「그으으으으윽!」"
+  },
+  {
+   "id": "da0112:T00015",
+   "source_sha256": "d5ab2d56ef6050f389a3cc70266c689e23d9bd409f8b3d4322b5b14c03edaef1",
+   "ko": "흑익으로 전신을 감싸 안고, 가드한다."
+  },
+  {
+   "id": "da0112:T00016",
+   "source_sha256": "f6d7baa210ccbcefd77a0d297a483bd01c9dc3da45291f1eddf8fc6e43691717",
+   "ko": "보니 바람이――바람에서 발생하는 충격파가――충격파에서 발생하는\n『무언가』가, 무형의 사생아를 산산조각으로 분쇄하여, 검은 먼지로 바꾸어\n간다."
+  },
+  {
+   "id": "da0112:T00017",
+   "source_sha256": "744b90b96e0bc8ce8efc4bd5ac2beb8f94bf35f8c790da94e4856a979d98ff75",
+   "ko": "「이건……!」"
+  },
+  {
+   "id": "da0112:T00018",
+   "source_sha256": "cde90e84e836b6bd7466511c3434ea89d3fc0c9030e245b7497bf13dd0ddd89a",
+   "ko": "「그오오오!?　큭!\n　갈바, 오토, 비텔리우스!」"
+  },
+  {
+   "id": "da0112:T00019",
+   "source_sha256": "b39bc661521034bea5d55619352eed3d01a3360fc778e255e7591ea4e060c5ca",
+   "ko": "베스파시아누스의, 세 인면창이 동시에 울부짖는다."
+  },
+  {
+   "id": "da0112:T00020",
+   "source_sha256": "e8e5743b996b74865f67963e81bb1b95e9efd949a9aeac50593a6adea2139d47",
+   "ko": "인면창의 외침은 불가시의 장벽이 되어, 파멸의 바람을 물리친다."
+  },
+  {
+   "id": "da0112:T00021",
+   "source_sha256": "7a71236c54d368eea75bb1f6623babd782f81cd5a0d4989602e01e5a853e976e",
+   "ko": "하지만 베스파시아누스의 얼굴에는, 역력한 초조함이 떠올라\n있었다."
+  },
+  {
+   "id": "da0112:T00022",
+   "source_sha256": "a0a9f8c8f10f7c466b81b6a2b0e37c22e4e6e9762a55118cea24eb49e08552a7",
+   "ko": "「하스터의 "
+  },
+  {
+   "id": "da0112:R00001",
+   "source_sha256": "bf22736b6a8aaf8bb99ab3748d82a7ade799f0030bfb823caaf89441272911bb",
+   "ko": "바람",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0112:T00023",
+   "source_sha256": "84d78acd2c47f524ff8945e0473efdfb0d3752d8da7297082db17a1c78b8bbd2",
+   "ko": "마풍"
+  },
+  {
+   "id": "da0112:T00024",
+   "source_sha256": "0269782aee245d7f01ef14a301a1cd2ee67d4f8d816b7e295709e9b1792aafc8",
+   "ko": "이라고!?」"
+  },
+  {
+   "id": "da0112:T00025",
+   "source_sha256": "36216613a612a08e7cebdd04c2a2255de64cce4ec364ba0ae5e08b8707f30b90",
+   "ko": "하스터라는 이름에, 한 꼬맹이를 떠올린다."
+  },
+  {
+   "id": "da0112:T00026",
+   "source_sha256": "5a909ad3ec3856d88dca0882c36c9fc2a0e6e809ec83f46ec0c07f224d507452",
+   "ko": "이 베스파시아누스와 마찬가지로, 이 세계에는 존재할 리 없는 마인."
+  },
+  {
+   "id": "da0112:T00027",
+   "source_sha256": "b58ef3ebd3caea9b7780693ee6a22542a3ecbbc1f5534e46548cb6fa019cb5dc",
+   "ko": "하스터의 주력을 받은, 안티크로스 중 한 명."
+  },
+  {
+   "id": "da0112:T00028",
+   "source_sha256": "532920ceb6ab519a1376aa3b07a64a603e3e95db9db183ff8044268fbf6581dd",
+   "ko": "하지만, 이 바람을 다루는 자는 다르다."
+  },
+  {
+   "id": "da0112:T00029",
+   "source_sha256": "b95536d0404426c567838fe8f04e2426f3f7d8387d9992c91563d594f2ad40e1",
+   "ko": "방출된 바람은, 초음속으로 비상하는 비행체가 남긴 충격파다."
+  },
+  {
+   "id": "da0112:T00030",
+   "source_sha256": "0dc469cd10a6f3c611583fdeb5a56e44a32088eeb66b37374b170e994373fb5b",
+   "ko": "육안으로 확인할 수 없는 속도로 날던 그것은, 지금은 상공에서 천천히 크게 호를 그리며 선회한다.\n\n　곤충 같기도 하고 박쥐 같기도 하고 기계 같기도 한――실로 기묘한 비행체였다."
+  },
+  {
+   "id": "da0112:T00031",
+   "source_sha256": "98a10de96956faa54d219c313a6f6e841f340ef4ad227b5c67b6e619c4439341",
+   "ko": "「한눈팔고 있을 때가 아닐 텐데, 미스터」"
+  },
+  {
+   "id": "da0112:T00032",
+   "source_sha256": "1cd70755e1758636a20bc4788d38ae5e9d5a2e1994ebfe8daf4278d7935cff8c",
+   "ko": "「크윽!?」"
+  },
+  {
+   "id": "da0112:T00033",
+   "source_sha256": "22718de21207305d812451cb42b759fc5c3fbf077299b581e1aefee6a490ac63",
+   "ko": "언제부터 거기에 있었던 것일까."
+  },
+  {
+   "id": "da0112:T00034",
+   "source_sha256": "270f99e80ed912dbcb9660dd7545331872a9e55df463f83e1a64e2b19d419737",
+   "ko": "기척조차 느끼게 하지 않고, 그 노인은 베스파시아누스의 등 뒤에\n서 있었다."
+  },
+  {
+   "id": "da0112:T00035",
+   "source_sha256": "90f2c6aeba8bfeeb9a39082e127eeffff2321b354c9a0b1ab4fd9be1136cd0b1",
+   "ko": "「당신도, 그 애송이와 동류인가?」"
+  },
+  {
+   "id": "da0112:T00036",
+   "source_sha256": "e6a83c57795647a16b43db2eab8d9bf42f8d26cecf2699e5147135bbe2af6d28",
+   "ko": "노려보는 듯한 몸짓."
+  },
+  {
+   "id": "da0112:T00037",
+   "source_sha256": "fc64248635d5134698befeaff0760429b789d51c758113b1ea35f7a572d374c3",
+   "ko": "하지만 그 눈의 움직임은, 선글라스에 가려져 있어 알 수 없다."
+  },
+  {
+   "id": "da0112:T00038",
+   "source_sha256": "5fa8a379f83a7e274d250273bd2701228de83e40097d97f838138a7e89b77ac1",
+   "ko": "「큭……」"
+  },
+  {
+   "id": "da0112:T00039",
+   "source_sha256": "a2592b5c4895bc04b443ec054aca0a6d7ccec0ea6025cfb2164ed7b647a0d836",
+   "ko": "위험을 느낀 베스파시아누스가, 인면창의 주력을 해방하려\n한다."
+  },
+  {
+   "id": "da0112:T00040",
+   "source_sha256": "c582430f42a14393cc19df0d5a40f6cc718d27adc0e92e2f3b299af628c974c7",
+   "ko": "하지만 선글라스를 쓴 노인의 움직임은 그보다 빨랐다."
+  },
+  {
+   "id": "da0112:T00041",
+   "source_sha256": "4df2e69a7108e3b80fb66427242dd9a61f67d69a6478d988aea89cae0279bcad",
+   "ko": "노란 누더기 천이 소맷부리에서 뻗어 나온다."
+  },
+  {
+   "id": "da0112:T00042",
+   "source_sha256": "6d1ed8e32aeb439b496f5184193cad294fb4d676beb53122cc873e89bca58551",
+   "ko": "누더기 천은 베스파시아누스에게 휘감겨, 전신을 구속했다."
+  },
+  {
+   "id": "da0112:T00043",
+   "source_sha256": "3d3b86927f9160b5424fe4233fd77312bd523e108aa75007f477de0e3cf20fa3",
+   "ko": "「그…… 으으……!」"
+  },
+  {
+   "id": "da0112:T00044",
+   "source_sha256": "29d1c68e4dcf4a7191adad17315cbdaf27a0da50ae799b896ad6e3768718b6e7",
+   "ko": "「레이디, 끝장내 버려라」"
+  },
+  {
+   "id": "da0112:T00045",
+   "source_sha256": "f20ccb417d70e40ead2ec898373188dec088781af65a894ae592a1e4a67aea62",
+   "ko": "선글라스를 쓴 노인이 크게 뒤로 물러났다."
+  },
+  {
+   "id": "da0112:T00046",
+   "source_sha256": "0a07e7e0f39fc40eeb2740905dbe40d7b7162fe951f11e65d5d3e2229cf73c5e",
+   "ko": "노인의 손을 떠나서도, 노란 천은 더욱 강하게 베스파시아누스를 죄어든다."
+  },
+  {
+   "id": "da0112:T00047",
+   "source_sha256": "7e59cf53f4eeb5a115df7e532eb09ef8cf7213e80f97715e4c3151c3bc7e0d79",
+   "ko": "「조금 세게 갈게」"
+  },
+  {
+   "id": "da0112:T00048",
+   "source_sha256": "255549c9256160bcb9385f06e41acba568163f800b3030d66b2d232f8d40926e",
+   "ko": "상공을 선회하던 비행체가 움직임을 바꾸었다."
+  },
+  {
+   "id": "da0112:T00049",
+   "source_sha256": "6ff3fb32b9c255c2a6cf823f2275557d7f00a01051477b74d37a298c0ba757dd",
+   "ko": "베스파시아누스의 상공에서 급상승."
+  },
+  {
+   "id": "da0112:T00050",
+   "source_sha256": "3175c9abcad15231d8aa49387bbdbae442c7c7a93b2f93b4d2bbded23f2efa35",
+   "ko": "단숨에 Ｕ턴하여, 이번에는 수직 각도에서의 급강하."
+  },
+  {
+   "id": "da0112:T00051",
+   "source_sha256": "4292cff1e62c348d8535c90e723b07f116ad3d20b1e9633a5f198d3d1ca656b8",
+   "ko": "「……어이어이」"
+  },
+  {
+   "id": "da0112:T00052",
+   "source_sha256": "f7e463947767b652accf224b74abcc8bf41cff10daf24aaf6fc5fa0987c99515",
+   "ko": "비행체는 한순간에 음속을 넘어, 빛이 되었다."
+  },
+  {
+   "id": "da0112:T00053",
+   "source_sha256": "55e0b0926cff2ddb3dfd2fc7a3dc6fa4016b41cc1a4c61ec48d95cabb6820522",
+   "ko": "낙뢰 같은 광선이 베스파시아누스째로 대지를 꿰뚫는다."
+  },
+  {
+   "id": "da0112:T00054",
+   "source_sha256": "873a0a86b6db4aa2fc659f9d6fed968354a73f46b84368a46a639f8ef1b21d85",
+   "ko": "「――――!」"
+  },
+  {
+   "id": "da0112:T00055",
+   "source_sha256": "f7e00dca8de747a4b63ae0d88a9ba2eea44fac21ce9333341f39a982cfff5c40",
+   "ko": "「그오아아아악!?」"
+  },
+  {
+   "id": "da0112:T00056",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0112:R00002",
+   "source_sha256": "916cafe9495cdd694d98660001477b346aca0dd2f3abfddc600aef1009e0a515",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0112:T00057",
+   "source_sha256": "3265cdd08afe9532de5fa77802f8ad8c6ab37a09b71eed9a33030f7cfc81830d",
+   "ko": "어찌 이"
+  },
+  {
+   "id": "da0112:T00058",
+   "source_sha256": "afafbae591c156ee7f019d48ea7a74beb639f38112cda9fa29c06bd5dd77f5c8",
+   "ko": "리도 "
+  },
+  {
+   "id": "da0112:R00003",
+   "source_sha256": "8fe13fafa6ceb04e6a9a347a02a2c808705ae1abc82b488e4a9af198044aeb27",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0112:T00059",
+   "source_sha256": "4707231798427cb63bc6f10032dac73b1df80a869e73d081bfc5b5332d2cb74d",
+   "ko": "엉터리"
+  },
+  {
+   "id": "da0112:T00060",
+   "source_sha256": "acf0d7c59c6f447c37bb3a49617950ea1354f3b136e3157c36fd6004146d3428",
+   "ko": "란 말이냐!」"
+  },
+  {
+   "id": "da0112:T00061",
+   "source_sha256": "5482c3cc50d6e31343ced68438ed93cd1092bf97d5eb7c8e444867a6823abcc3",
+   "ko": "우리는 또다시 폭풍에 날아가 버린다."
+  },
+  {
+   "id": "da0112:T00062",
+   "source_sha256": "b6e7904575dd6f3b92e024ff307a2f839de116231e3f1cbdfe6ff3e03d0a7c98",
+   "ko": "폭심지는 무시무시한 지경이 되어 있었다."
+  },
+  {
+   "id": "da0112:T00063",
+   "source_sha256": "2569fb38f608e3c49545f31fe121aaedd2c13aa083c8b9cf1631e006e2d343f5",
+   "ko": "충격파는 마력의 믹서가 되어, 그 자리에 있는 것을 전부\n집어삼키고, 잘게 부순다."
+  },
+  {
+   "id": "da0112:T00064",
+   "source_sha256": "327939576053c9998319d955ed53049c0850f27fae7efb523817d1a14009bd71",
+   "ko": "물론, 베스파시아누스도 무사할 리가 없다."
+  },
+  {
+   "id": "da0112:T00065",
+   "source_sha256": "50219c7dce68dc98311332f755bad7203758b5349dbcd1bab89627cf6f5f4c55",
+   "ko": "붉은 꽃이 활짝 피어나듯 전신이 터져 나갔다."
+  },
+  {
+   "id": "da0112:T00066",
+   "source_sha256": "dd9c90c702d041f8d9473b5c36e48b35eee7b0b8dabadfba325d7ddd23f8b3b1",
+   "ko": "사납게 휘몰아치는 바람이 한순간에 피의 빛깔로 물든다."
+  },
+  {
+   "id": "da0112:T00067",
+   "source_sha256": "fb0f70451d9c4a81b060ebcbfed701c7c83e161750b55e36ed795ef88444af18",
+   "ko": "대지를 꿰뚫은 비행체는 어떻게 되었을까?"
+  },
+  {
+   "id": "da0112:T00068",
+   "source_sha256": "ced32b44e67bd6df94510a6ce4c1b83f0df4f80332b67779aec34df3ed0ce012",
+   "ko": "혈풍 너머를 뚫어지게 바라본다."
+  },
+  {
+   "id": "da0112:T00069",
+   "source_sha256": "62a04fe18d5c553e72e2374d273bbc365dd7b453d9bc4cd17d470677e960feef",
+   "ko": "비행체의 모습은 어디에도 보이지 않는다."
+  },
+  {
+   "id": "da0112:T00070",
+   "source_sha256": "f12c76daa717a791caf238d25bf33f3009ab4267e907cb032ce97ea97f8bc457",
+   "ko": "다만 폭심지에는, 작달막한 그림자 하나가 있었다."
+  },
+  {
+   "id": "da0112:T00071",
+   "source_sha256": "4bee37dc813712ca0b09b7f7c1fbe0f0d9666cf912c04a589a5898e71c4fa36e",
+   "ko": "흉악하게 휘몰아치는 마풍의 중심에 서 있는, 그 녀석은――"
+  },
+  {
+   "id": "da0112:T00072",
+   "source_sha256": "848ea59175f43dcf3858e4eb41431c64995b0ddc9425a1953b4b991c8d1376b2",
+   "ko": "「……여자아이?」"
+  },
+  {
+   "id": "da0112:T00073",
+   "source_sha256": "9f4f0ac5152a7b2e5106030efe6150606795de34374032d2ba4510c934436f71",
+   "ko": "「레이디, 어떤가?　숨통을 끊었나?」"
+  },
+  {
+   "id": "da0112:T00074",
+   "source_sha256": "6b498cc103d094fd962fb1eab286c736ae504c87b1368e9c3b95cb880434135d",
+   "ko": "「……모르겠어」"
+  },
+  {
+   "id": "da0112:T00075",
+   "source_sha256": "601acbbe5bd618fcf103bec331913f8378026deb50f9989bff5f0a9dbd8c1aac",
+   "ko": "휘몰아치는 마풍의 소용돌이는 서서히 작아지며, 머지않아 완전히 소멸한다."
+  },
+  {
+   "id": "da0112:T00076",
+   "source_sha256": "0b71e3f6dea7ee07a6cc8eeb3cd8564da1aa3d683bb3c1ed64428512b0f078c1",
+   "ko": "바로 그 순간이었다."
+  },
+  {
+   "id": "da0112:T00077",
+   "source_sha256": "873a0a86b6db4aa2fc659f9d6fed968354a73f46b84368a46a639f8ef1b21d85",
+   "ko": "「――――!」"
+  },
+  {
+   "id": "da0112:T00078",
+   "source_sha256": "39e0d65bce04252d20f35e99ad69642f0b033315816631a03f1f1aefbe943b3b",
+   "ko": "한 줄기 혈풍이, 마풍의 소용돌이에서 뛰쳐나왔다."
+  },
+  {
+   "id": "da0112:T00079",
+   "source_sha256": "f80279c4845f34aea1531be6b3f35b1678a6186d6e23c29e75a6d4dc83a5ea04",
+   "ko": "혈풍은 굉장한 스피드로, 이중나선을 그리며 하늘로\n솟구쳐 올라간다."
+  },
+  {
+   "id": "da0112:T00080",
+   "source_sha256": "181a3646e303df108f3bd351013a6e0e61f718599c1a7da50bcce097f4fef5ed",
+   "ko": "「기다――!」"
+  },
+  {
+   "id": "da0112:T00081",
+   "source_sha256": "2b584c72c9ee15367365f4172cf7066a77ae961a2bfc0b322cfea2bf5fcd128f",
+   "ko": "이미 때는 늦었다."
+  },
+  {
+   "id": "da0112:T00082",
+   "source_sha256": "8915869fb2e2cc183452360037567677431ca7281e080f788f1b882e27be2ec7",
+   "ko": "혈풍은 이미 하늘로 사라졌다."
+  },
+  {
+   "id": "da0112:T00083",
+   "source_sha256": "fecc2e6724abd936f71495e5055c6ef264c70dd3a335ddc637144ce913b8a8ad",
+   "ko": "소녀는, 깊게 한숨을 내쉬고는."
+  },
+  {
+   "id": "da0112:T00084",
+   "source_sha256": "bea54c300953317c333eb6a7fc302934c61400e1f461762c335ada827abdf16c",
+   "ko": "「놓친 모양이야」"
+  },
+  {
+   "id": "da0112:T00085",
+   "source_sha256": "90b23b12b1932e1405ce114fa2dd44029361e6327e52ccd4d66b32111a378e86",
+   "ko": "「그런 모양이군. 이런이런」"
+  },
+  {
+   "id": "da0112:T00086",
+   "source_sha256": "3ff9c66dbea120db15693206d2fdb67d65ef8bd2b28899e8847b336c80f43eb2",
+   "ko": "노인이 소녀의 곁으로 걸어가, 다독이듯 머리를 쓰다듬는다."
+  },
+  {
+   "id": "da0112:T00087",
+   "source_sha256": "3e0292d9d6853d5c1c4ef4c81b1f05df136d832455dd8146d5de8cf94b933910",
+   "ko": "소녀는 무표정하게 그것을 받아들인다."
+  },
+  {
+   "id": "da0112:T00088",
+   "source_sha256": "f2fc4066d66142ff7b34e2056016763f208de43010045dea4ebc50cd72ca7579",
+   "ko": "어쩐지 기분 좋아 보이지 않는 것도 아니다."
+  },
+  {
+   "id": "da0112:T00089",
+   "source_sha256": "45c138eef137b1cb24c753ad7a4ca6cb227f03c94bab7b1e839540994b1f39df",
+   "ko": "노인이 상공의 우리를 올려다보았다."
+  },
+  {
+   "id": "da0112:T00090",
+   "source_sha256": "e601e3d7d47604cf1bebeb0889cf41cb3268e45a5adab285974bc5c55d136f85",
+   "ko": "표정은 역시 선글라스 때문에 알아보기 힘들다."
+  },
+  {
+   "id": "da0112:T00091",
+   "source_sha256": "bf7f04c50afd484d9b2a21b35ab2ebb2e8c13cbbe7749ebfef9231b52a36e99d",
+   "ko": "하지만 그 어조에는, 격식 없는 가벼운 투가 섞여 있었다."
+  },
+  {
+   "id": "da0112:T00092",
+   "source_sha256": "ba6cbf8810d5fcf9cac93e3812964f8e3111ab0ac1acb7f9960a5c8233b2447c",
+   "ko": "「오래간만이군. 다이쥬지 쿠로 군」"
+  },
+  {
+   "id": "da0112:T00093",
+   "source_sha256": "2e5ebcdfd4d28e5449e03a614056c5b4338a421a3bc04a51173d4534d41837ac",
+   "ko": "「윽……」"
+  },
+  {
+   "id": "da0112:T00094",
+   "source_sha256": "3f7c3d76bdeeb93922f7ea54a550924603ce16ca59191c23d3cc0e9e2d61049b",
+   "ko": "「뭐냐?　아는 사이인가?」"
+  },
+  {
+   "id": "da0112:T00095",
+   "source_sha256": "17ae9807cdab5cf70bbf2af26ce9205bb0a79c1336d7ba315382918c2ca6ca06",
+   "ko": "「……슈루즈베리 "
+  },
+  {
+   "id": "da0112:R00004",
+   "source_sha256": "8abe22c91f0939b6aab3db77f86d607dd7063710622f9cd851250b3a7e367dbc",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0112:T00096",
+   "source_sha256": "cd98e43da31bb1b90dc152851c85c7d266d47ba97bc5ff7bd137c5920429d467",
+   "ko": "선생"
+  },
+  {
+   "id": "da0112:T00097",
+   "source_sha256": "d93a835d0f2787bcb1a759ad3a1b8fbea56d742d0b99720dbbb9ea8ace1926f8",
+   "ko": "」"
+  },
+  {
+   "id": "da0112:T00098",
+   "source_sha256": "2930a3476f6002ad5bd1f7dd12aeb1f837fb3e81424fbb5d0203bb9ec5787499",
+   "ko": "「건강해 보여 다행이군」"
+  },
+  {
+   "id": "da0112:T00099",
+   "source_sha256": "71e44c3deff0324665523a32eeacb1cd67c0848d194de657756898386653db54",
+   "ko": "「――수염, 길렀구만」"
+  },
+  {
+   "id": "da0112:T00100",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0112:R00005",
+   "source_sha256": "ef05e9c5bd344f924c1bf07769785707eed4c8d35ce8afb4a14fd94593d8d8be",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0112:T00101",
+   "source_sha256": "fc1a6dc7ac704ab829efd430b986b139bb75e7b78ba8813e32517beb44448d81",
+   "ko": "첫"
+  },
+  {
+   "id": "da0112:T00102",
+   "source_sha256": "efe5e8334bbf8cfde4c49d06c889dbb75ad35594c3e5b58c969e309bfdaf6438",
+   "ko": "마"
+  },
+  {
+   "id": "da0112:R00006",
+   "source_sha256": "89ab6e2fc261092add9506abafc50fcec3eca5a932a0fee9bcc48ee68684bc03",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0112:T00103",
+   "source_sha256": "74ec94a65d17bf0cb72fae2a3ad9b09567e4fd983c5252b7fcdf1fe1fb7d78d6",
+   "ko": "디"
+  },
+  {
+   "id": "da0112:T00104",
+   "source_sha256": "bbf50b28ee5316728057c4513f53fe6b9345a27ac5c7821fb3620593c80917de",
+   "ko": " 인사가 그거라니」"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0112:R00002",
+   "kind": "ruby_decision",
+   "note": "원문 '何(なん)て'의 루비 'なん'은 한자 '何'의 독음 안내이며, 본문(da0112:T00057~T00058)을 '어쩜 이리도'로 번역하여 의미가 온전히 전달되므로 omit_redundant 처리함."
+  },
+  {
+   "id": "da0112:R00003",
+   "kind": "ruby_decision",
+   "note": "원문 '出鱈目(でたらめ)'의 루비 'でたらめ'는 취음자 표기 '出鱈目'의 독음 안내이며, 본문(da0112:T00059)을 '엉터리'로 번역하여 의미가 온전히 전달되므로 omit_redundant 처리함."
+  },
+  {
+   "id": "da0112:R00004",
+   "kind": "ruby_decision",
+   "note": "원문 '先生(センセ)'의 루비 'センセ'는 구어 발음 안내이며, 본문(da0112:T00096)을 격식을 낮춘 '선생'으로 번역하여 어감이 전달되므로 omit_redundant 처리함."
+  },
+  {
+   "id": "da0112:R00005",
+   "kind": "ruby_decision",
+   "note": "원문 '初(しょ)っ端(ぱな)'의 루비 'しょ'는 한자 '初'의 독음 안내이며, 본문(da0112:T00101~T00103)을 '첫마디'로 번역하여 의미가 온전히 전달되므로 omit_redundant 처리함."
+  },
+  {
+   "id": "da0112:R00006",
+   "kind": "ruby_decision",
+   "note": "원문 '初(しょ)っ端(ぱな)'의 루비 'ぱな'는 한자 '端'의 독음 안내이며, 본문(da0112:T00101~T00103)을 '첫마디'로 번역하여 의미가 온전히 전달되므로 omit_redundant 처리함."
+  }
+ ]
+}

@@ -1,0 +1,84 @@
+{
+ "out": "Y:\\AI\\claude-work\\khd-release-1118\\out\\dmpack004_ko_menu.dat",
+ "sha256": "d1f49fc32ea5d5bf6f23bbfa94159ca40d47777a85dddd57a51c2211c29c5ea8",
+ "entries": [
+  {
+   "name": "data/menu/aion_list.png",
+   "from_pack": "dmpack.dat",
+   "key": 14,
+   "size": 417535,
+   "sha256": "867d14f5f84cd3e6776468c9942df54f6e0117fdd1bb58560a1bc26a75935839"
+  },
+  {
+   "name": "data/menu/anbro_list.png",
+   "from_pack": "dmpack001.dat",
+   "key": 108,
+   "size": 515848,
+   "sha256": "2502239ab1731979478692a9a0ba635f50a5d2459e3a1092f1aefc16a5dabc18"
+  },
+  {
+   "name": "data/menu/demonbane12_list.png",
+   "from_pack": "dmpack001.dat",
+   "key": 13,
+   "size": 439541,
+   "sha256": "239dbd884590dc699089d179a2e7dcca45af133b36d8ad1571f2a8ae572ea0dc"
+  },
+  {
+   "name": "data/menu/demonbane_list.png",
+   "from_pack": "dmpack001.dat",
+   "key": 187,
+   "size": 448827,
+   "sha256": "d51779b234305a6562738c467fc02d10d25ac04ddc20f9523ef42aac77d669a6"
+  },
+  {
+   "name": "data/menu/demonbaneN_list.png",
+   "from_pack": "dmpack.dat",
+   "key": 6,
+   "size": 438761,
+   "sha256": "2a7126f6629ffa3ecc2b1f08cb5ff8d6396c6e4ac38d49647d602a51d90c64c9"
+  },
+  {
+   "name": "data/menu/demonbaneS_list.png",
+   "from_pack": "dmpack001.dat",
+   "key": 125,
+   "size": 541192,
+   "sha256": "8f523bd45bec9e0b931cd21551e3ed4e5def961770583348d77fc1c7468208ec"
+  },
+  {
+   "name": "data/menu/demonbaneSN_list.png",
+   "from_pack": "dmpack001.dat",
+   "key": 236,
+   "size": 534970,
+   "sha256": "2f528a01444d17f7727ca9f7343588786c6132a85c5c30bb923764497fb152b5"
+  },
+  {
+   "name": "data/menu/hakai_list.png",
+   "from_pack": "dmpack.dat",
+   "key": 47,
+   "size": 401155,
+   "sha256": "96d5b2be2bebdf4317ecb15b1247d1928f36f28a9a19cb018fede9279931a447"
+  },
+  {
+   "name": "data/menu/liber_list.png",
+   "from_pack": "dmpack001.dat",
+   "key": 29,
+   "size": 445572,
+   "sha256": "6e17d2842530e926f7690ca727440b8cb591013edba53ae4acb1dad9ada6023b"
+  },
+  {
+   "name": "data/menu/tosword_list.png",
+   "from_pack": "dmpack001.dat",
+   "key": 190,
+   "size": 438573,
+   "sha256": "565a79138c2be733fade76df84817d5355f4a8d137883b1bd3b2311ee139993e"
+  },
+  {
+   "name": "data/menu/toswordS_list.png",
+   "from_pack": "dmpack001.dat",
+   "key": 23,
+   "size": 484800,
+   "sha256": "6edb1046066d156a431cbe637185eb7d625c58b3d20190cf7abaa925ee544a1e"
+  }
+ ],
+ "shadowed": {}
+}

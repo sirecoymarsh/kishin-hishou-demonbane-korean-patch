@@ -1,0 +1,28 @@
+{
+  "schema": "khd-gemini-response-v1",
+  "packet_id": "P0129_da9901",
+  "model_id": "Gemini 3.8 Flash (High)",
+  "records": [
+    {
+      "id": "da9901:T00114",
+      "source_sha256": "c01af793c022306fa173db88b6fe52dd954598ca6ae52621a610917d5435680d",
+      "ko": "「으으으으으으……」"
+    },
+    {
+      "id": "da9901:T00115",
+      "source_sha256": "17dc7527980c0b799b799675275a1df2afbb7778a2d93191c0085f70e3eb2653",
+      "ko": "「핫핫핫…… 그래서, 라이카 씨는 어디 나간 건데?」"
+    },
+    {
+      "id": "da9901:T00116",
+      "source_sha256": "be81d77fe5773f5338c538029b9eda685c6a682eeccc7ebcead5ac348ade650d",
+      "ko": "「음― 그러니까, 『하도재벌』」"
+    },
+    {
+      "id": "da9901:T00117",
+      "source_sha256": "76e9c25914bbd92b48bd6941d897d59755c0aae0aa7d5c2d8a73c14137531eab",
+      "ko": "「「――하아?」」"
+    }
+  ],
+  "issues": []
+}

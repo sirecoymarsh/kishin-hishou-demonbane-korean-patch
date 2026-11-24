@@ -1,0 +1,709 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0083_da0710",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0710:T00001",
+   "source_sha256": "d77a60aa341ca25e6991daa1ceb7e672e8d432bd5d1637345c9484612e6758c0",
+   "ko": "이곳은 제단이자 옥좌."
+  },
+  {
+   "id": "da0710:T00002",
+   "source_sha256": "80d42ef6dd678db2510164d448eb62cc8cabda87bec8cf7e1f3d67bbd57a2429",
+   "ko": "사그라들지 않고 타오르는 그 성화 속에서 이따금 이형의 존재의 그림자를 "
+  },
+  {
+   "id": "da0710:R00001",
+   "source_sha256": "e163ce6c9b526046cafcda0f7ece8f8c1bc9b095749f1bbb8fd5716dbdb5c2d7",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0710:T00003",
+   "source_sha256": "4cfa5d6b1e7330a134bedf7c8e200519bc721f3d7a9c932a251386287cf60064",
+   "ko": "언뜻 보"
+  },
+  {
+   "id": "da0710:T00004",
+   "source_sha256": "30f63947618e82711daa2eab39ea59b407f83a973b93472933b987f5efaecdbd",
+   "ko": "는 것은 과연 착각일까――\n\n　유현한 정적을 깨부수는 초대형 질량."
+  },
+  {
+   "id": "da0710:T00005",
+   "source_sha256": "999e3516f4df5397566c00ea02df191acf259d00f214e185ecedf17fd525fa9b",
+   "ko": "제단이자 옥좌를 이루는 "
+  },
+  {
+   "id": "da0710:R00002",
+   "source_sha256": "e6dd965dddee5aabaeb29760bda80dbf000cd5d13263ef8e8b6d16b0c9c72c9a",
+   "ko": "콜로세움",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0710:T00006",
+   "source_sha256": "16d2a5db83d2126458382991190b0adc12d36e37755b146abf9e02ec64d557f9",
+   "ko": "무대"
+  },
+  {
+   "id": "da0710:T00007",
+   "source_sha256": "45365f44310135869bb42affc119b09e4e17a177a584c42e8ed56c9caa930b03",
+   "ko": "에 전장 50미터의 기신이 내려\n섰다."
+  },
+  {
+   "id": "da0710:T00008",
+   "source_sha256": "5df48e842f4cfb3c11503d1165c10c2a8ce4e069980401bd5e597e29b61dba20",
+   "ko": "가라앉는 무대. 금이 가는 객석. 전율하듯 격렬하게 흔들리는 불꽃."
+  },
+  {
+   "id": "da0710:T00009",
+   "source_sha256": "497a41ef7fd3df769cf60f54b740211bac57a23266ba53401e12c32b3fd4931e",
+   "ko": "유현한 빛에 비추어져, 데몬베인 투 소드는 장엄한 신상처럼 "
+  },
+  {
+   "id": "da0710:R00003",
+   "source_sha256": "e5e17c4e499f8ab4c70e902f7bfb93153e0fa964dd0747eeb9c1639a17314f4a",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0710:T00010",
+   "source_sha256": "2ba4c8777d3a15226bef4c8d46ba47bd8503d5d9919bc121d3a7b5316fdd97c4",
+   "ko": "우뚝 솟"
+  },
+  {
+   "id": "da0710:T00011",
+   "source_sha256": "815efc2b592ff22de510aa625c9b30a5cdc25183a47342f7eea9795dff61a678",
+   "ko": "아 있다.\n\n　그 거체는 공간의 대부분을 점거하고, 기체에 드리운 그림자는 기분 나쁘게\n"
+  },
+  {
+   "id": "da0710:R00004",
+   "source_sha256": "86261182463e378d15e8042a7b1d817137521eb7f87e108cf6e2bbf1ef1ac6cf",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0710:T00012",
+   "source_sha256": "3030235d7d109b93f1d76328981e54b2760dd9d3394bd0e6eb93e40825f52a1f",
+   "ko": "일렁"
+  },
+  {
+   "id": "da0710:T00013",
+   "source_sha256": "8adb08dab736d44cd04f058732d7325c794e493b60747cca6005f30cd0c14d7f",
+   "ko": "인다.\n\n　어스름을 뒤흔들며 기신은――쿠자쿠는 외쳤다."
+  },
+  {
+   "id": "da0710:T00014",
+   "source_sha256": "7ce0b83b1d8d2c01ae88ff5ab96b8b66d40157425a9c6822294103b722dcde96",
+   "ko": "「나와라, 어나더 블러드!\n　시시한 "
+  },
+  {
+   "id": "da0710:R00005",
+   "source_sha256": "e0105e25c0c15dacb2f6dac55b08c3bb7d99dbd382e48d360ee6988bc1cee405",
+   "ko": "벌레스크는",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0710:T00015",
+   "source_sha256": "48611d025f6935b85579837a1915cad2316625f0d6281e50eb82fd0f06f7a61a",
+   "ko": "삼류 연극은"
+  },
+  {
+   "id": "da0710:T00016",
+   "source_sha256": "79940c94013ef5d87e2c9909241dc5aed395f4e18d41f787f91692c8c49aa0dc",
+   "ko": " 이걸로\n　끝이다!」"
+  },
+  {
+   "id": "da0710:T00017",
+   "source_sha256": "a94640ab3f1854cb812cefc5272e982e1492db7fb37fa765b34baf315818dcf6",
+   "ko": "메아리치는 목소리."
+  },
+  {
+   "id": "da0710:T00018",
+   "source_sha256": "29c8f0baae48636034c4b1401e76181d255b96b799f1dc257fb6dac138dedd0a",
+   "ko": "공허하게 어둠에 삼켜져 간다."
+  },
+  {
+   "id": "da0710:T00019",
+   "source_sha256": "e5a6272a0d0d708ca6d808205730a5017ec0ff0171c148e0a5f237c1fa37a203",
+   "ko": "있는 것은 오직 정적뿐."
+  },
+  {
+   "id": "da0710:T00020",
+   "source_sha256": "bb88763236786b2835da06bd79a61b21ae6d17578dfb856ae8b058d2b2302152",
+   "ko": "「……전에도 말했지.\n아무리 해도 모습을 드러내지 않겠다면\n――무대째로 베어 넘겨 주마」"
+  },
+  {
+   "id": "da0710:T00021",
+   "source_sha256": "ec15f5cb7ee6152e35da45503eae7b865e166247e95cb5f243367cb479a61c26",
+   "ko": "쌍검을 겨눈다."
+  },
+  {
+   "id": "da0710:T00022",
+   "source_sha256": "4d93af3f363c2945bdd5a2d5d44a2a0287c0e10d1236aaa4951f0b72305705b7",
+   "ko": "도신을 "
+  },
+  {
+   "id": "da0710:R00006",
+   "source_sha256": "def18b1f5631a74e05ec0b6234a8e199275e5d1402ba14bd2874890cc7171a98",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0710:T00023",
+   "source_sha256": "781fa27755d19bd64eb016769714d5f5a27660c4c8b04d266dd1c639a286b670",
+   "ko": "달리"
+  },
+  {
+   "id": "da0710:T00024",
+   "source_sha256": "f7346b9180a3eec06ecd044a078498249f3a1b795d32b014ee06c99ac6aea8d6",
+   "ko": "는 반짝임."
+  },
+  {
+   "id": "da0710:T00025",
+   "source_sha256": "27c0ed64630a2a5b2dfa8079c145decd31c64dd7f18c7aab37d94fada694cc6a",
+   "ko": "바람이 마력을 품고 휘몰아치며, 부서져 가던 옥좌의 방을 더욱 잘게\n씹어 부수어 간다."
+  },
+  {
+   "id": "da0710:T00026",
+   "source_sha256": "a57c33f21984c04e5bcb8e0329b09877d39a4e254262dd5aae36457f2ae58602",
+   "ko": "「사라져라」"
+  },
+  {
+   "id": "da0710:T00027",
+   "source_sha256": "837088fb278411a07bff622aea6019247daacb8ad2ebd686e13ab388516dd794",
+   "ko": "쌍검을 내리치려 하는 바로 그 순간."
+  },
+  {
+   "id": "da0710:T00028",
+   "source_sha256": "4ed1567ac693708bb8ef4c4779b916a26a50f105aceae1fc03ca77858eb0dfaa",
+   "ko": "「――신성한 『몽환심모』 안에서의 난동,\n용서할 수는 없군. "
+  },
+  {
+   "id": "da0710:R00007",
+   "source_sha256": "6a8935c5587aa636c1a9345a016515d7aad23f1555fb04da78faafbe251ad69d",
+   "ko": "나이트 오브 투 소드/투 건",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0710:T00029",
+   "source_sha256": "98ee1ba0f989023a062cc993c61aed6ce6bb3ecfa33dd77182da7009bf6bf231",
+   "ko": "『이투류』의 기사"
+  },
+  {
+   "id": "da0710:T00030",
+   "source_sha256": "d93a835d0f2787bcb1a759ad3a1b8fbea56d742d0b99720dbbb9ea8ace1926f8",
+   "ko": "」"
+  },
+  {
+   "id": "da0710:T00031",
+   "source_sha256": "008fe454cbc026893dd06558a2fe0fc4a685f109adc23ec439e32620d19e3e09",
+   "ko": "그 남자는 홀연히 모습을 드러냈다."
+  },
+  {
+   "id": "da0710:T00032",
+   "source_sha256": "6778ed5301abd76317c937179094c2b53352e1c294f73d7405f3d53eb9ea8894",
+   "ko": "옥좌 옆에 서 있는 거무스름한 피부의 남자."
+  },
+  {
+   "id": "da0710:T00033",
+   "source_sha256": "c59e65e819df2aa3525e97d8f9344f6e917fe081a30bc445ac37cd7bc438c44c",
+   "ko": "D 투 소드를 올려다보는 눈동자에 깃든 사악한 안광.\n\n　아우구스투스."
+  },
+  {
+   "id": "da0710:T00034",
+   "source_sha256": "53a25129a8d0660c557f71ad159925ce6ee3353e35d62b89919ad276e6b761f6",
+   "ko": "대도사 마스터 테리온에게 반기를 든 야심의 안티크로스.\n\n　데몬베인을 고전시켰을 정도의 마력을 지닌 대마술사를 앞에 두고도, 쿠자쿠의 마음은 차갑게 식어 있다."
+  },
+  {
+   "id": "da0710:T00035",
+   "source_sha256": "118ca87cd81f102ce8940b2eaaa922e451e5fb87d902c76eb54a350f334d258b",
+   "ko": "「……피라미인가」"
+  },
+  {
+   "id": "da0710:T00036",
+   "source_sha256": "cfbb325c49a9dea4613a43ef102d31e0d6ab611ef20265c2a0b4c49ff8f6dc9f",
+   "ko": "시시하다는 듯 내뱉는다."
+  },
+  {
+   "id": "da0710:T00037",
+   "source_sha256": "099df33fbc87f57cb218e96d38b4be6d7c2571e918307618b9dcee23bc662100",
+   "ko": "쿠자쿠의 말에 아우구스투스는 대담한 미소로 응수했다."
+  },
+  {
+   "id": "da0710:T00038",
+   "source_sha256": "55227950199451553512afb2dfc0b4bec6ace8dbdd4b616a5a03e0cd107bc772",
+   "ko": "「훗…… 요즘 기사는\n　예의를 "
+  },
+  {
+   "id": "da0710:R00008",
+   "source_sha256": "ca0362570303ebd3c90b65f5b3777528afcdddf578cc55f1696c8d066f8f4f14",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0710:T00039",
+   "source_sha256": "94dfd066633ff6145a0d3b5077698c1a9e024bc7f1e3a78ecfac76b523c0e925",
+   "ko": "차리"
+  },
+  {
+   "id": "da0710:T00040",
+   "source_sha256": "9de6a1fe953c8e8dbc9edf469e04960674c0049400c2cf0f29084b1487ce5f69",
+   "ko": "지 못하는 모양이군」"
+  },
+  {
+   "id": "da0710:T00041",
+   "source_sha256": "a8265971fb3a8d23a5a4f732161c7418e961cb9e90f3cda4624733f493ec76bb",
+   "ko": "「지껄여라, "
+  },
+  {
+   "id": "da0710:R00009",
+   "source_sha256": "d5501c3b1044fa2a73cee0092f41267924abfb07a242f610f12cc38a452ebd37",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0710:T00042",
+   "source_sha256": "e0da0d079ce82644b61b4d6377ca19db39a61b9c916b615a5e9e4f1a95b9d9cc",
+   "ko": "티끌"
+  },
+  {
+   "id": "da0710:T00043",
+   "source_sha256": "77c3f39e504a25536677a21bc63017c5cef93f4ef2955b740fb70895f5f4d052",
+   "ko": "만도 못한 놈.\n네놈 같은 비천한 자에게 예를 다할 정도로 기사의 긍지는 값싸지 않다」"
+  },
+  {
+   "id": "da0710:T00044",
+   "source_sha256": "27b51af167960c71380cbbf39ad4a688cba2d27587349406075877b1eb44927c",
+   "ko": "「그 오만함…… 과연. 어미를 빼닮았군」"
+  },
+  {
+   "id": "da0710:T00045",
+   "source_sha256": "f63e338a9fae446f20ae3d105f2318d7c4d921eff8749a1d9931f4bd94dd5f65",
+   "ko": "「…………」"
+  },
+  {
+   "id": "da0710:T00046",
+   "source_sha256": "ab32b54081c0b091f38044f1966d21cdf0b56c202c07677bd01fa3eb67dfda3b",
+   "ko": "「그리고 그 어리석음은――아비를 빼닮았어」"
+  },
+  {
+   "id": "da0710:T00047",
+   "source_sha256": "cb456a4acbed7cf92fbaaec8e8b1b726d62fe4308f00041742c692b40dbad2bd",
+   "ko": "보이지 않는 충격이 솟구친다."
+  },
+  {
+   "id": "da0710:T00048",
+   "source_sha256": "dae8dd7b59574ab56c0f1378d6bebe5fd8baa99f489f5b31cc09d3ae831817dd",
+   "ko": "더욱 금이 가는 옥좌의 방.\n\n　D 투 소드에서 뿜어져 나온 투기다."
+  },
+  {
+   "id": "da0710:T00049",
+   "source_sha256": "990375f9dd532914807ca7c32eb1cbd4ecbaeb33448779c95b5f42284c25b4d0",
+   "ko": "기체를 통해 쿠자쿠의 살기가 아우구스투스에게 꽂힌다."
+  },
+  {
+   "id": "da0710:T00050",
+   "source_sha256": "42f68a2115bd643f0bf0fcf5731099fc1d071ac86df588ab673717f91e075d25",
+   "ko": "「……잘도 짖었구나, 천한 놈.\n　벌레처럼 볼썽사납게 죽는 것\n　을 허가한다」"
+  },
+  {
+   "id": "da0710:T00051",
+   "source_sha256": "48e81801da6d070c74dc361a1ef0eaafdd11a636f557e528c20ab841ae9198c2",
+   "ko": "「――"
+  },
+  {
+   "id": "da0710:R00010",
+   "source_sha256": "4b85f47183d64fe12b3e1a401767c375443263604d235989fc4d5609ce411a17",
+   "ko": "DRAW YOUR GUN",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0710:T00052",
+   "source_sha256": "0d81a1a25b335a767925377ae7d5f948fcbd1487329f66365fd0f22b0f0f7a89",
+   "ko": "귀계신을 불러라"
+  },
+  {
+   "id": "da0710:T00053",
+   "source_sha256": "d93a835d0f2787bcb1a759ad3a1b8fbea56d742d0b99720dbbb9ea8ace1926f8",
+   "ko": "」"
+  },
+  {
+   "id": "da0710:T00054",
+   "source_sha256": "b788899995e9d0df766527097140cdacf49afa1104b48c2b12713f8ec6998685",
+   "ko": "「하하…… 후하하하하……\n　후하하하하하하하하핫!」"
+  },
+  {
+   "id": "da0710:T00055",
+   "source_sha256": "9d957c66c55595e520bf230e8439eba8eeb82cdd300ec7a703f629d066494971",
+   "ko": "보통 사람이라면 심장이 파열될 정도의 기백을 정면으로 받아 내고도,\n아우구스투스는 "
+  },
+  {
+   "id": "da0710:R00011",
+   "source_sha256": "2895ce20a7385bc2cc182870401439c7986e12de3e6b4a814eefe718fb782e64",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0710:T00056",
+   "source_sha256": "7d6138514a0c0834cb7bc9c99385ee163992546d57153c8fff6f360598341900",
+   "ko": "홍소"
+  },
+  {
+   "id": "da0710:T00057",
+   "source_sha256": "5d33d0450e74a70120246b4c6283281a4a394e159e7f2d96df071ac7e12e3d12",
+   "ko": "를 터뜨리고 있었다."
+  },
+  {
+   "id": "da0710:T00058",
+   "source_sha256": "142d95156acd0f8a930a95f5506de33e610b53d9c6c6ba8f3fb70310adf108b4",
+   "ko": "아무것도 없는 허공에 금빛이 생겨나, 도깨비불처럼 아우구스투스의 주위를 부유한다."
+  },
+  {
+   "id": "da0710:T00059",
+   "source_sha256": "7c1a901041ab3a22d8d4d29fd907cd5495cbc623b568ae30b1666bb659c725ef",
+   "ko": "실체를 맺는 빛."
+  },
+  {
+   "id": "da0710:T00060",
+   "source_sha256": "37a5283de9db2562e2484101bbdb9315ddd42415c723cc73285973d10c34ec33",
+   "ko": "그것은 전 13권으로 이루어진 서적."
+  },
+  {
+   "id": "da0710:T00061",
+   "source_sha256": "885b89339864d04c00293f80e2fc5178cc0c4d288f318249f8eba9451395812e",
+   "ko": "마도서 『황금가지』다."
+  },
+  {
+   "id": "da0710:T00062",
+   "source_sha256": "370ea397215e011a5b2b78082e8c5bab0685a99c77f70acf61c01c0dfea109c7",
+   "ko": "13권의 마도서가 동시에 펼쳐진다."
+  },
+  {
+   "id": "da0710:T00063",
+   "source_sha256": "fb3ddd90ad774ba3cfabe5616c578f1beb311d74fedab5fc90e6e8851ef09484",
+   "ko": "펼쳐진 "
+  },
+  {
+   "id": "da0710:R00012",
+   "source_sha256": "2bb9df2369234dd1a09c594d05bb8f486a403b25224bff5eeb85f6e147b6bbbb",
+   "ko": "페이지",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0710:T00064",
+   "source_sha256": "87fc7f9029cb3830bc99efbf631b743a6abb399b4c3af33a2ce9a06db26a5c12",
+   "ko": "책장"
+  },
+  {
+   "id": "da0710:T00065",
+   "source_sha256": "00ff9a234592d6f8600e7895e0eec4fb97cda757431eaceccfa501344f1deddc",
+   "ko": " 너머에서 넘쳐흐르는 빛의 가지. 황금의 가지."
+  },
+  {
+   "id": "da0710:T00066",
+   "source_sha256": "87e354e0ed1dce216f29c9cbddebcdf9988737cd58568afc311e072784f0efd7",
+   "ko": "황금의 가지는 무수히 분기/복잡한 경로를 더듬으며 신장/가지와 가지는 복잡하게 얽혀――"
+  },
+  {
+   "id": "da0710:T00067",
+   "source_sha256": "32d68737a44c1d7eb9095b2efc1ae6e49a084f0e4d567a1817980f09c2eeb010",
+   "ko": "뻗고/뻗고/뻗고/뻗고/뻗고/뻗고/뻗으며/"
+  },
+  {
+   "id": "da0710:T00068",
+   "source_sha256": "2ab6ba9d6ea9a792e9942083844e979a350ceaef303f7390b97e33a7d39cf765",
+   "ko": "솟고/솟고/솟고/솟고/솟고/솟고/솟고/솟고/솟고/솟고/솟으며/"
+  },
+  {
+   "id": "da0710:T00069",
+   "source_sha256": "4bbf974e34ed3c538b497362badda0025e8c96b93de43b3d23ce6f97d788d501",
+   "ko": "퍼지고/퍼지고/퍼지고/퍼지고/퍼지고/퍼져서,"
+  },
+  {
+   "id": "da0710:T00070",
+   "source_sha256": "3a968c9ad37a83fd0e063f640b0d7a194b385c18a711afe1cd701dfc5cc6f362",
+   "ko": "엮여 들어가는 금세공. 정교하게 조립되어 가는 예술.\n\n　금세공은 D 투 소드보다도 거대하게 성장하여, 그 안에 내포된 마력은 물리적인 중압을 얻는다.\n\n　터무니없는 질량의 기척."
+  },
+  {
+   "id": "da0710:T00071",
+   "source_sha256": "9777fd454a461eddc33bd228481735bcfe90e4584d3d12d78ad394c535c3bff3",
+   "ko": "금이 간 "
+  },
+  {
+   "id": "da0710:R00013",
+   "source_sha256": "e6dd965dddee5aabaeb29760bda80dbf000cd5d13263ef8e8b6d16b0c9c72c9a",
+   "ko": "콜로세움",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0710:T00072",
+   "source_sha256": "16d2a5db83d2126458382991190b0adc12d36e37755b146abf9e02ec64d557f9",
+   "ko": "무대"
+  },
+  {
+   "id": "da0710:T00073",
+   "source_sha256": "93fa9bc83e4aa8ecc79d2333ac1be4bb91b87c92832470d771fb2776030279e6",
+   "ko": "의 강도는 한계에 달해――"
+  },
+  {
+   "id": "da0710:T00074",
+   "source_sha256": "4635b0aa8a00f7ba44509ed946fce0c66c62f5131a66bc0745bcc22ff09585e1",
+   "ko": "「――그럼 나의 "
+  },
+  {
+   "id": "da0710:R00014",
+   "source_sha256": "73ac229cabfac277c315b4b0d1eb76959473af07f58c11d00bb82a06b250745a",
+   "ko": "데우스 마키나",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0710:T00075",
+   "source_sha256": "762524a979d84688362b8dc00d54c75a1be10d7917ed188fd55985924c885e49",
+   "ko": "귀계신"
+  },
+  {
+   "id": "da0710:T00076",
+   "source_sha256": "c558123ed935957d06e2169502b723a14cf6b4c92d762a7fdbb5f16bb1a5b117",
+   "ko": " 레거시\n오브 골드가 상대해 주지!」"
+  },
+  {
+   "id": "da0710:T00077",
+   "source_sha256": "32e09fe1bdba71ed320fce3b3572020cf3cf970ba328f1bc4957460613c93b61",
+   "ko": "「――윽!」"
+  },
+  {
+   "id": "da0710:T00078",
+   "source_sha256": "28ef6988cd617c618e20421fb0dc10b21e7ee9a894787249d19d371b7ebf5a9d",
+   "ko": "붕괴한다."
+  },
+  {
+   "id": "da0710:T00079",
+   "source_sha256": "78bc84e7d978196bec0be0eba14e0a9eec731b670576908c6a215bdc2a5a9323",
+   "ko": "D 투 소드가 크게 가라앉는다.\n\n　산산이 부서지는 무대. 무너져 내리는 발판."
+  },
+  {
+   "id": "da0710:T00080",
+   "source_sha256": "0ad2a4b42822cc86abe5a32307e6b962121d25961bd79a799390df8318a04eef",
+   "ko": "그 아래는 밑바닥 없는 어둠."
+  },
+  {
+   "id": "da0710:T00081",
+   "source_sha256": "0a042821445bdd22e077e7aa38c30a0c052ee527c26d9d46df276c425fefa7de",
+   "ko": "추락한다."
+  },
+  {
+   "id": "da0710:T00082",
+   "source_sha256": "6ef6d14f5d33c0d98ce61193b4c7e5d2871f27b12f7964046f2cfc19af3b9490",
+   "ko": "모든 것은 심연의 저편으로."
+  },
+  {
+   "id": "da0710:T00083",
+   "source_sha256": "decf74250dc6d30a1aa7a869f80c5f7d16b70b4cd0499b6f57baaab052077f88",
+   "ko": "「큭……!」"
+  },
+  {
+   "id": "da0710:T00084",
+   "source_sha256": "acff56884858c2820eff207855ca4400dbe13d803530d295875713e5086166a2",
+   "ko": "「악몽이여! "
+  },
+  {
+   "id": "da0710:R00015",
+   "source_sha256": "798a829d5bbf96fa300c2c97a0be18727d9a48961f59efd7d55c0a3fc1c9fab2",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0710:T00085",
+   "source_sha256": "1613314fb0cc84d73b2598b9557f8ffd74147cd25453a8158347e85f8749b03e",
+   "ko": "현세"
+  },
+  {
+   "id": "da0710:T00086",
+   "source_sha256": "466f539509ce7c7c5d34ac49dd0e3a44f861f800b6d5833bd71d52adb94a924b",
+   "ko": "에 감염하라!」"
+  },
+  {
+   "id": "da0710:T00087",
+   "source_sha256": "c15b14715cd3948938d75cd8ca06704aaa313dcdb5f1e5f5c6264828b423b60e",
+   "ko": "황금의 충격."
+  },
+  {
+   "id": "da0710:T00088",
+   "source_sha256": "fd6af501e200ab197668c74819dba6ce425b6982045d9d18117eaba9cd903145",
+   "ko": "금빛 섬광이 어둠을 밀어낸다.\n\n　『황금가지』가 엮어 내는 거대한 금세공에 "
+  },
+  {
+   "id": "da0710:R00016",
+   "source_sha256": "c487f6c74288ab019961e56aef522e3c87d5dc00cef31baca8f8cb4f04f304e1",
+   "ko": "마키나가",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0710:T00089",
+   "source_sha256": "42abb81858b58c542ba8635c47c09e09ef5514d1b8fc0c6e1c6949d8337c77a8",
+   "ko": "생명이"
+  },
+  {
+   "id": "da0710:T00090",
+   "source_sha256": "4302f5a11a22e361c08c6943de79dd9ae8a9b545079ec820ec75c562ba900dab",
+   "ko": " 깃든 것이다."
+  },
+  {
+   "id": "da0710:R00017",
+   "source_sha256": "e335ab9dd44097d0017fb9bad5f7a401023cd7c84c3739148c7032df32ff6390",
+   "ko": "아트",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0710:T00091",
+   "source_sha256": "92f6a3f8d673baae5c915629cc3565d1eef997e6eebedad878797e9e86b3b1dd",
+   "ko": "예술"
+  },
+  {
+   "id": "da0710:T00092",
+   "source_sha256": "e3b21956ce958d2599e4e122f5395b8bb776552bd4ceae0c6bec80e4f73a2905",
+   "ko": "이 "
+  },
+  {
+   "id": "da0710:R00018",
+   "source_sha256": "c487f6c74288ab019961e56aef522e3c87d5dc00cef31baca8f8cb4f04f304e1",
+   "ko": "마키나",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0710:T00093",
+   "source_sha256": "81c946eaa0779951bd08ebc4db804dc22b1d2b834bbe846f1991b279690e015a",
+   "ko": "기계"
+  },
+  {
+   "id": "da0710:T00094",
+   "source_sha256": "841f3826aac717e2aef6af17327e455bac96cbe25d8bb5acea1d412799e4c9cd",
+   "ko": "로서 완성된 것이다."
+  },
+  {
+   "id": "da0710:T00095",
+   "source_sha256": "81972abfc395eb4865fd5f82d676394a86f970c2cddaf80825a0abb74471f2e5",
+   "ko": "――귀계신 레거시 오브 골드!"
+  },
+  {
+   "id": "da0710:T00096",
+   "source_sha256": "7c4d149cf16d6cc1b7636d4c0bf25a16bdbe82acdc61f93a2b6e40d360887da8",
+   "ko": "「우오오오오오오오오오오오!」"
+  },
+  {
+   "id": "da0710:T00097",
+   "source_sha256": "3a5cede7d7c771561913e55d43076025dbeb88474688dc3af7782768cafc56dd",
+   "ko": "추락하는 D 투 소드의 손바닥에 두 자루의 마총이 현현한다."
+  },
+  {
+   "id": "da0710:T00098",
+   "source_sha256": "a89a14d7d3182b125ab5d3db61d4ecbc3147d8046df8e77507de3fa93113532c",
+   "ko": "겨눈 총신, "
+  },
+  {
+   "id": "da0710:R00019",
+   "source_sha256": "f82ba0b74230562fc2c2c595d971367df84eed2e2861c036af2c6d71381e077f",
+   "ko": "플라스마",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0710:T00099",
+   "source_sha256": "e1a3baadc08f596502a0613865aeea5db547cef231775ffc3f1813ac669d8572",
+   "ko": "섬광"
+  },
+  {
+   "id": "da0710:T00100",
+   "source_sha256": "427566260604d16fb4a900e51400dd5dfac2ef749901179434735f0d0008d100",
+   "ko": "과 "
+  },
+  {
+   "id": "da0710:R00020",
+   "source_sha256": "30044562086d5c34328105a753cbaacb3a2c4d1b46a55024b5b3d1837b98ef58",
+   "ko": "다이아몬드 더스트",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0710:T00101",
+   "source_sha256": "cd71097c3c7ada44fa7293ff37ad6d1b933a7acbe57c4f312d257c74f1251d32",
+   "ko": "얼음 안개"
+  },
+  {
+   "id": "da0710:T00102",
+   "source_sha256": "1528265f0e850165df36511da204276104111755f09b147e4088b45bd26f7713",
+   "ko": "를 두른다."
+  },
+  {
+   "id": "da0710:T00103",
+   "source_sha256": "7c7f99df478d0380f7c4dd3dbe6e4664a06a86938449af770f3f85d87ed84b79",
+   "ko": "「하하하하하하하하하하하!」"
+  },
+  {
+   "id": "da0710:T00104",
+   "source_sha256": "0250dd80955d9568328bfc9e24e3b769470043ace0b1d6266188eda20610b415",
+   "ko": "추락하는 레거시 오브 골드가 무수한 포신을 출현시킨다."
+  },
+  {
+   "id": "da0710:T00105",
+   "source_sha256": "4758c167558703c81e2a9c2b6ea69ef5e727c17f3d7f4e63beb98f6896120c5f",
+   "ko": "겨누는 포구, 그 안쪽에 머금은 파괴의 빛."
+  },
+  {
+   "id": "da0710:T00106",
+   "source_sha256": "f1bbd4763b0094c32065ce92535dfbb2e267d9fce144ffe6ed25212a2e1e2f2a",
+   "ko": "총성/포성/폭음."
+  },
+  {
+   "id": "da0710:T00107",
+   "source_sha256": "2b8608c4fc51f31de04026f9de1c9ba2b448ae4edfa1e4dbb8307cc91bb899b9",
+   "ko": "어둠을 찢어발긴다.\n\n　어둠을 추락하고/추락하고/전락한, 그 종착지는――"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0710:R00001",
+   "kind": "ruby_decision",
+   "note": "Omitted standard reading かいまみ for 垣間見."
+  },
+  {
+   "id": "da0710:R00003",
+   "kind": "ruby_decision",
+   "note": "Omitted standard kun'yomi reading そび for 聳."
+  },
+  {
+   "id": "da0710:R00004",
+   "kind": "ruby_decision",
+   "note": "Omitted reading ゆら for 幽(めく)."
+  },
+  {
+   "id": "da0710:T00013",
+   "kind": "glossary_candidate",
+   "note": "Used provisional glossary target 쿠자쿠 for 九朔."
+  },
+  {
+   "id": "da0710:R00006",
+   "kind": "ruby_decision",
+   "note": "Omitted kun'yomi reading はし for 奔."
+  },
+  {
+   "id": "da0710:R00008",
+   "kind": "ruby_decision",
+   "note": "Omitted kun'yomi reading わきま for 弁."
+  },
+  {
+   "id": "da0710:R00009",
+   "kind": "ruby_decision",
+   "note": "Omitted kun'yomi reading ちりあくた for 塵芥."
+  },
+  {
+   "id": "da0710:R00011",
+   "kind": "ruby_decision",
+   "note": "Omitted reading わら for 哄笑."
+  },
+  {
+   "id": "da0710:R00015",
+   "kind": "ruby_decision",
+   "note": "Omitted kun'yomi reading うつしよ for 現世."
+  }
+ ]
+}

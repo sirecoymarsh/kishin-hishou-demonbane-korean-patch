@@ -1,0 +1,287 @@
+{
+  "schema": "khd-gemini-response-v1",
+  "packet_id": "P0066_da0604",
+  "model_id": "Gemini 3.8 Flash (High)",
+  "records": [
+    {
+      "id": "da0604:T00001",
+      "source_sha256": "a1bc48b456a178f67b7d3daf1b13f9fd6d567b0a2addb0bbb2386412c00730bd",
+      "ko": "즈아위아의 체내."
+    },
+    {
+      "id": "da0604:T00002",
+      "source_sha256": "4a820c8294c081ec7cdbee15bbda0be5540b07638f13725395455e3ece1ee4b0",
+      "ko": "검붉은 "
+    },
+    {
+      "id": "da0604:R00001",
+      "source_sha256": "08e4eab631b664178c7939fd30e4c93ffd12f8c2fd66eca843e762613efd67b4",
+      "ko": "타르",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da0604:T00003",
+      "source_sha256": "d0d1f84f368754fc617dea47071aad5e9a4deb55491246fe8e2c60d6e6e12950",
+      "ko": "진창"
+    },
+    {
+      "id": "da0604:T00004",
+      "source_sha256": "a8a5f917bf8832a194b5a1f0c06827b210d6eec737d4f0611508555d141d6a55",
+      "ko": "의 바다."
+    },
+    {
+      "id": "da0604:T00005",
+      "source_sha256": "d344b1ee65844a725ebe7ef59bb274215b476fa045bb8948da8fca8320f9d7d4",
+      "ko": "그곳은 유클리드 기하학이 미치지 않는, 초차원적 이공간이다.\n\n　쿠자쿠가 탑승한 또 한 기의 데몬베인――데몬베인 투 소드는 뒤틀린 바다를 표류한다."
+    },
+    {
+      "id": "da0604:T00006",
+      "source_sha256": "45a1068e7389b7ea1a27a1c86c3a37959cc92e8d313edf281782409b4a85b770",
+      "ko": "「극……」"
+    },
+    {
+      "id": "da0604:T00007",
+      "source_sha256": "1e54f9454cab545b62035cd92965e871f341a027eaacaeb20c62a69668f7a764",
+      "ko": "데몬베인을 움직이고자, 쿠자쿠는 안간힘을 쓴다."
+    },
+    {
+      "id": "da0604:T00008",
+      "source_sha256": "d2727aeecc10f742c224a5f6fae66032956bfc8935552593006039df10cf69d4",
+      "ko": "하지만 달라붙은 점액은 초질량을 지니고 기체를 옭아맨다."
+    },
+    {
+      "id": "da0604:T00009",
+      "source_sha256": "bc17ad2be8aa8c760993502f5ffb33e6a8ecb2f9f34d9f4c393c51b41b519ab3",
+      "ko": "큰 손상을 입은 데몬베인으로는, 이 바다에서 벗어날\n수 없다."
+    },
+    {
+      "id": "da0604:T00010",
+      "source_sha256": "e452b65263f39f98e0759d66ebe964a68d1dac228f54c8c09bc9d29e0d6e4b7a",
+      "ko": "「……이놈이……읏!」"
+    },
+    {
+      "id": "da0604:T00011",
+      "source_sha256": "fd5908dc87e3d7067aca0ae5da02a7752c303ce344dc12ce37a0dc5d7c6d66aa",
+      "ko": "사신의 육체가 엮어낸 바다가 붙잡는 것은 기체뿐만이 아니다."
+    },
+    {
+      "id": "da0604:T00012",
+      "source_sha256": "a8bf6229607f5da0b7c14833e4c046108d3350584043a2aef5d88b4c4bc6fcbc",
+      "ko": "점액 한 방울 한 방울――사신을 구성하는 원소 하나하나에,\n　신기／사기／독기／광기가 깃들어 있다."
+    },
+    {
+      "id": "da0604:T00013",
+      "source_sha256": "45e1233858065fa96110c7f210bab13485ff448e0f8a3f01cc495ff283e71109",
+      "ko": "그것은 "
+    },
+    {
+      "id": "da0604:R00002",
+      "source_sha256": "adabfd08f4ad04a6cc4ea14e64b4b570eec1e007114462d3913239baeb87dae5",
+      "ko": "아스트랄 사이드를",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da0604:T00014",
+      "source_sha256": "e93b7c4cfed6dead2af75eb548fd2316387c427fc51d38e13340fe6a62e80904",
+      "ko": "아스트랄 영역을"
+    },
+    {
+      "id": "da0604:T00015",
+      "source_sha256": "3aa25d700e8d96d322439c1f9a2c40c92ad4dbf6dc30a05cf6e50ad668e2faf8",
+      "ko": " 달려, 쿠자쿠의 정신에 전파된다."
+    },
+    {
+      "id": "da0604:T00016",
+      "source_sha256": "6083a5f2a37bfe635154296d71c76dacd89afed9eeb1f3f79962c48ed247ad55",
+      "ko": "「이……놈이……읏!」"
+    },
+    {
+      "id": "da0604:T00017",
+      "source_sha256": "7171848d056d4d08744c2aa65ab4f0b9c7299285730a5bb88318d2565eb0725d",
+      "ko": "광기가 정신을 침식해 간다."
+    },
+    {
+      "id": "da0604:T00018",
+      "source_sha256": "c17bba38a5fbcc36e30d6af86337e12a1863534090ec0b1659f18d1e41bf1cac",
+      "ko": "뇌신경을 태우고, 세포를 이질적인 무언가로 뒤바꾸어 간다."
+    },
+    {
+      "id": "da0604:T00019",
+      "source_sha256": "9de977080f44110dc79ced3ebb5a6e7a7ab02c217c3224544b2f7f769720f798",
+      "ko": "영혼에 허무가 뚫린다.\n\n　『자신』이라는 존재가 마모되어 간다."
+    },
+    {
+      "id": "da0604:T00020",
+      "source_sha256": "b0cd0bb8c293e84809881054d30570f1b44d1bad8a400198f9d83a9f025f8cd8",
+      "ko": "「의식이……」"
+    },
+    {
+      "id": "da0604:T00021",
+      "source_sha256": "b85ebee65008a507810a570312a9d8fe48ff8d2303d1a557aee4fa3f254d37dd",
+      "ko": "의식을 잃으면 두 번 다시 돌아오지 못하리라는 확신."
+    },
+    {
+      "id": "da0604:T00022",
+      "source_sha256": "384f7de77bb63fced095a9ada891d7c982a6178bbce1499039734fd77ecb9689",
+      "ko": "의식을 잃으면 편해질 수 있다는 유혹."
+    },
+    {
+      "id": "da0604:T00023",
+      "source_sha256": "d5eeb44f126e3e1ed031484773f1028df5fa7abf8da6436a4ade499166aa68c7",
+      "ko": "심신을 침범하는 공포와 체념에, 소년은 전력으로 맞선다."
+    },
+    {
+      "id": "da0604:T00024",
+      "source_sha256": "840733daf177620a8c8645eeb688c7e4133bcfd2042eb98f5406037039305131",
+      "ko": "「……방벽 구성을…… 더 강하게……!」"
+    },
+    {
+      "id": "da0604:T00025",
+      "source_sha256": "7a20e7aa9166592be2af962cf978d25031675bffb118f7edf93c9e81a1ec3347",
+      "ko": "「아아아아아아아아아아아아아!」"
+    },
+    {
+      "id": "da0604:T00026",
+      "source_sha256": "c5739476ef667d38376f88450c096bf5c77c18cb68d84ad75d094372a5acf405",
+      "ko": "「――――!?」"
+    },
+    {
+      "id": "da0604:T00027",
+      "source_sha256": "97be1ebf29714d4fcbe4eaf53b1c4ac338e7de982666dfe8febb2fe610b09d36",
+      "ko": "잡념이 섞여 들었다."
+    },
+    {
+      "id": "da0604:T00028",
+      "source_sha256": "6dd9d1b543c06915713163830e2e898bc851d75a5f3228bf44cc3623c2aa60da",
+      "ko": "자아의 방벽을 너무나도 손쉽게 빠져나와, 노도처럼 흘러들어 오는\n대질량의 사념.\n\n　타오르듯 뜨겁고."
+    },
+    {
+      "id": "da0604:T00029",
+      "source_sha256": "ddaeef1605bb085b83fa36d214cac996dcede55d77c5e4f337e223a8c1e8d7ca",
+      "ko": "부서질 것만 같이 격렬해서."
+    },
+    {
+      "id": "da0604:T00030",
+      "source_sha256": "c077cc3a4d815c939cf87084ae0664d014e94cbed85f38da4abf0ac0bd27611b",
+      "ko": "가열하고도 처절한 영혼의 충동／연소／격동／질주／폭발／폭풍――\n\n　　　　　　　　　　　　　　　강하게／"
+    },
+    {
+      "id": "da0604:T00031",
+      "source_sha256": "908c799ea3c1e429d6551a1414f8be458b9237595a7101aff34bcb04d84e531e",
+      "ko": "／상냥하게"
+    },
+    {
+      "id": "da0604:T00032",
+      "source_sha256": "b319d7f56d92efea2622ac827d9f2c98394e477dfca357f2c8adc4fa67d458a0",
+      "ko": "／쾌활하게"
+    },
+    {
+      "id": "da0604:T00033",
+      "source_sha256": "d5a4436037ac8f1e7812cd858c9da4a04c49ff53ad6a87e20c1438e1b2e1f522",
+      "ko": "사랑스럽게／\n\n　그 정체를, 소년은 모른다――"
+    },
+    {
+      "id": "da0604:T00034",
+      "source_sha256": "97326aa4550c9626bcaa08196fc8dc397928b75c7e743087719d37139c06d7e3",
+      "ko": "심신을 침범하던 광기가 거짓말처럼 사라진다."
+    },
+    {
+      "id": "da0604:T00035",
+      "source_sha256": "0d7d4e08fdc77ffb3d486902c300b46f77f97c7960422f457732ae934198d8ad",
+      "ko": "소년의 영혼은 잔잔한 수면처럼 평온하다.\n\n　여전히 거칠게 날뛰는 사신의 신기／사기／독기／광기――"
+    },
+    {
+      "id": "da0604:T00036",
+      "source_sha256": "7b1fbbc7f2b6eab96d6a5291a3c196554d42563b1d16aef72c08678a1cdba936",
+      "ko": "절망의 폭풍／폭풍우.\n\n　그것은 소년에게 닿지 않는다."
+    },
+    {
+      "id": "da0604:T00037",
+      "source_sha256": "cb4a78cdcd7b6bd0a949918e54e76fcae2f111831c9bc0959a322ffd158b4636",
+      "ko": "소년을 해칠 수는 없다."
+    },
+    {
+      "id": "da0604:T00038",
+      "source_sha256": "59f029caf4d76ac9b0a35701411bd85fe298ef2aa8e0508f22a135630dcf7dd0",
+      "ko": "소년을 지키는 것은 강하고 커다란 등이다."
+    },
+    {
+      "id": "da0604:T00039",
+      "source_sha256": "49b9fb00cc9bc68e6977af6c5ea45d80f9861c43d3c5c08769fb67b3046aed51",
+      "ko": "몰아치는 광풍을 받아내며, 위풍당당하게 선 남자의 등이다."
+    },
+    {
+      "id": "da0604:T00040",
+      "source_sha256": "03aeb93f5d4f8fdde071ba9371c777f4db2027613ca39419ce61aaea7a6f843f",
+      "ko": "그리고, 상처투성이에 만신창이가 된 등이다.\n\n　그 모습은 그의 삶 그 자체였다."
+    },
+    {
+      "id": "da0604:T00041",
+      "source_sha256": "5800da1f0ec87ea0b54214c494568c755692510bc10c09a6126c0166f7f8cb3f",
+      "ko": "그의 발치에 펼쳐진 피웅덩이."
+    },
+    {
+      "id": "da0604:T00042",
+      "source_sha256": "d81e1a30004f6db66599b6f46c69fd01f945af6e5723b4dc7d6cca4cfab58a49",
+      "ko": "그것은 모두, 그가 흘린 피.\n\n　기나긴 세월――백억의 낮과 천억의 밤을 넘어, 미래영겁／과거영겁으로 이어지는 싸움이, 그를 여기까지 몰아넣은 것이다.\n\n　하지만 그는 그것을 개의치 않는다."
+    },
+    {
+      "id": "da0604:T00043",
+      "source_sha256": "fa96e9b201e2bf4dd66300d38826784883c8539c1c15c93f122c0fe0b15645f6",
+      "ko": "그저 정면을 응시하며, 절망의 폭풍과――"
+    },
+    {
+      "id": "da0604:R00003",
+      "source_sha256": "1e5412a6818e9d84a072f58e125d056835c905cbbf0059e256b01558fc29f41a",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da0604:T00044",
+      "source_sha256": "9a9b9d3bbef44ebe4a5899a4e3c3beda82013d523836e998571dd7d4e52cd751",
+      "ko": "자신"
+    },
+    {
+      "id": "da0604:T00045",
+      "source_sha256": "6e925bdea29f87bca93a8cfe72954b09be76addbe6b63b11c6961b687fc8f446",
+      "ko": "의 적과――가로막아 선\n거대한 운명과 대치한다.\n\n　소년은 그 등을――결코 뒤돌아보지 않는 등을, 동경 어린 눈빛으로\n바라본다.\n\n　누구."
+    },
+    {
+      "id": "da0604:T00046",
+      "source_sha256": "6a8989ea71faafb30e8f33fe4ea1ea28501ee43abb861b50ff476e4fdf45964b",
+      "ko": "누구냐."
+    },
+    {
+      "id": "da0604:T00047",
+      "source_sha256": "630fcac23d054c0ee08660e2ff93547930f220732d36256e07b7dace5fc4b307",
+      "ko": "아니……\n\n　당신은――"
+    },
+    {
+      "id": "da0604:T00048",
+      "source_sha256": "ac53a2212b3ac7e860a2abbf9f0adcf04ac1185ae6f79b581959e96788b1c90a",
+      "ko": "『무엇』인 거냐?\n\n　어째서, 그렇게까지 싸우는 거냐고."
+    },
+    {
+      "id": "da0604:T00049",
+      "source_sha256": "b680170f3656d63d0e54fbdffee8b907840be7576baf2b89063af2eff4f2b57f",
+      "ko": "도대체 무엇이, 당신을 거기까지 몰아넣는 것이냐고."
+    },
+    {
+      "id": "da0604:T00050",
+      "source_sha256": "84dde76101464b552bbf3289bbf8cbd3bf9832579e0c748e1cb9a58f6944b0dd",
+      "ko": "소년은 마음속으로 묻는다.\n\n　그가 싸우는 것은――"
+    }
+  ],
+  "issues": [
+    {
+      "id": "da0604:R00002",
+      "kind": "ruby_particle_split",
+      "note": "Base text 아스트랄 영역 takes 을, ruby reading 아스트랄 사이드 takes 를; particle absorbed into both"
+    },
+    {
+      "id": "da0604:R00003",
+      "kind": "omit_redundant",
+      "note": "단순 훈독 루비 생략"
+    }
+  ]
+}

@@ -1,0 +1,355 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0037_da0305",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0305:T00120",
+   "source_sha256": "8850ad0a7eb0e1d3bf90424cb73afae1c759ba5025d9ad405df0c9f3df23b21b",
+   "ko": "「뭐, 뭐야 이건……!」"
+  },
+  {
+   "id": "da0305:T00121",
+   "source_sha256": "d7851ef3603cf659b6f94e2129a0112f6b013ef2274087c58d7f356514f57ac1",
+   "ko": "말문이 막힌다."
+  },
+  {
+   "id": "da0305:T00122",
+   "source_sha256": "6ce08cb126584bed3d968cb195b48116065e887dcc54bc5f4c92fd47f3ffc76f",
+   "ko": "위화감의 정체는 이미 명백했다.\n\n　일그러져 있다."
+  },
+  {
+   "id": "da0305:T00123",
+   "source_sha256": "d3548dcd84f201e121090a74703b6f6c011fc3c6a6cfc4c173396b4289d78a8e",
+   "ko": "미쳐 돌아가고 있다."
+  },
+  {
+   "id": "da0305:T00124",
+   "source_sha256": "1ccd1bd9aad5110e99df0d83b5dc8a9edb811bcc91b966d73e89037833cbe267",
+   "ko": "건물과 길이 "
+  },
+  {
+   "id": "da0305:R00010",
+   "source_sha256": "0f4bd2d99d7d705d4d2ae0394e42b88c1e598a940c4f007bd84b2e10bbc64fdc",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0305:T00125",
+   "source_sha256": "569e1fc818fa8e7d3aa12a280fd7263ff953f04063799e7aaf18b481b2f8905e",
+   "ko": "비틀"
+  },
+  {
+   "id": "da0305:T00126",
+   "source_sha256": "abcee78c3825400c2b13ccb1b13888147538433ac45aeabcb744453e3b67423e",
+   "ko": "리고, 굽어 있다.\n\n　착시 그림 같은 광경."
+  },
+  {
+   "id": "da0305:T00127",
+   "source_sha256": "096fd6d1fc07bbaa92a592ec0c71d4f381f4283df66f669ef355e9606bbf7f0c",
+   "ko": "……그뿐만이 아니다.\n\n　어떤 장소는 낮이었다."
+  },
+  {
+   "id": "da0305:T00128",
+   "source_sha256": "d6393b3a7a802bca5629f55684ff5d90013b2199a8bea52050833dc4f2c584c0",
+   "ko": "어떤 장소는 밤이었다.\n\n　어떤 장소는 새벽녘이었고,"
+  },
+  {
+   "id": "da0305:T00129",
+   "source_sha256": "e03cc1f5d4d9305ba476e24b164dd2a18c461137a095febddc0c61c29bfd74e5",
+   "ko": "어떤 장소는 황혼이었고,"
+  },
+  {
+   "id": "da0305:T00130",
+   "source_sha256": "ed86628728ebd94dfe45d4ef5a4a969381cc77bbfb6d1d8ebcc7d2b4d5772a39",
+   "ko": "어떤 장소는 지구상의 어느 시간에도 속하지 않았다.\n\n　근대적인 고층 건축물이 늘어선 일각에, 맨사드 박공지붕의 "
+  },
+  {
+   "id": "da0305:R00011",
+   "source_sha256": "eeff74de1cefc1f45324730874f0983d06ba3c2f2ce84c3d7d8ce341f72af2f1",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0305:T00131",
+   "source_sha256": "4fbc8134f6d04d80cc0c3dbb1e3e31bf126a7af0af838674157b4a12a212bba1",
+   "ko": "오래"
+  },
+  {
+   "id": "da0305:T00132",
+   "source_sha256": "9c93d376b94f171c1ad94ebfa00df6d31926e6b9b4a7b3a20943c03458080f7d",
+   "ko": "된 가옥의 모습이 있었다."
+  },
+  {
+   "id": "da0305:T00133",
+   "source_sha256": "2ee19621145593d68d6ab2af378f0bc6c8d799e7201995d79c4f9d3ead041868",
+   "ko": "개발에서 뒤처져 남겨진 것이 아니다."
+  },
+  {
+   "id": "da0305:R00012",
+   "source_sha256": "5173003fa580a2db58f9eb1071a070c2bf5ff385b83db86aabd9b036ea9ecee4",
+   "ko": "・・・・・・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0305:T00134",
+   "source_sha256": "c3ee8a598e1b13deecb540fc60a684d468f42ebf9dfad46d9350358fca725429",
+   "ko": "어긋나게 이어진 공간"
+  },
+  {
+   "id": "da0305:T00135",
+   "source_sha256": "dcede9233605b87f26a62bd8da9032de0f39059df1db460e88e8942b67c987c6",
+   "ko": "이 경계선이 되어 있는 것이다.\n\n　경계선 이쪽 편은 고층 건축물, 저쪽 편은 반세기나 전의 거리 풍경."
+  },
+  {
+   "id": "da0305:T00136",
+   "source_sha256": "2a7229b0b9fc03a1b9fb9144d6d2da5704ce186117871f29d8dc72421660c775",
+   "ko": "경계선 위에 있던 건축물은 싹둑 잘려, 두 풍경을 억지로 잇고 있었다.\n\n　어떤 장소에서는 건물이 거꾸로 서 있었다."
+  },
+  {
+   "id": "da0305:T00137",
+   "source_sha256": "30495a924d346759913d27de801c340e5329cfbad1c108f4082622d6a8ba3ace",
+   "ko": "어떤 장소에서는 아무것도 없는 공간에서 갑자기 빌딩이 솟아나 있었다."
+  },
+  {
+   "id": "da0305:T00138",
+   "source_sha256": "9a3c25f688f291fa2e407011745f7f564dffbb3c699aef309b5fcff54c3edf69",
+   "ko": "어떤 장소는 숲에 침식당해, 고층 빌딩과 거목이 융합해 있었다.\n\n　어떤 장소는 방금 막 산산조각으로 붕괴하고 있는 참이었다."
+  },
+  {
+   "id": "da0305:T00139",
+   "source_sha256": "ff2ece991a4345c3cd9fb3e0b46b287dfceb93c389aaee48b07e264e4900dc34",
+   "ko": "하지만 아무리 시간이 지나도 거리가 끝까지 무너져 내리는 일은 없었고, 즉 영원히 붕괴를 계속하고 있었다.\n\n　저쪽에는 13번 봉쇄구획이 보인다."
+  },
+  {
+   "id": "da0305:T00140",
+   "source_sha256": "b894c8df363f48282393a64158138835194f2fff8f68a865a2ab4e51a27cb4f3",
+   "ko": "……그럴 리는 없다.\n\n　내가 살아가는 지금의 세계에서는 프로비던스 소멸의 역사는 존재하지 않는다. 독기에 오염되어 영구 봉쇄된 그 구획이 존재할 리가 없는 것이다.\n\n　어떤 장소는 시간의 흐름이 빠른 것인지, 비디오 빨리 감기 같은 속도로 자동차와 사람들이 오가고 있었다."
+  },
+  {
+   "id": "da0305:T00141",
+   "source_sha256": "b0ca57fbe53d5f45aef057a5e8c92235adbc5adadef061aa1d1c640dc55fcd17",
+   "ko": "어떤 장소는 시간의 흐름이 느린 것인지, 슬로 모션 영상 같았다.\n\n　어떤 장소의 시간은 멈춰 있었다."
+  },
+  {
+   "id": "da0305:T00142",
+   "source_sha256": "37693201f3926d9eaf8b95f8d5e10bc4e5ecc2b806f46b9c9a9c2fefbf48572c",
+   "ko": "어떤 장소의 시간은 역전되어 있었다."
+  },
+  {
+   "id": "da0305:T00143",
+   "source_sha256": "0ac8855a21f58fc2ac6712c2a284a926f15f77ea2d7585ebc248bf65022d8e4d",
+   "ko": "「……시공이 불안정해져 있군」"
+  },
+  {
+   "id": "da0305:T00144",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0305:R00013",
+   "source_sha256": "d9a63e871e2958faa3fce720b7028e6f6143d4b633c03c18c9e7029688028fe2",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0305:T00145",
+   "source_sha256": "9b509d2956852d977d822eff6965863280610b699199e9fd658674102cdd0322",
+   "ko": "수많은"
+  },
+  {
+   "id": "da0305:T00146",
+   "source_sha256": "c0fbd73908898b5df6a510500246857bef023ec6457e9e9aa5a6c233d2efe694",
+   "ko": " 이야기가 녹아 섞여,\n　동시에 존재하고 있는 것이다」"
+  },
+  {
+   "id": "da0305:T00147",
+   "source_sha256": "ebcbdebf2f5c7991dc07579f55955d82971d258f3e2c53fd1bca9db079084d56",
+   "ko": "「이야기?」"
+  },
+  {
+   "id": "da0305:T00148",
+   "source_sha256": "c976c526a69980db6df79a9968150d34cac8c5ef647f7ed6af541caf7e0dd007",
+   "ko": "「온갖 가능성의 도가니다.\n　현재의 아컴 시티.\n　과거의 아컴 시티.\n　도래할 아컴 시티」"
+  },
+  {
+   "id": "da0305:T00149",
+   "source_sha256": "d0abfc97cf2a08836d2f9b1fa108af48920440a72c2881124e36c1b138c52c99",
+   "ko": "「혹은 존재할 가능성조차 없는\n　아컴 시티. 존재했을 리 없는\n　아컴 시티. 환상으로서\n　의 아컴 시티. 악몽으로서의\n　아컴 시티――」"
+  },
+  {
+   "id": "da0305:T00150",
+   "source_sha256": "20125f9064cc27cc99d453cd80e997f238a6190cc1dbe6f15ff84b4439e82835",
+   "ko": "「그런 무수한 아컴 시티\n　가 겹겹이 포개어져 존재하고 있다」"
+  },
+  {
+   "id": "da0305:T00151",
+   "source_sha256": "a343311a5d9b30d08dc56dc06a9ec7cc2cec2a425a5dd0355552b1c2789cfdb7",
+   "ko": "「그럴 수가……」"
+  },
+  {
+   "id": "da0305:T00152",
+   "source_sha256": "88c23928787893c3e67b82faea4105002d8311b848a79b08df2e3652a8feb35e",
+   "ko": "「그리고 이 일그러진 아컴 시티\n　를 지탱하고 있는 것은 『알 아지프』\n　의 이야기다」"
+  },
+  {
+   "id": "da0305:T00153",
+   "source_sha256": "629393a0da60b4326d74825fbcbd11e6904a81611be47cdd7e725cb8061385e8",
+   "ko": "「이 몸의……?」"
+  },
+  {
+   "id": "da0305:T00154",
+   "source_sha256": "5c44de65ab2553e00418ee3d5bf54e05e592b9fee8d50dc31123fa4d014d855c",
+   "ko": "「당신은 다양한 시간을, 다양한 세계를 알고 있다. 당신이 걸어온 무한에 가까운 『이야기』가, 어나더 블러드가 만드는 이 아컴 시티에 "
+  },
+  {
+   "id": "da0305:R00014",
+   "source_sha256": "3d6e7a92243d0e53d9c962602beb38e396a5f02b62d2fd759706147fb095f432",
+   "ko": "리얼리티를",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0305:T00155",
+   "source_sha256": "d2ed9f43db055cfc14f8cba4185a4b2a6473118110aa3f8883409173d23170db",
+   "ko": "존재력을"
+  },
+  {
+   "id": "da0305:T00156",
+   "source_sha256": "febefa38b12add90f105f45181398fd60d6e35457d84655e1e50bbe22cb7759d",
+   "ko": "\n부여하고 있는 것이다」"
+  },
+  {
+   "id": "da0305:T00157",
+   "source_sha256": "0d10bf46c48575c0137a5dfeb25bc6462b91538b1826b65bea7bcc11a6817d83",
+   "ko": "「알의…… 이야기」"
+  },
+  {
+   "id": "da0305:T00158",
+   "source_sha256": "8ddef7514eb0632fa47b25e7164f4eb3fcea411d69d54738edaa2ad5436dd2a6",
+   "ko": "「그대…… 무엇을 어디까지 알고 있느냐?」"
+  },
+  {
+   "id": "da0305:T00159",
+   "source_sha256": "f284d39bf15eba46dfa1fe16345486d2e65a794d9ee76b31231a30dde1c788b1",
+   "ko": "「어……?」"
+  },
+  {
+   "id": "da0305:T00160",
+   "source_sha256": "832f97067093e5261c7927aa0410af2251c90a500521a511a7f4e1342f8f1ba9",
+   "ko": "「어째서 이 몸이나 쿠로에 대해\n　알고 있느냐?」"
+  },
+  {
+   "id": "da0305:T00161",
+   "source_sha256": "f06587bfe741e3db7714c9a7d6473e7a3fc943460737029f71be40bbdd228399",
+   "ko": "「그건――」"
+  },
+  {
+   "id": "da0305:T00162",
+   "source_sha256": "38a4384789cbef6edff5b35f230ede87c345a1588d8665e015183b26c6152139",
+   "ko": "「그 피의 괴이는 존재할 리 없는\n　마인 놈들을 만들어 냈다」"
+  },
+  {
+   "id": "da0305:T00163",
+   "source_sha256": "f63e338a9fae446f20ae3d105f2318d7c4d921eff8749a1d9931f4bd94dd5f65",
+   "ko": "「…………」"
+  },
+  {
+   "id": "da0305:T00164",
+   "source_sha256": "0061acd953c0f84ed02e28bccd1b6455160e72b67dc21f7ff9db92fff7527869",
+   "ko": "「그 괴이와 적대하고, 심지어 동질의 힘을 가진 그대는 무엇을 알고 있느냐?」"
+  },
+  {
+   "id": "da0305:T00165",
+   "source_sha256": "afc196fddc301ed5e41d30730ad59df8392c2069c7fbbbfc392d2956323e123d",
+   "ko": "「나는…… 그……」"
+  },
+  {
+   "id": "da0305:T00166",
+   "source_sha256": "0d9db324329dc5424e0f7074a384c73aca7f1ff473adc01188d3515575153c2e",
+   "ko": "「어나더 블러드라고 했던가. 저 녀석의 목적이 이 몸을 흡수하는 것뿐이라면…… 어째서 이토록 거창한 짓을 벌이는 것이냐?　이것은 세계를 창조하는 것과 맞먹는 대마술이다!」"
+  },
+  {
+   "id": "da0305:T00167",
+   "source_sha256": "4322ecd4c3725d6b191cc329282b08d408c2f8462bdd021cf17e26fe48ceddb9",
+   "ko": "「……나도 모르……」"
+  },
+  {
+   "id": "da0305:T00168",
+   "source_sha256": "b4c5b1338a33cf3c1311c788e3c0dce3f1bfd8bd4fbba62e493b370f09dc79be",
+   "ko": "「이 몸의 『이야기』인가 뭔가가 있다고는 하나,\n　이 신기를 실현하는 『네크로노미콘\n　혈액언어판』이란 무엇이란 말이냐!?」"
+  },
+  {
+   "id": "da0305:T00169",
+   "source_sha256": "f63e338a9fae446f20ae3d105f2318d7c4d921eff8749a1d9931f4bd94dd5f65",
+   "ko": "「…………」"
+  },
+  {
+   "id": "da0305:T00170",
+   "source_sha256": "6c3384cc36b99c7d1e40bae02a2fa15536e6b6934d336a651538a4a807c76f0c",
+   "ko": "소년은 완전히 기에 눌려 있었다."
+  },
+  {
+   "id": "da0305:T00171",
+   "source_sha256": "0f4685cf91a7f7d07a7dd08e0011d2cafecd373836168a4b3f15fc50987f1008",
+   "ko": "알의 기세에 어찌할 바를 모르고 그저 침묵할 뿐이다."
+  },
+  {
+   "id": "da0305:T00172",
+   "source_sha256": "d2d8af6408c681b55d5bb0b980122fafe96b5ddd4f8f904c3868d2eca6fad5e7",
+   "ko": "「적이 아니라고 했지만……\n　비밀은 많아 보이는구나?」"
+  },
+  {
+   "id": "da0305:T00173",
+   "source_sha256": "aef16587241deefec3c728def2c7b0948eadfc0be062358b45b6b7325c8f9910",
+   "ko": "「――――――」"
+  },
+  {
+   "id": "da0305:T00174",
+   "source_sha256": "ddf703a5ec61f0f3cab103da694472ef3be230f6a0cb5e885595f978fb79791e",
+   "ko": "마지막으로 알은 지극히 조용하게, 하지만 차갑고 날카롭게 소년에게 물었다."
+  },
+  {
+   "id": "da0305:T00175",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0305:R00015",
+   "source_sha256": "30decdf4274513937a5295af56ea082925e2c003e616f76156e9dec43f9164c6",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0305:T00176",
+   "source_sha256": "8c82875ab04265373825b1b25efcc5850926815c50b871a69e755a6caf326685",
+   "ko": "그대"
+  },
+  {
+   "id": "da0305:T00177",
+   "source_sha256": "4e4d9b1703fd775d80e71b4acc2e538e2d8e7f3c095997f57f13cdf34f36692c",
+   "ko": "는, 누구냐?」"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0305:R00010",
+   "kind": "omit_redundant",
+   "note": "한국어 '비틀리고'로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0305:R00011",
+   "kind": "omit_redundant",
+   "note": "한국어 '오래된'으로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0305:R00013",
+   "kind": "omit_redundant",
+   "note": "한국어 '수많은'으로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0305:R00015",
+   "kind": "omit_redundant",
+   "note": "한국어 '그대'로 의미가 온전히 전달되므로 일본어 고어 발음 루비 생략"
+  }
+ ]
+}

@@ -1,0 +1,642 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0032_da0302",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0302:T00001",
+   "source_sha256": "2eea3da1808b69d4ae04aad94afa9312d58bcf7283d979d4427187bd9c8fe8b8",
+   "ko": "――나는 책을 찾고 있었다.\n\n　혹은 어쩌면 상자였을지도 모르고, 보석이었을지도 모르고, 태아였을지도 모르지만, 그렇지 않고, 내가 찾고 있는 것은 어디까지나 톱니바퀴인 것이다. 알이었을지도 모른다."
+  },
+  {
+   "id": "da0302:T00002",
+   "source_sha256": "f02284fd0352162950f6c9e3cbb6c3927cebd7c8f066e81a87e24e4b587eb3e3",
+   "ko": "공주님에게 의뢰받았기 때문이다."
+  },
+  {
+   "id": "da0302:T00003",
+   "source_sha256": "d3c1a0b59d42216202f1b220d1090abe98810d99fbd4eba17bcb3400805cc1fa",
+   "ko": "「저의 뱀이 도망쳤습니다.\n　　찾아서, 발견해 내어, 붙잡아서,\n　　목을 조르고, 목을 매달아 올리고, 목을 베어라」"
+  },
+  {
+   "id": "da0302:T00004",
+   "source_sha256": "87fb2d4865c62522a3eb798bc5d9aaabd17bede4d87cb75d4a3830cca40da70f",
+   "ko": "「네」"
+  },
+  {
+   "id": "da0302:T00005",
+   "source_sha256": "39fa52a67e064281559e28df1b93770167c7b08992cc15fc475f3e38dc188903",
+   "ko": "나는 다음 날 아침까지 자기로 했다."
+  },
+  {
+   "id": "da0302:T00006",
+   "source_sha256": "8e0e1120fe917ea830566aa64bd1136bcd32ee32a2b35b1ad4ee8c3791e774a7",
+   "ko": "소파 위에 누운 나를, 검은 산양의 얼굴이 천장에서 내려다보고 있었다."
+  },
+  {
+   "id": "da0302:T00007",
+   "source_sha256": "3157077b16921c3bef5118c5879d20addc4339d43d15788d389d708fa54f9641",
+   "ko": "빙글빙글 안구가 회전하고 있었다."
+  },
+  {
+   "id": "da0302:T00008",
+   "source_sha256": "08bf751e7b67a0d32eb3743dc7c237231149eab1ae9b07f341936a27a2e9ca29",
+   "ko": "길고 붉은 혀가 축 늘어진다."
+  },
+  {
+   "id": "da0302:T00009",
+   "source_sha256": "d7c02d9efc858bf9c04cce026cd878e3bcd514d06aec2dd5a6176723be0a580a",
+   "ko": "혀를 떨며, 산양은 「초인대결 3분 단판 승부, 알파맨 Ω vs 운석괴수 오드」라고 쓸쓸한 듯이 중얼거렸다."
+  },
+  {
+   "id": "da0302:T00010",
+   "source_sha256": "120455448e8dc6bc0250457fcdb6f4ce59040c9cccd0345454c854f50da68235",
+   "ko": "「일어나, 오빠. 아침이야」"
+  },
+  {
+   "id": "da0302:T00011",
+   "source_sha256": "e04b1bd7a2b38553e985048886ed1bb0014bb6246a09e95ac3df6b37f6578b19",
+   "ko": "원색으로 덧칠해진 아침 햇살이 커튼 틈새로 비쳐 들고 있었다."
+  },
+  {
+   "id": "da0302:T00012",
+   "source_sha256": "06e9afb23a3ed158c411b6eb1b7c28fa8d3f6d91018184867bd732c2f689e9c6",
+   "ko": "관짝 같은 자명종 시계를 확인한다."
+  },
+  {
+   "id": "da0302:T00013",
+   "source_sha256": "279d0cfd5ea7189f18474874cc6f39e0be80114e9e7764c80f6181c2d45ab62b",
+   "ko": "4개의 바늘이 완전 무질서하게 시간을 새기고 있었다."
+  },
+  {
+   "id": "da0302:T00014",
+   "source_sha256": "ee84cff607134549dccdbdc2e3f3b97df373b53b0be9eddc44f42faf77901c5e",
+   "ko": "서"
+  },
+  {
+   "id": "da0302:T00015",
+   "source_sha256": "dddc0b136ed7f6ea7baa92f8015c449c5d491430a03ce7ead0021b5df1b63aa5",
+   "ko": "걱서"
+  },
+  {
+   "id": "da0302:T00016",
+   "source_sha256": "dddc0b136ed7f6ea7baa92f8015c449c5d491430a03ce7ead0021b5df1b63aa5",
+   "ko": "걱서"
+  },
+  {
+   "id": "da0302:T00017",
+   "source_sha256": "b409a42cd3ee83b0b620aee517b5236ec349b3e80131c5716433e20984039669",
+   "ko": "걱.\n\n　여동생이 몸을 흔든다."
+  },
+  {
+   "id": "da0302:T00018",
+   "source_sha256": "c8a2519b4a38f81d255e30316eae4dbfa3ef15c9a1874cdcc022a080f3837f6e",
+   "ko": "「그것은 일체의 친족에게서 들어 본 적도 본 적도 없는 기괴한 여동생이었다」"
+  },
+  {
+   "id": "da0302:T00019",
+   "source_sha256": "f3d7db2dfa4a8dbe3afcb5169b555dd282ca206b67e287a8ccd888e33f371ba7",
+   "ko": "「갸아――――――――――――!」"
+  },
+  {
+   "id": "da0302:T00020",
+   "source_sha256": "56b66225ca29d424125d47e420cff67baee0328b63caf63bb5d3ef58d3ff00d8",
+   "ko": "「후하하하하하하!\n빨리 안 하면 지각해 버리는 것이다아!」"
+  },
+  {
+   "id": "da0302:T00021",
+   "source_sha256": "83dc5bd913452c9c69e0a578ab6605846a968e34fdd3dcebbdc05bddf5f26df3",
+   "ko": "「죽어!」"
+  },
+  {
+   "id": "da0302:T00022",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0302:R00001",
+   "source_sha256": "70c9813ee36fbe096eef52d41650460c1bb8fd07fa18b1dfdcc6c7e07536ddae",
+   "ko": "오라버니",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0302:T00023",
+   "source_sha256": "3ec93eaf8abc8faa35f4b9f3ad4dc75a10db876345fe434686dcd1c7e4fe3bec",
+   "ko": "형군"
+  },
+  {
+   "id": "da0302:T00024",
+   "source_sha256": "19e91375244963223e5894c601a6cc7028bf0e9754a9d7bb0fe4ef2b751a3423",
+   "ko": "……」"
+  },
+  {
+   "id": "da0302:T00025",
+   "source_sha256": "7ffc1aec6c83e7ac0e1436c07dfe2fdaa982ff168a073910ad05a39daade669d",
+   "ko": "유쾌한 포즈로 "
+  },
+  {
+   "id": "da0302:R00002",
+   "source_sha256": "4dae1fea52814eb01c1f6f5e611386bf5216d66ee363d7ec5b45ff3c60f0ceb9",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0302:T00026",
+   "source_sha256": "e576049bcdb98de738f142c446fc515b0c9df3d3eb8a39b9e9111ad0b06b8306",
+   "ko": "쓰러"
+  },
+  {
+   "id": "da0302:T00027",
+   "source_sha256": "bb18e551ffb34f37e1f61f70d38c5c63133d5d6ba5ab4a08a22a4998ef854518",
+   "ko": "진 닥터 웨스트는 피안개가 되어 소멸했다."
+  },
+  {
+   "id": "da0302:T00028",
+   "source_sha256": "4dbc685c93611126798a4a00a21ecb962d4954870b4331e9e0d79e6d2c542d82",
+   "ko": "「하아…… 하아…… 뭐야?　뭐가 어떻게 돌아가는 거야?」\n\n　호흡을 가다듬고 현 상황을 파악한다."
+  },
+  {
+   "id": "da0302:T00029",
+   "source_sha256": "07e0037e19d1c3b56e878ba6a920b7edd9d62a498af9f26a0b0b26c4455b2c0e",
+   "ko": "비정상적인 세계다."
+  },
+  {
+   "id": "da0302:T00030",
+   "source_sha256": "5bbd3f27d678b7084036a7b393e0732de295f1e5151f8526b05fd5dddb614fcc",
+   "ko": " 현실감이 전혀 없다."
+  },
+  {
+   "id": "da0302:T00031",
+   "source_sha256": "d5b788217e094399b471e43b319a7472a8dcfe9ca206a57c2992d3ae3392fabd",
+   "ko": "악몽에라도 사로잡혀 있는 느낌.\n\n　자각몽―― 꿈속에서 꿈이라고 이해하고 있는 상태인가."
+  },
+  {
+   "id": "da0302:T00032",
+   "source_sha256": "b29fc349296f7dc065d82bfb2ab9dfb0a821e485469b47ea2846ccfa3b0945ff",
+   "ko": "하지만 오감은 확실하다."
+  },
+  {
+   "id": "da0302:T00033",
+   "source_sha256": "ced198716d67fd3131b76cc089d28d01fe5e6b433cb022f3e025dc3bbb094e2e",
+   "ko": "「맞다…… 알」\n\n　그때 알과 붉은 소녀에게서 흘러넘친 술식에 휩쓸려, 정신을 차려 보니 이 세계에 있었다."
+  },
+  {
+   "id": "da0302:T00034",
+   "source_sha256": "04d7785a836c90dc3815a8260740b49f0228ae5e245b0662884e2fcae129e633",
+   "ko": "알은 무사한 걸까."
+  },
+  {
+   "id": "da0302:T00035",
+   "source_sha256": "79af6cf4b5af3516b9fee5859c11df0fb0270da0c3f80a4fe3e7c5949332d4f4",
+   "ko": "찾아내야만 해."
+  },
+  {
+   "id": "da0302:T00036",
+   "source_sha256": "f63e338a9fae446f20ae3d105f2318d7c4d921eff8749a1d9931f4bd94dd5f65",
+   "ko": "「…………」"
+  },
+  {
+   "id": "da0302:T00037",
+   "source_sha256": "dbefa0c39588a472c7d58e70a235d3755a2e74aae95507e7c6e740911c6d8372",
+   "ko": "다우징 도구를 꺼낸다."
+  },
+  {
+   "id": "da0302:T00038",
+   "source_sha256": "e992852c86676fb9f65a969a5c11ca155b0bb38779f2133d50a690ef466e9ba3",
+   "ko": "나는 추의 인도를 의지해 걷기 시작했다."
+  },
+  {
+   "id": "da0302:T00039",
+   "source_sha256": "d89cd3ca39b6b5000527b1a7b5363b1802d0f4781367e4231de5b7d5b86b5d7b",
+   "ko": "이런 비현실적인 세계에서 유효한 수단인지는 모르겠지만, 아무것도 안 하는 것보다는 낫다."
+  },
+  {
+   "id": "da0302:T00040",
+   "source_sha256": "e0ff9220cd9240f45470c15db1d5872b538c63c2df96a90cab02d5c3e74a456d",
+   "ko": "「로드아일랜드 병원에서 빼내 온\n뇌수는……」"
+  },
+  {
+   "id": "da0302:T00041",
+   "source_sha256": "a8ae9b8db64cf436619394f9549523679e3239a5db4e4317d27afb8d99a6de65",
+   "ko": "「팔지 마」"
+  },
+  {
+   "id": "da0302:T00042",
+   "source_sha256": "62a852197e69389375b3e22fe6cc5b7033651c6419edbf838306028f9468f234",
+   "ko": "「크래커와 치즈와 콩 통조림도 있습니다」"
+  },
+  {
+   "id": "da0302:T00043",
+   "source_sha256": "c0339dd4737a51501c19578597c0b00ad614b464b2af25665f5aaff8c72b4080",
+   "ko": "「돈은 없어」"
+  },
+  {
+   "id": "da0302:T00044",
+   "source_sha256": "5a2f47391a1b9f6b2e478c2f574825290587cb6cfb5ee1e66321b12842333a22",
+   "ko": "「……쳇!　구경만 하는 거냐!　꺼져라, 이 빈털터리 놈아!　어~이, 여보!　소금 뿌려 줘!」"
+  },
+  {
+   "id": "da0302:T00045",
+   "source_sha256": "89554cb4bb23028c3f749170bdf9d158bc9eb167c45df2585007b128cba88a02",
+   "ko": "「너, 너무해!」"
+  },
+  {
+   "id": "da0302:T00046",
+   "source_sha256": "9759c9b21d8eba1b38ed9740a4814deb46a60602e3060b4e168974cf7eb5e461",
+   "ko": "어디를 어떻게 걸어왔는지는 모르겠지만, 나는 긴 회랑을 걷고 있었다.\n\n　저벅."
+  },
+  {
+   "id": "da0302:T00047",
+   "source_sha256": "03e13ecfd1ebae932e7ac9ce1cbe34ede4718b8bf88f1aa9730b61b20e384037",
+   "ko": " 저벅."
+  },
+  {
+   "id": "da0302:T00048",
+   "source_sha256": "f8091160942e193d054f9f8b60e5c6783fccdf40ff9a8bec3e1abeb46c744ffe",
+   "ko": "구두 소리가 날카롭게 회랑에 울려 퍼진다."
+  },
+  {
+   "id": "da0302:T00049",
+   "source_sha256": "49c962050e97aa7a6e09738273a146aef275e0d3bd44b780815980cc095d1a67",
+   "ko": "하지만――"
+  },
+  {
+   "id": "da0302:T00050",
+   "source_sha256": "ddcf3996f56ca0e74f15e5e93d18a4e717e1517fb41346e1b9252839f19c3a94",
+   "ko": "「………………」"
+  },
+  {
+   "id": "da0302:T00051",
+   "source_sha256": "c87ad6dfeab6023abb6ea6c680cd2e9def6aff9b20b17a07bad54f01f8fe8046",
+   "ko": "구두 소리는 하나가 아니다."
+  },
+  {
+   "id": "da0302:T00052",
+   "source_sha256": "1babb298895aa6de1fa2f9b6ebf61e6cfb6aea5e8f7a8230b7f24687e8ca88cc",
+   "ko": "나 말고도 누군가가 있다는 뜻이다."
+  },
+  {
+   "id": "da0302:T00053",
+   "source_sha256": "4e608c16eafc40273d921ae15e5b42418fc5f03ca0ad5822587ffac6f0f3d7ec",
+   "ko": "가는 곳을 보니 모퉁이."
+  },
+  {
+   "id": "da0302:T00054",
+   "source_sha256": "afd01620b4613384531db67ba27dc8ef475ffdb340296409b966c12bda8b1956",
+   "ko": "저 너머에 구두 소리의 주인이 있는 모양이다.\n\n　경계하며 앞으로 나아간다."
+  },
+  {
+   "id": "da0302:T00055",
+   "source_sha256": "ea81cce404697e5f6eda125b1b5a8aa11bd531f3677d9f8404bc3af4371ab77d",
+   "ko": "양손에는 이미 "
+  },
+  {
+   "id": "da0302:R00003",
+   "source_sha256": "8f55b07dae0fd7f8ba91f6d58e169fbc186f0af055d891b83b134a882d96b06a",
+   "ko": "세이프티",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0302:T00056",
+   "source_sha256": "0e9b792d43b748a9de72b7b374190cec439292422f632c4cacdae02ea1f7e3ed",
+   "ko": "안전장치"
+  },
+  {
+   "id": "da0302:T00057",
+   "source_sha256": "ce925b2821e5b382db40d76367f35c7398ceff391582522e4096aca29726cd90",
+   "ko": "를 푼 두 자루의 마총이 쥐어져 있다."
+  },
+  {
+   "id": "da0302:T00058",
+   "source_sha256": "ddcf3996f56ca0e74f15e5e93d18a4e717e1517fb41346e1b9252839f19c3a94",
+   "ko": "「………………」"
+  },
+  {
+   "id": "da0302:T00059",
+   "source_sha256": "f98b8100c2b197404d0d82b6d0e98db34c526260f33deed21c63f80ab2d46932",
+   "ko": "모퉁이 직전에서 나는 걸음을 멈춘다."
+  },
+  {
+   "id": "da0302:T00060",
+   "source_sha256": "f0fce9b38cced08ef13aa9c5bc6fd55b0bec65ec5e73001ddcf07278090ba1f9",
+   "ko": "또 한 사람의 구두 소리도 멎었다."
+  },
+  {
+   "id": "da0302:T00061",
+   "source_sha256": "87bda1e00cb4bd99e96771829ea12a62619cb5378a78bced0f017ea42d21c713",
+   "ko": "침묵이 장내를 지배한다."
+  },
+  {
+   "id": "da0302:T00062",
+   "source_sha256": "2ea0ff80d86d6600c124be6f14bc8ec9d3682b925a7287a528325810816d6f2a",
+   "ko": " 팽팽하게 조여드는 긴장의 끈."
+  },
+  {
+   "id": "da0302:T00063",
+   "source_sha256": "0e2251b2632bf326eeef78cc5bdb873184bffea9b7f780dc35a4f3573df96d7c",
+   "ko": "「큭……!」"
+  },
+  {
+   "id": "da0302:T00064",
+   "source_sha256": "91c46557fbed61ff836bba33b578ddc7954dbb0e0709eba33325aa502c961a5f",
+   "ko": "나는 모퉁이로 뛰어들어,"
+  },
+  {
+   "id": "da0302:T00065",
+   "source_sha256": "ac896c8095deb1907030c8543d89c673b5c8b660e2fe9091ee1eff266473b8af",
+   "ko": " 총을 겨누――"
+  },
+  {
+   "id": "da0302:T00066",
+   "source_sha256": "ff5a20d66734ffece1b8338e292368e226dce620a12a0f94ab2ca021a5a16157",
+   "ko": "「――느려」"
+  },
+  {
+   "id": "da0302:T00067",
+   "source_sha256": "6ee50b19277580e460f0b1afa4bbea3e328ac1999ddfb1500e805aa1607c7f1d",
+   "ko": "「――읏!?」"
+  },
+  {
+   "id": "da0302:T00068",
+   "source_sha256": "0a6b51006ebf5d06395fac1fcfcf87137c219c581dd8730d58cbf2e717590723",
+   "ko": "겨누――기보다도 빠르게, 총이 코앞에 들이밀어졌다."
+  },
+  {
+   "id": "da0302:T00069",
+   "source_sha256": "4e47349b4e71ff1a251a74470f9e8f1497fedd74f8cdcdc969273f0798821c04",
+   "ko": "날카로운 눈초리로 나를 올려다보는, 키가 작고 마른 소년."
+  },
+  {
+   "id": "da0302:T00070",
+   "source_sha256": "7ef7d9e783dd00758e7d51573fc7964f49b5856159c6294c9858da6a51e387b7",
+   "ko": "「너는…… 그 데몬베인에 타고 있던……!」"
+  },
+  {
+   "id": "da0302:T00071",
+   "source_sha256": "f63e338a9fae446f20ae3d105f2318d7c4d921eff8749a1d9931f4bd94dd5f65",
+   "ko": "「…………」"
+  },
+  {
+   "id": "da0302:T00072",
+   "source_sha256": "1e3235ca3a71a209e9dca2c07c259050c561693554a2d3f9984de0d18e6393b1",
+   "ko": "「게다가 그 총……」\n\n　소년이 손에 쥐고 있는 총을 본다."
+  },
+  {
+   "id": "da0302:T00073",
+   "source_sha256": "905193d0e4a21f574096d211851426a21a4b682901c91bf4d754d02cd930123f",
+   "ko": "나와 마찬가지로 소년은 두 자루의 총을 겨누고 있다."
+  },
+  {
+   "id": "da0302:T00074",
+   "source_sha256": "314c1440d856611aa4a7e2b5ae4540f6642051103182cfcbd9781813e483d730",
+   "ko": "그것은――"
+  },
+  {
+   "id": "da0302:T00075",
+   "source_sha256": "642eb49836379df591d5ec54857e134ef117ad696a39f812cc05b63c40eaba5a",
+   "ko": "「크투가!　게다가 이타콰도!　너, 어째서……!」"
+  },
+  {
+   "id": "da0302:T00076",
+   "source_sha256": "f258f81eb5f6e5300e53acac4a536814fcc2f73d69910c942ffc16e1a2b63681",
+   "ko": "「일일이 떠들지 마라, 볼썽사납다」"
+  },
+  {
+   "id": "da0302:T00077",
+   "source_sha256": "976285ae06743e1af514f17c2f4cb8e34f289897c8b7380b331773bc317f1ae4",
+   "ko": "「그 데몬베인도 그렇고…… 너희들은 정체가 뭐야!?」"
+  },
+  {
+   "id": "da0302:T00078",
+   "source_sha256": "ebc6d82b594bb2538ac754faa12f397197a7bcfe4688d600e62cd6d11e1aa038",
+   "ko": "「불쾌하군…… 흐트러진 『기』를 흩뿌리지 마라.\n　그러니까 꼴사나운 모습을 보이는 거다」"
+  },
+  {
+   "id": "da0302:T00079",
+   "source_sha256": "d6928e0bbbc3e4b886f3d3c5f482824743d7c6dea129bc575d362155a38f3090",
+   "ko": "「뭐라고!」"
+  },
+  {
+   "id": "da0302:T00080",
+   "source_sha256": "f63e338a9fae446f20ae3d105f2318d7c4d921eff8749a1d9931f4bd94dd5f65",
+   "ko": "「…………」"
+  },
+  {
+   "id": "da0302:T00081",
+   "source_sha256": "5fa8a379f83a7e274d250273bd2701228de83e40097d97f838138a7e89b77ac1",
+   "ko": "「큭……」"
+  },
+  {
+   "id": "da0302:T00082",
+   "source_sha256": "bcbadb3cb9bc39efd94d49ad220c2e20f47f517506205e655be7948a0342c563",
+   "ko": "「정신 집중이 무르다. 감정 제어가 되어 있지 않다. 반응 속도가 느리다. 감도 둔하다. 술법의 "
+  },
+  {
+   "id": "da0302:R00004",
+   "source_sha256": "03f0ccd53e5eca567fbd2d860897a3a745c30363da365e93771c8a6adcb652e1",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0302:T00083",
+   "source_sha256": "0d820c346011291b47804067bd6e66d283230b831a26e159bca280da0cfdf7d5",
+   "ko": "숙련"
+  },
+  {
+   "id": "da0302:T00084",
+   "source_sha256": "ed2932736ef2a738fda6105ac5afe70eaddf7f1959b1c19469705cb9a26c6525",
+   "ko": "도가 낮다. 술법의 강도도 무르다. 애초에 술의를 두르지 않으면 대단한 마술도 엮어 내지 못한다――」"
+  },
+  {
+   "id": "da0302:T00085",
+   "source_sha256": "29a53a7a2d7e74e41c9f40c03dc40c7d430024fb6336ab1cdd515244cd0d5348",
+   "ko": "「네, 네 녀석…… 제법 제멋대로 지껄이는……」"
+  },
+  {
+   "id": "da0302:T00086",
+   "source_sha256": "a6aac48193b075f42ad56cd2224347a79e39b747847057bcb761b25950130e38",
+   "ko": "「……우윽」"
+  },
+  {
+   "id": "da0302:T00087",
+   "source_sha256": "af05c693c2c262777a0b90cff23ccb28bc3e74021460ab5c85c88949ba1a1bf3",
+   "ko": "「이런 것이……\n이딴 수준의 것이 다이쥬지 쿠로인가. 나는 인정 못 한다.\n당신 따위 인정할쏘냐……!」"
+  },
+  {
+   "id": "da0302:T00088",
+   "source_sha256": "c20d2c2ce02de075939fc62120df55ffd376a76c161e850a5490148151f2b12e",
+   "ko": "「너도 내 이름을……!」"
+  },
+  {
+   "id": "da0302:T00089",
+   "source_sha256": "7411d05fdf43cd2171099f2da2bfa8c3c6ca39ae61b8a271fc2d5d9222d9605a",
+   "ko": "「――쏜다」"
+  },
+  {
+   "id": "da0302:T00090",
+   "source_sha256": "f284d39bf15eba46dfa1fe16345486d2e65a794d9ee76b31231a30dde1c788b1",
+   "ko": "「어……?」"
+  },
+  {
+   "id": "da0302:T00091",
+   "source_sha256": "0053340bd119b856b04149f0a8c79904d19f98d0fe7f06a183d0aefc10a586f8",
+   "ko": "「뭐…… 뭐뭐……읏」\n\n　뺨에 뜨거운 감촉."
+  },
+  {
+   "id": "da0302:T00092",
+   "source_sha256": "a53cd70826d7bb91220331bb30295646feffda76fe897869c737415ddedc42f6",
+   "ko": "조금 피가 흐르고 있다."
+  },
+  {
+   "id": "da0302:T00093",
+   "source_sha256": "c756cc8ced2fcf3c16dbd0190b47ab5f2073a1a930184fb62c0672efd76915c6",
+   "ko": "총탄이 스친 것이다."
+  },
+  {
+   "id": "da0302:T00094",
+   "source_sha256": "c700c9458143dfa48cc32fb6dc605ca368f9c7281bd8aa96c6a58ed7c7f2616d",
+   "ko": "「무슨 짓이――"
+  },
+  {
+   "id": "da0302:T00095",
+   "source_sha256": "ce6f929961351f27dc98f6e83b34e3c056399bf6f9fe209e11cd700a1fb36e80",
+   "ko": "」\n\n　무슨 짓이냐――고 고함치기보다도 전에, 거울인가 무언가가 깨지는 소리가 회랑 전체에 울려 퍼졌다."
+  },
+  {
+   "id": "da0302:T00096",
+   "source_sha256": "e20dc476105594843c07b6baffb29ef3ff2df73b6e00ab1800ac4ae70f9bf683",
+   "ko": "「……!?」"
+  },
+  {
+   "id": "da0302:T00097",
+   "source_sha256": "48d851ab11258c70fac80a80d42e09c396d1b01a1175131478485c047ca09ead",
+   "ko": "등 뒤를 돌아보니―― "
+  },
+  {
+   "id": "da0302:R00005",
+   "source_sha256": "22a5bebe19dfdce32147b1643d3157f2520606070028ef42d99b9c99fd83b279",
+   "ko": "・・・・・・・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0302:T00098",
+   "source_sha256": "8fc52b72fbc6b4bb5a7dd716ad6eb9010b07699ff7ca49535b280d6190b90f77",
+   "ko": "공간이 꿰뚫려 있었다"
+  },
+  {
+   "id": "da0302:T00099",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  },
+  {
+   "id": "da0302:T00100",
+   "source_sha256": "7b0eb8e6b7be438edc9a97a95d996b186819e1426ab84d21817f196a30302336",
+   "ko": "허공에 뚫린 『탄흔』에서 『균열』이 번져 나갔다."
+  },
+  {
+   "id": "da0302:T00101",
+   "source_sha256": "134f038d6f7fddf6bfc66db1b44e712af9b6d6df199f1a3ae95650b54d8e3f6c",
+   "ko": "그것을 시작으로 눈앞에 있는 광경 전부가 급속한 기세로 금이 가기 시작한다."
+  },
+  {
+   "id": "da0302:T00102",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0302:R00006",
+   "source_sha256": "fbee93633a78678bb2ab39997c8f5127a4b27206b9c3db9bca41590bc2f8c58c",
+   "ko": "디스펠",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0302:T00103",
+   "source_sha256": "671eab875b919f2bbaa4f425e551d3c2709400784ec11520bb337743c067a77c",
+   "ko": "해주"
+  },
+  {
+   "id": "da0302:T00104",
+   "source_sha256": "1b1064de7c8c5db43181554846f8081085a49f69382af91df1bdf23da3442574",
+   "ko": "했다.\n결계 밖으로 나간다. 대비해라」"
+  },
+  {
+   "id": "da0302:T00105",
+   "source_sha256": "a81221bccf3e8c64f186de7ca79a4f003c7bd187a95f591736b2985d2fcb3284",
+   "ko": "「잠…… 우오아아아앗!?」"
+  },
+  {
+   "id": "da0302:T00106",
+   "source_sha256": "e2a20eada1a6265711b0b3597d06737eb70ae42b0423a1a7681ded7d194e4699",
+   "ko": "한순간 중력이 소멸했다."
+  },
+  {
+   "id": "da0302:T00107",
+   "source_sha256": "32a093ba3e700ece84a2a5dad49e09d92a46f15420519e9221969af37a7fa19d",
+   "ko": "세계가 부서져 흩어지는 것과 함께 발판이 사라진다."
+  },
+  {
+   "id": "da0302:R00007",
+   "source_sha256": "20ca418c83492244954fcaa72c7e5427c8d711a0f022a1a9edb9c610961c913b",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0302:T00108",
+   "source_sha256": "223821e46794885fc6fbdb30ffe510b3a7010c4acbd9647d5107382437acf384",
+   "ko": "무대 배경막"
+  },
+  {
+   "id": "da0302:T00109",
+   "source_sha256": "d5260bb1a1ba41acd5c19a33ec998ff051977f6f980ae5e343d78a93878f6ab2",
+   "ko": "이었던 세계 너머에 펼쳐지는 것은 그저 칠흑 같은 암흑."
+  },
+  {
+   "id": "da0302:T00110",
+   "source_sha256": "0a042821445bdd22e077e7aa38c30a0c052ee527c26d9d46df276c425fefa7de",
+   "ko": "추락한다."
+  },
+  {
+   "id": "da0302:R00008",
+   "source_sha256": "9e01e7b843be92a9d32129c0661107e163b54042ac97ad03fcafa75e40d331b6",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0302:T00111",
+   "source_sha256": "389bbac1b256d36df12ea23e0ea5db3f3b5a4242c671c915091732e62596b8b4",
+   "ko": "어둡"
+  },
+  {
+   "id": "da0302:T00112",
+   "source_sha256": "a264d5080a5230194c57837a6893ef2944a9eeb41c94c252bef30d746d5b4256",
+   "ko": "고 어두운 심연을."
+  },
+  {
+   "id": "da0302:T00113",
+   "source_sha256": "2719480895155d07d933a6175d88713fc3b42032a8bd6f5f0ea7a4d14958692e",
+   "ko": "어딘지도 모를 차원으로."
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0302:R00002",
+   "kind": "omit_redundant",
+   "note": "한국어 '쓰러진'으로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0302:R00004",
+   "kind": "omit_redundant",
+   "note": "한국어 '연도'로 의미가 온전히 전달되므로 일본어 음독 루비 생략"
+  },
+  {
+   "id": "da0302:R00007",
+   "kind": "omit_redundant",
+   "note": "한국어 '무대 배경막'으로 의미가 온전히 전달되므로 일본어 독음 루비 생략"
+  },
+  {
+   "id": "da0302:R00008",
+   "kind": "omit_redundant",
+   "note": "한국어 '어둡고'로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  }
+ ]
+}

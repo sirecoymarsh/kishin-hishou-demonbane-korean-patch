@@ -1,0 +1,568 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0016_da0113",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0113:T00001",
+   "source_sha256": "9adec41aadc1e76b177e00ce614f54f0a6255108a5ab72d77a928db1c2dc646c",
+   "ko": "「쿠로 오빠야!」"
+  },
+  {
+   "id": "da0113:T00002",
+   "source_sha256": "4ca00f47940161934e0a284d22679a83422d82a52a5d6c1f49d1e891bbe0afe5",
+   "ko": "「쿠로――!」"
+  },
+  {
+   "id": "da0113:T00003",
+   "source_sha256": "5cf48e1eeba836a5f9639400b0cf13cec6bf4e2d659a6c7a354a91decd2a6300",
+   "ko": "「쿠로~」"
+  },
+  {
+   "id": "da0113:T00004",
+   "source_sha256": "49af13b482548553dc4371451d923e16ddf149331d72b4c3135f8020b3058f93",
+   "ko": "「다들!　무사했구나!」\n\n　다행히도 라이카 씨 일행은 무사했다."
+  },
+  {
+   "id": "da0113:T00005",
+   "source_sha256": "7730a7e2532b83f193ae112b60edf3d825ebc86d4dc95f3d0b40e25b19b6a2bf",
+   "ko": "하지만 베스파시아누스가 넌지시 비쳤던 대로, 여기서 무언가가 일어났다는 건 틀림없다.\n\n　깨진 스테인드글라스."
+  },
+  {
+   "id": "da0113:T00006",
+   "source_sha256": "cf89efb45c2eed64825862d41e3b9caf8f2766325949fc88f152747dbe78c9c9",
+   "ko": "그리고 바닥에 남겨진 커다란 혈흔."
+  },
+  {
+   "id": "da0113:T00007",
+   "source_sha256": "d92206364c29d7de88061c56a05b1a9cf772ef7268c6887b5d4e1264c33824c5",
+   "ko": "십중팔구 그 피의 괴물이겠지."
+  },
+  {
+   "id": "da0113:T00008",
+   "source_sha256": "5a67cf4fa602fd8248eadf46f1f769fb46851873855e7e16c7c90b8d7276700c",
+   "ko": "「……무슨 일이 있었던 거야?」"
+  },
+  {
+   "id": "da0113:T00009",
+   "source_sha256": "91a0480d9aec5fb8d702922b393e24f627798f90626a9407dad25e1398302ca8",
+   "ko": "「잘 모르겠어……\n　붉은 그림자가 무서운 얼굴을 한 남자로 변하더니――」"
+  },
+  {
+   "id": "da0113:T00010",
+   "source_sha256": "41ae862295a0510895deca77712e5f762eeec57f9174f13d31846dca879c5008",
+   "ko": "「몸이 새까맣게 변해서\n　변신했어!」"
+  },
+  {
+   "id": "da0113:T00011",
+   "source_sha256": "b22b20a9e5a1bd7e9d6ea1731e4be542c89f53fe43f5515cb18e837f9f48be85",
+   "ko": "「새까맣게……?」"
+  },
+  {
+   "id": "da0113:T00012",
+   "source_sha256": "2d57a08995624d819307fc058d8868f1b190e04a4db6c803819a109d60ed0f67",
+   "ko": "「……검은 천사야」"
+  },
+  {
+   "id": "da0113:T00013",
+   "source_sha256": "8500a753249edcf796a93e294b4147afd941d7a522ee9e724b9da0cf4420d610",
+   "ko": "「천사라고?」"
+  },
+  {
+   "id": "da0113:T00014",
+   "source_sha256": "3f26cf441c4b643f12fa9a6a25e6700800b5adb04cc8d59b4fa8849f7cda7323",
+   "ko": "「검은 갑옷을 입고,\n　로봇 날개가 돋아 있었어」"
+  },
+  {
+   "id": "da0113:T00015",
+   "source_sha256": "257ee8fb1135e6e3f3066310965afbfe6142cbc9243e5581ebeb47dd5da04001",
+   "ko": "「――――」"
+  },
+  {
+   "id": "da0113:T00016",
+   "source_sha256": "f02212bf54af7ac57351161554eeafe16efa35e7ac90f6cb2983860cfb5627bf",
+   "ko": "나와 알은 자기도 모르게 서로 마주 보았다."
+  },
+  {
+   "id": "da0113:T00017",
+   "source_sha256": "68aa553a02bdd58e37417f003fc092f23b83593a4852d09bd0c31cc587ae2b99",
+   "ko": "오랫동안 보이지 않았던 알의 심각한 얼굴."
+  },
+  {
+   "id": "da0113:T00018",
+   "source_sha256": "8e673097303f65d4b1922c7a1e4fa03dda296d736fcb9b144a410b403b5e1f29",
+   "ko": "아마 나도 비슷한 표정을 짓고 있겠지.\n\n\n\n　――"
+  },
+  {
+   "id": "da0113:R00001",
+   "source_sha256": "1d3b1a8910b2bc71c7fa2f6243194b1949101d36c8bea0e11658b935f2c34128",
+   "ko": "산달폰",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0113:T00019",
+   "source_sha256": "dbcdca848e22d587eea19804ce28d02ac62bf6aea7eec694195995d6c0f49e27",
+   "ko": "흑천사"
+  },
+  {
+   "id": "da0113:T00020",
+   "source_sha256": "a3d28889960a7937556792be82004011eeb42d671c97eaeec96e92e5307e6910",
+   "ko": ".\n\n\n　있을 수 없는 일이다."
+  },
+  {
+   "id": "da0113:T00021",
+   "source_sha256": "c4890ad6c07a4d0b473813bd000d27f893660e7cc5afee818ac5d259bbd3590e",
+   "ko": "하지만 우리는 방금 전, 그 『있을 수 없는 일』에 습격당했다."
+  },
+  {
+   "id": "da0113:T00022",
+   "source_sha256": "bca9d6ecbad77143024c3595804051590d956a13cea21db79989b9ae4d601e62",
+   "ko": "사실은 사실로서 받아들일 수밖에 없다."
+  },
+  {
+   "id": "da0113:T00023",
+   "source_sha256": "260db748e7fac736114f2017320fa41c69740caedabeb83359cca309dad70e4e",
+   "ko": "「용케 무사했군……」"
+  },
+  {
+   "id": "da0113:T00024",
+   "source_sha256": "c6b82ec3c895d68b56c1501e4703e322539e5ca47d6542058d0a10e0512f8da8",
+   "ko": "「응…… 도움을 받았거든」"
+  },
+  {
+   "id": "da0113:T00025",
+   "source_sha256": "6485fac8cd748c75beacaf20a3e21563fb07fcd37b1cecdc4611071f20a3e501",
+   "ko": "「도움을 받았다고…… 누구한테?」"
+  },
+  {
+   "id": "da0113:T00026",
+   "source_sha256": "a2bb1ad2716aae711a167e14ef288584cd56930645e6c31bbfa814c9b52f5362",
+   "ko": "「……모르는 아이」"
+  },
+  {
+   "id": "da0113:T00027",
+   "source_sha256": "36de1c474b61eef22b7235ac23ec65c81cadc85eae4d689b38e96449caa284a0",
+   "ko": "「……하아?」"
+  },
+  {
+   "id": "da0113:T00028",
+   "source_sha256": "984f018a7028fe21da2ae1236ced913822f6ee61c8f1bb2104a9cba00b0001a9",
+   "ko": "「무서운 "
+  },
+  {
+   "id": "da0113:R00002",
+   "source_sha256": "a050ca136404a57e3ad168affc7ee86ddfe27548a0578ed125a618a337dbcd88",
+   "ko": "얼굴",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0113:T00029",
+   "source_sha256": "c762ed73d49bee83bae7d83a0988cbfd2da9ecace74685e5e04a8b3539ad513d",
+   "ko": "표정"
+  },
+  {
+   "id": "da0113:T00030",
+   "source_sha256": "40d41988f5f7bb8577efdb98fd1575ab947d1cf83e1f8bffdf0ddce50feae161",
+   "ko": "을 하고 있었지만,\n　귀여운 남자아이였는데」"
+  },
+  {
+   "id": "da0113:T00031",
+   "source_sha256": "898a4ef6dce7ae14308dd8d1a62efaf85515abe828af910de4f48eb45ae93e54",
+   "ko": "「아니…… 그렇게 기쁜 얼굴 하지 마」"
+  },
+  {
+   "id": "da0113:T00032",
+   "source_sha256": "82796c1d189ca297fd5f7d38b526d89f4708f75597a69ba95c4f74537a2c004a",
+   "ko": "「굉장했단 말이야~.\n　이렇게 검을 두 자루 쥐고서,\n　보이지도 않을 만큼 빠른 스피드로 싸우고」"
+  },
+  {
+   "id": "da0113:T00033",
+   "source_sha256": "d61cf8c022a33c8fb753f48edea144ddcd01464ba894549be7055d3c18a0ef2b",
+   "ko": "「……누구지?」"
+  },
+  {
+   "id": "da0113:T00034",
+   "source_sha256": "1caa1ef6f81448b901eb6cdb1a69773bb750c689cb54e0c8f26b3c448a6e1211",
+   "ko": "「총도 썼어. 두 개를 동시에,\n　이렇게 액션 영화처럼」"
+  },
+  {
+   "id": "da0113:T00035",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0113:R00003",
+   "source_sha256": "762685c5877de1fec650d01e149b43d31d927091f0cdfc863f7a42fdaa190594",
+   "ko": "투 소드",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0113:T00036",
+   "source_sha256": "6d535202d32daeac3c59595f60bdc6e7a35fdc0a6b9339992dbba6d4cc8baffd",
+   "ko": "이도류"
+  },
+  {
+   "id": "da0113:T00037",
+   "source_sha256": "19e91375244963223e5894c601a6cc7028bf0e9754a9d7bb0fe4ef2b751a3423",
+   "ko": "……」"
+  },
+  {
+   "id": "da0113:T00038",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0113:R00004",
+   "source_sha256": "1c348cd8292b9652b2d6e6b6011eab11ff465bca4e681ebfc663fce76a61b26a",
+   "ko": "투 건",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0113:T00039",
+   "source_sha256": "27f2746df6ee44e58485a65dcc789d1380ab5ffc6c65c6ccd749c6432d8ef9a3",
+   "ko": "쌍권총"
+  },
+  {
+   "id": "da0113:T00040",
+   "source_sha256": "b63d8787fbbd07a37f542589a7d7e8fdaf498ed037504ee1eb48354f46f71495",
+   "ko": "……?」\n\n　……얼마나 통속적이고 부끄러운 녀석인가."
+  },
+  {
+   "id": "da0113:T00041",
+   "source_sha256": "cdcaf2bf1b387821fcf1a459592a3db96ad3d4e115cb2182ba2ae84f5b7a7a89",
+   "ko": "대중영합이니, 인기 끌기용이니, 기호뿐이라 얄팍하다느니 하며 바보 취급해 주마.\n\n　하지만 정말로 정체가 누구일까?"
+  },
+  {
+   "id": "da0113:T00042",
+   "source_sha256": "dc809282d38349773358a41e838421cee2be23345700b5699cbedff7aaada640",
+   "ko": "이 괴사건에 뭔가 관련이 있는 인물인 걸까.\n\n　모르겠다."
+  },
+  {
+   "id": "da0113:T00043",
+   "source_sha256": "a24786a861f50e948f053a8d2a6322cf7544a4b8f224d73dc3a824b16cc4e11b",
+   "ko": "결국에는 아무것도 모르는 상태 그대로다."
+  },
+  {
+   "id": "da0113:T00044",
+   "source_sha256": "146e2f85a65c7d4f1db8173e3163bb154fe0cdbe4c3d69b7d946ba31eb381d7c",
+   "ko": "단 하나 확실히 알고 있는 것은――"
+  },
+  {
+   "id": "da0113:T00045",
+   "source_sha256": "fd35a8c10773894c9ea24d3003efc2a610fd1b79423414c34db71f8e50d1573f",
+   "ko": "사태가 확실히 위험한 쪽으로 흘러가고 있다는 것뿐이다."
+  },
+  {
+   "id": "da0113:T00046",
+   "source_sha256": "a180ed53e66ba9aa7f2b7664d85046e6d93d3009bb38624f833662ac2d62c66a",
+   "ko": "젠장할."
+  },
+  {
+   "id": "da0113:T00047",
+   "source_sha256": "ed594005f0afa5b97e4eee6a1710554c3784c2892707e99312cde16c2308ee62",
+   "ko": "「아무래도 무사했던 모양이군」"
+  },
+  {
+   "id": "da0113:T00048",
+   "source_sha256": "5e696371811a8b8b23f1ad51499421321769220ff056b541b3869086e60b94f7",
+   "ko": "「……"
+  },
+  {
+   "id": "da0113:R00005",
+   "source_sha256": "8abe22c91f0939b6aab3db77f86d607dd7063710622f9cd851250b3a7e367dbc",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0113:T00049",
+   "source_sha256": "cd98e43da31bb1b90dc152851c85c7d266d47ba97bc5ff7bd137c5920429d467",
+   "ko": "선생님"
+  },
+  {
+   "id": "da0113:T00050",
+   "source_sha256": "3fbf5ceb89d00476904e1df9926592689d942df8ba21d3cd76fa1b87cee5346a",
+   "ko": "」\n\n　밖에서는 슈루즈베리 선생님과 아까 그 소녀가 우리를\n기다리고 있었다."
+  },
+  {
+   "id": "da0113:T00051",
+   "source_sha256": "6738d435144354acadd16919631102657045865cab8abe40f748792490cc8e1c",
+   "ko": "「퇴학했다고 들었는데, 뭐야.\n　성실하게 정진하고 있지 않은가」"
+  },
+  {
+   "id": "da0113:T00052",
+   "source_sha256": "450a9701d2f0560e2a40bed7aad411ae7b19e0d51a6e0429d08d04061b48a278",
+   "ko": "「어쩌다 보니 그렇게 됐어」"
+  },
+  {
+   "id": "da0113:T00053",
+   "source_sha256": "e091827325d78f488aa3a8f902ad92d08ae620d936042f04ca5eee75742f7eeb",
+   "ko": "「그래서…… 누구냐, "
+  },
+  {
+   "id": "da0113:R00006",
+   "source_sha256": "ade3e0f425a2c6bd48627306b83699be8080048eeab03b936199bdc5fdb3948c",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0113:T00054",
+   "source_sha256": "1b3c5e85cc16fa0f2d74a1196c12c86b9b5b03494cb8b7d1f6270cf7641c6787",
+   "ko": "이 자"
+  },
+  {
+   "id": "da0113:T00055",
+   "source_sha256": "2e7463b4674530c530f4e9ff577ee6b3d17bfd1efd52f9802ea3f3f301108e05",
+   "ko": "는」"
+  },
+  {
+   "id": "da0113:T00056",
+   "source_sha256": "904475e4aae3d92935ec768f73c6198aabb17daab046317bedceb80f0a5568b7",
+   "ko": "「아아, 미스캐토닉 대학에서 신세를 진 선생님이야」\n\n　선생님은 고개를 끄덕이며 알에게 손을 내밀어 악수를 청한다."
+  },
+  {
+   "id": "da0113:T00057",
+   "source_sha256": "d25a7f8b705039626f29014ed9a9b55d6fb14668a1d84fe2c3b025780b5d4eaf",
+   "ko": "「라반 슈루즈베리다.\n　만나 뵙게 되어 영광이군, 알 아지프 양」"
+  },
+  {
+   "id": "da0113:T00058",
+   "source_sha256": "53943926584f38be4f833a3b8ffbafb7a2438fb43ab01d8dfea4c4aeda7de07a",
+   "ko": "「거기까지 알고 있는 게냐」"
+  },
+  {
+   "id": "da0113:T00059",
+   "source_sha256": "f7cf81ad080c98832d1d34f2f7c9487e6687266529ed0d5ce61eb70cafb0ae3f",
+   "ko": "「공론화되지는 않았지만 말이지.\n　음비학과의 높으신 분들은 난리도 아니었다네.\n　설마 잃어버린 전설의 마도서가 발견될\n　줄이야」"
+  },
+  {
+   "id": "da0113:T00060",
+   "source_sha256": "102d28f0034a889cb8eaa6ce4717f7ef0bc5c2fb0fcb6a9cca6ab5fc0e62aa92",
+   "ko": "설마 비밀도서관에 틀어박혀 있었다고는 생각지 못하겠지."
+  },
+  {
+   "id": "da0113:T00061",
+   "source_sha256": "e1f051a75d5800645ddc87181fca549c311cf5205804654f0b6e9f8fa843d792",
+   "ko": "「게다가 그 소유자가, "
+  },
+  {
+   "id": "da0113:R00007",
+   "source_sha256": "5da1eb5384c34a2998b3ddfca42fd7eae1827cfc6dbf65f3254f692dfad35c1b",
+   "ko": "커리큘럼",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0113:T00062",
+   "source_sha256": "7bcabffdb29f9e2a0a19dde8753df3476f8fc90634d322e81274f22bbd72b195",
+   "ko": "과정"
+  },
+  {
+   "id": "da0113:T00063",
+   "source_sha256": "e6c72e702c29854cb4cca1e0d85f0254be20295b140d86ee27e4fc8d447ab7ea",
+   "ko": "을 수료하지 않은\n　반쪽짜리라고 하면 더더욱 말이지」"
+  },
+  {
+   "id": "da0113:T00064",
+   "source_sha256": "84c24655a0eac98fbf17cd15db4b13ad5cfc1de6b38bb12f092ca28cb9a0ece6",
+   "ko": "「그렇게 말하는 그대도 강력한 마도서를\n　소지하고 있구나, 노현자」"
+  },
+  {
+   "id": "da0113:T00065",
+   "source_sha256": "9b1739e2472dc0f993eab03cf9469453d2cde4c702bda39e240c6e700dba87b3",
+   "ko": "「과연. 다 꿰뚫어 보는군」"
+  },
+  {
+   "id": "da0113:T00066",
+   "source_sha256": "ccd834225113a51fd197959583202a627d43efb3563317409aba17e5ca6a01e8",
+   "ko": "「알겠어, 알?」"
+  },
+  {
+   "id": "da0113:T00067",
+   "source_sha256": "2ef9f41a41022728fbb71842a1c5c8668aa242b415fbf0f9c0c2c6ea98f666a0",
+   "ko": "「……그대의 눈은 옹이구멍이냐.\n　옆에 있는 걸 뭐라고 생각하는 게냐?」"
+  },
+  {
+   "id": "da0113:T00068",
+   "source_sha256": "71949bd0580acfc6876fbd17f7361c11c41f4f05edc49e1af64d3853641fc3f6",
+   "ko": "「어……」"
+  },
+  {
+   "id": "da0113:T00069",
+   "source_sha256": "0dcc4d11bd978da81a63eba4b444a9535a0786695a154488f3678da6118a050f",
+   "ko": "선생님 옆에 서 있는 소녀에게 시선을 돌린다."
+  },
+  {
+   "id": "da0113:T00070",
+   "source_sha256": "a472a4a3e800d7aba3b3e4ccf087dd38533c337e573f3974c980027f1a3c15ea",
+   "ko": "소녀는 여전히 무표정한 채로 미동조차 하지 않는다.\n\n　하지만 듣고 보니 확실히 알과 분위기가 닮았다."
+  },
+  {
+   "id": "da0113:T00071",
+   "source_sha256": "62e6197795ff2fd594518bb3f967659810f1163110e759681f9fd5988e19526b",
+   "ko": "존재의 『질』이 같은 벡터라고 해야 할까……"
+  },
+  {
+   "id": "da0113:T00072",
+   "source_sha256": "820d8a07af5c7dc4aae548a614809f4c79a6b66f5c66ba65d6131bc24a353c78",
+   "ko": "「그 애가…… 마도서의 정령이야?」"
+  },
+  {
+   "id": "da0113:T00073",
+   "source_sha256": "5e014b14364880f28704fb9a9f44b276ca83704f7c3de4250d082a71bf08fc37",
+   "ko": "「정답이다, 다이쥬지 군.\n　이 아이가 내 마도서 『세라에노 단장』이다」"
+  },
+  {
+   "id": "da0113:T00074",
+   "source_sha256": "f01b0138c6acfef054a2c4f08946c87c2fa792e8194d2eac87b130cf0d6f3151",
+   "ko": "「『세라에노 단장』!」\n\n　『전생』에서는 클라우디우스가 계약했던 마도서다."
+  },
+  {
+   "id": "da0113:T00075",
+   "source_sha256": "d78597f99c3471a781bacee15f946190a0bebe01ab2a37d9a20b94f60ea8b044",
+   "ko": "……녀석 또한 베스파시아누스나 산달폰처럼,\n이 세계에 되살아나 있는 걸까."
+  },
+  {
+   "id": "da0113:T00076",
+   "source_sha256": "33d5be1281dd9fb8bd8600f485d887d23ad30aa15ffde5b3dc889cf527d6c74b",
+   "ko": "「자기소개하게나, 레이디」"
+  },
+  {
+   "id": "da0113:T00077",
+   "source_sha256": "16047079dcb0b57ccf2140f8850f9e4b9378c6fe216318fafea5df79eeb2cf04",
+   "ko": "「대디한테는 "
+  },
+  {
+   "id": "da0113:R00008",
+   "source_sha256": "0b555f02a0d4e5efc3c40133633ca4ddcce14c39df9bd311062699d568c1d619",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0113:T00078",
+   "source_sha256": "483c0176e9a0aa7a60fe86291652eada514efe59b194602e14d4a2b0ea78c91d",
+   "ko": "하즈키"
+  },
+  {
+   "id": "da0113:T00079",
+   "source_sha256": "bd303d1a361ae34e158b46774a98635171f75c3811787f7d83ea276b78db356f",
+   "ko": "라고 불리고 있어.\n　잘 부탁해, "
+  },
+  {
+   "id": "da0113:R00009",
+   "source_sha256": "684471df0e2585c6114f1c1f0698a2a4c483042f6f3e07d9d801fde1ee5c153e",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0113:T00080",
+   "source_sha256": "e5a97ce83e3d67251ae2903533dc35b393ff016c01f586030d725f5c75fc107f",
+   "ko": "쿠로"
+  },
+  {
+   "id": "da0113:T00081",
+   "source_sha256": "461e40defca531b9b6ca85f8aee3f5a17204b875240083d0509d8b590923b939",
+   "ko": ". 네크로노미콘」"
+  },
+  {
+   "id": "da0113:T00082",
+   "source_sha256": "8993f3a613ac3092194f980db45e4c10c7fe75f49c3338b5a3fe3e11d2f7c7f8",
+   "ko": "「대디?」"
+  },
+  {
+   "id": "da0113:T00083",
+   "source_sha256": "a4e24899ec011935a88ab5292e322cd2024d98e37a15f355f6968b6e0fde1765",
+   "ko": "「일단은 내가 저자니까 말이지.\n　부모 같은 셈이다」"
+  },
+  {
+   "id": "da0113:T00084",
+   "source_sha256": "96dc5cf7bd4205ed0572792585e75f54ed5240918f8897fb30c326327649ba2f",
+   "ko": "「……정령화해 있구나」"
+  },
+  {
+   "id": "da0113:T00085",
+   "source_sha256": "45380778973f7aa9a74986682a14f1c1d3ba39441946273296b14eb6750aa4f9",
+   "ko": "「네크로노미콘처럼 강렬한 자아는\n　가지고 있지 않아. 실체화는 마스터의\n　마력에 의존해」"
+  },
+  {
+   "id": "da0113:T00086",
+   "source_sha256": "8365ca7904fa4156c071f5eacd55516d66031f6a2cd60415c8db2c2a6ce45cad",
+   "ko": "「『세라에노 단장』\n　――하스터의 마술이군」"
+  },
+  {
+   "id": "da0113:T00087",
+   "source_sha256": "9ac6ad310f68ee0f2c4990e1d5b5d19dd76389c54215fade3bef6d62347a54fb",
+   "ko": "……아마 나와 같은 생각을 하고 있겠지."
+  },
+  {
+   "id": "da0113:T00088",
+   "source_sha256": "ee199d9b65fc4ba435671fa64b8b4601769ee76ad4254a37b2375d6b24b5b617",
+   "ko": "파괴된 구획에 잔류해 있던 독기."
+  },
+  {
+   "id": "da0113:T00089",
+   "source_sha256": "c1414e2604189ba0de3f335a98bb8c2523a450499b0ec73385a7e7defce4507f",
+   "ko": "그건 아마 하스터의 마력이다."
+  },
+  {
+   "id": "da0113:T00090",
+   "source_sha256": "501fbc81a53925ebe12e9d54d11f8170cfd14b3d3ba75b8e6df45307d965a8a4",
+   "ko": "「선생님…… 물어보고 싶은 게 있어」"
+  },
+  {
+   "id": "da0113:T00091",
+   "source_sha256": "86cf3a3291a5e23e41db78b3c2c718781859dc6622e6867827b4c233adcff2ef",
+   "ko": "「알고 있다. 어젯밤 사건에 대한 거겠지?」"
+  },
+  {
+   "id": "da0113:T00092",
+   "source_sha256": "e41b77b52dd8598f05721cb45b0f0ab2c13f0b76ebc956dbe340d8c852e7e209",
+   "ko": "「그래」"
+  },
+  {
+   "id": "da0113:T00093",
+   "source_sha256": "124d6bb526ef3a84a936072b72181b0e9e4ca95723d02eb81837059db32f30da",
+   "ko": "「뭔가 알고 있구나, 그대?」"
+  },
+  {
+   "id": "da0113:T00094",
+   "source_sha256": "44e7fe30ca342b36dae95590a8722f2b6963c4e041464cd5a201f073a8021a7f",
+   "ko": "「그 일에 대해서도 설명하지.\n　따라오게나, 다이쥬지 군.\n　알 아지프 양」"
+  },
+  {
+   "id": "da0113:T00095",
+   "source_sha256": "5ac25032ff17e0603cbc11d220008f5ef7ec15abcc5b3165beeae4dc62ea4077",
+   "ko": "「하아?　어디로 말이야?」"
+  },
+  {
+   "id": "da0113:T00096",
+   "source_sha256": "e7cc4f3707f35722b4920ed05c82ef34d78181068d58b0f6b53e1cd8b93dae39",
+   "ko": "「정해져 있지 않은가――\n　미스캐토닉 대학이다」"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0113:R00005",
+   "kind": "ruby_decision",
+   "note": "Omitted redundant phonetic reading センセ on 先生."
+  },
+  {
+   "id": "da0113:R00006",
+   "kind": "ruby_decision",
+   "note": "Omitted redundant phonetic reading こやつ on 此奴."
+  },
+  {
+   "id": "da0113:R00008",
+   "kind": "ruby_decision",
+   "note": "Omitted redundant katakana reading ハヅキ on 葉月 since Korean Hangul 하즈키 already represents the reading."
+  },
+  {
+   "id": "da0113:R00009",
+   "kind": "ruby_decision",
+   "note": "Omitted redundant katakana reading クロー on 九郎 since Korean Hangul 쿠로 already represents the reading."
+  },
+  {
+   "id": "da0113:T00056",
+   "kind": "glossary_candidate",
+   "note": "Pending glossary term ミスカトニック rendered as 미스캐토닉 per 용어집.tsv."
+  }
+ ]
+}

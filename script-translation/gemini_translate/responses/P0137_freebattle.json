@@ -1,0 +1,294 @@
+{
+  "schema": "khd-gemini-response-v1",
+  "packet_id": "P0137_freebattle",
+  "model_id": "Gemini 3.8 Flash (High)",
+  "records": [
+    {
+      "id": "freebattle:C00001",
+      "source_sha256": "7fb53c2bee46b1e14ad92028f61054728dcddace5d0fa4050aab3a034eb49516",
+      "ko": "다시 하기"
+    },
+    {
+      "id": "freebattle:C00002",
+      "source_sha256": "1cf05e09ea1bf05c13ee1cef51a7689cdb8744e204ab0611c69cb383c8dac293",
+      "ko": "타이틀로 돌아가기"
+    },
+    {
+      "id": "freebattle:C00003",
+      "source_sha256": "043cda0334a0cd65444f1f71e67c689f4ccf3dac08eb6eaa2f49f6c23209e0de",
+      "ko": "스테이지 변경"
+    },
+    {
+      "id": "freebattle:C00004",
+      "source_sha256": "7fb53c2bee46b1e14ad92028f61054728dcddace5d0fa4050aab3a034eb49516",
+      "ko": "다시 하기"
+    },
+    {
+      "id": "freebattle:C00005",
+      "source_sha256": "1cf05e09ea1bf05c13ee1cef51a7689cdb8744e204ab0611c69cb383c8dac293",
+      "ko": "타이틀로 돌아가기"
+    },
+    {
+      "id": "freebattle:C00006",
+      "source_sha256": "043cda0334a0cd65444f1f71e67c689f4ccf3dac08eb6eaa2f49f6c23209e0de",
+      "ko": "스테이지 변경"
+    },
+    {
+      "id": "freebattle:C00007",
+      "source_sha256": "7fb53c2bee46b1e14ad92028f61054728dcddace5d0fa4050aab3a034eb49516",
+      "ko": "다시 하기"
+    },
+    {
+      "id": "freebattle:C00008",
+      "source_sha256": "1cf05e09ea1bf05c13ee1cef51a7689cdb8744e204ab0611c69cb383c8dac293",
+      "ko": "타이틀로 돌아가기"
+    },
+    {
+      "id": "freebattle:C00009",
+      "source_sha256": "043cda0334a0cd65444f1f71e67c689f4ccf3dac08eb6eaa2f49f6c23209e0de",
+      "ko": "스테이지 변경"
+    },
+    {
+      "id": "freebattle:C00010",
+      "source_sha256": "7fb53c2bee46b1e14ad92028f61054728dcddace5d0fa4050aab3a034eb49516",
+      "ko": "다시 하기"
+    },
+    {
+      "id": "freebattle:C00011",
+      "source_sha256": "1cf05e09ea1bf05c13ee1cef51a7689cdb8744e204ab0611c69cb383c8dac293",
+      "ko": "타이틀로 돌아가기"
+    },
+    {
+      "id": "freebattle:C00012",
+      "source_sha256": "043cda0334a0cd65444f1f71e67c689f4ccf3dac08eb6eaa2f49f6c23209e0de",
+      "ko": "스테이지 변경"
+    },
+    {
+      "id": "freebattle:C00013",
+      "source_sha256": "7fb53c2bee46b1e14ad92028f61054728dcddace5d0fa4050aab3a034eb49516",
+      "ko": "다시 하기"
+    },
+    {
+      "id": "freebattle:C00014",
+      "source_sha256": "1cf05e09ea1bf05c13ee1cef51a7689cdb8744e204ab0611c69cb383c8dac293",
+      "ko": "타이틀로 돌아가기"
+    },
+    {
+      "id": "freebattle:C00015",
+      "source_sha256": "043cda0334a0cd65444f1f71e67c689f4ccf3dac08eb6eaa2f49f6c23209e0de",
+      "ko": "스테이지 변경"
+    },
+    {
+      "id": "freebattle:C00016",
+      "source_sha256": "7fb53c2bee46b1e14ad92028f61054728dcddace5d0fa4050aab3a034eb49516",
+      "ko": "다시 하기"
+    },
+    {
+      "id": "freebattle:C00017",
+      "source_sha256": "1cf05e09ea1bf05c13ee1cef51a7689cdb8744e204ab0611c69cb383c8dac293",
+      "ko": "타이틀로 돌아가기"
+    },
+    {
+      "id": "freebattle:C00018",
+      "source_sha256": "043cda0334a0cd65444f1f71e67c689f4ccf3dac08eb6eaa2f49f6c23209e0de",
+      "ko": "스테이지 변경"
+    },
+    {
+      "id": "freebattle:C00019",
+      "source_sha256": "7fb53c2bee46b1e14ad92028f61054728dcddace5d0fa4050aab3a034eb49516",
+      "ko": "다시 하기"
+    },
+    {
+      "id": "freebattle:C00020",
+      "source_sha256": "1cf05e09ea1bf05c13ee1cef51a7689cdb8744e204ab0611c69cb383c8dac293",
+      "ko": "타이틀로 돌아가기"
+    },
+    {
+      "id": "freebattle:C00021",
+      "source_sha256": "043cda0334a0cd65444f1f71e67c689f4ccf3dac08eb6eaa2f49f6c23209e0de",
+      "ko": "스테이지 변경"
+    },
+    {
+      "id": "freebattle:C00022",
+      "source_sha256": "7fb53c2bee46b1e14ad92028f61054728dcddace5d0fa4050aab3a034eb49516",
+      "ko": "다시 하기"
+    },
+    {
+      "id": "freebattle:C00023",
+      "source_sha256": "1cf05e09ea1bf05c13ee1cef51a7689cdb8744e204ab0611c69cb383c8dac293",
+      "ko": "타이틀로 돌아가기"
+    },
+    {
+      "id": "freebattle:C00024",
+      "source_sha256": "043cda0334a0cd65444f1f71e67c689f4ccf3dac08eb6eaa2f49f6c23209e0de",
+      "ko": "스테이지 변경"
+    },
+    {
+      "id": "freebattle:C00025",
+      "source_sha256": "7fb53c2bee46b1e14ad92028f61054728dcddace5d0fa4050aab3a034eb49516",
+      "ko": "다시 하기"
+    },
+    {
+      "id": "freebattle:C00026",
+      "source_sha256": "1cf05e09ea1bf05c13ee1cef51a7689cdb8744e204ab0611c69cb383c8dac293",
+      "ko": "타이틀로 돌아가기"
+    },
+    {
+      "id": "freebattle:C00027",
+      "source_sha256": "043cda0334a0cd65444f1f71e67c689f4ccf3dac08eb6eaa2f49f6c23209e0de",
+      "ko": "스테이지 변경"
+    },
+    {
+      "id": "freebattle:C00028",
+      "source_sha256": "7fb53c2bee46b1e14ad92028f61054728dcddace5d0fa4050aab3a034eb49516",
+      "ko": "다시 하기"
+    },
+    {
+      "id": "freebattle:C00029",
+      "source_sha256": "1cf05e09ea1bf05c13ee1cef51a7689cdb8744e204ab0611c69cb383c8dac293",
+      "ko": "타이틀로 돌아가기"
+    },
+    {
+      "id": "freebattle:C00030",
+      "source_sha256": "043cda0334a0cd65444f1f71e67c689f4ccf3dac08eb6eaa2f49f6c23209e0de",
+      "ko": "스테이지 변경"
+    },
+    {
+      "id": "freebattle:C00031",
+      "source_sha256": "7fb53c2bee46b1e14ad92028f61054728dcddace5d0fa4050aab3a034eb49516",
+      "ko": "다시 하기"
+    },
+    {
+      "id": "freebattle:C00032",
+      "source_sha256": "1cf05e09ea1bf05c13ee1cef51a7689cdb8744e204ab0611c69cb383c8dac293",
+      "ko": "타이틀로 돌아가기"
+    },
+    {
+      "id": "freebattle:C00033",
+      "source_sha256": "043cda0334a0cd65444f1f71e67c689f4ccf3dac08eb6eaa2f49f6c23209e0de",
+      "ko": "스테이지 변경"
+    },
+    {
+      "id": "freebattle:C00034",
+      "source_sha256": "7fb53c2bee46b1e14ad92028f61054728dcddace5d0fa4050aab3a034eb49516",
+      "ko": "다시 하기"
+    },
+    {
+      "id": "freebattle:C00035",
+      "source_sha256": "1cf05e09ea1bf05c13ee1cef51a7689cdb8744e204ab0611c69cb383c8dac293",
+      "ko": "타이틀로 돌아가기"
+    },
+    {
+      "id": "freebattle:C00036",
+      "source_sha256": "043cda0334a0cd65444f1f71e67c689f4ccf3dac08eb6eaa2f49f6c23209e0de",
+      "ko": "스테이지 변경"
+    },
+    {
+      "id": "freebattle:C00037",
+      "source_sha256": "7fb53c2bee46b1e14ad92028f61054728dcddace5d0fa4050aab3a034eb49516",
+      "ko": "다시 하기"
+    },
+    {
+      "id": "freebattle:C00038",
+      "source_sha256": "1cf05e09ea1bf05c13ee1cef51a7689cdb8744e204ab0611c69cb383c8dac293",
+      "ko": "타이틀로 돌아가기"
+    },
+    {
+      "id": "freebattle:C00039",
+      "source_sha256": "043cda0334a0cd65444f1f71e67c689f4ccf3dac08eb6eaa2f49f6c23209e0de",
+      "ko": "스테이지 변경"
+    },
+    {
+      "id": "freebattle:C00040",
+      "source_sha256": "7fb53c2bee46b1e14ad92028f61054728dcddace5d0fa4050aab3a034eb49516",
+      "ko": "다시 하기"
+    },
+    {
+      "id": "freebattle:C00041",
+      "source_sha256": "1cf05e09ea1bf05c13ee1cef51a7689cdb8744e204ab0611c69cb383c8dac293",
+      "ko": "타이틀로 돌아가기"
+    },
+    {
+      "id": "freebattle:C00042",
+      "source_sha256": "043cda0334a0cd65444f1f71e67c689f4ccf3dac08eb6eaa2f49f6c23209e0de",
+      "ko": "스테이지 변경"
+    },
+    {
+      "id": "freebattle:C00043",
+      "source_sha256": "7fb53c2bee46b1e14ad92028f61054728dcddace5d0fa4050aab3a034eb49516",
+      "ko": "다시 하기"
+    },
+    {
+      "id": "freebattle:C00044",
+      "source_sha256": "1cf05e09ea1bf05c13ee1cef51a7689cdb8744e204ab0611c69cb383c8dac293",
+      "ko": "타이틀로 돌아가기"
+    },
+    {
+      "id": "freebattle:C00045",
+      "source_sha256": "043cda0334a0cd65444f1f71e67c689f4ccf3dac08eb6eaa2f49f6c23209e0de",
+      "ko": "스테이지 변경"
+    },
+    {
+      "id": "freebattle:C00046",
+      "source_sha256": "7fb53c2bee46b1e14ad92028f61054728dcddace5d0fa4050aab3a034eb49516",
+      "ko": "다시 하기"
+    },
+    {
+      "id": "freebattle:C00047",
+      "source_sha256": "1cf05e09ea1bf05c13ee1cef51a7689cdb8744e204ab0611c69cb383c8dac293",
+      "ko": "타이틀로 돌아가기"
+    },
+    {
+      "id": "freebattle:C00048",
+      "source_sha256": "043cda0334a0cd65444f1f71e67c689f4ccf3dac08eb6eaa2f49f6c23209e0de",
+      "ko": "스테이지 변경"
+    },
+    {
+      "id": "freebattle:T00001",
+      "source_sha256": "77e750ed66b3101a8fb2e08774f9feb4cdfa440b52b39076acaa362ebb55580b",
+      "ko": "스코어 : {SCORE} 데모베"
+    },
+    {
+      "id": "freebattle:T00002",
+      "source_sha256": "eb69cf179f593b330387196a574e6a29afe3840d5c4d50250bca8e510e4b1a24",
+      "ko": "프레임레이트 : {FPS} FPS"
+    },
+    {
+      "id": "freebattle:T00003",
+      "source_sha256": "bfa6d42002d6c287a73ddba94dab6459961a209b302a9240a2d783f879749c49",
+      "ko": "OS : {OS}"
+    },
+    {
+      "id": "freebattle:T00004",
+      "source_sha256": "87b9754fced0be3fd333aaaaa501f1ba02d9d53225ea8639a7f5144e51909e48",
+      "ko": "CPU : {CPU}"
+    },
+    {
+      "id": "freebattle:T00005",
+      "source_sha256": "95bdef86b9d2e252bf88755c10db79cc58bc0f511b2d5f5676a5093f8e80fbf3",
+      "ko": "메모리 : {MEMORY} MB"
+    },
+    {
+      "id": "freebattle:T00006",
+      "source_sha256": "501b5b8a81883228853f3b4e1fc1fb9035fdba331e4b74b5b58be3d80f4a249b",
+      "ko": "이 부근 건드려서 승리 판정.\n패배 판정."
+    },
+    {
+      "id": "freebattle:T00007",
+      "source_sha256": "f8ce12c0e1569b2270e3061e007d09570579dda362e9488baf98d3473486a41d",
+      "ko": "승리"
+    },
+    {
+      "id": "freebattle:T00008",
+      "source_sha256": "fc387bb85d826d002c0e8b2d693d3a5226caee5a8c68ff598d8f448ed0a626d8",
+      "ko": "패배"
+    }
+  ],
+  "issues": [
+    {
+      "id": "freebattle:T00006",
+      "kind": "dev_memo",
+      "note": "developer memo left in benchmark screen script"
+    }
+  ]
+}

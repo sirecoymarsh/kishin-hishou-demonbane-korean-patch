@@ -1,0 +1,483 @@
+{
+  "schema": "khd-gemini-response-v1",
+  "packet_id": "P0130_da9902",
+  "model_id": "Gemini 3.8 Flash (High)",
+  "records": [
+    {
+      "id": "da9902:T00001",
+      "source_sha256": "f2d5d34ec9bb1281cdb00523127c941138e7dc72dae498badc5490f20301c934",
+      "ko": "――그리고, 저는 눈을 떴습니다."
+    },
+    {
+      "id": "da9902:T00002",
+      "source_sha256": "5c3fcf57c202c955011d30f14156e33086995fb74ddb87691bba4d95bfb52ede",
+      "ko": "「……으……응……」"
+    },
+    {
+      "id": "da9902:T00003",
+      "source_sha256": "b1e4d5b1e6e69eb6816b06c2dd0c4f5d8279f8a0bd14d0fbacd9427effb728d6",
+      "ko": "선잠에서 깨어나니, 여전한 서류 더미."
+    },
+    {
+      "id": "da9902:T00004",
+      "source_sha256": "6ef3942d9303f7fd08fc39d2eec1dda026630b2253bfa739d88e2a681cd656fb",
+      "ko": "마왕이니 감옥이니 사슬이니 저주니, 영혼의 압살을 꾀하는 그 밖의 온갖 우주적 악의의 산물.\n\n\n　절로 한숨이 새어 나온다.\n\n\n　요즘은 특히 바쁘다."
+    },
+    {
+      "id": "da9902:T00005",
+      "source_sha256": "a96b9e889572a2eea254f8eabf316158b0e95e7543b8d7fd7fdf154a55863a06",
+      "ko": "골치 아픈 안건을 하나 더 늘려 버렸으니까."
+    },
+    {
+      "id": "da9902:T00006",
+      "source_sha256": "f0394b4510478b8cef0983071682a08a85f294acf01591b1228e2b8f6b3086cd",
+      "ko": "뭐, 그 일에 관해서는 자업자득이다. 어쩔 수 없다."
+    },
+    {
+      "id": "da9902:R00001",
+      "source_sha256": "fe65050b6cf95368d85f30fd366c092a15824886d51defd754887d1e968f7491",
+      "ko": "・・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da9902:T00007",
+      "source_sha256": "0d53b66138f718027e7e608447906568b731ba61cfa4ac7ac8e1bb6002af4505",
+      "ko": "그런"
+    },
+    {
+      "id": "da9902:R00002",
+      "source_sha256": "b750c2ece644240b0f8e138a0602b89062dcd4cb934044a963e76bf34670b76d",
+      "ko": "・・・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da9902:T00008",
+      "source_sha256": "e4b851c5e16446d2e5cee4844c7930d99b8d0af4a416a4682c02fb64f9b8ff2e",
+      "ko": " 거대한 물건"
+    },
+    {
+      "id": "da9902:R00003",
+      "source_sha256": "b750c2ece644240b0f8e138a0602b89062dcd4cb934044a963e76bf34670b76d",
+      "ko": "・・・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da9902:T00009",
+      "source_sha256": "14cd42772227863080aa309cd67d5faee22bd3950552043a7ee128f9278592fd",
+      "ko": "만들어 낸"
+    },
+    {
+      "id": "da9902:R00004",
+      "source_sha256": "399541026b89787f76b6312375d21b42244869347cf836059cf9eba724bb4824",
+      "ko": "・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da9902:T00010",
+      "source_sha256": "159f4405819e80fa71f18de033bbeb84f937f35b5fe7093e7f1d2ac372879fa8",
+      "ko": "이상"
+    },
+    {
+      "id": "da9902:T00011",
+      "source_sha256": "46cd862a0414cfec16db30e9e244490f09760659329ed3b62565b8edf031a1c7",
+      "ko": ", 각오했던 일이다――\n\n　그럼에도 여전히, 내게는 그것을 완수할 의무가 있다."
+    },
+    {
+      "id": "da9902:T00012",
+      "source_sha256": "68e89554b1a9e1edbe34d5ee56e23d51016fb20cb8db93352ac40df8f4e05cca",
+      "ko": "그렇게 생각한다."
+    },
+    {
+      "id": "da9902:T00013",
+      "source_sha256": "4921ccfa021e961ec1ec05311fc23e01de7cb85e16a118fb782d63728922f65b",
+      "ko": "이 아컴시티―― 세계 최고봉의 마술도시는, 극히 불안정한 상태에 놓여 있다."
+    },
+    {
+      "id": "da9902:R00005",
+      "source_sha256": "dda0f2e1d812bd4f2c6795286fecf4df8bf4516d7bd4db315675576f2307af31",
+      "ko": "축제",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da9902:T00014",
+      "source_sha256": "b56b16bd7ad180412f175922020c958e5e8f31852427455a1566fbcd13613254",
+      "ko": "제사"
+    },
+    {
+      "id": "da9902:T00015",
+      "source_sha256": "a56e832876dccd21597a83150648447d8026c15fb885ce0b2c9860bf01b7e896",
+      "ko": "와도 같은 활력이 방대한 마력을 낳아, 도시 자체를 거대한 술식으로\n바꾸는 한편, 복잡괴기한 이형을 키워 내는 고독의 항아리가 될 수도 있다.\n\n　그리 머지않은 미래."
+    },
+    {
+      "id": "da9902:T00016",
+      "source_sha256": "b77ec6b64316e08fcf9ecd32ef68024a2e27c22e0fb457f06253741a2eb8f134",
+      "ko": "머지않아 이 거리에 강력한 괴이가 덮쳐올지도 모른다."
+    },
+    {
+      "id": "da9902:T00017",
+      "source_sha256": "046f82c87c551cbf558e1b691c6a669e3f45850b596007327aafc0b3fe84e5f2",
+      "ko": "그에 대항할 수단을, 우리는 갖추어 두어야만 하는 것이다――"
+    },
+    {
+      "id": "da9902:T00018",
+      "source_sha256": "fa912013c2597fc854ac7d16116d13df94c893f5d38613d5f8edbc64d030b376",
+      "ko": "노크 소리에, 생각이 현실로 되돌아온다."
+    },
+    {
+      "id": "da9902:T00019",
+      "source_sha256": "d0914a980856b634e8251886adad2dc0e7a8ec667f8fbc9f66f5271968ca2124",
+      "ko": "「열려 있어요. 들어오세요」"
+    },
+    {
+      "id": "da9902:T00020",
+      "source_sha256": "a6f84c7a8be8ddd924c5e0260fa2c350f6dbedd80e34fe06b1f3b2d1b5a226f2",
+      "ko": "「――실례하겠습니다」"
+    },
+    {
+      "id": "da9902:T00021",
+      "source_sha256": "bfd35ded5cd1a5e809224dbee739433d310442d3e3e7e74d372e77eb27af18fc",
+      "ko": "「아가씨, 라이카 님께서 와 계십니다」"
+    },
+    {
+      "id": "da9902:T00022",
+      "source_sha256": "f692ea04222987e0aa6a2f723d680c4a1384e5dec247362d6f4b499a16080353",
+      "ko": "「어머, 벌써 그런 시간……\n　알겠어요. 곧 가겠어요」"
+    },
+    {
+      "id": "da9902:T00023",
+      "source_sha256": "d3995a4196021fca44a3e1a6e88de695fd5a564ea7aecee61d126f0b9c56e168",
+      "ko": "괴이에 대항할 수단――\n　그중 하나가, 다이지 크로의 친구 시스터 라이카와 관련된 일이다."
+    },
+    {
+      "id": "da9902:T00024",
+      "source_sha256": "3209cabc30700918931dceca9db8095031b1df69fe9cc151c5b07b3fba230751",
+      "ko": "「그나저나…… 참으로 까다로운"
+    },
+    {
+      "id": "da9902:R00006",
+      "source_sha256": "7f4066ca9efd4d588623da9e17d9ad63f67a70c5f2a532c4a4c3c77099b4bc58",
+      "ko": "오더",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da9902:T00025",
+      "source_sha256": "266125ddb97f1877b7dbff6bf88d9d0d0b5e4fb2f8ec473c395fd467df352e9b",
+      "ko": "주문"
+    },
+    {
+      "id": "da9902:T00026",
+      "source_sha256": "595137750da90e086072bbc5118e3cce728bc2db8c8cdf55d8a01d7f9b614896",
+      "ko": "이었네요. 완성하기까지 얼마나 많은 마도 기술이 도입되었는지」"
+    },
+    {
+      "id": "da9902:T00027",
+      "source_sha256": "b606fa069a3bc15edf113f2afec5d5d6aa1aaad1e0d36ada3241f675ed508c5f",
+      "ko": "「미안해요.\n　하나부터 열까지 신세를 져서……」"
+    },
+    {
+      "id": "da9902:T00028",
+      "source_sha256": "108f188602a244221793a8eee5581f3757babb136af92e19d7c64abef5a1c94a",
+      "ko": "「후후…… 이 일에 관해서는,\n　저도 공범이니까요」"
+    },
+    {
+      "id": "da9902:T00029",
+      "source_sha256": "13ecbab4d8c83777cde5461aa23d8c99bca9f3cd7b8f72aed569dacb7bc7fd28",
+      "ko": "「게다가 어머니도 오랜만에\n　의욕이 넘치셨는걸요」"
+    },
+    {
+      "id": "da9902:T00030",
+      "source_sha256": "7ac1c67218b50919ea533aebf37beb7a306a03e1b77756a94d93bb2731df809f",
+      "ko": "「어머나 세상에……\n　그럼, 그 『발명 여왕』이신\n　하도 부인께서 직접?」"
+    },
+    {
+      "id": "da9902:T00031",
+      "source_sha256": "ed5632d2a28f8bd4cec1025b32220007be8e239a21add67e64705c38c3998086",
+      "ko": "「네. 『이것이야말로 “부단한 전진”!』이라거나, 『“과학의 기사” 부활!』이라면서, 나잇값도 못하시고, 정말이지……」"
+    },
+    {
+      "id": "da9902:T00032",
+      "source_sha256": "e1a25d5eef7266eafeccc25dfd8355b1be5b7ed16f234f8c3b4ec9b39fdd06f3",
+      "ko": "「아, 도착했네요. 여기랍니다」"
+    },
+    {
+      "id": "da9902:T00033",
+      "source_sha256": "6ae637c1e19054302c8a4550587ef9b6110d3bc14ca8d065a33d086d24f454b7",
+      "ko": "「와아, 대단해……」"
+    },
+    {
+      "id": "da9902:T00034",
+      "source_sha256": "91b1eb6f15107dee4eec1224ee50b16f0db7b886b28592044a394db001badf50",
+      "ko": "「이곳에는 하도 재벌이 보유한 기술의 집대성이 보관되어 있습니다」"
+    },
+    {
+      "id": "da9902:T00035",
+      "source_sha256": "a47291dbf5f6ef6f62409d811625180081e2825d35d9312df39cfd6a460023e5",
+      "ko": "「어머나, 이것 봐, 귀여워라」"
+    },
+    {
+      "id": "da9902:T00036",
+      "source_sha256": "0a1c3f9399679edc86b0b9d83700c5d633ddd7f4ce65ee2a1e1e71af629ea4cb",
+      "ko": "「어머니께서 젊은 시절에 발명하신 "
+    },
+    {
+      "id": "da9902:R00007",
+      "source_sha256": "421dae81f5ec4ef98340fc8bd86f527e43e8870bf65f21014afe29603418b6c0",
+      "ko": "모터 수트예요",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da9902:T00037",
+      "source_sha256": "6e7f792c7a18532232891b95a68c2d750279455db7197d6658cfca6dbb3ae21d",
+      "ko": "전동복이에요"
+    },
+    {
+      "id": "da9902:T00038",
+      "source_sha256": "980ad34a1309b24ba35a4a1a45be923b88f4740185b439ef0b66a46e49dbc93a",
+      "ko": ". 그래요, 이제부터 보여드릴 물건의 『선조』 격이라고 할까요」"
+    },
+    {
+      "id": "da9902:T00039",
+      "source_sha256": "eee0a506bb5bbd2ee41edf521f59e124e5293bfcc72fad0f58acb55073de5ba1",
+      "ko": "「라이카 님, 이쪽으로.\n　이것이 주문하신 물건입니다……」"
+    },
+    {
+      "id": "da9902:T00040",
+      "source_sha256": "26f7af629a8d799bd4643cc48b5bbe68efbc3f217aac17b87504169f73881ca0",
+      "ko": "「…………!」"
+    },
+    {
+      "id": "da9902:T00041",
+      "source_sha256": "20cbd41416db92cc0c97df70e9b8eaa842bb0309a73a18ecc25b5a4e42cb919f",
+      "ko": "「어떠신가요?」"
+    },
+    {
+      "id": "da9902:T00042",
+      "source_sha256": "59bf8bc2ee7fec5e7a7d9ed6fbec83ddb5a9aca45d3316c48d631a9da1aebd94",
+      "ko": "「……완벽해요.\n　나무랄 데가 없네요」"
+    },
+    {
+      "id": "da9902:T00043",
+      "source_sha256": "5b46fe8ddeafbac7822d6a1176869adad0307f5adaf95c13b9471c0e9628c7d7",
+      "ko": "「대마술전용 "
+    },
+    {
+      "id": "da9902:R00008",
+      "source_sha256": "dc1912288e296b594a481ed9f81b3a2e74e27e8563055f047c7982157c8438ff",
+      "ko": "배틀 수트",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da9902:T00044",
+      "source_sha256": "0229645fc0e2312d5c0f6f64910d24a05452ae1489033f8b0a2967ab1c9cfc41",
+      "ko": "전투 장갑"
+    },
+    {
+      "id": "da9902:T00045",
+      "source_sha256": "4e75de2b3503e7802a1bb7445b70906168c5580e8b6021cf5abe02a7d979560f",
+      "ko": " 메타트론―― 천사왕의 이름에 걸맞은, 최고의 일품입니다」"
+    },
+    {
+      "id": "da9902:T00046",
+      "source_sha256": "1b9e02e804f71eefb1c6a3c837995abe534a6992d3b1971bdc334473053a8826",
+      "ko": "「……고맙, 습니다」"
+    },
+    {
+      "id": "da9902:T00047",
+      "source_sha256": "08b7973047a8bf2bad565554bc8308e7b759343dfd901e3dbd68adbdc6bac302",
+      "ko": "「하지만…… 어째서 갑자기?\n　지금의 당신이 싸워야 할 이유 따윈……」"
+    },
+    {
+      "id": "da9902:T00048",
+      "source_sha256": "cdbedc269102f6f31afb9c9c8a465a1e805bff6a833c672f7835f9df6b56a0cf",
+      "ko": "「아니요, 있어요」"
+    },
+    {
+      "id": "da9902:T00049",
+      "source_sha256": "9346fa925ce0aaa464e3c4792c8a624eb70177a582934f7e1befecb4d3f4b961",
+      "ko": "「……저희는"
+    },
+    {
+      "id": "da9902:R00009",
+      "source_sha256": "905b0efb2d86b7b8a5e1a663618fe8fda3615a10bcebe5973ba115f428f9c0e2",
+      "ko": "・・・・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da9902:T00050",
+      "source_sha256": "920207a0c762924eed4faf6b2dfd0d077480bf0321052e4c65008182238a5c2f",
+      "ko": "되찾아"
+    },
+    {
+      "id": "da9902:R00010",
+      "source_sha256": "fe65050b6cf95368d85f30fd366c092a15824886d51defd754887d1e968f7491",
+      "ko": "・・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da9902:T00051",
+      "source_sha256": "113427a9421c532be83171161137872b479e59044f6a03a6905d0b36457c0c42",
+      "ko": " 버렸"
+    },
+    {
+      "id": "da9902:R00011",
+      "source_sha256": "905b0efb2d86b7b8a5e1a663618fe8fda3615a10bcebe5973ba115f428f9c0e2",
+      "ko": "・・・・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da9902:T00052",
+      "source_sha256": "06c25a300208d08e34d3bc309b78faecb468838131a46a19a094a6e56b55116b",
+      "ko": "으니까요"
+    },
+    {
+      "id": "da9902:T00053",
+      "source_sha256": "d93a835d0f2787bcb1a759ad3a1b8fbea56d742d0b99720dbbb9ea8ace1926f8",
+      "ko": "」"
+    },
+    {
+      "id": "da9902:T00054",
+      "source_sha256": "5229a9ba0302da6e290596190c64b3c05bd2fe44f21a2edf11f2de7ec3e56340",
+      "ko": "「이제 쿠로 쨩이랑 알 쨩한테만 떠넘길 수는 없잖아요…… 안 그래요?」"
+    },
+    {
+      "id": "da9902:T00055",
+      "source_sha256": "f63e338a9fae446f20ae3d105f2318d7c4d921eff8749a1d9931f4bd94dd5f65",
+      "ko": "「…………」"
+    },
+    {
+      "id": "da9902:T00056",
+      "source_sha256": "051a051620d8e1c0fa9f8d56dd7978a159c97a51120cf121037fc79df56c3ef1",
+      "ko": "「그래서 루리 씨도 "
+    },
+    {
+      "id": "da9902:R00012",
+      "source_sha256": "fe65050b6cf95368d85f30fd366c092a15824886d51defd754887d1e968f7491",
+      "ko": "・・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da9902:T00057",
+      "source_sha256": "c2b22fb8a9187911d88a0c4a476829554f1f72fbd9a04db84cd3866bd081354b",
+      "ko": "그 아이"
+    },
+    {
+      "id": "da9902:T00058",
+      "source_sha256": "198705a38adf2d64da3bcd19c2f08ed12195cff257dd9d954d5fb310bf703e77",
+      "ko": "를\n　회수한 거…… 아닌가요?」"
+    },
+    {
+      "id": "da9902:T00059",
+      "source_sha256": "8b4e1628ddf3901ccfebca966250cdff1831b0fc454d5017578286129ccac606",
+      "ko": "「……눈치채셨군요」"
+    },
+    {
+      "id": "da9902:T00060",
+      "source_sha256": "ede3f6ff23358e7ac754409ff904c83b3e456165f4cbcaef4a3570d867492e2a",
+      "ko": "「그야 물론이죠. 우리의 『이야기』인데, 그 아이만 따돌림받을 리는 없잖아요……」"
+    },
+    {
+      "id": "da9902:T00061",
+      "source_sha256": "6c48afdd6238620ce6a3a33a76d0d2ce13760dd452c049b6a7be01b79cc48c99",
+      "ko": "「네…… 말씀대로예요」"
+    },
+    {
+      "id": "da9902:T00062",
+      "source_sha256": "578f459b09fed1efda0c5ca2aa127c3027a63880f7ac072e20cca0de14b1d650",
+      "ko": "「……참 나아. 아무리"
+    },
+    {
+      "id": "da9902:R00013",
+      "source_sha256": "fe65050b6cf95368d85f30fd366c092a15824886d51defd754887d1e968f7491",
+      "ko": "・・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da9902:T00063",
+      "source_sha256": "64f0670ca97084848e8ffbc90ca1efd85f50f32f8f834e1e2bc8993dbca9ac26",
+      "ko": "한량"
+    },
+    {
+      "id": "da9902:T00064",
+      "source_sha256": "47140bcdbe4a594aa72898fdbd736bd40b037b3d7cfcd0cb915809fb8c393220",
+      "ko": "인 하도\n재벌이라지만―― 이런 기지를 재현\n하다니, 별난 짓도 정도가 있는 거여요」"
+    },
+    {
+      "id": "da9902:T00065",
+      "source_sha256": "3e6f61cb13b16d8a4355639036ac07e0218abcaaa32a3656b0665f071671f82a",
+      "ko": "「――그러게요.\n　매달 들어가는 유지비만으로,\n　작은 나라 하나는 먹여 살리겠어요」"
+    },
+    {
+      "id": "da9902:T00066",
+      "source_sha256": "60454c1f67a46291261521f926a599625fffb61dc74c1b594cb9e56c033290b3",
+      "ko": "「……미쳤어」"
+    },
+    {
+      "id": "da9902:T00067",
+      "source_sha256": "0d242f043a0ee180ffa67a29f0e49da2bb321abd8b3df9234320e0d79e473c40",
+      "ko": "「――소냐 씨는,\n　이런 건 싫어하시나요?」"
+    },
+    {
+      "id": "da9902:T00068",
+      "source_sha256": "ddcf3996f56ca0e74f15e5e93d18a4e717e1517fb41346e1b9252839f19c3a94",
+      "ko": "「………………」"
+    },
+    {
+      "id": "da9902:T00069",
+      "source_sha256": "ecc1a9076cf27652d273455ca10b7b1ae3801f00e9afb37a762a7ea2d3aa0889",
+      "ko": "「뭐…… 저도 충~분히\n　별종이긴 하지만요!」"
+    },
+    {
+      "id": "da9902:T00070",
+      "source_sha256": "d2fcfc61d09a0654d8bead83e0bd85d46dc3f793be41c92bc2ddc588c09b24ff",
+      "ko": "「『토이 리애니메이터』 시스템"
+    },
+    {
+      "id": "da9902:R00014",
+      "source_sha256": "e0555ab3a37cca0b9b8ba5258715f0497b63f206fe023f3d46d0326ba3849e6a",
+      "ko": "올 그린",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da9902:T00071",
+      "source_sha256": "9135a96432f77711f2283511e7fa2b150827df05c930187f56e641f88d8b4382",
+      "ko": "이상 없음"
+    },
+    {
+      "id": "da9902:T00072",
+      "source_sha256": "b81de9bda4233fdf09ecafadc93a2c79727f61f87d6c5cd5b521e63ffaa737d0",
+      "ko": "……완료.\n　자, 슬슬 끝났으려나?」"
+    },
+    {
+      "id": "da9902:T00073",
+      "source_sha256": "871b4cbcd9f0936488ed9352141f0fb047fb391e6891cde9f42bf2da4716382c",
+      "ko": "「응…… 훤칠하니 잘생깃네. 안 그라나, 니?」"
+    },
+    {
+      "id": "da9902:T00074",
+      "source_sha256": "75e9641a2ccc57a5fdb85b8e2d7349db3754a0bd1144592f363750c91dd359c0",
+      "ko": "「설령 다시금 사악함이 세상을 침범할지라도……\n　우리는 지지 않아요」"
+    },
+    {
+      "id": "da9902:T00075",
+      "source_sha256": "e2d7efd0519861b1d3813633a29214455fa3aafca75b90f223c8e8e6c1dd7e49",
+      "ko": "「――이 "
+    },
+    {
+      "id": "da9902:R00015",
+      "source_sha256": "afafbae591c156ee7f019d48ea7a74beb639f38112cda9fa29c06bd5dd77f5c8",
+      "ko": "손",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da9902:T00076",
+      "source_sha256": "7cbc0a4ceb4c56112e8a3f61cb26b1919832168cd10a1864056fecb44e3b33b0",
+      "ko": "손바닥"
+    },
+    {
+      "id": "da9902:T00077",
+      "source_sha256": "85159b7e3fbb7000e4d2a96a3b61aeda72c3fe3eed0c2919239382a9c9efd3f5",
+      "ko": "에 『마를 베는 검』이 있는 한」"
+    }
+  ],
+  "issues": []
+}

@@ -1,0 +1,2032 @@
+[
+{
+"name": "data/character/AM/ef/Landing/G_hamon.dds",
+"size": "64x64",
+"top": []
+},
+{
+"name": "data/character/AM/ef/STH_zin1.dds",
+"size": "256x256",
+"top": [
+[
+26,
+"ef_爆発00.png",
+0.0
+],
+[
+25,
+"ef_兵器05.png",
+0.0
+],
+[
+18,
+"ef_魔方陣00.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/AM/ef/STH_zin2.dds",
+"size": "64x64",
+"top": [
+[
+5,
+"ef_ギャラクシー.png",
+0.0
+],
+[
+3,
+"ef_鍵.png",
+0.73
+]
+]
+},
+{
+"name": "data/character/AM/onryou_ban.dds",
+"size": "128x128",
+"top": []
+},
+{
+"name": "data/character/AM/onryou_ring.dds",
+"size": "128x128",
+"top": [
+[
+250,
+"ef_スピード02.png",
+0.0
+],
+[
+65,
+"ef_瓦礫.png",
+0.0
+],
+[
+64,
+"ef_兵器03.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/AM/onryou_syougeki.dds",
+"size": "128x128",
+"top": []
+},
+{
+"name": "data/character/AM/onryou_wind.dds",
+"size": "128x128",
+"top": []
+},
+{
+"name": "data/character/AM/Rem_zin.dds",
+"size": "256x256",
+"top": [
+[
+147,
+"ef_その他7連1a.png",
+0.0
+],
+[
+109,
+"ef_スピード02.png",
+0.0
+],
+[
+101,
+"ef_魔方陣02.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/AM/RING2_2.dds",
+"size": "64x64",
+"top": []
+},
+{
+"name": "data/character/AM/RING2_3.dds",
+"size": "64x64",
+"top": []
+},
+{
+"name": "data/character/AM/RING2_4.dds",
+"size": "64x64",
+"top": []
+},
+{
+"name": "data/character/AM/RING2_5.dds",
+"size": "64x64",
+"top": []
+},
+{
+"name": "data/character/AM/RING2_6.dds",
+"size": "64x64",
+"top": []
+},
+{
+"name": "data/character/AM/RING2_7.dds",
+"size": "64x64",
+"top": []
+},
+{
+"name": "data/character/AM/RING2_8.dds",
+"size": "64x64",
+"top": [
+[
+9,
+"ef_兵器05.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/AM/twosword/zin.dds",
+"size": "256x256",
+"top": [
+[
+41,
+"ef_兵器05.png",
+0.0
+],
+[
+22,
+"ef_魔法クトゥグアb.png",
+0.0
+],
+[
+22,
+"ef_魔法クトゥグア.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/BM/M_LINE.dds",
+"size": "256x256",
+"top": [
+[
+55,
+"ef_瓦礫.png",
+0.0
+],
+[
+43,
+"ef_魔法円月刀はじく.png",
+0.0
+],
+[
+39,
+"ef_血05.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/BM/M_line1.dds",
+"size": "128x128",
+"top": [
+[
+47,
+"ef_魔法イタクァ.png",
+0.0
+],
+[
+31,
+"ef_触手01.png",
+0.0
+],
+[
+29,
+"ef_カラー演出02.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/CM/15/ef/hamon_wa1/hamon_wa.dds",
+"size": "128x128",
+"top": [
+[
+87,
+"ef_爆発00.png",
+0.0
+],
+[
+79,
+"ef_透過魔方陣02.png",
+0.0
+],
+[
+72,
+"ef_その他7連1a.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/CM/15/ef/hamon_wa2/hamon_wa.dds",
+"size": "128x128",
+"top": [
+[
+21,
+"ef_スピード01.png",
+0.0
+],
+[
+8,
+"ef_異空光09.png",
+0.0
+],
+[
+8,
+"ef_水03.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/CM/ef/hamon_wa1/hamon_wa.dds",
+"size": "128x128",
+"top": [
+[
+87,
+"ef_爆発00.png",
+0.0
+],
+[
+79,
+"ef_透過魔方陣02.png",
+0.0
+],
+[
+72,
+"ef_その他7連1a.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/CM/ef/hamon_wa2/hamon_wa.dds",
+"size": "128x128",
+"top": [
+[
+21,
+"ef_スピード01.png",
+0.0
+],
+[
+8,
+"ef_異空光09.png",
+0.0
+],
+[
+8,
+"ef_水03.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/CM/hamon_wa.dds",
+"size": "128x128",
+"top": [
+[
+82,
+"ef_爆発00.png",
+0.0
+],
+[
+70,
+"ef_透過魔方陣02.png",
+0.0
+],
+[
+70,
+"ef_その他7連1a.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/common/GARD.dds",
+"size": "256x256",
+"top": [
+[
+168,
+"ef_その他鏡バラバラ.png",
+0.0
+],
+[
+121,
+"ef_炎.png",
+0.0
+],
+[
+75,
+"ef_魔方陣00.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/EM/ef/G_Hibana/hamon2.dds",
+"size": "64x64",
+"top": [
+[
+12,
+"ef_スピード01.png",
+0.0
+],
+[
+6,
+"ef_魔法プラズマa.png",
+0.42
+],
+[
+5,
+"ef_魔法クトゥグアb.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/EM/ef/hamon_wa.dds",
+"size": "128x128",
+"top": [
+[
+9,
+"ef_水03.png",
+0.0
+],
+[
+6,
+"ef_血02.png",
+0.0
+],
+[
+6,
+"ef_爆発00.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/EM/ef/konbo/G_hamon.dds",
+"size": "64x64",
+"top": []
+},
+{
+"name": "data/character/EM/ef/wa/RING4.dds",
+"size": "64x64",
+"top": []
+},
+{
+"name": "data/character/EM/ef/wa/RING5.dds",
+"size": "64x64",
+"top": [
+[
+11,
+"ef_その他鏡バラバラ.png",
+0.0
+],
+[
+10,
+"ef_炎.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/EM/ef/wa/RING6.dds",
+"size": "64x64",
+"top": []
+},
+{
+"name": "data/character/EM/ef/wa/RING7.dds",
+"size": "64x64",
+"top": []
+},
+{
+"name": "data/character/EM/ef/wa/RING8.dds",
+"size": "64x64",
+"top": [
+[
+12,
+"ef_兵器05.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/EM/M_line1.dds",
+"size": "128x128",
+"top": [
+[
+14,
+"ef_スピード02.png",
+0.0
+],
+[
+8,
+"ef_透過魔方陣04.png",
+0.0
+],
+[
+8,
+"ef_その他7連1a.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/FM/12/Ban/hamon_wa.dds",
+"size": "128x128",
+"top": [
+[
+57,
+"ef_爆発00.png",
+0.0
+],
+[
+55,
+"ef_魔方陣00.png",
+0.0
+],
+[
+52,
+"ef_透過魔方陣02.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/FM/12/ef/hamon_wa.dds",
+"size": "128x128",
+"top": [
+[
+57,
+"ef_爆発00.png",
+0.0
+],
+[
+55,
+"ef_魔方陣00.png",
+0.0
+],
+[
+52,
+"ef_透過魔方陣02.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/FM/12/ef/Landing/G_hamon.dds",
+"size": "64x64",
+"top": []
+},
+{
+"name": "data/character/FM/12/ef/rings/wa.dds",
+"size": "64x64",
+"top": []
+},
+{
+"name": "data/character/FM/12/gun/Ban_ring.dds",
+"size": "64x64",
+"top": [
+[
+16,
+"ef_魔方陣02.png",
+0.0
+],
+[
+15,
+"ef_鍵.png",
+0.0
+],
+[
+15,
+"ef_瓦礫.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/FM/ANA9/G_hamon.dds",
+"size": "64x64",
+"top": [
+[
+7,
+"ef_鍵.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/FM/ANA9/G_hamon2.dds",
+"size": "128x128",
+"top": [
+[
+26,
+"ef_スピード02.png",
+0.0
+],
+[
+14,
+"ef_瓦礫.png",
+0.0
+],
+[
+12,
+"ef_血05.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/FM/Ban/hamon_wa.dds",
+"size": "128x128",
+"top": [
+[
+57,
+"ef_爆発00.png",
+0.0
+],
+[
+55,
+"ef_魔方陣00.png",
+0.0
+],
+[
+52,
+"ef_透過魔方陣02.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/FM/Demon_Bein/Rem_zin.dds",
+"size": "256x256",
+"top": [
+[
+147,
+"ef_その他7連1a.png",
+0.0
+],
+[
+109,
+"ef_スピード02.png",
+0.0
+],
+[
+101,
+"ef_魔方陣02.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/FM/ef/hamon_wa.dds",
+"size": "128x128",
+"top": [
+[
+57,
+"ef_爆発00.png",
+0.0
+],
+[
+55,
+"ef_魔方陣00.png",
+0.0
+],
+[
+52,
+"ef_透過魔方陣02.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/FM/ef/Landing/G_hamon.dds",
+"size": "64x64",
+"top": []
+},
+{
+"name": "data/character/FM/ef/rings/wa.dds",
+"size": "64x64",
+"top": []
+},
+{
+"name": "data/character/FM/efring.dds",
+"size": "128x128",
+"top": [
+[
+56,
+"ef_魔方陣00.png",
+0.0
+],
+[
+55,
+"ef_透過魔方陣02.png",
+0.0
+],
+[
+55,
+"ef_爆発00.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/FM/GARD2.dds",
+"size": "256x256",
+"top": [
+[
+16,
+"ef_魔方陣02.png",
+0.0
+],
+[
+14,
+"ef_その他7連1a.png",
+0.0
+],
+[
+12,
+"ef_斬00.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/FM/RING3.dds",
+"size": "64x64",
+"top": []
+},
+{
+"name": "data/character/FM/RING4.dds",
+"size": "64x64",
+"top": [
+[
+3,
+"ef_スピード01.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/FM/RING5.dds",
+"size": "64x64",
+"top": [
+[
+4,
+"ef_スピード01.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/FM/RING6.dds",
+"size": "64x64",
+"top": []
+},
+{
+"name": "data/character/FM/RING7.dds",
+"size": "64x64",
+"top": []
+},
+{
+"name": "data/character/FM/RING8.dds",
+"size": "64x64",
+"top": []
+},
+{
+"name": "data/character/FM/S_zin1.dds",
+"size": "256x256",
+"top": [
+[
+14,
+"ef_爆発00.png",
+0.0
+],
+[
+13,
+"ef_鍵.png",
+0.0
+],
+[
+9,
+"ef_その他7連1.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/FM/S_zin2.dds",
+"size": "256x256",
+"top": [
+[
+31,
+"ef_魔方陣02.png",
+0.0
+],
+[
+26,
+"ef_魔方陣00.png",
+0.0
+],
+[
+16,
+"ef_透過魔方陣03.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/FM/zin.dds",
+"size": "256x256",
+"top": [
+[
+147,
+"ef_その他7連1a.png",
+0.0
+],
+[
+109,
+"ef_スピード02.png",
+0.0
+],
+[
+101,
+"ef_魔方陣02.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/GM/A_ketujin_ef.dds",
+"size": "256x256",
+"top": [
+[
+4,
+"ef_血05.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/GM/ef/Blood_s/RING_Blood.dds",
+"size": "128x128",
+"top": [
+[
+28,
+"ef_兵器05.png",
+0.0
+],
+[
+15,
+"ef_魔方陣00.png",
+0.0
+],
+[
+14,
+"ef_透過魔方陣10.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/GM/GARD.dds",
+"size": "256x256",
+"top": []
+},
+{
+"name": "data/character/HM/ef/wa/hamon.dds",
+"size": "64x64",
+"top": [
+[
+28,
+"ef_その他7連1a.png",
+0.0
+],
+[
+18,
+"ef_透過魔方陣08.png",
+0.0
+],
+[
+18,
+"ef_血06.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/HM/wa/hamon_wa.dds",
+"size": "128x128",
+"top": [
+[
+25,
+"ef_爆発00.png",
+0.0
+],
+[
+22,
+"ef_その他7連1.png",
+0.0
+],
+[
+18,
+"ef_鍵.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/IM/ef/konbo3/G_hamon.dds",
+"size": "64x64",
+"top": []
+},
+{
+"name": "data/character/IM/ef/konbo3/G_hamon2.dds",
+"size": "64x64",
+"top": [
+[
+10,
+"ef_爆発00.png",
+0.0
+],
+[
+7,
+"ef_鍵.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/IM/IM056/onryou1.dds",
+"size": "64x64",
+"top": []
+},
+{
+"name": "data/character/JM/JM049/mahouzin.dds",
+"size": "256x256",
+"top": [
+[
+269,
+"ef_スピード02.png",
+0.0
+],
+[
+76,
+"ef_鍵.png",
+0.0
+],
+[
+71,
+"ef_魔法イタクァ６発.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/JM/kyozin.dds",
+"size": "256x256",
+"top": [
+[
+169,
+"ef_スピード02.png",
+0.0
+],
+[
+81,
+"ef_魔法イタクァ６発.png",
+0.0
+],
+[
+72,
+"ef_兵器05.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/JM/kyozin0607.dds",
+"size": "256x256",
+"top": [
+[
+198,
+"ef_その他7連1a.png",
+0.0
+],
+[
+146,
+"ef_透過魔方陣04.png",
+0.0
+],
+[
+103,
+"ef_魔方陣02.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/JM/mahousyouheki.dds",
+"size": "64x64",
+"top": []
+},
+{
+"name": "data/character/JM/mahousyouheki2.dds",
+"size": "64x64",
+"top": []
+},
+{
+"name": "data/character/JM/mahousyouheki3.dds",
+"size": "64x64",
+"top": []
+},
+{
+"name": "data/character/JM/mahousyouheki4.dds",
+"size": "64x64",
+"top": []
+},
+{
+"name": "data/character/JM/mahousyouheki5.dds",
+"size": "64x64",
+"top": []
+},
+{
+"name": "data/character/JM/mahousyouheki7.dds",
+"size": "64x64",
+"top": []
+},
+{
+"name": "data/character/JM/mahousyouheki8.dds",
+"size": "64x64",
+"top": []
+},
+{
+"name": "data/character/JM/mahouzin.dds",
+"size": "256x256",
+"top": [
+[
+540,
+"ef_兵器05.png",
+0.0
+],
+[
+482,
+"ef_スピード02.png",
+0.0
+],
+[
+307,
+"ef_魔法クトゥグアb.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/KM/ef/hamon_wa.dds",
+"size": "128x128",
+"top": [
+[
+47,
+"ef_爆発00.png",
+0.0
+],
+[
+46,
+"ef_魔方陣00.png",
+0.0
+],
+[
+46,
+"ef_その他7連1a.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/KM/hamon_wa.dds",
+"size": "128x128",
+"top": [
+[
+47,
+"ef_爆発00.png",
+0.0
+],
+[
+46,
+"ef_魔方陣00.png",
+0.0
+],
+[
+46,
+"ef_その他7連1a.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/LM/ef/ANA9/G_hamon.dds",
+"size": "64x64",
+"top": [
+[
+7,
+"ef_鍵.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/LM/ef/ANA9/G_hamon2.dds",
+"size": "128x128",
+"top": [
+[
+12,
+"ef_スピード02.png",
+0.0
+],
+[
+7,
+"ef_血05.png",
+0.0
+],
+[
+5,
+"ef_魔法十字架.png",
+0.02
+]
+]
+},
+{
+"name": "data/character/material/gun/Ban_ring.dds",
+"size": "64x64",
+"top": [
+[
+16,
+"ef_魔方陣02.png",
+0.0
+],
+[
+15,
+"ef_鍵.png",
+0.0
+],
+[
+15,
+"ef_瓦礫.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/material/gun2/Ban_ring.dds",
+"size": "64x64",
+"top": [
+[
+16,
+"ef_魔方陣02.png",
+0.0
+],
+[
+15,
+"ef_鍵.png",
+0.0
+],
+[
+15,
+"ef_瓦礫.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/material/Sharing/D_SHOCK.dds",
+"size": "128x128",
+"top": [
+[
+54,
+"ef_その他7連1.png",
+0.0
+],
+[
+45,
+"ef_爆発00.png",
+0.0
+],
+[
+39,
+"ef_鍵.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/material/Sharing/G_hamon.dds",
+"size": "64x64",
+"top": []
+},
+{
+"name": "data/character/MM/ef/wa/hamon_wa.dds",
+"size": "128x128",
+"top": [
+[
+25,
+"ef_魔方陣02.png",
+0.0
+],
+[
+23,
+"ef_その他7連1a.png",
+0.0
+],
+[
+21,
+"ef_鍵.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/MM/M_LINE1.dds",
+"size": "256x256",
+"top": [
+[
+42,
+"ef_スピード02.png",
+0.0
+],
+[
+33,
+"ef_瓦礫.png",
+0.0
+],
+[
+31,
+"ef_血05.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/MM/M_LINE2.dds",
+"size": "256x256",
+"top": [
+[
+41,
+"ef_瓦礫.png",
+0.0
+],
+[
+30,
+"ef_斬00.png",
+0.0
+],
+[
+26,
+"ef_兵器02.png",
+0.01
+]
+]
+},
+{
+"name": "data/character/MM/M_LINE3.dds",
+"size": "256x256",
+"top": [
+[
+18,
+"ef_斬00.png",
+0.0
+],
+[
+9,
+"ef_神獣形態a.png",
+0.0
+],
+[
+9,
+"ef_スピード02.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/MM/Mahouzin.dds",
+"size": "128x128",
+"top": [
+[
+47,
+"ef_スピード02.png",
+0.0
+],
+[
+36,
+"ef_その他鏡バラバラ.png",
+0.0
+],
+[
+32,
+"ef_神獣形態.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/NM/ef/kabuto/G_hamon.dds",
+"size": "64x64",
+"top": [
+[
+6,
+"ef_鍵.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/NM/ef/kabuto/G_hamon2.dds",
+"size": "64x64",
+"top": []
+},
+{
+"name": "data/character/NM/ef/rasetu/G_hamon.dds",
+"size": "64x64",
+"top": [
+[
+6,
+"ef_鍵.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/NM/ef/rasetu/G_hamon2.dds",
+"size": "64x64",
+"top": []
+},
+{
+"name": "data/character/NM/ef/rasetu/G_hamon3.dds",
+"size": "64x64",
+"top": [
+[
+8,
+"ef_爆発00.png",
+0.0
+],
+[
+5,
+"ef_魔法クトゥグアa.png",
+0.0
+],
+[
+5,
+"ef_魔法aクトゥグア.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/NM/ef_RING1.dds",
+"size": "64x64",
+"top": [
+[
+10,
+"ef_ギャラクシー.png",
+0.0
+],
+[
+5,
+"ef_アーミティッジ魔法a.png",
+0.0
+],
+[
+4,
+"ef_透過魔方陣08.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/NM/hamon_wa3.dds",
+"size": "64x64",
+"top": []
+},
+{
+"name": "data/character/NM/rasetu/G_hamon.dds",
+"size": "64x64",
+"top": [
+[
+6,
+"ef_鍵.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/NM/rasetu/G_hamon2.dds",
+"size": "64x64",
+"top": []
+},
+{
+"name": "data/character/NM/rasetu/G_hamon3.dds",
+"size": "64x64",
+"top": [
+[
+8,
+"ef_爆発00.png",
+0.0
+],
+[
+5,
+"ef_魔法クトゥグアa.png",
+0.0
+],
+[
+5,
+"ef_魔法aクトゥグア.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/NM/RING8.dds",
+"size": "128x128",
+"top": [
+[
+7,
+"ef_兵器05.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/particle/MMring.dds",
+"size": "128x128",
+"top": [
+[
+8,
+"ef_瓦礫.png",
+0.0
+],
+[
+6,
+"ef_水03.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/particle/onryou1.dds",
+"size": "64x64",
+"top": []
+},
+{
+"name": "data/character/PM/hamon1.dds",
+"size": "64x64",
+"top": []
+},
+{
+"name": "data/character/PM/hamon2.dds",
+"size": "64x64",
+"top": []
+},
+{
+"name": "data/character/PM/hamon4.dds",
+"size": "64x64",
+"top": []
+},
+{
+"name": "data/character/PM/mahoujin.dds",
+"size": "256x256",
+"top": [
+[
+319,
+"ef_スピード02.png",
+0.0
+],
+[
+255,
+"ef_兵器05.png",
+0.0
+],
+[
+171,
+"ef_透過魔方陣03.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/PM/yogu_zin.dds",
+"size": "128x128",
+"top": [
+[
+24,
+"ef_透過魔方陣10.png",
+0.0
+],
+[
+22,
+"ef_その他7連1a.png",
+0.0
+],
+[
+20,
+"ef_透過魔方陣02.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/QM/048M1.dds",
+"size": "128x128",
+"top": [
+[
+18,
+"ef_斬00.png",
+0.0
+],
+[
+15,
+"ef_闇02.png",
+0.0
+],
+[
+13,
+"ef_瓦礫.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/QM/baind.dds",
+"size": "128x128",
+"top": [
+[
+12,
+"ef_闇02.png",
+0.0
+],
+[
+12,
+"ef_斬00.png",
+0.0
+],
+[
+11,
+"ef_ギャラクシー.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/QM/M_LINE.dds",
+"size": "256x256",
+"top": [
+[
+61,
+"ef_瓦礫.png",
+0.0
+],
+[
+44,
+"ef_魔法円月刀はじく.png",
+0.0
+],
+[
+44,
+"ef_スピード02.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/QM/M_LINE2.dds",
+"size": "256x256",
+"top": [
+[
+41,
+"ef_瓦礫.png",
+0.0
+],
+[
+30,
+"ef_斬00.png",
+0.0
+],
+[
+26,
+"ef_兵器02.png",
+0.01
+]
+]
+},
+{
+"name": "data/character/QM/M_LINE3.dds",
+"size": "256x256",
+"top": [
+[
+18,
+"ef_斬00.png",
+0.0
+],
+[
+9,
+"ef_神獣形態a.png",
+0.0
+],
+[
+9,
+"ef_スピード02.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/QM/NL1.dds",
+"size": "512x512",
+"top": [
+[
+228,
+"ef_その他7連1a.png",
+0.0
+],
+[
+213,
+"ef_スピード02.png",
+0.0
+],
+[
+181,
+"ef_魔方陣02.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/QM/NL1_2.dds",
+"size": "256x256",
+"top": [
+[
+91,
+"ef_スピード02.png",
+0.0
+],
+[
+80,
+"ef_その他7連1a.png",
+0.0
+],
+[
+70,
+"ef_透過魔方陣04.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/QM/NL1_3.dds",
+"size": "256x256",
+"top": [
+[
+39,
+"ef_スピード02.png",
+0.0
+],
+[
+38,
+"ef_ギャラクシー.png",
+0.0
+],
+[
+37,
+"ef_透過魔方陣04.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/QM/NL1_4.dds",
+"size": "256x256",
+"top": [
+[
+37,
+"ef_ギャラクシー.png",
+0.0
+],
+[
+35,
+"ef_スピード02.png",
+0.0
+],
+[
+34,
+"ef_透過魔方陣04.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/QM/QM047/baind.dds",
+"size": "128x128",
+"top": [
+[
+20,
+"ef_斬00.png",
+0.0
+],
+[
+16,
+"ef_瓦礫.png",
+0.0
+],
+[
+13,
+"ef_魔法クトゥグアa.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/QM/QM051/zin666_1.dds",
+"size": "64x64",
+"top": [
+[
+13,
+"ef_スピード02.png",
+0.0
+],
+[
+9,
+"ef_その他04.png",
+0.0
+],
+[
+9,
+"ef_その他03.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/QM/QM051/zin666_2.dds",
+"size": "64x64",
+"top": [
+[
+9,
+"ef_スピード02.png",
+0.0
+],
+[
+8,
+"ef_その他04.png",
+0.0
+],
+[
+7,
+"ef_竜巻.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/QM/QM051/zin666_3.dds",
+"size": "64x64",
+"top": [
+[
+13,
+"ef_スピード02.png",
+0.0
+],
+[
+7,
+"ef_異空光06.png",
+0.0
+],
+[
+7,
+"ef_その他04.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/QM/QM051/zin666_4.dds",
+"size": "64x64",
+"top": [
+[
+13,
+"ef_スピード02.png",
+0.0
+],
+[
+8,
+"ef_その他04.png",
+0.0
+],
+[
+6,
+"ef_異空光06.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/QM/QM051/zin666_5.dds",
+"size": "64x64",
+"top": [
+[
+14,
+"ef_スピード02.png",
+0.0
+],
+[
+9,
+"ef_竜巻.png",
+0.0
+],
+[
+8,
+"ef_異空光06.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/QM/QM051/zin666_6.dds",
+"size": "64x64",
+"top": [
+[
+11,
+"ef_スピード02.png",
+0.0
+],
+[
+7,
+"ef_異空光06.png",
+0.0
+],
+[
+6,
+"ef_血05.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/QM/QM051_low/zin666_1.dds",
+"size": "64x64",
+"top": [
+[
+13,
+"ef_スピード02.png",
+0.0
+],
+[
+9,
+"ef_その他04.png",
+0.0
+],
+[
+9,
+"ef_その他03.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/QM/QM051_low/zin666_2.dds",
+"size": "64x64",
+"top": [
+[
+9,
+"ef_スピード02.png",
+0.0
+],
+[
+8,
+"ef_その他04.png",
+0.0
+],
+[
+7,
+"ef_竜巻.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/QM/QM051_low/zin666_3.dds",
+"size": "64x64",
+"top": [
+[
+13,
+"ef_スピード02.png",
+0.0
+],
+[
+7,
+"ef_異空光06.png",
+0.0
+],
+[
+7,
+"ef_その他04.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/QM/QM051_low/zin666_4.dds",
+"size": "64x64",
+"top": [
+[
+13,
+"ef_スピード02.png",
+0.0
+],
+[
+8,
+"ef_その他04.png",
+0.0
+],
+[
+6,
+"ef_異空光06.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/QM/QM051_low/zin666_5.dds",
+"size": "64x64",
+"top": [
+[
+14,
+"ef_スピード02.png",
+0.0
+],
+[
+9,
+"ef_竜巻.png",
+0.0
+],
+[
+8,
+"ef_異空光06.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/QM/QM051_low/zin666_6.dds",
+"size": "64x64",
+"top": [
+[
+11,
+"ef_スピード02.png",
+0.0
+],
+[
+7,
+"ef_異空光06.png",
+0.0
+],
+[
+6,
+"ef_血05.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/RM/gun/Ban_ring.dds",
+"size": "64x64",
+"top": [
+[
+16,
+"ef_魔方陣02.png",
+0.0
+],
+[
+15,
+"ef_鍵.png",
+0.0
+],
+[
+15,
+"ef_瓦礫.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/RM/RM004/M_line.dds",
+"size": "128x128",
+"top": [
+[
+6,
+"ef_スピード02.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/SM/difference/M_zin1.dds",
+"size": "128x128",
+"top": []
+},
+{
+"name": "data/character/SM/M_zin1.dds",
+"size": "256x256",
+"top": [
+[
+138,
+"ef_スピード02.png",
+0.0
+],
+[
+97,
+"ef_兵器05.png",
+0.0
+],
+[
+74,
+"ef_爆発00.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/SM/M_zinH1.dds",
+"size": "128x128",
+"top": [
+[
+9,
+"ef_スピード02.png",
+0.0
+],
+[
+8,
+"ef_異空光09.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/SM/M_zinH2.dds",
+"size": "128x128",
+"top": [
+[
+7,
+"ef_スピード02.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/SM/M_zinH3.dds",
+"size": "128x128",
+"top": [
+[
+10,
+"ef_スピード02.png",
+0.0
+]
+]
+},
+{
+"name": "data/character/SM/M_zinH4.dds",
+"size": "128x128",
+"top": [
+[
+8,
+"ef_スピード02.png",
+0.0
+]
+]
+},
+{
+"name": "data/map/auto/bank_ring.dds",
+"size": "256x256",
+"top": [
+[
+16,
+"ef_透過魔方陣10.png",
+0.87
+],
+[
+16,
+"ef_ギャラクシー.png",
+0.0
+],
+[
+13,
+"ef_透過魔方陣04.png",
+0.96
+]
+]
+}
+]

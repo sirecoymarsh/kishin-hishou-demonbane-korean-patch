@@ -1,0 +1,1014 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0104_da1305",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da1305:R00001",
+   "source_sha256": "5e50b96c27b2f416824dd21237894b52728e9f8acf21f77ae97378faaafaa899",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1305:T00001",
+   "source_sha256": "09152a2380b09e688a514e86056805ca633afd8381453280be7f536c7140c91a",
+   "ko": "풀"
+  },
+  {
+   "id": "da1305:T00002",
+   "source_sha256": "0a21f3d8410f4a8f60d2eb405e7355cf4662b8ceb809c880af080b70f2b2a8a1",
+   "ko": "려 간다."
+  },
+  {
+   "id": "da1305:T00003",
+   "source_sha256": "a011e50b14f11c9cc5f357a9773958140cbc3589ad704878b03142a701e14db3",
+   "ko": "알의 존재가 풀려 피안개로 화한다."
+  },
+  {
+   "id": "da1305:T00004",
+   "source_sha256": "3b8fccc40d45e5e867ebd7138a10260cab266d048d80054b6f203ccde85ce553",
+   "ko": "붉은 안개는 이중나선의 소용돌이를 치며 새로운 "
+  },
+  {
+   "id": "da1305:R00002",
+   "source_sha256": "6e28cc407a3f70af7741cc6893cdf0b07f32a347c39eb7207646efd80feb4607",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1305:T00005",
+   "source_sha256": "101e8536327c0f2b2dcb11a5356a110fd822d2acb494e0bc36b1ae05b4f3aec3",
+   "ko": "형상"
+  },
+  {
+   "id": "da1305:T00006",
+   "source_sha256": "73edab7ae377fd1efcab7aca027714528cebe4f69b31e4ff67f4831cb2bc7965",
+   "ko": "을 엮어 올린다."
+  },
+  {
+   "id": "da1305:T00007",
+   "source_sha256": "273af361c73c5f615625de7ccc930accd4d3d9cb9e025c8415b2dd06f703490a",
+   "ko": "소녀의 형상을――"
+  },
+  {
+   "id": "da1305:R00003",
+   "source_sha256": "f58c026c179665797b00157bf4ac8d76bb0bc4ae666609165f837f7ff7226785",
+   "ko": "어나더 블러드",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1305:T00008",
+   "source_sha256": "dc7725f781faa9c185c04502fb2b23311784b108ba34ef44b1207a8811f0c455",
+   "ko": "붉은 소녀"
+  },
+  {
+   "id": "da1305:T00009",
+   "source_sha256": "0193970dadc29413b03f9198fba48c06dd28e6c1040d254ea8c00e4c8474ec99",
+   "ko": "의 형상을 재구축한다."
+  },
+  {
+   "id": "da1305:T00010",
+   "source_sha256": "d91298fe99c7552c094896fb2f11d84c590d3507eeae74053fa6f73b25a1dd84",
+   "ko": "「아…… 알……」"
+  },
+  {
+   "id": "da1305:T00011",
+   "source_sha256": "a28300c53f0422e988678ad483175e1d09f4dbaacce34e473946204c8307c6ae",
+   "ko": "나에게 일별만을 던지고, 붉은 소녀는 모니터 너머 쓰러진\nD 투 소드를 바라본다."
+  },
+  {
+   "id": "da1305:T00012",
+   "source_sha256": "632eac282e78c1001f3bf44ef91b4f74561f1d2f13fe0bb5f4c36f1110f3a446",
+   "ko": "피로 물든 데몬베인이 이투류의 데몬베인을 내려다본다."
+  },
+  {
+   "id": "da1305:T00013",
+   "source_sha256": "d13ce6a03a59128b34c29d4af00f6074d867b9d7406bd557e21c5597fe576631",
+   "ko": "「자아, 거기까지야 쿠자쿠우.\n　당신의 차례는 이걸로 끝」"
+  },
+  {
+   "id": "da1305:T00014",
+   "source_sha256": "862461cb15ee1cfa63c084a95fa29d7526c8611125a2ff9130701f9e26db08c4",
+   "ko": "「어나더…… 블러드……!」"
+  },
+  {
+   "id": "da1305:T00015",
+   "source_sha256": "50468f96571eb51e92a055c206fb5dd0a213e0bd939654e503dfd9519302411c",
+   "ko": "「틀렸잖아?」"
+  },
+  {
+   "id": "da1305:T00016",
+   "source_sha256": "860e7d777d94c643fd5cb7e5c5473ac3c6462691a3eb4170e44aeda1c9a515fd",
+   "ko": "데몬베인이 D 투 소드를 짓밟는다."
+  },
+  {
+   "id": "da1305:T00017",
+   "source_sha256": "eef35bcf1844a55f86ec779767f75dc5cf3c70b81d074f38c6fb4e347517c993",
+   "ko": "부서지는 장갑."
+  },
+  {
+   "id": "da1305:R00004",
+   "source_sha256": "0fc256cd359e43981a6ccd05cca823e78bcbc9db7a58d048c6f11d9cc6a430d7",
+   "ko": "아조트",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1305:T00018",
+   "source_sha256": "c31447b2a5eb1552deefa787cc64e00d84b52a923f5cafaea34cba65ca40bbe3",
+   "ko": "수은"
+  },
+  {
+   "id": "da1305:T00019",
+   "source_sha256": "ce6f212cd84ac8716271c9dbdb47cbd73e048c57e362e13df087382729a9bebb",
+   "ko": "의 피가 뿜어져 나오고 보랏빛 번개가 솟구친다."
+  },
+  {
+   "id": "da1305:T00020",
+   "source_sha256": "e2d1adc8a540e60a956d6a3d85a49947767cf51767de0662ff8006491cbad17e",
+   "ko": "「그아아아아아아아!」"
+  },
+  {
+   "id": "da1305:T00021",
+   "source_sha256": "9ddc206768deb71cd6601bab9ca42fe954ec856f023a54b0695f0810e1d3988e",
+   "ko": "「이제 "
+  },
+  {
+   "id": "da1305:R00005",
+   "source_sha256": "3b0bc9525f0120065231e8f9c8804da221dfca67564caaea41e82ca2e326ff31",
+   "ko": "어나더",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1305:T00022",
+   "source_sha256": "34dbe4d297a99817f4c9cace9a8a523f4ea32beddf1824bdeaa7043fd399ba05",
+   "ko": "어긋난 피"
+  },
+  {
+   "id": "da1305:T00023",
+   "source_sha256": "99cffd8c5ddb48a4c4cbcaf8e7f13dd8070005b43f1786fcc7c5357fa5910319",
+   "ko": "는 당신이야, 쿠자쿠.\n　미래는 나에게 이어졌어.\n　악덕으로 "
+  },
+  {
+   "id": "da1305:R00006",
+   "source_sha256": "46674c35ffeacde9f478b74f2908541c615ea553de64d2bfae6acaf651a6263b",
+   "ko": "왜곡",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1305:T00024",
+   "source_sha256": "a7fa8d01b60fd31b7f8e9895053c5dcdb090884c2e47eb41e007f68c8db17687",
+   "ko": "나선화"
+  },
+  {
+   "id": "da1305:T00025",
+   "source_sha256": "1a8e8e8e792a4e3c89391c15b0d0fdbfdff885366001d944a338406416868c1d",
+   "ko": "된, 나의 미래에」"
+  },
+  {
+   "id": "da1305:T00026",
+   "source_sha256": "b4eb0951b3cb364dbb62bef058dae335fcb798c215436de7acae43faf828ef2b",
+   "ko": "「마침내 "
+  },
+  {
+   "id": "da1305:R00007",
+   "source_sha256": "46a06b5b46eb79a31f2ee4b5c0fa5c1a2da4d8c08cda9a3320553a849ba5e1ee",
+   "ko": "섀도",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1305:T00027",
+   "source_sha256": "ce79fbcbb9e9b78874c7ed7ca7e970fc3cf8cd3e89975e407e5d16221c08f5ed",
+   "ko": "허구"
+  },
+  {
+   "id": "da1305:T00028",
+   "source_sha256": "e3b21956ce958d2599e4e122f5395b8bb776552bd4ceae0c6bec80e4f73a2905",
+   "ko": "가 "
+  },
+  {
+   "id": "da1305:R00008",
+   "source_sha256": "16354b157bd774fda6c85f7da851710d4c0367f3b2e60dfa92cc33122482f5ee",
+   "ko": "리얼",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1305:T00029",
+   "source_sha256": "ec417b3b5aee6ff066b238a80bcdb840269a480818ec2d791dc03b6034e8c318",
+   "ko": "실존"
+  },
+  {
+   "id": "da1305:T00030",
+   "source_sha256": "85b843afa8e0cecf6bc9be89a35d2a4eb16eedb65a09d61fecf7f6f4a8c17a69",
+   "ko": "을 능가한 거야\n　……하하하…… 아하하하핫!\n　"
+  },
+  {
+   "id": "da1305:R00009",
+   "source_sha256": "0154e79e5aa3a8d92d12c69dbb732f80c46d7540b476104810649a527479fc92",
+   "ko": "페이크",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1305:T00031",
+   "source_sha256": "cd23568c3b2414546d69fa6affaf2b7a93842693dc8580e49f66e33a52951460",
+   "ko": "가짜"
+  },
+  {
+   "id": "da1305:T00032",
+   "source_sha256": "ac049187a03980fbd5558b8ad16e1696a3a721804bcd93f98caf0b18d79f523c",
+   "ko": "는 네 녀석이다, 쿠자쿠!\n　비참하고 가엾은, 나의 "
+  },
+  {
+   "id": "da1305:R00010",
+   "source_sha256": "46a06b5b46eb79a31f2ee4b5c0fa5c1a2da4d8c08cda9a3320553a849ba5e1ee",
+   "ko": "섀도",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1305:T00033",
+   "source_sha256": "10c3914c94c2916c10fbd0e5d348b538c7287c4b6df7b618eaa3aa72eb8bc5be",
+   "ko": "환영"
+  },
+  {
+   "id": "da1305:T00034",
+   "source_sha256": "6560fad1b5299ec45c7562b1e825f123c87101dc289a1eb71426e443d34f4c8c",
+   "ko": "!」"
+  },
+  {
+   "id": "da1305:T00035",
+   "source_sha256": "66a27e04f9cc984f31039b1d60593bc13220873ec44e714f21a440b5b074fd46",
+   "ko": "「그…… 아……\n　하아…… 아아아아아아아앗!」"
+  },
+  {
+   "id": "da1305:T00036",
+   "source_sha256": "478089443258baec73028c24b26ff4f7cc70ae3afa7133209e4d45f5c7d66322",
+   "ko": "짓밟힌 D 투 소드가 터져 나갔다."
+  },
+  {
+   "id": "da1305:T00037",
+   "source_sha256": "ba0fa1944a33ed4a525163e0b55e7bd06547f2231624fcecaa64b243f3bca098",
+   "ko": "뿜어져 나오는 피는 "
+  },
+  {
+   "id": "da1305:R00011",
+   "source_sha256": "0fc256cd359e43981a6ccd05cca823e78bcbc9db7a58d048c6f11d9cc6a430d7",
+   "ko": "아조트",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1305:T00038",
+   "source_sha256": "c31447b2a5eb1552deefa787cc64e00d84b52a923f5cafaea34cba65ca40bbe3",
+   "ko": "수은"
+  },
+  {
+   "id": "da1305:T00039",
+   "source_sha256": "46bf4f79cf7f63f2a527502abf2eb95a1d4da12cd8bbc5ef6cd7ac564af36bdd",
+   "ko": "의 비가 되어 쏟아져 내린다."
+  },
+  {
+   "id": "da1305:T00040",
+   "source_sha256": "8423dbb1f8e60d3693da7fe2fca0bb733c133e33b57492f09ae94ae49ac8b01b",
+   "ko": "피로 물든 기체가 은빛 피에 젖는다."
+  },
+  {
+   "id": "da1305:T00041",
+   "source_sha256": "85f0866a31a9a99648d4316e4de7147ad279b2ef14d990e8e8bb4fa8c021ca11",
+   "ko": "「……제멋대로야, 당신. 부모에게 버림\n받았다고?　그래, 그건 불쌍하네.\n하지만…… 그래도 당신은 사랑받으며\n자랐어!」"
+  },
+  {
+   "id": "da1305:T00042",
+   "source_sha256": "698afa9371686de5fb39f97099238ebd34cfa8c235da481db4d555598a55f28b",
+   "ko": "「나에게는 주어지지 않았어!\n　주어진 것은 "
+  },
+  {
+   "id": "da1305:R00012",
+   "source_sha256": "33be91faf8ad1575e617a6fe3bd8f075e1302a1fdcac31d26c3f743aa70add8c",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1305:T00043",
+   "source_sha256": "a9bbb73ea71719a9a56f66ac4f48789b51943e68fa63ae4d4214bc8879ef6c76",
+   "ko": "저주"
+  },
+  {
+   "id": "da1305:T00044",
+   "source_sha256": "84b4c3b1c6205b7f7476a0e2880ace58d0b793f3f07c42bb65f48c8d27a05d53",
+   "ko": "뿐이다!\n　상실된 "
+  },
+  {
+   "id": "da1305:R00013",
+   "source_sha256": "3e7ca97dd222dfece75cc1b0e619438b0296dd7b6db45fe8ff3627464f181e69",
+   "ko": "세계",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1305:T00045",
+   "source_sha256": "846c39b0bcb51f41f7a9b92e4d3452d15b86f3e1cd153f8d3d2ba8ef55219731",
+   "ko": "이야기"
+  },
+  {
+   "id": "da1305:T00046",
+   "source_sha256": "0cab944bf23ba02e8fd3caccc4a50f80511c5dc5b5d446ea37eb2e0aeeb40f21",
+   "ko": "의 원망이,\n　내 안에 쑤셔 박혔어!」"
+  },
+  {
+   "id": "da1305:T00047",
+   "source_sha256": "9e1d6d5d4876788ebe4048f88edad459955a7c390c36cd0967ccf90ef16cb674",
+   "ko": "「나는!\n　　사악으로서 단절되었어!」"
+  },
+  {
+   "id": "da1305:T00048",
+   "source_sha256": "c1cbf637fe514a757995a2f28af4f9aebbc98a52918ccc47009b8909099bb198",
+   "ko": "「크…… 학…… 읏!」"
+  },
+  {
+   "id": "da1305:T00049",
+   "source_sha256": "c8bacf648b5377c39e8c70997d744b976dc977c634f9e7996bba2f39e0e265fd",
+   "ko": "「……그러니까 나는 당신에게서 빼앗겠어.\n　모든 것을. 당신이 존재했다는\n　사실 자체를. 그리고――」"
+  },
+  {
+   "id": "da1305:T00050",
+   "source_sha256": "cd032a91433726916fb812dc330d22dc5ee0ce05f174e0fa190a2c440d17aee3",
+   "ko": "「당신이 가장 원했던 것도 손에 넣겠어\n……자, 사랑해 주시어요, 아버님」"
+  },
+  {
+   "id": "da1305:T00051",
+   "source_sha256": "0bab3f16da20d4109f8d137f9ccd0cc4db203445c7fcaaf787d399f58d109eb8",
+   "ko": "「네 녀석……!」"
+  },
+  {
+   "id": "da1305:T00052",
+   "source_sha256": "72a3eb89173b968f251d98bd073bf361f4664f43382290c45d7e4c309815eaed",
+   "ko": "시선이 교차한다."
+  },
+  {
+   "id": "da1305:T00053",
+   "source_sha256": "c248d186811cc59bf254d2dbf460e735f12f9d12363a3abfdbe1a13d9e3e0bde",
+   "ko": "요염하게 비웃는 붉은 소녀는 지독히도 불길해 보였다."
+  },
+  {
+   "id": "da1305:T00054",
+   "source_sha256": "b516399c54fc0646877d1f3f37683c16e9e631757f470603362118ab8be54e8f",
+   "ko": "나는 반사적으로 자세를 잡고――"
+  },
+  {
+   "id": "da1305:T00055",
+   "source_sha256": "b0b383128a445b91bb49f1da0dc51941ffa7eb2ec4619444b4fe1e4a5c8c65ec",
+   "ko": "「뭐…… 읏!?」\n\n　마기우스 스타일이 "
+  },
+  {
+   "id": "da1305:R00014",
+   "source_sha256": "5e50b96c27b2f416824dd21237894b52728e9f8acf21f77ae97378faaafaa899",
+   "ko": "해제",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1305:T00056",
+   "source_sha256": "671eab875b919f2bbaa4f425e551d3c2709400784ec11520bb337743c067a77c",
+   "ko": "해주"
+  },
+  {
+   "id": "da1305:T00057",
+   "source_sha256": "05ab8e9d37ef9633d9abc218a02a6611ff5b7de8f5ae6ab6d635cfc7933c5ec6",
+   "ko": "된다."
+  },
+  {
+   "id": "da1305:T00058",
+   "source_sha256": "76b54bde8c662bba8ca2195accceda021588e121702e1383a4a42e2e3b22fc3a",
+   "ko": "흑의는 진홍빛 실이 되어 나선을 그리며 새로운 "
+  },
+  {
+   "id": "da1305:R00015",
+   "source_sha256": "42a6656292491461c69d0f367e09bf8f589a09971ddc599fd8116e2c5ed80dc6",
+   "ko": "스타일",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1305:T00059",
+   "source_sha256": "6ab27e4dec33457b1505f988bf9b0419ea75f830bb7056685fb8d32c81e142bc",
+   "ko": "장속"
+  },
+  {
+   "id": "da1305:T00060",
+   "source_sha256": "d00137e4d900d212ee42a43985490f83e5e6355154f23e24701499728b62a1d1",
+   "ko": "을 엮어 올렸다."
+  },
+  {
+   "id": "da1305:R00016",
+   "source_sha256": "40d9da02f62addf9a7d5ff95b01a968ede91f759229a0dd305eed060eb2a3e03",
+   "ko": "블러드　스트레이트 재킷",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1305:T00061",
+   "source_sha256": "a78a5aa97c97e31044fb5f262752be5b0bf9804fb4965f2f723596dfbc3eb435",
+   "ko": "붉은 구속복"
+  },
+  {
+   "id": "da1305:T00062",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  },
+  {
+   "id": "da1305:T00063",
+   "source_sha256": "c928c1483dc44cf0fc629ace4af70261d0f7b280a6a1ff953e175dda5c38556d",
+   "ko": "「그…… 크아…… 읏!」"
+  },
+  {
+   "id": "da1305:T00064",
+   "source_sha256": "04e30f5b4ea47b3d7e48ce1ccfd4a0c5e309e8c6af9c4f08599afeb2737c0083",
+   "ko": "온몸이 꽉 죄여 볼썽사납게 바닥을 굴렀다."
+  },
+  {
+   "id": "da1305:T00065",
+   "source_sha256": "43ae1c4fbe537a7839db4873aebf83441c27763ba8d5e2de47377ca9b7d0150d",
+   "ko": "다가온 붉은 소녀가 곁에 서서 나를 내려다본다."
+  },
+  {
+   "id": "da1305:T00066",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da1305:R00017",
+   "source_sha256": "00f62a6f4a40ed9ed3f2271148d5f1928d203693bcc3e6f088b2462e1a5f9817",
+   "ko": "알 아지프가",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1305:T00067",
+   "source_sha256": "4da921e3249cf37f25e9927129f9bd2d5bb5d89489adb525d35aa2d7c84b9452",
+   "ko": "어머님이"
+  },
+  {
+   "id": "da1305:T00068",
+   "source_sha256": "df243bb3e7926deaaa54e6691ee569a152ee53b0e5d66fade4d74d8459655819",
+   "ko": " 나에게 집어삼켜진 지금, 당신에게 부여된 "
+  },
+  {
+   "id": "da1305:R00018",
+   "source_sha256": "24d7ad880d9dd274550d7dc2480caa180cce47c07ed273889cc65934ddc93c74",
+   "ko": "힘",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1305:T00069",
+   "source_sha256": "6006c9a9a648aba0b04d55c079668b661422c342c43a52439d660cdeedaab29a",
+   "ko": "주력"
+  },
+  {
+   "id": "da1305:T00070",
+   "source_sha256": "dac1fa16a113a6ea17fc39b9d37374fc324ad8e769652216b3172c4251d97c4c",
+   "ko": "도 나의 것이란다. 아버님?」"
+  },
+  {
+   "id": "da1305:T00071",
+   "source_sha256": "fccec6c6ebc7d471512335f06a2dcb85e1984444ddcf5cb34401cc01f659fd1e",
+   "ko": "「웃기지…… 마!\n　알을…… 원래대로, 되돌려 놔…… 읏!」"
+  },
+  {
+   "id": "da1305:T00072",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da1305:R00019",
+   "source_sha256": "67972a2c8e5ecaca4ffebbe487dfef1e8db028ebd1569d5547e4e96156650b7c",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1305:T00073",
+   "source_sha256": "5cb53e3de202ecbb3e7fd1e3903cb9bc748413ba5caaf013960008b13708f3f5",
+   "ko": "이해하"
+  },
+  {
+   "id": "da1305:T00074",
+   "source_sha256": "cbdd2c13133d68562b738cec93d7cb3ce0543036e8c9c7a0d7482a2f85c17b02",
+   "ko": "지 못하고 계시네, 아버님……」"
+  },
+  {
+   "id": "da1305:T00075",
+   "source_sha256": "fa1d55460440716100f7b32bbe42e9e728ddbd8e907cc1c6e5678813c1215c54",
+   "ko": "붉은 소녀가 내 위로 덮쳐 올라온다."
+  },
+  {
+   "id": "da1305:T00076",
+   "source_sha256": "b1cb4ed9d53e7fc51a940ec2fdca9f87a6fa7f4f239dc6f6efed80cf50ae6fd7",
+   "ko": "뺨을 붉히고 도취된 눈동자로 속삭인다."
+  },
+  {
+   "id": "da1305:T00077",
+   "source_sha256": "ac4e2699e8bfa0ace3c819a72dfb9cbe53fe216b438d7c510cee8f1239c635bd",
+   "ko": "뜨거운 숨결."
+  },
+  {
+   "id": "da1305:T00078",
+   "source_sha256": "0ec64c86e2b3cc401b58dfacf1ecaed33528004ff179b68a9eb50f33555ddb2d",
+   "ko": "「어머님은 나의 "
+  },
+  {
+   "id": "da1305:R00020",
+   "source_sha256": "399541026b89787f76b6312375d21b42244869347cf836059cf9eba724bb4824",
+   "ko": "・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1305:T00079",
+   "source_sha256": "606cd297fbbe07f00c35bdf3825da9dbcf9d3e28ef9379b3eb6f4d91eec543f9",
+   "ko": "피와 살"
+  },
+  {
+   "id": "da1305:T00080",
+   "source_sha256": "7c8ac928046078a83d74484687e0ce8c3fa3afd73fee9f24a4f108e6df3adaf8",
+   "ko": "이 되었어……\n　알 아지프는 이제 존재하지 않아.\n　아니, 나 자신이 알 아지프야」"
+  },
+  {
+   "id": "da1305:T00081",
+   "source_sha256": "766f4e9970a37506bf72cf0abebbc9602a49151b27bac0210ed61902f13a15df",
+   "ko": "「그래, 나는 당신의 딸이자……\n　당신의 아내이기도 해」"
+  },
+  {
+   "id": "da1305:T00082",
+   "source_sha256": "e5358eb12ce6532113316daa87ca98fc27df0a74149224ceeb43622f386de486",
+   "ko": "입술이 포개어졌다."
+  },
+  {
+   "id": "da1305:T00083",
+   "source_sha256": "1c88c181e7ba172231dc2c3e3012ed719c39e18ddd555180a59e65e08a5a1b17",
+   "ko": "뜨겁고 젖은 혀가 들어온다."
+  },
+  {
+   "id": "da1305:T00084",
+   "source_sha256": "0fd4e8b6bc7739e65adfd9755e04afcc343bfc8f094103033e213b5fec992f3c",
+   "ko": "내 혀를 휘감아 잡고, 희롱하고, 빨아들이고, 탐한다."
+  },
+  {
+   "id": "da1305:T00085",
+   "source_sha256": "c25958062dff53d39186fb78615f06ab7d36b2a5dbf20d5c1e4145d46dd3eace",
+   "ko": "「응…… 후으응읏…… 츄.\n　……우으응…… 응응응…… 읏」"
+  },
+  {
+   "id": "da1305:T00086",
+   "source_sha256": "a05c84449e518c90ad125b6d77657584ebbe6983e6f10e165084abd95209e372",
+   "ko": "소녀의 혀는 달콤한 피 맛이 났다."
+  },
+  {
+   "id": "da1305:T00087",
+   "source_sha256": "96442f301bf71eed4e834c03d05952462efd5c8af36385c25d966008c1c24526",
+   "ko": "찌릿찌릿 머리가 저리는 듯한 명정감에 시달린다."
+  },
+  {
+   "id": "da1305:T00088",
+   "source_sha256": "c4765eb510b8cd5340f7b0d2cb64ed05c0e5a3b0daf1e1889927a95c79d5bc6e",
+   "ko": "「응…… 응응…… 큭…… 푸하아……」"
+  },
+  {
+   "id": "da1305:T00089",
+   "source_sha256": "e761c1d67a475cedd2f60c4f0491e9af481cf1d9bf0a65a86226d585ca7d8ea0",
+   "ko": "입술이 떨어진다."
+  },
+  {
+   "id": "da1305:T00090",
+   "source_sha256": "6b8226a92b931bc2fc00afdef6f3f63f415e070d4ac8e1d4bd4f3e6131e85f58",
+   "ko": "마지막까지 뒤얽혀 있던 혀가 아쉬운 듯이 "
+  },
+  {
+   "id": "da1305:R00021",
+   "source_sha256": "5e50b96c27b2f416824dd21237894b52728e9f8acf21f77ae97378faaafaa899",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1305:T00091",
+   "source_sha256": "09152a2380b09e688a514e86056805ca633afd8381453280be7f536c7140c91a",
+   "ko": "풀"
+  },
+  {
+   "id": "da1305:T00092",
+   "source_sha256": "3c2a56fc40e6b40c3ec3f1b8b7a7d3134d84b658f363d3e54020cba81bf9be65",
+   "ko": "렸다."
+  },
+  {
+   "id": "da1305:T00093",
+   "source_sha256": "b6efcc690fec89d03534ccea1b7355a4b5f1e56cb00571d54b0c8d6f87720d58",
+   "ko": "「크…… 으으…… 읏」"
+  },
+  {
+   "id": "da1305:T00094",
+   "source_sha256": "8bc9f7a8b58789061904edab0cca4a4058eb90ed7698e5591524a062d553c5d2",
+   "ko": "「후후……」"
+  },
+  {
+   "id": "da1305:T00095",
+   "source_sha256": "ce35cacc62c5737951125193cf8d1d8a93edcf78ceee63b0cc6530ff86ad4346",
+   "ko": "내려다보는 "
+  },
+  {
+   "id": "da1305:R00022",
+   "source_sha256": "a14f9355ff5bc703aa175f8a795fc49676901e44794150841f01dd2067dea8c3",
+   "ko": "루비",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1305:T00096",
+   "source_sha256": "1bf5b451af8d5132a4d70302a00a2529edad253128ff6f3438f9f64b2cb9fca8",
+   "ko": "홍옥"
+  },
+  {
+   "id": "da1305:T00097",
+   "source_sha256": "8edd7f230a1028ea4879fcc6febc483079f56a0e4569511e089b1b61329e96b1",
+   "ko": "의 눈동자가 요염하고도 사나운 반짝임을 품는다."
+  },
+  {
+   "id": "da1305:T00098",
+   "source_sha256": "d6424beb7c39b638f31bff11f0d9c1fe6cc1ac8f5702a5e70f2f078c200a57f0",
+   "ko": "사냥감을 붙잡아 희롱하는 고양잇과 맹수의 눈동자."
+  },
+  {
+   "id": "da1305:T00099",
+   "source_sha256": "96ca73564561d962ed2d716b587da2f34ae99b55f958ec6a3d9e482162a6b148",
+   "ko": "가늘고 유연한 손가락이 어루만진다."
+  },
+  {
+   "id": "da1305:T00100",
+   "source_sha256": "4a9455365a7263505127bca1f69558d838dd7a7de919d42efc8eee2021e15bf9",
+   "ko": "뺨을,"
+  },
+  {
+   "id": "da1305:T00101",
+   "source_sha256": "f2a1f3c599a4afa7f833c3d17edcaf43c02957f9e975a2790ae63e71a583adc9",
+   "ko": " 입술을,"
+  },
+  {
+   "id": "da1305:T00102",
+   "source_sha256": "369690b73699848eedafa21799445a5d3483f16151e5907e3cd746515b5489dd",
+   "ko": " 목덜미를,"
+  },
+  {
+   "id": "da1305:T00103",
+   "source_sha256": "27644e38b028ab9ddaef72b61b8e11b11e23885a4cc7ad9f102c62d950142820",
+   "ko": " 쇄골을,"
+  },
+  {
+   "id": "da1305:T00104",
+   "source_sha256": "cf454b158cde8c773b6638bf4f4e99f07c2380bf7a903e767a0a321591602a6c",
+   "ko": " 가슴팍을,"
+  },
+  {
+   "id": "da1305:T00105",
+   "source_sha256": "5a614ba7b7e3dbf5f2788abfddb364cd9b59f4f44c0378fadec170cf94344490",
+   "ko": " 배꼽을."
+  },
+  {
+   "id": "da1305:T00106",
+   "source_sha256": "9ae6bcce677a2bcfb39ef165b3b913a521aefd8d82718bb547f552ee84b6d5bb",
+   "ko": "닿을락 말락 한 미약한 힘으로."
+  },
+  {
+   "id": "da1305:T00107",
+   "source_sha256": "fb852d1085813207d0c5ba43f3b9eb4f1bfd384f0bfd97742484e7a21de9a33b",
+   "ko": "간지럽히듯이."
+  },
+  {
+   "id": "da1305:T00108",
+   "source_sha256": "21dd5404aa7aa373f4969f4657cf3a2de489feb3b61d8dd520571df1d1b55386",
+   "ko": " 가지고 노는 것이다."
+  },
+  {
+   "id": "da1305:T00109",
+   "source_sha256": "0a4bb46dcbe0c6f20529e0b5db18e2104818bb3b4025a48039ea3de9379c7820",
+   "ko": "「……아버님」"
+  },
+  {
+   "id": "da1305:T00110",
+   "source_sha256": "57b1ce4a740835a6bb9c5bdba2d1f67154f668cbc0e11d25d4792d2932ad7c2d",
+   "ko": "호소한다."
+  },
+  {
+   "id": "da1305:T00111",
+   "source_sha256": "5fa54eaaedf8677ad78623b6c195c298ca16a40c07262a6a8268672da1fe9a9e",
+   "ko": "도취된, 열기에 들뜬 목소리로."
+  },
+  {
+   "id": "da1305:T00112",
+   "source_sha256": "364c5814909c8ffe8c77992500ee5bbf4bc0f88b57b289e41d5f3d02c03999ed",
+   "ko": "「아버님. 아버님. 아버님.\n　만져 주세요. 어루만져 주세요.\n　껴안아 주세요. 강하게. 강하게」"
+  },
+  {
+   "id": "da1305:T00113",
+   "source_sha256": "5d2339876f93aa0dbe8d7b635c4e8fad081de17bebae6038534ee5b1d357309b",
+   "ko": "「입 맞추고, "
+  },
+  {
+   "id": "da1305:R00023",
+   "source_sha256": "c7b48d9f7bef53fc22d0140f488af3bfad593ea9ce7bc53f8158de2dd9a0d6c8",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1305:T00114",
+   "source_sha256": "a65c1a62b647a5e5b50f20ee7e0c44840ccac1723ab88d2d670cb717b69c5411",
+   "ko": "핥"
+  },
+  {
+   "id": "da1305:T00115",
+   "source_sha256": "1cd3f39a2c5b63a5b7db4f3d03ad9cee0f11a4969d2b8a9949ece466128a72c0",
+   "ko": "고, 맛보고, 냄새 맡고, 움켜쥐고,\n굴리고, 휘젓고, 어지럽히고, 희롱하고, 상처 입히고,\n박아 넣고, 꿰뚫어 주세요」"
+  },
+  {
+   "id": "da1305:T00116",
+   "source_sha256": "3e64864231eda4b215103fbc7bebcfd8ac7bd7851b007a651868539444799b14",
+   "ko": "그 눈동자에 품은 붉은빛이 불현듯 눈물로 일그러졌다."
+  },
+  {
+   "id": "da1305:T00117",
+   "source_sha256": "57b1ce4a740835a6bb9c5bdba2d1f67154f668cbc0e11d25d4792d2932ad7c2d",
+   "ko": "호소한다."
+  },
+  {
+   "id": "da1305:T00118",
+   "source_sha256": "a3d697a038ea92d968e30d7a6be4dd50e26590f90bd64876409986d80a96d008",
+   "ko": "통절한, 듣는 이의 가슴을 죄어 오는 목소리로."
+  },
+  {
+   "id": "da1305:T00119",
+   "source_sha256": "b84a37e22996ce0c81e38e9ec3c3f1e34bd59b072136b9f36c0837607080128b",
+   "ko": "「상냥하게 해 주세요. 격렬하게 해 주세요.\n　고통을 새겨 주세요. 유열로 찢어발겨\n　주세요…… 아버님. 아버님. 아버니임」"
+  },
+  {
+   "id": "da1305:T00120",
+   "source_sha256": "e44e72494f1270803fc3ffe55976d3f0dd7d29a30c09bbdecbecf15d90d3cc50",
+   "ko": "울면서."
+  },
+  {
+   "id": "da1305:T00121",
+   "source_sha256": "02ed4b1d964e28de4d90ef0aaca9b5350b9900d9e6ca0dea96e973b519566bb5",
+   "ko": "하지만 요염한, 여자의 표정으로."
+  },
+  {
+   "id": "da1305:T00122",
+   "source_sha256": "e2206def730fdd5a9b6d8001e3ccc2eda8d0ee431642f8ee5e6dd5b17b562710",
+   "ko": "「애타게 그리워하고 있었습니다.\n　애타게 그리워하고 있었던 것입니다. 당신을.\n　가능성조차 없는 나의 "
+  },
+  {
+   "id": "da1305:R00024",
+   "source_sha256": "3e7ca97dd222dfece75cc1b0e619438b0296dd7b6db45fe8ff3627464f181e69",
+   "ko": "세계",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1305:T00123",
+   "source_sha256": "846c39b0bcb51f41f7a9b92e4d3452d15b86f3e1cd153f8d3d2ba8ef55219731",
+   "ko": "이야기"
+  },
+  {
+   "id": "da1305:T00124",
+   "source_sha256": "970ecb2c62e8849a4d8ea1cac82253f1371a587896f112cd9bef439ce14e416a",
+   "ko": "로 이어지는,\n　당신을. 한 가닥 거미줄을」"
+  },
+  {
+   "id": "da1305:T00125",
+   "source_sha256": "d5dba8130467dfec578eabb6fcce6da5045eb6bddc5fcbab9a68f939c2c7071a",
+   "ko": "눈물과 유열로 요염하게 빛나는 눈동자의, 하지만 그 안쪽은 끝없이 깊은 심연이어서."
+  },
+  {
+   "id": "da1305:T00126",
+   "source_sha256": "a6a169b8c4187dcf95d2e74ac9f083f4f7bccf88ef2d9ab439311561d744fae4",
+   "ko": "나를 비추고 있다."
+  },
+  {
+   "id": "da1305:T00127",
+   "source_sha256": "2398631fff545aac95cb1b39f329c838df7ba41d8bda31d6909b0dddb790265e",
+   "ko": "내 모습이 심연에 삼켜진다."
+  },
+  {
+   "id": "da1305:T00128",
+   "source_sha256": "fc2a56ba32f8db4c443767033e147322093903c73643835ccdbc3127de0456ea",
+   "ko": "「이 세상에 태어나고 싶었습니다.\n어머니의 "
+  },
+  {
+   "id": "da1305:R00025",
+   "source_sha256": "c895b61c39ee9c46db758f9c6fb8bb8e8b3f301b595fdb88c75cb0201674cae8",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1305:T00129",
+   "source_sha256": "5b95cb1c2764100a07868a754eeeb498259b6107844e4da2d708846fe4f8d66a",
+   "ko": "태내"
+  },
+  {
+   "id": "da1305:T00130",
+   "source_sha256": "162e354579f757f4b6fa7359542b7ea9c51f7d7619391ccaa0458e73c44e2cc8",
+   "ko": "를 물어뜯어 찢고. 어머니의 "
+  },
+  {
+   "id": "da1305:R00026",
+   "source_sha256": "c895b61c39ee9c46db758f9c6fb8bb8e8b3f301b595fdb88c75cb0201674cae8",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1305:T00131",
+   "source_sha256": "9158f3180d765cfff17a13e3eeb746f01565d2721581e6f078ca9fce69316316",
+   "ko": "오장육부"
+  },
+  {
+   "id": "da1305:T00132",
+   "source_sha256": "8508a584e6d96feb13b243a021854a458b6799b1ce3ea6ceddeb28f48c0bacd3",
+   "ko": "를 게걸스레 탐하여 먹어 치우고. 피 한 방울, 살점 "
+  },
+  {
+   "id": "da1305:R00027",
+   "source_sha256": "97b2f721401431654538b81dee22925e4bf0b9b875ee44fcb510264a07245b8f",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1305:T00133",
+   "source_sha256": "ee94fc29fd8669d112863845c718c40db7e8f5bd21ad6d2e47fb1bcb3c7977dc",
+   "ko": "한 조각"
+  },
+  {
+   "id": "da1305:T00134",
+   "source_sha256": "2c20392ff6d1e5d2d22d5fabe30fe011080a78ff5b96495f3128b13f95c441b4",
+   "ko": " 남김없이 먹어 치워서――\n나는 어머니를 대신해 그 자리에 앉고 싶었습니다」"
+  },
+  {
+   "id": "da1305:T00135",
+   "source_sha256": "90d4537547ae00f8f4f62cdbbb862faff37271603f9c675ed49cb99768027638",
+   "ko": "「당신의 "
+  },
+  {
+   "id": "da1305:R00028",
+   "source_sha256": "def90a363328c59788c1fc6d530e338c863c72693acf2e9c695bcdc496e94351",
+   "ko": "팜 앙팡",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1305:T00136",
+   "source_sha256": "e1d23da6bd6af9694c40926bf536f1835b052958f8013a4cb2e5a6c7b260fd5e",
+   "ko": "딸"
+  },
+  {
+   "id": "da1305:T00137",
+   "source_sha256": "5196c6fcb006c1f35649a4124d5d29218535e1459b2bfef95489778f0d10b7ae",
+   "ko": "이 되기 위하여."
+  },
+  {
+   "id": "da1305:T00138",
+   "source_sha256": "610afa169b3ba721a020ab4e1a49fe6caf427892935dcf5cef60730678435860",
+   "ko": "당신의 "
+  },
+  {
+   "id": "da1305:R00029",
+   "source_sha256": "42cfe3cc83ccf8cf2829c92ce32cc8353ad11979e734d50fa4bb36694fa0a179",
+   "ko": "팜 파탈이",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1305:T00139",
+   "source_sha256": "0ab4610b9257c2985566c82d624c1adf36c03b9949398a544728b4021bdf779d",
+   "ko": "여자가"
+  },
+  {
+   "id": "da1305:T00140",
+   "source_sha256": "5196c6fcb006c1f35649a4124d5d29218535e1459b2bfef95489778f0d10b7ae",
+   "ko": " 되기 위하여."
+  },
+  {
+   "id": "da1305:T00141",
+   "source_sha256": "4d12582b6c571fa642f8adde2f15dc5ffb1e7939f8bbb3f3f858ab7d7a5524e1",
+   "ko": "――비로소, 이루어진다」"
+  },
+  {
+   "id": "da1305:T00142",
+   "source_sha256": "f04a9f3d1345ad58fb41de31b8b181c8ca7690ef0bd073487c6c36c01e640d2b",
+   "ko": "가라앉는다."
+  },
+  {
+   "id": "da1305:T00143",
+   "source_sha256": "84785d55385e7a3315efcc21d4715af5bdf6f93cf7d4cf160d11644c32e11166",
+   "ko": "붉은 나락으로 가라앉고, 가라앉고, 계속해서 가라앉는다."
+  },
+  {
+   "id": "da1305:T00144",
+   "source_sha256": "c2fff7f7017c2c230b128e8f59a47b08c3cf0a66b3d3882947ad342c5a4eea07",
+   "ko": "미끈거리는 무언가가 나를 감싼다."
+  },
+  {
+   "id": "da1305:T00145",
+   "source_sha256": "07103978ef3488473203471edfff6113210a10f84a1dadef1cd8b81164f351f5",
+   "ko": "양막이다. 붉은 양막.\n\n　뇌를 녹여 버리는"
+  },
+  {
+   "id": "da1305:T00146",
+   "source_sha256": "d48b68ba5f26064434b2bb2501120764358d1370e8671c7785ff5b6d48f5dc4a",
+   "ko": "농밀한"
+  },
+  {
+   "id": "da1305:T00147",
+   "source_sha256": "cf5e054f9fb62efdfa1f6424199d8acfa76c7fbe6e5201f1648c56bfbc10d4a8",
+   "ko": "피의 "
+  },
+  {
+   "id": "da1305:R00030",
+   "source_sha256": "a92c87cbfbadcf0ffd003af300f932ef4a06ba9ecf8414ba2f54d06a8db837d4",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1305:T00148",
+   "source_sha256": "fe713b48dcd8e5eedb3f12e6713d1b69fd9c5fd3bd5046166f5255764b511f45",
+   "ko": "향기"
+  },
+  {
+   "id": "da1305:T00149",
+   "source_sha256": "2e9ada325ef48b69881bb85afe2613f602b19f4396dcad00603948abea6dd8db",
+   "ko": "「아버님. 아버님. 아버님.\n　가르쳐 주세요.\n　나의 이야기가 숨 쉬고 있다고.\n　나는 분명히 이곳에 있는 것이라고」"
+  },
+  {
+   "id": "da1305:T00150",
+   "source_sha256": "42ea6b57a3d5ff7c4ecfeba42882c5d129998a30afbfd3835d178d1a61b2dd10",
+   "ko": "「당신의 숨결로, 고동으로, 피부로,\n　살결로 가르쳐 주세요. 그리고――」"
+  },
+  {
+   "id": "da1305:T00151",
+   "source_sha256": "40c16c565f3d26a237af1497939f93a4de0e9a1693b3f3fb3f23429bc6ff74e8",
+   "ko": "「살포시."
+  },
+  {
+   "id": "da1305:T00152",
+   "source_sha256": "0f40d24ea6e9f80358f2b8615a3c28f3413e73f8c16abf00dd24417c98507870",
+   "ko": "귓가에서."
+  },
+  {
+   "id": "da1305:T00153",
+   "source_sha256": "2cecfcd847d1e807ccaa3c5544647c7126b63b6ba8b21dfdeefe25295606fcec",
+   "ko": "불러 줘."
+  },
+  {
+   "id": "da1305:T00154",
+   "source_sha256": "83d93d8ee0995f5b674e7156e80805b8e37f3e2243e1072fbd05ef4c685ef37d",
+   "ko": "나의――」"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da1305:T00013",
+   "kind": "glossary_candidate",
+   "note": "미확정 용어집 항목 '쿠자쿠(九朔)' 사용."
+  },
+  {
+   "id": "da1305:R00001",
+   "kind": "ruby_decision",
+   "note": "'解(풀리다)'의 단순 훈독 루비('ほど')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1305:R00002",
+   "kind": "ruby_decision",
+   "note": "'容(형상)'의 단순 훈독 루비('カタチ')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1305:R00019",
+   "kind": "ruby_decision",
+   "note": "'理解(이해)'의 단순 훈독 루비('わか')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1305:R00021",
+   "kind": "ruby_decision",
+   "note": "'解(풀리다)'의 단순 훈독 루비('ほど')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1305:R00023",
+   "kind": "ruby_decision",
+   "note": "'舐(핥다)'의 단순 훈독 루비('ねぶ')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1305:R00025",
+   "kind": "ruby_decision",
+   "note": "'胎(태내)'의 단순 훈독 루비('はら')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1305:R00026",
+   "kind": "ruby_decision",
+   "note": "'内腑(오장육부)'의 단순 훈독 루비('はら')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1305:R00027",
+   "kind": "ruby_decision",
+   "note": "'一片(한 조각)'의 단순 훈독 루비('ひとかけら')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1305:R00030",
+   "kind": "ruby_decision",
+   "note": "'芳香(방향)'의 단순 훈독 루비('かおり')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1305:R00012",
+   "kind": "ruby_decision",
+   "note": "呪詛〈ノロイ〉: a7이 본문 '주저'를 '저주'로 고쳐 읽기와 겹침. 루비 생략"
+  }
+ ]
+}

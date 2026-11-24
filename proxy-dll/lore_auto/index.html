@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self' 'unsafe-inline' https://*.demonbane.test blob:; img-src 'self' https://*.demonbane.test blob: data:; font-src 'self' https://*.demonbane.test blob: data:; connect-src 'self' https://*.demonbane.test blob:; frame-src 'self' blob: https://*.demonbane.test; object-src 'none'; base-uri 'self' https://*.demonbane.test;">
+<link rel="icon" href="data:,"><title>데몬베인 · LORE</title><link rel="stylesheet" href="library.css"><link rel="stylesheet" href="demonbane.css">
+</head><body>
+<section id="library">
+ <header class="masthead"><nav><button id="theater" hidden>‹ 감상실</button><button class="quiet fullscreen">전체 화면</button></nav><button id="exit">‹ 감상실로 돌아가기</button></header>
+ <main class="shelf"><div class="heading"><div><div class="eyebrow">LORE</div><h1>데몬베인 서고</h1><p>참마대성 데몬베인</p></div><div class="add"><button id="add-folder" hidden>폴더 추가</button><button id="add-epub" class="primary" title="EPUB 파일을 골라 서고 폴더(ko-libraryooks)에 복사합니다">책 들여오기</button></div></div>
+ <div class="shelf-tools"><div class="tabs" role="group" aria-label="책 종류"><button data-filter="all" aria-pressed="true">소설</button><button hidden data-filter="epub" aria-pressed="false">소설</button><button hidden data-filter="comic" aria-pressed="false">만화</button></div><span id="count" class="muted"></span><button hidden id="rescan" class="quiet">새로고침</button></div>
+ <div id="books" class="books"></div><p id="empty" class="empty" hidden>책을 불러오지 못했습니다. 서고를 다시 열어 주세요.</p>
+ <footer class="shelf-note"><span>읽던 위치 자동 저장</span><span>← → · 휠 쪽 넘기기 <b>·</b> Home·End 처음·끝 <b>·</b> 삽화를 누르면 확대 <b>·</b> 휠 클릭 전체 화면 <b>·</b> Esc·우클릭 돌아가기</span></footer></main>
+</section>
+<section id="reader" hidden>
+ <header class="reader-head"><button id="shelf-back">‹ 책장</button><div class="book-heading"><span id="kind" class="eyebrow"></span><h2 id="title"></h2></div><button id="reload">새로고침</button><button class="quiet fullscreen">전체 화면</button></header>
+ <div class="reading-tools"><div id="epub-tools" hidden><button id="toc-toggle" aria-expanded="false">목차</button><button id="font-down" aria-label="글자 작게">가−</button><input id="font-size" type="number" min="14" max="72" step="2" value="22" aria-label="글자 크기 (14~72px)" title="14~72px"><button id="font-up" aria-label="글자 크게">가+</button><select id="page-layout" aria-label="페이지 보기"><option value="wide">한 쪽 · 넓게</option><option value="spread">두 쪽</option><option value="center-spread">두 쪽 · 가운데</option><option value="center">한 쪽 · 가운데</option></select><button id="theme">야간 모드</button></div><div id="comic-tools" hidden><button id="fit">화면에 맞춤</button><button id="direction">읽기 방향: 왼쪽 → 오른쪽</button><span class="hint">Ctrl+휠 확대·축소 · 끌어서 이동</span></div><span id="read-state" class="muted" aria-live="polite"></span></div>
+ <div id="reading-body"><aside id="toc" hidden aria-label="목차"></aside><div id="epub-view" hidden></div><div id="comic-view" hidden tabindex="0" aria-label="휠로 쪽을 넘기고, 이미지 위에서 Ctrl+휠로 확대·축소하고 끌어서 이동합니다."><img id="comic-image" alt="" draggable="false"></div><div id="loading" class="loading" hidden>책을 펼치고 있습니다…</div></div>
+ <footer class="reader-foot"><button id="prev">‹ 이전</button><div class="position"><span id="location"></span><label id="page-jump" hidden><input id="page-number" type="number" min="1" aria-label="이동할 쪽"><span id="page-total"></span><button id="go-page">이동</button></label></div><button id="next">다음 ›</button></footer>
+</section>
+<section id="illustration" hidden aria-label="삽화 확대 보기"><div class="image-tools"><button id="image-fit">화면에 맞춤</button><span>Ctrl+휠 확대·축소 · 휠 앞뒤 그림 · 끌어서 이동 · 두 번 클릭하면 맞춤 · 오른쪽 클릭 닫기</span><button class="quiet fullscreen">전체 화면</button><button id="image-close">닫기 · Esc</button></div><div id="image-spread"><div id="image-stage"><img id="large-image" alt="소설 삽화 왼쪽" draggable="false"></div><div id="image-stage-next" hidden><img id="large-image-next" alt="소설 삽화 오른쪽" draggable="false"></div></div><footer class="reader-foot image-nav"><button id="image-prev">‹ 이전</button><span id="image-location" class="position" aria-live="polite"></span><button id="image-next">다음 ›</button></footer></section>
+<div id="notice" role="status" hidden></div>
+<script src="vendor/jszip.min.js"></script><script src="vendor/epub.min.js"></script><script src="library.js"></script>
+</body></html>

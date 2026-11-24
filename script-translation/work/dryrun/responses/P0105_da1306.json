@@ -1,0 +1,1297 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0105_da1306",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da1306:T00001",
+   "source_sha256": "b5830f51ae1ec6e2fb26e31b8fa91f33c366baa989e3e10eccea0f3d608ca5cb",
+   "ko": "십수 년 후――격동의 시대."
+  },
+  {
+   "id": "da1306:T00002",
+   "source_sha256": "e99390820f407fc32598b51a1360fc6cb2a731b67ec6bcfb1434ddd2a71f9630",
+   "ko": "세계를 암운이 뒤덮으려 하고 있었다."
+  },
+  {
+   "id": "da1306:T00003",
+   "source_sha256": "b23145e49f1cf5c41de44eeabe071c7517ae6cfbe9aed872b199c53916f3aac5",
+   "ko": "폭풍의 기척이 있었다."
+  },
+  {
+   "id": "da1306:T00004",
+   "source_sha256": "386fb126a33b3529020db3f14697a175f3d2621ca5da043ca38e26c9a5d9e54d",
+   "ko": "마술 이론의 급속한 진보는 옛 힘의 부활과 새로운 힘의 대두,\n그 두 가지를 인류의 투쟁에 가져왔다."
+  },
+  {
+   "id": "da1306:T00005",
+   "source_sha256": "6b988ce171b264d47fa79c33a1c7ab6dd6d28760fb1714a25c621d17aa6f7d9c",
+   "ko": "즉――오컬트 기술과 거대 로봇."
+  },
+  {
+   "id": "da1306:T00006",
+   "source_sha256": "629755b54530ba1e1a4c21ae25519c80250a6d15ee39ba11b5709a30f61db452",
+   "ko": "전장은 주술이 미친 듯이 날뛰고 강철의 거인이 질주하는 이형의 모습으로\n변모하려 하고 있었다."
+  },
+  {
+   "id": "da1306:T00007",
+   "source_sha256": "057efa15a4d010155f3c429a0c6cf46adddf830c03a92f3e2ab81b4740bbc34c",
+   "ko": "가속하는 마술적 투쟁."
+  },
+  {
+   "id": "da1306:T00008",
+   "source_sha256": "63a2e79067d72dfd1ecc2e8b354b69c7350b95fb21968da6708ebd9390b3939d",
+   "ko": "그리고 그 배후, 역사의 어둠 속에서 암약하는 그림자."
+  },
+  {
+   "id": "da1306:T00009",
+   "source_sha256": "12cbd7c17c0b12e874fae24028aa3a002ff14761526e41c0b6334dcf0cb11d12",
+   "ko": "『크툴루 교단』『다곤 비밀교단』『"
+  },
+  {
+   "id": "da1306:R00001",
+   "source_sha256": "5c51cef06f26605b87bee46e9676ffc37e9cee04685e8016c530f7d626d7e992",
+   "ko": "다크니스 돈",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1306:T00010",
+   "source_sha256": "4e3e12de1619f1337749e4737a2730a1bf13823e89687908ef9cd7eff0478e0b",
+   "ko": "암흑의 여명단"
+  },
+  {
+   "id": "da1306:T00011",
+   "source_sha256": "a808655c03c679c537b3ca16d429e46127f152e82932efd3d169018eb889deff",
+   "ko": "』\n　『"
+  },
+  {
+   "id": "da1306:R00002",
+   "source_sha256": "a88c99b979ed4633d64b74d21cdd7b0689451cc480606b9150ce1e1f1449f2ec",
+   "ko": "네오 블랙 로지",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1306:T00012",
+   "source_sha256": "2ec59aade3414bdfb3a6a79dff86d87761d06e94fe1cad36d50420e97eec6000",
+   "ko": "신생 암흑성역"
+  },
+  {
+   "id": "da1306:T00013",
+   "source_sha256": "e2556efd069f2f9629bb9e35c9fbbe1b01f360abaf598bfd56c1e09256fdaa7b",
+   "ko": "』『팔월당』『"
+  },
+  {
+   "id": "da1306:R00003",
+   "source_sha256": "0e7ad7ac44db68d0a881f4946c50bb786a5465d926e7d73476aae130995e4d38",
+   "ko": "Ｓ∴Ｔ∴",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1306:T00014",
+   "source_sha256": "31aeede18a162cd7d3ded45af7e2256b9e14a677687ac685849ec234258f4bb0",
+   "ko": "백은황혼단"
+  },
+  {
+   "id": "da1306:T00015",
+   "source_sha256": "652aaba2619fa0c392e7b32ac2a4e0cfa0544b96614b0d8dc162719b662fa792",
+   "ko": "』『"
+  },
+  {
+   "id": "da1306:R00004",
+   "source_sha256": "ce8f270cde3bda93eedb2a585b7fed6597ee9873457a633e0c9f7bca18fb45a3",
+   "ko": "Ｔ∴Ａ∴",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1306:T00016",
+   "source_sha256": "0af18918787c26473c094375e6e5318b357661e9dbcc77edb4b641c2afbcf3e7",
+   "ko": "황혼천사회"
+  },
+  {
+   "id": "da1306:T00017",
+   "source_sha256": "fcd5cdea382d4beb79470ede72b0b1d6044a04ccc2dfa1309966544d2c4ad941",
+   "ko": "』\n　『짐승의 결사』『"
+  },
+  {
+   "id": "da1306:R00005",
+   "source_sha256": "1852d1747e90b62809e4093c73af20dea72a6838404c0d906b264ca8a533ef50",
+   "ko": "이노벨치",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1306:T00018",
+   "source_sha256": "4e083be535a4608c60863eb7d42af51a673b01210eb4c677bdc54f6aab274183",
+   "ko": "이단자"
+  },
+  {
+   "id": "da1306:T00019",
+   "source_sha256": "7ee5d42eca3ecb30b17ac86a87db0e2aa35d2ae7df6a1b0fd4e72450b31c16b7",
+   "ko": "』…… 사악한 지식을 희롱하는 악의 마술결사들.\n\n　그 수는 많고, 그들 사신의 하수인들과 사신에 맞서는 자들의 투쟁 또한 격화 일로를 걷는다."
+  },
+  {
+   "id": "da1306:T00020",
+   "source_sha256": "0c8796b3c652dc9cfa86350e23ea3ee82e261e66f0dd42f0fb0c23383c59b5b4",
+   "ko": "격동의 시대."
+  },
+  {
+   "id": "da1306:T00021",
+   "source_sha256": "e99390820f407fc32598b51a1360fc6cb2a731b67ec6bcfb1434ddd2a71f9630",
+   "ko": "세계를 암운이 뒤덮으려 하고 있었다."
+  },
+  {
+   "id": "da1306:T00022",
+   "source_sha256": "5c0a921bd1bfcf2aa3e65a468ad6e43f32b1007d1104e69fec2fb1ee965bc380",
+   "ko": "폭풍의 기척이 있었다.\n\n　하지만 역사의 어둠의 더욱 깊은 안쪽."
+  },
+  {
+   "id": "da1306:T00023",
+   "source_sha256": "6726a0998f37e42cdbd5c9348be6323304fb593c8f4cb527d2f563d76df1233f",
+   "ko": "도량발호하는 마술결사의, 한층 더 그 배후에 서 있는 기분 나쁜 그림자가 있었다."
+  },
+  {
+   "id": "da1306:T00024",
+   "source_sha256": "91d7640678cdbcbbba1d3c263cb81578a9dad1262f88e2a56e4594456b1769ad",
+   "ko": "『"
+  },
+  {
+   "id": "da1306:R00006",
+   "source_sha256": "011bff2ca6a69f2fe8c79f9faf512ac072b5d28eb73a88b2c13d88d6873a52f4",
+   "ko": "스타리 위즈덤",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1306:T00025",
+   "source_sha256": "8053b922d5ffe3cd9a69bdc9f412e86c231282edffca4ec60dd40bd6c4bfbb0a",
+   "ko": "별의 지혜"
+  },
+  {
+   "id": "da1306:T00026",
+   "source_sha256": "af3f8b4b2b3391b4c25e8025e2f13675a78d325698f9b718f3ae77a9ff18736e",
+   "ko": "』.\n\n　19세기에 존재했던 사악한 컬트 교단을 자칭하는 조직이, 어째서 현대\n――아니, 미래인가――가 되어서 나타났는지는 불명이다.\n\n　『"
+  },
+  {
+   "id": "da1306:R00007",
+   "source_sha256": "011bff2ca6a69f2fe8c79f9faf512ac072b5d28eb73a88b2c13d88d6873a52f4",
+   "ko": "스타리 위즈덤",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1306:T00027",
+   "source_sha256": "8053b922d5ffe3cd9a69bdc9f412e86c231282edffca4ec60dd40bd6c4bfbb0a",
+   "ko": "별의 지혜"
+  },
+  {
+   "id": "da1306:T00028",
+   "source_sha256": "3fcf2569bd0e1923e4f0ed2ae72ef5311d5e3365ac9bc7f3436bcbda4579a951",
+   "ko": "』는 『"
+  },
+  {
+   "id": "da1306:R00008",
+   "source_sha256": "2ba2b83315d5a00dec74482b55fc6e5681b95dab27c231c52dce2daa7b183fb6",
+   "ko": "파더",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1306:T00029",
+   "source_sha256": "581c093826b07c45e7ba6b03e127d29af6d25f0372b8f6f5b6eebd123394dd46",
+   "ko": "신부"
+  },
+  {
+   "id": "da1306:T00030",
+   "source_sha256": "867ea84675ce2398c3a428acd5fc10216aaf913dec23d5dcb2be18d00d53c0ba",
+   "ko": "』라 불리는 괴인물을 교주로 받들며, 역병 같은 속도와 흉포함으로 세계를 침식해 갔다."
+  },
+  {
+   "id": "da1306:T00031",
+   "source_sha256": "91d7640678cdbcbbba1d3c263cb81578a9dad1262f88e2a56e4594456b1769ad",
+   "ko": "『"
+  },
+  {
+   "id": "da1306:R00009",
+   "source_sha256": "011bff2ca6a69f2fe8c79f9faf512ac072b5d28eb73a88b2c13d88d6873a52f4",
+   "ko": "스타리 위즈덤",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1306:T00032",
+   "source_sha256": "8053b922d5ffe3cd9a69bdc9f412e86c231282edffca4ec60dd40bd6c4bfbb0a",
+   "ko": "별의 지혜"
+  },
+  {
+   "id": "da1306:T00033",
+   "source_sha256": "533edac5d45be2bd4085c0cf7fa172579fa26bd747268cca9d8c54c095297413",
+   "ko": "』의 암약을 눈치챈 자는 적다."
+  },
+  {
+   "id": "da1306:T00034",
+   "source_sha256": "c88c5a482e509ac08c3cd9b58b21e19fa27e86528d28e4cff4570002580af7ca",
+   "ko": "그 몇 안 되는 인류의 수호기관 중 하나가 『패도재벌』이었다."
+  },
+  {
+   "id": "da1306:T00035",
+   "source_sha256": "f8fbfd9e927d22473685c23b6abc37c4b53a9372f8f9a4cd8e503dcc0abf1eec",
+   "ko": "『패도재벌』과 『"
+  },
+  {
+   "id": "da1306:R00010",
+   "source_sha256": "011bff2ca6a69f2fe8c79f9faf512ac072b5d28eb73a88b2c13d88d6873a52f4",
+   "ko": "스타리 위즈덤",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1306:T00036",
+   "source_sha256": "8053b922d5ffe3cd9a69bdc9f412e86c231282edffca4ec60dd40bd6c4bfbb0a",
+   "ko": "별의 지혜"
+  },
+  {
+   "id": "da1306:T00037",
+   "source_sha256": "a17eb17c870cd6e114934ab65effe118206aed8f0d9c331e29b0c1ea82e0b2db",
+   "ko": "』의 오랜 세월에 걸친 싸움이 시작되었다."
+  },
+  {
+   "id": "da1306:T00038",
+   "source_sha256": "0c8796b3c652dc9cfa86350e23ea3ee82e261e66f0dd42f0fb0c23383c59b5b4",
+   "ko": "격동의 시대."
+  },
+  {
+   "id": "da1306:T00039",
+   "source_sha256": "e99390820f407fc32598b51a1360fc6cb2a731b67ec6bcfb1434ddd2a71f9630",
+   "ko": "세계를 암운이 뒤덮으려 하고 있었다."
+  },
+  {
+   "id": "da1306:T00040",
+   "source_sha256": "b23145e49f1cf5c41de44eeabe071c7517ae6cfbe9aed872b199c53916f3aac5",
+   "ko": "폭풍의 기척이 있었다."
+  },
+  {
+   "id": "da1306:R00011",
+   "source_sha256": "9d956c0841c8c5f9f3a91131fa0057c360da4022254529b3d386d74086aed69c",
+   "ko": "그레이트 워",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1306:T00041",
+   "source_sha256": "0f50034fe8568c28d89e0f067559b31bd1c8a321d4ac3843d2ed7dc47aedc666",
+   "ko": "대폭풍"
+  },
+  {
+   "id": "da1306:T00042",
+   "source_sha256": "d6f39f474e4a09d4ffd240ff6b0272f80d799b4c1db0e4fee5efba06f27e8589",
+   "ko": "의 시대."
+  },
+  {
+   "id": "da1306:T00043",
+   "source_sha256": "b0216209483a3add06107a485ecd7bd2344526c457addb056587ebefc7601085",
+   "ko": "다이쥬지 쿠자쿠가 살아가는 시대다."
+  },
+  {
+   "id": "da1306:T00044",
+   "source_sha256": "137e14942d1a84f8a442928909ed33df8e9d61c2193f671c05a43639c08e5d62",
+   "ko": "――프로비던스 지하\n　　　　　　　　『"
+  },
+  {
+   "id": "da1306:R00012",
+   "source_sha256": "011bff2ca6a69f2fe8c79f9faf512ac072b5d28eb73a88b2c13d88d6873a52f4",
+   "ko": "스타리 위즈덤",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1306:T00045",
+   "source_sha256": "8053b922d5ffe3cd9a69bdc9f412e86c231282edffca4ec60dd40bd6c4bfbb0a",
+   "ko": "별의 지혜"
+  },
+  {
+   "id": "da1306:T00046",
+   "source_sha256": "b72463c14159de4fb05314bbe87427f188c8e257daa14ceb49223b60b24f5a23",
+   "ko": "』 "
+  },
+  {
+   "id": "da1306:R00013",
+   "source_sha256": "d4f9ee373306a6798bfd19b58f5c72cac83e33aa27b886a38bb0a40a24699854",
+   "ko": "지오프론트",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1306:T00047",
+   "source_sha256": "c5238995f94676f65954a6b52cfcedeb5babc85d3fa76f9c864a7841f4106d77",
+   "ko": "비밀신전"
+  },
+  {
+   "id": "da1306:T00048",
+   "source_sha256": "689d55f877260697ffcdfca393a80c4be8d2a4176103b3828c87e090a8145f9f",
+   "ko": "「이리하여 세계는 찢어발겨졌다!　보아라!\n　인과는 "
+  },
+  {
+   "id": "da1306:R00014",
+   "source_sha256": "5e50b96c27b2f416824dd21237894b52728e9f8acf21f77ae97378faaafaa899",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1306:T00049",
+   "source_sha256": "09152a2380b09e688a514e86056805ca633afd8381453280be7f536c7140c91a",
+   "ko": "풀"
+  },
+  {
+   "id": "da1306:T00050",
+   "source_sha256": "46357f8a5f498dad65361dda38d2480104a8422a13a013b90a44493e544247d8",
+   "ko": "리고, 무수한 이야기가 겹쳐진다!」"
+  },
+  {
+   "id": "da1306:T00051",
+   "source_sha256": "48e81801da6d070c74dc361a1ef0eaafdd11a636f557e528c20ab841ae9198c2",
+   "ko": "「――"
+  },
+  {
+   "id": "da1306:R00015",
+   "source_sha256": "b458c97475bb67b33cae7c0a72252a4ade1b1765bc2b1bdb569b106a5a49ee84",
+   "ko": "카오스다",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1306:T00052",
+   "source_sha256": "8bd521e57fe5cd146e9d84ccc6a94d278842d49fed178edf1e261eaa7d8f9399",
+   "ko": "혼돈이다"
+  },
+  {
+   "id": "da1306:T00053",
+   "source_sha256": "82b88022f3c2bc4c9ffb1cb34bfddbad4ed7133369c006e0cf8c9e9601047a1f",
+   "ko": "!\n　사랑스러운 "
+  },
+  {
+   "id": "da1306:R00016",
+   "source_sha256": "b458c97475bb67b33cae7c0a72252a4ade1b1765bc2b1bdb569b106a5a49ee84",
+   "ko": "카오스가",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1306:T00054",
+   "source_sha256": "8bd521e57fe5cd146e9d84ccc6a94d278842d49fed178edf1e261eaa7d8f9399",
+   "ko": "혼돈이"
+  },
+  {
+   "id": "da1306:T00055",
+   "source_sha256": "8a2dfa0c7f5664470dbf56ce716bb0dbc45776f7f396ab1b39d3856f81d431e9",
+   "ko": " 세계를 집어삼킨 것이다!」"
+  },
+  {
+   "id": "da1306:T00056",
+   "source_sha256": "b21bae4ca186caf09d76e482cbecbd28e94c318a15ad2de85c549d128fdc77a6",
+   "ko": "「『"
+  },
+  {
+   "id": "da1306:R00017",
+   "source_sha256": "011bff2ca6a69f2fe8c79f9faf512ac072b5d28eb73a88b2c13d88d6873a52f4",
+   "ko": "스타리 위즈덤",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1306:T00057",
+   "source_sha256": "8053b922d5ffe3cd9a69bdc9f412e86c231282edffca4ec60dd40bd6c4bfbb0a",
+   "ko": "별의 지혜"
+  },
+  {
+   "id": "da1306:T00058",
+   "source_sha256": "6d1788b06e35b06bbee4b8fc5b1823d211523961c9f1c18f42ffb89869a6fde4",
+   "ko": "』!\n　……신부!　어디에 있느냐!?」"
+  },
+  {
+   "id": "da1306:T00059",
+   "source_sha256": "e953d399308bdc4513495b6f64bacede5064a64331cbb4cb7978373db1144bd9",
+   "ko": "「다이쥬지 쿠자쿠!　그대 또한 나의 "
+  },
+  {
+   "id": "da1306:R00018",
+   "source_sha256": "0fac3ba703c833bc320b469586f6e138570e59711e4536b366185f5f4da0f299",
+   "ko": "테이블",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1306:T00060",
+   "source_sha256": "e0b363b5f4c292b27aa1e1034b9204fb8aaeed9997ba0dd283b0fc4bc574b92b",
+   "ko": "탁자"
+  },
+  {
+   "id": "da1306:T00061",
+   "source_sha256": "2361a36d9d93982bf6be5a295f954258847b28a27269123176bde04bc746addd",
+   "ko": "에 앉겠는가!\n　그대의 부모와 마찬가지로, 나의 게임에 도전하겠는가!」"
+  },
+  {
+   "id": "da1306:T00062",
+   "source_sha256": "485f8ff70871ab20d134d479391a39ed24bb0012fe523e12a1d3e6ec8a7963e8",
+   "ko": "「게임이라고!?」"
+  },
+  {
+   "id": "da1306:T00063",
+   "source_sha256": "2a951234fb56fbd001510d150ecd69ef72b05d00fabc4831d183da9c7c933e2a",
+   "ko": "「그렇다…… 모든 것은 "
+  },
+  {
+   "id": "da1306:R00019",
+   "source_sha256": "fd24608330586093b66f5624f72b03e6a91ae1c1e330bc1c9368e294e4c35880",
+   "ko": "게임",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1306:T00064",
+   "source_sha256": "a608636d6e8d4ba34fe63844c5a3f822b7e39b65f2254f29e1afa5de315ca75e",
+   "ko": "장난"
+  },
+  {
+   "id": "da1306:T00065",
+   "source_sha256": "5974342fb23b8e734ee33b473ab8671d6721a2aa7d2ba37172144d07b7a98265",
+   "ko": "이다.\n　나는 세계를 "
+  },
+  {
+   "id": "da1306:R00020",
+   "source_sha256": "00215ef31df725f9bc09ad69205c885dd4d1806f05e2710ec1f0aeb9dbe2e6e2",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1306:T00066",
+   "source_sha256": "7d6739abb05e10909ca875067193a47f1487787349e58f840f46dcfff361d228",
+   "ko": "가지고 노"
+  },
+  {
+   "id": "da1306:T00067",
+   "source_sha256": "acbdf72ee2a49ab831314bd64a2abfa7662c3293b35e439795fec13b132b14ca",
+   "ko": "는 자. 나는――」"
+  },
+  {
+   "id": "da1306:T00068",
+   "source_sha256": "d59fd09bfc5e0f09b95a8f7250bb389994ff0f080aeccb97b1a7cf2ce9807a3d",
+   "ko": "「――나는 "
+  },
+  {
+   "id": "da1306:R00021",
+   "source_sha256": "a8d7864bbce25774a4af0f8ca3611c0d1d05801fb19e14477015a201a8505841",
+   "ko": "게임 키퍼",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1306:T00069",
+   "source_sha256": "41fffc1500c095112778975fb80315562a8532fce2f5da9e63cb782fc55180ea",
+   "ko": "완구지배자"
+  },
+  {
+   "id": "da1306:T00070",
+   "source_sha256": "a66ec1ed207629c57a37df7132589ec98fb69a04b9e73795e257012f3ac270b4",
+   "ko": "이니라」"
+  },
+  {
+   "id": "da1306:T00071",
+   "source_sha256": "58ad9335781aec01eae298e97f6fa512702d12cc7aa2776419a2d16e843121b6",
+   "ko": "「무슨 짓을 꾸미는 거냐, 신부!」"
+  },
+  {
+   "id": "da1306:T00072",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da1306:R00022",
+   "source_sha256": "b23809bf96a578e2f1bd090c387ee6bf76b00f431c6ea18868a02155a811f1f4",
+   "ko": "・・・・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1306:T00073",
+   "source_sha256": "15b21dcae008533855d98de73df98d5a00ef4fdfd55dee680ababfa66df56aa1",
+   "ko": "나는 아무것도 하지 않는다"
+  },
+  {
+   "id": "da1306:T00074",
+   "source_sha256": "2a73e1479d9c690d80ed0af9db49bb48df0664ea39a613b875854b8a459e444a",
+   "ko": ". 나는 그저 불을 지필 뿐이다――"
+  },
+  {
+   "id": "da1306:R00023",
+   "source_sha256": "b226ff4cadc08d48c2c29d94f723f312371aa94f41b458d33575c7669a54816c",
+   "ko": "페이트라는",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1306:T00075",
+   "source_sha256": "269a29ab55fbb0934a58f22d5b4ce151960cac29df8b9bc5ba167c760b5d7ee6",
+   "ko": "운명이라는"
+  },
+  {
+   "id": "da1306:T00076",
+   "source_sha256": "9cc5fa3b2e13c10bbdd31054598bf199f1f7ac3cf85474f8370dfc27485b6c82",
+   "ko": " 이름의 "
+  },
+  {
+   "id": "da1306:R00024",
+   "source_sha256": "ceb26b009ca576a2e7bbb2e67500227b95fe12e0923cc4ac672b5a0216070f3a",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1306:T00077",
+   "source_sha256": "1b8dea6f7509502a020c24a3774825ee293e90976d54e923c3ee0e81296724cd",
+   "ko": "장작"
+  },
+  {
+   "id": "da1306:T00078",
+   "source_sha256": "0ab2a57b7ff431ea9f79fc1a64a462ff2597b43c78d0681845f486e833c1a1d1",
+   "ko": "에, "
+  },
+  {
+   "id": "da1306:R00025",
+   "source_sha256": "07d67f477025a465d4facdce426c9391f26a28ab4c48fbc42afb8429f3003633",
+   "ko": "찬스라는",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1306:T00079",
+   "source_sha256": "ff5ff75bed41b49ab193baf3a06f8c64f0e7d1f62200f77292739d37204f5213",
+   "ko": "우연이라는"
+  },
+  {
+   "id": "da1306:T00080",
+   "source_sha256": "3564ac4565136af359c93dc815acab6b1d105db7dfa0866c9477be3e778e4b0a",
+   "ko": " 이름의 불씨를!」"
+  },
+  {
+   "id": "da1306:T00081",
+   "source_sha256": "7a8f5374c851d37fcf93d7f0ee49ccf3068ea2161775f5834d10ec9a2bfa9ef2",
+   "ko": "「그래, 지옥의 향연을\n　"
+  },
+  {
+   "id": "da1306:R00026",
+   "source_sha256": "b50674159eede12da6228eb2d45d913ab1e104459d7b60f179ec329e9cd81ffa",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1306:T00082",
+   "source_sha256": "a3a7e0778e4676bd63fbf354e357946da78e151d6e4674fb71b3e6900aa86aa0",
+   "ko": "주최하"
+  },
+  {
+   "id": "da1306:T00083",
+   "source_sha256": "c2ffdea239456373c45e88e8f937f6ce00ae3aff5f581fc2aeaf7bf3dbbc0204",
+   "ko": "는 것은 언제나 인간이야!」"
+  },
+  {
+   "id": "da1306:R00027",
+   "source_sha256": "9d956c0841c8c5f9f3a91131fa0057c360da4022254529b3d386d74086aed69c",
+   "ko": "그레이트 워",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1306:T00084",
+   "source_sha256": "6797c413077ba0d92d0b2ac89310388d11515ed912f687d5ef21782b62192a42",
+   "ko": "마도대전"
+  },
+  {
+   "id": "da1306:T00085",
+   "source_sha256": "d6f39f474e4a09d4ffd240ff6b0272f80d799b4c1db0e4fee5efba06f27e8589",
+   "ko": "의 시대."
+  },
+  {
+   "id": "da1306:T00086",
+   "source_sha256": "bc7568150382764b774fd8d85ee1caeb8798740c92abf4a3587d6d101daf724a",
+   "ko": "치열해지는 싸움이 대붕괴를 초래했다.\n\n　『사신소환』 의식의 실패와 폭주."
+  },
+  {
+   "id": "da1306:T00087",
+   "source_sha256": "8ed358a6f44cbc31041391fd0c6f33c3e794a1adb2e12853c174c77ddaba335d",
+   "ko": "그 영향은 세계 전역에 미쳤다."
+  },
+  {
+   "id": "da1306:T00088",
+   "source_sha256": "7dad7f07b49a1d6d4d45bbf833ef10452402d2435a609e9efa62fb5cb1089359",
+   "ko": "「이것은……!?」"
+  },
+  {
+   "id": "da1306:T00089",
+   "source_sha256": "e9df3a170e2023e2285aebfb7bfa2122252451bc42373772a0c86ef6627bf191",
+   "ko": "「시공의 틈새다――폭주한 신력의 여파는\n　시공을 찢어발겨, 세계를 단절시킨 것이다.\n　찢어발겨진 세계는 분기하고 고립되어,\n　이형의 법칙이 지배하는 마계로 화했다」"
+  },
+  {
+   "id": "da1306:T00090",
+   "source_sha256": "641237dc7bef895835f15027496353843a75432b400c856de296760974401544",
+   "ko": "「세계가…… 찢어발겨졌다고?」"
+  },
+  {
+   "id": "da1306:T00091",
+   "source_sha256": "c7e0ac66b6abf45bb6a90ed1175f805519f3c829147e63361258031d99da1312",
+   "ko": "「공간. 시간. 그리고 인과마저도.\n　너 또한 찢어발겨져 있다……"
+  },
+  {
+   "id": "da1306:T00092",
+   "source_sha256": "730d358b61d32a52ebf2994689d440a330b58f083f7576bbd99f2b6838fa6309",
+   "ko": "이처럼!」"
+  },
+  {
+   "id": "da1306:T00093",
+   "source_sha256": "04f518df24a34cba679b80131a2daf3fade2de383dfd661d21e36ecd2caaf986",
+   "ko": "「……읏!?\n　그아아아아아아아아아!」"
+  },
+  {
+   "id": "da1306:T00094",
+   "source_sha256": "a0f900a05e5be7dba391f1528ded6516de1f384c40005ece7d5d33522e7ce046",
+   "ko": "소년의 몸이 혈풍이 되어 "
+  },
+  {
+   "id": "da1306:R00028",
+   "source_sha256": "5e50b96c27b2f416824dd21237894b52728e9f8acf21f77ae97378faaafaa899",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1306:T00095",
+   "source_sha256": "09152a2380b09e688a514e86056805ca633afd8381453280be7f536c7140c91a",
+   "ko": "풀"
+  },
+  {
+   "id": "da1306:T00096",
+   "source_sha256": "05ab8e9d37ef9633d9abc218a02a6611ff5b7de8f5ae6ab6d635cfc7933c5ec6",
+   "ko": "린다."
+  },
+  {
+   "id": "da1306:T00097",
+   "source_sha256": "24930e73f743b3a6f45f428a354f0262ac6eeb24c2da5662d42a13f193d175a7",
+   "ko": "혈풍은 무수한 마술 문자로 구성되어, "
+  },
+  {
+   "id": "da1306:R00029",
+   "source_sha256": "5f7f5e2fdbb3f3bdfb00e7a31478467682b563a75bfb6444e1d3c93b2608a7e6",
+   "ko": "뱀",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1306:T00098",
+   "source_sha256": "5d29d8bd7dc20e6f02db4a6c2cc299f39a2118f7833eb4efa99cd182ac9e118c",
+   "ko": "문자열"
+  },
+  {
+   "id": "da1306:T00099",
+   "source_sha256": "53067768b0cfc03437ee71762c2cc36460c4f6044fbce7e05bf84083b6933242",
+   "ko": "이 되어 이중나선을\n그렸다."
+  },
+  {
+   "id": "da1306:R00030",
+   "source_sha256": "f24e1d4c1416020a350748b1a9d32690050e439e40e3feec1386d1cf90ad46bb",
+   "ko": "카두케우스가",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1306:T00100",
+   "source_sha256": "d777bfc7dee450f267dd1acafa13d6f1e40db40c4bf75a7380a1e222b54b41d3",
+   "ko": "이중나선이"
+  },
+  {
+   "id": "da1306:T00101",
+   "source_sha256": "ae7a734b95217b56a00bbfbdd7b02ca947237202c8cfc491bfd14441eaeb24a9",
+   "ko": " 쿠자쿠의 몸에서――\n　혹은 영혼에서――뜯겨 나간다."
+  },
+  {
+   "id": "da1306:T00102",
+   "source_sha256": "0b0635b014d8a303a7fae3982a0f2284c17899b4415539a8009eeb67c1702dff",
+   "ko": "「크악…… 하아……\n　하아…… 하아……」"
+  },
+  {
+   "id": "da1306:T00103",
+   "source_sha256": "8a438a4c248ac23216b563012078abdef2ef992017328fcb73160bd85564c8cd",
+   "ko": "몸과 영혼이 찢어발겨진 격통에 무릎을 꿇는다."
+  },
+  {
+   "id": "da1306:T00104",
+   "source_sha256": "ced2b9931c68480cff1a783127bd74e85eff04e8d24e12c99db8616a95c92034",
+   "ko": "거친 숨을 몰아쉬며 괴로워하는 쿠자쿠의 뺨에 가느다란 손가락이 닿았다."
+  },
+  {
+   "id": "da1306:T00105",
+   "source_sha256": "a5b80fcd57205a8d2e8ef15fa2eb008c8275a1dc5ce3533248dd36641404c680",
+   "ko": "무슨 일인가 싶어 올려다보는 쿠자쿠의 "
+  },
+  {
+   "id": "da1306:R00031",
+   "source_sha256": "5d6c14f61af3317035c211d332c6dd4c89d585e23aedf3a9db914275fb614093",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1306:T00106",
+   "source_sha256": "8fabc966781dcce2c753b7320239a3c6dfd92c16799ebd7b5dedf29dee116992",
+   "ko": "비취색"
+  },
+  {
+   "id": "da1306:T00107",
+   "source_sha256": "ab9e789701f33e5a7dd54a45033678b3e7bc2f1ac8d14b44d2f3351d7261ed2e",
+   "ko": " 눈동자를, "
+  },
+  {
+   "id": "da1306:R00032",
+   "source_sha256": "7a03d8b917cd4eb72df60734e6a993fcc7d22977e4b93342f637fc125fc8ab8e",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1306:T00108",
+   "source_sha256": "3906ad557eab1f8074ca2d22ec7b71bcaab96079a17335614f71e5f1f0b6fe00",
+   "ko": "진홍색"
+  },
+  {
+   "id": "da1306:T00109",
+   "source_sha256": "580d55b1fc4b4288e1c57482cb1f45db735096b8429d63a76c6fe66adf57d77e",
+   "ko": "의 눈동자가 들여다본다."
+  },
+  {
+   "id": "da1306:T00110",
+   "source_sha256": "32fc2ceafef340bcba8cc1ae5ff343cf632266e096d50d7d4fa3c7f2ecc37e96",
+   "ko": "「……뭣」"
+  },
+  {
+   "id": "da1306:T00111",
+   "source_sha256": "4ccdd6b942f81af7b1b1439d700da01638578c7c7b2d1aff0c48c5f3f50f46b7",
+   "ko": "「――처음 뵙겠습니다, 『나』여」"
+  },
+  {
+   "id": "da1306:T00112",
+   "source_sha256": "93ecedf83474c5199db9da1a14915e80156f39baf696bdd2b18fac0007df2f22",
+   "ko": "붉은 이중나선이 붉은 소녀를 엮어 올리고 있었다."
+  },
+  {
+   "id": "da1306:T00113",
+   "source_sha256": "514b22704429d99e4c401772fa4813ed7db6d92eb74251f50e2525d649c24eab",
+   "ko": "달콤한 피의 향기를 "
+  },
+  {
+   "id": "da1306:R00033",
+   "source_sha256": "dca68fa81e48ed0c4790233d4757302fe40db9c1b1aa9efb70c35a8bd9d51ae2",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1306:T00114",
+   "source_sha256": "3030235d7d109b93f1d76328981e54b2760dd9d3394bd0e6eb93e40825f52a1f",
+   "ko": "어렴풋"
+  },
+  {
+   "id": "da1306:T00115",
+   "source_sha256": "e87c3440ccb638b25619f5d442e0cf97fa3b8864ed105c0d8c73fd329ce4f3db",
+   "ko": "이 풍기며, 소녀는 소년을 바라보고 있었다."
+  },
+  {
+   "id": "da1306:T00116",
+   "source_sha256": "dd94a51c918b9e9af35aff119acd607ea93f50b25d0daea9cd7f5598bf9ee7a6",
+   "ko": "그 모습은 어딘가 "
+  },
+  {
+   "id": "da1306:R00034",
+   "source_sha256": "0ddf26e15a8e302369cbcdd4561d27b91dcc4bc0381b7f31c55c0b09690da480",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1306:T00117",
+   "source_sha256": "321ca02cc0eb929e5495d15de5d318d620fcf3ba2f1db0424e5656b329aad2d0",
+   "ko": "아련"
+  },
+  {
+   "id": "da1306:T00118",
+   "source_sha256": "675c05d4188ada2912ac7e7330b0923fc2013598a683e7bf0b9b298fba2f9fb2",
+   "ko": "하고, 지독히 덧없다.\n\n　그 몽환 같은 소녀가 고했다."
+  },
+  {
+   "id": "da1306:T00119",
+   "source_sha256": "4a9e29bfe81c15d84b8d92369d0379763ead33036bc4350ebec89a3f7fdfa03c",
+   "ko": "뺨에 닿은 손가락을 내려 소년의 가슴――소년의 "
+  },
+  {
+   "id": "da1306:R00035",
+   "source_sha256": "55d01f56441afd08c9760898746a852ab97611c75cbff4597f1ef853bf921c9f",
+   "ko": "하트",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1306:T00120",
+   "source_sha256": "e7e8bc2ee954c9b4304ad0993c612a5fb7b4794dd48511223bf90915288d0036",
+   "ko": "심장"
+  },
+  {
+   "id": "da1306:T00121",
+   "source_sha256": "9b8272732be65d96094be178aaf41c84c66c6e597f4fbc4daf068885f7f1453b",
+   "ko": " 위에 손바닥을 얹고서, 소녀는 소년을 불렀던 것이다.\n\n　『나』라고."
+  },
+  {
+   "id": "da1306:T00122",
+   "source_sha256": "2622460e65bbbb33c323d29f76d7c64cf846aa7a21f4d1aa97616a94aaff5924",
+   "ko": "『나 자신』이라고."
+  },
+  {
+   "id": "da1306:T00123",
+   "source_sha256": "0d0f959f8fda6e43b6216be17795ffc088b4d96834454c98ce2aaa58fd75f5b4",
+   "ko": "「……『나』?」"
+  },
+  {
+   "id": "da1306:T00124",
+   "source_sha256": "355ed1514ac6cd5d616dc9a0d788438139db0eecd36f92b34da36046d99d5820",
+   "ko": "「그렇다. "
+  },
+  {
+   "id": "da1306:R00036",
+   "source_sha256": "399541026b89787f76b6312375d21b42244869347cf836059cf9eba724bb4824",
+   "ko": "・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1306:T00125",
+   "source_sha256": "b3de9c302b3aa57928cc35517c092e2cfa90df7d858374f5299779f2fafad6d1",
+   "ko": "그것"
+  },
+  {
+   "id": "da1306:T00126",
+   "source_sha256": "e64a13d963d37bd3bde079fe331540c0efdcd440e5b75ffb8c7454615230e8a2",
+   "ko": "은 『그대』다. 『그대』 자신이다. 찢어발겨져 분기한 『그대』의 또 하나의 가능성이다」"
+  },
+  {
+   "id": "da1306:T00127",
+   "source_sha256": "bc7cf097c4055689cad09334574e29e804b12132646eaf70197495920685ee9c",
+   "ko": "「무슨 뜻이――"
+  },
+  {
+   "id": "da1306:T00128",
+   "source_sha256": "e201dfb6f9824a04c6fcb81e590be17386f75b6ef36569979154cc784ba7c963",
+   "ko": "읏!?"
+  },
+  {
+   "id": "da1306:T00129",
+   "source_sha256": "20dd719beb6eb8c1eb351db5e2047d2a5bbed98f826c2612d1229e20151e02e8",
+   "ko": "그으아아앗!」"
+  },
+  {
+   "id": "da1306:T00130",
+   "source_sha256": "bf8053244e6cbeee205af2dbababa6c885cea6b8d11b83a84c6d2201e1091e05",
+   "ko": "소녀의 손바닥이 소년의 가슴 "
+  },
+  {
+   "id": "da1306:R00037",
+   "source_sha256": "f928a1d8b5112862013422df7230496f194f20b6680c812512a9d4e8a2b7aa4e",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1306:T00131",
+   "source_sha256": "b2126ce9c100bff0cc963326e29fadc751106ad7fd7f34aa46cddc06d8198c6a",
+   "ko": "안"
+  },
+  {
+   "id": "da1306:T00132",
+   "source_sha256": "c3f0ea55e6d4708a650c3e6a048ef1badb110b4cf1224cfb73c9f9453929e74c",
+   "ko": "으로 가라앉았다."
+  },
+  {
+   "id": "da1306:T00133",
+   "source_sha256": "3453e9056925a6952422b197b1563ee18c83a6b225612ecc75ced74fcf0a0ee6",
+   "ko": "깊이."
+  },
+  {
+   "id": "da1306:T00134",
+   "source_sha256": "3453e9056925a6952422b197b1563ee18c83a6b225612ecc75ced74fcf0a0ee6",
+   "ko": " 깊이."
+  },
+  {
+   "id": "da1306:T00135",
+   "source_sha256": "b45c7d6857d4d8d0c650d9567dc92b9cb6d61a3b0bb7c17c689d4a1c971150be",
+   "ko": "「하아…… 아아아아……\n　아아아아아아아――――앗!」"
+  },
+  {
+   "id": "da1306:T00136",
+   "source_sha256": "e2a58c253ecb415ff350ff1ab2a71d8216147555d0648094bb04136ad5a5f65e",
+   "ko": "「그으…… 크아앗!"
+  },
+  {
+   "id": "da1306:T00137",
+   "source_sha256": "2a75ca9a3cd5b5041d287cb7dbba2ee4619d791493b4e1d14a0a0857ec3458dd",
+   "ko": "아아아아아아아아아앗!」"
+  },
+  {
+   "id": "da1306:T00138",
+   "source_sha256": "0cb5f5eaa40e742dbb22a9fafd253a539d44cb0d2d6298d4bf0b23fe23c37cfb",
+   "ko": "찌르고/꿰뚫는 것이 아니라, 서로 녹아들고/녹아 섞인다."
+  },
+  {
+   "id": "da1306:T00139",
+   "source_sha256": "fd2dd4b79dbc68ee6bb0a6163f8cfe43345a5c61d5419091a00396c993982fc6",
+   "ko": "소녀의 존재가 소년의 "
+  },
+  {
+   "id": "da1306:R00038",
+   "source_sha256": "55d01f56441afd08c9760898746a852ab97611c75cbff4597f1ef853bf921c9f",
+   "ko": "하트",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1306:T00140",
+   "source_sha256": "260cca3889c2a05c9c705f61df0f96b20c3a2ff9ce50c268e52da33ed4b785d0",
+   "ko": "중심"
+  },
+  {
+   "id": "da1306:T00141",
+   "source_sha256": "0ef9239875eb130d9ee52cc073eb1caf884072c0a544817009fc1c6dec70e5d5",
+   "ko": "에 닿는다.\n\n　전율이 일 정도의 일체감에 몸을 떨며, 소년과 소녀는 하나로 이어졌다.\n\n　그 뜨거운 황홀을――"
+  },
+  {
+   "id": "da1306:T00142",
+   "source_sha256": "49b2a51811085320ddef2d40fc2745548e9eb127b0166ba158da7fcb15adcb0b",
+   "ko": "서로의 몸을 탐하여 먹어 치우는 듯한 "
+  },
+  {
+   "id": "da1306:R00039",
+   "source_sha256": "e2a168090c6e39a0a092e197b03d00ad938b16128dec50c811515c2a7b7ba02b",
+   "ko": "아우린",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1306:T00143",
+   "source_sha256": "54235654a51428db8c3b374d475d5ef2e1f214b2001b284005c0eb8cfa33ca64",
+   "ko": "일체감"
+  },
+  {
+   "id": "da1306:T00144",
+   "source_sha256": "963ec501f2ca56ba33d1cfe4ff6070bbfab371a961ffc324d532b23fd594783c",
+   "ko": "을――"
+  },
+  {
+   "id": "da1306:T00145",
+   "source_sha256": "3bc64762fa85fabda2a32a18465c37f26b79abd91817f0b03dd4ca6f9db21627",
+   "ko": "소년은――"
+  },
+  {
+   "id": "da1306:T00146",
+   "source_sha256": "75b5a995b3ad7a8ac356e443e4698208aa76ea49d79c56fe7e3eac6b3655f56f",
+   "ko": "「크…… 읏……!」"
+  },
+  {
+   "id": "da1306:T00147",
+   "source_sha256": "6c584b7af24af676477a8c8aac34b47678f91775cebcae85182b29eb50042cd3",
+   "ko": "「하아…… 아아아……」"
+  },
+  {
+   "id": "da1306:T00148",
+   "source_sha256": "6d21944d507e878909a01848bd3f3f9fe7bf3efd0eceafd3f4c369d0a8e4e416",
+   "ko": "「그……」"
+  },
+  {
+   "id": "da1306:T00149",
+   "source_sha256": "fb48afa7c43ab106fca16b0d001df6b7abd58508c909d3ea94738f62d9fb1005",
+   "ko": "「……아…… 아아아……」"
+  },
+  {
+   "id": "da1306:T00150",
+   "source_sha256": "a56560e73f18ddfdb146555be4ff718c1f966a3ed015975333e31299b7d6e8a1",
+   "ko": "「그만…… 둬……」"
+  },
+  {
+   "id": "da1306:T00151",
+   "source_sha256": "95946b1a5cbbfa29d101296d39e130823f82c9b11523723f295c9e6fe178af5f",
+   "ko": "「……?」"
+  },
+  {
+   "id": "da1306:T00152",
+   "source_sha256": "37e027c63296a696f1fa22ec7d9ff2bd28c60ef5b02a7b486214482a74793a76",
+   "ko": "「그만둬어어어엇!」"
+  },
+  {
+   "id": "da1306:T00153",
+   "source_sha256": "11844c1d8b534e5f37fa83443dd363e5eb73d04fbc963a68832ec077e6d2801e",
+   "ko": "「!?　――으아아!」"
+  },
+  {
+   "id": "da1306:T00154",
+   "source_sha256": "0dcd8db4ab03721ca756dfeb11105bc86df281adfb286e7ffe1d9a3ddb0df94f",
+   "ko": "거부했다."
+  },
+  {
+   "id": "da1306:T00155",
+   "source_sha256": "c6b2561ed7a03edd4dd7e3dc78f101fa3d39cb53f575df01542c4c080e51dcbf",
+   "ko": "전력으로 소녀를 밀쳐 낸다."
+  },
+  {
+   "id": "da1306:T00156",
+   "source_sha256": "a626b4a85d9d46f2ad32022cbf7ec580bcb355555ac699397f7746ec1abb9db5",
+   "ko": "소녀의 손이 뽑혀 나왔을 때, 또다시 몸이 찢기는 듯한 격통이 그를 덮친다."
+  },
+  {
+   "id": "da1306:T00157",
+   "source_sha256": "f4c51e1b2b7cafd550f962d348b2a6ad411c8c56044343d650556c75bcaadf2f",
+   "ko": "소년은 그 고통이야말로 자신의 분노의 동기로 삼았다."
+  },
+  {
+   "id": "da1306:T00158",
+   "source_sha256": "d797882b18dc9064896db27c69d9ca8ebc3ca9f36650cd593e5a165c38515ba4",
+   "ko": "원수를 보는 듯한 시선을 소녀에게 꽂는다."
+  },
+  {
+   "id": "da1306:T00159",
+   "source_sha256": "d5cf52d1528b52beabf4d7579f1516647dcb1fedca78a51962751381c5f1e8de",
+   "ko": "「……아……?」"
+  },
+  {
+   "id": "da1306:T00160",
+   "source_sha256": "0b4b170e7506142dfa23e485ce83c946f3462ee61e2a767273019107d078e529",
+   "ko": "엉덩방아를 찧은 소녀는 무슨 일이 일어났는지도 모른 채, 그저 멍하니 소년을 올려다보고 있었다."
+  },
+  {
+   "id": "da1306:T00161",
+   "source_sha256": "38d984541904943089cb7babf4ce2ddd47b981cd442eb4beb1552f1878890af5",
+   "ko": "그러나 이윽고 자신을 노려보는 비취색 눈동자 안쪽에서 답을 안다."
+  },
+  {
+   "id": "da1306:T00162",
+   "source_sha256": "97244d49ca947c6de5e92f80b4634ecbfa0c7db9f96b742fe0a0190af983e97f",
+   "ko": "초점 없는, 아득한 "
+  },
+  {
+   "id": "da1306:R00040",
+   "source_sha256": "a14f9355ff5bc703aa175f8a795fc49676901e44794150841f01dd2067dea8c3",
+   "ko": "루비",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1306:T00163",
+   "source_sha256": "1bf5b451af8d5132a4d70302a00a2529edad253128ff6f3438f9f64b2cb9fca8",
+   "ko": "홍옥"
+  },
+  {
+   "id": "da1306:T00164",
+   "source_sha256": "c97876cb3e828bc279e50779a42412269201b0b78b7901340fe77129ffee1d12",
+   "ko": "의 눈동자에 이해가 깃든다."
+  },
+  {
+   "id": "da1306:T00165",
+   "source_sha256": "70d93f4c0cd1c535280df2cfe77a0e8ad8202debf0f6112302c84e42b88aa529",
+   "ko": "「하…… 하하……」"
+  },
+  {
+   "id": "da1306:T00166",
+   "source_sha256": "ffbb92f235e73d1b70dfde2ddd475869afa4368063a8ce5a9094ac5e42be16a0",
+   "ko": "흘러나온 것은 "
+  },
+  {
+   "id": "da1306:R00041",
+   "source_sha256": "2895ce20a7385bc2cc182870401439c7986e12de3e6b4a814eefe718fb782e64",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1306:T00167",
+   "source_sha256": "0f55c1b29730d09eae296e101a12467fa6fb8c9c44d1f69a49f9df47be9fee35",
+   "ko": "비웃"
+  },
+  {
+   "id": "da1306:T00168",
+   "source_sha256": "1a22655c10538edbd4ff45a75e7adc11205ac8255f21c427434555d2e357fdef",
+   "ko": "음이었다."
+  },
+  {
+   "id": "da1306:T00169",
+   "source_sha256": "d12b287d67799860530a3553eed42cf46da9b8a8163adfd1604573368eaff7a3",
+   "ko": "「하하…… 아핫…… 하하하하……」"
+  },
+  {
+   "id": "da1306:T00170",
+   "source_sha256": "cb2cf4825f0c5ef7a52022b6363e7b2d72ab1606cb35700d53889ce830922cfe",
+   "ko": "「아하핫, 하하하, 하하하하하하핫!」"
+  },
+  {
+   "id": "da1306:T00171",
+   "source_sha256": "dde7eee85709434a8d547df8bf629f3fe12e96e469de7e88f70110541136b0dd",
+   "ko": "「무엇이 우스우냐!?」"
+  },
+  {
+   "id": "da1306:T00172",
+   "source_sha256": "b0ddaefbe8d1df775dc20356ff215b9eaedac332e94f24be7b1b75571582dd77",
+   "ko": "딱 하고 웃음소리가 멎는다."
+  },
+  {
+   "id": "da1306:T00173",
+   "source_sha256": "c789e70f1fe3e5f0015049d673d9f34cc822c06d5ded1341bea5c4322416e309",
+   "ko": "눈동자가 스으…… 하고 가늘어진다."
+  },
+  {
+   "id": "da1306:T00174",
+   "source_sha256": "91fdc8f3977c8af2692f225c1785c80303bbdd5adf3f4ec2e1991f7bf1a590d0",
+   "ko": "대담한, 하지만 어딘가 도취된, 붉고 붉은 눈동자가."
+  },
+  {
+   "id": "da1306:T00175",
+   "source_sha256": "9fe1794353acb4d199c382546cc7e1f63ab9803811e047b692742f461dd35f07",
+   "ko": "「『나』가, 그렇게나, 무서워?」"
+  },
+  {
+   "id": "da1306:T00176",
+   "source_sha256": "dd1d00a3fa702aec61c36af4f150af10cd8860973bf5a116c4deccaa76c7bfb1",
+   "ko": "「……읏!?　지껄이느냐, 괴물!」"
+  },
+  {
+   "id": "da1306:T00177",
+   "source_sha256": "4a27c937e35e7926efcf59ddce218aaca5f413f77179cafadc8a28a3ade32b73",
+   "ko": "「괴물이, 아니야.\n　『나』는 『나』.\n　나는, 당신」"
+  },
+  {
+   "id": "da1306:T00178",
+   "source_sha256": "74d9698aa665ba56e896e587759a59c49e1125910cfcb46a36b0a43dd7e320c7",
+   "ko": "「그래…… 그래…… 그렇다!\n　나는, 너다!\n　너의…… 다른 이야기다!\n　나는――」"
+  },
+  {
+   "id": "da1306:T00179",
+   "source_sha256": "1289ae0e664651fdfd0951efe94a169daea3fa0f4deb5b6a7548bd0840544a79",
+   "ko": "「나는 너의 악이다!\n　악을 행하는 너의 가능성이다!\n　다이쥬지 쿠자쿠!」"
+  },
+  {
+   "id": "da1306:T00180",
+   "source_sha256": "66c72e44426186876f33fd6e1ef535b73be05e43f8cf74589b6594525480812a",
+   "ko": "「우…… "
+  },
+  {
+   "id": "da1306:R00042",
+   "source_sha256": "b8335796c737135ddc329d328796fd632309743d7bb776d9e981c25876bc61f9",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1306:T00181",
+   "source_sha256": "edca73adc7220a79b08f0adb86cbc2075facd277d1bc9534d9c4500f17eb3f20",
+   "ko": "웃기지"
+  },
+  {
+   "id": "da1306:T00182",
+   "source_sha256": "572b25eef4dd7191e25a854a91ee0b5f609dbafb6b97fae4a6f821e760f94da4",
+   "ko": " 마라아아아아!」"
+  },
+  {
+   "id": "da1306:T00183",
+   "source_sha256": "71b35be1efb725b67ec3e1e35604a93d1778a3e68098e3eff5628df04a2e436d",
+   "ko": "소년의 손바닥에서 "
+  },
+  {
+   "id": "da1306:R00043",
+   "source_sha256": "09fa673682a266196a91d31d5ed99736a1c7d85c250226fb9c9ec5b7006a27ba",
+   "ko": "아자토스",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1306:T00184",
+   "source_sha256": "5e7930e1744f03b9e3bc03391b9568c30347421f4c5cb7f73d17119a9e29ab74",
+   "ko": "자도자"
+  },
+  {
+   "id": "da1306:T00185",
+   "source_sha256": "39cbb28b06f40fb8e06f782af905918edb6106cf54215fc1c19e6c3515e91dab",
+   "ko": "가 결정화되어, 쌍검이 쥐어진다."
+  },
+  {
+   "id": "da1306:T00186",
+   "source_sha256": "2a883caa169f20b6fd7ee14fa446c05aff703c71307e341ff35b621ad6808cd5",
+   "ko": "진심이 담긴 참격이 소녀에게 내리쳐진다."
+  },
+  {
+   "id": "da1306:T00187",
+   "source_sha256": "5e4483cb6a1fc85e534a5a57dd7e6810c192c214b291e2820ea48c261a4d8f72",
+   "ko": "칼날은 허무하게 허공을 가른다."
+  },
+  {
+   "id": "da1306:T00188",
+   "source_sha256": "cf689779418c305ad6c593e7e563d92b23d39099a6caae86f44577fb9c91adda",
+   "ko": "붉은 바람, 피의 향기를 어렴풋이 남기고 소녀의 모습은 안개처럼 흩어졌다."
+  },
+  {
+   "id": "da1306:T00189",
+   "source_sha256": "ed33ab464e6d4d70e758aa44fa3e64c2c2b554cfdf81120e579c76677eefb6e4",
+   "ko": "「크윽…… 어디냐!?」"
+  },
+  {
+   "id": "da1306:T00190",
+   "source_sha256": "719188a5300fd3e9368fe4c6c7209958846b316bb0ff002cf9bacfecfb720d3d",
+   "ko": "「자아…… 말은 다 모였다」"
+  },
+  {
+   "id": "da1306:T00191",
+   "source_sha256": "6bb3581165d49098f9554c6e330ec0dba1d299d34d9a13ed4dd97d11e088abcc",
+   "ko": "「――――읏!」"
+  },
+  {
+   "id": "da1306:T00192",
+   "source_sha256": "ad75e05fa6c0aa93a4435119a2d2dfbb0ccc5aaad109d1577eec1d986d434099",
+   "ko": "거대한 톱니바퀴가 움직이는 무거운 소리가 들렸다."
+  },
+  {
+   "id": "da1306:T00193",
+   "source_sha256": "45aa21d514f2636e8f2e33cd804761343d3b5d6cdb77d4f55b468ab4e299e45e",
+   "ko": "소년의 눈앞에 거대한 붉은 나선이 소용돌이친다.\n\n\n　붉은 회오리에 집어삼켜져 도는 나사/톱니바퀴/태엽/배관/철골/도선/장갑――서로 맞물리고 조립되어 구축되어 간다."
+  }
+ ],
+ "issues": [
+  {
+   "id": "da1306:T00043",
+   "kind": "glossary_candidate",
+   "note": "미확정 용어집 항목 '쿠자쿠(九朔)' 사용."
+  },
+  {
+   "id": "da1306:R00014",
+   "kind": "ruby_decision",
+   "note": "'解(풀리다)'의 단순 훈독 루비('ほど')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1306:R00020",
+   "kind": "ruby_decision",
+   "note": "'玩(가지고 놀다)'의 단순 훈독 루비('もてあそ')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1306:R00024",
+   "kind": "ruby_decision",
+   "note": "'薪(장작)'의 단순 훈독 루비('たきぎ')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1306:R00026",
+   "kind": "ruby_decision",
+   "note": "'催(주최하다)'의 단순 훈독 루비('もよお')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1306:R00028",
+   "kind": "ruby_decision",
+   "note": "'解(풀리다)'의 단순 훈독 루비('ほど')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1306:R00031",
+   "kind": "ruby_decision",
+   "note": "'翡翠(비취색)'의 단순 독음 루비('ヒスイ')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1306:R00032",
+   "kind": "ruby_decision",
+   "note": "'緋色(비색)'의 단순 독음 루비('ヒイロ')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1306:R00033",
+   "kind": "ruby_decision",
+   "note": "'幽(어렴풋)'의 단순 훈독 루비('かす')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1306:R00034",
+   "kind": "ruby_decision",
+   "note": "'朧(아련)'의 단순 훈독 루비('おぼろ')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1306:R00037",
+   "kind": "ruby_decision",
+   "note": "'内(안)'의 단순 훈독 루비('なか')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1306:R00041",
+   "kind": "ruby_decision",
+   "note": "'嗤(비웃음)'의 단순 훈독 루비('わら')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1306:R00042",
+   "kind": "ruby_decision",
+   "note": "'巫山戯(웃기다)'의 단순 훈독 루비('ふざけ')이므로 omit_redundant 처리."
+  }
+ ]
+}

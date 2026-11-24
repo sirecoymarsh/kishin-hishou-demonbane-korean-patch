@@ -1,0 +1,11 @@
+pid	sid	kind	jp	ko
+P0024_da0120ed	da0120ed:T00039	text	ょ	''
+P0024_da0120ed	da0120ed:T00042	text	ょ	''
+P0024_da0120ed	da0120ed:T00045	text	き	''
+P0024_da0120ed	da0120ed:T00046	text	だ	''
+P0024_da0120ed	da0120ed:T00055	text	が	' '
+P0024_da0120ed	da0120ed:T00058	text	い	''
+P0026_da0202	da0202:T00097	text	<SE ID="1" SRC="seロボ特殊_汎用斬撃命中飛翔 MODE="normal" TIME="" LOOP="" vol="">	None
+P0042_da0310	da0310:T00029	text	<LAYER SRC="#ffffff" TRANSPARENT="55" NUM="10>	None
+P0060_da0505	da0505:T00045	text	・	' '
+P0094_da1102	da1102:T00261	text	<A HREF="#リトライ１" OPERATOR=""">	None

@@ -1,0 +1,1301 @@
+{
+  "schema": "khd-gemini-response-v1",
+  "packet_id": "P0124_da1502a",
+  "model_id": "Gemini 3.8 Flash (High)",
+  "records": [
+    {
+      "id": "da1502a:T00001",
+      "source_sha256": "d717183eedd40356c72db4838b4135f1ceb5ddf01b83c7c83ce86b5337dd6a2d",
+      "ko": "자꾸 이야기의 맥을 끊어서 미안하지만, 또다시 "
+    },
+    {
+      "id": "da1502a:R00001",
+      "source_sha256": "6453bd2a653e1529f53628145f01eb71c8cfc9681ec242799b2f3c89e8f7d468",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1502a:T00002",
+      "source_sha256": "edd875c56dd6930bcd635762d1b113ee1129d575d404cc263f77d2d507fa8795",
+      "ko": "비"
+    },
+    {
+      "id": "da1502a:T00003",
+      "source_sha256": "3b0a650001298c057b1a7fc2cd380422a746b98169bc6fb7209620ed28874eac",
+      "ko": "유"
+    },
+    {
+      "id": "da1502a:R00002",
+      "source_sha256": "acc19338cd60bbbcb9590e5bded508ebfd8ba78b51fe8713d0448a5a1eea574d",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1502a:T00004",
+      "source_sha256": "830cfa57ee20a0d1e3e4a99a4d8b58ecce0c98db89d3c33b0740b5cf1cc2f48a",
+      "ko": "담"
+    },
+    {
+      "id": "da1502a:T00005",
+      "source_sha256": "2382bf510a12f1c46bff648cbba5034d54e7921b573ab0bbc143028b7a8419ef",
+      "ko": " 같은 옛날이야기다.\n\n　시험관 속 우주."
+    },
+    {
+      "id": "da1502a:T00006",
+      "source_sha256": "8acdeab7587023f1a30d846c7569d22bd8a8ab6cac26a3bc73050c75532cff18",
+      "ko": "반응로 속 우주."
+    },
+    {
+      "id": "da1502a:T00007",
+      "source_sha256": "82be4804e27801f733572eca468fc78d539dd4b7931c7b0ed0bafee52fcdc58c",
+      "ko": "코인 로커 속 우주."
+    },
+    {
+      "id": "da1502a:T00008",
+      "source_sha256": "7eb71b9eaecd7e27236a0abf7bf4a88c1d2165d58782de7c4e13783d34edccc3",
+      "ko": "북의 "
+    },
+    {
+      "id": "da1502a:R00003",
+      "source_sha256": "cb5077b943831678bad5fcbefc19b802dcc052c1bf98201e03f340457f44e4f8",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1502a:T00009",
+      "source_sha256": "81aab7083dccfd63d162c6a75960f08945b9bab87f1530607523bbf36bbc20f8",
+      "ko": "메아리"
+    },
+    {
+      "id": "da1502a:T00010",
+      "source_sha256": "213b77809a7dea1358f4b1844c2c038fb169b1927cd26d37b3b766ff274dee23",
+      "ko": "로 울려 퍼지는 우주."
+    },
+    {
+      "id": "da1502a:T00011",
+      "source_sha256": "8a1aa67a4066eff6bfc89a619dd3ab457e23409b5a85bb3f8396e6451d8a62f1",
+      "ko": "뇌수에 유폐된 우주."
+    },
+    {
+      "id": "da1502a:T00012",
+      "source_sha256": "9ff0646f091e6296433927464f9462b5d0b606523e79546c29ac7c363cb561b1",
+      "ko": "츄잉껌 포장지에 싸인 우주――\n\n　우주 밖에 펼쳐지는 우주."
+    },
+    {
+      "id": "da1502a:T00013",
+      "source_sha256": "527935036eacda2189cec697450a4ba8fe9b0ab038bdb48a110f58fc90d7c0f9",
+      "ko": "우주 안으로 펼쳐지는 우주."
+    },
+    {
+      "id": "da1502a:T00014",
+      "source_sha256": "d0a7b8f09d6e87b2194daa61a53686abc2fe09b8cf4023c1466fb5909d72ef17",
+      "ko": "영겁을 집어삼킨 찰나."
+    },
+    {
+      "id": "da1502a:T00015",
+      "source_sha256": "ed86f75463fb6ec85bbc67a0c50da7f312668d604d32555f0568b458b3a5a15a",
+      "ko": "무한대를 가둬 넣은 지극히 작은 티끌.\n\n　우주 밖에 펼쳐지는 우주의, 우주 밖에 펼쳐지는 우주 밖에 펼쳐지는\n　우주의, 우주 밖에 펼쳐지는 우주 밖에 펼쳐지는 우주 밖에 펼쳐지는\n　우주의…… 무한히 이어지는 우주."
+    },
+    {
+      "id": "da1502a:T00016",
+      "source_sha256": "c9ff988c63c8334e3fc02222058287fc54fb30b281fb588a18af284b42ccfe2e",
+      "ko": "모든 것은 무한이면서 영이라는 이야기."
+    },
+    {
+      "id": "da1502a:T00017",
+      "source_sha256": "4a6c95667f01dd72e94516d2916abe0075dbb8712c79ec1cad8b67e39b31f87b",
+      "ko": "무한과 영이 녹아들고, 윤회의 뱀이 썩어 문드러져, 끓어"
+    },
+    {
+      "id": "da1502a:R00004",
+      "source_sha256": "66375f610acae70cb94950511fa7fdb7f8d055ca6387ec2c2101f481a05eb4cf",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1502a:T00018",
+      "source_sha256": "d9391958404544734d838bd9b0dae5398d90b46721a4b23eca798d55cfa2815f",
+      "ko": "오르"
+    },
+    {
+      "id": "da1502a:T00019",
+      "source_sha256": "1e6a8f663905d4109497cdd307db39079da45f08301367b1980b7050ee5d220d",
+      "ko": "는 혼돈의 수프를 만들어내는 것이다――"
+    },
+    {
+      "id": "da1502a:T00020",
+      "source_sha256": "98a4749592ed49fea02920bee7519be039b86bebd55a6d31a673a26eee6ce732",
+      "ko": "「빛나는 트라페조헤드론. 그것은 우주의 초점. 성계로 이어지는 문. 이계의 존재에 도달하기 위한 길――」"
+    },
+    {
+      "id": "da1502a:T00021",
+      "source_sha256": "a38e04e579ec9e5c044bd6059bc2cfcc56b97a0a6efc20c7fbfd72c7b1595df5",
+      "ko": "「빛나는 트라페조헤드론.\n　그것은 치유하는 것.\n　그것은 파괴하는 것.\n　그것은 변용시키는 것――」"
+    },
+    {
+      "id": "da1502a:T00022",
+      "source_sha256": "f337d819d9b3df2dc388b1be551a2c97ab93e65c8066dc4da096feadfabf8f32",
+      "ko": "「……빛나는 트라페조헤드론!\n　――그래!\n　그것은 유폐된 올바른 우주다!」"
+    },
+    {
+      "id": "da1502a:T00023",
+      "source_sha256": "d5d05826f7c0397a0c5b06c49e96f6b8cde17345234e2b82e46230a927b4b46f",
+      "ko": "「내 고향인 끓어"
+    },
+    {
+      "id": "da1502a:R00005",
+      "source_sha256": "66375f610acae70cb94950511fa7fdb7f8d055ca6387ec2c2101f481a05eb4cf",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1502a:T00024",
+      "source_sha256": "d9391958404544734d838bd9b0dae5398d90b46721a4b23eca798d55cfa2815f",
+      "ko": "오르"
+    },
+    {
+      "id": "da1502a:T00025",
+      "source_sha256": "d0da7ae0610a3baf06ceb1c7e35ebf7db11fb7936b8f17cf77df963c6f7f7466",
+      "ko": "는 혼돈!\n나의 조소해야 마땅할 주인 아자토스의 뜰!」"
+    },
+    {
+      "id": "da1502a:T00026",
+      "source_sha256": "72bf630b80f86543f858247540faf8f183336fc5f3815a48e2c4fcb9779d2178",
+      "ko": "「알고 있다…… 알고 있어!\n너희가 어떻게, 맹목암우한\n내 아버지를 유폐했는지를 난 알고\n있다고!」"
+    },
+    {
+      "id": "da1502a:T00027",
+      "source_sha256": "fd4073c4ecb9690cbeee44e4784a03b5a18d12c7e1cc0d046b1cce3f0f1a36c0",
+      "ko": "그리고――"
+    },
+    {
+      "id": "da1502a:R00006",
+      "source_sha256": "d173edc543f6299221c76147da6d9b8dbc8bf2c39aa71c21b9eb385ff1825577",
+      "ko": "트라페조헤드론",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1502a:T00028",
+      "source_sha256": "f5af3bfcfd95c42faf29ae9e8aa41879bc2c5b26b7bd8a621f83dba1c4edc178",
+      "ko": "뒤틀린 다면체"
+    },
+    {
+      "id": "da1502a:T00029",
+      "source_sha256": "c726149737b1b3f0a0fbff654e3f4847c72f7fd73b3ac7dcd548005252af9693",
+      "ko": "의 스물네 면 중 731면이,\n　무수한 "
+    },
+    {
+      "id": "da1502a:R00007",
+      "source_sha256": "a86df34a6f3fd760cd90b6597d0c6936a42c68e4adc46930a700d6cb24302710",
+      "ko": "이야기",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1502a:T00030",
+      "source_sha256": "33650a369521ec29f2e26c43d25967535bcb26436755f536735d1ef6e84a1ec5",
+      "ko": "세계"
+    },
+    {
+      "id": "da1502a:T00031",
+      "source_sha256": "171c4e45ee303b2402be53ee3059f7e3a1f0e467fe86441cc7ddc5ba67fe94ec",
+      "ko": "를 비춰낸다."
+    },
+    {
+      "id": "da1502a:T00032",
+      "source_sha256": "8d31b96438db6d33659f2314c2684d2fe85e8dd3877e85ab959206cd2003e8c1",
+      "ko": "무한한 "
+    },
+    {
+      "id": "da1502a:R00008",
+      "source_sha256": "3e7ca97dd222dfece75cc1b0e619438b0296dd7b6db45fe8ff3627464f181e69",
+      "ko": "세계",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1502a:T00033",
+      "source_sha256": "846c39b0bcb51f41f7a9b92e4d3452d15b86f3e1cd153f8d3d2ba8ef55219731",
+      "ko": "이야기"
+    },
+    {
+      "id": "da1502a:T00034",
+      "source_sha256": "aeb91b9a8edfde4fa0ba97575252d7962756e0231e497cc1ef699a1c6f7dca50",
+      "ko": "를 자아낸다."
+    },
+    {
+      "id": "da1502a:T00035",
+      "source_sha256": "7c4afa977847e52bdecd1d520bc396060f54db07c678f3ca5386e9fc029f6ac6",
+      "ko": "「빛나는 트라페조헤드론!"
+    },
+    {
+      "id": "da1502a:R00009",
+      "source_sha256": "09fa673682a266196a91d31d5ed99736a1c7d85c250226fb9c9ec5b7006a27ba",
+      "ko": "아자토스",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1502a:T00036",
+      "source_sha256": "302de86e473c611a54bdc2063884aa4bc17bdd1ded391a422879cda83fc6423a",
+      "ko": "조물주"
+    },
+    {
+      "id": "da1502a:T00037",
+      "source_sha256": "254e8af85e33a65f6722170787665674852bb33bb5783213c781068784f614da",
+      "ko": "를 봉인하는 이 신기의\n　기본 소재는……」"
+    },
+    {
+      "id": "da1502a:T00038",
+      "source_sha256": "1f092f9da32189050a5eed3dce9d432b9d52e2b412c2cf4a8d76fcc82b411991",
+      "ko": "무한한 이야기를 내재한, 무수한 세계가, 동시에 평행하게 전개된다."
+    },
+    {
+      "id": "da1502a:T00039",
+      "source_sha256": "aff8e4da422c015cccc5f9d072d1b6e3ba31d5e71fa0f6f193f6d05f9d92cd87",
+      "ko": "시험관 속 우주가 / 반응로 속 우주가 / 코인 로커 속 우주가 / 북의 "
+    },
+    {
+      "id": "da1502a:R00010",
+      "source_sha256": "cb5077b943831678bad5fcbefc19b802dcc052c1bf98201e03f340457f44e4f8",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1502a:T00040",
+      "source_sha256": "81aab7083dccfd63d162c6a75960f08945b9bab87f1530607523bbf36bbc20f8",
+      "ko": "메아리"
+    },
+    {
+      "id": "da1502a:T00041",
+      "source_sha256": "eb2aa8b7e2f2ee15338e49ce11a0f55565ce060505fe6556ed7808b5b6c84c28",
+      "ko": "로 울려 퍼지는 우주가 / 뇌수에 유폐된 우주가 / 츄잉껌 포장지에 싸인 우주가―― 만화경처럼 "
+    },
+    {
+      "id": "da1502a:R00011",
+      "source_sha256": "f79689c871eb9126ca631efd7f53aaffd4b0c30b270c7723351a65a18aa88e50",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1502a:T00042",
+      "source_sha256": "d2cfc0f18cdf602e2bcf786fd70465e78caad60de49258f9817d7dce26e64a05",
+      "ko": "반짝반짝"
+    },
+    {
+      "id": "da1502a:T00043",
+      "source_sha256": "998461b6dac834e39a14c0efb14798371b8ee20b6ca3bf6fe275bae5c51bfd20",
+      "ko": " 빛나며, 어지러이 "
+    },
+    {
+      "id": "da1502a:R00012",
+      "source_sha256": "0cf0ed09d997fd73f27bdd6a92778a0388d38b4dc12c24b69b152aafa1c24987",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1502a:T00044",
+      "source_sha256": "dc82b1be94518babf302a022e4d33b42661dd42c0aeee356d62cf62f26d2df52",
+      "ko": "변해"
+    },
+    {
+      "id": "da1502a:T00045",
+      "source_sha256": "8afffa00e4d68542b320a2c35028a1eb513edc1bd2f1125ee1362ea01cb3f176",
+      "ko": " 가고 "
+    },
+    {
+      "id": "da1502a:R00013",
+      "source_sha256": "0cf0ed09d997fd73f27bdd6a92778a0388d38b4dc12c24b69b152aafa1c24987",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1502a:T00046",
+      "source_sha256": "471b2d253aac6f48f141a5a34fd914885d4c89a1906b55c0ae9d63230a8ae6b6",
+      "ko": "비쳐"
+    },
+    {
+      "id": "da1502a:T00047",
+      "source_sha256": "8afffa00e4d68542b320a2c35028a1eb513edc1bd2f1125ee1362ea01cb3f176",
+      "ko": " 들고 "
+    },
+    {
+      "id": "da1502a:R00014",
+      "source_sha256": "0cf0ed09d997fd73f27bdd6a92778a0388d38b4dc12c24b69b152aafa1c24987",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1502a:T00048",
+      "source_sha256": "4f011eaa1b9e20ca17fd35a269197b191e830ad0071fad300db0d7ad572b9856",
+      "ko": "덧없이"
+    },
+    {
+      "id": "da1502a:T00049",
+      "source_sha256": "af28183c67dd3522b042774d2665d4e134f81986427d25db9c11f312bfb6d8cf",
+      "ko": " 스러져 간다."
+    },
+    {
+      "id": "da1502a:T00050",
+      "source_sha256": "7013f309235652045047327445d5896dc342c8acc3ad640c1b60cfdaf6c52bb8",
+      "ko": "「――우주다! 무한히 존재하는\n평행우주 그 자체를 결계로 삼아,\n혼돈의 뜰을 봉인한 거다!」"
+    },
+    {
+      "id": "da1502a:T00051",
+      "source_sha256": "1b6b564e8c4c5bc2af352c51eb35f58a525b5ef652526746818ddba014818495",
+      "ko": "우주 안에 "
+    },
+    {
+      "id": "da1502a:R00015",
+      "source_sha256": "01e8855e938d5a455078911d78d4c1153e977690a4df6eed3affa0bea10c342d",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1502a:T00052",
+      "source_sha256": "779ef63fafeb4ccae5c9e40021471349972c234fc0d4b70654950e06c66896db",
+      "ko": "갇"
+    },
+    {
+      "id": "da1502a:T00053",
+      "source_sha256": "dee6af2f22a5fe4e6db7e6385156ff313f94ebe011bbede063098971c9b0acc2",
+      "ko": "힌 우주의, 우주 안에 갇힌 우주 안에 갇힌 우주의, 우주 안에 갇힌 우주 안에 갇힌 우주 안에 갇힌 우주의…… 무한의 "
+    },
+    {
+      "id": "da1502a:R00016",
+      "source_sha256": "eee8c515d80eb68ae982cdde5ead80e318097cc4930b023ae14a65e7964aa29c",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1502a:T00054",
+      "source_sha256": "31b2e9509e4add1d0be9fccb83002f2ab7b8af89f7795ce251e79d517f825811",
+      "ko": "아득한 끝"
+    },
+    {
+      "id": "da1502a:T00055",
+      "source_sha256": "bf078f4b498f01531f29aac961e2917f1682ff3b849e67059a9f7fbf76a56532",
+      "ko": " / 만물의 중추 / "
+    },
+    {
+      "id": "da1502a:R00017",
+      "source_sha256": "c549f8da8eae5c90edff653dae2b0ad18b8154c1fa60dfef20a21b67e392b517",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1502a:T00056",
+      "source_sha256": "21b3308f9de4c9f9a2abdafff6d6440453b94bbbb5238c58b4eccb96489c0455",
+      "ko": "궁극"
+    },
+    {
+      "id": "da1502a:T00057",
+      "source_sha256": "3b2e79bc719379948597cf4be8f8c76f1b3296e6089b0a355b1d9b49e5503647",
+      "ko": "의 "
+    },
+    {
+      "id": "da1502a:R00018",
+      "source_sha256": "32778b29fea58065310a90200d4724635cfcb412a39c0e13877cd9f349b18b42",
+      "ko": "제로",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1502a:T00058",
+      "source_sha256": "9489a4a6f3fbf136816df3dd09583e15303363fc58288d12697ebb5475901f6e",
+      "ko": "영"
+    },
+    {
+      "id": "da1502a:T00059",
+      "source_sha256": "571e1e3b0f43f89fcb228c6ffb07f58a8a8e67e02212476878ce6020236044c1",
+      "ko": "――\n\n　가냘픈 "
+    },
+    {
+      "id": "da1502a:R00019",
+      "source_sha256": "77b4c99cf1128de401a89b6c2855490681f5e1c29b8fbbfd624f999fc4bbcce1",
+      "ko": "플루트",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1502a:T00060",
+      "source_sha256": "0992c490863eb75bba7f2dd0f0e73afd0b05c136193cdb2b9dd91ca91a4b5c1d",
+      "ko": "마적"
+    },
+    {
+      "id": "da1502a:T00061",
+      "source_sha256": "3b2e79bc719379948597cf4be8f8c76f1b3296e6089b0a355b1d9b49e5503647",
+      "ko": "의 "
+    },
+    {
+      "id": "da1502a:R00020",
+      "source_sha256": "36f1fdb2a7fb338230a7f6a12b27713fe7397790f0ea12a5558ed41c9ebb5e12",
+      "ko": "멜로디와",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1502a:T00062",
+      "source_sha256": "f0385d5399ff3c93c55d443b0f03e1ef2439d753ecd414d16183b16953ab009d",
+      "ko": "선율과"
+    },
+    {
+      "id": "da1502a:T00063",
+      "source_sha256": "e77c847a46d2aa73fbe744c4a7cfbb1dfb47fdf66cfbd336294d08655abce453",
+      "ko": " 미친 "
+    },
+    {
+      "id": "da1502a:R00021",
+      "source_sha256": "ccd80fe2406e12cdd1ae6972c9a3e7444c0d02478133cef826f31f4fcec34f42",
+      "ko": "드럼",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1502a:T00064",
+      "source_sha256": "981c05ec79f239366b57cb15ba551cc2127538f0e06b1500ca151a9eb2fb3088",
+      "ko": "북"
+    },
+    {
+      "id": "da1502a:T00065",
+      "source_sha256": "3b2e79bc719379948597cf4be8f8c76f1b3296e6089b0a355b1d9b49e5503647",
+      "ko": "의 "
+    },
+    {
+      "id": "da1502a:R00022",
+      "source_sha256": "84ef66040449740cf633d4f35adf719737857496b3e5c61d918d3b51b41961cf",
+      "ko": "리듬",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1502a:T00066",
+      "source_sha256": "5871caed50de64bf37bf1ceeea5aebf6fcddb07d226d97495cdf46090ff503a3",
+      "ko": "박자"
+    },
+    {
+      "id": "da1502a:T00067",
+      "source_sha256": "f4c95e016272a03229b9e6ef99f7950cebc5eeed386933784cbbda9bcc04833e",
+      "ko": "에 선잠이 들어, 혼돈의 핵은 봉신되어 있다."
+    },
+    {
+      "id": "da1502a:T00068",
+      "source_sha256": "22b9ff25efb86de8d9c998163be0f3318cae0348a512c52e21acf4f1248a34db",
+      "ko": "――빛나는 트라페조헤드론."
+    },
+    {
+      "id": "da1502a:T00069",
+      "source_sha256": "90d5a5d5cb3e05951920864c0c1ed189821f12ffd0e9252767a80de15e69c78f",
+      "ko": "그것은 끓어오르는 혼돈 아자토스의 우주를 빙결 / 구속 / 봉멸한\n신기이자, 무한히 존재하는 세계 그 자체."
+    },
+    {
+      "id": "da1502a:T00070",
+      "source_sha256": "fde5e4e6a70f071ae61a90be9f6dbb0b37fa8a0b39fe386aa91dd2222c25a169",
+      "ko": "「단 하나뿐인…… 신들을 위한\n올바른 우주를 봉인하기 위해\n너희는 무한에 가까운 우주의 유해\n를 첩첩이 쌓아 올린 거야!」"
+    },
+    {
+      "id": "da1502a:T00071",
+      "source_sha256": "dc9bde8d46f584d8d3859ec5d97a8ff69d9141774c3dde81484195d7e55189b2",
+      "ko": "「――유해 따위가 아니야」"
+    },
+    {
+      "id": "da1502a:T00072",
+      "source_sha256": "cdc846f0e34b830bff210b612e1c3619688cf1cbfd50bc66fc35b4b538b981e0",
+      "ko": "「그것은 자식의 내일을 빼앗긴, 어미의 한탄」"
+    },
+    {
+      "id": "da1502a:T00073",
+      "source_sha256": "b594d60f66516caa1fcf78c8b4dd1930aac1581da6f34e6ff91333dc255773d1",
+      "ko": "「그것은 자식의 내일을 지키지 못한, 아비의 분노」"
+    },
+    {
+      "id": "da1502a:T00074",
+      "source_sha256": "9d63cbeabbbc1e761826a3bd3fa92363858d22abd4f8f97e31275c8dabef9774",
+      "ko": "「그것은 사악함에 "
+    },
+    {
+      "id": "da1502a:R00023",
+      "source_sha256": "c15e66756f836acc97fe1b71a7a71550b17a744dcccf5855958e2e0d79a9b5a8",
+      "ko": "유린",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1502a:T00075",
+      "source_sha256": "de576b8e1a03c11f86f11c0bb22a14076542dba00805219152b4ff0ee122f406",
+      "ko": "농락"
+    },
+    {
+      "id": "da1502a:T00076",
+      "source_sha256": "7cd204b748da3070e767e0712d1a455bc6f0fc2747a00f59529eff3218e92e6b",
+      "ko": "당한,\n　무수한 세계의 절규와 기도……이지만」"
+    },
+    {
+      "id": "da1502a:T00077",
+      "source_sha256": "70b44175ac743241172e7131ea159dc88c0525706d36add0970b8cebc0056b7e",
+      "ko": "「그 의지는―― 힘이 된 거야」"
+    },
+    {
+      "id": "da1502a:T00078",
+      "source_sha256": "6662ef06509dea861035a2873c8bfe1cfe8d0de8df023cdd74c4c75c1280e17e",
+      "ko": "「혼돈이여. 그 얼굴 없는 얼굴에 뚫린,"
+    },
+    {
+      "id": "da1502a:R00024",
+      "source_sha256": "9340ec2bd34f504a6ceb14f5c8beea15a575bf08b4f8f6e31d771c48855f6ce1",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1502a:T00079",
+      "source_sha256": "a20eda9744a7dcdcc91352732604c547ffdb645ba2fcefd6b24ba363bf3df2de",
+      "ko": "광야"
+    },
+    {
+      "id": "da1502a:T00080",
+      "source_sha256": "3b2e79bc719379948597cf4be8f8c76f1b3296e6089b0a355b1d9b49e5503647",
+      "ko": "의 "
+    },
+    {
+      "id": "da1502a:R00025",
+      "source_sha256": "77574f3ead81ac1417f7ece57ef3afc5d2a488f021d76fc9d6ebeff259908ab0",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1502a:T00081",
+      "source_sha256": "393ee0b5797efaa42b103981be37ed70703e44523fc77f777cdcc9c8026a2993",
+      "ko": "눈"
+    },
+    {
+      "id": "da1502a:T00082",
+      "source_sha256": "a2e54fdcf32b8ceaa593999f460bd361bd0ba4f0a598c6a11bcdda7c52e6ae6c",
+      "ko": "으로 "
+    },
+    {
+      "id": "da1502a:R00026",
+      "source_sha256": "6195718f5eb43d289510d24a658c4d8209ba3aa3fc4d4c9527231166d2a0c8f4",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1502a:T00083",
+      "source_sha256": "7fa48bad516a2de563bc66c385b11a612f3596b9b149a0bec94fed63f91cc49b",
+      "ko": "똑똑"
+    },
+    {
+      "id": "da1502a:T00084",
+      "source_sha256": "427566260604d16fb4a900e51400dd5dfac2ef749901179434735f0d0008d100",
+      "ko": "히 "
+    },
+    {
+      "id": "da1502a:R00027",
+      "source_sha256": "71541c68c80f279e2d988b2afc366dad1df68b500f3947fe63c3175eedef8662",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1502a:T00085",
+      "source_sha256": "e2267f0baeeac82530e0a6993e4d3d2ec2d6f81707b5057881157a3c537d5a7b",
+      "ko": "보"
+    },
+    {
+      "id": "da1502a:T00086",
+      "source_sha256": "2f11508f5619001a5e59e5d87451f4f2a46622d4420a4d1271d20d90473b78ff",
+      "ko": "아라」"
+    },
+    {
+      "id": "da1502a:T00087",
+      "source_sha256": "4c944de58d68d37808462fbdd3a518a6dbb066bbe8f5a7a0ea6b82dbc64f102f",
+      "ko": "「무수한 세계의, 무한한 하늘에서 도래하는"
+    },
+    {
+      "id": "da1502a:R00028",
+      "source_sha256": "c83d09288a91cba65388da926999234b69ebe4c1dad3efd7cf413e48f4bdd85e",
+      "ko": "자",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1502a:T00088",
+      "source_sha256": "4a558371f938b01d790207375865ed101b0826bdbda2e46b552b7910337d527a",
+      "ko": "존재"
+    },
+    {
+      "id": "da1502a:T00089",
+      "source_sha256": "2ea285709dea283ee616ded6a5d7244865ae76cd8b6011cdbc72b086174c4f3d",
+      "ko": "가 무엇인지를――」"
+    },
+    {
+      "id": "da1502a:T00090",
+      "source_sha256": "d6ff57b15b98cd5ff389b3dee9685b6e65dce7aa4df9a9976712aa91c255a20a",
+      "ko": "「……읏!?」"
+    },
+    {
+      "id": "da1502a:T00091",
+      "source_sha256": "79d99918fb51469ee10e04846c374b8a06e961dae1bcf794a3aa9ec109a90f0a",
+      "ko": "그리고, 그것은 왔다."
+    },
+    {
+      "id": "da1502a:T00092",
+      "source_sha256": "6e5894c6e2835f8e032d8a2c45f1d4bedddd46d555aced3ca648dd1ecc7ed0fe",
+      "ko": "증오로 불타는 하늘 저편――"
+    },
+    {
+      "id": "da1502a:T00093",
+      "source_sha256": "cb681d1a02939384cf3ac761f2a65ea5f70963940a3e5cce87204aa79bdd660a",
+      "ko": "무한 / 무량 / 무궁한 "
+    },
+    {
+      "id": "da1502a:R00029",
+      "source_sha256": "2d6fa57bd3e1c194e96637c1dfdc27413d71128824eb8fb5a90ee117f9f7553a",
+      "ko": "하늘",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1502a:T00094",
+      "source_sha256": "eda8157c4c7025af29b9fc0dcf1cde1e4ec3263125eaa4d298e762d127fbb5b9",
+      "ko": "우주"
+    },
+    {
+      "id": "da1502a:T00095",
+      "source_sha256": "2c3ee056f9e9ffebf4ffd057178046aa52d5d8ef18c4256ea83007c4ef6925b8",
+      "ko": " 저편에서.\n\n\n　올바른 분노를 가슴에 품고."
+    },
+    {
+      "id": "da1502a:T00096",
+      "source_sha256": "bf60e9f6d72cd84b11ad8c8ba7d856d658bf218b15c86848ae513b20c6fca756",
+      "ko": "「……왔는가. 너나 할 것 없이 몰려\n왔군, 『너희』는. "
+    },
+    {
+      "id": "da1502a:R00030",
+      "source_sha256": "b34cc9b424270a797f120fcc1c8c497d805f6c5d72257c1d26898321e55548fd",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1502a:T00097",
+      "source_sha256": "081a3f6c063f563051b41145e8624be44c65b18bc6ecb082225fb5b4436e05a7",
+      "ko": "끔"
+    },
+    {
+      "id": "da1502a:T00098",
+      "source_sha256": "69999085793c14b3bed5ef0fcea4c91934621c9553f70a62fedac0299659f795",
+      "ko": "찍할 만큼의\n희망을 "
+    },
+    {
+      "id": "da1502a:R00031",
+      "source_sha256": "533176a18733bdb6dd3b7bcd0730749ca1de5058c74fe3c92ae2de8e635fe0e1",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1502a:T00099",
+      "source_sha256": "4232d6f773dc58c6db680d03f90ebe7e7abd6e921145515d80a778b744a3bb70",
+      "ko": "품"
+    },
+    {
+      "id": "da1502a:T00100",
+      "source_sha256": "b55a15935a0fdf323f7197cf8a9fca0cb18e5986959e40bb8b1f1747addeb807",
+      "ko": "은, 『너희』가」"
+    },
+    {
+      "id": "da1502a:T00101",
+      "source_sha256": "d3bf248f68ae049a79dfa39c933e8d80df1ab2ce224480a4bf5439e2d84ee593",
+      "ko": "그것은, 데몬베인이다."
+    },
+    {
+      "id": "da1502a:T00102",
+      "source_sha256": "cb681d1a02939384cf3ac761f2a65ea5f70963940a3e5cce87204aa79bdd660a",
+      "ko": "무한 / 무량 / 무궁한 "
+    },
+    {
+      "id": "da1502a:R00032",
+      "source_sha256": "2d6fa57bd3e1c194e96637c1dfdc27413d71128824eb8fb5a90ee117f9f7553a",
+      "ko": "하늘",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1502a:T00103",
+      "source_sha256": "eda8157c4c7025af29b9fc0dcf1cde1e4ec3263125eaa4d298e762d127fbb5b9",
+      "ko": "우주"
+    },
+    {
+      "id": "da1502a:T00104",
+      "source_sha256": "c46de4ea9996cc0aafd17a0a598074826ed25b3bbbe1861ba03968c15c3c2ba5",
+      "ko": " 저편에서 찾아온,\n　무한 / 무진 / 무구한 데몬베인이다.\n\n　세계의 모든 것을 빈틈없이 메우는, "
+    },
+    {
+      "id": "da1502a:R00033",
+      "source_sha256": "ad00a0b322492061745b24d0a27cfeb54340097e166853622a9781f99bd15efb",
+      "ko": "・・・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1502a:T00105",
+      "source_sha256": "faad4663917e9f697861dd8f8351f4b75876f086445f4735d2e147048b1329b2",
+      "ko": "데몬베인"
+    },
+    {
+      "id": "da1502a:R00034",
+      "source_sha256": "905b0efb2d86b7b8a5e1a663618fe8fda3615a10bcebe5973ba115f428f9c0e2",
+      "ko": "・・・・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1502a:T00106",
+      "source_sha256": "1858819a4dfae6f9fa663880457632d42cd200b7afc7c0f530a339a26d57b8ad",
+      "ko": "의 대군세다"
+    },
+    {
+      "id": "da1502a:T00107",
+      "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+      "ko": "."
+    },
+    {
+      "id": "da1502a:T00108",
+      "source_sha256": "97794143fb37300b496fccd8215658e8ada7eb8ccdea3b9fd229d9061fa43ea0",
+      "ko": "상처 하나 없는, 새로운 데몬베인이 있었다."
+    },
+    {
+      "id": "da1502a:T00109",
+      "source_sha256": "130d046e4058fcbf4a697284be5f9c8db8ea565ecbfa9a8f9e584b27e10c1ba1",
+      "ko": "수많은 격전을 헤쳐 나온, 백전노장 데몬베인이 있었다."
+    },
+    {
+      "id": "da1502a:T00110",
+      "source_sha256": "4cce14cd54bbffd468dd8b2f8ccb44b12c9ef7214205612ef960d35d5e4bc4a6",
+      "ko": "아직 완성되지 않아, "
+    },
+    {
+      "id": "da1502a:R00035",
+      "source_sha256": "4d9c2e5034e9e2a5f43c4e3de284a48806e6bee89d22c509a1e23dd941c290a1",
+      "ko": "프레임",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1502a:T00111",
+      "source_sha256": "17d9a0f233ecdd7f736f8c694a61772495e8728edef8a32a7659d8da42f826d6",
+      "ko": "골격"
+    },
+    {
+      "id": "da1502a:T00112",
+      "source_sha256": "fe2d1a62c49a4ab5c19764e7469fcc1d00455e7ceb41886160d94aeae2b79a68",
+      "ko": "이 그대로 드러난 데몬베인이 있었다."
+    },
+    {
+      "id": "da1502a:T00113",
+      "source_sha256": "c89029827d2665d4adb98abd10404b38469b3fe6404b7f03b41f50ac5934797c",
+      "ko": "파괴되어, 마지막 마력을 불태우는 데몬베인이 있었다."
+    },
+    {
+      "id": "da1502a:T00114",
+      "source_sha256": "0665846e03c27e0c16332c26ce10743adeb45426f9b8237a39b156838a579a4c",
+      "ko": "다른 시간축의 쿠로와 알이 모는 데몬베인이 있었다."
+    },
+    {
+      "id": "da1502a:T00115",
+      "source_sha256": "e7f1d3f4786e438c3f58de7fa0f55ae49941c1a6809088dceaf79ac8cc4fe234",
+      "ko": "다른 시간축의 쿠자쿠가 모는 데몬베인이 있었다."
+    },
+    {
+      "id": "da1502a:T00116",
+      "source_sha256": "babfa2f9db7d747fb94b4529b52c556082b18608dd10f3c6f25f204c50096008",
+      "ko": "쿠자쿠와 아직 보지 못한 "
+    },
+    {
+      "id": "da1502a:R00036",
+      "source_sha256": "a4f44df5bc0e22b95ea0c84e091cd3fdf621995611b6e95ab8dbb9225d12d2fc",
+      "ko": "파트너",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1502a:T00117",
+      "source_sha256": "4d212f9c677e44bf91445ea317ca4345b50ca6633f086ef9d1757fcbc3d191ad",
+      "ko": "누군가"
+    },
+    {
+      "id": "da1502a:T00118",
+      "source_sha256": "7377737bb0ae8ccdc6f7501ecaab92bca443d27d7973191a7284bdfc473c1eef",
+      "ko": "가 모는 데몬베인이 있었다."
+    },
+    {
+      "id": "da1502a:T00119",
+      "source_sha256": "73537d4afe5575367dc3b57d6bafaefd3bf7b02bd9d07bf18f3b4b14cf346fd7",
+      "ko": "전혀 다른, 낯선 누군가가 모는 데몬베인이 있었다."
+    },
+    {
+      "id": "da1502a:T00120",
+      "source_sha256": "9a6c67926835e2aa6106687beb42f897f9f4c8bcce832ec4f98a4f6d42d959ca",
+      "ko": "무인으로 기동하는 데몬베인이 있었다."
+    },
+    {
+      "id": "da1502a:T00121",
+      "source_sha256": "2983b57e74b775ff953ed66ecfaaa831598ce755ff830e5b7f20b0d9d4f4b8f2",
+      "ko": "인간 이외의 무언가가 모는 데몬베인이 있었다."
+    },
+    {
+      "id": "da1502a:T00122",
+      "source_sha256": "2d10f8f6cbbcb2e27f62bd363e5c58e67ee1d4c22e6f49d14d323430b4f72d77",
+      "ko": "로봇조차 아닌 데몬베인이 있었다."
+    },
+    {
+      "id": "da1502a:T00123",
+      "source_sha256": "87c0d5e3783bc41473f7d706d046bd5a76af97ba3e292c2526a187ab7232284a",
+      "ko": "살아 숨 쉬는 피와 살을 가진 데몬베인이 있었다."
+    },
+    {
+      "id": "da1502a:T00124",
+      "source_sha256": "8bc77ffda04edc1a8efb7ad18f248b3039ea30344525f8f3496534d3412cdb1f",
+      "ko": "거대한 데몬베인이 있었다."
+    },
+    {
+      "id": "da1502a:T00125",
+      "source_sha256": "cace6e85fe054b9408f286fc34d1291e9371c8f4ab318e71d7172d62a4a5e7d3",
+      "ko": "소형 데몬베인이 있었다."
+    },
+    {
+      "id": "da1502a:T00126",
+      "source_sha256": "e7240e399d03f31b151fda9ed39b66d04b1108bf3d1524b1605f5d4cdf0bd889",
+      "ko": "짐승의 형상을 한 데몬베인이 있었다."
+    },
+    {
+      "id": "da1502a:T00127",
+      "source_sha256": "7fdec0fa55ba80687df13b78371b0bd73cb435b6e05ccf478ecff3b73fb53eb5",
+      "ko": "형체조차 없는 데몬베인이 있었다."
+    },
+    {
+      "id": "da1502a:T00128",
+      "source_sha256": "9c74c868cc4825a088f921ef8554084de094050236c417958590425c30edc6b1",
+      "ko": "액체 데몬베인이 있었다."
+    },
+    {
+      "id": "da1502a:T00129",
+      "source_sha256": "1c2a48040102ee28296101250a1dc5c922bc981d28b110c17ead2fde525b1540",
+      "ko": "기체 데몬베인이 있었다."
+    },
+    {
+      "id": "da1502a:T00130",
+      "source_sha256": "b9843c7fcc66b298909f411e3f5748c9a6f2b378334802128dfa0a7e7213a7f5",
+      "ko": "전리체 데몬베인이 있었다."
+    },
+    {
+      "id": "da1502a:T00131",
+      "source_sha256": "92e62cc66e74c309bf687e610b86ca1e7154105925c50b7436f56de26a4f7520",
+      "ko": "유체 데몬베인이 있었다."
+    },
+    {
+      "id": "da1502a:T00132",
+      "source_sha256": "ad42e2bd27f32fea0e95fd7e6fd5d05d7f0a9a8c2d6a7c21094f4364de148982",
+      "ko": "이도류 데몬베인이 있었다."
+    },
+    {
+      "id": "da1502a:T00133",
+      "source_sha256": "bae94b39a462f19a340792cb0607c576ac54a6984e4ad70daf94040e2ee9f4cb",
+      "ko": "피투성이가 된 데몬베인이 있었다."
+    },
+    {
+      "id": "da1502a:T00134",
+      "source_sha256": "83cb9158145178474160e131abd22f063947854ac3053dc27ab0d895319f7ff0",
+      "ko": "두 개의 "
+    },
+    {
+      "id": "da1502a:R00037",
+      "source_sha256": "5f05975d0df8ccd957a6abc4e315e404e622bef2018a618ad484033c31ee6472",
+      "ko": "엔진",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1502a:T00135",
+      "source_sha256": "e7e8bc2ee954c9b4304ad0993c612a5fb7b4794dd48511223bf90915288d0036",
+      "ko": "심장"
+    },
+    {
+      "id": "da1502a:T00136",
+      "source_sha256": "e40d674192b0635a10521cc28f113672a761e665fd998af36b8197a8dbbf0b87",
+      "ko": "을 가진 데몬베인이 있었다."
+    },
+    {
+      "id": "da1502a:T00137",
+      "source_sha256": "56c8e0af4e7b23fd1f633da389523a0f993c53318d0d9db56d2abea497fe34fe",
+      "ko": "삼면육비의 데몬베인이 있었다."
+    },
+    {
+      "id": "da1502a:R00038",
+      "source_sha256": "a5b87c9a446977668eee8828598244bbb196457ae42a1bbd3e24aa2c79d02472",
+      "ko": "스타 워리어즈",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1502a:T00138",
+      "source_sha256": "85601b4b75bdd2fcb1a02636de88688e28edae22a739267e7242c3cea11206a5",
+      "ko": "무수한 병사"
+    },
+    {
+      "id": "da1502a:T00139",
+      "source_sha256": "93a74f04cea8614cb99fba79878d4e7b89c5f4427613c639a24190c42fc2022e",
+      "ko": "를 거느린 데몬베인이 있었다."
+    },
+    {
+      "id": "da1502a:T00140",
+      "source_sha256": "356fc7100a201fcebb7cfb0b8eee94f77f7942c768b97902d68f789807465b76",
+      "ko": "거대한 "
+    },
+    {
+      "id": "da1502a:R00039",
+      "source_sha256": "1a74dc9a77a1a5db052b0c1bc6efee1cd14ac3052cfbe64445060b180773fd24",
+      "ko": "드래곤",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1502a:T00141",
+      "source_sha256": "09266f26bf299d34df9ef1c643e0e7984b41daedc2f678d3ef618171e89d3894",
+      "ko": "용"
+    },
+    {
+      "id": "da1502a:T00142",
+      "source_sha256": "d18ee3a6cd49e17f1f0d1b97cb3ad11c1cd8e963693627eae9181310f0441558",
+      "ko": "에 올라탄 데몬베인이 있었다."
+    },
+    {
+      "id": "da1502a:R00040",
+      "source_sha256": "2d6fa57bd3e1c194e96637c1dfdc27413d71128824eb8fb5a90ee117f9f7553a",
+      "ko": "하늘을",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1502a:T00143",
+      "source_sha256": "eda8157c4c7025af29b9fc0dcf1cde1e4ec3263125eaa4d298e762d127fbb5b9",
+      "ko": "우주를"
+    },
+    {
+      "id": "da1502a:T00144",
+      "source_sha256": "4115941a0d3584152d54e5a727f05869c6e354772ee80ace20601395e646251d",
+      "ko": " 누비는 전함 데몬베인이 있었다."
+    },
+    {
+      "id": "da1502a:R00041",
+      "source_sha256": "740c087eef0f0eedd0446d52c7ee0cead2f7c840dc4f522184bfaed9daedc3d9",
+      "ko": "별",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1502a:T00145",
+      "source_sha256": "88b8bb44585d5713e6fea541ecdc0bf096346366bcdcd37c4b7d2769bdd5c644",
+      "ko": "행성"
+    },
+    {
+      "id": "da1502a:T00146",
+      "source_sha256": "1140e72fde454044b10ca5f95d378f72f80975825859774f04a989d612a78f19",
+      "ko": "을 베는 빛의 검을 든 데몬베인이 있었다."
+    },
+    {
+      "id": "da1502a:T00147",
+      "source_sha256": "85704e8f96d8d9eda2db83e2d182827b5894b2d4710173ffa7cca7f70f274034",
+      "ko": "신이 된 데몬베인이 있었다."
+    },
+    {
+      "id": "da1502a:T00148",
+      "source_sha256": "7a0304255e91e67c10b0597b334aae5e659d6a21aa491edfffff6bb7b20eb577",
+      "ko": "마에 타락한 데몬베인이 있었다."
+    },
+    {
+      "id": "da1502a:T00149",
+      "source_sha256": "e611bd37948ddd5c662259650740abd384771fc4cc18b41001a62b8be4993e42",
+      "ko": "인간과 융합한 데몬베인이 있었다."
+    },
+    {
+      "id": "da1502a:T00150",
+      "source_sha256": "7a55ca5a46d6ab58e58276c177ca7e216fb43e551650329edb0c9e842512bf08",
+      "ko": "인간으로 다시 태어난 데몬베인이 있었다."
+    },
+    {
+      "id": "da1502a:T00151",
+      "source_sha256": "778f1308bdffc1eaca8a8c90f9d1ca9536d1076225a150fe84642d196958c417",
+      "ko": "과거에 존재했던 데몬베인."
+    },
+    {
+      "id": "da1502a:T00152",
+      "source_sha256": "0ecd68099ab2be532184da352e878f7bd7631e304bf285329b399ad21361f309",
+      "ko": "지금 존재하는 데몬베인."
+    },
+    {
+      "id": "da1502a:T00153",
+      "source_sha256": "1afab248aee5c96f9c77cd6a1cb293cc4ae0a7e521a0eef17bed64b1fb849214",
+      "ko": "앞으로 도래할 데몬베인."
+    },
+    {
+      "id": "da1502a:T00154",
+      "source_sha256": "8b14934cffde39c6bafaec67b7bb89b260c42a27fb4950eb4d55e693e8d000df",
+      "ko": "또 다른 가능성의 데몬베인."
+    },
+    {
+      "id": "da1502a:T00155",
+      "source_sha256": "5e2ab587d87959f40af163b0b5d572b955b933d2ccb473f5d9b3b702ff829980",
+      "ko": "가능성조차 없는 데몬베인."
+    },
+    {
+      "id": "da1502a:T00156",
+      "source_sha256": "a1c096d0584b77b046d6dce43290eafea425132b0c552177c795524d16050f59",
+      "ko": "시공의 틈새를 "
+    },
+    {
+      "id": "da1502a:R00042",
+      "source_sha256": "6dff5f782b2d0bd199e2cc1c62ab9eeeb596ae681ab54b8ce98a97e48476782c",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1502a:T00157",
+      "source_sha256": "4cc4df9378fefaad97fe84298f58a493897bfc470fa17bed9415bc773418f8ea",
+      "ko": "떠"
+    },
+    {
+      "id": "da1502a:T00158",
+      "source_sha256": "cf9e7f5355df6b0b740bf5b5f933943f90f1c6b4dda9c549ce1fecc24e12c51c",
+      "ko": "도는 데몬베인."
+    },
+    {
+      "id": "da1502a:T00159",
+      "source_sha256": "93192127d0edc458e3fb4420182d1c2c28e5be1b005d3cfdb6aa76cdcfc4c448",
+      "ko": "그것은 빛나는 트라페조헤드론이 엮어내는 무늬."
+    },
+    {
+      "id": "da1502a:T00160",
+      "source_sha256": "a49b456beec2002c7d68f6b18e183b19a3095f1fdbcaed4a30f3492aa0e1cab1",
+      "ko": "무한한 수의 데몬베인들이 자아내는 "
+    },
+    {
+      "id": "da1502a:R00043",
+      "source_sha256": "3e7ca97dd222dfece75cc1b0e619438b0296dd7b6db45fe8ff3627464f181e69",
+      "ko": "세계",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1502a:T00161",
+      "source_sha256": "846c39b0bcb51f41f7a9b92e4d3452d15b86f3e1cd153f8d3d2ba8ef55219731",
+      "ko": "이야기"
+    },
+    {
+      "id": "da1502a:T00162",
+      "source_sha256": "cdd6150fc8b60136cdcc55d3abd46b23c051341906a789e79f0346bef164982c",
+      "ko": "의 이름은――"
+    },
+    {
+      "id": "da1502a:T00163",
+      "source_sha256": "48e81801da6d070c74dc361a1ef0eaafdd11a636f557e528c20ab841ae9198c2",
+      "ko": "「――"
+    },
+    {
+      "id": "da1502a:R00044",
+      "source_sha256": "2313a74abceb5ae6700d81bdbb9ab6951d327df23b8c6670350d1e74c88fa362",
+      "ko": "데몬베인=아트레타 아에테르눔",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1502a:T00164",
+      "source_sha256": "b5c1cf8c203f9dad22f473ccfa953ae870bf45b8311b5c215fb9b3ab30843bb4",
+      "ko": "마를 끊는 영원의 검"
+    },
+    {
+      "id": "da1502a:T00165",
+      "source_sha256": "d93a835d0f2787bcb1a759ad3a1b8fbea56d742d0b99720dbbb9ea8ace1926f8",
+      "ko": "」"
+    },
+    {
+      "id": "da1502a:T00166",
+      "source_sha256": "bb32d5a07e67ce86ec4845f3a5d125f27b971cdb2f0b4f6e7ae0c710fc353261",
+      "ko": "「이런이런. 이전에는 더 커다란 고리에\n　먹히더니…… 이번에는 더 많은 가지에\n　얽매이는가」"
+    },
+    {
+      "id": "da1502a:T00167",
+      "source_sha256": "96433d171335a4758ab94f7cb1defb871100e40ddfb2243908f216ea2a60f889",
+      "ko": "「하하…… 이래서는,\n　어느 쪽이 호접인지 알 수가 없겠는걸」"
+    },
+    {
+      "id": "da1502a:T00168",
+      "source_sha256": "f24cd24c21ef873aa20cd6874d6a60425b2538b81c79a36614e6d6c7929d06cc",
+      "ko": "「빛 비치는 세계에, 너희 암흑이 깃들 곳은 없다」"
+    },
+    {
+      "id": "da1502a:T00169",
+      "source_sha256": "7aefa620b6786853ba45bc3da84ca9300bf6330deb0d1b24ee08b55cddf35412",
+      "ko": "「목마르지 않고」"
+    },
+    {
+      "id": "da1502a:T00170",
+      "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+      "ko": "「"
+    },
+    {
+      "id": "da1502a:R00045",
+      "source_sha256": "884de28537b6ccf1aab464fff3a71a6a63edc893d24e31bd205bc6ca46367a13",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1502a:T00171",
+      "source_sha256": "474648a2d11632e9334be993d02ddcfcfa38146d22a3d477599467e22221d089",
+      "ko": "굶주"
+    },
+    {
+      "id": "da1502a:T00172",
+      "source_sha256": "4e0404b312b691ff06c37a7dd8ce0a90cae1400cc7341bc7a4d9ea0d4492c93d",
+      "ko": "리지 않고――」"
+    },
+    {
+      "id": "da1502a:T00173",
+      "source_sha256": "e8f9dcef6663624c900bd26ada3b3dab5a899d5233af6506cd4bf55b1dc91e8b",
+      "ko": "「「――무로 돌아가라!」」"
+    },
+    {
+      "id": "da1502a:T00174",
+      "source_sha256": "20ccab5a7db5308dd70900ba1476e6c082c5aee6c5579d44801c69533dae8339",
+      "ko": "「「레무리아 임팩트 "
+    },
+    {
+      "id": "da1502a:R00046",
+      "source_sha256": "9be0548ee3e0c37817701b52688b6435301da8d26e4a09126be029982dc924fe",
+      "ko": "아인 소프 오울",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1502a:T00175",
+      "source_sha256": "d136c0edee8eb620d1c79395b8cfbdc119585f7a388b45a353f68a7bb2f8c4fd",
+      "ko": "영영영식"
+    },
+    {
+      "id": "da1502a:T00176",
+      "source_sha256": "4e1f2d07a1f0380982051455a7df2bd0f6911c9be0d0999fe246f0529384ae4b",
+      "ko": "」」"
+    },
+    {
+      "id": "da1502a:T00177",
+      "source_sha256": "5cea5b87347b05dc1f991c77f337b0aea2eaaff6635cb476626d64faf8a99424",
+      "ko": "무한한 데몬베인에서 해방된 무한×무한의 "
+    },
+    {
+      "id": "da1502a:R00047",
+      "source_sha256": "754a6a967b2fee5b681145762451b80c7eb7f0ead8e651befde61c2ef6920f03",
+      "ko": "빅뱅",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1502a:T00178",
+      "source_sha256": "76dbd7668d71bd5503549cbe86e7bec647a9523b24ab5e38105f0dd631327505",
+      "ko": "필멸술식"
+    },
+    {
+      "id": "da1502a:T00179",
+      "source_sha256": "8209d83169eb1afb72f652f80fe77989c27e94c603c47c4a0fb885196f641431",
+      "ko": "이, 세계를 승화한다――"
+    }
+  ],
+  "issues": [
+    {
+      "id": "da1502a:R00001",
+      "kind": "ruby_redundant",
+      "note": "furigana for 喩 (たと) omitted in Korean text"
+    },
+    {
+      "id": "da1502a:R00002",
+      "kind": "ruby_redundant",
+      "note": "furigana for 噺 (ばなし) omitted in Korean text"
+    },
+    {
+      "id": "da1502a:R00003",
+      "kind": "ruby_redundant",
+      "note": "furigana for 谺 (こだま) omitted in Korean text"
+    },
+    {
+      "id": "da1502a:R00004",
+      "kind": "ruby_redundant",
+      "note": "furigana for 滾 (たぎ) omitted in Korean text"
+    },
+    {
+      "id": "da1502a:R00005",
+      "kind": "ruby_redundant",
+      "note": "furigana for 滾 (たぎ) omitted in Korean text"
+    },
+    {
+      "id": "da1502a:R00010",
+      "kind": "ruby_redundant",
+      "note": "furigana for 谺 (こだま) omitted in Korean text"
+    },
+    {
+      "id": "da1502a:R00011",
+      "kind": "ruby_redundant",
+      "note": "furigana for 綺羅綺羅 (キラキラ) omitted in Korean text"
+    },
+    {
+      "id": "da1502a:R00012",
+      "kind": "ruby_redundant",
+      "note": "furigana for 移 (うつ) omitted in Korean text"
+    },
+    {
+      "id": "da1502a:R00013",
+      "kind": "ruby_redundant",
+      "note": "furigana for 映 (うつ) omitted in Korean text"
+    },
+    {
+      "id": "da1502a:R00014",
+      "kind": "ruby_redundant",
+      "note": "furigana for 虚 (うつ) omitted in Korean text"
+    },
+    {
+      "id": "da1502a:R00015",
+      "kind": "ruby_redundant",
+      "note": "furigana for 鎖 (とざ) omitted in Korean text"
+    },
+    {
+      "id": "da1502a:R00016",
+      "kind": "ruby_redundant",
+      "note": "furigana for 最涯 (さいはて) omitted in Korean text"
+    },
+    {
+      "id": "da1502a:R00017",
+      "kind": "ruby_redundant",
+      "note": "furigana for 窮極 (きゅうきょく) omitted in Korean text"
+    },
+    {
+      "id": "da1502a:R00020",
+      "kind": "ruby_particle_split",
+      "note": "postposition 와/과 split between ruby 멜로디(와) and base 선율(과)"
+    },
+    {
+      "id": "da1502a:R00024",
+      "kind": "ruby_redundant",
+      "note": "furigana for 曠野 (こうや) omitted in Korean text"
+    },
+    {
+      "id": "da1502a:R00025",
+      "kind": "ruby_redundant",
+      "note": "furigana for 眼 (まなこ) omitted in Korean text"
+    },
+    {
+      "id": "da1502a:R00026",
+      "kind": "ruby_redundant",
+      "note": "furigana for 篤 (とく) omitted in Korean text"
+    },
+    {
+      "id": "da1502a:R00027",
+      "kind": "ruby_redundant",
+      "note": "furigana for 視 (み) omitted in Korean text"
+    },
+    {
+      "id": "da1502a:R00030",
+      "kind": "ruby_redundant",
+      "note": "furigana for 悍 (おぞ) omitted in Korean text"
+    },
+    {
+      "id": "da1502a:R00031",
+      "kind": "ruby_redundant",
+      "note": "furigana for 抱 (いだ) omitted in Korean text"
+    },
+    {
+      "id": "da1502a:R00040",
+      "kind": "ruby_particle_split",
+      "note": "postposition 을/를 split between ruby 하늘(을) and base 우주(를)"
+    },
+    {
+      "id": "da1502a:R00042",
+      "kind": "ruby_redundant",
+      "note": "furigana for 流離 (さすら) omitted in Korean text"
+    },
+    {
+      "id": "da1502a:R00045",
+      "kind": "ruby_redundant",
+      "note": "furigana for 飢 (かつ) omitted in Korean text"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "schema": "khd-gemini-response-v1",
+  "packet_id": "P0135_da9906ed",
+  "model_id": "Gemini 3.8 Flash (High)",
+  "records": [
+    {
+      "id": "da9906ed:T00001",
+      "source_sha256": "60c0750f8404485ffe61ea2489cc8ffef33711bf77d328e070f45dff21e7c67a",
+      "ko": "「아버님――어머님」"
+    },
+    {
+      "id": "da9906ed:T00002",
+      "source_sha256": "eb258f79ba31d44d20bf944373616f8f887a9e5b4f48bb5de2fab17287b9909c",
+      "ko": "「……읏」"
+    },
+    {
+      "id": "da9906ed:T00003",
+      "source_sha256": "f63e338a9fae446f20ae3d105f2318d7c4d921eff8749a1d9931f4bd94dd5f65",
+      "ko": "「…………」"
+    },
+    {
+      "id": "da9906ed:T00004",
+      "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+      "ko": "「"
+    },
+    {
+      "id": "da9906ed:R00001",
+      "source_sha256": "ad00a0b322492061745b24d0a27cfeb54340097e166853622a9781f99bd15efb",
+      "ko": "・・・・・・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da9906ed:T00005",
+      "source_sha256": "1a7b00c2059a05e6e47ca584d7c2e243da64e90f2d6a8b1d48489be7381ee458",
+      "ko": "처음 뵙겠습니다"
+    },
+    {
+      "id": "da9906ed:T00006",
+      "source_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+      "ko": "……"
+    },
+    {
+      "id": "da9906ed:R00002",
+      "source_sha256": "399541026b89787f76b6312375d21b42244869347cf836059cf9eba724bb4824",
+      "ko": "・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da9906ed:T00007",
+      "source_sha256": "35a08bff92ef5b1fbc234f4bb53e5b67661b335ae570851b63c80ccf640fd05d",
+      "ko": "다시"
+    },
+    {
+      "id": "da9906ed:R00003",
+      "source_sha256": "fe65050b6cf95368d85f30fd366c092a15824886d51defd754887d1e968f7491",
+      "ko": "・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da9906ed:T00008",
+      "source_sha256": "2ea2e549362d7217136d6f3adb24c59e18f374124979c09110a5cf62a58197db",
+      "ko": " 뵙게"
+    },
+    {
+      "id": "da9906ed:R00004",
+      "source_sha256": "905b0efb2d86b7b8a5e1a663618fe8fda3615a10bcebe5973ba115f428f9c0e2",
+      "ko": "・・・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da9906ed:T00009",
+      "source_sha256": "47d5791da0d6ecf5c676d7bbd51d48bcd286395a473e5a926b647d11b4232ab9",
+      "ko": "되었군요"
+    },
+    {
+      "id": "da9906ed:T00010",
+      "source_sha256": "d93a835d0f2787bcb1a759ad3a1b8fbea56d742d0b99720dbbb9ea8ace1926f8",
+      "ko": "」"
+    },
+    {
+      "id": "da9906ed:T00011",
+      "source_sha256": "97f95dcb3d3e23c10d72be44ed49c9b6e7d931ba4622133e8cab8d05d5d2735e",
+      "ko": "하늘에 신은 없고――허나 세상은 평안하다"
+    },
+    {
+      "id": "da9906ed:T00012",
+      "source_sha256": "1217261bbc4f01233a197901aa04b1a1f07b074a6b40cfaccaea9dcbaccb1fdf",
+      "ko": "God's not in His heaven, All's right with the world."
+    }
+  ],
+  "issues": []
+}

@@ -1,0 +1,236 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0076_da0704",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0704:T00103",
+   "source_sha256": "fa9915f96c3bbb4184bba734a5696bab81e3c52787b8f28019e31e94c0d5d6b4",
+   "ko": "소검이 내려진다."
+  },
+  {
+   "id": "da0704:T00104",
+   "source_sha256": "11b2f0373790b12e7e934aa38541cbd466d6dae457bdd8c16bb5ceefee035498",
+   "ko": "알의 시선에서 도망치듯 쿠자쿠는 등을 돌렸다."
+  },
+  {
+   "id": "da0704:T00105",
+   "source_sha256": "495f422cdd916c2471da29cb9ba1f0ea99d9f4d1de9c66cfe10a7122e8122956",
+   "ko": "「어이……」"
+  },
+  {
+   "id": "da0704:T00106",
+   "source_sha256": "387757010322efddf3469f51bd332c31590df000e1a6cf362963e7f23609e49c",
+   "ko": "「흥이 깨졌다.\n　　　하지만 한마디만 해 두지」"
+  },
+  {
+   "id": "da0704:T00107",
+   "source_sha256": "17a2eb376bb9c8f4fe6d9314abdebd0a9bfdbad6885e53d8eed7387e1e3d98e4",
+   "ko": "「어나더 블러드는 "
+  },
+  {
+   "id": "da0704:R00010",
+   "source_sha256": "b82ecd8ad5cdb22fed852be1e1136348794e60f43cd489a70d2c3a519514f87b",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0704:T00108",
+   "source_sha256": "b70bb4acc0484cf040de4c07c60f9db722283da2c4a672c39291de621e92c33f",
+   "ko": "내"
+  },
+  {
+   "id": "da0704:T00109",
+   "source_sha256": "e3b21956ce958d2599e4e122f5395b8bb776552bd4ceae0c6bec80e4f73a2905",
+   "ko": "가 "
+  },
+  {
+   "id": "da0704:R00011",
+   "source_sha256": "4dae1fea52814eb01c1f6f5e611386bf5216d66ee363d7ec5b45ff3c60f0ceb9",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0704:T00110",
+   "source_sha256": "e576049bcdb98de738f142c446fc515b0c9df3d3eb8a39b9e9111ad0b06b8306",
+   "ko": "쓰러뜨린"
+  },
+  {
+   "id": "da0704:T00111",
+   "source_sha256": "3b08990dff5d0ac0fe099885f50a9838f9d7fd86a81404ab15ac6af8298b2dde",
+   "ko": "다.\n　　　도움은 필요 없다.\n　　　그것이 나의 책무이기 때문이다」"
+  },
+  {
+   "id": "da0704:T00112",
+   "source_sha256": "f63e338a9fae446f20ae3d105f2318d7c4d921eff8749a1d9931f4bd94dd5f65",
+   "ko": "「…………」"
+  },
+  {
+   "id": "da0704:T00113",
+   "source_sha256": "3aa0b7fae584ced29449c04237d8e4896dd28b9e212a6df5cbf5690184d56e3e",
+   "ko": "「테케리・리~」"
+  },
+  {
+   "id": "da0704:T00114",
+   "source_sha256": "0c412de3b8181640345d37f2cfba218dc2b8332a3dfafda25c3ca9bb8d800b6b",
+   "ko": "「이런이런, 곤란한 꼬맹이로군」"
+  },
+  {
+   "id": "da0704:T00115",
+   "source_sha256": "5b8fc85f3f308d5deaf8365d556e58e344bba06c8f1399bbb0580bf1c4bd08b3",
+   "ko": "「그대들도 마찬가지다」"
+  },
+  {
+   "id": "da0704:T00116",
+   "source_sha256": "f63e338a9fae446f20ae3d105f2318d7c4d921eff8749a1d9931f4bd94dd5f65",
+   "ko": "「…………」"
+  },
+  {
+   "id": "da0704:T00117",
+   "source_sha256": "25a2f4d87e66300d4eeff40f097b164797e3e0f253c4eafc689b920e86bdb8ae",
+   "ko": "「하지만 알 아지프. 정말 괜찮겠느냐?」"
+  },
+  {
+   "id": "da0704:T00118",
+   "source_sha256": "c43b036613a066a24274ca86ceba6d862f8b7a0c526687a18ae17ecbc84d690d",
+   "ko": "「무엇이 말이냐?」"
+  },
+  {
+   "id": "da0704:T00119",
+   "source_sha256": "3aa5704bd659850ea5d9fb4d561ca9d279f9bbb643c09eeecae2de735c9bc113",
+   "ko": "「물론 저 소년에 대해서다.\n　저 아이는 평범한 존재가 아니다」"
+  },
+  {
+   "id": "da0704:T00120",
+   "source_sha256": "c484b7f115acadd7cf0470aab56cf6e41224cfcab0f14f314a74918c8a500eb0",
+   "ko": "「……음.\n　확실히 수상쩍은 녀석이지.\n　하지만――」"
+  },
+  {
+   "id": "da0704:T00121",
+   "source_sha256": "e3f7c8538ef465fd3e446ebbdd1f234e3400029d8f276653ac10614fc2c11d02",
+   "ko": "「하지만?」"
+  },
+  {
+   "id": "da0704:T00122",
+   "source_sha256": "4bd02c6704474b3dbf2b59a112d568d610e0064378cf5ebc0ca55f6a7d2a38a8",
+   "ko": "알은 잠시 생각에 잠긴 듯했다."
+  },
+  {
+   "id": "da0704:T00123",
+   "source_sha256": "b48895bbf6f19c764b792420d0ba2189d9313e40b3d83e014a66e9e356b8c60c",
+   "ko": "무엇이 걸리는 걸까…… 아마 알의 생각은 나와 같을\n것이다."
+  },
+  {
+   "id": "da0704:T00124",
+   "source_sha256": "c622d2cda6d15c7e299703e0622182d49e168f84cf7d39920ec7966e24a57679",
+   "ko": "「어째서일까.\n　이상하게도 경계심은\n　솟아나지 않는구나」"
+  },
+  {
+   "id": "da0704:T00125",
+   "source_sha256": "2dc53fb93c4408c4b2da10bee10455418010e62049c91af59c99feda01fb3af3",
+   "ko": "「아아, 역시 그렇지. 나도 마찬가지야.\n　신경이 쓰이긴 하지만 말야……\n　내버려 둘 수가 없다고 할지 뭐라 할지……」"
+  },
+  {
+   "id": "da0704:T00126",
+   "source_sha256": "0f86b9c264c4e40d20d5f64dd23dc077aff9c5c8136df08557f0ed95d0e102ae",
+   "ko": "「……흠」"
+  },
+  {
+   "id": "da0704:T00127",
+   "source_sha256": "333757c58c80f90f2ae6ddd8b4f93e957fd7352b5617169438d5ef73cca4b8b4",
+   "ko": "이 감각은 무엇일까?"
+  },
+  {
+   "id": "da0704:T00128",
+   "source_sha256": "bb0462c31d4aa287a584756778b922b2136c633c2b24448652ab776b93fc8e1e",
+   "ko": "뭐라 설명하기 힘든 묘한 감각이다."
+  },
+  {
+   "id": "da0704:T00129",
+   "source_sha256": "9a59ae5274d43c1905c9b5ce5521c52ba14d1f8abca60757030863917efe2599",
+   "ko": "알도 비슷한 기분인 걸까."
+  },
+  {
+   "id": "da0704:T00130",
+   "source_sha256": "83bd8093bcab126153bc334581f1b088ab17808e01680d7c19dcf31d70a60046",
+   "ko": "「뭐, 그런 거니까 너무 기합 넣지 않아도 돼. 선배?」"
+  },
+  {
+   "id": "da0704:T00131",
+   "source_sha256": "271405c2b39d004474ef38f986e410dedfca4fe0415d970a16d4892ed21e0198",
+   "ko": "「적어도 해를 끼칠 생각은\n　없어 보이니 말이다」"
+  },
+  {
+   "id": "da0704:T00132",
+   "source_sha256": "111764f27a7682a321a19a78f0bdda9f4d22712e815ddfea79d05b43cb56657e",
+   "ko": "「……너희가 그렇게 말한다면 상관없지만」"
+  },
+  {
+   "id": "da0704:T00133",
+   "source_sha256": "7a955622c71b97812cbf104320a8642d77fef51a4b53d9dadd84cfbe7e6e75d0",
+   "ko": "아즈랏드는 쓴웃음을 짓는다."
+  },
+  {
+   "id": "da0704:T00134",
+   "source_sha256": "84a6ea7e44a326f0d08703522b536ebf6e459581aca1e627ed0e0f3dedb4e834",
+   "ko": "하지만 그 미소에는 따뜻한 기운이 있었다."
+  },
+  {
+   "id": "da0704:T00135",
+   "source_sha256": "2663b3b022267b3eafb161931037e82fe20a0c628997d0bd3a5e322c1a689bb0",
+   "ko": "「물러졌구나, 알 아지프」"
+  },
+  {
+   "id": "da0704:T00136",
+   "source_sha256": "870d67e67f0109839e81eee639e7258d8356df1416acafc85abcd096953e16c3",
+   "ko": "「……그런가?」"
+  },
+  {
+   "id": "da0704:T00137",
+   "source_sha256": "98d932afd77aa13f4c51cf6a63d7dfe682e23935f8946f0cf09a49c950a1ffa7",
+   "ko": "「그래. 하지만 그걸로 좋다.\n　분명 지금의 네가 진정한 너인 것이다」"
+  },
+  {
+   "id": "da0704:T00138",
+   "source_sha256": "43f16025b58c00fe81bcfc0ca2d99d99e23faa5cca4b1beee607752a2b3e886d",
+   "ko": "그렇게 말하고는 자리를 떠나려 하는 아즈랏드."
+  },
+  {
+   "id": "da0704:T00139",
+   "source_sha256": "5a2b7e54e93851540aaf5b665e33ec52f5c4d10161aa152f70b61b3aadd979d6",
+   "ko": "내 옆을 지나쳐 갈 때 그가 고했다."
+  },
+  {
+   "id": "da0704:T00140",
+   "source_sha256": "b68a29ed927c8d61bbf7554c0c3670b92567abfd9ca41046790a5c20b49f3bd6",
+   "ko": "「다이쥬지 쿠로――너 또한,\n　지금 그대로의 너로 있으면 된다」"
+  },
+  {
+   "id": "da0704:T00141",
+   "source_sha256": "747ca5ede6278eb27561c0bef5c879270492ccd10190253ff5cc8aa355b396c2",
+   "ko": "「…………」\n\n　아즈랏드의 모습이 통로 저편으로 사라진다.\n　알은 그 뒷모습을 한동안 바라보고 있었다."
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0704:T00104",
+   "kind": "glossary_candidate",
+   "note": "Used provisional glossary target 쿠자쿠 for 九朔."
+  },
+  {
+   "id": "da0704:R00010",
+   "kind": "ruby_decision",
+   "note": "Omitted standard kun'yomi reading われ for 我."
+  },
+  {
+   "id": "da0704:R00011",
+   "kind": "ruby_decision",
+   "note": "Omitted standard kun'yomi reading たお for 斃."
+  },
+  {
+   "id": "da0704:T00133",
+   "kind": "glossary_candidate",
+   "note": "Used provisional glossary target 아즈랏드 for アズラッド."
+  }
+ ]
+}

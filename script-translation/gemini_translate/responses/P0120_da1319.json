@@ -1,0 +1,767 @@
+{
+  "schema": "khd-gemini-response-v1",
+  "packet_id": "P0120_da1319",
+  "model_id": "Gemini 3.8 Flash (High)",
+  "records": [
+    {
+      "id": "da1319:T00001",
+      "source_sha256": "877fe7ddad7d67b86383119ec99e967c938132724852c52a70d3e6acf793aee5",
+      "ko": "나의 의식에, 압도적인 질량의 혼돈이 흘러든다."
+    },
+    {
+      "id": "da1319:T00002",
+      "source_sha256": "3033e61a61861c1aded92504b8ecb2705c914dcdd14107b04db91cc30edf13f1",
+      "ko": "초광기의 거센 바람이, 나를 찢어발기고, 깨물어 부순다."
+    },
+    {
+      "id": "da1319:T00003",
+      "source_sha256": "4da351c484ae0c99822d4ce216a1a2d6a758e5c0d181013251b282c6a4b1d02c",
+      "ko": "왜소한 개체를, 방대한 존재력으로 지워 없애려 한다."
+    },
+    {
+      "id": "da1319:T00004",
+      "source_sha256": "c8105656a76774687ea5f3c39bcf2dd45c6fd646a2e04b563b4cb93d2f26be1d",
+      "ko": "「크으으으……읏!」"
+    },
+    {
+      "id": "da1319:T00005",
+      "source_sha256": "6f30dbe8fdd006e45b97e5e0743a5876fadb63db8e94fdbe77f1ddd6fa16b430",
+      "ko": "「우와아아아아아아――――!」"
+    },
+    {
+      "id": "da1319:T00006",
+      "source_sha256": "d15a8daa5d9dc32213dce0443e1ebb1afe1102dfd717d4baba6ae452c05d0df4",
+      "ko": "저항한다."
+    },
+    {
+      "id": "da1319:T00007",
+      "source_sha256": "b47f76a8f31b3f5061773bed557047cfaf57f93729c6e0618845a4aae8a72dec",
+      "ko": "의지의 힘으로.\n\n　기술은 없고,"
+    },
+    {
+      "id": "da1319:T00008",
+      "source_sha256": "461966da31b49fe1500b9fb9cd579dedf7652515323c26d529e6346eb5cc07e5",
+      "ko": "술식도 없고,"
+    },
+    {
+      "id": "da1319:T00009",
+      "source_sha256": "6ff4fd8308c8baf2e3791c7626138ce7e0b1e30d07a76a9e00ab1e303d8ce8f7",
+      "ko": "계책은 무엇 하나 없으며,"
+    },
+    {
+      "id": "da1319:T00010",
+      "source_sha256": "3ff97bfac04df8617e2651ab64e71867e2d8d04062cd343ca05a60fd0c297129",
+      "ko": "피와 살과 뼈조차 거짓이고……"
+    },
+    {
+      "id": "da1319:T00011",
+      "source_sha256": "6244b11088490f9833a9e799927822ea7104b1d6709a948afa346ca95d8b8aad",
+      "ko": "허나 의지만은 이곳에 있다.\n\n　이 의지야말로, 유일하고 최후인 무기다.\n\n　나아가라."
+    },
+    {
+      "id": "da1319:T00012",
+      "source_sha256": "facf0dac63b01ea5a02c1869ee9dcf0f91b8c95f4b08914940473f4f6eb1b8aa",
+      "ko": "이 혼돈의 저편으로."
+    },
+    {
+      "id": "da1319:T00013",
+      "source_sha256": "7a2405e1a1b84641beb9da0fd3abb686e89778dd0cfbbfe5b1f495e2e4c02643",
+      "ko": "이 손에 검을 쥐기 위해.\n\n　내 존재의 전부를 불태워 없애며――!"
+    },
+    {
+      "id": "da1319:T00014",
+      "source_sha256": "9c86953ab49f94e48fc9aa5ebbf3528706efab8865a8207439be0bbe1f555556",
+      "ko": "「큭…… 으으으으으……\n　크아아아아아아……읏!」"
+    },
+    {
+      "id": "da1319:T00015",
+      "source_sha256": "947d3269f400eefebed453dba39797ece423cc31b8887386e02f3239c38c8430",
+      "ko": "――그래도, 부족하다."
+    },
+    {
+      "id": "da1319:T00016",
+      "source_sha256": "00055bb55a936e3bf9c9ef6e0fe5d0e618de6eddd6e4541f78867ac18a5fa16c",
+      "ko": "이 혼돈을 주파하기에는 부족하다."
+    },
+    {
+      "id": "da1319:T00017",
+      "source_sha256": "108df5104eefadb0bda8d4a74dd6cc4d7d272f6d6bd31fda5b6ee5f8bf4b7190",
+      "ko": "결정적인 무언가가 부족하다.\n\n　……여기까지인가!?"
+    },
+    {
+      "id": "da1319:T00018",
+      "source_sha256": "421972450b8820ffec3501d95a2b21355549b8d7968446763cbc0f31c3b0966c",
+      "ko": "결국, 나는 이 정도란 말인가!?"
+    },
+    {
+      "id": "da1319:T00019",
+      "source_sha256": "5f96a8b785c73714ff659f960666e7df8454e46761085315675dcfb5c1d5870f",
+      "ko": "위작인 나로서는, 저 너머에는 닿지 못한단 말인가!?\n\n　……날개를 원한다."
+    },
+    {
+      "id": "da1319:T00020",
+      "source_sha256": "44cb149243e6164c3c4b64c04cbbd2440e347b376dd1ced72446947a34343611",
+      "ko": "역풍에 맞서는 새의 힘찬 날개를 내게."
+    },
+    {
+      "id": "da1319:T00021",
+      "source_sha256": "41c03de071adf781786dd4399c02df590bb05d27e9bb178fc0ae799e1a310019",
+      "ko": "뇌우를 쳐내는 새의 우아한 날개를 내게."
+    },
+    {
+      "id": "da1319:T00022",
+      "source_sha256": "e71533e72083d5728f2da550a5e8baa61a1c564f4936490d8b76bf9018e4f964",
+      "ko": "허공을 누비는 새의 긍지 높은 날개를 내게.\n\n　저 검에 닿기 위한 날개를, 내게――!"
+    },
+    {
+      "id": "da1319:T00023",
+      "source_sha256": "33313236fc108d79e0eb1ef3287606aca07f93b299702a22782b440acc9aedb2",
+      "ko": "다이쥬지 쿠로!"
+    },
+    {
+      "id": "da1319:T00024",
+      "source_sha256": "ee4a862b81be824c2180316cd16c711fb7a7852fc338bf7d88d4257b53c8af89",
+      "ko": "알 아지프!"
+    },
+    {
+      "id": "da1319:T00025",
+      "source_sha256": "f12c39b33a5380135e8a8c3d85df9bc2bdb2667a18fb4339febef90bb35db9e8",
+      "ko": "데몬베인!\n\n　가르쳐다오!"
+    },
+    {
+      "id": "da1319:T00026",
+      "source_sha256": "a32c2611af19315f0eb52d8f57078dabb55c143ad02d0a3d3af642c6eabb4acb",
+      "ko": "당신들이라면 어떻게 싸우는가!"
+    },
+    {
+      "id": "da1319:T00027",
+      "source_sha256": "c1bd49149bd58cfa845da90cf5790d4d0806a015e3591b8718177af923e9d855",
+      "ko": "이토록 거대한 질량의 절망을 앞에 두고!\n\n　무한나선조차 끝까지 싸워 낸, 삼위일체인 당신들이라면……!"
+    },
+    {
+      "id": "da1319:T00028",
+      "source_sha256": "91d7640678cdbcbbba1d3c263cb81578a9dad1262f88e2a56e4594456b1769ad",
+      "ko": "『"
+    },
+    {
+      "id": "da1319:R00001",
+      "source_sha256": "b750c2ece644240b0f8e138a0602b89062dcd4cb934044a963e76bf34670b76d",
+      "ko": "・・・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1319:T00029",
+      "source_sha256": "0bc70873212c720e5d68a9838bfce8f9e690665e583de0a4a40b03d8221a6ded",
+      "ko": "삼위일체"
+    },
+    {
+      "id": "da1319:T00030",
+      "source_sha256": "b72463c14159de4fb05314bbe87427f188c8e257daa14ceb49223b60b24f5a23",
+      "ko": "』"
+    },
+    {
+      "id": "da1319:T00031",
+      "source_sha256": "1c66feabce11f44608606a3a9e1aee4bb363af1fc0682b98c0be9a2e23be7640",
+      "ko": "「……아…………」"
+    },
+    {
+      "id": "da1319:T00032",
+      "source_sha256": "ad868808d65fe36cb41a2b96efa032e1568c6847c2e2d93dddfeb0f841922f4c",
+      "ko": "그리고, "
+    },
+    {
+      "id": "da1319:T00033",
+      "source_sha256": "e5dd7b2a7fa4b834bb315e25a08de117a685286c1ad3648defc872239cb47327",
+      "ko": "나는, "
+    },
+    {
+      "id": "da1319:T00034",
+      "source_sha256": "4aafa2972fe7b89f4b3034a7b4feaaa30a13ba918510788ebd7c757ec0198127",
+      "ko": "깨달았다."
+    },
+    {
+      "id": "da1319:T00035",
+      "source_sha256": "450b76d9960a3d162b1204f453883bbf848af90af5208f69b6520666db8a00a6",
+      "ko": "「누구…… 나……」"
+    },
+    {
+      "id": "da1319:T00036",
+      "source_sha256": "35a2f65adce037d2077179afd96b62a3cac68aee5f8a9f312d18ac1f3510778c",
+      "ko": "품 안의, 소녀를."
+    },
+    {
+      "id": "da1319:T00037",
+      "source_sha256": "c4641e7dbb71a23d78f221d1ce1bb54370e9e6197db7c3d3b110ce5f710f02fe",
+      "ko": "「가만히……」"
+    },
+    {
+      "id": "da1319:T00038",
+      "source_sha256": "626d0b7b2f15ba0cf21b787be613fc87f87d5d702f77cec3a64137c047361ada",
+      "ko": "숨조차 가쁜 소녀를."
+    },
+    {
+      "id": "da1319:T00039",
+      "source_sha256": "ea18f6cbf98ee38fe4a1fb63abd11b9ac970b6ac9a4d9dfd85b0b9087980d202",
+      "ko": "「귓가에……」"
+    },
+    {
+      "id": "da1319:T00040",
+      "source_sha256": "8bc14a12219883fb4b74b4363b75bb885d3ffcc5b6c80bd296dc766d02cd7fc6",
+      "ko": "아직 존재하지 못한 채, 사라져 가려 하는 소녀를."
+    },
+    {
+      "id": "da1319:T00041",
+      "source_sha256": "32469886bb9d6bab7d4f29e79ee4795c8c6a2029364c647657a5bce1f3ba24f6",
+      "ko": "「불러 줘……」"
+    },
+    {
+      "id": "da1319:T00042",
+      "source_sha256": "2d842eb60534145a10be1841716df9ff47d31d832623a0863398205b3b8804aa",
+      "ko": "나에게서 갈라져 나온, 불길한 반신을."
+    },
+    {
+      "id": "da1319:T00043",
+      "source_sha256": "aef9169a95c03409455a64b2fa23ee34b404d0636e80d293a40fc2dfb73f1d6f",
+      "ko": "「내――」"
+    },
+    {
+      "id": "da1319:T00044",
+      "source_sha256": "2bc3245f5aa40c384752eba58143a9d780ef48d01cd785dc4b5012c2af474384",
+      "ko": "내가 줄곧 찾아 헤매던 해답을."
+    },
+    {
+      "id": "da1319:T00045",
+      "source_sha256": "f10a06ef990cf5b02d02da89fa7c9e4a1e43d0a4b5336be1435556fffb680a42",
+      "ko": "「――내, "
+    },
+    {
+      "id": "da1319:T00046",
+      "source_sha256": "32e46478d7c6f63e4950e821b5c40829a4ff92511b9e1633cabbaa3894780b1f",
+      "ko": "이름을」"
+    },
+    {
+      "id": "da1319:T00047",
+      "source_sha256": "e5dd7b2a7fa4b834bb315e25a08de117a685286c1ad3648defc872239cb47327",
+      "ko": "나는, "
+    },
+    {
+      "id": "da1319:T00048",
+      "source_sha256": "f5e9f12adc4126ab3d85e3152e933a8aaececfea2f784cc9b6ce6ab1999e5aa7",
+      "ko": "비로소, "
+    },
+    {
+      "id": "da1319:T00049",
+      "source_sha256": "4aafa2972fe7b89f4b3034a7b4feaaa30a13ba918510788ebd7c757ec0198127",
+      "ko": "깨달았다."
+    },
+    {
+      "id": "da1319:T00050",
+      "source_sha256": "93ecb5627b2b9508a24114331911fe832ef0a13d0e4399ca2223e8418dd9537c",
+      "ko": "「알고 있다…… 알고 있고말고.\n　네 이름을, 나는 알고 있다……!」"
+    },
+    {
+      "id": "da1319:T00051",
+      "source_sha256": "69a2f8b3d4d891ef1501c6974760e32bb86bcc334024f64d4a408e1617c637ce",
+      "ko": "자연스레 눈물이 흘러넘쳤다."
+    },
+    {
+      "id": "da1319:T00052",
+      "source_sha256": "40c31b2023bd08ee5318a4a293c9fdb2c26647ee1b4b81b9b9d47135fcd14ede",
+      "ko": "나는, 이제야 비로소, 자기 자신과 마주하고 있다.\n\n　그것이야말로 마지막 열쇠였다."
+    },
+    {
+      "id": "da1319:T00053",
+      "source_sha256": "a220eef924759960f100ef90aa104826fe64af26ecbed444d314748a0fffdfb9",
+      "ko": "나는, 이제야 비로소―― 진짜가 되는 것이다.\n\n　그렇기에."
+    },
+    {
+      "id": "da1319:T00054",
+      "source_sha256": "02c94f9217a305c49d1847433045575f31bfdf98668dd8dcda4f80cf6bfefea7",
+      "ko": "나는, 지금이야말로 답하리라."
+    },
+    {
+      "id": "da1319:T00055",
+      "source_sha256": "4a9d1125d3e7c3f3d09342353053214ed824319a79d27fce356937c78cd24da2",
+      "ko": "캐묻는 『나』에게 응답하리라."
+    },
+    {
+      "id": "da1319:T00056",
+      "source_sha256": "f3217f1b3e0e9541d5cd65b65b5fed161a9272fa9dbebd5e178f39e17750f682",
+      "ko": "「네 이름은――」"
+    },
+    {
+      "id": "da1319:R00002",
+      "source_sha256": "b750c2ece644240b0f8e138a0602b89062dcd4cb934044a963e76bf34670b76d",
+      "ko": "・・・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1319:T00057",
+      "source_sha256": "a08c260f54a9987e124616e2a05648e72a11e83e1d4f1ec909766e310d4b9ac9",
+      "ko": "내 이름은"
+    },
+    {
+      "id": "da1319:T00058",
+      "source_sha256": "527f73ca912b77c8dd4d91262d2819ddc10a5a47f0b31e5ffcb5165537fa98e5",
+      "ko": "――"
+    },
+    {
+      "id": "da1319:T00059",
+      "source_sha256": "6b017d967cffe4872e46e24f78677702fa520cb26e9151509c8ba2160dc21f99",
+      "ko": "「다이지쥬지 쿠자쿠, 다!」"
+    },
+    {
+      "id": "da1319:T00060",
+      "source_sha256": "4c3fdea5a48b2264b88d0107bbfed8996e08b858c265a25c0d802e5d208ed614",
+      "ko": "대답과 함께, 대질량의 사념이 흘러든다."
+    },
+    {
+      "id": "da1319:T00061",
+      "source_sha256": "721282f9f90ff6684f0f1922637bf73731089295494bb99be3ca4ade54cf628c",
+      "ko": "혼돈조차 한순간에 날려 버리는 그것은, 타오를 듯 뜨겁고, 부서질 듯 격렬하며, 가열하고 장렬한 영혼의 충동／연소／격동／질주／폭발／폭풍――\n\n　그런데도 그것은."
+    },
+    {
+      "id": "da1319:T00062",
+      "source_sha256": "ff57e6f8a0d731295d987bae6d849c2d5365a97e31663407a0b0fa708bd172ad",
+      "ko": "강인하고."
+    },
+    {
+      "id": "da1319:T00063",
+      "source_sha256": "70a1518f9e271f7ffb3b6dc2f326bdbb249f7fd31ee57c269dc643268f70b85a",
+      "ko": "상냥하며."
+    },
+    {
+      "id": "da1319:T00064",
+      "source_sha256": "8d0695f6bae938b73a4344fcfe44eb1638690d0ad3ad79573ea45b6a175bfa67",
+      "ko": "명랑하고."
+    },
+    {
+      "id": "da1319:T00065",
+      "source_sha256": "9ee6b1247a05a9f65993a16d9b2f58ebc914e9026fec07b49e7d6459d8f7c50a",
+      "ko": "사랑스러우며――"
+    },
+    {
+      "id": "da1319:T00066",
+      "source_sha256": "c14f4b19e74ec66bf06a8484857596bfe0645393c64974fc879932de4c7808e0",
+      "ko": "우리는 언제라도 떠올린다."
+    },
+    {
+      "id": "da1319:T00067",
+      "source_sha256": "697e5106223864893624dcf993677b5f9b84b9097d37a3c2f3758493cc9fb476",
+      "ko": "너를 이 손바닥에 안았을 때의 일을."
+    },
+    {
+      "id": "da1319:R00003",
+      "source_sha256": "f17634615393f75808ee15d0247ab30852e545965f977f719f2562e22c594db6",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1319:T00068",
+      "source_sha256": "cc6ff92c290551a3fca6f3e1ccb6221b5047f3dbfe85ba39f9047cad34b6be37",
+      "ko": "매달"
+    },
+    {
+      "id": "da1319:T00069",
+      "source_sha256": "979140ecb841004827185ff2edd004ca940c482314cc19145c794de69cdd77bd",
+      "ko": "리듯, 몇 번이고."
+    },
+    {
+      "id": "da1319:T00070",
+      "source_sha256": "f63e338a9fae446f20ae3d105f2318d7c4d921eff8749a1d9931f4bd94dd5f65",
+      "ko": "「…………」"
+    },
+    {
+      "id": "da1319:T00071",
+      "source_sha256": "7b5221c835270be286a22b54e147cc7c0155ed530e413f43c746bcf5b8b32e3f",
+      "ko": "「……왜 그러나?」"
+    },
+    {
+      "id": "da1319:T00072",
+      "source_sha256": "0b471dc6dd51cc9faba1e60dda85181d48240f60db29c9e8a9e5e596c0d7f041",
+      "ko": "「아…… 아니…… 그게……」"
+    },
+    {
+      "id": "da1319:T00073",
+      "source_sha256": "afa0691d7e226b466368816008463c2b0dadac765123509bf85a69ddaa4725ef",
+      "ko": "「작구나, 싶어서 말이야」"
+    },
+    {
+      "id": "da1319:T00074",
+      "source_sha256": "1be3a7f5060be3874a16eca72400891185a0b5ed8b99f2ea30557ae5dd797393",
+      "ko": "「그렇구나…… 작군」"
+    },
+    {
+      "id": "da1319:T00075",
+      "source_sha256": "b5c7e239f613f19473c68d2fac313d4b46db0de5d8f54e390551924db63629b5",
+      "ko": "닿기만 해도 부서질 것만 같았다."
+    },
+    {
+      "id": "da1319:T00076",
+      "source_sha256": "1a91b8bba8620621f3a5842861f3c77287fa068b056d12931a93e71b6da321e1",
+      "ko": "이토록 연약한 생명이, 품 안에서 조용히 숨 쉬고 있었다."
+    },
+    {
+      "id": "da1319:T00077",
+      "source_sha256": "0806c3fffc6084a951a6c7056eebbda79d0d2b7cccc87328104d60006d2a9f87",
+      "ko": "그 부드러움, 따스함에 경외감마저 품었다.\n\n\n　그리고 무엇보다――"
+    },
+    {
+      "id": "da1319:T00078",
+      "source_sha256": "bd96062a25baa514b6106af22fe3261c292c0c6a8a987a8c3b9720ef55176df6",
+      "ko": "사랑스러웠다.\n\n\n　이 마음을 온전히 전할 방법을 우리는 알지 못한다."
+    },
+    {
+      "id": "da1319:T00079",
+      "source_sha256": "f14c9c1817d2000e176bc0c143bcb527aeafc8e33440fd30ab771c1470abb8ed",
+      "ko": "수천 수만 수억의 말을 빌려도, 이 세상에 존재하는 모든 말을 긁어모아도, 이 마음에는 도저히 닿지 않는다.\n\n　그저 끌어안고, 입 맞추고, 이름을 부르며…… 서툴고 어리석게, 너를 향한 사랑을 끊임없이 전하는 수밖에 없다.\n\n　그리고…… 그런 것조차 이루지 못하는 자신의 무력함을 뼈저리게 저주한다."
+    },
+    {
+      "id": "da1319:T00080",
+      "source_sha256": "d8edd07d129dc40280da28aecf49a6e53895d449ddf9e5341e0fe689ea33db57",
+      "ko": "자신의 손바닥을 본다."
+    },
+    {
+      "id": "da1319:T00081",
+      "source_sha256": "7ee04f16a7bf66f54328352be388d78d0a00c4b98bb333cb89c68203ba9c0c72",
+      "ko": "상처투성이인 손바닥."
+    },
+    {
+      "id": "da1319:T00082",
+      "source_sha256": "380bbd1e7cd9f95555cff80ce67da365e61e32ba54b37198179d497055e109d2",
+      "ko": "피투성이인 손바닥."
+    },
+    {
+      "id": "da1319:T00083",
+      "source_sha256": "37fccfbe6307366fa3c1f051b27f55fbe883089e787992bdbd757910626514ce",
+      "ko": "갓난아기를 안지 못할, 괴물의 손바닥이다.\n\n　우리가 걷는 길에 있는 것은 밝아 올 리 없는 암흑."
+    },
+    {
+      "id": "da1319:T00084",
+      "source_sha256": "3acd4e94f81f79c70bd93e5a6772c243eb505c7c9789a84460ec30620e87c6ce",
+      "ko": "끝날 리 없는 싸움.\n\n　그것을 비극이라며, 자만에 찬 잠꼬대를 지껄일 생각은 없다."
+    },
+    {
+      "id": "da1319:T00085",
+      "source_sha256": "ba9c8506c0d69e124c3b5917b3d399bb62e6492b880f1e17a07a5e216165a62f",
+      "ko": "그것이야말로 우리가 택한 길이니까."
+    },
+    {
+      "id": "da1319:T00086",
+      "source_sha256": "2f129c5fa24a284133572aa54472dfa7a829505d8ec4c915d31f6486d0dbccfd",
+      "ko": "우리가 바란 길이니까.\n\n　――하지만／"
+    },
+    {
+      "id": "da1319:T00087",
+      "source_sha256": "094a84f9223187e41f166fbb27b695f14fea7a9ec2771c6674240a002f956e23",
+      "ko": "그러니, "
+    },
+    {
+      "id": "da1319:T00088",
+      "source_sha256": "6530a588afc9f921603052ddc8157f6474dd03574a87324745ffe323f917aff5",
+      "ko": "이 아이에게도 무수한 길과 무한한 선택지가 있다."
+    },
+    {
+      "id": "da1319:T00089",
+      "source_sha256": "9c7125029e1f16da86213f781e97e158014c67d3a1bdd1c1b437cb3d020924fa",
+      "ko": "「……알」"
+    },
+    {
+      "id": "da1319:T00090",
+      "source_sha256": "6180ec6af6bfb6f6bfbc0771aa498535b9936a872aaa659995682d9536871b61",
+      "ko": "「……알고 있다」"
+    },
+    {
+      "id": "da1319:T00091",
+      "source_sha256": "1c2b583d645060753fdc2b172aa14e2c2e273ad533c7cdf7d6095394dc2f6665",
+      "ko": "「던세이니」"
+    },
+    {
+      "id": "da1319:T00092",
+      "source_sha256": "724a0fed87800445f60a7e8137b303839d09103cb6bf5a52049afea88a098e58",
+      "ko": "「……테케리・리」"
+    },
+    {
+      "id": "da1319:T00093",
+      "source_sha256": "235baff543629ee21afc1601db3a9a1506e0d85e6106ef57676f33c76262a7e9",
+      "ko": "「이 아이를 부탁한다」"
+    },
+    {
+      "id": "da1319:T00094",
+      "source_sha256": "4e0511db0a04ec8b65c49103f8a93d7c87d4b2807272e36c4ef7520376c318d8",
+      "ko": "「테케리・리~~~~!」"
+    },
+    {
+      "id": "da1319:T00095",
+      "source_sha256": "e5fd9e6e16f9197f95a6fdcf4896f77b5da46a477d9846434df1d8c588d839d3",
+      "ko": "「부탁할게…… 던세이니」"
+    },
+    {
+      "id": "da1319:T00096",
+      "source_sha256": "724a0fed87800445f60a7e8137b303839d09103cb6bf5a52049afea88a098e58",
+      "ko": "「……테케리・리」"
+    },
+    {
+      "id": "da1319:T00097",
+      "source_sha256": "a73a283435ca5ac56c3339b4826ecc827341846c1d6239b2b9151ccc916e4fcf",
+      "ko": "「지켜 줘. 우리를 대신해서」"
+    },
+    {
+      "id": "da1319:T00098",
+      "source_sha256": "9de32e295904eece8cb3a0d52bf660a602b6fa27a1da60cc9aa6395446023fe6",
+      "ko": "「테케리・리……읏!」"
+    },
+    {
+      "id": "da1319:T00099",
+      "source_sha256": "5cfd998e3807d5609abf80546bf84d28d1a2880a47228df741b3e205bacaaf9c",
+      "ko": "「그리고……」"
+    },
+    {
+      "id": "da1319:R00004",
+      "source_sha256": "e5e17c4e499f8ab4c70e902f7bfb93153e0fa964dd0747eeb9c1639a17314f4a",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1319:T00100",
+      "source_sha256": "2ba4c8777d3a15226bef4c8d46ba47bd8503d5d9919bc121d3a7b5316fdd97c4",
+      "ko": "우뚝 솟"
+    },
+    {
+      "id": "da1319:T00101",
+      "source_sha256": "8a01638607bc0884f9d1ee01255b202e0be8d1fb2353128f0834fd2ae6bb58f5",
+      "ko": "은 늠름한 모습을 올려다본다."
+    },
+    {
+      "id": "da1319:T00102",
+      "source_sha256": "799d1be1ef707c0aa66de76d553613a27ef9dcf25d1cfecbdfa5581dc7d76c90",
+      "ko": "――데몬베인."
+    },
+    {
+      "id": "da1319:T00103",
+      "source_sha256": "998f6cb0220130f87076ff1dffb77a3fd034956dc52be4ee330eb44fcf77491f",
+      "ko": "――우리들의 검.\n\n　하지만 지금은――"
+    },
+    {
+      "id": "da1319:T00104",
+      "source_sha256": "9929b84c42aec2c0084cabfd5938ee5bf450d64c5a37c8eeeada1745f021193d",
+      "ko": "「지금은 이 아이를 지키는 방패가 되어라.\n　　이 아이와 비상하는 날개가 되어라」"
+    },
+    {
+      "id": "da1319:T00105",
+      "source_sha256": "63dfb5b8443c08e4956f6d5307c6250950bb3dfdf268468bcd89c1c990eab88a",
+      "ko": "「그래…… 적어도,\n　　이 아이만은, 인간의 세상으로」"
+    },
+    {
+      "id": "da1319:T00106",
+      "source_sha256": "4c7fc40e137f3b1043b77e7df6da6234a61970c88d014e9acc78f7cc92a6ebcf",
+      "ko": "「미안하구나, 쿠자쿠……\n　너에게 "
+    },
+    {
+      "id": "da1319:R00005",
+      "source_sha256": "970643182e90c0e7f8cfdbb5bf5d3b1935092f41232fd7c28f0ab139437721fc",
+      "ko": "아아무것",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1319:T00107",
+      "source_sha256": "3265cdd08afe9532de5fa77802f8ad8c6ab37a09b71eed9a33030f7cfc81830d",
+      "ko": "아무것"
+    },
+    {
+      "id": "da1319:T00108",
+      "source_sha256": "a702316e39a0f6b85a68290351a59fc01e78b1d3d9663570ab3485fd0c66fe32",
+      "ko": "도 해 주지 못해서 말이야」"
+    },
+    {
+      "id": "da1319:T00109",
+      "source_sha256": "bf0879b5724d305dea81a26e36a5950121660b56111e5da3ba07712c48cecf4e",
+      "ko": "「부모 실격이지……\n　미안하구나……\n　정말 미안해, 쿠자쿠……」"
+    },
+    {
+      "id": "da1319:T00110",
+      "source_sha256": "15f33c3dee28ec7766a936a3a017e1545807d925ff720f9f7c9d7dd42827aa3a",
+      "ko": "「테케리・리……」"
+    },
+    {
+      "id": "da1319:T00111",
+      "source_sha256": "4a8d16ebd84d33c9840b8212b1569ee1ec85cf10a3bb3821621355abf828152a",
+      "ko": "「아아…… 하지만, 이것만은 말할 수 있다.\n　이것만은 단언할 수 있다」"
+    },
+    {
+      "id": "da1319:T00112",
+      "source_sha256": "635eb7aee9d7869f791e458569aab9eaf8e71477cdf6dbd7aa7871fd343565d5",
+      "ko": "「……사랑한다, 쿠자쿠.\n　……사랑한다.\n　……사랑한다.\n　……사랑하고말고……」"
+    },
+    {
+      "id": "da1319:T00113",
+      "source_sha256": "9ffad5ada8f96bc0335262c44bc462737081d51a8951f2d77dd2ccfad4e4ca01",
+      "ko": "「우리는, 이토록,\n　　　그대를, 사랑하고 있다――」"
+    },
+    {
+      "id": "da1319:T00114",
+      "source_sha256": "bdf4ba48f20c8b3a3e3a3c90ad2b72a2056a00c2da84d0da6948d2aa5b27a46e",
+      "ko": "「날아라, 데몬베인!\n　　날아라, 쿠자쿠!」"
+    },
+    {
+      "id": "da1319:T00115",
+      "source_sha256": "9ae77a4d20d8aca9246cfa81af87850a1937503eed6d0f7c3653c5126c88e244",
+      "ko": "인간의 세상으로."
+    },
+    {
+      "id": "da1319:T00116",
+      "source_sha256": "9858935e0dbd570e9b4c00075f7295e1ab49ab82ca5d0744a48804b4b8b19fe1",
+      "ko": "싸움만이 아닌, 무수한 길과 무한한 선택지가 있는 세상으로.\n\n　……우리의 선택은, 너를 괴롭게 할 뿐일지도 모른다."
+    },
+    {
+      "id": "da1319:T00117",
+      "source_sha256": "f5efb3aabc50081e41226a4963c2a1e9c741011da7fc3d0d0665a5aa791907b1",
+      "ko": "인간과 마와 신의 "
+    },
+    {
+      "id": "da1319:R00006",
+      "source_sha256": "ada5523317442b0233840d6ec659d1124270f31a3799c46ca296edca908dc526",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1319:T00118",
+      "source_sha256": "5098c93beddbb6ac1e0de4b51b429ffc2aa1987d0d4054935cf4487f2cc40b0f",
+      "ko": "경계"
+    },
+    {
+      "id": "da1319:T00119",
+      "source_sha256": "5d87dc110b70afa6110d2bda543eb691da82487bab9944d1ee9619ad653507e8",
+      "ko": "에서 태어난 너에게, 인간 세상은 상상을 초월할 만큼의 고난으로 가득 차 있을지도 모른다.\n\n　허나, 우리는 신앙한다."
+    },
+    {
+      "id": "da1319:T00120",
+      "source_sha256": "ccc92e4c975ba067fc5d633891ad213bb5fec67bc3381209db592bdd48cb97fb",
+      "ko": "그 고난이야말로, 너를 "
+    },
+    {
+      "id": "da1319:R00007",
+      "source_sha256": "b946b81f3e5cf9c727fc28e8ef04d3cdb77b10cf8a4e315beaa58ec91b438b85",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1319:T00121",
+      "source_sha256": "454a13a5b5ecdb49542a6c4c739935fd94d3aa8f95b80df4db070fae3b355d5f",
+      "ko": "행복"
+    },
+    {
+      "id": "da1319:T00122",
+      "source_sha256": "e2e7c0a29bd8003c55cb5274aef696c5e03ffaa2ab6c752315fe4af37375491a",
+      "ko": "하게 만들어 주리라고."
+    },
+    {
+      "id": "da1319:T00123",
+      "source_sha256": "4f6768c22d0edf3c40001690f493f8f373684a3776da570ae8e4d9f964de5f85",
+      "ko": "이 우주의 모든 것이, 너를 "
+    },
+    {
+      "id": "da1319:R00008",
+      "source_sha256": "b946b81f3e5cf9c727fc28e8ef04d3cdb77b10cf8a4e315beaa58ec91b438b85",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1319:T00124",
+      "source_sha256": "454a13a5b5ecdb49542a6c4c739935fd94d3aa8f95b80df4db070fae3b355d5f",
+      "ko": "행복"
+    },
+    {
+      "id": "da1319:T00125",
+      "source_sha256": "2207dd4e85abd04797b02cbe21b3965adf53f2a74f396774e79c73982beaa4a6",
+      "ko": "하게 만들기 위해 존재하는 것이라고.\n\n\n　우리는 신앙한다."
+    },
+    {
+      "id": "da1319:T00126",
+      "source_sha256": "34632395c40930d47d368aaa052f953f132e12c543c4461524805c32f5502b63",
+      "ko": "너와, 인간을, 신앙한다.\n\n　너로 이어지는 세상을 믿기에, 우리는 싸운다."
+    },
+    {
+      "id": "da1319:T00127",
+      "source_sha256": "280afc1d7d83e10d942d68811c11459c7381ea581f79acb1cc4cf5208dc22ada",
+      "ko": "네가 가닿을 미래를 지키기 위해, 우리는 싸운다.\n\n　자신의 손바닥을 본다."
+    },
+    {
+      "id": "da1319:T00128",
+      "source_sha256": "7ee04f16a7bf66f54328352be388d78d0a00c4b98bb333cb89c68203ba9c0c72",
+      "ko": "상처투성이인 손바닥."
+    },
+    {
+      "id": "da1319:T00129",
+      "source_sha256": "380bbd1e7cd9f95555cff80ce67da365e61e32ba54b37198179d497055e109d2",
+      "ko": "피투성이인 손바닥."
+    },
+    {
+      "id": "da1319:T00130",
+      "source_sha256": "ad2ebdb10b1499d4aa1c0afb4d8df9b8e01410860188aefe055fa6b9b3606151",
+      "ko": "갓난아기를 안지 못할, 괴물의 손바닥이다.\n\n　허나 설령 갓난아기를 안지 못할지라도―― 이 손바닥은 검을 쥐고 있다."
+    },
+    {
+      "id": "da1319:T00131",
+      "source_sha256": "f8ca07096e632390bdfb43b47bfd8d10fd75fef69cecad32c0c402faac5ec02d",
+      "ko": "너의 내일을 개척하기 위한 검이 있다."
+    },
+    {
+      "id": "da1319:T00132",
+      "source_sha256": "759d63e43c33a41e6830c41cbebd45941e7e21cc932e8af8e8d70d42efa83899",
+      "ko": "「네가 살아갈 세상의 모든 것이,\n　맑은 에테르로 가득 차 있기를」"
+    },
+    {
+      "id": "da1319:T00133",
+      "source_sha256": "c09ebd5af937ae2f9ae50cf267029ff5899ffc6c6f4903f3883b01f9486256b9",
+      "ko": "아아, 그런가."
+    },
+    {
+      "id": "da1319:T00134",
+      "source_sha256": "ac319f7e74a0a7b4e208edffe894073d0053900df758c5725538b46956dcb067",
+      "ko": "드디어 알았다.\n\n　『나』는――"
+    },
+    {
+      "id": "da1319:T00135",
+      "source_sha256": "b6f706bf867bf1fb0d8f2028e011f577a425c056b18281351ac5e4de553490e0",
+      "ko": "「나는…… 사랑받고 있었던 거다」"
+    },
+    {
+      "id": "da1319:T00136",
+      "source_sha256": "b964031f49b037493bef91f9c1c26332dfd7a491f2fc2b56b8e8bd74466fc32d",
+      "ko": "이런 당연한 사실을 깨닫기 위해――"
+    },
+    {
+      "id": "da1319:T00137",
+      "source_sha256": "e2b6ab14090faa98948abe189a36f40b6260d5824ff563f4dbcd3a7df785d544",
+      "ko": "이렇게나 멀리 돌아와 버렸구나."
+    }
+  ],
+  "issues": [
+    {
+      "id": "da1319:R00003",
+      "kind": "ruby_decision",
+      "note": "일본어 독음 すが이 한국어 본문과 겹쳐 읽기 줄을 생략"
+    },
+    {
+      "id": "da1319:R00004",
+      "kind": "ruby_decision",
+      "note": "일본어 독음 そび이 한국어 본문과 겹쳐 읽기 줄을 생략"
+    },
+    {
+      "id": "da1319:R00006",
+      "kind": "ruby_decision",
+      "note": "일본어 독음 はざま이 한국어 본문과 겹쳐 읽기 줄을 생략"
+    },
+    {
+      "id": "da1319:R00007",
+      "kind": "ruby_decision",
+      "note": "일본어 독음 しあわせ이 한국어 본문과 겹쳐 읽기 줄을 생략"
+    },
+    {
+      "id": "da1319:R00008",
+      "kind": "ruby_decision",
+      "note": "일본어 독음 しあわせ이 한국어 본문과 겹쳐 읽기 줄을 생략"
+    }
+  ]
+}

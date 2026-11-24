@@ -1,0 +1,155 @@
+{
+ "out": "P:\\AI\\khd-runtime-fix\\logs\\duel_1119_011729",
+ "samples": 303,
+ "enemy_def": "IM.def",
+ "hp_end": [
+  0,
+  662
+ ],
+ "enemy_motions": [
+  "BAD_TRIP",
+  "COMBO1",
+  "COMBO2",
+  "COMBO3",
+  "DAMAGE2",
+  "DAMAGE2_1",
+  "DAMAGE3",
+  "DAMAGE4",
+  "DAMAGE5",
+  "EPIDEMIC",
+  "FORWARD_B",
+  "FORWARD_G",
+  "GUARD",
+  "KICK",
+  "MODE_CHANGE1",
+  "START",
+  "STOP_G",
+  "S_VANPIRE",
+  "TAIZAI",
+  "WIN1"
+ ],
+ "big_moves": [
+  {
+   "motion": "S_VANPIRE",
+   "t0": 26.6,
+   "t1": 28.9,
+   "f0": 1,
+   "f1": 139,
+   "hp_lost": 0,
+   "next": "STOP_G"
+  },
+  {
+   "motion": "S_VANPIRE",
+   "t0": 32.0,
+   "t1": 32.0,
+   "f0": 14,
+   "f1": 14,
+   "hp_lost": 0,
+   "next": "STOP_G"
+  },
+  {
+   "motion": "S_VANPIRE",
+   "t0": 64.5,
+   "t1": 66.8,
+   "f0": 3,
+   "f1": 141,
+   "hp_lost": 0,
+   "next": "EPIDEMIC"
+  },
+  {
+   "motion": "S_VANPIRE",
+   "t0": 84.4,
+   "t1": 85.2,
+   "f0": 14,
+   "f1": 60,
+   "hp_lost": 0,
+   "next": "STOP_G"
+  },
+  {
+   "motion": "S_VANPIRE",
+   "t0": 89.0,
+   "t1": 90.0,
+   "f0": 13,
+   "f1": 71,
+   "hp_lost": 30,
+   "next": "DAMAGE4"
+  },
+  {
+   "motion": "MODE_CHANGE1",
+   "t0": 95.4,
+   "t1": 97.2,
+   "f0": 2,
+   "f1": 58,
+   "hp_lost": 0,
+   "next": "TAIZAI"
+  },
+  {
+   "motion": "TAIZAI",
+   "t0": 97.5,
+   "t1": 101.3,
+   "f0": 2,
+   "f1": 176,
+   "hp_lost": 0,
+   "next": "DAMAGE5"
+  },
+  {
+   "motion": "S_VANPIRE",
+   "t0": 120.5,
+   "t1": 122.8,
+   "f0": 2,
+   "f1": 140,
+   "hp_lost": 0,
+   "next": "STOP_G"
+  }
+ ],
+ "enemy_hp_drops": {
+  "in_guarded_move": [],
+  "outside": [
+   15,
+   15,
+   15,
+   15,
+   15,
+   15,
+   15,
+   15,
+   15,
+   15,
+   15,
+   15,
+   15,
+   15,
+   15,
+   15,
+   15,
+   15,
+   30,
+   15,
+   22,
+   22,
+   45,
+   22,
+   45,
+   22,
+   45
+  ]
+ },
+ "proxy": [
+  "pid 44932  difficulty 2: Hard pack in (Normal's numbers, more skills)",
+  "pid 44932  fight kind: FREE FIGHT (scene 8, menu mask 0x200007e2) - 자동 전투 on",
+  "pid 44932  fight difficulty scope: scene=8 duel=0 combat_rank=2 duel_AI=2 story_rank=2",
+  "pid 44932  STORY_ONRYOU_FAST installed: 어려움 story / FREE FIGHT - Tiberius's 원령 주탄 charges in about half the time"
+ ],
+ "battle": 10,
+ "want_difficulty": 2,
+ "notes": [
+  "difficulty variable 0x100ee708: 0 -> 2",
+  "window position back to (0, 215)",
+  "SAVE restored from save_before_1119_011730; registry ActDifficult back to 2"
+ ],
+ "registry_after": {
+  "ActDifficult": 2,
+  "XPos": 0,
+  "YPos": 215
+ }
+}

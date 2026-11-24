@@ -1,0 +1,354 @@
+{
+  "schema": "khd-gemini-response-v1",
+  "packet_id": "P0126_da1504",
+  "model_id": "Gemini 3.8 Flash (High)",
+  "records": [
+    {
+      "id": "da1504:T00001",
+      "source_sha256": "0cf39471772eb8f8cc2679349fe15105ac84d7d5b168da49413776fc6930a5a8",
+      "ko": "단말마와도 같은, 기계적 불협화음이 아컴 시티 전체에 울려 퍼졌다."
+    },
+    {
+      "id": "da1504:T00002",
+      "source_sha256": "8060357b80b293f28ac1818a62ff5e101a4bf0c5a8440657484daede7489e258",
+      "ko": "그 순간, 구름 떼처럼 덮쳐오던 양산형 파괴로보 군세가, 일제히 움직임을 멈춘다."
+    },
+    {
+      "id": "da1504:T00003",
+      "source_sha256": "07a59834c00f141f8b1ea2e9f4d2c5362edf46bc7f86b54d24780583b8281d85",
+      "ko": "「로보~?」"
+    },
+    {
+      "id": "da1504:T00004",
+      "source_sha256": "00b6e7b7a443a0eb4d8a8bc9d4fce0385efb99d729a02f565f360272f2099897",
+      "ko": "「어찌 된 것인가아!?\n이쪽은 아직 팔과 다리와 드릴과 그 밖의\n온갖 중요 기관이 모조리 뜯겨 나갔을\n뿐인 것이다아! 자아, 덤벼오는 것이다! "
+    },
+    {
+      "id": "da1504:R00001",
+      "source_sha256": "e5c8ffb0b7a0fcb66a9ea1bce688deec220cd3cc90ddcfc078e39a290620802b",
+      "ko": "허리 허리",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1504:T00005",
+      "source_sha256": "86cc1af36c13c908abe4cbec5392895728b9bd4dc6332bde09c7ccdf5bb3a8b0",
+      "ko": "빨리빨리"
+    },
+    {
+      "id": "da1504:T00006",
+      "source_sha256": "6560fad1b5299ec45c7562b1e825f123c87101dc289a1eb71426e443d34f4c8c",
+      "ko": "!」"
+    },
+    {
+      "id": "da1504:T00007",
+      "source_sha256": "36c32d80e1d1333852a71db0d6545e956ab99a83077444f160f763bffa19eb66",
+      "ko": "「……아침 해가」"
+    },
+    {
+      "id": "da1504:T00008",
+      "source_sha256": "c6a1e627457160b1aa4d405e7083bc64273b8bdd796accddd3b858d99ac79fd3",
+      "ko": "낮도 밤도 어느 시간대에도 속하지 않는 아컴 시티에,\n악몽으로 일그러진 거리에, "
+    },
+    {
+      "id": "da1504:R00002",
+      "source_sha256": "ad00a0b322492061745b24d0a27cfeb54340097e166853622a9781f99bd15efb",
+      "ko": "・・・・・・",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1504:T00009",
+      "source_sha256": "c0af49c9fbc2f8a7771c952df1152c357e2c8936ceb3dd260eaf252705474081",
+      "ko": "새벽이 밝았다"
+    },
+    {
+      "id": "da1504:T00010",
+      "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+      "ko": "。"
+    },
+    {
+      "id": "da1504:T00011",
+      "source_sha256": "81fc1ce2b1e5b3985b445e1b816f2674f94a63678046bb58013968f1074747fb",
+      "ko": "새벽빛이 마천루를 하얗게 비추어 간다."
+    },
+    {
+      "id": "da1504:T00012",
+      "source_sha256": "ebfa807bfc2849ff1765fbd74de47a27f24b8e70ad3ba9349b31174417a9c970",
+      "ko": "파괴로보 대군이 아침 안개가 되어 흩어져 간다."
+    },
+    {
+      "id": "da1504:T00013",
+      "source_sha256": "802b3ff9c95f853fba4a455d4ae6f71b08ea071c956835791f486a0d7ccb78bc",
+      "ko": "햇빛을 받으며 "
+    },
+    {
+      "id": "da1504:R00003",
+      "source_sha256": "8f90d85ec13a0b1b12d81203f2f3262ca156028a94aeaf91ae52fcd5a9de4170",
+      "ko": "재",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1504:T00014",
+      "source_sha256": "b305f2674894b153e913dd58d5771a809cd3089f6f23c49af44106d96bdc4097",
+      "ko": "잿더미"
+    },
+    {
+      "id": "da1504:T00015",
+      "source_sha256": "d6cbe68376b91b6b0b4cb19f78c1f5d56fc9107918fc61cdd59bb9e0c20e0911",
+      "ko": "가 되는 "
+    },
+    {
+      "id": "da1504:R00004",
+      "source_sha256": "0ca3c66a5ff22d19717ca69280965066b64c4958036826c9752241b02867497c",
+      "ko": "올록",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1504:T00016",
+      "source_sha256": "0c6918a0198ea2c5747541c636fc3b7ed1e948203bdea5dde31cc4700276f5f8",
+      "ko": "흡혈귀"
+    },
+    {
+      "id": "da1504:T00017",
+      "source_sha256": "9df9a6ada894e0f4699762319139148005da9a68b7219461d95a7b1f1d5773f9",
+      "ko": "처럼."
+    },
+    {
+      "id": "da1504:T00018",
+      "source_sha256": "2952397284921448e6bdb4c7b4a2ca4e8fa4d88fe2a91d2615ede41377bc6246",
+      "ko": "「――그렇군」"
+    },
+    {
+      "id": "da1504:T00019",
+      "source_sha256": "d9edb9f071751b3a66d7aecae6c7d35f408eb0e33ac5bd63e8536385b291c713",
+      "ko": "「……끝났구나, 쿠로 쨩」"
+    },
+    {
+      "id": "da1504:T00020",
+      "source_sha256": "f29ef6619bef9cdd72c552793a3af12f6f21280ab3a05bfc60b24ca8237d9bc8",
+      "ko": "밤은 밝았다."
+    },
+    {
+      "id": "da1504:T00021",
+      "source_sha256": "a9bd7fdc8e19abaf46e3c6ebcb1ce51b3c17a80b76a7c3c7be42d6d6f5837cdf",
+      "ko": "악몽은 끝났다."
+    },
+    {
+      "id": "da1504:T00022",
+      "source_sha256": "aad8aff874cb6c9d1cb7f12812bf52ba39bf1f88df5a63c1bf520f46b8f574a3",
+      "ko": "꿈은 그저 꿈으로 스러져 갈 뿐."
+    },
+    {
+      "id": "da1504:T00023",
+      "source_sha256": "8b44bb407676637639902aeb6e2b52113f9a29d6add3084b41a0d0d950f3e53f",
+      "ko": "「이봐, 아이들!\n　밖에 나가면 위험하지 말입니다!」"
+    },
+    {
+      "id": "da1504:T00024",
+      "source_sha256": "f030b273e6de86b5635e18ecaa96cd8790493e90d7b309d71af66fae2ce33cbe",
+      "ko": "「괜찮아,\n　이제 끝난 것 같고!」"
+    },
+    {
+      "id": "da1504:T00025",
+      "source_sha256": "08f3be1124e1b9c0463442f866a16a362cddb95b129bce0b1a382adb4b8a29de",
+      "ko": "「하지만……!」"
+    },
+    {
+      "id": "da1504:T00026",
+      "source_sha256": "92fdb60f00fc4cc43d979afefdf7be21e521e8492673d59049b4e14b0b3beff1",
+      "ko": "「정말 괜찮아」"
+    },
+    {
+      "id": "da1504:T00027",
+      "source_sha256": "45ec36403d9996058cfd59e7de59712f3d38299319a372c6bb73f29498df2726",
+      "ko": "「……쿠로 오빠들이,\n　이겼으니까. 나 왠지 모르게\n　알겠더라고」"
+    },
+    {
+      "id": "da1504:T00028",
+      "source_sha256": "901cd353e69ba181dee5e86d0cc31002edd2431bb5d2abe27580b0517ecd34c7",
+      "ko": "「윽, 으으……」"
+    },
+    {
+      "id": "da1504:T00029",
+      "source_sha256": "3dc11f5621da814cc58b84d39ebe273b992accf25286b8246d723273ecc6f111",
+      "ko": "「아, 저것 봐!」"
+    },
+    {
+      "id": "da1504:T00030",
+      "source_sha256": "ebfb951002732ee596a2d798cdbb3111834c2824d70247e7589c8e9c44c03638",
+      "ko": "「아침 해……?」"
+    },
+    {
+      "id": "da1504:T00031",
+      "source_sha256": "10cea8b4c005202ec8df2dd5a5828c9c06e45fd489f238cfb31dc974a5facf16",
+      "ko": "「……예쁘다」"
+    },
+    {
+      "id": "da1504:T00032",
+      "source_sha256": "e4a4f1e533f128a9c7412b02a1bba1c4c0f9ec6b77fc9860b577fb33c1fd5765",
+      "ko": "「흐음…… 멋진 새벽 아닌가,\n스톤 군. 숙취 같은 악몽\n의 끝에는, 이런 상쾌한 아침이 어울리지」"
+    },
+    {
+      "id": "da1504:T00033",
+      "source_sha256": "ff875390009202cb212e7e2775ff6186b40a770f27d41f62cc4a00a28aab4fd9",
+      "ko": "「테케리・리!」"
+    },
+    {
+      "id": "da1504:T00034",
+      "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+      "ko": "「"
+    },
+    {
+      "id": "da1504:R00005",
+      "source_sha256": "adabfd08f4ad04a6cc4ea14e64b4b570eec1e007114462d3913239baeb87dae5",
+      "ko": "아스트랄 사이드",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1504:T00035",
+      "source_sha256": "4365686ac0b1c1f8ca732e46f72fa3a7022974b29ee0ca7a5ef1276aa78c6415",
+      "ko": "성계면"
+    },
+    {
+      "id": "da1504:T00036",
+      "source_sha256": "76d0b43982c8e092e37ead51dd7882971154cd090c9650f39acafc693a63c8ee",
+      "ko": "의 왜곡이 사라짓다……\n　아컴 시티가 정상화되고 있데이!」"
+    },
+    {
+      "id": "da1504:T00037",
+      "source_sha256": "43860875e9962a48418574b38af691466032194a9efdaa90033e1637b7d0e90b",
+      "ko": "「――『야케노』의 영질적인 붕괴가\n시작되었습니다. 프로비던스,\n사상계면상으로 부상. "
+    },
+    {
+      "id": "da1504:R00006",
+      "source_sha256": "0a6913a2dc8ae0332b8f52c2af2b8ba393de9f3eadf414b31c14b16eeb20a45e",
+      "ko": "마테리얼라이즈",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1504:T00038",
+      "source_sha256": "7002ddc501949fbac6fad540e7edfa087a651e35615d353983b560522cb774af",
+      "ko": "재구축"
+    },
+    {
+      "id": "da1504:T00039",
+      "source_sha256": "ee4331e2ed30e571425399d824e115444cf6a93d06598f2507d4322bdfa9eb63",
+      "ko": "됩니다」"
+    },
+    {
+      "id": "da1504:T00040",
+      "source_sha256": "0aa037ea13c233f7cbfa5d719b6f68f32a1db7fa761abe0b9671ba31dc02aa6c",
+      "ko": "「이런이런. 다이쥬지와 슈루즈베리 박사는 잘해 준 모양이군」"
+    },
+    {
+      "id": "da1504:T00041",
+      "source_sha256": "b1ca66e8077dfd317f5b20ce6a9e6f8763ad72953418ee8a0590f6f289b7b0a9",
+      "ko": "「후우…… 이번에는\n　과연 간담이 서늘했군요」"
+    },
+    {
+      "id": "da1504:T00042",
+      "source_sha256": "5ed3a091064b409eaf25c39bf374687ff9edff35fff14014ef9030f386a362c4",
+      "ko": "「정말이지. 웨이틀리 같은\n　우주적 악의와 얽히는 건,\n　이번에야말로 마지막이었으면 좋겠네」"
+    },
+    {
+      "id": "da1504:T00043",
+      "source_sha256": "e3c7486d52c282991f04954db3c00cbf28b98ea92142c20a8ec1574348c2dfc5",
+      "ko": "「이겼군요, 아가씨…… 사령관님」"
+    },
+    {
+      "id": "da1504:T00044",
+      "source_sha256": "7b67de34d0a14dcdf9e393e28f6ded65656764e48405e731c7284b4591260441",
+      "ko": "「당연합니다. 데몬베인이\n　사악에 패할 리는 없으니까요」"
+    },
+    {
+      "id": "da1504:T00045",
+      "source_sha256": "845abaf0361f21f9a9aab2ef76afb66e70b1a76d9f2202d59ab81992b1313276",
+      "ko": "「지금은 없어진 수많은 마음을 짊어지고,\n　그 기체는 싸워 왔으니까요……」"
+    },
+    {
+      "id": "da1504:T00046",
+      "source_sha256": "8bf2571ff13f5ba08f0676d63cbca892d36cec12724ecb4651ca3267d813bd01",
+      "ko": "「하지만요…… 앞으로\n　어떻게 되는 걸까요?」"
+    },
+    {
+      "id": "da1504:T00047",
+      "source_sha256": "3d72a92092d47941d61142071f93ed72611c58e198049e783fc0dbd756233c8c",
+      "ko": "「지금의 저희는 꿈속에 있고……\n하지만 그 꿈에서 깨어나면 도대체?」"
+    },
+    {
+      "id": "da1504:T00048",
+      "source_sha256": "f63e338a9fae446f20ae3d105f2318d7c4d921eff8749a1d9931f4bd94dd5f65",
+      "ko": "「…………」"
+    },
+    {
+      "id": "da1504:T00049",
+      "source_sha256": "b15a9a694d3e255a6d159cb2f9d732a2eb85baeb2b7f1e0a072648c73b94c988",
+      "ko": "소냐의 무심한 물음에, 루리의 가슴이 가늘게 술렁였다."
+    },
+    {
+      "id": "da1504:T00050",
+      "source_sha256": "d0f4637719bca7995eb17f52443ee4ffcf0e6056e9efe6a7b143aa1d058e795b",
+      "ko": "모든 것은 악몽에 삼켜진 아컴 시티에 일어난 변이."
+    },
+    {
+      "id": "da1504:T00051",
+      "source_sha256": "90e3b351a42a1a4516369bcdfaa718ee2bb62e1547e689bbba081150b432fd5e",
+      "ko": "그렇다. 꿈속의 일이다.\n\n　세계가 정상화되어, 꿈에서 깨어나면―― 모든 것은 다시 「없었던 일」로 돌아가는 것일까?\n\n\n　데몬베인도, 사령관으로서의 자신도…… 되찾은 무한 나선 싸움의 기억도 전부, 전부.\n\n　가슴속을 어지럽히는, 불안. 애틋함. 허무함……"
+    },
+    {
+      "id": "da1504:T00052",
+      "source_sha256": "40205bcd2fcfa1f7752c129394e2d2abb409fa5012a4a259242c17e953a42398",
+      "ko": "하지만, 그것도 한순간이었다."
+    },
+    {
+      "id": "da1504:T00053",
+      "source_sha256": "2c0464161241cdf74a5421d7bdffcb8817d153353e55cc7686e2be8b24d26afc",
+      "ko": "――모든 것은 영혼이 알고 있다.\n\n　설령 다시 모든 것이 없었던 일이 된다 해도,"
+    },
+    {
+      "id": "da1504:T00054",
+      "source_sha256": "cc76c850cbada65d61e5c34efb9af87b87683b0bf4cce84300df7fdd38df2f2d",
+      "ko": "기억에서조차 잊히고 만다 해도――"
+    },
+    {
+      "id": "da1504:T00055",
+      "source_sha256": "78b2bc8b017b3a49276e8b7718edccb766f4d485a4cfd5d0ac8586e89bafc7b3",
+      "ko": "그래도 자신의 영혼이 기억하고 있다."
+    },
+    {
+      "id": "da1504:T00056",
+      "source_sha256": "5b2b16c9b0dd7a7df98eba97b3d6091187dcd966e1573fab079c08d83cf1f62d",
+      "ko": "세계의 영혼이 기억하고 있다.\n\n\n　그것은 이번 사건이 가르쳐 주었다."
+    },
+    {
+      "id": "da1504:T00057",
+      "source_sha256": "aa069630009a7bdea2fa11eb207f840e489dc664ae856aa697d654bf4f292d80",
+      "ko": "다시 사악에 침식당할 때가 찾아온다면――"
+    },
+    {
+      "id": "da1504:T00058",
+      "source_sha256": "f0c95e9cdf05af646c17d8c3bf1fb23b8ec43c268a2a3fd863c7aec8b76415b0",
+      "ko": "세계는 반드시 『마를 베는 검』을 되찾는다."
+    },
+    {
+      "id": "da1504:T00059",
+      "source_sha256": "c4bd3dfb1a561b07fe4f4283a8f26b75d550365a14f3ffc3ae51eaf3954e6822",
+      "ko": "영혼에 새겨진 기억으로부터, 참마의 성구를 깨운다.\n\n　두려워할 것은, 아무것도 없다."
+    },
+    {
+      "id": "da1504:T00060",
+      "source_sha256": "d6f105ac1e2f1252296288ae9eb99ade467ed49a257f242e1bc0cfb2e5984ae6",
+      "ko": "「어찌 되었든……」"
+    },
+    {
+      "id": "da1504:T00061",
+      "source_sha256": "af7a7db38fec4991708923fcc8948f700e92816aaff6db7d123fa120a1566f7f",
+      "ko": "「수고하셨습니다.\n　다이쥬지 씨. 알 아지프……」"
+    },
+    {
+      "id": "da1504:T00062",
+      "source_sha256": "5fda4e0af2b593a5089fdedb1f0be922bf982c7615f4736803af6c97e381931d",
+      "ko": "「그리고…… 데몬베인」"
+    }
+  ],
+  "issues": []
+}

@@ -1,0 +1,613 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0075_da0704",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0704:T00001",
+   "source_sha256": "120f5129d7c7ea52149bb322815d1d237682d5b29cf6c20c8815545d76202629",
+   "ko": "「……그렇게 말하는 당신은 뭐지」"
+  },
+  {
+   "id": "da0704:T00002",
+   "source_sha256": "f63e338a9fae446f20ae3d105f2318d7c4d921eff8749a1d9931f4bd94dd5f65",
+   "ko": "「…………」"
+  },
+  {
+   "id": "da0704:T00003",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0704:R00001",
+   "source_sha256": "b82ecd8ad5cdb22fed852be1e1136348794e60f43cd489a70d2c3a519514f87b",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0704:T00004",
+   "source_sha256": "b70bb4acc0484cf040de4c07c60f9db722283da2c4a672c39291de621e92c33f",
+   "ko": "내"
+  },
+  {
+   "id": "da0704:T00005",
+   "source_sha256": "e9e9f46660e04fcb64444c89a586106fbb81a2fd8bb51d06719d0faff3e367a9",
+   "ko": "가 어나더 블러드에 가깝다고 한다면\n……당신이야말로 녀석이 엮어 내는 악몽과 동질의\n"
+  },
+  {
+   "id": "da0704:R00002",
+   "source_sha256": "c83d09288a91cba65388da926999234b69ebe4c1dad3efd7cf413e48f4bdd85e",
+   "ko": "것이",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0704:T00006",
+   "source_sha256": "4a558371f938b01d790207375865ed101b0826bdbda2e46b552b7910337d527a",
+   "ko": "존재가"
+  },
+  {
+   "id": "da0704:T00007",
+   "source_sha256": "7c15877f5d2f0bf30057fc47cdb67eab98cdd3b1eee3be3c2355245c48d36b3f",
+   "ko": " 아닌가!」"
+  },
+  {
+   "id": "da0704:T00008",
+   "source_sha256": "137bb92f9ed6cd6b55b6e00e8b4c56f206bd8a1508e8290280b0fad5ad73c0c3",
+   "ko": "「……역시 그대는 무언가를 알고 있는 모양이군」"
+  },
+  {
+   "id": "da0704:T00009",
+   "source_sha256": "b18997235cc7d1c918958f766a40edf4ba0d2c726da1fb97bac769a8f2ce68bf",
+   "ko": "「말해 주어야겠다.\n　"
+  },
+  {
+   "id": "da0704:R00003",
+   "source_sha256": "fe65050b6cf95368d85f30fd366c092a15824886d51defd754887d1e968f7491",
+   "ko": "・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0704:T00010",
+   "source_sha256": "53c3bda0dbd1ac3cdd1de22f8e328fae9a07ed3d86b97d6dc2576be41fed5946",
+   "ko": "그대들"
+  },
+  {
+   "id": "da0704:T00011",
+   "source_sha256": "f29a8f4e70ba370a7f893e2a303fe83b381c7afa15c57f647b4efe7be594dbda",
+   "ko": "이 어떤 존재인지를」"
+  },
+  {
+   "id": "da0704:T00012",
+   "source_sha256": "c342c882870206a09e559c6d859433dab926f5409593204aec727b2d1c84f522",
+   "ko": "「……그것이 사람에게 무언가를 묻는 태도인가.\n　무례에도 정도가 있다」"
+  },
+  {
+   "id": "da0704:T00013",
+   "source_sha256": "a0f62d981cb3e7560041ae58902334aa89afb31c33445bd07839528b426a8cea",
+   "ko": "「사교계에 드나들기 위해\n　"
+  },
+  {
+   "id": "da0704:R00004",
+   "source_sha256": "d15608d3431240575d63e2359778d0b757a88e17e49e2cfcdbca867d10aefd7a",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0704:T00014",
+   "source_sha256": "58ec7f521a526644546c522a90cce9f3896367bd449a6c9e2d41a4f4d6ce55e3",
+   "ko": "되살아난"
+  },
+  {
+   "id": "da0704:T00015",
+   "source_sha256": "feee6ae95a43f7b71e4b6438721c6e9d2ddd37b90c08d5b33f0ee0467eee1f4d",
+   "ko": " 것이 아니다」"
+  },
+  {
+   "id": "da0704:T00016",
+   "source_sha256": "0cb61a49354bb3558a24d8cb8fd9f83d6d03150644c848c4d3f513dcdbd28316",
+   "ko": "「그대의 존재가 저들에게 재앙이 된다면\n　――나는 용서하지 않겠다」"
+  },
+  {
+   "id": "da0704:T00017",
+   "source_sha256": "5b5e73734ba731ba664877fea16cfabb4734fc424dc51fb004fd7d7c8c72ae11",
+   "ko": "「나를 그 녀석과 같은 취급 하지 마라!」"
+  },
+  {
+   "id": "da0704:T00018",
+   "source_sha256": "257ee8fb1135e6e3f3066310965afbfe6142cbc9243e5581ebeb47dd5da04001",
+   "ko": "「――――」"
+  },
+  {
+   "id": "da0704:T00019",
+   "source_sha256": "2efa646fdff1379b445b97a1ba0f8f18a243b263b0161f837613f0638fdfe1c8",
+   "ko": "「……윽!」"
+  },
+  {
+   "id": "da0704:T00020",
+   "source_sha256": "f92905c3698dcc8e7a347825a7dc982a304dfb77e28f41a7e23c572cb9d851e3",
+   "ko": "「……어이, 어이.\n　뭐야, 이 험악한 분위기는……」"
+  },
+  {
+   "id": "da0704:T00021",
+   "source_sha256": "eb258f79ba31d44d20bf944373616f8f887a9e5b4f48bb5de2fab17287b9909c",
+   "ko": "「……윽」"
+  },
+  {
+   "id": "da0704:T00022",
+   "source_sha256": "60691a99e42016288b3bf63695fb5edacd452b082170f03eb4564b71ec09b9e8",
+   "ko": "「……~~~윽!?」"
+  },
+  {
+   "id": "da0704:T00023",
+   "source_sha256": "de6b0c20537fa7b2396e245df5872dc9630291fe900e1b11dc9991494c52276c",
+   "ko": "「다이쥬지 쿠로……」"
+  },
+  {
+   "id": "da0704:T00024",
+   "source_sha256": "54b70994fcc24b085e3cf330a7a140de62246d7eefc95d4662789271ca6e3729",
+   "ko": "……참 나, 어디서 뭘 하고 있나 했더니 이 녀석들은."
+  },
+  {
+   "id": "da0704:T00025",
+   "source_sha256": "5cf3bcc8385ecdd0347dc07cada2c0b9d86f6c405ee3a828f6ebef05196e661f",
+   "ko": "지금은 서로 으르렁거리고 있을 때도 아닐 텐데."
+  },
+  {
+   "id": "da0704:T00026",
+   "source_sha256": "10673f80892e42801b9ddc39239f0bbd132612708a0efea7ef9174aad8d48b91",
+   "ko": "「그만둬, 그만둬, 그~만!\n　시시한 싸움질 하지 말라고. 하아~~앗」"
+  },
+  {
+   "id": "da0704:T00027",
+   "source_sha256": "0be605602bbeab49da2d915f1f267b5f0232c24c152434a888e6466326132684",
+   "ko": "「하도우 코우조우……」"
+  },
+  {
+   "id": "da0704:T00028",
+   "source_sha256": "d0235248d647e8d80add90c089e452e176937c33ac5b7cdc4a0103239f122726",
+   "ko": "「……하도우 코우조우라니」"
+  },
+  {
+   "id": "da0704:T00029",
+   "source_sha256": "e9479eadd6dd429ceeced33688a7ddfc3d11b79d8b09bb613cca9a5c003a0021",
+   "ko": "「아니…… 미안하다. 신경 쓰지 마라」"
+  },
+  {
+   "id": "da0704:T00030",
+   "source_sha256": "6cf9bb289dbd25b21f0e33d068311ed44b72796f500adfd3cea06a961df697d6",
+   "ko": "「――이제 『너』는 『하도우 코우조우』가\n　아니었군」"
+  },
+  {
+   "id": "da0704:T00031",
+   "source_sha256": "615f0a4368c1961d78d48207fa9ca2df5b14c62c43cf6191ee3f620eef1e0c77",
+   "ko": "「…………"
+  },
+  {
+   "id": "da0704:T00032",
+   "source_sha256": "f700482b29feb06339de14dcd1686a45342c648b68c9bb90059b0c41b339d4b3",
+   "ko": "뭐, 됐나.\n　아무튼 아즈랏드……였던가?\n　이 녀석을 도발하는 건 그만둬 줘」"
+  },
+  {
+   "id": "da0704:T00033",
+   "source_sha256": "a0a334016be26813b052c8be233181abcf66fb67572b9fec564d0da76f3e7a8c",
+   "ko": "「확실히 이 녀석은 『수수께끼의 신캐릭터 그 1』이지만 말야.\n　적어도 적은 아닌 것 같고」"
+  },
+  {
+   "id": "da0704:T00034",
+   "source_sha256": "f63e338a9fae446f20ae3d105f2318d7c4d921eff8749a1d9931f4bd94dd5f65",
+   "ko": "「…………」"
+  },
+  {
+   "id": "da0704:T00035",
+   "source_sha256": "8823e7edb5110cda7e39fe99fb425feb9896511c890f21f4b3784ac2e6c3c676",
+   "ko": "아즈랏드는 고개를 끄덕이지도, 거부하지도 않았다."
+  },
+  {
+   "id": "da0704:T00036",
+   "source_sha256": "ae179cb7c5ceaada489898153599440f7cfc809e28d2b41c48f82ea54a019c51",
+   "ko": "그저 잠자코 쿠자쿠에 대한 경계를 풀었다."
+  },
+  {
+   "id": "da0704:T00037",
+   "source_sha256": "dd8ce4498d0c4d3c42aa8cc37165d71b3202028a6af6ec97404bda352fc7c312",
+   "ko": "그것을 확인한 나는 이번엔 쿠자쿠를 향해 돌아선다."
+  },
+  {
+   "id": "da0704:T00038",
+   "source_sha256": "ace97cdbd7b321457e9562e73a9cc8390d43ed9107f5ad50d58c3db401552362",
+   "ko": "「너도 마찬가지야, 쿠자쿠.\n　성질이 너무 급하다고? 조금만 더 진정해」"
+  },
+  {
+   "id": "da0704:T00039",
+   "source_sha256": "20e585feaa77002ce626a9812d1aa43f7b83a1cb433f0d571d44e4c93cee4671",
+   "ko": "「흥…… 네놈에게 지시받을 "
+  },
+  {
+   "id": "da0704:R00005",
+   "source_sha256": "eae64988626363b4178cb952f5a3d2d5f7ab7d9bda6d075e77bbcd2ae6e5b88e",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0704:T00040",
+   "source_sha256": "570b61760c720a368e437c99a3407edd379d8f78fc5a074a1474b3b3fe183bc8",
+   "ko": "까닭"
+  },
+  {
+   "id": "da0704:T00041",
+   "source_sha256": "0f2a9b98f072d8672090c26d78026229e61bae36a9ad70b3388f29e04e4d5a9d",
+   "ko": "은 없다」"
+  },
+  {
+   "id": "da0704:T00042",
+   "source_sha256": "57e2dfe8d8fffd7f2857e7a8e4c25c12fe16da0ba49baea268ea0cdc2a524cdf",
+   "ko": "그렇게 말하고는 고개를 홱 돌린다."
+  },
+  {
+   "id": "da0704:T00043",
+   "source_sha256": "8f0b13abb9b4e64d849f86f6f7268464ff26e4e77aca251e5d4230b09332bc3d",
+   "ko": "……정말이지 어째서 이 녀석은 이렇게 날을 세우며 대드는 걸까?"
+  },
+  {
+   "id": "da0704:T00044",
+   "source_sha256": "e9816cb4c52e21fc785dcddf79551bf3838db91834ecee820495e12d58bb13cb",
+   "ko": "「그렇게 신경질 내지 말라고. 칼슘 부족이다.\n　우유를 마셔라, 우유를. 그러면 키도 큰다」"
+  },
+  {
+   "id": "da0704:T00045",
+   "source_sha256": "fc6b24354e93ba5779032b979d6ccd19ffd6c7a0d7b03815a2125f5a8225ab2e",
+   "ko": "「키, 키 이야기는 상관없다!」"
+  },
+  {
+   "id": "da0704:T00046",
+   "source_sha256": "89f8c405fa34f701619895305a7f9115346ada555834472ca6326a9a1e8b37b3",
+   "ko": "신경 쓰고 있었나."
+  },
+  {
+   "id": "da0704:T00047",
+   "source_sha256": "390bf4c8614e8538ef6fc7f3600057db725338858798acb3fb2389e1908b2a6c",
+   "ko": "「있잖아…… 너무 경계하지 마. 일단은 같은 적과 싸우는 동료잖아?」"
+  },
+  {
+   "id": "da0704:T00048",
+   "source_sha256": "94bcdcc3ed10c63a9103f083d45c9813a36ba5ea7de3d28a178eb6205d211fb1",
+   "ko": "「동료…… 동료라고? 웃기지 마라」"
+  },
+  {
+   "id": "da0704:T00049",
+   "source_sha256": "233e75b90e8240afad13b583038a42ff061f360fec57474b85df16e6b1f866a6",
+   "ko": "「어나더 블러드와의 결착은 내 손으로\n　짓는다. 네놈의 손 따위는 빌리지 않는다!」"
+  },
+  {
+   "id": "da0704:T00050",
+   "source_sha256": "7d90b1b1d7cd7ad0eae11bd9e8b22187df6afbdab9d26068bbdfed301f7c5026",
+   "ko": "「……어째서 너, 그렇게 어깨에 잔뜩 힘을 주고 있는 거냐?」"
+  },
+  {
+   "id": "da0704:T00051",
+   "source_sha256": "5671c889874436a49c51ce24a67f7ec686beeec1eeb2fe41d0137f1448eeaca9",
+   "ko": "「~~~~……윽!?」"
+  },
+  {
+   "id": "da0704:T00052",
+   "source_sha256": "784bd34a15e2f0311f2ff0636219e0a189929abdea347ab25f79c0e1dd15efc3",
+   "ko": "「너는 상당히 강하고 실력 있는 녀석이겠지만.\n　그렇게 팽팽하게 날을 세우고 있으면 언젠가 끊어져 버린다고?」"
+  },
+  {
+   "id": "da0704:T00053",
+   "source_sha256": "f63e338a9fae446f20ae3d105f2318d7c4d921eff8749a1d9931f4bd94dd5f65",
+   "ko": "「…………」"
+  },
+  {
+   "id": "da0704:T00054",
+   "source_sha256": "abb125e3a82a618067571c4e78c21961907686b3b1ecf81a64122ed817a1b7e4",
+   "ko": "「네가 뭘 짊어지고 있는지는 모르겠지만 말야……\n　그래도 조금쯤 편하게 간다고 벌받진 않아」"
+  },
+  {
+   "id": "da0704:T00055",
+   "source_sha256": "1c7c1be16cc51231d930016ab6046d367eb0dce41c22115808b186a1e034f9f7",
+   "ko": "「혼자서 싸우는 것보다는 다 함께 "
+  },
+  {
+   "id": "da0704:R00006",
+   "source_sha256": "ffefaa9fed5ac62ae7b447c24e284fcbd582d62b656b6563fed43d5febc3bf2c",
+   "ko": "싸우",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0704:T00056",
+   "source_sha256": "9d2634931a132c2b7afb81a186725fe3d614afa2d475ceb9d8e408ed933f55cf",
+   "ko": "공투하"
+  },
+  {
+   "id": "da0704:T00057",
+   "source_sha256": "92f6869d284c2fe8301a3ab18492e7f8ef7468a8600c44d447c5e72c7f6d4c87",
+   "ko": "는 편이 좋잖아…… 안 그래?」"
+  },
+  {
+   "id": "da0704:T00058",
+   "source_sha256": "0b136c3aeebccc51f0e6070e668b902190270c160061af25ef10820e00549d55",
+   "ko": "「네놈이 그런 말 하지 마라아아!」"
+  },
+  {
+   "id": "da0704:T00059",
+   "source_sha256": "f3a30eac6de57d476ca6fc0a2b46592f47c8146c99bbcffbd660d19e8b67952a",
+   "ko": "「~~~~~윽!?」"
+  },
+  {
+   "id": "da0704:T00060",
+   "source_sha256": "f63e338a9fae446f20ae3d105f2318d7c4d921eff8749a1d9931f4bd94dd5f65",
+   "ko": "「…………」"
+  },
+  {
+   "id": "da0704:T00061",
+   "source_sha256": "56b7dc8690e24b0c51cf7eea88af86b301a0056d03d8c2d23b871a6d34a0d07f",
+   "ko": "눈앞에서 무언가가 빛났다고 생각한 다음 순간, 목덜미에 차가운 것이\n닿았다.\n\n　로이거…… 아니, 차르…… 아니, 어느 쪽이 어느 쪽이지?"
+  },
+  {
+   "id": "da0704:T00062",
+   "source_sha256": "22104c9bd9dc9da254095f2963d6b00365d19d59ef2fdb7dc939a7b562383aa6",
+   "ko": "뭐 아무튼, 쿠자쿠가 소환한 소검의 칼날이 내 목에 대어져 있다."
+  },
+  {
+   "id": "da0704:T00063",
+   "source_sha256": "9eefaf0ca7d3673cdebd791bc283f2a2dcad9a786d0ddffb2344e5711b38138b",
+   "ko": "「……다이쥬지 쿠로」"
+  },
+  {
+   "id": "da0704:T00064",
+   "source_sha256": "718e3555f72b35ff5ca37762c1a0141ccf519a9f532da885710179b5398b525b",
+   "ko": "「아니, 괜찮아…… 아마도」\n\n　자세를 잡는 아즈랏드를 손으로 제지한다."
+  },
+  {
+   "id": "da0704:T00065",
+   "source_sha256": "567ca11f1eb2b8bb69b55b16aa5af191f16562c49d0bd880f6e3e983ff613bf7",
+   "ko": "나는 신중하게 쿠자쿠와 마주 보았다.\n\n　소검을 뽑아 든 자세로 나를 노려본다."
+  },
+  {
+   "id": "da0704:T00066",
+   "source_sha256": "9c6fc12aa3eb959a77a78325f86cce88e635ec071e8cd768883f18dcb1a57aa2",
+   "ko": "그 표정은 진심 어린 분노로 일그러져 있었다."
+  },
+  {
+   "id": "da0704:T00067",
+   "source_sha256": "75fca3121c5090ef2b9a5c349b099376b1cc959b7c1df686b13de440500543cd",
+   "ko": "어째서 이 녀석은 이토록 거센 분노를 나에게 향하는 것일까?"
+  },
+  {
+   "id": "da0704:T00068",
+   "source_sha256": "652b518a890b2aa8de84a03839bdd8c46e1d84e8dd1cd16b419a666c9c17ef13",
+   "ko": "「『혼자서 싸우는 것보다는~』이라고!?\n뻔뻔스럽게도! 어느 입으로 그런 소리를 지껄이느냐!」"
+  },
+  {
+   "id": "da0704:T00069",
+   "source_sha256": "a57509e407e882e3c825f0d7f401a65270ef441818bb92d69e7ba7bca67f141e",
+   "ko": "「어, 어이, 어이…… 진정……」"
+  },
+  {
+   "id": "da0704:T00070",
+   "source_sha256": "79fd9f9339ee730d9a476e40e65bc58055f33a3ce2b94962cf5f50285d545c99",
+   "ko": "소검이 한층 더 강하게 짓눌러 온다."
+  },
+  {
+   "id": "da0704:T00071",
+   "source_sha256": "4cdc3c1aa03a73b8163bf3febcb44eb088303a5c6a7609d065aa01b712a6c8ba",
+   "ko": "피부가 살짝 찢어지며 피가 목덜미를 타고 흘렀다."
+  },
+  {
+   "id": "da0704:T00072",
+   "source_sha256": "0e40f7521d254060472ab2ab2d09146bdb52f9bcb8cd3fe955de77054c8b285a",
+   "ko": "「……윽」"
+  },
+  {
+   "id": "da0704:T00073",
+   "source_sha256": "727786b373728e7c48a0197be0eccc6b49f3cebfa87d9dde60ccc1df1a08e7cb",
+   "ko": "「네놈에게는…… 네놈에게만은 그런 말을 듣고\n싶지 않다! 애초에! "
+  },
+  {
+   "id": "da0704:R00007",
+   "source_sha256": "b82ecd8ad5cdb22fed852be1e1136348794e60f43cd489a70d2c3a519514f87b",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0704:T00074",
+   "source_sha256": "b70bb4acc0484cf040de4c07c60f9db722283da2c4a672c39291de621e92c33f",
+   "ko": "내"
+  },
+  {
+   "id": "da0704:T00075",
+   "source_sha256": "4d877f6c5295119a515bba2abd0d18789f56a925231f1a593cfceb1219650105",
+   "ko": "가 싸우는 것은……\n"
+  },
+  {
+   "id": "da0704:R00008",
+   "source_sha256": "b82ecd8ad5cdb22fed852be1e1136348794e60f43cd489a70d2c3a519514f87b",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0704:T00076",
+   "source_sha256": "b70bb4acc0484cf040de4c07c60f9db722283da2c4a672c39291de621e92c33f",
+   "ko": "내"
+  },
+  {
+   "id": "da0704:T00077",
+   "source_sha256": "b22c235b52b5df031e0729bee42d12b59e9670165131c34fccf62af17b3c5aa9",
+   "ko": "가 혼자인 것은……윽!」"
+  },
+  {
+   "id": "da0704:T00078",
+   "source_sha256": "100d2e8a784f7a949856ede6c3aa77a926ee5e5fedb9fb896af58fcd9e7fb08e",
+   "ko": "「…………」\n\n　쿠자쿠는 점점 더 격앙한다."
+  },
+  {
+   "id": "da0704:T00079",
+   "source_sha256": "4bd5bde61e2d52784ee81f852b531d833add4fde07a19ac0fd93f925779357b6",
+   "ko": "하지만 어째서일까."
+  },
+  {
+   "id": "da0704:T00080",
+   "source_sha256": "149865f082c4e80e03610001e4a11741f8ae12fb0c8bab067d864005bed544b4",
+   "ko": "내 눈에는 쿠자쿠의 성난 모습이 당장이라도 울음을 터뜨릴 것 같은 아이\n처럼 보이기도 하는 것이다."
+  },
+  {
+   "id": "da0704:T00081",
+   "source_sha256": "49a245962b176bb73cceafbedc6ee86ab722bb349aced60e4a6ecf8add310984",
+   "ko": "「~~~~……윽」"
+  },
+  {
+   "id": "da0704:T00082",
+   "source_sha256": "aef16587241deefec3c728def2c7b0948eadfc0be062358b45b6b7325c8f9910",
+   "ko": "「――――――」"
+  },
+  {
+   "id": "da0704:T00083",
+   "source_sha256": "f63e338a9fae446f20ae3d105f2318d7c4d921eff8749a1d9931f4bd94dd5f65",
+   "ko": "「…………」"
+  },
+  {
+   "id": "da0704:T00084",
+   "source_sha256": "9c43856ec108022d88ca5d5a3ff63f9acdb35ae7a6c1aef84452853fe5ad20f8",
+   "ko": "일촉즉발의 공기."
+  },
+  {
+   "id": "da0704:T00085",
+   "source_sha256": "bf4b34a4bef43839d4936dcc4df41c06c3fafea142355a02ca77f19a45303240",
+   "ko": "하지만 오히려 나는 침착했다."
+  },
+  {
+   "id": "da0704:T00086",
+   "source_sha256": "7449aecaea00c26280921a747d0c3f54655fcffe7e5c6ffe16eab72b4f44892a",
+   "ko": "나는 쿠자쿠의 눈동자를 똑바로 응시하며――"
+  },
+  {
+   "id": "da0704:T00087",
+   "source_sha256": "8fb3d003883b5f3cc6eaa2716d04f13ff1cc7580f7f2967993113185f4892f9e",
+   "ko": "「테케리・리~!」"
+  },
+  {
+   "id": "da0704:T00088",
+   "source_sha256": "afaf47bf3d7b74d9746591633ced46a8d631f8ceb11405848545b46145cd1bc5",
+   "ko": "――시리어스 무드, 산산조각."
+  },
+  {
+   "id": "da0704:T00089",
+   "source_sha256": "4f3342f69b199a01d4430337ff30ca6d66ca3ab137b0891f749cdfe8b03a648b",
+   "ko": "「에에잇!\n　적당히 하지 못할까, 그대들!\n　볼썽사납구나!」"
+  },
+  {
+   "id": "da0704:T00090",
+   "source_sha256": "e5a3d1f39a19f2ec63d2f96317fdfad57927d32cde7bd697dcea03f61517d1a7",
+   "ko": "「……『알 아지프』」"
+  },
+  {
+   "id": "da0704:T00091",
+   "source_sha256": "d3a997fb3a02cd41944e933f8f4a97b2d89fa01d070b7901a82321ef923a7958",
+   "ko": "「이봐, 이봐…… 쉬고 있어야 하는 거 아니냐?」"
+  },
+  {
+   "id": "da0704:T00092",
+   "source_sha256": "a18cdc94656f29392ba439721e9b237e67080de18ea6aa946b23b50324d4bebf",
+   "ko": "「이런 상황에서 "
+  },
+  {
+   "id": "da0704:R00009",
+   "source_sha256": "c37722083338b384a7f1069d8aab34c8589fa1996b20a1e1e01b317d5e0b0b98",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0704:T00093",
+   "source_sha256": "baa68833b020ec06886f4d7553d069b9fc503eee14d47df2dda450cb4540c6bd",
+   "ko": "태평하"
+  },
+  {
+   "id": "da0704:T00094",
+   "source_sha256": "6b8ccacf390e17e5190173ffdba64bb02a3a03c8e47b2303289fd04b0c2e3bd5",
+   "ko": "게 누워 있을 수 있겠느냐」"
+  },
+  {
+   "id": "da0704:T00095",
+   "source_sha256": "9ccea9a34e6fe9cde62ad4dc588c91058c5698fec7e78bdae01a9a7d83213a95",
+   "ko": "「기체의 상태를 보러 와 봤더니……\n　뭐냐, 뭐냐, 그대들은. 시시한 일로\n　말다툼이나 하고. 한심하구나」"
+  },
+  {
+   "id": "da0704:T00096",
+   "source_sha256": "230ec636581e61bd895a6ce4326e37c81a153a7f78532b7d78afd13b161a02f5",
+   "ko": "「테케리・릿」"
+  },
+  {
+   "id": "da0704:T00097",
+   "source_sha256": "f63e338a9fae446f20ae3d105f2318d7c4d921eff8749a1d9931f4bd94dd5f65",
+   "ko": "「…………」"
+  },
+  {
+   "id": "da0704:T00098",
+   "source_sha256": "cc76e069fec8fa7bc86632afd787bafde5323aa8b0495a2c910cabf66d4d248c",
+   "ko": "인외 로리 소녀와 우주적 공포의 산물에게 설교를 듣는 다 큰 남자 세 명의 구도――형언하기 힘든 그림이다."
+  },
+  {
+   "id": "da0704:T00099",
+   "source_sha256": "9c2a3f631c8593d507a615a9484dc28d8d3dcd563c5cb5d1e167f31de6cce948",
+   "ko": "「……부릅」"
+  },
+  {
+   "id": "da0704:T00100",
+   "source_sha256": "7a41d7106e4bef505090f1335bdf88c4f09ca068de9cdd6d37907cf29b4d41e6",
+   "ko": "(움찔!)"
+  },
+  {
+   "id": "da0704:T00101",
+   "source_sha256": "b00a1e7bf221722cab2e202f237b6f95b7d7f91ad113975b6538322d76dda34c",
+   "ko": "「그대…… 검끝을 겨눌 상대가\n　틀리지 않았느냐?」"
+  },
+  {
+   "id": "da0704:T00102",
+   "source_sha256": "4b60d0a5f4ab8483640b6ac999f1cc986cdde5b7ba52303976d593349f8e2ed4",
+   "ko": "「~~~~윽」"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0704:R00001",
+   "kind": "ruby_decision",
+   "note": "Omitted standard kun'yomi reading われ for 我."
+  },
+  {
+   "id": "da0704:R00004",
+   "kind": "ruby_decision",
+   "note": "Omitted reading よみがえ for 黄泉帰."
+  },
+  {
+   "id": "da0704:T00032",
+   "kind": "glossary_candidate",
+   "note": "Used provisional glossary target 아즈랏드 for アズラッド."
+  },
+  {
+   "id": "da0704:T00036",
+   "kind": "glossary_candidate",
+   "note": "Used provisional glossary target 쿠자쿠 for 九朔."
+  },
+  {
+   "id": "da0704:R00005",
+   "kind": "ruby_decision",
+   "note": "Omitted standard reading いわ for 謂."
+  },
+  {
+   "id": "da0704:R00007",
+   "kind": "ruby_decision",
+   "note": "Omitted standard kun'yomi reading われ for 我."
+  },
+  {
+   "id": "da0704:R00008",
+   "kind": "ruby_decision",
+   "note": "Omitted standard kun'yomi reading われ for 我."
+  },
+  {
+   "id": "da0704:R00009",
+   "kind": "ruby_decision",
+   "note": "Omitted standard reading のんき for 暢気."
+  }
+ ]
+}

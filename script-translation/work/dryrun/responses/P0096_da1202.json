@@ -1,0 +1,402 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0096_da1202",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da1202:T00001",
+   "source_sha256": "81c31715f2c9e185975d6db102c8963c2c0c07c1c7d7928fc919abe959859c6b",
+   "ko": "「이대로 나아가면……」"
+  },
+  {
+   "id": "da1202:T00002",
+   "source_sha256": "8ee1b1beb93ff2385f4126f0f484acc0939b92c07affe19c5f5051864de04e22",
+   "ko": "「틀림없다.\n　『몽환심모』의 중추부다」"
+  },
+  {
+   "id": "da1202:T00003",
+   "source_sha256": "6677f3affedfe48d49e50f327dc5aad8599aa0578c6f8c4b95f0fbb3be18c57a",
+   "ko": "언젠가 보았던 광경 속을 데몬베인은 나아간다."
+  },
+  {
+   "id": "da1202:T00004",
+   "source_sha256": "061c25106dba83ca49a9587b590bbebc78ff1f8bdbc3c02437cad7a10e26a780",
+   "ko": "안쪽으로 나아갈수록 농도를 더해 가는 신기/독기."
+  },
+  {
+   "id": "da1202:T00005",
+   "source_sha256": "b71c0bd6afc70974bc7f91586575e37e684d6315a9dd728f0d988c10889ce297",
+   "ko": "그때와 똑같다.\n\n　마지막 무대는 아마도 저 중추부."
+  },
+  {
+   "id": "da1202:T00006",
+   "source_sha256": "d1cf1c2fb8ebf206dc056aa3a93535af27ddf2b5f58b7836d11ffd10e3b6a2f6",
+   "ko": "신의 심장이 자리 잡은 대공간."
+  },
+  {
+   "id": "da1202:T00007",
+   "source_sha256": "49df4e103e2cb95ca92aa44578d1a3f0c1caa608c102f862bbda0b9e2bbfb7b1",
+   "ko": "그토록 최종 결전에 걸맞은 장소도 없으리라."
+  },
+  {
+   "id": "da1202:T00008",
+   "source_sha256": "f15357e34341cacb31932211a3703e5abc019bddf8edd4b39bca7f7029809d04",
+   "ko": "「윽…… 크윽」"
+  },
+  {
+   "id": "da1202:T00009",
+   "source_sha256": "ec73066744838fa2aac35df69db94d4b861d87521ed7760224abcce068b1351b",
+   "ko": "「알!」"
+  },
+  {
+   "id": "da1202:T00010",
+   "source_sha256": "759eac3210c9ea4f7f3b3548e8f126b116c891f58f71cb7b2a1d56945a476188",
+   "ko": "「괜찮……다.\n　조금 괴로워졌을 뿐이다」"
+  },
+  {
+   "id": "da1202:T00011",
+   "source_sha256": "6e34d81e4d7dcefa790d0ce30a16ce20983accdd36092a4dfeae6c5cde3a1777",
+   "ko": "「…………」\n\n　비록 응급처치로 진행은 억제되고 있다지만, 어나더 블러드의 술식은 확실하게 알을 좀먹고 있다.\n\n　……서둘러야만 한다."
+  },
+  {
+   "id": "da1202:T00012",
+   "source_sha256": "acae08d895a3e2cef676eb36fed0201c3db452c4cf90db6ac5eae7639731af74",
+   "ko": "「조금 속도를 내겠다, 괜찮겠지」"
+  },
+  {
+   "id": "da1202:T00013",
+   "source_sha256": "9b1d7ab0ea88ca84c536b4dd33abf1e2e86339829b9f4078848313e3709559e1",
+   "ko": "「그래…… 이런 시시한 "
+  },
+  {
+   "id": "da1202:R00001",
+   "source_sha256": "ca886c79cb7dae03c129fb313b0d552a965cbcb4b85a669b27e1817234b69b5f",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1202:T00014",
+   "source_sha256": "c560201b331c54435b445baebe03b8922d6ef6a80065411ed3f379eb8bef9848",
+   "ko": "사건"
+  },
+  {
+   "id": "da1202:T00015",
+   "source_sha256": "fb4d46c7905c3b76ff622c78eb02ab2dea9badf2a974f04f4998c73141fa2b1b",
+   "ko": "은 냉큼 치워 버리자고」"
+  },
+  {
+   "id": "da1202:T00016",
+   "source_sha256": "90e2cbd53b507f78179dd1b6ee4b1afeb7716caa496a97a72fbc8629a422eb01",
+   "ko": "중추부까지 얼마 남지 않은 곳에서 이변은 일어났다."
+  },
+  {
+   "id": "da1202:T00017",
+   "source_sha256": "9602ff2bf942c584486714df6911b3e50e90e980ef5dd4b5acd253e212458b1f",
+   "ko": "데몬베인의 전방――즉 목적지인 심장의 방에서 넘쳐\n흐르는 빛의 홍수."
+  },
+  {
+   "id": "da1202:T00018",
+   "source_sha256": "744b90b96e0bc8ce8efc4bd5ac2beb8f94bf35f8c790da94e4856a979d98ff75",
+   "ko": "「이건……!」"
+  },
+  {
+   "id": "da1202:T00019",
+   "source_sha256": "17890b707f8e7574876e5e8af7d44ce6c20e2f28842c5d9335e0257cca3b39fe",
+   "ko": "빛은 단숨에 부풀어 올라 데몬베인을 집어삼켰다."
+  },
+  {
+   "id": "da1202:T00020",
+   "source_sha256": "a3e5155fa66384ce07f9591b835c3cd9eed51e510cb95931f87210ee4e06a15e",
+   "ko": "무언가 터무니없이 강대한 에너지의 폭발.\n\n　하지만 그것이 가져오는 것은 파괴가 아니다."
+  },
+  {
+   "id": "da1202:T00021",
+   "source_sha256": "1667ef35a26ace01c59980fc878fbedd13686f09044c19f89018ae9bf83833ce",
+   "ko": "오히려 따뜻하고 부드러운, 상냥한 빛."
+  },
+  {
+   "id": "da1202:T00022",
+   "source_sha256": "1a64bb6f455b78fe6623e3f8ebf2488f9376dc6db24391ddcf37b873662608a5",
+   "ko": "「무슨 일이 일어나고 있는 거야……!?」"
+  },
+  {
+   "id": "da1202:T00023",
+   "source_sha256": "282e9cf83daf3b3d91f55b39e3075387e36620d591d68d53a29506dab8e07a2c",
+   "ko": "「이 몸도 모른다…… 간다!」"
+  },
+  {
+   "id": "da1202:T00024",
+   "source_sha256": "9f763baae47454adfa149ad6a002c7d0428f38d185f9baa02eee5165e01cf183",
+   "ko": "「알고 있어!」"
+  },
+  {
+   "id": "da1202:T00025",
+   "source_sha256": "0eb2dbb227f53a8372b302331b3e597d44c2ddf4a496fadd45a6ad7ea5050090",
+   "ko": "폭발의 정체를 밝혀내기 위해 하얀 어둠 속을 일직선으로 달린다."
+  },
+  {
+   "id": "da1202:T00026",
+   "source_sha256": "b185ab0a499f6358a45a994a8992f2e6dc5129f8a6b25b5369e7e2f8ff492b58",
+   "ko": "그리고 폭심지――『몽환심모』 중추부에서 우리가 본 것은……"
+  },
+  {
+   "id": "da1202:T00027",
+   "source_sha256": "fc662150c9d06491fb946e90bc26730616c96e38455ef1d4d3688b791c080127",
+   "ko": "「나는 노래한다. 나는 구가한다. 생명의 노래를――」"
+  },
+  {
+   "id": "da1202:T00028",
+   "source_sha256": "358e314442f3bab16549c18b226fb4f61d104a3fb41ee63e820e0900fb885006",
+   "ko": "「그것은 신님도 지울 수 없는 노래라고\n　　　……그 두 사람이 가르쳐 주었으니까」"
+  },
+  {
+   "id": "da1202:T00029",
+   "source_sha256": "cc6582a2873b8bd36c94eb22a8f2f259073b402d52f6d8550b5f8c241ba469d3",
+   "ko": "「나는 믿는다. 믿을 수 있다.\n　　세계는 결코 절망으로 가득 차 있지 않다고」"
+  },
+  {
+   "id": "da1202:T00030",
+   "source_sha256": "0e5d00c8bd451e80e9f3d4bc235e779f4962b5c72c5814e2e5ada7d041506211",
+   "ko": "「그러니까 끝내자.\n　우리의 원망은 전부 여기에 버리고 가는 거야」"
+  },
+  {
+   "id": "da1202:T00031",
+   "source_sha256": "b6e55c2ba4bc026254a3c69912a29c1136574a18190f6f2fb6edf28e1035cbd1",
+   "ko": "「가엾은 『짐승』들의 악몽은,\n　　　　이제 끝났으니까――」"
+  },
+  {
+   "id": "da1202:T00032",
+   "source_sha256": "b78f4a93279d664d7dafa57205f225075dc988acf586825e375f16fc1889468e",
+   "ko": "빛이 모든 것을 녹이고 집어삼켜 간다."
+  },
+  {
+   "id": "da1202:T00033",
+   "source_sha256": "691211fa4a8b698f5446e8a251a1c61c1cf699ee0549d9aba10389828d7cb33d",
+   "ko": "리베르 레기스가, 네임리스 원이 빛 속으로 부서져 간다.\n\n　하지만 마스터 테리온과 에셀드레이다의 마음에 공포는 없었다."
+  },
+  {
+   "id": "da1202:T00034",
+   "source_sha256": "1000cca961bd5f2abe40739279ae2eeae14dbd778986d6615fb5e235273e93d4",
+   "ko": "이 광경을――이 빛을, 두 사람은 분명히 어딘가에서 본 적이\n있었다.\n\n　――머나먼 시간의,"
+  },
+  {
+   "id": "da1202:T00035",
+   "source_sha256": "0c1c41eadc0fd8d130d6d27b0fda7fa57006aef04469fac071183346aabd6ec5",
+   "ko": " 머나먼 어딘가에서.\n\n　이것은 "
+  },
+  {
+   "id": "da1202:R00002",
+   "source_sha256": "97a2981c620a7304187f846ba387c1f82f4ff6c02debcff127cdae40b75d14f9",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1202:T00036",
+   "source_sha256": "0e90620ee71d30c8f196f268340e692903eb600d8476dcc5b3f4016379624b64",
+   "ko": "정화"
+  },
+  {
+   "id": "da1202:T00037",
+   "source_sha256": "8d64b66b9a2fc0576781eac931b24297e6c9abe1af6800e77feb50bce0a49340",
+   "ko": "의 빛."
+  },
+  {
+   "id": "da1202:T00038",
+   "source_sha256": "d4e8c4c6cb30564f9c35b1fc0318f7638124f93bce8b4ad7cbe4bf9a85447075",
+   "ko": "우주진 속에서 탄생한 별들이 올리는 첫울음.\n\n　그리고――"
+  },
+  {
+   "id": "da1202:T00039",
+   "source_sha256": "91f2e107f27c63b033d71c0ac4e30e41fd0d33a648c6bc4a566b2c7804f1e09a",
+   "ko": "기도의 하늘로부터 내려앉은, 내일을 향한 날개."
+  },
+  {
+   "id": "da1202:T00040",
+   "source_sha256": "dfeb1607e8da5209967db1f4336db5beed438244557f4ff370af16b231163f0d",
+   "ko": "「아아…… 그런가」"
+  },
+  {
+   "id": "da1202:T00041",
+   "source_sha256": "fed157510b626ee19a6e087bcca0eac8fbfa75469e2be80cc6f490110abcd075",
+   "ko": "지금, 소년은 모든 것을 깨달았다."
+  },
+  {
+   "id": "da1202:T00042",
+   "source_sha256": "05e2bda411f6203a30c340b1f481de913e97a98b99b40ad47608436caa385014",
+   "ko": "빛 속에서 물끄러미 자신의 몸을 바라본다.\n\n　무너져 가는 몸."
+  },
+  {
+   "id": "da1202:T00043",
+   "source_sha256": "30b0a3f27106e11c2a59ef7d3330642ae77c62d153865cad4161ce00990a97cd",
+   "ko": "조금씩 피안개가 되어 빛 속으로 녹아든다.\n\n　하지만 공포는 없다."
+  },
+  {
+   "id": "da1202:T00044",
+   "source_sha256": "ee7f08dccd8a0aa96e8e9e9866ca039542795e47bcb4770950139c3b4528b317",
+   "ko": "멸망하는 것이 아니다."
+  },
+  {
+   "id": "da1202:T00045",
+   "source_sha256": "6ac6e32f851fa8a126ac51bcc4335f9d16ebac739212d2f80b4dce557d94d53c",
+   "ko": "돌아갈 뿐이니까."
+  },
+  {
+   "id": "da1202:T00046",
+   "source_sha256": "35ac3bb9fa8e4ae23c9597efee172188463eea2362148a2a54756e2fd2b2b733",
+   "ko": "「우리는――」"
+  },
+  {
+   "id": "da1202:T00047",
+   "source_sha256": "14c718d691ef6e9f000777ddd6d4022975d18343e1e96408718b7130ed32dc23",
+   "ko": "「……마스터」"
+  },
+  {
+   "id": "da1202:T00048",
+   "source_sha256": "b0c8e31c374f4b5af3e07ab62a9dc07bfd177057e634a1fc266c61b724126692",
+   "ko": "검은 머리의 소녀가 살포시 몸을 맡겨 왔다."
+  },
+  {
+   "id": "da1202:T00049",
+   "source_sha256": "d1465106a2509bc02927332a676f0457ac3e8d12dbe265b52b6c7f9a8e15c388",
+   "ko": "소녀의 몸 또한 조금씩 피안개가 되어 무너져 간다.\n\n　소년은 강하게, 상냥하게 소녀를 껴안는다."
+  },
+  {
+   "id": "da1202:T00050",
+   "source_sha256": "5b7eb8c6403641ce2f14fc928f535d181c332e1adf671d5add4aece0d5aab0d2",
+   "ko": "그 온기를, 부드러움을 온몸으로 느낀다."
+  },
+  {
+   "id": "da1202:T00051",
+   "source_sha256": "c98381f052582a5de233a5982e3fda04ce9b65b15240c24c15a571b1dc260ef6",
+   "ko": "그렇다."
+  },
+  {
+   "id": "da1202:T00052",
+   "source_sha256": "2af2a370e9f5cda750a20a4a9652c91bebf09d162066833ac3a99d774ec73946",
+   "ko": "우리는――"
+  },
+  {
+   "id": "da1202:T00053",
+   "source_sha256": "97ffc1a99f170bb56cb334b3c129a48b8e4945d9024701fb76d8ec3f258f88ab",
+   "ko": "우리는 이제, 추운 일 따위는 없는 거야."
+  },
+  {
+   "id": "da1202:T00054",
+   "source_sha256": "9e5a4eb349d577cb12b00145a27241300fd576ae3f62dc570a78188d0880f552",
+   "ko": "빛에 녹아 흩어져 간다."
+  },
+  {
+   "id": "da1202:T00055",
+   "source_sha256": "8a27f877d053dfa540e7e2c09faaa4d0ed5661cbc40836202ee28ae037b82d85",
+   "ko": "꿈은 그저 꿈으로 돌아갈 뿐."
+  },
+  {
+   "id": "da1202:T00056",
+   "source_sha256": "8a2185f6c7f333f6825ee3ee8eac7c9f6060b03c9149c9225014fe32f50de0d8",
+   "ko": "「어――――?」\n\n　다다른 중추부, 심장의 방."
+  },
+  {
+   "id": "da1202:T00057",
+   "source_sha256": "29824f3051be1f3c74c8ac8eb43ee6bde4a2f549ed08b672fb459daa64be9a2b",
+   "ko": "하얀 빛의 폭심지."
+  },
+  {
+   "id": "da1202:T00058",
+   "source_sha256": "d17075d5943b9a223e5b4837c2c0b94855960923961a93628dce833ef412a772",
+   "ko": "모든 것을 하얗게 물들이는 섬광 속에서, 하지만 우리는 분명히 보았다.\n\n　빛에 녹아드는 리베르 레기스의 모습."
+  },
+  {
+   "id": "da1202:T00059",
+   "source_sha256": "e25bef5791cf9a7234ab5616b504e371db091e8d20decd7b9fa9f75cfba08846",
+   "ko": "그리고――그것과 마주 선, 크고 커다란 귀계신.\n\n　――네임리스 원."
+  },
+  {
+   "id": "da1202:T00060",
+   "source_sha256": "051a0113d2ade9f4bff930ace39a580c2ebdb4185fdb358e13386c8ef6907c27",
+   "ko": "「설마……」"
+  },
+  {
+   "id": "da1202:T00061",
+   "source_sha256": "6fad70aa7d600ffdf6e6cbb905d05986e48ec077d4e6e5959d5fe90533de4f39",
+   "ko": "「아……」\n\n　그때 나는 소녀의 모습을 본――"
+  },
+  {
+   "id": "da1202:T00062",
+   "source_sha256": "00aeb6242017bff62e916fce6719884d717a72a9678c76724e4e4984c9e388a3",
+   "ko": "것 같은 기분이 들었다."
+  },
+  {
+   "id": "da1202:T00063",
+   "source_sha256": "37fb3da62551d7a8563bc2291823445021546207732a55a371802448799786e2",
+   "ko": "부서져 가는 네임리스 원."
+  },
+  {
+   "id": "da1202:T00064",
+   "source_sha256": "d20d8c40e4513296fab8f2e0b325bec05267d48946e9373cf46d2f284fc2ae31",
+   "ko": "그 고스란히 드러난 콕핏 안――"
+  },
+  {
+   "id": "da1202:T00065",
+   "source_sha256": "a8f9b087e83c18bcbf9a4aa5f00bd8e5f87a5b2de4ade413929b9f7c17292077",
+   "ko": "이쪽을 향해 미소 짓는 소녀의 모습을."
+  },
+  {
+   "id": "da1202:T00066",
+   "source_sha256": "421c5e77050e0f1a63d8b4da5536607f43874d485a6263195823787e0e2674fe",
+   "ko": "「……엔네아?」"
+  },
+  {
+   "id": "da1202:T00067",
+   "source_sha256": "bdf4b80e1ffe8f5d7375fac141f866e31a68992d6f2b325be4238bc2e78c41ff",
+   "ko": "순간, "
+  },
+  {
+   "id": "da1202:R00003",
+   "source_sha256": "3ce9cc8009a9d6a35018c98292c910da4c8dcb757d354e56949597ef6e9eeb6c",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1202:T00068",
+   "source_sha256": "7413e921d3bb09245296322aaa6399f7c45cedf9d093c0203458936aead58807",
+   "ko": "방대"
+  },
+  {
+   "id": "da1202:T00069",
+   "source_sha256": "d2a911b8509204f8bd40fa2148ce0b017ef542858d75ef42a7fb393cdf50c656",
+   "ko": "한 의식이 내 뇌리로 흘러들어온다."
+  },
+  {
+   "id": "da1202:T00070",
+   "source_sha256": "7615fab120068e0d2d6a8b4b4198d410a5eb43f6d54c5f05aa1058f65982689a",
+   "ko": "「쿠로……!」"
+  },
+  {
+   "id": "da1202:T00071",
+   "source_sha256": "0be14e0ffa47b11ab7563fdf8b60e79224a767b9c1a7e723bed52c10e4fea021",
+   "ko": "그리고 데몬베인 또한 하얀 빛에 녹아들어――"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da1202:T00033",
+   "kind": "glossary_candidate",
+   "note": "미확정 용어집 항목 '리베르 레기스(リベル・レギス)' 및 '에셀드레이다(エセルドレーダ)' 사용."
+  },
+  {
+   "id": "da1202:R00001",
+   "kind": "ruby_decision",
+   "note": "'事件(사건)'의 속어 독음 루비('ヤマ')이나 한국어에서 사건으로 직역되어 중복되므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1202:R00002",
+   "kind": "ruby_decision",
+   "note": "'禊(정화)'의 단순 훈독 루비('みそぎ')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1202:R00003",
+   "kind": "ruby_decision",
+   "note": "'厖大(방대)'의 단순 한자 독음 루비('ぼうだい')이므로 omit_redundant 처리."
+  }
+ ]
+}

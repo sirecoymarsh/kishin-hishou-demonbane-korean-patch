@@ -1,0 +1,52 @@
+{
+ "label": "zipB",
+ "game": "Y:\\AI\\claude-work\\khd-release-1118\\zipcheck\\B",
+ "steps": [
+  "prompt",
+  "quit2"
+ ],
+ "checks": {
+  "first_run_settings_closed": true,
+  "prompt_text": null,
+  "box_in_fight": {
+   "caption": "기신비상 데몬베인",
+   "texts": [
+    "게임을 끝낼까요?\n\n(불러오는 중이면 다 불러온 뒤에 끝납니다)"
+   ],
+   "buttons": [
+    "예(&Y)",
+    "아니요(&N)"
+   ]
+  },
+  "alive_after_fight_no": true,
+  "box_in_story": {
+   "caption": "Double Wings Demonbane",
+   "texts": [
+    "게임을 끝낼까요?"
+   ],
+   "buttons": [
+    "",
+    ""
+   ]
+  },
+  "quit_exited": true
+ },
+ "out": "P:\\AI\\khd-hero-ai\\v30\\runs\\run_1119_015947",
+ "pid": 89244,
+ "exit_code": "0x0",
+ "new_dumps": [],
+ "moved_windows": [
+  [
+   133.39,
+   "#32770",
+   1920,
+   1004
+  ]
+ ],
+ "window_pos_restored": true,
+ "nvlddmkm_before_after": [
+  0,
+  0
+ ],
+ "seconds": 158
+}

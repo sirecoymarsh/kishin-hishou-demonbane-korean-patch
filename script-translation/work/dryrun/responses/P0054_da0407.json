@@ -1,0 +1,446 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0054_da0407",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0407:T00001",
+   "source_sha256": "1f10a7d7de7022e0d3128666b0f367e45cb73abf267c73d1f5f43d76fdb0d3b4",
+   "ko": "크라켄을 격파한 쿠자쿠 또한 로드 비야키의 현현을\n확인하고 있었다."
+  },
+  {
+   "id": "da0407:T00002",
+   "source_sha256": "a179fb89db28db8b2eb438941b266930265ffca3a0f22ffa3986a8cb7d1f978f",
+   "ko": "「새로운 적인가!　바라던 바다!」"
+  },
+  {
+   "id": "da0407:T00003",
+   "source_sha256": "fd6676a1a288267774bcf9cf06b515bcfc6376079dc874c432d53532e084f695",
+   "ko": "묵직한 구동음을 울리며 다리 실드가 등 뒤로 돌아갔다."
+  },
+  {
+   "id": "da0407:T00004",
+   "source_sha256": "ff7af1665c42f2f549c686330247867716faa4c5420279e1a0857e11317a5294",
+   "ko": "다리 실드 표면에 떠오르는 마술 문양."
+  },
+  {
+   "id": "da0407:T00005",
+   "source_sha256": "58408b75f61ebbfc4920d72f65a29f38c42cefa49204b44cd80f73b81fb54072",
+   "ko": "빛을 발하는 문양은 공간에 투영되고, 빛은 반짝임을 더한다."
+  },
+  {
+   "id": "da0407:T00006",
+   "source_sha256": "fd951ee222cd2334d5267fdeedd4823a45acbf9881fc784ecac296f0cdd6f02f",
+   "ko": "빛은 다리 실드에서 방사선 모양으로 전개되었다."
+  },
+  {
+   "id": "da0407:T00007",
+   "source_sha256": "7b8b7f7e711fcb43cd2e91adec13d0c54c1e96b911d5b7c632a26c56d18cfefb",
+   "ko": "이윽고 마력의 빛은 "
+  },
+  {
+   "id": "da0407:R00001",
+   "source_sha256": "0a6913a2dc8ae0332b8f52c2af2b8ba393de9f3eadf414b31c14b16eeb20a45e",
+   "ko": "머티리얼라이즈",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0407:T00008",
+   "source_sha256": "6c4ff6b90b58f8384c2f1659ef50a8abd39c4a477a339d3c66198d3a9ee54b27",
+   "ko": "현현화"
+  },
+  {
+   "id": "da0407:T00009",
+   "source_sha256": "7237616862cbf9cd27360768e29a1f9f2a9b38367e302851c4a2cd18ae5a20e5",
+   "ko": "하여 크게 펼쳐지는 빛의 "
+  },
+  {
+   "id": "da0407:R00002",
+   "source_sha256": "6e87a73287e1b37a579eaa6768e676bdf1f4128c6ac813cbf1527cb0b30681b7",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0407:T00010",
+   "source_sha256": "ad282c13860b1e1d4dc25527a04fb35ff592b6732f9308c71e0ce9fe259a7b5e",
+   "ko": "날개"
+  },
+  {
+   "id": "da0407:T00011",
+   "source_sha256": "5b91582919945e78220f1a15b5eccb9878043db6011c06c0033bdef5e6bf7185",
+   "ko": "가 된다.\n\n　일찍이 데몬베인이 무장했던 것과 형상은 다르지만, 그것은\n틀림없는 비행 유닛, 샨타크다."
+  },
+  {
+   "id": "da0407:T00012",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0407:R00003",
+   "source_sha256": "b55eb06d25e14a36c179b5ab27d5f570f0f32d7ed970dffcdd8997ec022d0f9a",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0407:T00013",
+   "source_sha256": "5c55a67935af8f4508ba05d6d81c9eb240a2ea0ba886d8428b985e305470da3f",
+   "ko": "전부"
+  },
+  {
+   "id": "da0407:T00014",
+   "source_sha256": "0ed5da050e1d6b02dd8bd9743ed33e796bee2d0264313c587a15618670d56662",
+   "ko": "다!　저놈이 만들어 내는 사악의\n　모든 것을, 이 내가 벤다!」"
+  },
+  {
+   "id": "da0407:T00015",
+   "source_sha256": "ffd6f0d5db755e6173d1fa33fca650b5a150ac59d31ea564846578280618b5c9",
+   "ko": "로드 비야키를 쓰러뜨리기 위해 비상하려던 그때였다."
+  },
+  {
+   "id": "da0407:T00016",
+   "source_sha256": "18aa2c0482911e90bfbb5eebd5355db68bdb90ba278f37e71a46297096dac966",
+   "ko": "쿠자쿠의 육감이 무언가를 호소해 왔다."
+  },
+  {
+   "id": "da0407:T00017",
+   "source_sha256": "2b32f287269dbaf68b42da37e38c1690e9180981c7016a80fbb6c1ce3699ddd7",
+   "ko": "「――!?」"
+  },
+  {
+   "id": "da0407:T00018",
+   "source_sha256": "050fe55382a91c8e5ea0f84ff46004ac6c256b3fc819d5782fc955ce15f0a5ed",
+   "ko": "의식을 곤두세우면 알 수 있다."
+  },
+  {
+   "id": "da0407:T00019",
+   "source_sha256": "e4e2f0c04411d7034e23800ca5911ab6a35a61898125054e4e80b4293bb5c863",
+   "ko": "――비정상적인 "
+  },
+  {
+   "id": "da0407:R00004",
+   "source_sha256": "09fa673682a266196a91d31d5ed99736a1c7d85c250226fb9c9ec5b7006a27ba",
+   "ko": "아자토스",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0407:T00020",
+   "source_sha256": "5e7930e1744f03b9e3bc03391b9568c30347421f4c5cb7f73d17119a9e29ab74",
+   "ko": "자도자"
+  },
+  {
+   "id": "da0407:T00021",
+   "source_sha256": "eab26cb350d0dbea74585937fd37316b27dd4a807f1e0db52741a16d486cd6b3",
+   "ko": "의 진동.\n\n　그것은 단순히 세계의 일그러짐에서만 생겨나는 것이 아니다."
+  },
+  {
+   "id": "da0407:T00022",
+   "source_sha256": "7b21151cc9f66bac3c822c8b5e43685601de6657bf9af94311eb15bfcebc6940",
+   "ko": "강대한 무언가가 이 자리에 다가오고 있었다.\n\n　그 불길한 징조에 주박되어, 데몬베인 투 소드는 못 박힌 것처럼 그 자리에서 움직일 수 없었다."
+  },
+  {
+   "id": "da0407:T00023",
+   "source_sha256": "b2567a7b32fbb3a604a41ec4ea939faebb24d153de19341b88655bd1829b677e",
+   "ko": "「……흣!」"
+  },
+  {
+   "id": "da0407:T00024",
+   "source_sha256": "8eece5dc3d5907fe704405d71f24546667359e2739c714ea5af1b2a4f8a0fcd7",
+   "ko": "「내 것과 다른 기체라고!?」"
+  },
+  {
+   "id": "da0407:T00025",
+   "source_sha256": "0ac2d6dca32c6ba72cbbd36d0ee6f26a4e179714da7cc19624974e830f702232",
+   "ko": "그것은 같은 『세라에노 단장』에서 소환되는 "
+  },
+  {
+   "id": "da0407:R00005",
+   "source_sha256": "73ac229cabfac277c315b4b0d1eb76959473af07f58c11d00bb82a06b250745a",
+   "ko": "데우스 마키나",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0407:T00026",
+   "source_sha256": "762524a979d84688362b8dc00d54c75a1be10d7917ed188fd55985924c885e49",
+   "ko": "귀계신"
+  },
+  {
+   "id": "da0407:T00027",
+   "source_sha256": "763fc6bb495cfe0c2c11d3b52cbbdba9d92e48ac5be1ef96b67d16b41f57f724",
+   "ko": "이면서도,\n로드 비야키와는 다른 기체였다.\n\n　그것은 여윈 맹금류 같기도 했고, 강철로 짜인 해골 같기도 했다.\n\n　그리고 양손에 쥐어진 한 자루의 큰 낫."
+  },
+  {
+   "id": "da0407:T00028",
+   "source_sha256": "e33c4d8576bf7e35bfa5e2edcfa514b2f1e0dc9d95cb766d5455a1d6f879cff8",
+   "ko": "흉풍을 두른 로드 비야키보다도 한층 더 그 기체는 불길하다.\n\n　――비유하자면 사신의 낫을 든 흉조."
+  },
+  {
+   "id": "da0407:T00029",
+   "source_sha256": "870f6b8b2a024da7c5ccf473ca492046c426e279f506ff8c9736cef291e3822f",
+   "ko": "「『기신소환』 또한 마술――」"
+  },
+  {
+   "id": "da0407:T00030",
+   "source_sha256": "564634f408f7c85668489fe918194a85e0fa3cc97752524dd8605214542622cf",
+   "ko": "「같은 마도서에서 소환된 "
+  },
+  {
+   "id": "da0407:R00006",
+   "source_sha256": "73ac229cabfac277c315b4b0d1eb76959473af07f58c11d00bb82a06b250745a",
+   "ko": "데우스 마키나",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0407:T00031",
+   "source_sha256": "762524a979d84688362b8dc00d54c75a1be10d7917ed188fd55985924c885e49",
+   "ko": "귀계신"
+  },
+  {
+   "id": "da0407:T00032",
+   "source_sha256": "d1f4802f35b94a567da62780a679a413b5fc8769f89a82b638e9ef3802adf528",
+   "ko": "이라도, 그것을 다루는 자의 "
+  },
+  {
+   "id": "da0407:R00007",
+   "source_sha256": "572a6a52e9a6e8ae7e47849da19b36d05c97bf2b072078e01a9add4358604cd3",
+   "ko": "타입",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0407:T00033",
+   "source_sha256": "86de52d178203799951d818b1d3af85f13288de66bf2b0373cc21f53b1e42ff4",
+   "ko": "속성"
+  },
+  {
+   "id": "da0407:T00034",
+   "source_sha256": "c4a40ea8fe35627476f7f8cb9e1fc7f8898f428c6d1ff18b0bc5479d5db39c5f",
+   "ko": ", "
+  },
+  {
+   "id": "da0407:R00008",
+   "source_sha256": "01ad19be23a5945b87dfb8544f7a698921deeb4057f333e2938079f2dc03e5fe",
+   "ko": "레벨",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0407:T00035",
+   "source_sha256": "0f87580e1d4607435192c0c5695c2295bebf566f12e3bf8ae6d24928df4c21b0",
+   "ko": "위계"
+  },
+  {
+   "id": "da0407:T00036",
+   "source_sha256": "c4a40ea8fe35627476f7f8cb9e1fc7f8898f428c6d1ff18b0bc5479d5db39c5f",
+   "ko": ", "
+  },
+  {
+   "id": "da0407:R00009",
+   "source_sha256": "361700ddfafe8b17ce97a11d6cb3a7b906c46f3d6eee49c839f1274b25bba4f3",
+   "ko": "어빌리티",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0407:T00037",
+   "source_sha256": "5c5374dd958bcb79c1fe83a1b7a6c25df36603eec36f15f180a916af2022cee1",
+   "ko": "능력"
+  },
+  {
+   "id": "da0407:T00038",
+   "source_sha256": "6bebe844342a1e70dacce442424ba2de8161a4ff785228fa13a98882c47734ff",
+   "ko": "에 따라 변화가 생기는\n　법이다」"
+  },
+  {
+   "id": "da0407:T00039",
+   "source_sha256": "71b93ccec1a1f4e515d03b67a27790816a16cd7989d81dce3bc76dd1509fc26e",
+   "ko": "「요컨대 말이지. 네 "
+  },
+  {
+   "id": "da0407:R00010",
+   "source_sha256": "0ea3b5bd06b3f3075fde2f2386f6bfe535723e92d1c164eebf568174dfd180b7",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0407:T00040",
+   "source_sha256": "6a95630f0693e9ea7ed71823982fef3e9f3ac65b3381d5f48669fd209b50bb58",
+   "ko": "어중간"
+  },
+  {
+   "id": "da0407:T00041",
+   "source_sha256": "30decdf4274513937a5295af56ea082925e2c003e616f76156e9dec43f9164c6",
+   "ko": "한 "
+  },
+  {
+   "id": "da0407:R00011",
+   "source_sha256": "73ac229cabfac277c315b4b0d1eb76959473af07f58c11d00bb82a06b250745a",
+   "ko": "데우스 마키나",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0407:T00042",
+   "source_sha256": "762524a979d84688362b8dc00d54c75a1be10d7917ed188fd55985924c885e49",
+   "ko": "귀계신"
+  },
+  {
+   "id": "da0407:T00043",
+   "source_sha256": "1254503fa09222eb68a8b371ee909f7d477af4eece48e4fa0414ee48e0a58296",
+   "ko": "하고는 "
+  },
+  {
+   "id": "da0407:R00012",
+   "source_sha256": "f3c0f61dd1c0c15d529ffe93fd40ae561edf28fc0dd51254fdbb9eab7641553c",
+   "ko": "레벨",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0407:T00044",
+   "source_sha256": "06f2f8e0a8f4cb1dbf98595dd1e93e5a6709030358e5206c1b0d0e05df147b1c",
+   "ko": "격"
+  },
+  {
+   "id": "da0407:T00045",
+   "source_sha256": "833facbe048617512b86ea20ed3319688c6c1967dc4a4cb96afaedb60bccf3da",
+   "ko": "이 다르다는 거지, "
+  },
+  {
+   "id": "da0407:R00013",
+   "source_sha256": "f3c0f61dd1c0c15d529ffe93fd40ae561edf28fc0dd51254fdbb9eab7641553c",
+   "ko": "레벨",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0407:T00046",
+   "source_sha256": "06f2f8e0a8f4cb1dbf98595dd1e93e5a6709030358e5206c1b0d0e05df147b1c",
+   "ko": "격"
+  },
+  {
+   "id": "da0407:T00047",
+   "source_sha256": "37a9f8c5d11afec5561270db0dabddc02ebb2a50a866810cefc20a7f4b7ca01b",
+   "ko": "이.\n응응」"
+  },
+  {
+   "id": "da0407:T00048",
+   "source_sha256": "7950a4e6568f6bd774aa85377e30d9ef4fdbcdc309dac7b0e6630173212b75f8",
+   "ko": "「하…… 하하하하!\n　짖어 댔구나 벌레만도 못한 놈!\n　ＯＫＯＫ, 알았어.\n　확인해 보자고……」"
+  },
+  {
+   "id": "da0407:T00049",
+   "source_sha256": "45b33723bcc20451700db5e32a73b4f18450efeb47e247f47e9b27fbc036a0e6",
+   "ko": "「어느 쪽이 진짜 "
+  },
+  {
+   "id": "da0407:R00014",
+   "source_sha256": "73ac229cabfac277c315b4b0d1eb76959473af07f58c11d00bb82a06b250745a",
+   "ko": "데우스 마키나",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0407:T00050",
+   "source_sha256": "762524a979d84688362b8dc00d54c75a1be10d7917ed188fd55985924c885e49",
+   "ko": "귀계신"
+  },
+  {
+   "id": "da0407:T00051",
+   "source_sha256": "eb9f32715494122e9309a6a936494c26d4a8de20bb1c55414917b844440a8024",
+   "ko": "인지를 말이다아!」"
+  },
+  {
+   "id": "da0407:T00052",
+   "source_sha256": "92796d69b1eace2b8e8fdcac19a746302c57c1a61255c9ee22590bfc1ef3ba4d",
+   "ko": "「좋다. 그럼 강의 시간이다」"
+  },
+  {
+   "id": "da0407:R00015",
+   "source_sha256": "68106fce80b345961ed0330d5fee0c5e13810309a196f0451c7e83cf4ffa0234",
+   "ko": "바이아크헤",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0407:T00053",
+   "source_sha256": "1cd0f4723229f008ff6a93800914326b675896b28de0ddfd06e9b11d6d4b7288",
+   "ko": "마익기"
+  },
+  {
+   "id": "da0407:T00054",
+   "source_sha256": "4bf53f76e567d4b278c30865632704a4dea92d4b6b9da8b204a39acb0c7828f4",
+   "ko": " 위에서, 슈루즈베리의 몸이 빛의 입자가 되어 무너졌다."
+  },
+  {
+   "id": "da0407:T00055",
+   "source_sha256": "e97650d000ccfc486549f5f3efb8cc7619e2c69fc8ac070df5e24ffc063de396",
+   "ko": "빛은 회오리바람처럼 거칠게 소용돌이치며 마익기의 내부로 빨려 들어간다."
+  },
+  {
+   "id": "da0407:T00056",
+   "source_sha256": "484f310914a48edb75c5b030f61dfa141eadafeeacdc56e827aa155a55c22c22",
+   "ko": "마익기가 암브로시우스에게 접근하여 기체에 조립된다."
+  },
+  {
+   "id": "da0407:T00057",
+   "source_sha256": "6d9cbdf2257061078b14d1050ea0c2d5af82f817ae4ab1a950657d8e3048cd24",
+   "ko": "마익기는 암브로시우스의 머리 부분이 되었다.\n\n　마도서라는 "
+  },
+  {
+   "id": "da0407:R00016",
+   "source_sha256": "9984888255b2cddc70d3eeb4644f9d18a4dec09f1b770841040d3059ec1f849a",
+   "ko": "브레인",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0407:T00058",
+   "source_sha256": "51aa8b1b379f85a8d7f281f0f4d1764d14356574b9c9fcbc56aa8ce7d77f62d5",
+   "ko": "전뇌"
+  },
+  {
+   "id": "da0407:T00059",
+   "source_sha256": "be39debd5d7ac6b136a3cb93d40c3644d8323d016f679beee09ca1aee1995962",
+   "ko": ", 술자라는 "
+  },
+  {
+   "id": "da0407:R00017",
+   "source_sha256": "b6af45bf4fbc0fbdfd12e9c6b7b4a9c297f176751f7799c971977cb4f0dcf556",
+   "ko": "스피릿",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0407:T00060",
+   "source_sha256": "b9ba74447cbaca624042d82c3ebf3f660837db4fac4a072e6a108fbb6413d8bb",
+   "ko": "영혼"
+  },
+  {
+   "id": "da0407:T00061",
+   "source_sha256": "ac5a27a03fc5a4626510ae328a5c74e3ffed03935db852063e4299340eb83764",
+   "ko": "을 얻어, 암브로시우스는 지금,\n완전해진다.\n\n　기체를 통해 슈루즈베리의 명랑한 목소리가 울린다."
+  },
+  {
+   "id": "da0407:T00062",
+   "source_sha256": "821d7ae1f79f0de8292eb3547bbda7c02eed0199845e3abb9a0b5cc358ecdc31",
+   "ko": "「『세라에노 단장』의 진정한 힘――\n　충분히 교수해 주마!」"
+  },
+  {
+   "id": "da0407:T00063",
+   "source_sha256": "241e7aefc9ba78bffc89ee7072f379fc80ce4b9d888439533e36a1ef38cd1565",
+   "ko": "「예스, 대디!」"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0407:U00001",
+   "kind": "glossary_candidate",
+   "note": "pending 항목 '쿠자쿠'(九朔) 적용."
+  },
+  {
+   "id": "da0407:R00002",
+   "kind": "ruby_decision",
+   "note": "翅의 독음 안내(ハネ)로 한국어 '날개'와 중복되어 생략."
+  },
+  {
+   "id": "da0407:R00003",
+   "kind": "ruby_decision",
+   "note": "全部의 훈독 안내(すべて)로 한국어 '전부'와 중복되어 생략."
+  },
+  {
+   "id": "da0407:R00010",
+   "kind": "ruby_decision",
+   "note": "中途半端의 가타카나 독음 안내(チュートハンパ)로 한국어 '어중간'과 중복되어 생략."
+  }
+ ]
+}

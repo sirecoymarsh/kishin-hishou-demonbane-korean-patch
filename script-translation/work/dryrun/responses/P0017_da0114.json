@@ -1,0 +1,291 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0017_da0114",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0114:T00001",
+   "source_sha256": "712db03de215a99b1014fffa23e57b4aff4b6e10b7bf1f8b3744e8356cde5a9b",
+   "ko": "미스캐토닉 대학.\n\n　내가 일찍이 다녔던 대학이다."
+  },
+  {
+   "id": "da0114:T00002",
+   "source_sha256": "1df40e78fa9799b316e47d2ba4b79a8887959a526340995ee2b5bc1c1a124300",
+   "ko": "이 거대한 시계탑은 대학의, 그리고 아컴 시티의 "
+  },
+  {
+   "id": "da0114:R00001",
+   "source_sha256": "ec4b1ed2a31385ebc400515542144b14d11c835ff862fc28c0ebf7988c6c9698",
+   "ko": "심벌",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0114:T00003",
+   "source_sha256": "e5017e70a4e30735075c29fe0c2b95929924087dee047fb937f9f6a2b5d6f525",
+   "ko": "상징"
+  },
+  {
+   "id": "da0114:T00004",
+   "source_sha256": "793d3a9ff089e4e1306d419064dddba74f567c67fa367f2a6a67b44c7f2bd21a",
+   "ko": "이기도 하다.\n\n　하지만 시계탑이 가리키고 있는 것은 현재 시각이 아니다."
+  },
+  {
+   "id": "da0114:T00005",
+   "source_sha256": "3914fb0dbdbddf21cbe5c7f4d2e7cacbaba6c4efc9708c05ae6fd29c2b351ebd",
+   "ko": "지금, 시계탑의 두 바늘은 미친 듯한 속도로 회전하고 있었다."
+  },
+  {
+   "id": "da0114:T00006",
+   "source_sha256": "961d08fcf622353bacca77b43db4b8f76015bde88d97aaac95ff793e6c6ae0a5",
+   "ko": "「시침/표,\n  분침/표,\n　\n　\n　　　　　　　　　　마도운전 개시」"
+  },
+  {
+   "id": "da0114:T00007",
+   "source_sha256": "0bea642b60dd08d74c4e3fa1598c3122b4319b5f983695d0c43aca1e1c360ba8",
+   "ko": "고속 회전하는 바늘이 마법진을 그린다."
+  },
+  {
+   "id": "da0114:T00008",
+   "source_sha256": "1002562a3d5cb6141b18801102e5f437220ba88af4fdc4bdded462ffa1309201",
+   "ko": "마력의 빛이 어두운 밤하늘에 희미하게 떠오른다."
+  },
+  {
+   "id": "da0114:T00009",
+   "source_sha256": "37d9345854da3800931a754cebe10596cd6e573389750496e6931502b555cff6",
+   "ko": "「시침/리,\n  분침/리,\n　\n　　　　　　　　　　　봉인 해제.\n　　　　　　　　　　　　시동」"
+  },
+  {
+   "id": "da0114:T00010",
+   "source_sha256": "26fa84608152e46141446a4eca027c10464bb4d09c206ae4cad18eecf807b3c5",
+   "ko": "마법진이 한층 더 빛난다."
+  },
+  {
+   "id": "da0114:T00011",
+   "source_sha256": "0fa408d81007ea6b2fa98c37a49c848b02c75e95e43841660c9d966ab286b903",
+   "ko": "다음 순간, 빛의 라인이 혈관처럼 시계탑 전체로 뻗어 나갔다."
+  },
+  {
+   "id": "da0114:T00012",
+   "source_sha256": "d108ee561bd505edf1ef2d7105df08cd87cbda1941f5f78055d4425e04b6bda4",
+   "ko": "「전침,\n　\n　\n　　　　　　　　　 이형시간으로 설정.\n　　　　　　완전무질서 상태로 이행」"
+  },
+  {
+   "id": "da0114:T00013",
+   "source_sha256": "f87a6a6564a3f44705961f858aaee5d001bd259082d949ae80e1013bb11296f1",
+   "ko": "이명이 울림과 동시에 전신의 세포가 술렁거렸다."
+  },
+  {
+   "id": "da0114:T00014",
+   "source_sha256": "c50c3ad74d55fab369017f5cb6da3e04ff174499eb67316180854a501084b9a0",
+   "ko": "시침과 분침의 움직임이 바뀐다."
+  },
+  {
+   "id": "da0114:T00015",
+   "source_sha256": "cda8fe78fafade3049166d01f6f01545f7708f2aa268a02c8e7699c057a3f8a0",
+   "ko": "어떠한 세계의 규칙이나 질서에도 속하지 않는, 상궤를 벗어난\n시계의 박동."
+  },
+  {
+   "id": "da0114:T00016",
+   "source_sha256": "6e099953ff63093ef7901e508fb7b34a46af7b03cb8ee8e82330cfc0cd58b4ff",
+   "ko": "종소리가 연속으로 이어지며 몇 겹으로 겹쳐져 뇌명처럼 울려 퍼진다."
+  },
+  {
+   "id": "da0114:T00017",
+   "source_sha256": "d689fdf2a14d61a9edb52b68b8b6fba71088058c412bac394fef8583e0383b38",
+   "ko": "공간이 불안정하게 일렁이고 있는 것을 나는 감지하고 있었다."
+  },
+  {
+   "id": "da0114:T00018",
+   "source_sha256": "77e21b76dfc82864f2056778dac8303e0ff256101d6bf22ec4fc6b297e79a0ed",
+   "ko": "지금, 이 장소는 이계화하고 있는 것이다."
+  },
+  {
+   "id": "da0114:T00019",
+   "source_sha256": "6d73a347faac31fd1da548408dad4168544ff474b19e3d02f578d9b4e952536d",
+   "ko": "「시침/리,\n  분침/표,　　　　　운전 정지. "
+  },
+  {
+   "id": "da0114:T00020",
+   "source_sha256": "c60d2a72884a11681162affc47c0e2237353ee9e8886f7fd3d7cc0496d4a5d0a",
+   "ko": "결계 고정.\n　\n  시침/표,\n  분침/리,　　　　　　　　　　　동조 개시」"
+  },
+  {
+   "id": "da0114:T00021",
+   "source_sha256": "896640e052ecc65945ab75e712185fba7d11fbc3704e1b3bf75662840cf1e9c3",
+   "ko": "시계판의 장침만이 딱 움직임을 멈추었다."
+  },
+  {
+   "id": "da0114:T00022",
+   "source_sha256": "0645da0b2ecde4023b7331fef288a3e0cf2d26acd52d07bd49f606ea8dd661a3",
+   "ko": "단침은 불규칙한 움직임을 계속하고 있다."
+  },
+  {
+   "id": "da0114:T00023",
+   "source_sha256": "4929ef250f039c59a94e88a3fad0fb3842e9b52f499d8c93d7b90819eea0d97f",
+   "ko": "하지만 그 단침도 서서히 어떠한 법칙성에 따라 박동하게 되었다."
+  },
+  {
+   "id": "da0114:T00024",
+   "source_sha256": "f8dc6ed7326677e6ab9af8a01a5fa24fdbda8c0f1e851d669d49e4138ffe188e",
+   "ko": "공간의 일렁임이 작아지며 확실한 것으로 변해 간다."
+  },
+  {
+   "id": "da0114:T00025",
+   "source_sha256": "ceae32859138c8641dd436b54784f881566e8d5c81945f9ecfeceee8e6b1f455",
+   "ko": "「열려라」"
+  },
+  {
+   "id": "da0114:T00026",
+   "source_sha256": "754e0cccfae535b5520d4d4c6f9756ca3bb9d68874edd78e2129d96161be1925",
+   "ko": "열쇠가 철컥 맞물린 듯한 "
+  },
+  {
+   "id": "da0114:R00002",
+   "source_sha256": "d62fca5b5073ab465d648b608d0e4a2ccf32c01aba979bc1c7f015a7aa047ada",
+   "ko": "이미지",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0114:T00027",
+   "source_sha256": "f98bd78e72f11fb81878609e85602612cf7022ec1635f6cfe1686126a3718642",
+   "ko": "감각"
+  },
+  {
+   "id": "da0114:T00028",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  },
+  {
+   "id": "da0114:T00029",
+   "source_sha256": "34278559beb6a136daf0b7eb7a1fd0f1120a55d71559778c4928f910dbd5aac9",
+   "ko": "일렁이던 공간은 완전히 응고되었다.\n\n　주위는 이제 뚜렷하게 이계의 기척을 자아내고 있다."
+  },
+  {
+   "id": "da0114:T00030",
+   "source_sha256": "d4a3a2bd160dece1035e774e72e6e597565d8d2f2edb5f7d92bc61e068d86e2f",
+   "ko": "팽팽하게 긴장된 공기 속에서 시계탑의 정문이 열렸다."
+  },
+  {
+   "id": "da0114:T00031",
+   "source_sha256": "b2b33afb4e089510e68ac0dce25ab394374e65917ab66423544ac27a234c00ec",
+   "ko": "정문 너머는 평소와 같은 대학 구내가 아니다."
+  },
+  {
+   "id": "da0114:T00032",
+   "source_sha256": "a2ec51f5dbbc1a4fb664a09ca14a581b934c88ef875a24b19605abbfd5f70c5c",
+   "ko": "「공간의 위상을 비틀어\n　이공간으로 전이하는 건가……\n　여전히 대마술이로군」"
+  },
+  {
+   "id": "da0114:T00033",
+   "source_sha256": "5451e7a8694670c7bc1ef93b4f87608b4fbcfaf59ff222d879098fe52e8a9014",
+   "ko": "「『드 마리니의 시계탑』이야」"
+  },
+  {
+   "id": "da0114:T00034",
+   "source_sha256": "b5d474e1f380caa86e6735bf537a9ff82e261cf5783ada9025bb4b69e4cc09c0",
+   "ko": "「대학의 기밀은 전부 이공간에 수장되어 있지. 표면의 시계판과 감춰진 이면의 시계판 바늘을 조작함으로써 이공간으로 이동하는 것이다.\n　……자네도 알고 있겠지?」"
+  },
+  {
+   "id": "da0114:T00035",
+   "source_sha256": "36f85bcd1f9406512c03fd3e7cb0a58397da0968f752b0c539375d04f814ae02",
+   "ko": "「그래. 비밀도서관도 그랬으니까」"
+  },
+  {
+   "id": "da0114:T00036",
+   "source_sha256": "f78872c7453633a364e153e6544e2a73f0dff085d8774d37d162a8f07dc471f9",
+   "ko": "「하지만 시공적인 봉인마저 돌파하고\n　침입에 성공하는 불손한 자도 있지」"
+  },
+  {
+   "id": "da0114:T00037",
+   "source_sha256": "0de148092d275397cb444f3b5b502c4be240e5e4fdb214ebbf6435dda823a9b5",
+   "ko": "「……『더니치의 괴이』 이야기야?」"
+  },
+  {
+   "id": "da0114:T00038",
+   "source_sha256": "917c5704b8da6fee8d4a62b5db24bbdb9e1d89bccfeef5621d12c14a08dd044f",
+   "ko": "「그것뿐만이 아니다――들어가자」"
+  },
+  {
+   "id": "da0114:T00039",
+   "source_sha256": "10a0a0508c86daba579c2a893b76ae9a5d396c96fbaa589c84feeb17b6400b7c",
+   "ko": "슈루즈베리 선생님과 『세라에노 단장』의 정령――\n　하즈키가 앞장서서 걷는다.\n\n　우리도 그 뒤를 따라 시계탑 안으로 들어갔다."
+  },
+  {
+   "id": "da0114:T00040",
+   "source_sha256": "55f58011a44f1d1c0ded44efe50225922f3903b73e3732309feb75faae9d5b85",
+   "ko": "「……여긴 도서관이랑 다르네?　모르는 건물이야」"
+  },
+  {
+   "id": "da0114:T00041",
+   "source_sha256": "61086136fb74c5d8e6de90ac2b7460e1ac776581a3131e374917bc1fd6dc454b",
+   "ko": "구내는 수백 미터 높이의 중정 구조로 트여 있었다."
+  },
+  {
+   "id": "da0114:T00042",
+   "source_sha256": "0b5ecd74b4d9ee55e2a99f63f8ce67f85835a2292466093a2c37bcc64f5fa020",
+   "ko": "그 안쪽 둘레를 따라 커다란 나선 계단이 정상까지 이어져 있었다."
+  },
+  {
+   "id": "da0114:T00043",
+   "source_sha256": "be0cc976399ca5726953c490c83a805de37e5d1968d0fc4136fcfab4fe95bf6a",
+   "ko": "발을 들여놓자, 나선 계단은 묵직하게 삐걱거리는 소리를 내며 자동으로 움직이기 시작한다. 거대한 에스컬레이터로 되어 있는 것이다."
+  },
+  {
+   "id": "da0114:T00044",
+   "source_sha256": "ba3a4adc449b9059aa7332e1b59a0d1943e8b60b3559013988ba8b963866d410",
+   "ko": "「자네도 음비학과의 학생이었다면 소문 정도는 들어보지 않았나?」"
+  },
+  {
+   "id": "da0114:T00045",
+   "source_sha256": "ba7c9fa554075ff9f4ae180974a70db1cfeb7fab363cbd06c46edf2789d71484",
+   "ko": "「무슨 소문?」"
+  },
+  {
+   "id": "da0114:T00046",
+   "source_sha256": "7edf051585bbced6917ea8087d44bf5ac944f6c4caf140330c58d78e35ba6a16",
+   "ko": "「마도서, 아티팩트,\n　사신의 유물――그러한\n　위험한 주술적 아이템을 수집하고\n　봉인하는 기관.\n　음비학과의 또 다른 얼굴이지」"
+  },
+  {
+   "id": "da0114:T00047",
+   "source_sha256": "869bb4e701d44bc3ae75bbdc14b0e65d7ae986fdfed592a956279b2e8664bdd9",
+   "ko": "「……혹시」"
+  },
+  {
+   "id": "da0114:T00048",
+   "source_sha256": "8beee1239585b6f60dc0fc7bdba6a8a5f8b74b940253161ec6498bca8d2c5c8e",
+   "ko": "「자, 도착했다」"
+  },
+  {
+   "id": "da0114:T00049",
+   "source_sha256": "8b978904664802407adacfbe062d5c72cba91f0243fe9d28fb3eb3c425a9219b",
+   "ko": "나선 계단이 최상층에 다다랐다."
+  },
+  {
+   "id": "da0114:T00050",
+   "source_sha256": "456b3979a9cc1f120d86670da48aba21958632feba1bb717f55813ddb70b29ed",
+   "ko": "눈앞에는 마법진이 그려진 양여닫이 문.\n\n　문이 열린다."
+  },
+  {
+   "id": "da0114:T00051",
+   "source_sha256": "20cb48a5d0a50cde0cb6d3d9ab23fc859aa2fc34a9dece2632420e8b6eec0de0",
+   "ko": "그 너머에 펼쳐진 것은――"
+  },
+  {
+   "id": "da0114:T00052",
+   "source_sha256": "2313c4bf9ccbd723f5288802d4942b8f1936e54423c5f52f75fa192800851193",
+   "ko": "「환영하네――」"
+  },
+  {
+   "id": "da0114:T00053",
+   "source_sha256": "73ee4bbba38ec46a178c069ec093d95d99c84dcf0fee857efff1ce04bf18b8a1",
+   "ko": "「『미스캐토닉 대학 도서관 특수자료실』\n　의 본부에 온 것을」"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0114:T00001",
+   "kind": "glossary_candidate",
+   "note": "Pending glossary term ミスカトニック rendered as 미스캐토닉 per 용어집.tsv."
+  }
+ ]
+}

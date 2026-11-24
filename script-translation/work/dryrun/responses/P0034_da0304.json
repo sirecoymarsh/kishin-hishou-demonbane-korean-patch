@@ -1,0 +1,746 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0034_da0304",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0304:T00001",
+   "source_sha256": "dfac8ea8c1c2c86da295f246aed230439ab58470d8bb4e4b1a993d0992972508",
+   "ko": "소년이 쏘아 낸 이타콰의 일격."
+  },
+  {
+   "id": "da0304:T00002",
+   "source_sha256": "c9b32f425494a666e7149e3548ed79c8f6e7387787b2f67419af2e9c7a7f879c",
+   "ko": "뒤로 뛰어 물러나는 소녀."
+  },
+  {
+   "id": "da0304:T00003",
+   "source_sha256": "f153cce5797793452cc3906186f283492a8c06c2a9bf52d43f9b65988417f400",
+   "ko": "하지만 이타콰는 사냥감을 어디까지고 추적하는 특수한 총격."
+  },
+  {
+   "id": "da0304:T00004",
+   "source_sha256": "aba5afc85714e43af01d614ab0fe6fed084ccaeeb2363639666f545685d8b8d6",
+   "ko": "물리법칙을 거스른 궤도를 허공에 새기며 소녀를 쫓는다."
+  },
+  {
+   "id": "da0304:T00005",
+   "source_sha256": "c2e58a6adb6b1ad8b4a120f110c691c3bebd8093dde533ba2271143dbccb247a",
+   "ko": "이타콰의 속성을 알고 있었던 것인지, 소녀는 맞아 친다."
+  },
+  {
+   "id": "da0304:T00006",
+   "source_sha256": "97f33de88940b196cf7535ef25841acf57ffc7ae47a8ce2f55648fb8b4f29db2",
+   "ko": "팔을 휘두름과 동시에 발생하는 붉은 바람."
+  },
+  {
+   "id": "da0304:T00007",
+   "source_sha256": "ed44777b13ddddd4f20b1266bc8d21f04fbe509f8869e91138d8ab9dcbbce130",
+   "ko": "독을 품은 피바람이 이타콰의 마탄을 집어삼킨다."
+  },
+  {
+   "id": "da0304:T00008",
+   "source_sha256": "934af23684370cc117df36ff99e0b5540d503c83b630d657d32248e8b4d01492",
+   "ko": "총탄은 단 한 발도 소녀에게 닿지 못한 채,\n　부식/융해/증발/소멸했다."
+  },
+  {
+   "id": "da0304:T00009",
+   "source_sha256": "4a53661ea57fd66f3742590bf9b811260ea86c735b7870c732daf2903cb00d8e",
+   "ko": "「큭!」"
+  },
+  {
+   "id": "da0304:T00010",
+   "source_sha256": "0d0306c31aed117878393d2938c1344230446b36ee8caf7beeac84cfa2b75b57",
+   "ko": "「치잇!」"
+  },
+  {
+   "id": "da0304:T00011",
+   "source_sha256": "5bab1b47919a992a04326291b9bff1a84be461c654edb9386f74c7c7f31d3b78",
+   "ko": "간발의 틈도 없이 크투가의 총격."
+  },
+  {
+   "id": "da0304:T00012",
+   "source_sha256": "e709ce63f5d24a94379ce27088756ea2b17a373bc7d538b36b745cb0ef76e54c",
+   "ko": "소녀의 팔이 뜯겨 나가 날아간다――"
+  },
+  {
+   "id": "da0304:T00013",
+   "source_sha256": "1bfbdf1fb4eec094649af5426e8dbd93bad0c675546fb615958597868e2fc0ec",
+   "ko": "하지만 그 순간, 팔은 피웅덩이로 화해 허공을 "
+  },
+  {
+   "id": "da0304:R00001",
+   "source_sha256": "399541026b89787f76b6312375d21b42244869347cf836059cf9eba724bb4824",
+   "ko": "・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0304:T00014",
+   "source_sha256": "194e8e5a809887a5ed60e75b7caaaf4147284be07150f5fc0f723f5fdb501d39",
+   "ko": "역류"
+  },
+  {
+   "id": "da0304:T00015",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  },
+  {
+   "id": "da0304:T00016",
+   "source_sha256": "e45a963eb0847868731b34090692e7ab91ae11621567fc9a3e7936db6bc64321",
+   "ko": "소녀의 몸으로 돌아가 붉은 팔이 되어 재구축된다."
+  },
+  {
+   "id": "da0304:T00017",
+   "source_sha256": "95d175289ded8578f9f26593245ed66ae3b58bfd4a5a120ba3088b64732ef6ff",
+   "ko": "소녀는 핏"
+  },
+  {
+   "id": "da0304:R00002",
+   "source_sha256": "33439ddb0f66823471fcc299d5d5f75aa20a1470e5cc0d7bb310dbe5b1609c6d",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0304:T00018",
+   "source_sha256": "1f828276b921aa107500f6e9151332285e78eb3c2fd98302107a1970352e1742",
+   "ko": "빛"
+  },
+  {
+   "id": "da0304:T00019",
+   "source_sha256": "c9120f06bf9af2ddb00f2a8094c47df8aba78e073fa21d530f7271a56cb1bd33",
+   "ko": " 손바닥을 소년에게 향하고,"
+  },
+  {
+   "id": "da0304:T00020",
+   "source_sha256": "e8034bb415e70a24fd12c8b7be07f0f4517b7e9e2edb310b9e5d841bc4639d0f",
+   "ko": "「투쟁의 피를 나눈다. "
+  },
+  {
+   "id": "da0304:R00003",
+   "source_sha256": "2b826478f59c2fee27b95e2947c15a7596908f21671c84c287eaf3dfdfa9128b",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0304:T00021",
+   "source_sha256": "0a02e0d09dc74cad30d832a411825bc5fbf4b5af04baf6aff8cee8af35cb38dd",
+   "ko": "나타나"
+  },
+  {
+   "id": "da0304:T00022",
+   "source_sha256": "34347b746b62032325118a9a0742f3d0093f022f9bf2fb193db86e32af76e42b",
+   "ko": "라」"
+  },
+  {
+   "id": "da0304:T00023",
+   "source_sha256": "7c967b4e06c8051a43db3edf6bdb6ebd82d8cadc81371b5f2adfbd84da132919",
+   "ko": "아직 완전히 실체화되지 않은 피의 팔이 끓어올랐다."
+  },
+  {
+   "id": "da0304:R00004",
+   "source_sha256": "d70aa550422bd6e86eb6a5b7add1de91f7b3f2a66d3422d51beb636e8603383f",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0304:T00024",
+   "source_sha256": "62d13c9c7c8c16f79c4c97aab30bde4d9fb801c006c68d48e680944816a06538",
+   "ko": "피안개 피어오르"
+  },
+  {
+   "id": "da0304:T00025",
+   "source_sha256": "e7ab14a9b99c25e6c5a4191bb5bbcf55559fd5d132770c1bcfaa173f49ec4f2d",
+   "ko": "는 소녀의 손바닥에 눈부시게 빛나는 물질이 현현한다."
+  },
+  {
+   "id": "da0304:T00026",
+   "source_sha256": "873a0a86b6db4aa2fc659f9d6fed968354a73f46b84368a46a639f8ef1b21d85",
+   "ko": "「――――!」"
+  },
+  {
+   "id": "da0304:T00027",
+   "source_sha256": "63182998c56b1ad92679887842242a080681b8287d3d9081de0ad24303d6042e",
+   "ko": "소년은 고개 움직임 하나로 그 총격을 "
+  },
+  {
+   "id": "da0304:R00005",
+   "source_sha256": "417efe554a1f6164fe4bb7007aa4eb0068db2b5a83766c8f1c155e1538e29864",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0304:T00028",
+   "source_sha256": "fd739ddee8af6d57cf2520c6c258147a6c0bc256c79fce16d0c4384e13e83cba",
+   "ko": "피"
+  },
+  {
+   "id": "da0304:T00029",
+   "source_sha256": "55b4794774e201105427e91a34070f2589c39dece57991405b598c03847e6736",
+   "ko": "한다."
+  },
+  {
+   "id": "da0304:T00030",
+   "source_sha256": "c1e266366d269387fcc6797b36ccd743921d3543e18ceca28c4c4303dff518a9",
+   "ko": "소년의 시선 끝, 피안개에 녹아들 듯이 선 소녀의 손바닥에 쥐어진 『총』은――"
+  },
+  {
+   "id": "da0304:T00031",
+   "source_sha256": "5441a1f5695da3a049b1cca85e662b91cce339262dddd7d9f57ea5dd83894955",
+   "ko": "「……또 크투가냐고!?」"
+  },
+  {
+   "id": "da0304:T00032",
+   "source_sha256": "a257fe6b34313c10ed5b92ed07a933f3c080e1390dbf2e9f10083cd67fadbdbf",
+   "ko": "「가소롭군. 총으로 나에게 이길 수 있다고 생각하느냐!」"
+  },
+  {
+   "id": "da0304:T00033",
+   "source_sha256": "969ab20fae4f6fd2cb9e88fd4312b09039c27032dc3d8be9d1133ccdc850007b",
+   "ko": "「어렵겠지…… 일대일이라면」"
+  },
+  {
+   "id": "da0304:T00034",
+   "source_sha256": "2239ccc4eb67e10f879d00472c9554425a84990a665e8fac7181bd6eabb085ca",
+   "ko": "「――――읏!?」"
+  },
+  {
+   "id": "da0304:T00035",
+   "source_sha256": "5d7cc7007d0210a5174a223e72252da8114aeaf25702984faa54507cf6bb4781",
+   "ko": "그것은 직감이었으리라."
+  },
+  {
+   "id": "da0304:T00036",
+   "source_sha256": "bd68313ae7b9e1ddc3446bd5758edd5768f820869691b180b8cc88bfb41ffdab",
+   "ko": "누군가가―― 『무언가』가 움직이기 시작하기보다 빠르게, 소년은 그 자리에서 뛰어 물러났다."
+  },
+  {
+   "id": "da0304:T00037",
+   "source_sha256": "23218f966851d10910cd57edc3e343b3c487568802d9e234788037d5138a6143",
+   "ko": "종이 한 장 차이."
+  },
+  {
+   "id": "da0304:T00038",
+   "source_sha256": "69ae317b73e45bdeee26da31c342e2b0cb2163b2cc4f1d5cc796248ec7584a9b",
+   "ko": "한순간 전까지 소년이 서 있던 바닥이 『부패』했다."
+  },
+  {
+   "id": "da0304:T00039",
+   "source_sha256": "cdebf22bfe0880d0b0b5c0abe2e077e799af06120e5959dd2136bea825e1ff09",
+   "ko": "「극!?」"
+  },
+  {
+   "id": "da0304:T00040",
+   "source_sha256": "be31f97679ccd48d3f0518ade1c5f3ab4656b61edb2739b533dbd8a525eb9fc5",
+   "ko": "무시무시한 악취가 도서관을 가득 채운다."
+  },
+  {
+   "id": "da0304:T00041",
+   "source_sha256": "ecceeadb3cbe85025d51e95d83f40162c9d2cf389154adb6614e9b0546a5f1e6",
+   "ko": "짓무르고 녹아 진흙이 되어 무너져 가는 바닥에, 부정한 무언가가 싹트려 하고 있었다."
+  },
+  {
+   "id": "da0304:T00042",
+   "source_sha256": "a68755d42b5a315d821beeea61bcecf2cbf0cd9503fb56d88bffdc3f5d28f834",
+   "ko": "그것은 썩은 고기에 들끓는 구더기와도 닮았다."
+  },
+  {
+   "id": "da0304:T00043",
+   "source_sha256": "f2fe2395aee9367cd1524d840af1f2ea64135ac280dcd41f9759b48b9e496307",
+   "ko": "이 요기, 이 악취…… 악몽의 기억이 선명하게 되살아난다."
+  },
+  {
+   "id": "da0304:T00044",
+   "source_sha256": "c8aa204226e1293babef8a45a53120d7d2805a7c9dc50648eff6b6520fac756c",
+   "ko": "이 녀석은…… 아미티지 영감님이 말했던 그대로다!"
+  },
+  {
+   "id": "da0304:T00045",
+   "source_sha256": "02be4f5963c5328ab118e75ca003577875bc40f55c7b160f575bd9aa8e81d8d3",
+   "ko": "「웨이틀리!」"
+  },
+  {
+   "id": "da0304:T00046",
+   "source_sha256": "a6fc7d793ad5d654cf6d3a1c1751ba16e62fc7b145c81da71c3f693029279f38",
+   "ko": "부패하는 진흙 속에서 무수한 촉수가 흘러넘쳤다."
+  },
+  {
+   "id": "da0304:T00047",
+   "source_sha256": "3d38bf7484a2f12501400465fe0d238b6ff56a8e82ce335629e99ec3945f5fcf",
+   "ko": "촉수는 급속히 뻗어 나가거나 끝없이 증식하면서 도서관을 침식해 간다……!"
+  },
+  {
+   "id": "da0304:T00048",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0304:R00006",
+   "source_sha256": "7e92e20c2afb6fd0f546bed311187fbd73289324003b219d802fa98f344cd571",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0304:T00049",
+   "source_sha256": "1b3c5e85cc16fa0f2d74a1196c12c86b9b5b03494cb8b7d1f6270cf7641c6787",
+   "ko": "이 녀석"
+  },
+  {
+   "id": "da0304:T00050",
+   "source_sha256": "6560fad1b5299ec45c7562b1e825f123c87101dc289a1eb71426e443d34f4c8c",
+   "ko": "!」"
+  },
+  {
+   "id": "da0304:T00051",
+   "source_sha256": "86671cd8107de94444ff334a18305fe736e513c5e25b59d8fe9b3728c3c4eb88",
+   "ko": "덮쳐 오는 촉수 무리를, 소년은 피하면서 크투가로 쏘아 떨어뜨린다.\n\n　하지만 몇 가닥을 폭파하든 언 발에 오줌 누기다."
+  },
+  {
+   "id": "da0304:T00052",
+   "source_sha256": "4e4a8a49ca3652fa743631fce4864c02c20fbaa8299b39741509bdb6b18ec71f",
+   "ko": "소년은 방어 일변도로 몰린다."
+  },
+  {
+   "id": "da0304:T00053",
+   "source_sha256": "570f1bd195ec2c027386a958b60953a9ebf8d6e2ab7e8a8755e12f4fb3b0c5e4",
+   "ko": "「젠장…… 알!」"
+  },
+  {
+   "id": "da0304:T00054",
+   "source_sha256": "463fe82396b66288b6f340b22d2831d5d18cfb5a70efdaeee90efabcb1e56881",
+   "ko": "촉수의 감옥을 피하면서 알이 있는 곳으로 달려간다."
+  },
+  {
+   "id": "da0304:T00055",
+   "source_sha256": "d5f580d9e10e348e8f077ee114eff03267db303ada143e33c097aa58606cd65c",
+   "ko": "이 상황에서도 알은 쓰러진 채 괴로운 듯한 호흡을 반복할 뿐이다."
+  },
+  {
+   "id": "da0304:T00056",
+   "source_sha256": "6581cd1a8d8a212dec0c1918abce17253db3432630491c967aad6e8e09bf4ef6",
+   "ko": "「알!　정신 차려, 알!」"
+  },
+  {
+   "id": "da0304:T00057",
+   "source_sha256": "5ef1c643e848115b619b069a79a868cec6c4516e53ff6e89332aa00a44f8bf63",
+   "ko": "「쿠로…… 오……」"
+  },
+  {
+   "id": "da0304:T00058",
+   "source_sha256": "aede66726405d5ea060caa68861ca1e85ed1018cc329a42b25781fe9ba3d29fe",
+   "ko": "『열쇠』가 꽂힌 가슴에는 붉은 반점―― 아니, 이건 이제 핏"
+  },
+  {
+   "id": "da0304:R00007",
+   "source_sha256": "33439ddb0f66823471fcc299d5d5f75aa20a1470e5cc0d7bb310dbe5b1609c6d",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0304:T00059",
+   "source_sha256": "1f828276b921aa107500f6e9151332285e78eb3c2fd98302107a1970352e1742",
+   "ko": "빛"
+  },
+  {
+   "id": "da0304:T00060",
+   "source_sha256": "255fc4a56ef915a4dfb0414d571816526538df06a0087b4844f1c02011cf935e",
+   "ko": " 그림자라 부르는 편이 맞다―― 이 퍼져 나가고 있다."
+  },
+  {
+   "id": "da0304:T00061",
+   "source_sha256": "4ae6ab83834c1872e229f29dcf7f166f58013b6c9350983a84be8551a992e894",
+   "ko": "알을 구성하는 술식이 다른 술식에 침식당하고 있는 것이다."
+  },
+  {
+   "id": "da0304:T00062",
+   "source_sha256": "edcbc0bc8a60f036cf4e8703624b127e493b579bc0c8d84b3562db272384ea4a",
+   "ko": "「젠장할!　어떻게 해야……!」"
+  },
+  {
+   "id": "da0304:T00063",
+   "source_sha256": "f467faf1f2a33127ebddd65c0596768e5e07e6a15b8eaf7ca71e4b7a6dca2b6d",
+   "ko": "「하~이, 탐정님. 잘 지내셨어?」"
+  },
+  {
+   "id": "da0304:T00064",
+   "source_sha256": "902dc3a9bb387bc464a2a5b7576860fbdc9e9ef2835d0799731aec9ca51aec61",
+   "ko": "「――――읏!?」\n\n　어느 틈에 눈앞에 붉은 소녀가 서 있었다."
+  },
+  {
+   "id": "da0304:T00065",
+   "source_sha256": "6baa128354d5379eeceb21f5897d8f6afb4cef62e6f72dce5fa6a26614fd0a45",
+   "ko": "형형하게 빛나는 붉은 눈동자가 우리를 내려다보고 있다."
+  },
+  {
+   "id": "da0304:T00066",
+   "source_sha256": "8e529ebf45b81ea37708db6881284e14f285d74dd2fc7082dbc2abd2fceee448",
+   "ko": "「네 녀석……」"
+  },
+  {
+   "id": "da0304:T00067",
+   "source_sha256": "4949123f8935cf84a162197f7811a8148b3f72b4c6783dd519d69bb2227254a0",
+   "ko": "「『괴물』은 빼 줘.\n　제법 상처받는단 말이야」"
+  },
+  {
+   "id": "da0304:T00068",
+   "source_sha256": "706cd5195b90319e6410e5001a841a1f1076ac75947fb0c69e4e584ff7078f56",
+   "ko": "「알을 노리는 목적이 뭐냐!?」"
+  },
+  {
+   "id": "da0304:T00069",
+   "source_sha256": "e887b5e0c8a8fa10666b737dd2deddeb3abaf9bacaa82376108b19c15a2e80e0",
+   "ko": "「나는――」"
+  },
+  {
+   "id": "da0304:T00070",
+   "source_sha256": "e9f5fe5a71b2fa7f9df3a763e7eb2dd976c94acd1fdc0c13333e910bfad73d07",
+   "ko": "붉은 눈동자에 "
+  },
+  {
+   "id": "da0304:R00008",
+   "source_sha256": "9e01e7b843be92a9d32129c0661107e163b54042ac97ad03fcafa75e40d331b6",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0304:T00071",
+   "source_sha256": "389bbac1b256d36df12ea23e0ea5db3f3b5a4242c671c915091732e62596b8b4",
+   "ko": "어둡"
+  },
+  {
+   "id": "da0304:T00072",
+   "source_sha256": "77d2670875d4f9cb56ca9fb90da359e54f72a9540e8fcff5ea73a76b9caba383",
+   "ko": "고 뜨거운 정념이 깃든다."
+  },
+  {
+   "id": "da0304:T00073",
+   "source_sha256": "53c2d8f028b48bb29a161004590eb30209bcbe5b984f7fbd24174188f2bb4522",
+   "ko": "소녀는 몸을 굽혀, 바로 코앞까지 얼굴을 가까이 대고 내 눈동자를 들여다본다."
+  },
+  {
+   "id": "da0304:T00074",
+   "source_sha256": "be402ad1637fa2fdba5ed5e7e03c92b358afee99d62c5efcde2d530fef669f65",
+   "ko": "「나는 그저, 나의 존재를 원할 뿐」"
+  },
+  {
+   "id": "da0304:T00075",
+   "source_sha256": "a995d36376b88beb055c52901470591c9f4e41ab1f20bc96f2b0c3c51062149b",
+   "ko": "「읍……읏!?」"
+  },
+  {
+   "id": "da0304:T00076",
+   "source_sha256": "901c13fd4a761f50bd857557aadd075d7e022dda6930c68dc3dbfc60808fe44c",
+   "ko": "소녀의 입술이 내 입술을 막았다."
+  },
+  {
+   "id": "da0304:T00077",
+   "source_sha256": "fdc69641b23b0040c829892a418309ef857d6adadc5b678138eeef17e4c873df",
+   "ko": "게다가 혀까지 밀고 들어온다."
+  },
+  {
+   "id": "da0304:T00078",
+   "source_sha256": "ad26795cb953422f0f674c92b4a20fc890e03fd58f697e74c0a5a4385d77a830",
+   "ko": "타들어 갈 듯이 뜨겁고, 녹아내릴 정도로 달콤한 입맞춤."
+  },
+  {
+   "id": "da0304:T00079",
+   "source_sha256": "b805ff525a3aa08cc23e74e358b84686b3a85d35f47fc1cd0546d8ddad958b14",
+   "ko": "희미하게 느껴지는 철 맛은 피의 맛인가."
+  },
+  {
+   "id": "da0304:T00080",
+   "source_sha256": "e1849dd26ae75e6b264e0a1e97f2d95c3761b08ab1ace31bdd4414ef0ca5a3b3",
+   "ko": "「발칙한…… 것이이이이!」"
+  },
+  {
+   "id": "da0304:T00081",
+   "source_sha256": "873a0a86b6db4aa2fc659f9d6fed968354a73f46b84368a46a639f8ef1b21d85",
+   "ko": "「――――!」"
+  },
+  {
+   "id": "da0304:T00082",
+   "source_sha256": "a890ab0cb3722c0736b4a1925dd8ee110dc243291a82458cc2fe8196733b2d2c",
+   "ko": "그때, 쓰러진 채의 자세로 날린 알의 발차기가 붉은 소녀를 덮쳤다."
+  },
+  {
+   "id": "da0304:T00083",
+   "source_sha256": "723f90ff31dacaae7ad828b5b604c2c4d88a31eefdc7158e26e4faba63f94f8b",
+   "ko": "입술을 떼고 뒤로 뛰어 물러나는 소녀."
+  },
+  {
+   "id": "da0304:T00084",
+   "source_sha256": "6c5cc111294f2897ab7a9573ffc93aa962b4fce86cb29f8bda14284bedec25f9",
+   "ko": "놀란 듯한, 기분 나쁜 듯한 표정을 짓고"
+  },
+  {
+   "id": "da0304:T00085",
+   "source_sha256": "e79a9bfba596cc6d7b0daafd77269f68aaf87571b90a4ed33d7636679fd98a9a",
+   "ko": "「아직 움직일 수 있구나……"
+  },
+  {
+   "id": "da0304:T00086",
+   "source_sha256": "f0f48918d86f616d2392326d1a59e57c86aa6b6842247c1d4669d5423e8a72fc",
+   "ko": " 과연이네, 어머님」"
+  },
+  {
+   "id": "da0304:T00087",
+   "source_sha256": "3f710f46a8dc3406a93794288b1e144dfb9bc1023d01c6be6e639263fa2be67a",
+   "ko": "「이런 치졸한 술법으로 이 몸을 묶을 수 있다고 생각하지 마라」"
+  },
+  {
+   "id": "da0304:T00088",
+   "source_sha256": "b0306eb85f62e80898df20f06ea2ef1946039f806f9ca17a64739966ae639155",
+   "ko": "「알!」"
+  },
+  {
+   "id": "da0304:T00089",
+   "source_sha256": "dbf2b9cc392e04ccb0131a890c825efe6ced21b27d356e323750d9928bef29d0",
+   "ko": "「그보아악!　아, 아파아아앗!\n　어, 어째서 나까지 때리는 거야!?」"
+  },
+  {
+   "id": "da0304:T00090",
+   "source_sha256": "3dee850c151d3bd92a8734b948366c4985022128b88e18ecb5b3a046d0152442",
+   "ko": "「스스로의 가슴에 물어보거라」"
+  },
+  {
+   "id": "da0304:T00091",
+   "source_sha256": "142fbdcbb60316843995b796cc0d09be537d0ce7caf2263e46aa757f0c75a1ad",
+   "ko": "「무서워라, 무서워…….\n　하지만 말이지, 오기를 부려 봤자,\n　당신의 깊숙한 곳에 침입한 내 술식\n　은 부술 수 없어」"
+  },
+  {
+   "id": "da0304:T00092",
+   "source_sha256": "45a1068e7389b7ea1a27a1c86c3a37959cc92e8d313edf281782409b4a85b770",
+   "ko": "「극……」"
+  },
+  {
+   "id": "da0304:T00093",
+   "source_sha256": "6e077c7e69de562971a022ed570c933f9c449c98af6374a498e3755e0a66a05a",
+   "ko": "알은 괴로운 듯이 붉은 가슴을 움켜쥔다."
+  },
+  {
+   "id": "da0304:T00094",
+   "source_sha256": "0fce8c0b8a95db6f88452f2e86cd463d9571d0d4c8416f097ccfe52e5424a61b",
+   "ko": "이마에는 송골송골 식은땀이 솟아나 있다.\n\n　소녀의 말 그대로다."
+  },
+  {
+   "id": "da0304:T00095",
+   "source_sha256": "7d6458e1a075b1974e9dc84a945b2fcaf2d956abcecbd13826464fb15c30c977",
+   "ko": "문제는 아무것도 해결되지 않았다."
+  },
+  {
+   "id": "da0304:T00096",
+   "source_sha256": "51f0097011d1d76a72b4b464e974193b133cf916e9659a2595b2e546aace05c2",
+   "ko": "「그럼, 또 만나요 탐정님.\n　다음에 만날 때는 내가 오리지널이면 멋지겠네」"
+  },
+  {
+   "id": "da0304:T00097",
+   "source_sha256": "8c9ed89d0e4d7a754a49a7758ec2c8258e119ba715a85fa3560a32156c4ef32b",
+   "ko": "「놓칠 줄――」"
+  },
+  {
+   "id": "da0304:T00098",
+   "source_sha256": "7e6fd1fd7f4647831a8b5deeb1b05a231530a4892e4f0838e12402065121c153",
+   "ko": "「놓칠 줄 알았느냐,\n　어나더 블러드!」"
+  },
+  {
+   "id": "da0304:T00099",
+   "source_sha256": "942fdb1e366b1c0cc930019603347b3ec24568aa1ef571f777f88c5119f1fb4b",
+   "ko": "촉수를 피하며 싸우던 소년의 손목이 갈라지며 선혈이 뿜어져 나왔다."
+  },
+  {
+   "id": "da0304:T00100",
+   "source_sha256": "6b56c6a8a4979b154124d659a1a5431d09c9d3bf3ee73ce0e4b8f6155f0e827e",
+   "ko": "뿜어져 나오는 선혈은 붉은 안개가 되어 소년의 주위에 차오른다."
+  },
+  {
+   "id": "da0304:T00101",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0304:R00009",
+   "source_sha256": "1735c4522c72f4e6f1e60fea378cd9c0d901f0a62483381cfee0993b299a53ec",
+   "ko": "블래스트 블러드 워크라이",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0304:T00102",
+   "source_sha256": "923e0c5047b645e8d157591b0792e6e41d8680dca7f7f4f0d56f2b653be2368c",
+   "ko": "피는 불타, 터진다"
+  },
+  {
+   "id": "da0304:T00103",
+   "source_sha256": "6560fad1b5299ec45c7562b1e825f123c87101dc289a1eb71426e443d34f4c8c",
+   "ko": "!」"
+  },
+  {
+   "id": "da0304:T00104",
+   "source_sha256": "078ad0801c3e92445aea4643a57c6cd214a938c7921ba21b1e27d8f6c76a1be5",
+   "ko": "안개 속에서 크투가를 쏜다."
+  },
+  {
+   "id": "da0304:T00105",
+   "source_sha256": "af76bf883b240513859c278e19b20d3785a085cea1fcff6ff8c31ac7106b31dc",
+   "ko": " 작렬탄."
+  },
+  {
+   "id": "da0304:T00106",
+   "source_sha256": "2e4c9b55bf6104a27d86c402dd66aa26479ca89915d9e5a5ab91f8efc548e4f9",
+   "ko": "그 주력에 피의 안개가 마학 반응을 일으켜, 한층 더 큰 폭발을 일으킨다."
+  },
+  {
+   "id": "da0304:T00107",
+   "source_sha256": "cf5e054f9fb62efdfa1f6424199d8acfa76c7fbe6e5201f1648c56bfbc10d4a8",
+   "ko": "핏"
+  },
+  {
+   "id": "da0304:R00010",
+   "source_sha256": "33439ddb0f66823471fcc299d5d5f75aa20a1470e5cc0d7bb310dbe5b1609c6d",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0304:T00108",
+   "source_sha256": "1f828276b921aa107500f6e9151332285e78eb3c2fd98302107a1970352e1742",
+   "ko": "빛"
+  },
+  {
+   "id": "da0304:T00109",
+   "source_sha256": "b54e95a5ca8ae9fe6d244251531a3b0ca68c307ee21e3a259932729a0795e2f4",
+   "ko": " 폭염과 폭풍이 덮쳐 오는 촉수 무리를 날려 버렸다."
+  },
+  {
+   "id": "da0304:T00110",
+   "source_sha256": "13ecdc82e7ceeaafc08ca827a949218da9bcf3ea29aebb58a55f0b9c25fc11c3",
+   "ko": "――피의 마술!\n\n　불티와 피바람과 "
+  },
+  {
+   "id": "da0304:R00011",
+   "source_sha256": "9d8fcb6f1d863a9c9f4431ac07829f257ff91d76167d01bdf87467572bef21ba",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0304:T00111",
+   "source_sha256": "bd0a6842de3c5cc42e5bf17f3b3d547f4eec1f10f4939f40ae545f9086298853",
+   "ko": "더러운"
+  },
+  {
+   "id": "da0304:T00112",
+   "source_sha256": "8268e9175631dce6f0a54df860f51f1149d779fa450c96e1b3ed7ad64a719488",
+   "ko": " 살점을 흩뿌리며, 소년이 폭염 속에서 뛰쳐나온다."
+  },
+  {
+   "id": "da0304:T00113",
+   "source_sha256": "0e42a7db83ef2a06585b9fb521f52db5d60eeed713c19abef8722a0224aef0c3",
+   "ko": "도약하면서 두 자루의 마총을 연사한다."
+  },
+  {
+   "id": "da0304:T00114",
+   "source_sha256": "e70b34506d9b245e12b88cb6244c6cf56ea2a845cf9e917b1f37743f4d287fd5",
+   "ko": "그러나 총탄은 소녀에게 닿기 직전, 궤도가 있을 수 없는 방향으로 빗나간다."
+  },
+  {
+   "id": "da0304:T00115",
+   "source_sha256": "36725b84a5a889d3762fd632f30a2b1e682c1d8609d3d97c13915564072b661d",
+   "ko": "공간의 일그러짐이 소녀의 앞에 발생해 있는 것이다."
+  },
+  {
+   "id": "da0304:T00116",
+   "source_sha256": "39087ebf196111d287b4bf31a10828cfc0e0886a972ead92f42344e77af6764f",
+   "ko": "「웨이틀리의 "
+  },
+  {
+   "id": "da0304:R00012",
+   "source_sha256": "d678372d713747469b10f4792cf13db56b08c0d18951f29918223489534c676a",
+   "ko": "고스트를",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0304:T00117",
+   "source_sha256": "b6aecca8507e0f185f035894ed2db6d2f96d191b077e2c8fb6939e48225ff4e5",
+   "ko": "망령을"
+  },
+  {
+   "id": "da0304:T00118",
+   "source_sha256": "0a37a9ec7b9c53194fe034bf2470f7ef884d95e0dbbbc838328e2f4b552676c7",
+   "ko": " 만든 게,\n　어째서라고 생각해?」"
+  },
+  {
+   "id": "da0304:T00119",
+   "source_sha256": "2c14695761acce97720d1dec9e204faff8fc54d3b24c2ac15ef81f9445ea90a8",
+   "ko": "「!?」"
+  },
+  {
+   "id": "da0304:T00120",
+   "source_sha256": "795e21b95ee10e7bb9791427e601ce69fd6d2f9c9f1d0f5af9569398a9ff239e",
+   "ko": "「이구나이이이이이이이이!」"
+  },
+  {
+   "id": "da0304:T00121",
+   "source_sha256": "a4c8ac10761fdc416c9e1396690be9e1c6bf99dbc7db0b18bc0929ed37042c99",
+   "ko": "「~~~~으으읏!?」"
+  },
+  {
+   "id": "da0304:T00122",
+   "source_sha256": "93df96624f66104e9ae8c38a54c2bdd1ca8ff403a0da119d5c4aca4aa5cee9c6",
+   "ko": "공간의 일그러짐을 촉수가 찢어발겼다."
+  },
+  {
+   "id": "da0304:T00123",
+   "source_sha256": "0c5b51a2e18d5669a7c8cad0521a16ba96b327764e388962bc808155484c9aa0",
+   "ko": "허공에 생겨나는 차원의 균열.\n\n　주위의 광경이 그 상흔으로 빨려 들어가 뒤틀려 간다."
+  },
+  {
+   "id": "da0304:T00124",
+   "source_sha256": "b914c2242f6cf6cc42c32e2dc6e7ddcd463c4c5d805efcfae8f57eb1494e7e51",
+   "ko": "내 의식 또한 일그러짐에 사로잡혀, 오감이 정상적인 공간 감각을 잃는다."
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0304:R00002",
+   "kind": "omit_redundant",
+   "note": "한국어 '핏빛'으로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0304:R00003",
+   "kind": "omit_redundant",
+   "note": "한국어 '나타나라'로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0304:R00004",
+   "kind": "omit_redundant",
+   "note": "한국어 '피안개 피어오르는'으로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0304:R00005",
+   "kind": "omit_redundant",
+   "note": "한국어 '피한다'로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0304:R00006",
+   "kind": "omit_redundant",
+   "note": "한국어 '이 녀석'으로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0304:R00007",
+   "kind": "omit_redundant",
+   "note": "한국어 '핏빛'으로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0304:R00008",
+   "kind": "omit_redundant",
+   "note": "한국어 '어둡고'로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0304:R00010",
+   "kind": "omit_redundant",
+   "note": "한국어 '핏빛'으로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0304:R00011",
+   "kind": "omit_redundant",
+   "note": "한국어 '더러운'으로 의미가 온전히 전달되므로 일본어 독음 루비 생략"
+  }
+ ]
+}

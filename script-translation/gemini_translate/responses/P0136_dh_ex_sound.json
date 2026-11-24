@@ -1,0 +1,19 @@
+{
+  "schema": "khd-gemini-response-v1",
+  "packet_id": "P0136_dh_ex_sound",
+  "model_id": "Gemini 3.8 Flash (High)",
+  "records": [
+    {
+      "id": "dh_ex_sound:T00001",
+      "source_sha256": "c3119874a02ccdb2c75199668703259891face573b752bc911217d6bc1cc40a4",
+      "ko": "[BROKEN_ENGINE_TAG_DO_NOT_REPLACE]"
+    }
+  ],
+  "issues": [
+    {
+      "id": "dh_ex_sound:T00001",
+      "kind": "protected_engine_command",
+      "note": "broken engine tag in text slot"
+    }
+  ]
+}

@@ -1,0 +1,796 @@
+[
+ {
+  "unit": "da0601:U00050",
+  "match": "unit",
+  "from": "da0109:U00056",
+  "jp": "「な……に？」",
+  "ko_segments": [
+   "「뭐……라고?」"
+  ]
+ },
+ {
+  "unit": "da0601:U00080",
+  "match": "unit",
+  "from": "da0109:U00039",
+  "jp": "「くっ……！」",
+  "ko_segments": [
+   "「큭……!」"
+  ]
+ },
+ {
+  "unit": "da0601:U00098",
+  "match": "unit",
+  "from": "da0301:U00057",
+  "jp": "「……ッ！」",
+  "ko_segments": [
+   "「……읏!」"
+  ]
+ },
+ {
+  "unit": "da0601:U00101",
+  "match": "unit",
+  "from": "da0305:U00098",
+  "jp": "「――――――」",
+  "ko_segments": [
+   "「――――――」"
+  ]
+ },
+ {
+  "unit": "da0603:U00002",
+  "match": "unit",
+  "from": "da0709:U00008",
+  "jp": "「憎悪の空より来たりて――」",
+  "ko_segments": [
+   "「증오의 하늘에서 도래하여――」"
+  ]
+ },
+ {
+  "unit": "da0603:U00003",
+  "match": "unit",
+  "from": "da0701:U00123",
+  "jp": "「九郎……」",
+  "ko_segments": [
+   "「쿠로……」"
+  ]
+ },
+ {
+  "unit": "da0603:U00005",
+  "match": "unit",
+  "from": "da0709:U00009",
+  "jp": "「正しき怒りを胸に――」",
+  "ko_segments": [
+   "「올바른 분노를 가슴에 품고――」"
+  ]
+ },
+ {
+  "unit": "da0603:U00006",
+  "match": "unit",
+  "from": "da0102:U00078",
+  "jp": "「…………」",
+  "ko_segments": [
+   "「…………」"
+  ]
+ },
+ {
+  "unit": "da0603:U00008",
+  "match": "unit",
+  "from": "da0709:U00010",
+  "jp": "「「我等は魔を断つ剣を執る！」」",
+  "ko_segments": [
+   "「「우리는 마를 끊는 검을 잡는다!」」"
+  ]
+ },
+ {
+  "unit": "da0603:U00016",
+  "match": "unit",
+  "from": "da0701:U00006",
+  "jp": "「……デモンベイン！」",
+  "ko_segments": [
+   "「……데몬베인!」"
+  ]
+ },
+ {
+  "unit": "da0604:U00002",
+  "match": "unit",
+  "from": "da0304:U00054",
+  "jp": "「ぐっ……」",
+  "ko_segments": [
+   "「극……」"
+  ]
+ },
+ {
+  "unit": "da0604:U00012",
+  "match": "unit",
+  "from": "da0105:U00043",
+  "jp": "「――――！？」",
+  "ko_segments": [
+   "「――――!?」"
+  ]
+ },
+ {
+  "unit": "da0604:U00013",
+  "match": "line",
+  "from": [
+   "da0103:U00004"
+  ],
+  "jp_lines": [
+   "　自我の防壁をいとも容易く擦り抜け、怒涛の如く流れ込んでくる"
+  ]
+ },
+ {
+  "unit": "da0604:U00015",
+  "match": "line",
+  "from": [
+   "da0103:U00006"
+  ],
+  "jp_lines": [
+   "　貴方は――『何』なんだ？"
+  ]
+ },
+ {
+  "unit": "da0605:U00001",
+  "match": "unit",
+  "from": "da1306:U00072",
+  "jp": "「デモンベインッ！？」",
+  "ko_segments": [
+   "「데몬베인!?」"
+  ]
+ },
+ {
+  "unit": "da0605:U00004",
+  "match": "unit",
+  "from": "da0401:U00028",
+  "jp": "「な……っ！？」",
+  "ko_segments": [
+   "「뭐……엇!?」"
+  ]
+ },
+ {
+  "unit": "da0605:U00024",
+  "match": "unit",
+  "from": "da0112:U00030",
+  "jp": "「……おいおい」",
+  "ko_segments": [
+   "「……어이어이」"
+  ]
+ },
+ {
+  "unit": "da0605:U00031",
+  "match": "unit",
+  "from": "da0203:U00061",
+  "jp": "「な……っ」",
+  "ko_segments": [
+   "「뭐……읏」"
+  ]
+ },
+ {
+  "unit": "da0606:U00029",
+  "match": "unit",
+  "from": "da0105:U00043",
+  "jp": "「――――！？」",
+  "ko_segments": [
+   "「――――!?」"
+  ]
+ },
+ {
+  "unit": "da0606:U00040",
+  "match": "unit",
+  "from": "da0119:U00031",
+  "jp": "「アトランティス・ストライク！」",
+  "ko_segments": [
+   "「아틀란티스 스트라이크!」"
+  ]
+ },
+ {
+  "unit": "da0606:U00049",
+  "match": "unit",
+  "from": "da0105:U00043",
+  "jp": "「――――！？」",
+  "ko_segments": [
+   "「――――!?」"
+  ]
+ },
+ {
+  "unit": "da0606:U00053",
+  "match": "unit",
+  "from": "da0105:U00043",
+  "jp": "「――――！？」",
+  "ko_segments": [
+   "「――――!?」"
+  ]
+ },
+ {
+  "unit": "da0606:U00063",
+  "match": "unit",
+  "from": "da0505:U00027",
+  "jp": "「…………！？」",
+  "ko_segments": [
+   "「…………!?」"
+  ]
+ },
+ {
+  "unit": "da0606:U00070",
+  "match": "unit",
+  "from": "da0102:U00078",
+  "jp": "「…………」",
+  "ko_segments": [
+   "「…………」"
+  ]
+ },
+ {
+  "unit": "da0606:U00073",
+  "match": "unit",
+  "from": "da0113:U00012",
+  "jp": "「――――」",
+  "ko_segments": [
+   "「――――」"
+  ]
+ },
+ {
+  "unit": "da1313:U00039",
+  "match": "unit",
+  "from": "da0306:U00011",
+  "jp": "「……ッ！？」",
+  "ko_segments": [
+   "「……읏!?」"
+  ]
+ },
+ {
+  "unit": "da1313:U00049",
+  "match": "unit",
+  "from": "da0306:U00011",
+  "jp": "「……ッ！？」",
+  "ko_segments": [
+   "「……읏!?」"
+  ]
+ },
+ {
+  "unit": "da1314:U00002",
+  "match": "unit",
+  "from": "da0109:U00039",
+  "jp": "「くっ……！」",
+  "ko_segments": [
+   "「큭……!」"
+  ]
+ },
+ {
+  "unit": "da1314:U00031",
+  "match": "unit",
+  "from": "da0402:U00023",
+  "jp": "「――――ッ！」",
+  "ko_segments": [
+   "「――――읏!」"
+  ]
+ },
+ {
+  "unit": "da1314:U00036",
+  "match": "unit",
+  "from": "da0710:U00033",
+  "jp": "「うおおおおおおおおおおお！」",
+  "ko_segments": [
+   "「우오오오오오오오오오오오!」"
+  ]
+ },
+ {
+  "unit": "da1314:U00044",
+  "match": "unit",
+  "from": "da1310:U00006",
+  "jp": "「ナイアルラトホテップ！」",
+  "ko_segments": [
+   "「나이알라토텝!」"
+  ]
+ },
+ {
+  "unit": "da1314:U00048",
+  "match": "unit",
+  "from": "da0306:U00011",
+  "jp": "「……ッ！？」",
+  "ko_segments": [
+   "「……읏!?」"
+  ]
+ },
+ {
+  "unit": "da1314:U00057",
+  "match": "unit",
+  "from": "da0505:U00050",
+  "jp": "「……アズラッド？」",
+  "ko_segments": [
+   "「……아즈라드?」"
+  ]
+ },
+ {
+  "unit": "da1314:U00059",
+  "match": "unit",
+  "from": "da0111:U00026",
+  "jp": "「――――ッ！？」",
+  "ko_segments": [
+   "「――――읏!?」"
+  ]
+ },
+ {
+  "unit": "da1315:U00036",
+  "match": "unit",
+  "from": "da0102:U00019",
+  "jp": "「だが……」",
+  "ko_segments": [
+   "「허나……」"
+  ]
+ },
+ {
+  "unit": "da1316:U00005",
+  "match": "unit",
+  "from": "da0306:U00011",
+  "jp": "「……ッ！？」",
+  "ko_segments": [
+   "「……읏!?」"
+  ]
+ },
+ {
+  "unit": "da1316:U00011",
+  "match": "unit",
+  "from": "da0506:U00027",
+  "jp": "「……アズラッド」",
+  "ko_segments": [
+   "「……아즈라드」"
+  ]
+ },
+ {
+  "unit": "da1316:U00019",
+  "match": "unit",
+  "from": "da0709:U00008",
+  "jp": "「憎悪の空より来たりて――」",
+  "ko_segments": [
+   "「증오의 하늘에서 도래하여――」"
+  ]
+ },
+ {
+  "unit": "da1316:U00020",
+  "match": "unit",
+  "from": "da0709:U00009",
+  "jp": "「正しき怒りを胸に――」",
+  "ko_segments": [
+   "「올바른 분노를 가슴에 품고――」"
+  ]
+ },
+ {
+  "unit": "da1316:U00021",
+  "match": "unit",
+  "from": "da0709:U00010",
+  "jp": "「「我等は魔を断つ剣を執る！」」",
+  "ko_segments": [
+   "「「우리는 마를 끊는 검을 잡는다!」」"
+  ]
+ },
+ {
+  "unit": "da1316:U00022",
+  "match": "unit",
+  "from": "da0709:U00011",
+  "jp": "「「汝、無垢なる刃――デモンベイン！」」",
+  "ko_segments": [
+   "「「그대, 무구한 칼날――데몬베인!」」"
+  ]
+ },
+ {
+  "unit": "da1317:U00009",
+  "match": "unit",
+  "from": "da0103:U00003",
+  "jp": "「――――！」",
+  "ko_segments": [
+   "「――――!」"
+  ]
+ },
+ {
+  "unit": "da1317:U00024",
+  "match": "unit",
+  "from": "da0103:U00003",
+  "jp": "「――――！」",
+  "ko_segments": [
+   "「――――!」"
+  ]
+ },
+ {
+  "unit": "da1317:U00036",
+  "match": "unit",
+  "from": "da0102:U00078",
+  "jp": "「…………」",
+  "ko_segments": [
+   "「…………」"
+  ]
+ },
+ {
+  "unit": "da1317:U00043",
+  "match": "unit",
+  "from": "da0402:U00023",
+  "jp": "「――――ッ！」",
+  "ko_segments": [
+   "「――――읏!」"
+  ]
+ },
+ {
+  "unit": "da1317:U00047",
+  "match": "unit",
+  "from": "da0802:U00036",
+  "jp": "「うおおおおおおおおおお！」",
+  "ko_segments": [
+   "「우오오오오오오오오오오!」"
+  ]
+ },
+ {
+  "unit": "da1317:U00053",
+  "match": "unit",
+  "from": "da0501:U00015",
+  "jp": "「……何？」",
+  "ko_segments": [
+   "「……뭐라?」"
+  ]
+ },
+ {
+  "unit": "da1319:U00031",
+  "match": "unit",
+  "from": "da0102:U00078",
+  "jp": "「…………」",
+  "ko_segments": [
+   "「…………」"
+  ]
+ },
+ {
+  "unit": "da1319:U00032",
+  "match": "unit",
+  "from": "da0501:U00013",
+  "jp": "「……どうした？」",
+  "ko_segments": [
+   "「……왜 그러나?」"
+  ]
+ },
+ {
+  "unit": "da1319:U00038",
+  "match": "unit",
+  "from": "da0102:U00060",
+  "jp": "「……アル」",
+  "ko_segments": [
+   "「……알」"
+  ]
+ },
+ {
+  "unit": "da1319:U00041",
+  "match": "unit",
+  "from": "da0705:U00015",
+  "jp": "「……てけり・り」",
+  "ko_segments": [
+   "「……테케리・리」"
+  ]
+ },
+ {
+  "unit": "da1319:U00045",
+  "match": "unit",
+  "from": "da0705:U00015",
+  "jp": "「……てけり・り」",
+  "ko_segments": [
+   "「……테케리・리」"
+  ]
+ },
+ {
+  "unit": "da1319:U00048",
+  "match": "unit",
+  "from": "da0701:U00068",
+  "jp": "「そして……」",
+  "ko_segments": [
+   "「그리고……」"
+  ]
+ },
+ {
+  "unit": "da1319:U00054",
+  "match": "unit",
+  "from": "da0705:U00026",
+  "jp": "「てけり・り……」",
+  "ko_segments": [
+   "「테케리・리……」"
+  ]
+ },
+ {
+  "unit": "da1320:U00022",
+  "match": "unit",
+  "from": "da0701:U00005",
+  "jp": "「おお……！」",
+  "ko_segments": [
+   "「오오……!」"
+  ]
+ },
+ {
+  "unit": "da1320:U00023",
+  "match": "unit",
+  "from": "da0405:U00035",
+  "jp": "「……凄い」",
+  "ko_segments": [
+   "「……대단해」"
+  ]
+ },
+ {
+  "unit": "da1401:U00003",
+  "match": "unit",
+  "from": "da0709:U00062",
+  "jp": "「これは……！」",
+  "ko_segments": [
+   "「이것은……!」"
+  ]
+ },
+ {
+  "unit": "da1501a:U00001",
+  "match": "unit",
+  "from": "da0803:U00013",
+  "jp": "「これは……」",
+  "ko_segments": [
+   "「이건……」"
+  ]
+ },
+ {
+  "unit": "da1502a:U00022",
+  "match": "unit",
+  "from": "da0306:U00011",
+  "jp": "「……ッ！？」",
+  "ko_segments": [
+   "「……읏!?」"
+  ]
+ },
+ {
+  "unit": "da1503a:U00006",
+  "match": "unit",
+  "from": "da0307:U00022",
+  "jp": "「え……？」",
+  "ko_segments": [
+   "「어……?」"
+  ]
+ },
+ {
+  "unit": "da1504:U00020",
+  "match": "unit",
+  "from": "da0403:U00035",
+  "jp": "「てけり・り！」",
+  "ko_segments": [
+   "「테케리・리!」"
+  ]
+ },
+ {
+  "unit": "da1504:U00031",
+  "match": "unit",
+  "from": "da0102:U00078",
+  "jp": "「…………」",
+  "ko_segments": [
+   "「…………」"
+  ]
+ },
+ {
+  "unit": "da1505:U00030",
+  "match": "unit",
+  "from": "da0113:U00012",
+  "jp": "「――――」",
+  "ko_segments": [
+   "「――――」"
+  ]
+ },
+ {
+  "unit": "da9901:U00006",
+  "match": "unit",
+  "from": "da0102:U00050",
+  "jp": "「てけり・り？」",
+  "ko_segments": [
+   "「테케리・리?」"
+  ]
+ },
+ {
+  "unit": "da9901:U00013",
+  "match": "unit",
+  "from": "da0102:U00078",
+  "jp": "「…………」",
+  "ko_segments": [
+   "「…………」"
+  ]
+ },
+ {
+  "unit": "da9901:U00016",
+  "match": "unit",
+  "from": "da0102:U00078",
+  "jp": "「…………」",
+  "ko_segments": [
+   "「…………」"
+  ]
+ },
+ {
+  "unit": "da9901:U00019",
+  "match": "unit",
+  "from": "da0102:U00023",
+  "jp": "「てけり・り」",
+  "ko_segments": [
+   "「테케리・리」"
+  ]
+ },
+ {
+  "unit": "da9901:U00022",
+  "match": "unit",
+  "from": "da0303:U00001",
+  "jp": "「ん……んん……」",
+  "ko_segments": [
+   "「음…… 으음……」"
+  ]
+ },
+ {
+  "unit": "da9901:U00025",
+  "match": "unit",
+  "from": "da0705:U00024",
+  "jp": "「……てけり・り？」",
+  "ko_segments": [
+   "「……테케리・리?」"
+  ]
+ },
+ {
+  "unit": "da9901:U00043",
+  "match": "unit",
+  "from": "da0102:U00023",
+  "jp": "「てけり・り」",
+  "ko_segments": [
+   "「테케리・리」"
+  ]
+ },
+ {
+  "unit": "da9901:U00045",
+  "match": "unit",
+  "from": "da0102:U00078",
+  "jp": "「…………」",
+  "ko_segments": [
+   "「…………」"
+  ]
+ },
+ {
+  "unit": "da9902:U00023",
+  "match": "unit",
+  "from": "da0303:U00005",
+  "jp": "「…………！」",
+  "ko_segments": [
+   "「…………!」"
+  ]
+ },
+ {
+  "unit": "da9902:U00032",
+  "match": "unit",
+  "from": "da0102:U00078",
+  "jp": "「…………」",
+  "ko_segments": [
+   "「…………」"
+  ]
+ },
+ {
+  "unit": "da9902:U00041",
+  "match": "unit",
+  "from": "da0102:U00049",
+  "jp": "「………………」",
+  "ko_segments": [
+   "「………………」"
+  ]
+ },
+ {
+  "unit": "da9904:U00006",
+  "match": "unit",
+  "from": "da0305:U00098",
+  "jp": "「――――――」",
+  "ko_segments": [
+   "「――――――」"
+  ]
+ },
+ {
+  "unit": "da9904:U00017",
+  "match": "unit",
+  "from": "da0111:U00003",
+  "jp": "「えっ……？」",
+  "ko_segments": [
+   "「어……?」"
+  ]
+ },
+ {
+  "unit": "da9905:U00007",
+  "match": "unit",
+  "from": "da0102:U00078",
+  "jp": "「…………」",
+  "ko_segments": [
+   "「…………」"
+  ]
+ },
+ {
+  "unit": "da9905:U00030",
+  "match": "unit",
+  "from": "da0108:U00017",
+  "jp": "「……………………」",
+  "ko_segments": [
+   "「……………………」"
+  ]
+ },
+ {
+  "unit": "da9905:U00031",
+  "match": "unit",
+  "from": "da0108:U00017",
+  "jp": "「……………………」",
+  "ko_segments": [
+   "「……………………」"
+  ]
+ },
+ {
+  "unit": "da9905:U00033",
+  "match": "unit",
+  "from": "da0102:U00060",
+  "jp": "「……アル」",
+  "ko_segments": [
+   "「……알」"
+  ]
+ },
+ {
+  "unit": "da9905:U00035",
+  "match": "unit",
+  "from": "da0502:U00025",
+  "jp": "「……何だ？」",
+  "ko_segments": [
+   "「……뭐지?」"
+  ]
+ },
+ {
+  "unit": "da9905:U00043",
+  "match": "unit",
+  "from": "da0102:U00049",
+  "jp": "「………………」",
+  "ko_segments": [
+   "「………………」"
+  ]
+ },
+ {
+  "unit": "da9905:U00058",
+  "match": "unit",
+  "from": "da0305:U00098",
+  "jp": "「――――――」",
+  "ko_segments": [
+   "「――――――」"
+  ]
+ },
+ {
+  "unit": "da9905:U00065",
+  "match": "unit",
+  "from": "da0307:U00022",
+  "jp": "「え……？」",
+  "ko_segments": [
+   "「어……?」"
+  ]
+ },
+ {
+  "unit": "da9905:U00077",
+  "match": "unit",
+  "from": "da0102:U00078",
+  "jp": "「…………」",
+  "ko_segments": [
+   "「…………」"
+  ]
+ },
+ {
+  "unit": "da9905:U00086",
+  "match": "unit",
+  "from": "da0102:U00049",
+  "jp": "「………………」",
+  "ko_segments": [
+   "「………………」"
+  ]
+ },
+ {
+  "unit": "da9905:U00087",
+  "match": "unit",
+  "from": "da0102:U00049",
+  "jp": "「………………」",
+  "ko_segments": [
+   "「………………」"
+  ]
+ },
+ {
+  "unit": "da9906ed:U00003",
+  "match": "unit",
+  "from": "da0102:U00078",
+  "jp": "「…………」",
+  "ko_segments": [
+   "「…………」"
+  ]
+ }
+]

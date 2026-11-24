@@ -1,0 +1,18 @@
+{
+ "game": "Y:\\AI\\claude-work\\khd-release-1118\\zipcheck\\A",
+ "want": 3,
+ "exited": true,
+ "moved_windows": [],
+ "native_log": [
+  "170727171 pid=46164 tid=64880 shelf: 9 books, 1 found only in the books folder",
+  "170727359 pid=46164 tid=64880 shelf: 9 books, 1 found only in the books folder"
+ ],
+ "ok": false,
+ "log": [
+  "03:08:45 put in Y:\\AI\\claude-work\\khd-release-1118\\zipcheck\\A: KHDLore.dll, ko-library/library.js, ko-library/books/시험 책 1.epub",
+  "03:08:46 game window 0x2c41f32 pid 46164",
+  "03:09:23 no settings dialog after PRESS START",
+  "03:09:29 LORE open: True",
+  "03:09:31 autobattle.ini restored"
+ ]
+}

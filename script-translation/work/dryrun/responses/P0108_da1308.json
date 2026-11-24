@@ -1,0 +1,804 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0108_da1308",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da1308:T00001",
+   "source_sha256": "4099aade95679b625b8c7d9dbf10c3652839f67308449e72050cac424521fe7a",
+   "ko": "데몬베인 투 소드에서 넘쳐흐르는 나사/톱니바퀴/태엽/배관/철골/도선/장갑――그것은 순식간에 지평선까지 뒤덮어, 세계를 "
+  },
+  {
+   "id": "da1308:R00001",
+   "source_sha256": "5461d30a804ce645d1361f44d672265ede0fb36d3602d183a40c5f12c2418cf1",
+   "ko": "파츠",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1308:T00002",
+   "source_sha256": "81c946eaa0779951bd08ebc4db804dc22b1d2b834bbe846f1991b279690e015a",
+   "ko": "기계"
+  },
+  {
+   "id": "da1308:T00003",
+   "source_sha256": "813a7178ad031f072b450fb06fd419f59b1f4d063cc23c066663005b3c3f4e45",
+   "ko": "의 바다로 가라앉혔다.\n\n　무한히 증식을 계속하는 그것들은, 허나 그 모든 것이 완전한 조화를 이루며 훌륭하게 맞물려, 도저히 인지가 미치지 못하는 이계의 논리에 따라 구동하고 있었다.\n\n　세계를 뒤덮을 만큼 거대한――너무나도 거대한 이 이형의 "
+  },
+  {
+   "id": "da1308:R00002",
+   "source_sha256": "72b6f42596818941a83a8f5ce14c15a2c5763478a110dff56875015f45ba87fd",
+   "ko": "머신은",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1308:T00004",
+   "source_sha256": "81c946eaa0779951bd08ebc4db804dc22b1d2b834bbe846f1991b279690e015a",
+   "ko": "기계는"
+  },
+  {
+   "id": "da1308:T00005",
+   "source_sha256": "fb03b12b296c7652e5e81abfffdc9ffe9c03be20d66c2b4764a560b337b09cfd",
+   "ko": ", 데몬베인마저 그 "
+  },
+  {
+   "id": "da1308:R00003",
+   "source_sha256": "088462f65b7e8bc00db9fd7d87cf33cea200daceb9094dea9dc851b2a1851090",
+   "ko": "시스템",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1308:T00006",
+   "source_sha256": "ed1aeb2f2211575f62d7a013a4959bbabe029ced9577a9684338c56cd01bb72d",
+   "ko": "기관"
+  },
+  {
+   "id": "da1308:T00007",
+   "source_sha256": "874af99441c71c30547da52e353ecaf0428fe8910fc52b85cd7af1a9b40d6e18",
+   "ko": "에 편입시키려 나사/톱니바퀴/태엽/배관/철골/도선/장갑을 휘감아 온다."
+  },
+  {
+   "id": "da1308:R00004",
+   "source_sha256": "c9bcbe52fdbb15957ee0ef72970854daf3357a9d7e2f874781d23ead0cb89938",
+   "ko": "와이어가",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1308:T00008",
+   "source_sha256": "22d0ab9547eca34dee8f28b6d4c6ad835de2f0c193c72717b72a4d283aaddcc4",
+   "ko": "도선이"
+  },
+  {
+   "id": "da1308:T00009",
+   "source_sha256": "0c64a629cf0d272ebc90e3cdd6a0963ba3485752db2b8d41337d78869b446020",
+   "ko": " 기체 내부로 침입하고, "
+  },
+  {
+   "id": "da1308:R00005",
+   "source_sha256": "782f9b6761026bcd49fa0eb1bb7c04ed366bc2bcf80bbc80a5995b90f56504b0",
+   "ko": "튜브",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1308:T00010",
+   "source_sha256": "0b54e7b7de55ea6076a57cd06cecbf8d002faa009acdd54868b21e6db3aa3d50",
+   "ko": "배관"
+  },
+  {
+   "id": "da1308:T00011",
+   "source_sha256": "c4a40ea8fe35627476f7f8cb9e1fc7f8898f428c6d1ff18b0bc5479d5db39c5f",
+   "ko": ", "
+  },
+  {
+   "id": "da1308:R00006",
+   "source_sha256": "4d9c2e5034e9e2a5f43c4e3de284a48806e6bee89d22c509a1e23dd941c290a1",
+   "ko": "프레임",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1308:T00012",
+   "source_sha256": "344a7b0cbd6106c789bcba21540b806669ab6181e1c5957637193891fdc7ca40",
+   "ko": "철골"
+  },
+  {
+   "id": "da1308:T00013",
+   "source_sha256": "ff4107b547a2f5598d1af339d207dc011d195ce5305f32f2918e9eb97ddf45cd",
+   "ko": "이 꿰뚫고 박히며, "
+  },
+  {
+   "id": "da1308:R00007",
+   "source_sha256": "e20ae0b446b64ec30726e8cd3cf3f0661ee7d80f0a7aa8e089c9613434decaac",
+   "ko": "스크루",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1308:T00014",
+   "source_sha256": "776829118fcbf5056c6965a578d33822616d43187553ef0981e23c1cbd7c3ee2",
+   "ko": "나사"
+  },
+  {
+   "id": "da1308:T00015",
+   "source_sha256": "f883da8006c9cbf42f290fb6e1ae590ceaa268f945bf5842a154c15cc9388f7a",
+   "ko": "는 장갑과\n장갑을 이어 묶고, "
+  },
+  {
+   "id": "da1308:R00008",
+   "source_sha256": "c738df21c0f62894b4fe0566bc7abe856080a066ffc8fee9e2d1fe625aeddc87",
+   "ko": "기어",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1308:T00016",
+   "source_sha256": "8f8342a36522012f82ec786d7442ec1892511d9de750d85de2ca7d922923895f",
+   "ko": "톱니바퀴"
+  },
+  {
+   "id": "da1308:T00017",
+   "source_sha256": "c4a40ea8fe35627476f7f8cb9e1fc7f8898f428c6d1ff18b0bc5479d5db39c5f",
+   "ko": ", "
+  },
+  {
+   "id": "da1308:R00009",
+   "source_sha256": "75430dd194b46b52f04da5b85a52e85be3a4250739da4a0f35faae5f1d6b8751",
+   "ko": "스프링",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1308:T00018",
+   "source_sha256": "dbffa4b690b03437fb91465f2ad9e4e995992bd8a7a47ff3f3c3433077ba0ed5",
+   "ko": "태엽"
+  },
+  {
+   "id": "da1308:T00019",
+   "source_sha256": "f649d7030ce129e73bad7400227ebca51b5e05d7cbf4b59b946afa34c6bad575",
+   "ko": "은 내부와 외부의 움직임을 연결하기 위해\n짜맞춰진다."
+  },
+  {
+   "id": "da1308:T00020",
+   "source_sha256": "ef7028ac86d74ecd7679b445f9c68c8621f2f911b650c17d19f96f795407dc4e",
+   "ko": "데몬베인이 이형의 "
+  },
+  {
+   "id": "da1308:R00010",
+   "source_sha256": "c487f6c74288ab019961e56aef522e3c87d5dc00cef31baca8f8cb4f04f304e1",
+   "ko": "마키나",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1308:T00021",
+   "source_sha256": "81c946eaa0779951bd08ebc4db804dc22b1d2b834bbe846f1991b279690e015a",
+   "ko": "기계"
+  },
+  {
+   "id": "da1308:T00022",
+   "source_sha256": "b7605290f840c0b6f150a735486762906b2bee11a82adf5e941f3ea07613c407",
+   "ko": "에 침식당한다."
+  },
+  {
+   "id": "da1308:T00023",
+   "source_sha256": "d6442b6c6fe500b9530b6f204392aaf338fba087bbfec7fa5a9fb56be2d215b6",
+   "ko": "데몬베인 투 소드 또한 마찬가지다. 분해되고, 재구축되어,\n순식간에 별개의, 다른 『무언가』로 변모해 간다."
+  },
+  {
+   "id": "da1308:T00024",
+   "source_sha256": "cea2929abc44e62681b142470562690cc9de2eb358d77952adf0f00e4fc32369",
+   "ko": "「어째서……?\n　어째서 이런 일이\n　벌어지고 있는 거야……?」"
+  },
+  {
+   "id": "da1308:T00025",
+   "source_sha256": "ea8a4dd44b2e2fd0cb119fcf704b424b9e5b0cb91fe1812c173ee235a83b41e3",
+   "ko": "그 모습을 경악 어린 표정으로, 망연자실 바라보는 붉은 소녀."
+  },
+  {
+   "id": "da1308:T00026",
+   "source_sha256": "229bf85a02d440d2acc24ce2f04d83d5abb8f05299862f7575e360673ef7e5bf",
+   "ko": "물론, 이것은 그녀가 의도한 사태가 아니리라.\n\n　하지만 나는 "
+  },
+  {
+   "id": "da1308:R00011",
+   "source_sha256": "67972a2c8e5ecaca4ffebbe487dfef1e8db028ebd1569d5547e4e96156650b7c",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1308:T00027",
+   "source_sha256": "5cb53e3de202ecbb3e7fd1e3903cb9bc748413ba5caaf013960008b13708f3f5",
+   "ko": "이해하고"
+  },
+  {
+   "id": "da1308:T00028",
+   "source_sha256": "7991ac3973708ac890d8cbef5fa7da8df51b70f27c3bdd85050df8187f1de510",
+   "ko": " 있다."
+  },
+  {
+   "id": "da1308:T00029",
+   "source_sha256": "c86377d2ecd47d4064509dbd08b33fba886a6053444596f5d0179e13a4cf4e5b",
+   "ko": "이 신력――이 존재력!"
+  },
+  {
+   "id": "da1308:T00030",
+   "source_sha256": "5595bc266ed94c9d3efb1cee128d1a4b99a30238183044592c3a5ca5b2e34832",
+   "ko": "나는 일찍이, 이 구현화된 절망――"
+  },
+  {
+   "id": "da1308:T00031",
+   "source_sha256": "3ce39cf90f6846d3c3dd0156c04a916b3dfe7e9cd57256c61d50e281ae95613b",
+   "ko": "우주적인 악의와 대치했었다.\n\n　바깥의 신."
+  },
+  {
+   "id": "da1308:T00032",
+   "source_sha256": "004c5d8613c1484b55b1be6c28c3eabbe88321007b0503875056120d80f7e919",
+   "ko": "얼굴 없는 신."
+  },
+  {
+   "id": "da1308:T00033",
+   "source_sha256": "1e83c84295e143c4f84e4ebe87bc4a35a98cd9a9e0239b48400f2a442cb37704",
+   "ko": "천의 이형."
+  },
+  {
+   "id": "da1308:T00034",
+   "source_sha256": "1ade2ae7320fd412d6ff1cee5a37b78b5ec105eafbeb158c19fce581de364339",
+   "ko": "혼돈!"
+  },
+  {
+   "id": "da1308:T00035",
+   "source_sha256": "1ade2ae7320fd412d6ff1cee5a37b78b5ec105eafbeb158c19fce581de364339",
+   "ko": "혼돈!"
+  },
+  {
+   "id": "da1308:T00036",
+   "source_sha256": "1ade2ae7320fd412d6ff1cee5a37b78b5ec105eafbeb158c19fce581de364339",
+   "ko": "혼돈!"
+  },
+  {
+   "id": "da1308:T00037",
+   "source_sha256": "d41eda951599239f788a8c26b73a0f920a33a16c1226c472baa3ea3b481d5497",
+   "ko": "「……나이알라토텝!」"
+  },
+  {
+   "id": "da1308:T00038",
+   "source_sha256": "42d15b1f0fb352b9dcca49138b3c1d5cd90ee930b5dc8afa827a82aa73dcd12e",
+   "ko": "「오랜만이군, 다이쥬지 쿠로 군.\n　아니, 나에게 시간의 개념은 지독히도\n　무의미한 것이긴 하지만」"
+  },
+  {
+   "id": "da1308:T00039",
+   "source_sha256": "1299e08d6d33f028902b500600ac56fb25c0e97624fd164cb3bc196026f04c7c",
+   "ko": "「……게임 키퍼」"
+  },
+  {
+   "id": "da1308:T00040",
+   "source_sha256": "1ebc87c7c3827202c8204d2c644f0e3a4f5786322ca40aa87467728b936b99b6",
+   "ko": "변질하는 데몬베인 투 소드의 정수리에 검은 그림자가 있었다."
+  },
+  {
+   "id": "da1308:T00041",
+   "source_sha256": "68f1e0e209505d8f6f27338223b9329218aad7059494ac0d986506874d6d902a",
+   "ko": "어둠보다도 깊은 칠흑의 그림자."
+  },
+  {
+   "id": "da1308:T00042",
+   "source_sha256": "2d6f7dd09c042aeb370a516a0ca348803ff1e19fff131cfed9c9d0132772ffd0",
+   "ko": "하지만 조금씩 그 모습을 인식할 수 있게 된다."
+  },
+  {
+   "id": "da1308:T00043",
+   "source_sha256": "90ce0919cbe7581c6a48de32603b170d170c067512982e584ebae8c17db61152",
+   "ko": "「아우구스투스라고? 어째서, 그런 모습을……?」"
+  },
+  {
+   "id": "da1308:T00044",
+   "source_sha256": "7c2cc4a87b1ccee1ba6ad69cc01a7df5fe373506aca8e9b0b3d968f020668649",
+   "ko": "「아아, 그런가. 그랬었군. "
+  },
+  {
+   "id": "da1308:R00012",
+   "source_sha256": "4d128cf4ddce41f19069679c788415c8757f17fce9a4bb203c99c1fa693cd150",
+   "ko": "・・　・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1308:T00045",
+   "source_sha256": "64ca86e0ed259cf19871c0cb74cc1b20c6cb16530b84613c48b7e045b386b104",
+   "ko": "지금의, 그"
+  },
+  {
+   "id": "da1308:T00046",
+   "source_sha256": "4d2168038562367c8d72dd2a880d50f8759c041d3931e87071fe2ff4583fe6b5",
+   "ko": " 『그대』와는, 이 모습으로 마주친 적이 없었지」"
+  },
+  {
+   "id": "da1308:T00047",
+   "source_sha256": "35e00a0cb26de9375b990a30ede5b104283738b2ccc788a63be0bded8d9b5052",
+   "ko": "모습이 바뀐다."
+  },
+  {
+   "id": "da1308:T00048",
+   "source_sha256": "8f89b62e1b58b9cf304d627efd84eaa4c9ac928d34ff0cb7e9dbfd08bbc54d85",
+   "ko": "남자의 "
+  },
+  {
+   "id": "da1308:R00013",
+   "source_sha256": "6e28cc407a3f70af7741cc6893cdf0b07f32a347c39eb7207646efd80feb4607",
+   "ko": "모습",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1308:T00049",
+   "source_sha256": "101e8536327c0f2b2dcb11a5356a110fd822d2acb494e0bc36b1ae05b4f3aec3",
+   "ko": "형상"
+  },
+  {
+   "id": "da1308:T00050",
+   "source_sha256": "90b1061b5f1c988c6efedb1015532da1d1abb805e20485e98a0ffd1a68c751c4",
+   "ko": "에서, 여자의 형상으로."
+  },
+  {
+   "id": "da1308:T00051",
+   "source_sha256": "0c52f65d7d60f9ed8a547bf3252011cc6b44bae0b62d822d3575223397c55ce3",
+   "ko": "「후후…… 그렇네.\n　역시 이 모습이 마음에 들려나?\n　그대와의 밀회를 즐길 때는 특히, 말이야」"
+  },
+  {
+   "id": "da1308:T00052",
+   "source_sha256": "884de7ab6f3ee30a6577573793f763dc5c5a712ccc573c61e2cb18fec865ae65",
+   "ko": "「이번에도 네놈이 흑막인 거냐……!」"
+  },
+  {
+   "id": "da1308:T00053",
+   "source_sha256": "1262148d5c06a6e1585b890681e396a53470bae536e4ecb370074467e9d45118",
+   "ko": "「다시 이 세계――『지금의』 그 『그대』를 만나기까진 엄청나게 애를 먹었어. 이런 거창한 판을 벌여야만 할 정도로 말이야」"
+  },
+  {
+   "id": "da1308:T00054",
+   "source_sha256": "ad3a84bb72f19b22a725b1df1ed7085dba415c64ba9b3d171d352fc595ad2f07",
+   "ko": "「이번엔 뭐냐!?\n　쿠자쿠의 데몬베인에 무슨 짓을 꾸민 거냐앗!?」"
+  },
+  {
+   "id": "da1308:T00055",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da1308:R00014",
+   "source_sha256": "b750c2ece644240b0f8e138a0602b89062dcd4cb934044a963e76bf34670b76d",
+   "ko": "・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1308:T00056",
+   "source_sha256": "b267af42aad609aaab7fbc1c9da89b56133f379ea0754bc41d56c5917c76d926",
+   "ko": "쿠자쿠 군의 "
+  },
+  {
+   "id": "da1308:R00015",
+   "source_sha256": "ad00a0b322492061745b24d0a27cfeb54340097e166853622a9781f99bd15efb",
+   "ko": "・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1308:T00057",
+   "source_sha256": "faad4663917e9f697861dd8f8351f4b75876f086445f4735d2e147048b1329b2",
+   "ko": "데몬베인"
+  },
+  {
+   "id": "da1308:T00058",
+   "source_sha256": "53aadd0a13409fdbc7eeeb17b674c44250b905d74846f491746368a50178a09a",
+   "ko": "이라고?」"
+  },
+  {
+   "id": "da1308:T00059",
+   "source_sha256": "3c1bd5a4a0dea1a6665b47a622387e53fb133f42607dcbf03bb41bcd7bf8a5e1",
+   "ko": "사신의 얼굴이, 모독적인 비웃음으로 일그러졌다."
+  },
+  {
+   "id": "da1308:T00060",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da1308:R00016",
+   "source_sha256": "22a5bebe19dfdce32147b1643d3157f2520606070028ef42d99b9c99fd83b279",
+   "ko": "・・・・・・・・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1308:T00061",
+   "source_sha256": "d363449bc36108bd666c2c8952109c1b9c51aeb995393d20bb492c03dac01b73",
+   "ko": "그런 건 존재하지 않아"
+  },
+  {
+   "id": "da1308:T00062",
+   "source_sha256": "d93a835d0f2787bcb1a759ad3a1b8fbea56d742d0b99720dbbb9ea8ace1926f8",
+   "ko": "」"
+  },
+  {
+   "id": "da1308:T00063",
+   "source_sha256": "82f55b2fbda5759e70b4f7cf5ae2b4d5ffde8ea1533ba447428b3b50980923cf",
+   "ko": "「……뭐라고?」"
+  },
+  {
+   "id": "da1308:T00064",
+   "source_sha256": "2a3e2635860c19f598ac8fa94a335fcaf17edd92e7570f84d8759c5d7c5a43a0",
+   "ko": "사신의――여자의 "
+  },
+  {
+   "id": "da1308:R00017",
+   "source_sha256": "6e28cc407a3f70af7741cc6893cdf0b07f32a347c39eb7207646efd80feb4607",
+   "ko": "모습",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1308:T00065",
+   "source_sha256": "101e8536327c0f2b2dcb11a5356a110fd822d2acb494e0bc36b1ae05b4f3aec3",
+   "ko": "형상"
+  },
+  {
+   "id": "da1308:T00066",
+   "source_sha256": "030a5fa2700af5ce6320031d5d6469864401f7079ee90251c3af26c303353816",
+   "ko": "이 무너지며, "
+  },
+  {
+   "id": "da1308:R00018",
+   "source_sha256": "86261182463e378d15e8042a7b1d817137521eb7f87e108cf6e2bbf1ef1ac6cf",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1308:T00067",
+   "source_sha256": "3030235d7d109b93f1d76328981e54b2760dd9d3394bd0e6eb93e40825f52a1f",
+   "ko": "일렁"
+  },
+  {
+   "id": "da1308:T00068",
+   "source_sha256": "b0fd127ac8ce3e8871109e0ce847ac28c8e6ee5d1edcb51e44247b1560ec5611",
+   "ko": "인다."
+  },
+  {
+   "id": "da1308:T00069",
+   "source_sha256": "1a9ea0a34112bda434db60192e3ccab49ba219de1868836ac23e2da6b0b2163e",
+   "ko": "극채색의 "
+  },
+  {
+   "id": "da1308:R00019",
+   "source_sha256": "2dc83fbd20d852ebc57acbd21403e5d7ef037dcdcd04c98c8aca6c2caeac920e",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1308:T00070",
+   "source_sha256": "ae0f56e8fa98e115575873150d7b657021ae833d0abeb461373a4145636aed33",
+   "ko": "암흑"
+  },
+  {
+   "id": "da1308:T00071",
+   "source_sha256": "69c26ecf3a8dd7b0cdc81d075846336aa355870d359da103579ec45d2a079a88",
+   "ko": "이, "
+  },
+  {
+   "id": "da1308:R00020",
+   "source_sha256": "06ccdf06d7529eb8ab462d5628f9b0cdd5d3cee7ca2b1522ef47f21fdd8f14d2",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1308:T00072",
+   "source_sha256": "1efbe008f21e7be0d14389cb293e2390aa1041ad542efcf3c5ffb99795490f49",
+   "ko": "타오"
+  },
+  {
+   "id": "da1308:T00073",
+   "source_sha256": "b93db20ce337e0e4e4a0331c917b21b3a99ecb7375a3d3237b7c8d0ce73d0f6e",
+   "ko": "른다."
+  },
+  {
+   "id": "da1308:T00074",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da1308:R00021",
+   "source_sha256": "905b0efb2d86b7b8a5e1a663618fe8fda3615a10bcebe5973ba115f428f9c0e2",
+   "ko": "・・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1308:T00075",
+   "source_sha256": "ce97ed3b7ad6d091eb4a864514da21047b9293c56665521d8f06150f215bdc5d",
+   "ko": "이것은 나다"
+  },
+  {
+   "id": "da1308:T00076",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": ". "
+  },
+  {
+   "id": "da1308:R00022",
+   "source_sha256": "b750c2ece644240b0f8e138a0602b89062dcd4cb934044a963e76bf34670b76d",
+   "ko": "・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1308:T00077",
+   "source_sha256": "5a5ccf4d97dd4d6186e07bbc01a46370e4ed0b163dfa7d63addf68635ef810ad",
+   "ko": "나 자신이다"
+  },
+  {
+   "id": "da1308:T00078",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": ". "
+  },
+  {
+   "id": "da1308:R00023",
+   "source_sha256": "5173003fa580a2db58f9eb1071a070c2bf5ff385b83db86aabd9b036ea9ecee4",
+   "ko": "・・・・・・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1308:T00079",
+   "source_sha256": "80708af2e067d3201966df02c0bd68356622d97fd80de29f25ba070b0aa77714",
+   "ko": "천의 얼굴을 지닌 얼굴 없는 자의"
+  },
+  {
+   "id": "da1308:T00080",
+   "source_sha256": "c4a40ea8fe35627476f7f8cb9e1fc7f8898f428c6d1ff18b0bc5479d5db39c5f",
+   "ko": ", "
+  },
+  {
+   "id": "da1308:R00024",
+   "source_sha256": "ad00a0b322492061745b24d0a27cfeb54340097e166853622a9781f99bd15efb",
+   "ko": "・・・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1308:T00081",
+   "source_sha256": "8e1b92f4936a18ee647e82ce671b585e89cb46c4afa839545b3c94ede2ee34d8",
+   "ko": "그중 하나다"
+  },
+  {
+   "id": "da1308:T00082",
+   "source_sha256": "d93a835d0f2787bcb1a759ad3a1b8fbea56d742d0b99720dbbb9ea8ace1926f8",
+   "ko": "」"
+  },
+  {
+   "id": "da1308:T00083",
+   "source_sha256": "abf5c9a54d7b6955207859479b43896f0e03540e3e0725b19026027726e27cde",
+   "ko": "「――――윽!?」"
+  },
+  {
+   "id": "da1308:R00025",
+   "source_sha256": "5461d30a804ce645d1361f44d672265ede0fb36d3602d183a40c5f12c2418cf1",
+   "ko": "파츠",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1308:T00084",
+   "source_sha256": "c8212ffab25e892cdf92a6097c13a297be6199d50cd2b8023b049027741f729f",
+   "ko": "부품"
+  },
+  {
+   "id": "da1308:T00085",
+   "source_sha256": "85b60ad475413b574c0aa5b6a30599ce56981d6640ca2daf0a931b4fdcd4e4e2",
+   "ko": "들이 들끓어, 재조합되고 변질된 데몬베인 투 소드를, 급속도로 팽창한 사신――"
+  },
+  {
+   "id": "da1308:R00026",
+   "source_sha256": "06ccdf06d7529eb8ab462d5628f9b0cdd5d3cee7ca2b1522ef47f21fdd8f14d2",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1308:T00086",
+   "source_sha256": "1efbe008f21e7be0d14389cb293e2390aa1041ad542efcf3c5ffb99795490f49",
+   "ko": "타오"
+  },
+  {
+   "id": "da1308:T00087",
+   "source_sha256": "be4b3a1b0743a80ef7ca4bd7e5946e592e474aebe96ec39cf64a744922859313",
+   "ko": "르는 암흑이 감쌌다."
+  },
+  {
+   "id": "da1308:T00088",
+   "source_sha256": "6b7e06fffdccac50e05ac6f5dae5d106b5708e6552a3466ab90eec4d0b6848f0",
+   "ko": "극채색의 어둠이 춤춘다.\n\n　――그리고, 나는, 이해했다."
+  },
+  {
+   "id": "da1308:T00089",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da1308:R00027",
+   "source_sha256": "905b0efb2d86b7b8a5e1a663618fe8fda3615a10bcebe5973ba115f428f9c0e2",
+   "ko": "・・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1308:T00090",
+   "source_sha256": "b1593db78a3d676b4f3cd86dfb626d1167bad61eb5a8c710bd1311bf55040f5a",
+   "ko": "지금의 이 나"
+  },
+  {
+   "id": "da1308:T00091",
+   "source_sha256": "8611dbf38675cfe09bdb1fd04982a2251f10b85c6aa3348cb672262d97a4b9cf",
+   "ko": "는, 문명에 발전을 가져다주는 예지의 신이다. 어느 때는 "
+  },
+  {
+   "id": "da1308:R00028",
+   "source_sha256": "e50a0c7ee077e55c9dbd8bf56940d3fec17ff38da483d2d3ea51582035fb9551",
+   "ko": "헤파이스토스",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1308:T00092",
+   "source_sha256": "4e0c4e170986921a012d27d48fe0aa2c0addfcb8f4dcb281bed50aa9c69cfb40",
+   "ko": "원초"
+  },
+  {
+   "id": "da1308:T00093",
+   "source_sha256": "3b92fe42abd0fbb1738d5076716cfc3a63085d7b152372856a6698e05bb8551c",
+   "ko": "의 불꽃을, 어느 때는 "
+  },
+  {
+   "id": "da1308:R00029",
+   "source_sha256": "ff9ab4f60c43ff3ba16ad91c87fc98c23b3205d99e556f76e1967c2ff6b36570",
+   "ko": "디퍼런스 엔진을",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1308:T00094",
+   "source_sha256": "f95d30bfb5955d000dd56b9ba704d6756ecec76ef0dcd89c156c5cd3f345c9db",
+   "ko": "계산기를"
+  },
+  {
+   "id": "da1308:T00095",
+   "source_sha256": "64d1e220ff116bb13fe89a7f2f169ce91dc1e7cc80275a1ad251de82a2e31020",
+   "ko": ", 그리고 어느 때는 원자력을 인류에게 부여하여 진화시켜 왔지」"
+  },
+  {
+   "id": "da1308:R00030",
+   "source_sha256": "1b87347f230380ef7d42e1866475e487fa9faeb2814b3647bd4e5a3fca961703",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1308:T00096",
+   "source_sha256": "509c2a12da7e6a4e20094f363caf9c83651b8fb6e2aadde7230521b0bd633edb",
+   "ko": "빛나"
+  },
+  {
+   "id": "da1308:T00097",
+   "source_sha256": "bedddd985db065f1cee6f30842f27c81b50af6235e25d3948af65e4273dd0b80",
+   "ko": "는 암흑의 "
+  },
+  {
+   "id": "da1308:R00031",
+   "source_sha256": "c487f6c74288ab019961e56aef522e3c87d5dc00cef31baca8f8cb4f04f304e1",
+   "ko": "마키나",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1308:T00098",
+   "source_sha256": "411af9b288fb3385dafecfdc0ac3e1da517282ce9a6f37bc93f01c64cc1765a2",
+   "ko": "기체"
+  },
+  {
+   "id": "da1308:T00099",
+   "source_sha256": "3e43d70e5760b79e1b76e621d013eb1024bbacd6285e6f9990f08a4b969fb2b2",
+   "ko": "――그 얼굴을 찢어발기듯 부릅떠진,"
+  },
+  {
+   "id": "da1308:R00032",
+   "source_sha256": "b23809bf96a578e2f1bd090c387ee6bf76b00f431c6ea18868a02155a811f1f4",
+   "ko": "・・・・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1308:T00100",
+   "source_sha256": "e1a9b1786b42f1a32d0c0b52ef3842f4a66c14eba25d35f52dbf267478643aa9",
+   "ko": "세 개의 불타는 눈동자"
+  },
+  {
+   "id": "da1308:T00101",
+   "source_sha256": "631157c15452e8cefd925437a26f1d016b1a5d7575f9234fd0bf7aff0369e63d",
+   "ko": "!"
+  },
+  {
+   "id": "da1308:R00033",
+   "source_sha256": "399541026b89787f76b6312375d21b42244869347cf836059cf9eba724bb4824",
+   "ko": "・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1308:T00102",
+   "source_sha256": "8e64c3889a630b7ab66c2690ddf4cf8f3b65047ce86ca8e6ad2293dcbc27143f",
+   "ko": "이것"
+  },
+  {
+   "id": "da1308:T00103",
+   "source_sha256": "1bfbeb87b57449ce13e1aa8febe9ca9930134982fb0a3b602a664e3fb1a6f26f",
+   "ko": "은 데몬베인 따위가 아니다."
+  },
+  {
+   "id": "da1308:T00104",
+   "source_sha256": "3673ecbb67987ccd787529d6f0cd014d2193ef8306dc2708308fbb83e8f0e656",
+   "ko": "그 "
+  },
+  {
+   "id": "da1308:R00034",
+   "source_sha256": "27e6880348e4fb6e6e2f38f9c70ded7b68c4bcef0acc365190a62f1dfcf8124c",
+   "ko": "안토님",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1308:T00105",
+   "source_sha256": "42ae9091f49d8e597846216f247b663a9364eb3a78ba50881739bed2c229dc8c",
+   "ko": "정반대"
+  },
+  {
+   "id": "da1308:T00106",
+   "source_sha256": "665720e0e8349bc1c70453055d987cd26bc31d3d1c4e5bcd7101d509ae99bb7c",
+   "ko": "――『마를 끊는 검』에게는 영원한 원수!"
+  },
+  {
+   "id": "da1308:T00107",
+   "source_sha256": "6a4b12dcf1b7688252e253112066c96ac396d9f040914277871a97410cdeeb47",
+   "ko": "나이알라토텝의 화신!"
+  },
+  {
+   "id": "da1308:T00108",
+   "source_sha256": "fb851f20e5a3cbf422a50f0daa9b0752d881f710583c82795e10ca81fe720540",
+   "ko": "「지금의 나는 『"
+  },
+  {
+   "id": "da1308:R00035",
+   "source_sha256": "2439817fdc41bebdd900d91ce67851acf11816d61e08831bb38a1b7737fff11f",
+   "ko": "클록워크 팬텀",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1308:T00109",
+   "source_sha256": "85c921a16aabaf020cbdd92e81a9bc2d2882c0ca97b04561eb318b4c2d548863",
+   "ko": "기계장치의 악몽"
+  },
+  {
+   "id": "da1308:T00110",
+   "source_sha256": "daba613ba569fa9b0cb4875e149fe89cf960c624cdf1ca841cdef5d2c93ef2d1",
+   "ko": "』이다」"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da1308:T00054",
+   "kind": "glossary_candidate",
+   "note": "외부 초안의 기존 용어 후보 메모를 스키마에 맞게 보존. Pending glossary candidate 九朔 rendered as 쿠자쿠. 원문: 九朔; 초안 표기: 쿠자쿠. 이 메모만으로 용어 승인을 뜻하지 않음."
+  },
+  {
+   "id": "da1308:R00011",
+   "kind": "ruby_omission_reviewed",
+   "note": "문맥 대조 완료: 理解〈わか〉의 읽기·뜻은 한국어 본문 “이해하고”와 이어지는 어미에 반영됨. 외래어·별칭·별도 의미가 아니므로 중복 읽기만 생략."
+  },
+  {
+   "id": "da1308:R00018",
+   "kind": "ruby_omission_reviewed",
+   "note": "문맥 대조 완료: 幽〈ゆら〉의 읽기·뜻은 한국어 본문 “일렁”와 이어지는 어미에 반영됨. 외래어·별칭·별도 의미가 아니므로 중복 읽기만 생략."
+  },
+  {
+   "id": "da1308:R00019",
+   "kind": "ruby_omission_reviewed",
+   "note": "문맥 대조 완료: 黯黒〈あんこく〉의 읽기·뜻은 한국어 본문 “암흑”와 이어지는 어미에 반영됨. 외래어·별칭·별도 의미가 아니므로 중복 읽기만 생략."
+  },
+  {
+   "id": "da1308:R00020",
+   "kind": "ruby_omission_reviewed",
+   "note": "문맥 대조 완료: 焔〈も〉의 읽기·뜻은 한국어 본문 “타오”와 이어지는 어미에 반영됨. 외래어·별칭·별도 의미가 아니므로 중복 읽기만 생략."
+  },
+  {
+   "id": "da1308:R00026",
+   "kind": "ruby_omission_reviewed",
+   "note": "문맥 대조 완료: 焔〈も〉의 읽기·뜻은 한국어 본문 “타오”와 이어지는 어미에 반영됨. 외래어·별칭·별도 의미가 아니므로 중복 읽기만 생략."
+  },
+  {
+   "id": "da1308:R00030",
+   "kind": "ruby_omission_reviewed",
+   "note": "문맥 대조 완료: 耀〈かがや〉의 읽기·뜻은 한국어 본문 “빛나”와 이어지는 어미에 반영됨. 외래어·별칭·별도 의미가 아니므로 중복 읽기만 생략."
+  }
+ ]
+}

@@ -1,0 +1,137 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0040_da0308",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0308:T00001",
+   "source_sha256": "ba8fc848ba43cb47952cd5fc008446d138a98b6d100fbf6ea9f2a8c5e15f2f09",
+   "ko": "「……제가 무엇을…… 여기는?」"
+  },
+  {
+   "id": "da0308:T00002",
+   "source_sha256": "def9ef4f5b9199afa608800a3c3411f713a8d5b3cb3c22e722b6a2a442aac851",
+   "ko": "「모르겠느냐?」"
+  },
+  {
+   "id": "da0308:T00003",
+   "source_sha256": "d73525342086f18e58fc2283eb64f7b8577e5b3e5d8f28200e9a3755bc245140",
+   "ko": "「!　……누구십니까!?」"
+  },
+  {
+   "id": "da0308:T00004",
+   "source_sha256": "a419dce202b2a83f0971900ad8363d7e582af5df4b34b7b338d4a0bcc812ed4a",
+   "ko": "「인과의 조율인가.\n　사람의 삶과 죽음이란 이토록 손쉽게"
+  },
+  {
+   "id": "da0308:R00001",
+   "source_sha256": "a4a4c9f8a8ed62c32d218c78a336d135c01564f2aa8f0df6c25d752552ec03c5",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0308:T00005",
+   "source_sha256": "f8358bff299399d831105ba896e12fba2dd7e3d61935e90be657bf09b72acbca",
+   "ko": "바꿔 끼"
+  },
+  {
+   "id": "da0308:T00006",
+   "source_sha256": "97e8ec56fa0e0e4a53f214035faf0150d8bcf8e1aa7c93c48f5b50707da4ad7a",
+   "ko": "워질 수 있는 것이더냐.\n　덧없는 것이로군」"
+  },
+  {
+   "id": "da0308:T00007",
+   "source_sha256": "07dd2c7aaf2c58078f7bb2ddf72719c90b371a928df46761a38b5d31bc24e5ff",
+   "ko": "「당신은…… 그때의!」"
+  },
+  {
+   "id": "da0308:T00008",
+   "source_sha256": "3452bd18846ef07ed4ae477293e6a4ddf117bd9155b3d3345218b4317bae586d",
+   "ko": "「허나, 잠깐뿐인 목숨이라 한들 소인은 다시 "
+  },
+  {
+   "id": "da0308:R00002",
+   "source_sha256": "798a829d5bbf96fa300c2c97a0be18727d9a48961f59efd7d55c0a3fc1c9fab2",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0308:T00009",
+   "source_sha256": "1613314fb0cc84d73b2598b9557f8ffd74147cd25453a8158347e85f8749b03e",
+   "ko": "현세"
+  },
+  {
+   "id": "da0308:T00010",
+   "source_sha256": "c26ed3f792d7c52ac91cf6d769fccc70bea70ebd936825246abbdf860bb87c19",
+   "ko": "로 되돌아왔다. 그렇다면 소망은 하나――」"
+  },
+  {
+   "id": "da0308:T00011",
+   "source_sha256": "f5f941d4e196de4275286ef1e0c92b2910d796bdeae5f286a1d614016c89af92",
+   "ko": "「사투를 벌이자, 전사 윈필드.\n　명부마도에 떨어진 나의 검을,\n　인간의 몸인 그대의 주먹으로 부수어 보아라」"
+  },
+  {
+   "id": "da0308:T00012",
+   "source_sha256": "f46ebd485df649f1606a15b34f6ab738ab922bfb54cbea80b1bad4d582f6a4d6",
+   "ko": "「――어째서, 제 이름을」"
+  },
+  {
+   "id": "da0308:T00013",
+   "source_sha256": "80e0e1f84c6a8219278796464874b545069965ef8193dc2a2adc0b7a0bd9ae02",
+   "ko": "「몰라도 되는 일이다」"
+  },
+  {
+   "id": "da0308:T00014",
+   "source_sha256": "5e696371811a8b8b23f1ad51499421321769220ff056b541b3869086e60b94f7",
+   "ko": "「……"
+  },
+  {
+   "id": "da0308:R00003",
+   "source_sha256": "ac2c2fe2a77e427f9cbb751835b1a88af595cc60744b46a951a9b69e0d6807a1",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0308:T00015",
+   "source_sha256": "abc3da5e6b37217b58649678056abe7f5a55f78826a01c1007bc5e9d85a5be5c",
+   "ko": "물러"
+  },
+  {
+   "id": "da0308:T00016",
+   "source_sha256": "8692af9028221365c6d1143fb4f96075e9b67950817413af01db7ab17c427f9b",
+   "ko": "설 생각은 없으신 모양이군요」"
+  },
+  {
+   "id": "da0308:T00017",
+   "source_sha256": "d069eb26fd8df306da08733aef3098fe4945de6c8df13f972902293cb887afd8",
+   "ko": "「루리 아가씨가 걱정됩니다.\n　당신을 상대하는 데 시간을 할애할 수는 없습니다.\n　실례합니다만, 신속히 배제하도록\n　하겠습니다」"
+  },
+  {
+   "id": "da0308:T00018",
+   "source_sha256": "6fa5267d8d8c8c32a2075f3396e5d76e63459c3bf43e39e0f7a6831eb401606b",
+   "ko": "「그래…… 그거면 된다」"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0308:R00001",
+   "kind": "omit_redundant",
+   "note": "한국어 '바꿔 끼워질'로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0308:R00002",
+   "kind": "omit_redundant",
+   "note": "한국어 '현세'로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0308:R00003",
+   "kind": "omit_redundant",
+   "note": "한국어 '물러설'로 의미가 온전히 전달되므로 일본어 훈독 루비 생략"
+  },
+  {
+   "id": "da0308:T00017",
+   "kind": "source_typo_suspected",
+   "note": "원문 '時間は避けません'은 '時間は割けません(시간을 할애할 수 없습니다)'의 동음이의 한자 오타로 판단되어 문맥에 맞게 번역함"
+  }
+ ]
+}

@@ -1,0 +1,218 @@
+{
+  "schema": "khd-gemini-response-v1",
+  "packet_id": "P0064_da0602",
+  "model_id": "Gemini 3.8 Flash (High)",
+  "records": [
+    {
+      "id": "da0602:T00001",
+      "source_sha256": "5ea5e7efe79fc2537e85b21e3019712f54940e7a7332d1230ffca795aeba9693",
+      "ko": "「윈 님!?\n　와 그라십니꺼!」"
+    },
+    {
+      "id": "da0602:T00002",
+      "source_sha256": "520dd086d3b66d937174dc3ed33e2cf8641be9996a504fda2e9524ddb1ee0e67",
+      "ko": "「……읏…… 여러분도 이곳에?」"
+    },
+    {
+      "id": "da0602:T00003",
+      "source_sha256": "e7cd9ee8f3e97c0f54e0f4ad463534bd333254a3641dcf4bc5cfb58e3049382c",
+      "ko": "「――네. 시설 안을 헤매다가,\n　이곳으로 나오게 되어……」"
+    },
+    {
+      "id": "da0602:T00004",
+      "source_sha256": "0131640ce2eead1809125ffa85654d64132188aa3fec87bf4050d550c43a54b4",
+      "ko": "「그것보다!\n　부상이 너무 심하잖아요오!?」"
+    },
+    {
+      "id": "da0602:T00005",
+      "source_sha256": "84598dec21838b8b0424cdf727da87df1f6b36594d045bbdfafd981583a0ea3c",
+      "ko": "「괜찮습니다…… 대수롭지 않습니다」"
+    },
+    {
+      "id": "da0602:T00006",
+      "source_sha256": "7b35d6eb333e27dfd07d439d9751e15d14b9e101fcfaf3611fb2830f745736c5",
+      "ko": "「그건 그렇고, 이 시설은 대체\n　무엇인 걸까요?」"
+    },
+    {
+      "id": "da0602:T00007",
+      "source_sha256": "3ef49431a6c5d53ac204dd5ca2ac172c49381a7faabf06eb6d2a92876dfa771c",
+      "ko": "「――거대한 시설입니다.\n　전체를 다 파악하지 못하겠어요」"
+    },
+    {
+      "id": "da0602:T00008",
+      "source_sha256": "7296b5a5129245e971b6f03c09c99d4abbf44d48a5a9858086740dc6eb3c3d37",
+      "ko": "「누가, 무엇을 위해 이런 것을――」"
+    },
+    {
+      "id": "da0602:T00009",
+      "source_sha256": "48e81801da6d070c74dc361a1ef0eaafdd11a636f557e528c20ab841ae9198c2",
+      "ko": "「――"
+    },
+    {
+      "id": "da0602:R00001",
+      "source_sha256": "33c2d0b4af1a995d8e6d31b19224eaea26485da8e506b78350e7be6207722dda",
+      "ko": "저스티스",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da0602:T00010",
+      "source_sha256": "87b3503956e33dd1f25d81484412e7b515375f6d36e1689e2cede4fa9ba62daa",
+      "ko": "정의를 위해"
+    },
+    {
+      "id": "da0602:T00011",
+      "source_sha256": "6560fad1b5299ec45c7562b1e825f123c87101dc289a1eb71426e443d34f4c8c",
+      "ko": "!」"
+    },
+    {
+      "id": "da0602:T00012",
+      "source_sha256": "54a26669ff9bd80027266dedd46ce7610043dc2e794d487e85d6facdb5ad05ab",
+      "ko": "「뭣……」"
+    },
+    {
+      "id": "da0602:T00013",
+      "source_sha256": "a1e4a647be104d9f51aa87374defbc1618d4d31985d7b72ebea671399bf48ce7",
+      "ko": "「루리 아가씨이!?」"
+    },
+    {
+      "id": "da0602:T00014",
+      "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+      "ko": "「"
+    },
+    {
+      "id": "da0602:R00002",
+      "source_sha256": "b9b90e17200d4b7ce59bd30e8eb7463c2ea57adfd556b47c6dd6168591ef6a2e",
+      "ko": "네거티브",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da0602:T00015",
+      "source_sha256": "9ac98e9cddc7e3dd21ee994db3e1abf78822c881d1e18e515315e0d860ae2518",
+      "ko": "아닙니다"
+    },
+    {
+      "id": "da0602:T00016",
+      "source_sha256": "6560fad1b5299ec45c7562b1e825f123c87101dc289a1eb71426e443d34f4c8c",
+      "ko": "!」"
+    },
+    {
+      "id": "da0602:T00017",
+      "source_sha256": "7b4a929b2ad952e1aff485c73bd639270fc0e5be4e181e8fda04c58953d802c2",
+      "ko": "「하아……?」"
+    },
+    {
+      "id": "da0602:T00018",
+      "source_sha256": "a2c83d8089501145a123bb10d6d7b6f7140ca3edf996bc3e80f45f91c17439b3",
+      "ko": "「여기서는 사령이라 부르세요!」"
+    },
+    {
+      "id": "da0602:T00019",
+      "source_sha256": "70c870a7555667308e40b11ab829df1a2ab6179c9b44d85fca7b706621e0fe71",
+      "ko": "「――――――――」"
+    },
+    {
+      "id": "da0602:T00020",
+      "source_sha256": "db43b58f190c3d5ddc1dfdf3b6c4135910c77e5eba993bae36ae2dafa7d77d7d",
+      "ko": "「전원, 전투 배치!」"
+    },
+    {
+      "id": "da0602:T00021",
+      "source_sha256": "e8bcfadb3a4f670340f856b5e2bad3b05e88377f706e87da90bc16124a24df01",
+      "ko": "「저, 저기…… 잠깐……」"
+    },
+    {
+      "id": "da0602:T00022",
+      "source_sha256": "880848aa7928343c82743bd50fe26898bebbc0f60964dc6113645764c9c9296f",
+      "ko": "「그런…… 등장하자마자 완전히 하이텐션으로 내달리셔도,\n이쪽은 어떻게 해야 좋을지 전혀 모르겠다고요오」"
+    },
+    {
+      "id": "da0602:T00023",
+      "source_sha256": "8bed1a4c8f6fce4af32fa3db04cf25424af436d95da6af0e6fb6dc2cf3c00367",
+      "ko": "「그보다 너 약이라도 한 대 맞았냐 임마 망상으로 도망치지 말고 싸우라고\n현실이랑 상대해야 하는 이쪽 입장도 좀 돼봐라――그런 우울이 우울을 부르는 파란의 전파계 총수. 똑바로 못 쳐다보겠네」"
+    },
+    {
+      "id": "da0602:T00024",
+      "source_sha256": "27f6865af01db768abecb284871af2e4d67a6ecdb406e4078cfb041bc66223d5",
+      "ko": "「거기! 입 다무세요!」"
+    },
+    {
+      "id": "da0602:T00025",
+      "source_sha256": "6f43a8c484a8986f35abaf225a259caf94be90b1c4bd6610fc653c8e4f5c527c",
+      "ko": "「거기다 아가씨……\n　뭔 놈의 남사스러운 차림새를……」"
+    },
+    {
+      "id": "da0602:T00026",
+      "source_sha256": "699c971d3333682a63cbf6239e1ef1123deafeaef7ac1cee6c0abbc67b3b7618",
+      "ko": "「입 다물라고 하잖아요!\n　키――――――익!」"
+    },
+    {
+      "id": "da0602:T00027",
+      "source_sha256": "0c93b84dd5ab57f37b729cde25a1156418d07e9181e488c6f5364b58404cecc5",
+      "ko": "「진정하십시오."
+    },
+    {
+      "id": "da0602:R00003",
+      "source_sha256": "613b845a89b35814c2f23a1befc25a51ea52661fb8b189c1d6b2ad341c48eb2e",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da0602:T00028",
+      "source_sha256": "dbc879e139da5b0af3c7c16508dd528c5127a678c64209fa5ae0413498fea509",
+      "ko": "저희"
+    },
+    {
+      "id": "da0602:T00029",
+      "source_sha256": "f2259f5cf5f5ead91558a2e37247becd1338a2fe7bd1d46fedc7a83cb930dd2d",
+      "ko": "에게는 상황이 도무지……」"
+    },
+    {
+      "id": "da0602:T00030",
+      "source_sha256": "789395eb12baeb73592b600106084031adc7a7269a82c8d9627272b7e7b38adc",
+      "ko": "「――데몬베인입니다」"
+    },
+    {
+      "id": "da0602:T00031",
+      "source_sha256": "0154dc84625197b4f8113e7130227f8f9036a8f0a912cce7ca5eaebbfe374073",
+      "ko": "「……예?」"
+    },
+    {
+      "id": "da0602:T00032",
+      "source_sha256": "a72209b16d82d302863f1e247a9ad22b1fea509d1165bfd2e889fc4fe04b93e8",
+      "ko": "「지금 아컴시티를 덮친 위기에 대항\n　할 수 있는 것은, 데몬베인뿐입니다」"
+    },
+    {
+      "id": "da0602:T00033",
+      "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+      "ko": "「"
+    },
+    {
+      "id": "da0602:R00004",
+      "source_sha256": "67972a2c8e5ecaca4ffebbe487dfef1e8db028ebd1569d5547e4e96156650b7c",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da0602:T00034",
+      "source_sha256": "5cb53e3de202ecbb3e7fd1e3903cb9bc748413ba5caaf013960008b13708f3f5",
+      "ko": "알"
+    },
+    {
+      "id": "da0602:T00035",
+      "source_sha256": "ef9c8f1ead3a52c74087ba7c99f339ab41d274a2e4f24e2890df54fc5852faf4",
+      "ko": "고 계실 터입니다.\n　　데몬베인의 싸움은,\n　　저희들의 마음속에\n　　새겨져 있으니까요」"
+    }
+  ],
+  "issues": [
+    {
+      "id": "da0602:R00003",
+      "kind": "ruby_redundant",
+      "note": "私의 훈독 わたくし는 밑말과 완전히 중복되어 생략"
+    },
+    {
+      "id": "da0602:R00004",
+      "kind": "ruby_redundant",
+      "note": "理解る의 훈독 わか는 밑말과 완전히 중복되어 생략"
+    }
+  ]
+}

@@ -1,0 +1,665 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0099_da1204",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da1204:T00001",
+   "source_sha256": "b30fb93551baf0d3210cdea317c7228436b39deae23b0ddb2ceefbd1e9ef1b3f",
+   "ko": "「……뭐지?」\n\n　빛이 멎었을 때, "
+  },
+  {
+   "id": "da1204:R00001",
+   "source_sha256": "faad4663917e9f697861dd8f8351f4b75876f086445f4735d2e147048b1329b2",
+   "ko": "데몬베인은",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1204:T00002",
+   "source_sha256": "dd535acd99c5b03e174a390a8dcba6fefb967c818992696391ccd89972e64bf1",
+   "ko": "우리는"
+  },
+  {
+   "id": "da1204:T00003",
+   "source_sha256": "0f4c315856c6b9b6eb2ebcc5cdbe2a26d45e971d1441c0303a20bf18c39c067c",
+   "ko": " 전혀 다른 세계에 서 있었다.\n\n　검은 태양과 붉은 달이 떠오른 탁한 하늘."
+  },
+  {
+   "id": "da1204:T00004",
+   "source_sha256": "af09baa3e89afdfd6d308201485988d26ae133710a4d43c14e3718521326a765",
+   "ko": "정적을 실어 나르는, 죽음의 냄새를 품은 바람."
+  },
+  {
+   "id": "da1204:T00005",
+   "source_sha256": "0810fb5dc4315612615bcd44434bbabf520a6eeefdb066602ff17985961e3067",
+   "ko": "끝없이 펼쳐진 폐허――\n\n　이것은 종말의 아컴 시티다."
+  },
+  {
+   "id": "da1204:T00006",
+   "source_sha256": "e8b5f9e6cd2b6b9f86a5a3cb934f433a026fb37ec13410008f67bdba2783873b",
+   "ko": "「닮았어……」"
+  },
+  {
+   "id": "da1204:T00007",
+   "source_sha256": "c43b036613a066a24274ca86ceba6d862f8b7a0c526687a18ae17ecbc84d690d",
+   "ko": "「무엇이 말이냐?」"
+  },
+  {
+   "id": "da1204:T00008",
+   "source_sha256": "7af665dad78b9ba80e6d37b22a4d81d4944ab3d8cc4c305a1b270089bbc67ea5",
+   "ko": "언젠가 나이알라토텝이 보여 주었던 세계."
+  },
+  {
+   "id": "da1204:T00009",
+   "source_sha256": "c73fe493baabdfcee8d4c527a0c0971b57f5d57b460197d77d94693e03490946",
+   "ko": "그것이 어째서 다시 내 눈앞에 펼쳐져 있는 것인가?"
+  },
+  {
+   "id": "da1204:T00010",
+   "source_sha256": "e0c1ccf410f422b646c37aa258f087cd0e58f767609b3b95dae637c6b123f943",
+   "ko": "「이곳은 쿠자쿠의 내면세계\n　　　　이기도 하거든, 탐정님?」"
+  },
+  {
+   "id": "da1204:T00011",
+   "source_sha256": "b1688c1a43017c363fc9357faadfed4ebce5d2b4e7fc16d80b8b6e659c1bd4dd",
+   "ko": "「……!」"
+  },
+  {
+   "id": "da1204:T00012",
+   "source_sha256": "ad52f4ff1872cba5867baf26e6bf2a48ca1644bd3ea0d2653632d926cc7eed71",
+   "ko": "「드디어 모습을 드러냈느냐……\n　"
+  },
+  {
+   "id": "da1204:R00002",
+   "source_sha256": "f58c026c179665797b00157bf4ac8d76bb0bc4ae666609165f837f7ff7226785",
+   "ko": "어나더 블러드",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1204:T00013",
+   "source_sha256": "7c58b8241c16b415a8072b80c769be7397b9e7bca3dd1eb3bf0637c01669faf8",
+   "ko": "혈액언어판"
+  },
+  {
+   "id": "da1204:T00014",
+   "source_sha256": "6560fad1b5299ec45c7562b1e825f123c87101dc289a1eb71426e443d34f4c8c",
+   "ko": "!」"
+  },
+  {
+   "id": "da1204:T00015",
+   "source_sha256": "0c796155523ab377d387c8e6f9eaafed482de6e56ec5c519b8b99cfd0558d657",
+   "ko": "피 빛깔 바람이 분다."
+  },
+  {
+   "id": "da1204:T00016",
+   "source_sha256": "dc6d3303757ff35a75e17cdaad3db0ce962c88a55eba674a6f8ef372897c0200",
+   "ko": "붉은 날개를 펼치고, "
+  },
+  {
+   "id": "da1204:R00003",
+   "source_sha256": "f58c026c179665797b00157bf4ac8d76bb0bc4ae666609165f837f7ff7226785",
+   "ko": "어나더 블러드",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1204:T00017",
+   "source_sha256": "dc7725f781faa9c185c04502fb2b23311784b108ba34ef44b1207a8811f0c455",
+   "ko": "붉은 소녀"
+  },
+  {
+   "id": "da1204:T00018",
+   "source_sha256": "076cdaaf535e308139848280353e8c54e884ce8fa5d897206c151b7dc2b0753e",
+   "ko": "가 허공에 현현했다."
+  },
+  {
+   "id": "da1204:T00019",
+   "source_sha256": "4c40ab2ef45d53851356bc8926c69d1b6f388f9385659a44d9a53a991e465832",
+   "ko": "데몬베인을 똑바로 응시하며 요염하게 미소 짓고 있다."
+  },
+  {
+   "id": "da1204:T00020",
+   "source_sha256": "4448ddf9e4525691fba1485e838d0da5ef9e7aa6bfbd0dce801032b01109a851",
+   "ko": "「어찌 된 일이냐, 벌써 "
+  },
+  {
+   "id": "da1204:R00004",
+   "source_sha256": "12f262bad366b5daf5ca0b02afc94d4a65181744023c4c947fb962f5b9c5d81c",
+   "ko": "패는",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1204:T00021",
+   "source_sha256": "62dc844852094721c4abde3c10e7b15e86e4535f14783c8267ccf7eef4536201",
+   "ko": "장기말은"
+  },
+  {
+   "id": "da1204:T00022",
+   "source_sha256": "db229a3c3ab76932c1e82beb06f5dc4742f4a31fbb0cf8b133b66d2050eac90c",
+   "ko": " 다 떨어졌느냐?」"
+  },
+  {
+   "id": "da1204:T00023",
+   "source_sha256": "e06d571cb9e6ea11dcdc045102b91e3656e53f7ec3d80cf646921e13d857195d",
+   "ko": "「글쎄에…… 안티크로스도 모오두\n당해 버렸고. 마스터 테리온도\n……뭐, 그 건은 이레귤러네.\n이번엔 이런 일뿐이라 진절머리가 나」"
+  },
+  {
+   "id": "da1204:T00024",
+   "source_sha256": "707ec460f46f281ec347e23e3d8381aac1a3f56c0d2f997a4e0a8570b06e1091",
+   "ko": "「그렇다면 "
+  },
+  {
+   "id": "da1204:R00005",
+   "source_sha256": "da38587aa609ef4743299798c37da21b7789c4ce292741ddf2e3989f2886fdf4",
+   "ko": "체크메이트",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1204:T00025",
+   "source_sha256": "2e57545ecc73afaba40bc02fa49358133d0a6d3c5b45c7034f5c6bc4370706d0",
+   "ko": "외통수"
+  },
+  {
+   "id": "da1204:T00026",
+   "source_sha256": "66f7f18c6ac20663760d8c773ab70b082d597f2a9317b770c6b828cbfd7bda25",
+   "ko": "다.\n　너를 "
+  },
+  {
+   "id": "da1204:R00006",
+   "source_sha256": "4dae1fea52814eb01c1f6f5e611386bf5216d66ee363d7ec5b45ff3c60f0ceb9",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1204:T00027",
+   "source_sha256": "e576049bcdb98de738f142c446fc515b0c9df3d3eb8a39b9e9111ad0b06b8306",
+   "ko": "쓰러뜨리"
+  },
+  {
+   "id": "da1204:T00028",
+   "source_sha256": "953d4875ee798aa2a02291fca0f15bbf9217df626141d12348575c5a51090435",
+   "ko": "고, 이 몸에게 걸린\n　저주를 "
+  },
+  {
+   "id": "da1204:R00007",
+   "source_sha256": "fbee93633a78678bb2ab39997c8f5127a4b27206b9c3db9bca41590bc2f8c58c",
+   "ko": "디스펠",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1204:T00029",
+   "source_sha256": "671eab875b919f2bbaa4f425e551d3c2709400784ec11520bb337743c067a77c",
+   "ko": "해주"
+  },
+  {
+   "id": "da1204:T00030",
+   "source_sha256": "56b1cb485f06aba3a942089bbd8af269e2f212fca8ded98e41f86afcec3c963c",
+   "ko": "하겠다」"
+  },
+  {
+   "id": "da1204:T00031",
+   "source_sha256": "6b76dd37d7b2821ffa5688356023d28cfb12216f289dc5e2eb9b8359461d363c",
+   "ko": "「서두르지 말아요, "
+  },
+  {
+   "id": "da1204:R00008",
+   "source_sha256": "62f083b66f85bb7e91aeeefb564b5a6991560448a77d686a51788b9945d35e81",
+   "ko": "오리지널",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1204:T00032",
+   "source_sha256": "4da921e3249cf37f25e9927129f9bd2d5bb5d89489adb525d35aa2d7c84b9452",
+   "ko": "어머님"
+  },
+  {
+   "id": "da1204:T00033",
+   "source_sha256": "87c7c87e7e65f9f02ed9ee079152ee30cdd4ca97a57b6f0e9d0520faeaf3754e",
+   "ko": ". 말했잖아?\n　……이곳은 쿠자쿠의 내면세계라고」"
+  },
+  {
+   "id": "da1204:T00034",
+   "source_sha256": "8edbbac992808bc356445dfba3f908c544e3316fcbf23d275d055279be95ebba",
+   "ko": "「뭐라……?」"
+  },
+  {
+   "id": "da1204:T00035",
+   "source_sha256": "d6ff57b15b98cd5ff389b3dee9685b6e65dce7aa4df9a9976712aa91c255a20a",
+   "ko": "「……읏!?」"
+  },
+  {
+   "id": "da1204:T00036",
+   "source_sha256": "6a849ef7ef336dd8338b3965c6687d37da4b1b691670f962db887ace0958fea8",
+   "ko": "육감이 위험을 호소했다."
+  },
+  {
+   "id": "da1204:T00037",
+   "source_sha256": "32ced847da03006df9836ccac3ee664ad5f6e7b6867b40a556930e70e401b522",
+   "ko": "다리 실드를 개방하고 전력으로 물러선다."
+  },
+  {
+   "id": "da1204:T00038",
+   "source_sha256": "4fab28fac21ed9bfed7857abaac5708a8eb85a657abe9583ab34abe95c9a9065",
+   "ko": "하늘에 균열이 갔다."
+  },
+  {
+   "id": "da1204:T00039",
+   "source_sha256": "cf5e054f9fb62efdfa1f6424199d8acfa76c7fbe6e5201f1648c56bfbc10d4a8",
+   "ko": "피 "
+  },
+  {
+   "id": "da1204:R00009",
+   "source_sha256": "33439ddb0f66823471fcc299d5d5f75aa20a1470e5cc0d7bb310dbe5b1609c6d",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1204:T00040",
+   "source_sha256": "1f828276b921aa107500f6e9151332285e78eb3c2fd98302107a1970352e1742",
+   "ko": "빛깔"
+  },
+  {
+   "id": "da1204:T00041",
+   "source_sha256": "76e5267f20998529a95f5525ff327e01b7eb44d2f6ac87db63ad66503f784721",
+   "ko": " 하늘을 분쇄하며 거대한 기영이 추락해 온다."
+  },
+  {
+   "id": "da1204:T00042",
+   "source_sha256": "86a475eefe3f61855ae5d280b0ea35b54f721a5c1d01eea42211bd122d2693c7",
+   "ko": "「아틀란티스 스트라이크!」"
+  },
+  {
+   "id": "da1204:T00043",
+   "source_sha256": "a79ddf67a1848d35b174d8d4db84162446b1670fa3d5fd95e3d01ecaa20e0948",
+   "ko": "일순 전까지 서 있던 대지가 날아갔다."
+  },
+  {
+   "id": "da1204:T00044",
+   "source_sha256": "6be8ce0b2579bafc06c48b6fd21dab1b81e98034b2341433a3ec24bdf70022b4",
+   "ko": "산산조각으로 분쇄되어, 그렇지 않아도 무너져 가던 폐허는 분진이 되어\n흩어진다."
+  },
+  {
+   "id": "da1204:T00045",
+   "source_sha256": "97161d8346fbeb6ddd2af183a59dae81211b02d22658a3b4e5e12b62e394d5f2",
+   "ko": "파인 크레이터."
+  },
+  {
+   "id": "da1204:T00046",
+   "source_sha256": "6f04f8c2c75cfac8e7ea81376e925fe8dc3b9803daa503352b323b4b7136a92b",
+   "ko": "그 중심에, 그 기체는 선다."
+  },
+  {
+   "id": "da1204:T00047",
+   "source_sha256": "dac435e1d9b85fac14ff27a56482846dbee3ed826e14d2daa5dcf9752fae3e33",
+   "ko": "「데몬베인 투 소드!?」"
+  },
+  {
+   "id": "da1204:T00048",
+   "source_sha256": "2786b15858200420e4c2ebf900a1cd3344953495bd3b6847a6f984f7c4f46696",
+   "ko": "「쿠자쿠!?　어째서……!?」"
+  },
+  {
+   "id": "da1204:T00049",
+   "source_sha256": "694f3bae94d1e26823bdbe3e55d514a20c05a28e10bdc02ee79d31aa8e3ddb1a",
+   "ko": "「크투가!　이타콰!」"
+  },
+  {
+   "id": "da1204:T00050",
+   "source_sha256": "48db037414a968ad746bbb2d067e40cb8965b9e83c6e8db915248690bb8125c6",
+   "ko": "D 투 소드의 양손에 마총이 쥐어진다."
+  },
+  {
+   "id": "da1204:T00051",
+   "source_sha256": "ed8b24f342cb2bddacace69499a7b61ce850c599b428fe24f3e054379b266bd1",
+   "ko": "간발의 틈도 없이 총탄의 비가 우리를 덮쳤다."
+  },
+  {
+   "id": "da1204:T00052",
+   "source_sha256": "005f9032446f764d60b5b708c35c72df048824645da834b314c1e039c3a95b8a",
+   "ko": "「꺄아아아아!」"
+  },
+  {
+   "id": "da1204:T00053",
+   "source_sha256": "c8105656a76774687ea5f3c39bcf2dd45c6fd646a2e04b563b4cb93d2f26be1d",
+   "ko": "「그으으으…… 읏!」"
+  },
+  {
+   "id": "da1204:T00054",
+   "source_sha256": "95a88e0513831f62dc7d4c6c438164491cf4b26464a323dbc45329b6461efde5",
+   "ko": "총탄을 뒤집어쓰고 기체 여기저기가 폭염을 올린다."
+  },
+  {
+   "id": "da1204:T00055",
+   "source_sha256": "baae9b7b142b1228101e90417d675a00f0e1821e2283d8be139dd9dc504c1f86",
+   "ko": "나는 공간왜곡 에너지를 더욱 개방. 관성을 무시한 움직임으로\n탄우에서 벗어난다."
+  },
+  {
+   "id": "da1204:T00056",
+   "source_sha256": "9ad3d130001d406549e3ef9e65f0c0a46b7b484bb132c6f6198ad831e7f670ef",
+   "ko": "「하아…… 하아…… 무슨 속셈이냐, 쿠자쿠!」"
+  },
+  {
+   "id": "da1204:T00057",
+   "source_sha256": "93820bba8f37a910684fc4d050ece8e3b46392efe8f8357a82630fb8891829b7",
+   "ko": "「로이거!　차르!」"
+  },
+  {
+   "id": "da1204:T00058",
+   "source_sha256": "316ca500c9dafa8292a5c3024dc4cad165fd7c8234fdaa1727b7620cd9a9bec3",
+   "ko": "「크윽……!　바르자이 언월도!」"
+  },
+  {
+   "id": "da1204:T00059",
+   "source_sha256": "52eda904b3b58496736861d1fe75ad6a8a7665e7e60e0ebc10bdca31edc2b70f",
+   "ko": "마총을 쌍검으로 변용시켜 달려드는 D 투 소드를 바르자이 언월도로 맞아 친다.\n\n　튀는 불꽃."
+  },
+  {
+   "id": "da1204:T00060",
+   "source_sha256": "20d071320a5e8e9c51223f5550dd01ec9a28e0b7a5370589f2b9824f2356d233",
+   "ko": "십자로 내리쳐진 쌍검을 언월도로 받아 낸다."
+  },
+  {
+   "id": "da1204:T00061",
+   "source_sha256": "39da217920baba3463ef65b68fa22746127bef631a79aae42d8d2b27bd1a2a4a",
+   "ko": "명백히 진심이 담긴 일격이었다.\n\n　코등이 싸움――아니, 어느 쪽 검에도 코등이는 없지만――의 상태로,\n지근거리에서 서로 노려보는 데몬베인과 데몬베인."
+  },
+  {
+   "id": "da1204:T00062",
+   "source_sha256": "5c437842751651defebb0d955a5547ce0f48af921b81a27c31295b61ed0f97f8",
+   "ko": "「어째서……!?」"
+  },
+  {
+   "id": "da1204:T00063",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da1204:R00010",
+   "source_sha256": "4dae1fea52814eb01c1f6f5e611386bf5216d66ee363d7ec5b45ff3c60f0ceb9",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1204:T00064",
+   "source_sha256": "e576049bcdb98de738f142c446fc515b0c9df3d3eb8a39b9e9111ad0b06b8306",
+   "ko": "쓰러져"
+  },
+  {
+   "id": "da1204:T00065",
+   "source_sha256": "2c6ee745f6c313211dd3f7f3d531af81df0ce708925e638c42d2edad4afcfa05",
+   "ko": "라, 다이쥬지 쿠로……!\n　영웅 행세를 하는 어리석은 놈!\n　『마를 끊는 검』은\n　긍지 높은 기사의 검이란 말이다!」"
+  },
+  {
+   "id": "da1204:T00066",
+   "source_sha256": "349bbf7628cfabb46320d0ac17659a718acb650bf397a646ecaf82dfbbc858a3",
+   "ko": "「무슨 영문 모를 소리를 지껄이는 거냐, 네 녀석은……!」"
+  },
+  {
+   "id": "da1204:T00067",
+   "source_sha256": "1c98dc8886d50a6ebeec9fb9352d676c1d6ca5b177686e5266883d5d1f5504e5",
+   "ko": "서로 튕겨 나가듯 물러선다."
+  },
+  {
+   "id": "da1204:T00068",
+   "source_sha256": "b5bba2dccc5c411194232846c37c4274fe8676f6e127f11f2734f86b72263ff4",
+   "ko": "그사이 D 투 소드는 로이거와 차르를 결합하여 투척."
+  },
+  {
+   "id": "da1204:T00069",
+   "source_sha256": "85772fd5f2694ce23a8c671faece061273aa0408d0bcec84e5f298af48d1c548",
+   "ko": "이쪽 또한 언월도를 내던진다."
+  },
+  {
+   "id": "da1204:T00070",
+   "source_sha256": "59a15942770b0582638a4236d2e2ee2e0d6b3ec204f681b10843b3c4ba2e04d2",
+   "ko": "십자검과 언월도는 양 기체의 중앙에서 격돌/폭발. 마력을 잃고 무의미한 마술 문자의 나열이 되어 "
+  },
+  {
+   "id": "da1204:R00011",
+   "source_sha256": "5e50b96c27b2f416824dd21237894b52728e9f8acf21f77ae97378faaafaa899",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1204:T00071",
+   "source_sha256": "09152a2380b09e688a514e86056805ca633afd8381453280be7f536c7140c91a",
+   "ko": "풀"
+  },
+  {
+   "id": "da1204:T00072",
+   "source_sha256": "0d077c6d8de18f8164c8153d2d53478d9a8815a00a5acbfad0565087f24fa575",
+   "ko": "려 사라졌다."
+  },
+  {
+   "id": "da1204:T00073",
+   "source_sha256": "203e4e03b3a8c5b0b742477d2e98de4371674242d7ace1f9438769198d5caeb0",
+   "ko": "정면, D 투 소드에서 뿜어져 나오는 투기…… 아니, 살기.\n\n　어째서지?"
+  },
+  {
+   "id": "da1204:T00074",
+   "source_sha256": "ef612c5f9cfd9f4aa8fb47aceeb040eac07ee5da400366e6cb332e9f8dd1c609",
+   "ko": "어째서 쿠자쿠가 우리를 습격하는 거지?"
+  },
+  {
+   "id": "da1204:T00075",
+   "source_sha256": "d62679735d3c04231c15978c22dc73f3d2055c1e3e1fb3cf02057fbee08e8afc",
+   "ko": "「이번에는 쿠자쿠가 당신들의 상대\n를 해 줄 거야. 데몬베인끼리\n의 싸움…… 클라이맥스를 장식하기\n에는 충분하네」"
+  },
+  {
+   "id": "da1204:T00076",
+   "source_sha256": "f64a5d629e806fcd48699f9aba15a0f4105850a75db1ab9b93d5414967543712",
+   "ko": "「……네 소행이냐, "
+  },
+  {
+   "id": "da1204:R00012",
+   "source_sha256": "f58c026c179665797b00157bf4ac8d76bb0bc4ae666609165f837f7ff7226785",
+   "ko": "어나더 블러드",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1204:T00077",
+   "source_sha256": "7c58b8241c16b415a8072b80c769be7397b9e7bca3dd1eb3bf0637c01669faf8",
+   "ko": "혈액언어판"
+  },
+  {
+   "id": "da1204:T00078",
+   "source_sha256": "6560fad1b5299ec45c7562b1e825f123c87101dc289a1eb71426e443d34f4c8c",
+   "ko": "!」"
+  },
+  {
+   "id": "da1204:T00079",
+   "source_sha256": "88c3f275fce16b1ecc30d2bc018d93ac57354aae14a96c763b91e7ca50e8423d",
+   "ko": "「나는 아무것도.\n그저, 좀 더 솔직해지라고\n격려해 주었을 뿐이야」"
+  },
+  {
+   "id": "da1204:T00080",
+   "source_sha256": "e4839b2b5d8cd8b45b9ba7604812e4cd5108e69b9be59f383385bddb41bbaff2",
+   "ko": "살기가 충격파가 되어 솟구친다."
+  },
+  {
+   "id": "da1204:T00081",
+   "source_sha256": "57f984be547cc5eed3626df6b32478540a8f53e0f8d1c550fbe2e3b2220a0935",
+   "ko": "폐허의 거리를 물어뜯으며, "
+  },
+  {
+   "id": "da1204:R00013",
+   "source_sha256": "faad4663917e9f697861dd8f8351f4b75876f086445f4735d2e147048b1329b2",
+   "ko": "데몬베인을",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1204:T00082",
+   "source_sha256": "dd535acd99c5b03e174a390a8dcba6fefb967c818992696391ccd89972e64bf1",
+   "ko": "우리를"
+  },
+  {
+   "id": "da1204:T00083",
+   "source_sha256": "07117687a7fb082fbfcbfd7cec7dcb2596285e142de6ec038f550c390ee3aae8",
+   "ko": " 덮친다."
+  },
+  {
+   "id": "da1204:T00084",
+   "source_sha256": "17f1029a3669339e7ed8ad7c243980c37c8971397c5fb8b8151f623aaa696b96",
+   "ko": "질량을 가진 살기에 반쯤 날아가는 형태로,\n　데몬베인은 뒷걸음질 쳤다."
+  },
+  {
+   "id": "da1204:R00014",
+   "source_sha256": "b6cf8cadd4fabcfa5f723a87508f6d7ff371e8dfe40c8ed871f6d69d250cc7cb",
+   "ko": "밸런스",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1204:T00085",
+   "source_sha256": "277e3951727bc39c6763b22b8e8e4701159f7b5fcbdf51d405b7d643026fc3c2",
+   "ko": "태세"
+  },
+  {
+   "id": "da1204:T00086",
+   "source_sha256": "2090cb75ed94ae227842a8b29d837ebc1dcc9beff8e977d43f958423cee04f34",
+   "ko": "가 무너지지 않도록 두 다리에 힘을 주어 버틴다."
+  },
+  {
+   "id": "da1204:T00087",
+   "source_sha256": "478197bf2dc2b5190fae3088fa9c53873a2bba6bcaa6e03c879cdeeed1f01774",
+   "ko": "「알겠지, 이 살의……\n『기사』 쿠자쿠는 『영웅』 다이쥬지 쿠로를\n죽이고 싶은 거야!」"
+  },
+  {
+   "id": "da1204:T00088",
+   "source_sha256": "a5a1746cf584739884b70b7dbd78480bffa0c1b10acebdc1c7622ff0860a31ac",
+   "ko": "「그러니까, 내가 뭘 어쨌다는 거냐……」"
+  },
+  {
+   "id": "da1204:T00089",
+   "source_sha256": "1c67870d59eacbde696120f95fcdd76d50848f6a2da8e2f98487b8e1ca7f7408",
+   "ko": "「이 몸이 알 게 뭐냐.\n　그것보다…… 온다」"
+  },
+  {
+   "id": "da1204:T00090",
+   "source_sha256": "850e69b68feca136c197b56dd13c5ef38f129fbe44e9fbab37903b8935b22e4f",
+   "ko": "D 투 소드의 양손에 다시 로이거와 차르가 소환된다."
+  },
+  {
+   "id": "da1204:T00091",
+   "source_sha256": "cf5e054f9fb62efdfa1f6424199d8acfa76c7fbe6e5201f1648c56bfbc10d4a8",
+   "ko": "피 "
+  },
+  {
+   "id": "da1204:R00015",
+   "source_sha256": "33439ddb0f66823471fcc299d5d5f75aa20a1470e5cc0d7bb310dbe5b1609c6d",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1204:T00092",
+   "source_sha256": "1f828276b921aa107500f6e9151332285e78eb3c2fd98302107a1970352e1742",
+   "ko": "빛깔"
+  },
+  {
+   "id": "da1204:T00093",
+   "source_sha256": "0acb09effb4e18a74122bb5cfb902aa43d4b6331f1dc5d83debc95541d36e797",
+   "ko": " 흉풍이 기체의 주위에서 소용돌이치며, 닿는 것을 티끌로 바꾼다.\n\n　……무섭구만, 어이."
+  },
+  {
+   "id": "da1204:T00094",
+   "source_sha256": "ae31818933623620156dda728f80848b81ddc157277c20d65b832e1be303f2d8",
+   "ko": "「어쩔 수 없지…… 일단 패서 얌전하게 만든다」"
+  },
+  {
+   "id": "da1204:T00095",
+   "source_sha256": "b63501706fbcf348073e857472899165b6d18e60d7ac21ba290fc3171646aa58",
+   "ko": "「너는 언제나 그 식이로구나」"
+  },
+  {
+   "id": "da1204:T00096",
+   "source_sha256": "bde984f76ab164838d11599f9c49ecfd571b1aba755e331bfa2aa5dd1a5fc872",
+   "ko": "말로 설득할 수 있을 만한 분위기가 아니라고, 저건."
+  },
+  {
+   "id": "da1204:T00097",
+   "source_sha256": "ef6a3a3c6a7c9b8305778f2708fe7573ae638572ef5532a93ea8c87b12231584",
+   "ko": "어떻게든 머리를 식히게 해 줘야지."
+  },
+  {
+   "id": "da1204:T00098",
+   "source_sha256": "93f948ea1fa8817ecda8a4057e0e9b6b2f6f028dc304afe1b2d739f8fe79b3e1",
+   "ko": "「주먹으로 대화한다!　덤벼라!」"
+  },
+  {
+   "id": "da1204:T00099",
+   "source_sha256": "5366c6413fb4b98cb77de7f302bc925108c4ae182e61df6e1bbfbf89c5a78f05",
+   "ko": "「체육계 같으니」"
+  },
+  {
+   "id": "da1204:T00100",
+   "source_sha256": "1932068b1ec8a79521349e04f11cc04d7cd65595b937da15755e7cb3eff37d46",
+   "ko": "「난 문화계다」"
+  },
+  {
+   "id": "da1204:T00101",
+   "source_sha256": "3ed5e9c694c55bcb10f45c70aba9badb84f7a78d7195289c9fde2e9b76cd6073",
+   "ko": "「육체파 문화계 같으니」"
+  },
+  {
+   "id": "da1204:T00102",
+   "source_sha256": "86a1ed6a6f0998e10aecd2f5119b3a88798d94d765cf69f1928034e85decd2d9",
+   "ko": "「해치우렴, 쿠자쿠!\n　나를 즐겁게 해 다오!」"
+  },
+  {
+   "id": "da1204:T00103",
+   "source_sha256": "b9fc5d8c3259f4129621eed5a5c72176753fc306f81d9053c5e68c4cf7c7373e",
+   "ko": "「나의 "
+  },
+  {
+   "id": "da1204:R00016",
+   "source_sha256": "faad4663917e9f697861dd8f8351f4b75876f086445f4735d2e147048b1329b2",
+   "ko": "데몬베인",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1204:T00104",
+   "source_sha256": "25edbde08c9c481ba6e0a26619ebfa0bba2d1121915319a2eaf305b64b46590c",
+   "ko": "성검"
+  },
+  {
+   "id": "da1204:T00105",
+   "source_sha256": "1977e26c16e37c00e2bb92dea3361a0461d22620ec0202bd92afc9656aaf1163",
+   "ko": "의 녹이 되어라!\n　　　　　　　　――다이쥬지 쿠로!」"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da1204:T00010",
+   "kind": "glossary_candidate",
+   "note": "미확정 용어집 항목 '쿠자쿠(九朔)' 사용."
+  },
+  {
+   "id": "da1204:T00058",
+   "kind": "glossary_candidate",
+   "note": "미확정 용어집 항목 '바르자이 언월도(バルザイの偃月刀)' 사용."
+  },
+  {
+   "id": "da1204:R00006",
+   "kind": "ruby_decision",
+   "note": "'斃(쓰러뜨리다)'의 단순 훈독 루비('たお')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1204:R00009",
+   "kind": "ruby_decision",
+   "note": "'彩(빛깔)'의 단순 훈독 루비('いろ')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1204:R00010",
+   "kind": "ruby_decision",
+   "note": "'斃(쓰러지다)'의 단순 훈독 루비('たお')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1204:R00011",
+   "kind": "ruby_decision",
+   "note": "'解(풀리다)'의 단순 훈독 루비('ほど')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1204:R00015",
+   "kind": "ruby_decision",
+   "note": "'彩(빛깔)'의 단순 훈독 루비('いろ')이므로 omit_redundant 처리."
+  }
+ ]
+}

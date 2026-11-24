@@ -1,0 +1,108 @@
+{
+ "game": "Y:\\AI\\claude-work\\khd-release-1118\\zipcheck\\A",
+ "want": 3,
+ "catalog": [
+  {
+   "index": 0,
+   "id": "demonbane-novel-4",
+   "title": "참마대성 데몬베인 · 무구한 칼날",
+   "available": false,
+   "url": "…/novel-4.epub"
+  },
+  {
+   "index": 1,
+   "id": "demonbane-novel-5",
+   "title": "참마대성 데몬베인 · 마를 베는 검",
+   "available": false,
+   "url": "…/novel-5.epub"
+  },
+  {
+   "index": 2,
+   "id": "demonbane-novel-6",
+   "title": "참마대성 데몬베인 · 내일로 향하는 날개",
+   "available": false,
+   "url": "…/novel-6.epub"
+  },
+  {
+   "index": 3,
+   "id": "demonbane-novel-1",
+   "title": "참마대성 데몬베인 · 기신태동",
+   "available": false,
+   "url": "…/novel-1.epub"
+  },
+  {
+   "index": 4,
+   "id": "demonbane-novel-2",
+   "title": "참마대성 데몬베인 · 군신강습",
+   "available": false,
+   "url": "…/novel-2.epub"
+  },
+  {
+   "index": 5,
+   "id": "demonbane-novel-3",
+   "title": "참마대성 데몬베인 · 드 마리니의 시계",
+   "available": false,
+   "url": "…/novel-3.epub"
+  },
+  {
+   "index": 6,
+   "id": "codex-magicians",
+   "title": "기신비상 사전 — 마술사와 마도서",
+   "available": true,
+   "url": "…/codex-magicians.epub"
+  },
+  {
+   "index": 7,
+   "id": "codex-machines",
+   "title": "기신비상 사전 — 데우스 마키나",
+   "available": true,
+   "url": "…/codex-machines.epub"
+  },
+  {
+   "index": 8,
+   "id": "file-10dd85261a68339b",
+   "title": "시험용 자료집 · 표지 자동",
+   "available": true,
+   "url": "…/%EC%8B%9C%ED%97%98%20%EC%B1%85%201.epub"
+  }
+ ],
+ "shelf": [
+  {
+   "volume": "01",
+   "title": "기신비상 사전 · 마술사와 마도서",
+   "art": true,
+   "cover": "https://library.demonbane.test/covers/co"
+  },
+  {
+   "volume": "02",
+   "title": "기신비상 사전 · 데우스 마키나",
+   "art": true,
+   "cover": "https://library.demonbane.test/covers/co"
+  },
+  {
+   "volume": "03",
+   "title": "시험용 자료집 · 표지 자동",
+   "art": true,
+   "cover": "data:image/png;base64,iVBORw0KGgoAAAANSU"
+  }
+ ],
+ "count": "3권",
+ "opened_title": "시험 책 1",
+ "exited": true,
+ "moved_windows": [],
+ "native_log": [
+  "170886453 pid=83740 tid=27340 shelf: 9 books, 1 found only in the books folder",
+  "170886625 pid=83740 tid=27340 shelf: 9 books, 1 found only in the books folder",
+  "170889312 pid=83740 tid=27340 open book 8"
+ ],
+ "ok": true,
+ "log": [
+  "03:11:23 put in Y:\\AI\\claude-work\\khd-release-1118\\zipcheck\\A: KHDLore.dll, ko-library/library.js, ko-library/books/시험 책 1.epub",
+  "03:11:24 game window 0x2cc1e72 pid 83740",
+  "03:12:02 no settings dialog after PRESS START",
+  "03:12:08 LORE open: True",
+  "03:12:09 library page: https://library.demonbane.test/index.html",
+  "03:12:15 LORE closed",
+  "03:12:17 autobattle.ini restored"
+ ]
+}

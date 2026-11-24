@@ -1,0 +1,168 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0056_da0501",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0501:T00127",
+   "source_sha256": "7d1abf9c18cc9d60a03f597153f3322f306fa20f30e157b3b8dec966339e98f3",
+   "ko": "「선생님도 마찬가지예요?　조금만 더\n　　　얌전히 계셔 주셔야겠어요.\n　　　여기는 내 『이야기』 속\n　　　이니까요」"
+  },
+  {
+   "id": "da0501:T00128",
+   "source_sha256": "6252124aca7a790549e9ccde3d6a7ad14b4627447915fb14fcef495f611d5255",
+   "ko": "「……으으윽!」"
+  },
+  {
+   "id": "da0501:T00129",
+   "source_sha256": "15e683ce03cae302181bacc2e5ed6ddca0da41bff36b5bc7b846db840e11ae04",
+   "ko": "암브로시우스 또한 타르의 바다로 끌려 들어간다."
+  },
+  {
+   "id": "da0501:T00130",
+   "source_sha256": "e7d5237af6b1bd2ba54dcc63fab3844cf33d48ef83342e93494ed57fec044422",
+   "ko": "물결치고 맥박 치는 살아 있는 해면은 2대의 "
+  },
+  {
+   "id": "da0501:R00018",
+   "source_sha256": "73ac229cabfac277c315b4b0d1eb76959473af07f58c11d00bb82a06b250745a",
+   "ko": "데우스 마키나를",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0501:T00131",
+   "source_sha256": "762524a979d84688362b8dc00d54c75a1be10d7917ed188fd55985924c885e49",
+   "ko": "귀계신을"
+  },
+  {
+   "id": "da0501:T00132",
+   "source_sha256": "a9a0cb9342f278524c38bf58ad8e88fb35ebb6a09bbbf9f570c65b01bc90f0c5",
+   "ko": " 완전히 집어삼켜\n버렸다."
+  },
+  {
+   "id": "da0501:T00133",
+   "source_sha256": "38be708c1457090287af58d74c8c4459a6c9a550d8e7b6106ddfa7a50b1df9da",
+   "ko": "「쿠자쿠!　슈루즈베리 "
+  },
+  {
+   "id": "da0501:R00019",
+   "source_sha256": "8abe22c91f0939b6aab3db77f86d607dd7063710622f9cd851250b3a7e367dbc",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0501:T00134",
+   "source_sha256": "cd98e43da31bb1b90dc152851c85c7d266d47ba97bc5ff7bd137c5920429d467",
+   "ko": "선생"
+  },
+  {
+   "id": "da0501:T00135",
+   "source_sha256": "20880c42b96f2439a8e6634bbdca89e951434b6fa1840360d3219cd84d85a164",
+   "ko": "!　하즈키!」"
+  },
+  {
+   "id": "da0501:T00136",
+   "source_sha256": "67cbca69d3d043957c021968aa6ff8d5b68302144844c947ded00b3e566f0fde",
+   "ko": "「자, 그럼…… 남은 건」"
+  },
+  {
+   "id": "da0501:T00137",
+   "source_sha256": "a4da48256162777ae26b5f04350c0d8f9f8a62c6c9eda9c903931305c7ce0b01",
+   "ko": "소녀의 시선이 우리를 포착한다."
+  },
+  {
+   "id": "da0501:R00020",
+   "source_sha256": "9e228bcc5ed49ae30ec7fac37d7fceb6bb6a4d048ce689d48bd42de211fb3fd1",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0501:T00138",
+   "source_sha256": "cbe96fba51fc9384048ac8188b57b38801f689bacd5becb97224acc642f8374f",
+   "ko": "노려보"
+  },
+  {
+   "id": "da0501:T00139",
+   "source_sha256": "0a97777f936c174e9a3981f09a233114ca5e97b08d32aa8b2be6b0087ed0ff84",
+   "ko": "는 뱀 같은 눈동자는 욕정으로 촉촉이 젖어 있었다."
+  },
+  {
+   "id": "da0501:T00140",
+   "source_sha256": "fb315c6f737d5d2608242203506a8ab7ea2649f1091094470e59c163dd080dd0",
+   "ko": "「당신들을 손에 넣는 것뿐이야……」"
+  },
+  {
+   "id": "da0501:T00141",
+   "source_sha256": "97318b781f27491d49e79c72e95fe48e6a35ec4c1b8cf62cdde103ea66718342",
+   "ko": "뜨거운 한숨과 함께 자아낸다."
+  },
+  {
+   "id": "da0501:T00142",
+   "source_sha256": "dfad77545bf3346930c1fd0190e795d354e783145858cd7c41d56c568c4a812d",
+   "ko": "사랑의 밀어와도 닮은, "
+  },
+  {
+   "id": "da0501:R00021",
+   "source_sha256": "9e01e7b843be92a9d32129c0661107e163b54042ac97ad03fcafa75e40d331b6",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0501:T00143",
+   "source_sha256": "389bbac1b256d36df12ea23e0ea5db3f3b5a4242c671c915091732e62596b8b4",
+   "ko": "어두"
+  },
+  {
+   "id": "da0501:T00144",
+   "source_sha256": "6e527f6418c8db63c71db709e5ad316d2b6f02e0ad0c58b8c71c210605039ae9",
+   "ko": "운 망집을."
+  },
+  {
+   "id": "da0501:T00145",
+   "source_sha256": "2570bd296cfd6601c115e30509aff2ab852c3543d80d3be1fce05b9405bbe2aa",
+   "ko": "시계탑이 격렬하게 흔들린다."
+  },
+  {
+   "id": "da0501:T00146",
+   "source_sha256": "7c792026726ce0f6dab384b986845c8255a4deeb81382f4da1ae28041809e59d",
+   "ko": "무거운 땅울림과 함께 타르의 바다가 대해일이 되어 밀려들어 왔다."
+  },
+  {
+   "id": "da0501:T00147",
+   "source_sha256": "46d555055231fc0f735945615b0fb6f1a2a7e1c489f2c8f3226f200e0d382089",
+   "ko": "파도의 높이는 족히 300미터를 넘는다."
+  },
+  {
+   "id": "da0501:T00148",
+   "source_sha256": "febcf039af770d3524e0e04914dd58b67f65028eb724c85dcc4ab2bff7fc0caa",
+   "ko": "「……제기랄」"
+  },
+  {
+   "id": "da0501:T00149",
+   "source_sha256": "aa59aadcbf63c4f62e8d43674d2fdf00615989b1b8807004859506cf35dae65f",
+   "ko": "손쓸 방도도 없이, 우리는 검붉은 타르에 집어삼켜졌다."
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0501:R00019",
+   "kind": "ruby_decision",
+   "note": "구어 발음 표기 루비(先生/センセ) 생략."
+  },
+  {
+   "id": "da0501:R00020",
+   "kind": "ruby_decision",
+   "note": "표준 한자 훈독 루비(睨/ね) 생략."
+  },
+  {
+   "id": "da0501:R00021",
+   "kind": "ruby_decision",
+   "note": "표준 한자 훈독 루비(冥/くら) 생략."
+  },
+  {
+   "id": "da0501:U00074",
+   "kind": "glossary_candidate",
+   "note": "미확정 용어 '九朔'에 대해 임시 표기 '쿠자쿠' 적용."
+  }
+ ]
+}

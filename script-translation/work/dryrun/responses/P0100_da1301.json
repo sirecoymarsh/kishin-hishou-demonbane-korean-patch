@@ -1,0 +1,336 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0100_da1301",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da1301:T00001",
+   "source_sha256": "aed14d3119ed390d6ab8d3d8f4982da133d83a6d18fa2f95b44c06cfe7a511dd",
+   "ko": "「적당히 정신 차려라!\n　이 바보 녀석아!」"
+  },
+  {
+   "id": "da1301:T00002",
+   "source_sha256": "8b68dd587e2f18e1a92312d10e180a847ab3d08de74f45de9f07cc31ddc6793b",
+   "ko": "「그아아아아아아아아아아!」"
+  },
+  {
+   "id": "da1301:T00003",
+   "source_sha256": "b7d41b9b9a04ff35568d72db9f7f7275002faa32309a183565d6593123b21dec",
+   "ko": "「……해치웠느냐?」"
+  },
+  {
+   "id": "da1301:T00004",
+   "source_sha256": "fb118015f01f8c036f743b129d7d69b4084b618b07c586b90f0119cd13cca417",
+   "ko": "손맛은 있었다."
+  },
+  {
+   "id": "da1301:T00005",
+   "source_sha256": "cd16188b76d696e2d9031b69af97f325893db6c66bc59af062152fcbbc1194b6",
+   "ko": "보통이라면 재기 불능의 데미지를 입혔을 텐데……"
+  },
+  {
+   "id": "da1301:T00006",
+   "source_sha256": "32ff255fe140af12d9bbd2c98622010740ef1e50c14971ee36569b32f0bdd2a3",
+   "ko": "「그…… 아아아…… 그…… 읏!」"
+  },
+  {
+   "id": "da1301:T00007",
+   "source_sha256": "9b76abe8f0e7063648d200cfba2049a11116b37aa808b58df132da89648490ff",
+   "ko": "「웃…… 기지…… 마랏!」"
+  },
+  {
+   "id": "da1301:T00008",
+   "source_sha256": "9b8b70d70e7fab284799618ec6fd6ef223c030f93f1f3d3e37ad972f166850c5",
+   "ko": "「……일어섰군」"
+  },
+  {
+   "id": "da1301:T00009",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da1301:R00001",
+   "source_sha256": "67eda733815d6d8f66c6284b934f545b6cf79c8f9a50c9075fac1ab9cec68e3f",
+   "ko": "메르쿠리우스 시스테마",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1301:T00010",
+   "source_sha256": "5bce4608b7eb5f022d6f37cbdd7d5f3a8ae6ebf735692f2c709be0680410c01f",
+   "ko": "자기수복기능"
+  },
+  {
+   "id": "da1301:T00011",
+   "source_sha256": "9c0c346d352f62e12e0ce87b995f7f40097658fe9c39265d01205683de2e4f5c",
+   "ko": "인가……?」"
+  },
+  {
+   "id": "da1301:T00012",
+   "source_sha256": "c39aba54d7939f216a809844e28f97d7ace80c54caa12a3cfe2ccff39e47501f",
+   "ko": "파손 부위에서 넘쳐 나오는 나사/톱니바퀴/태엽/배관/철골/도선/장갑――복잡하게 뒤얽히고 맞물려 기체를 수복한다.\n\n　재생하는 D 투 소드의 모습은――"
+  },
+  {
+   "id": "da1301:T00013",
+   "source_sha256": "e139e8c167c47faecda81b41687e77c58f6a6c822df47112ffad4dd46236f06f",
+   "ko": "어딘가 불길했다.\n\n　자기수복은 그리 빠르지 않다."
+  },
+  {
+   "id": "da1301:T00014",
+   "source_sha256": "3271081015929893f9f31b511981753f387facc42a56ec191bf72947e3eb6268",
+   "ko": "하지만 불완전한 기체를 무리하게 움직여 D 투 소드는 자세를 잡는다."
+  },
+  {
+   "id": "da1301:T00015",
+   "source_sha256": "5e696371811a8b8b23f1ad51499421321769220ff056b541b3869086e60b94f7",
+   "ko": "「……"
+  },
+  {
+   "id": "da1301:R00002",
+   "source_sha256": "b8335796c737135ddc329d328796fd632309743d7bb776d9e981c25876bc61f9",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1301:T00016",
+   "source_sha256": "edca73adc7220a79b08f0adb86cbc2075facd277d1bc9534d9c4500f17eb3f20",
+   "ko": "웃기지"
+  },
+  {
+   "id": "da1301:T00017",
+   "source_sha256": "190f621a2e5f644469cbf4100e7acde2df823fe384022c0c70e1503e63cddd19",
+   "ko": " 마라……\n　네놈에게만은…… 지지 않는다!」"
+  },
+  {
+   "id": "da1301:T00018",
+   "source_sha256": "21880f807fe473d549000a5a217d2a1d6d6937ff9ac5c1394496ce2fcc2fda84",
+   "ko": "「어째서 너, 그렇게나……」"
+  },
+  {
+   "id": "da1301:T00019",
+   "source_sha256": "68bd8c11db363f8f42594af870d71a61e26e8e563c3b1abc1d7e1807b7d09757",
+   "ko": "이 녀석은 어째서 이토록 나를 증오하는 것일까?"
+  },
+  {
+   "id": "da1301:T00020",
+   "source_sha256": "83aff652ddeb9755203c714d63647a544c52f07f2f67fb5adbeefd2af7b7b4aa",
+   "ko": "이 증오의 "
+  },
+  {
+   "id": "da1301:R00003",
+   "source_sha256": "341d069793d327ac17df2dcb9fb418a1a45a2342030468cc83c17a76b6b70cc5",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1301:T00021",
+   "source_sha256": "ebd9a49438fb245a39a9b886341c0e329a864f86ab28381bfcfb569919c632ab",
+   "ko": "원천"
+  },
+  {
+   "id": "da1301:T00022",
+   "source_sha256": "c6b76c4f04a04cb15a153b027e3cdd04a7d59d81f587e7088866bf3954347b50",
+   "ko": "은 무엇이란 말인가?"
+  },
+  {
+   "id": "da1301:T00023",
+   "source_sha256": "30f41598a65eedd0e765031c27f4b19ddcf365ddecfe0e97fa3c808439dbe03f",
+   "ko": "나로서는…… 짐작조차 가지 않는다.\n\n　……어째서지?"
+  },
+  {
+   "id": "da1301:T00024",
+   "source_sha256": "90deffd35bbd61c689d5eabdb22c434437319a0af3852223837146a613274e6c",
+   "ko": "「……어째서냐?」"
+  },
+  {
+   "id": "da1301:T00025",
+   "source_sha256": "bcb17d30caee29eb537f73bfd0129883c43a86f72a0f8f88aabeb8a0a1761b9a",
+   "ko": "의문에 답하는 것 또한 의문."
+  },
+  {
+   "id": "da1301:T00026",
+   "source_sha256": "71077d81f7647213406335fae8f10f7cac923ae5453d506eeec45c758168fabb",
+   "ko": "어째서."
+  },
+  {
+   "id": "da1301:T00027",
+   "source_sha256": "71077d81f7647213406335fae8f10f7cac923ae5453d506eeec45c758168fabb",
+   "ko": " 어째서."
+  },
+  {
+   "id": "da1301:T00028",
+   "source_sha256": "71077d81f7647213406335fae8f10f7cac923ae5453d506eeec45c758168fabb",
+   "ko": " 어째서."
+  },
+  {
+   "id": "da1301:T00029",
+   "source_sha256": "879088863d0d76ff290d2243ce36d63f2a42a976f391a9c0db5bf780d04df1a9",
+   "ko": "그러나 담긴 마음은 다르다."
+  },
+  {
+   "id": "da1301:T00030",
+   "source_sha256": "58e800a1e68e8eed91f198d7540ec0f63685ce4d8ebdd2c5f914e6d7b35d09ab",
+   "ko": "「……어째서」"
+  },
+  {
+   "id": "da1301:T00031",
+   "source_sha256": "4f69ee342befdb7400e42210808f06c9ce4eb60373a98832b185ccc12ea8bfb8",
+   "ko": "증오를 담아, 원망을 품고, 소년은 추궁한다."
+  },
+  {
+   "id": "da1301:T00032",
+   "source_sha256": "dbf265ac04f6c55baa62f70569780116e45c2149e0ae6ce6561bd3f46869e20b",
+   "ko": "『어째서』라는 "
+  },
+  {
+   "id": "da1301:R00004",
+   "source_sha256": "33be91faf8ad1575e617a6fe3bd8f075e1302a1fdcac31d26c3f743aa70add8c",
+   "ko": "저주를",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1301:T00033",
+   "source_sha256": "e88845352db979c346334cbba2c147308225476182c0cc734d19dbe26ea752e5",
+   "ko": "말을"
+  },
+  {
+   "id": "da1301:T00034",
+   "source_sha256": "c27a4be32f9afe8d50c47b9533e99f89e100e4ee2cff97e781eb19d4d40e2fe5",
+   "ko": " 칼날로 바꾼다."
+  },
+  {
+   "id": "da1301:T00035",
+   "source_sha256": "826c937c640177484bf63b832b6a7978fca39aedd948b27a8d3ee0a07ae1d1d0",
+   "ko": "「어째서냐!」"
+  },
+  {
+   "id": "da1301:T00036",
+   "source_sha256": "6d22541f301ef188f2f50a8d418291a1f1aa79bf56aec1ad0bd6c261dc77ce1f",
+   "ko": "쿠자쿠의 외침과 함께 세계가 일그러진다."
+  },
+  {
+   "id": "da1301:T00037",
+   "source_sha256": "cb041e98100776215c751975e0f51acf1416537943a98ebf2e06e99f0463430d",
+   "ko": "검은 태양은 추락하고, 붉은 달은 부서지며, 하늘은 갈라진다."
+  },
+  {
+   "id": "da1301:T00038",
+   "source_sha256": "5c59504eb9dc5b39ca29b39d38900b6173e941fcdb02fba4c213ae52337e643a",
+   "ko": "폐허의 세계가 녹아내리며 무너져 간다."
+  },
+  {
+   "id": "da1301:T00039",
+   "source_sha256": "c0f167412277cfe9f2d2626bda602980111ab8841d1a7b38a581e36febcb509d",
+   "ko": "「……읏!?　쿠로, 위험하다!」"
+  },
+  {
+   "id": "da1301:T00040",
+   "source_sha256": "2efa646fdff1379b445b97a1ba0f8f18a243b263b0161f837613f0638fdfe1c8",
+   "ko": "「……읏!」"
+  },
+  {
+   "id": "da1301:T00041",
+   "source_sha256": "6c556d9b7162a4c637bc7c3ffeeba0499d2d6b53beadde3966edd344616f9844",
+   "ko": "붕괴하는 세계의 중심에서 소년은 원망의 외침을 올린다."
+  },
+  {
+   "id": "da1301:T00042",
+   "source_sha256": "969aa0f636a24ccf41e96b1c7732512841fe52fa0b9fee5a3c9280a0fb103a66",
+   "ko": "즉――"
+  },
+  {
+   "id": "da1301:T00043",
+   "source_sha256": "2c8f91bf46f859fd1e450a413d10ec8379b9ba7336a2d788a896d0a1ff50d4d4",
+   "ko": "「어째서, 나를 버렸느냐!?　"
+  },
+  {
+   "id": "da1301:R00005",
+   "source_sha256": "399541026b89787f76b6312375d21b42244869347cf836059cf9eba724bb4824",
+   "ko": "・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1301:T00044",
+   "source_sha256": "2e4ce03362dceacfa83778ad957eedb3575d67f75b72ec0a8bf225e98cc6b6bb",
+   "ko": "아버지"
+  },
+  {
+   "id": "da1301:T00045",
+   "source_sha256": "ecfe416e941818f04253f2cd37966ab40e1e3b156b09ca5d69c27c277a16376a",
+   "ko": "!」"
+  },
+  {
+   "id": "da1301:T00046",
+   "source_sha256": "527f73ca912b77c8dd4d91262d2819ddc10a5a47f0b31e5ffcb5165537fa98e5",
+   "ko": "――"
+  },
+  {
+   "id": "da1301:R00006",
+   "source_sha256": "67f15f58d706f5c6a42110d7c63ea142d12a3814c45350dfb133f805712babab",
+   "ko": "오이디푸스",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1301:T00047",
+   "source_sha256": "7ac5555e57eb7e0b8b90ee0c9400bc8b0bf895517a673a2e8e3d5103a702cd92",
+   "ko": "찔려 부어오른 발뒤꿈치"
+  },
+  {
+   "id": "da1301:T00048",
+   "source_sha256": "4ae9bf6b620615c0acd0f8163c83aa0601fb25af86b82590866e5d9f8181169d",
+   "ko": "의 아픔."
+  },
+  {
+   "id": "da1301:T00049",
+   "source_sha256": "9dcc9e575ed34bc94d4023d5315b8e8756632cce862ac65719bfed8261933dcf",
+   "ko": "「뭐…… 읏」\n\n　세계가 나에게 눈사태처럼 쏟아져 들어온다."
+  },
+  {
+   "id": "da1301:T00050",
+   "source_sha256": "fae8a5197748a04b3ff5861490df4afdbdce1d99276857d900a43ecdb0f52846",
+   "ko": "그것은 쿠자쿠의 내면세계."
+  },
+  {
+   "id": "da1301:T00051",
+   "source_sha256": "e2e4156197161555741ae889badc7870d30fd5781b18fa867d250a6768f54a6f",
+   "ko": "쿠자쿠의 마음 그 자체다."
+  },
+  {
+   "id": "da1301:R00007",
+   "source_sha256": "3ce9cc8009a9d6a35018c98292c910da4c8dcb757d354e56949597ef6e9eeb6c",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1301:T00052",
+   "source_sha256": "7413e921d3bb09245296322aaa6399f7c45cedf9d093c0203458936aead58807",
+   "ko": "방대"
+  },
+  {
+   "id": "da1301:T00053",
+   "source_sha256": "38fd490361e68a4d867cf6aaf5b74fa0a005c17d1d6181515aa805fc335ae517",
+   "ko": "한 질량의 마음에, 우리는 집어삼켜졌다."
+  }
+ ],
+ "issues": [
+  {
+   "id": "da1301:T00036",
+   "kind": "glossary_candidate",
+   "note": "미확정 용어집 항목 '쿠자쿠(九朔)' 사용."
+  },
+  {
+   "id": "da1301:R00002",
+   "kind": "ruby_decision",
+   "note": "'巫山戯(웃기다)'의 단순 훈독 루비('ふざけ')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1301:R00003",
+   "kind": "ruby_decision",
+   "note": "'源泉(원천)'의 단순 훈독 루비('みなもと')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1301:R00007",
+   "kind": "ruby_decision",
+   "note": "'厖大(방대)'의 단순 한자 독음 루비('ぼうだい')이므로 omit_redundant 처리."
+  }
+ ]
+}

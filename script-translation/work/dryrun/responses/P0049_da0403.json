@@ -1,0 +1,489 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0049_da0403",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0403:T00001",
+   "source_sha256": "4aa1776af51604e1e985620645ffa7d3141f14b6e9d2adee0fce00691c649e15",
+   "ko": "아이들을 붙잡아 괴롭히던 것은 이곳에서 끊어졌다."
+  },
+  {
+   "id": "da0403:T00002",
+   "source_sha256": "7f5123302e65efdd02f3675729dc35247771af90916f48bfe6237b7bdab5cdc4",
+   "ko": "실험 장치, 연구실, 그리고 이 악몽."
+  },
+  {
+   "id": "da0403:T00003",
+   "source_sha256": "8f040aa955095b7d1a29d7035ebd79081f6e068db60713ce31e09bba53250a58",
+   "ko": "「으으…… 아……?」"
+  },
+  {
+   "id": "da0403:T00004",
+   "source_sha256": "589897fc8133fb8e144ce60b5722f795f2b50258f26d4fba9a6e02efa86bf119",
+   "ko": "3명은 누군가에게 안겨 있다."
+  },
+  {
+   "id": "da0403:T00005",
+   "source_sha256": "1c4de6b4f41a951db4f83026a5ecbbf3b10914d91eab32ee88a1a399a3c26105",
+   "ko": "차갑고 단단한, 금속으로 무장된 몸."
+  },
+  {
+   "id": "da0403:T00006",
+   "source_sha256": "4773f170a2d9a1be7a8dd9d3ade00ffc1a4a31e94edafc68fe9728d3335b4b07",
+   "ko": "하지만 설령 "
+  },
+  {
+   "id": "da0403:R00001",
+   "source_sha256": "e50a71e44e860ce202ca979a510bdb643a7af165c0b8f7c231f4a95e5308410b",
+   "ko": "메탈",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0403:T00007",
+   "source_sha256": "0f5534c945bee7ba1925b2d8ce2cbeb12fd8f0ce3bc9d7ab3e8cb0b29cdb5fa3",
+   "ko": "금속"
+  },
+  {
+   "id": "da0403:T00008",
+   "source_sha256": "3d6ff60860b14ce8fe0099ca035fc0b83f749c22e3a150eb7cc4c373f92cd361",
+   "ko": " 너머라 할지라도, 그 사람의 상냥함은 전해질 것이다."
+  },
+  {
+   "id": "da0403:T00009",
+   "source_sha256": "8ba088026fcea4bb3042420988451c30f5bd1a3a4a46f1aa189a381b35b50c05",
+   "ko": "「누구……?」"
+  },
+  {
+   "id": "da0403:T00010",
+   "source_sha256": "62235b8504ce27160e6f6be6ac2b6e3ef06b1cbae39c14250b807d6afeb86b84",
+   "ko": "희미해져 가는 의식 속에서 3명은 본다."
+  },
+  {
+   "id": "da0403:T00011",
+   "source_sha256": "3ade2b64d3f3c4559656d9552fa45745f4065dec2b1bf8d20d94ecf8779e3421",
+   "ko": "이 하얀 세계에 있으면서도 더욱 하얀, 그 모습을.\n\n　세계가 하얀 어둠이라 한다면, 그 사람은 하얀 빛이다."
+  },
+  {
+   "id": "da0403:T00012",
+   "source_sha256": "f6cfccf8d3b6d9ca0d234e9d04db4fef6bf26ff60fd8b007f8965026c0d89920",
+   "ko": "어둠을 비추는 올바른 빛인 것이다."
+  },
+  {
+   "id": "da0403:T00013",
+   "source_sha256": "6b43aee007332c981bd30a12c6ef475fc1db011f589ca1b7c0c79083975dce4f",
+   "ko": "「……천사?」"
+  },
+  {
+   "id": "da0403:T00014",
+   "source_sha256": "38b9ae00c6a987fd75e6dff2982e045c4ee4c19684bf1c726480af1c24f9a561",
+   "ko": "「잠들어 있으렴. 금방 끝나니까」"
+  },
+  {
+   "id": "da0403:T00015",
+   "source_sha256": "7fd10861b1a4cb63fcfcc117d282da3ef0d75bfabdde2b1f82449d37a72c6962",
+   "ko": "평온함에 감싸여, 3명은 의식을 잃었다."
+  },
+  {
+   "id": "da0403:T00016",
+   "source_sha256": "8b079ef2c69a179207b6e535ea90c0297e63afdb2cf2101364d7d67d2e9e6bdb",
+   "ko": "그녀는 살며시 아이들을 바닥에 눕혔다."
+  },
+  {
+   "id": "da0403:T00017",
+   "source_sha256": "1caab3c7aeeeb56fe0474a94a4092768612bf05a5a49a832acf1a705fce21e68",
+   "ko": "「하하하…… 하하하하…… 하하하하핫!\n　기억해 냈나…… 마침내 기억해 냈구나,\n　메타트론!」"
+  },
+  {
+   "id": "da0403:T00018",
+   "source_sha256": "f522eb8748007f82d9e91383aa57826c86184c22cd8258c0cf5001d1f51e6d57",
+   "ko": "광소가 하얀 세계에 울려 퍼진다."
+  },
+  {
+   "id": "da0403:T00019",
+   "source_sha256": "95b9405457543fddc97d04456cb0f46109b956c45f4331a30a2e6a0269f0dc00",
+   "ko": "연구실은 이제 어디에도 없다."
+  },
+  {
+   "id": "da0403:T00020",
+   "source_sha256": "85b5b7ebbf7500ba9bf33371845a7d5d42fb7dd1d138147cd34a85e4f6ecd6e2",
+   "ko": "지금은 그저, "
+  },
+  {
+   "id": "da0403:R00002",
+   "source_sha256": "8d621c5b39c3b3fc1c4421e71d03d95bf11db997394b0b9280a4826168a392f6",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0403:T00021",
+   "source_sha256": "a9cd525db318f43791bcf8b25adf15fd77187c35be738deeba23766709f41b7c",
+   "ko": "공허"
+  },
+  {
+   "id": "da0403:T00022",
+   "source_sha256": "30decdf4274513937a5295af56ea082925e2c003e616f76156e9dec43f9164c6",
+   "ko": "한 "
+  },
+  {
+   "id": "da0403:R00003",
+   "source_sha256": "47f22f460052352d4d2034558b78ccd6caa88368798f338adeff2f572bbf69e0",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0403:T00023",
+   "source_sha256": "3366645622a780903cf8cd1c9eb8394456502f6808ef6b411f162a3187d7ff45",
+   "ko": "순백"
+  },
+  {
+   "id": "da0403:T00024",
+   "source_sha256": "ed9e8f679666f0f0243c0496a23a8006387efb8bacec50174313e3f1361c8158",
+   "ko": "이 펼쳐질 뿐이다."
+  },
+  {
+   "id": "da0403:T00025",
+   "source_sha256": "de2f2ad7bb2dc0f20a00c0eb20d7838ea7b7b79a77f9095d718e0ac86cf689e4",
+   "ko": "하양뿐인 세계에서, 단 한 점의 검정이 있었다."
+  },
+  {
+   "id": "da0403:T00026",
+   "source_sha256": "3ae16c5f5965d2a6da49a495c8961b0e3d6f48a6a74baa194d694acd473d684b",
+   "ko": "어둠빛으로 타오르는 인간형의 불꽃."
+  },
+  {
+   "id": "da0403:T00027",
+   "source_sha256": "67a8d5408e51051012f7bdf8ac01ff5a30fafe9fa7df879aa40153e883431e3b",
+   "ko": "증오와 망집이 엮어 낸, 악몽의 잔재다."
+  },
+  {
+   "id": "da0403:T00028",
+   "source_sha256": "bf2affdfdc64ebc456243f8a23568ec100eb804460b21c07727af251ccf7ab24",
+   "ko": "「죽여 주마…… 죽여 주마, 메타트론!」"
+  },
+  {
+   "id": "da0403:T00029",
+   "source_sha256": "42416049b171a486e9d25fc4cdb6b1389a7a43637d4f0b68aba69629d594af17",
+   "ko": "암흑의 불꽃이 실체를 얻는다."
+  },
+  {
+   "id": "da0403:T00030",
+   "source_sha256": "d75c4a717b1c98d4cb515149211b9f7cbaf81e8683f14654a3db304dabfe6181",
+   "ko": "검은 "
+  },
+  {
+   "id": "da0403:R00004",
+   "source_sha256": "e50a71e44e860ce202ca979a510bdb643a7af165c0b8f7c231f4a95e5308410b",
+   "ko": "메탈로",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0403:T00031",
+   "source_sha256": "0f5534c945bee7ba1925b2d8ce2cbeb12fd8f0ce3bc9d7ab3e8cb0b29cdb5fa3",
+   "ko": "금속으로"
+  },
+  {
+   "id": "da0403:T00032",
+   "source_sha256": "cca185bfabc4c8dc9432c44b844c2e4bd92d7ab8a454f6b9735d95f6ffa2130c",
+   "ko": " 무장된, 한 명의 천사."
+  },
+  {
+   "id": "da0403:T00033",
+   "source_sha256": "ab88c465620e49384e4cb1d2b5b28f407e27f3bca1573781f90e132a3eae5f5f",
+   "ko": "「산달폰」"
+  },
+  {
+   "id": "da0403:T00034",
+   "source_sha256": "5da80724503920ee0a30793983433415ccdbc3a45cc4674f7830a7f489a4a8bc",
+   "ko": "백의 천사와 흑의 천사는 인과를 넘어 다시금 이곳에서 대치한다."
+  },
+  {
+   "id": "da0403:T00035",
+   "source_sha256": "8548dece949638ae0b18b00488a0806726f56ccf52e07e924cfd0ef112f069c8",
+   "ko": "――아니. 그것은 틀렸다."
+  },
+  {
+   "id": "da0403:T00036",
+   "source_sha256": "84ef0edcd43947c5e5b55399cb3c4bc2e053e48d3cbe2ac88cc9a81c90f0ca30",
+   "ko": "그녀는 모든 것을 이해했다."
+  },
+  {
+   "id": "da0403:T00037",
+   "source_sha256": "8d5f922ddb8235e868f31ae8908587c08ce8bae1ad1a94e3ff880d43ce4d2bbd",
+   "ko": "지금 눈앞에 있는 것은 그녀의 남동생이 아니다."
+  },
+  {
+   "id": "da0403:T00038",
+   "source_sha256": "a4dc3f35092861f8a395feb687bc9619fa3f6af64e7e63faabcec6c50df89017",
+   "ko": "그는――잃어버린 시간 속에서 그녀의 남동생이었던 그는, 인과마저도\n부정했다.\n\n　지금의 라이카에게 남동생은 없다."
+  },
+  {
+   "id": "da0403:T00039",
+   "source_sha256": "d3f3e7e9e73cc627981d6dce7ffe1b1666370403e3fac97360bbad78b4926653",
+   "ko": "남동생이 있었다는 사실이 없다.\n\n　그는 미래도, 다른 가능성마저도 거절하고 홀로, 비대해진 자신의 광기에 순사한 것이다.\n\n　그렇다면 눈앞에 있는 흑의 천사는 무엇인가."
+  },
+  {
+   "id": "da0403:T00040",
+   "source_sha256": "7a1a01c6d4a31ecffe015f1ab7a69304d267dd2530c417e76890473398700755",
+   "ko": "그저 환영, 그저 악몽인가.\n\n　……아마 그 말대로일 것이다."
+  },
+  {
+   "id": "da0403:T00041",
+   "source_sha256": "09d9501716c8359d2202e8e21e7ae54bfe57e6b72d744ed464fa6ddd00494942",
+   "ko": "하지만 분명, 그것만은 아니다."
+  },
+  {
+   "id": "da0403:T00042",
+   "source_sha256": "ce7f3eabd7f808fa6a469c2a0e6f6af00f1d69bf5101f84124ff49004642eae8",
+   "ko": "「메타트론…… 메타트론……"
+  },
+  {
+   "id": "da0403:T00043",
+   "source_sha256": "e8e23253f3c1f9f17523824ded7a8b78d58d1859ab9f0b52dfbdb65b88b4a4d7",
+   "ko": "메타트로오오오오오오오오오오온!!」"
+  },
+  {
+   "id": "da0403:T00044",
+   "source_sha256": "5d60cabb7d63f5ef021eb5e5a3b5a9f253f4ac4adf662dd09e1cf5669815ed3d",
+   "ko": "포효와 함께 흑의 천사가 날아올랐다."
+  },
+  {
+   "id": "da0403:T00045",
+   "source_sha256": "33787c98d5f20fbee2aa9f17a6ece86d663bec8658fab1df15fd791dbfa27832",
+   "ko": "완전히 동시에, 백의 천사도 빛의 칼날을 꺼내어 난다."
+  },
+  {
+   "id": "da0403:T00046",
+   "source_sha256": "09f34349d854ae8e6e514cdbd75e0c31e0413f2ad0baab69f28ad34719944549",
+   "ko": "칠흑의 폭풍이 질주한다."
+  },
+  {
+   "id": "da0403:T00047",
+   "source_sha256": "9cfdb4814d9c811579028fea02afdbe926ef38e9f7b68e012e6c19b3d64f5ba9",
+   "ko": "하얀 빛이 질주한다."
+  },
+  {
+   "id": "da0403:T00048",
+   "source_sha256": "9a75dce39bcaf9387d623ffde1eff9e44d19a8f9832c22894c3a36711444c030",
+   "ko": "교차하는／"
+  },
+  {
+   "id": "da0403:T00049",
+   "source_sha256": "76c323c020cb2499d4d509bad5c4bf8f26734a1e25a0686259b14a64331a9d89",
+   "ko": "빛의 칼날／"
+  },
+  {
+   "id": "da0403:T00050",
+   "source_sha256": "d3d2cf3e115355b63cc706d5f7096e24fdf6d75b722ba3285102e14a399cd27d",
+   "ko": "흑의 주먹／"
+  },
+  {
+   "id": "da0403:T00051",
+   "source_sha256": "dd772e73e31f34c519eeebf83de6582d30cb5bf270356091f058892f414929b8",
+   "ko": "마음――"
+  },
+  {
+   "id": "da0403:T00052",
+   "source_sha256": "19fce97569e3ed103ec270ec57b7120898d767c23248db18c0e22ab8cce6ad0f",
+   "ko": "「라이카 누나」"
+  },
+  {
+   "id": "da0403:T00053",
+   "source_sha256": "3de5e257072015b9bdad3115f3fefae62c55bff53993d516c72a7348ec9b2be0",
+   "ko": "――류우가."
+  },
+  {
+   "id": "da0403:T00054",
+   "source_sha256": "3520dc8b476d8bd1f4cd6e444e1d086c26a39d1f159af6ebd0816063b5bccb6c",
+   "ko": "「당신은」"
+  },
+  {
+   "id": "da0403:T00055",
+   "source_sha256": "982663d983298145c7fbd045b346af5a618367c7ce3b8b2cc6e364ee70406eba",
+   "ko": "――너는."
+  },
+  {
+   "id": "da0403:T00056",
+   "source_sha256": "4d6e43567767b862f2e90973b7e7e434bfa84f0a7a0167c44be34919808a4010",
+   "ko": "「땅바닥을 기어다녀라」"
+  },
+  {
+   "id": "da0403:T00057",
+   "source_sha256": "60691828ad2ccb1dccfa9469cc1447e4542b0bfe8ff9a645c1d02c13aad13233",
+   "ko": "――너는, 나의 『말』.\n\n　그 『말』이야말로 일찍이 있었던 『죄』이자, 지금 있는 『맹세』이며, 그리고 나아가야 할 『미래』이기도 하다."
+  },
+  {
+   "id": "da0403:R00005",
+   "source_sha256": "3d6e7a92243d0e53d9c962602beb38e396a5f02b62d2fd759706147fb095f432",
+   "ko": "리얼리티",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0403:T00058",
+   "source_sha256": "840202782f881543ee516bea8d1d296d67bc6fbdb6079a17deb8323f326ad6dc",
+   "ko": "존재 의의"
+  },
+  {
+   "id": "da0403:T00059",
+   "source_sha256": "a1ad70f5a81ee067d2a3baf053b2f43c0cc6592d7c53e06576cb2bd40097a925",
+   "ko": "를 잃은 환영이 피의 안개가 되어 소멸한다."
+  },
+  {
+   "id": "da0403:T00060",
+   "source_sha256": "46707678c621d40577beeab9f37a37a805eb64f08f229e18949fc4463bac7e9c",
+   "ko": "꿈은 그저 꿈으로 흩어져 사라질 뿐이다."
+  },
+  {
+   "id": "da0403:T00061",
+   "source_sha256": "275efa1247e8a3a16a5fb46208ae5c01e4d12fc366d738bc54147cf0d52c0ef0",
+   "ko": "정신을 차려 보니 예배당에 있었다."
+  },
+  {
+   "id": "da0403:T00062",
+   "source_sha256": "ff771f42d2b1c19c5ed32a86fb44b38b9ecba9c39ef91e28448c4d9f63a7cbe5",
+   "ko": "아이들도 모두 바닥에 쓰러져 있다."
+  },
+  {
+   "id": "da0403:T00063",
+   "source_sha256": "54f49be20629fe7a52c254586548ce903d5f30425c74adb9b0516d5e300ea796",
+   "ko": "메타트론은 아이들을 우선 의자 위에 눕혔다."
+  },
+  {
+   "id": "da0403:T00064",
+   "source_sha256": "e46236bebc6121b12fcd1916166e39604d650c1084c03a74deb38ea8e79d2e76",
+   "ko": "「아무래도 아컴 시티 전체가\n　이상해진 모양이네」"
+  },
+  {
+   "id": "da0403:T00065",
+   "source_sha256": "5066e82a65f82d012e7f23f7aff1bf6f288e823142644f6fdf385de439f2f45a",
+   "ko": "자신이 메타트론의 기억을 가지고 있다는 것은, 인과마저도 미쳐 돌아가고 있는 모양이다.\n\n　큰 사태다."
+  },
+  {
+   "id": "da0403:T00066",
+   "source_sha256": "301fd976f4703fa1282c8d569e92253fede023d5926e7fd45850d4c0dbf41e29",
+   "ko": "지금쯤 쿠로와 알은 사건 해결에 필사적이겠지."
+  },
+  {
+   "id": "da0403:T00067",
+   "source_sha256": "3905999bfd80437f3ad3a124706b36737bbae46f453ebb91400794c67b6f5346",
+   "ko": "「지금의 나라면 힘이 될 수 있어」"
+  },
+  {
+   "id": "da0403:T00068",
+   "source_sha256": "ec750610978f4e56b1cb4957caacccb0d04054b23aa56aac3ec0866d86d77de5",
+   "ko": "두 사람을 찾으러 가자고 라이카가 결심한 그때였다."
+  },
+  {
+   "id": "da0403:T00069",
+   "source_sha256": "44fe0748e8a9b86525dc255023268d2f55df9cf820bb65264a1aa9c3df739ae5",
+   "ko": "예배당의 문이 열린다."
+  },
+  {
+   "id": "da0403:T00070",
+   "source_sha256": "89d2b199bf4982c4e420db289663c9be013f5b4a27fa2f589e1743c62afab3af",
+   "ko": "「누구야!?」"
+  },
+  {
+   "id": "da0403:T00071",
+   "source_sha256": "c04bf35e864fe26516d5a261004c31f46229d0f9fd49aab4453f07b8068f0b17",
+   "ko": "하지만 열린 문 너머에는 아무도 없다."
+  },
+  {
+   "id": "da0403:T00072",
+   "source_sha256": "176407795c66c2c0efc5b3859278e8277714596996049ed056fbf935d5198e39",
+   "ko": "……아니, 있었다."
+  },
+  {
+   "id": "da0403:T00073",
+   "source_sha256": "e58dcc1c90e0aea077189178b10dc30c9a1170fcfcdca18eed8d044764985107",
+   "ko": " 아래다."
+  },
+  {
+   "id": "da0403:T00074",
+   "source_sha256": "ff61dc17cb0b2c14e85985f7b6e63e0bd95e7dbc3d107998942956c2468a2193",
+   "ko": "「테케리・리?」"
+  },
+  {
+   "id": "da0403:T00075",
+   "source_sha256": "7cfb7e37f79b487602e83555ae90ef270b9fd08bb434ece1c3049942c492c8a0",
+   "ko": "「더…… 던세이니?」"
+  },
+  {
+   "id": "da0403:T00076",
+   "source_sha256": "ff875390009202cb212e7e2775ff6186b40a770f27d41f62cc4a00a28aab4fd9",
+   "ko": "「테케리・리!」"
+  },
+  {
+   "id": "da0403:T00077",
+   "source_sha256": "314f798cacf432809ceeb2a7b7cf426e3560c09dace917a10dbaf259c586c3b8",
+   "ko": "「어떻게 된 거야, 도대체?」"
+  },
+  {
+   "id": "da0403:T00078",
+   "source_sha256": "ea0cb8dd483b9092aadc4189770a00845334856e4fe1ee644848eae27bbb988b",
+   "ko": "「테케리・리　테케리・리　테케리・리」"
+  },
+  {
+   "id": "da0403:T00079",
+   "source_sha256": "b64eb57fead4166ea124744a015687d3579550cb877a2d21a857e3264578263e",
+   "ko": "무수한 촉완을 돋아내고 제스처로 의사소통을 시도하는\n던세이니.\n\n　……뭐, 어렴풋이긴 하지만 이해할 수 있었다."
+  },
+  {
+   "id": "da0403:T00080",
+   "source_sha256": "18977737fdd45ea541c241c9daf42eeacef0a8c2ec713e89c4959bcd94ff97c6",
+   "ko": "「쿠로 쨩이랑 알 쨩을\n　찾고 있는 거지?」"
+  },
+  {
+   "id": "da0403:T00081",
+   "source_sha256": "6502e0a20fe0591424726b7c691cf9710c592217a167c9a099437a87fca068be",
+   "ko": "「테케리・리」"
+  },
+  {
+   "id": "da0403:T00082",
+   "source_sha256": "dd2453d5d5cd806f6cccf3c85f15e851287d5db8997997bf3502838bcc3a9f35",
+   "ko": "「알았어. 내가 찾으러 갈게.\n　그러니까 이 아이들을 부탁해」"
+  },
+  {
+   "id": "da0403:T00083",
+   "source_sha256": "ff875390009202cb212e7e2775ff6186b40a770f27d41f62cc4a00a28aab4fd9",
+   "ko": "「테케리・리!」"
+  },
+  {
+   "id": "da0403:T00084",
+   "source_sha256": "fdf240c2c6c2ba7693af130156ccf58beb25edd6c486b79ed9b39af1b4fef369",
+   "ko": "「부탁한다?"
+  },
+  {
+   "id": "da0403:T00085",
+   "source_sha256": "b6eae5e953e2c575603d832539ff6de3634ea24288df90f1bd3a713f1782d30f",
+   "ko": "그럼…… 한달음에 다녀올게」"
+  },
+  {
+   "id": "da0403:T00086",
+   "source_sha256": "3aa0b7fae584ced29449c04237d8e4896dd28b9e212a6df5cbf5690184d56e3e",
+   "ko": "「테케리・리~」"
+  },
+  {
+   "id": "da0403:T00087",
+   "source_sha256": "c2dd63231aa3d27162a83f63f686da72885c3dcf5f24d8812a1c5ee8fd3a25f3",
+   "ko": "밖으로 나와, 메타트론은 단숨에 하늘로 날아올랐다."
+  },
+  {
+   "id": "da0403:T00088",
+   "source_sha256": "b5f05143fe447b191252d7767e201f242f77f265db542cf074e2a8f317b85f0d",
+   "ko": "일그러진 아컴 시티를, 하얀 천사가 난다."
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0403:R00002",
+   "kind": "ruby_decision",
+   "note": "空虚의 일본어 훈독 안내(ウツロ)로 한국어 '공허'와 의미가 중복되어 생략."
+  },
+  {
+   "id": "da0403:R00003",
+   "kind": "ruby_decision",
+   "note": "白의 일본어 훈독 안내(シロ)로 한국어 '순백'과 의미가 중복되어 생략."
+  }
+ ]
+}

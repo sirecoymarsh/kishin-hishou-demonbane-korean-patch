@@ -1,0 +1,259 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0004_da0102",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0102:T00116",
+   "source_sha256": "ddcf3996f56ca0e74f15e5e93d18a4e717e1517fb41346e1b9252839f19c3a94",
+   "ko": "「………………」"
+  },
+  {
+   "id": "da0102:T00117",
+   "source_sha256": "ddcf3996f56ca0e74f15e5e93d18a4e717e1517fb41346e1b9252839f19c3a94",
+   "ko": "「………………」"
+  },
+  {
+   "id": "da0102:T00118",
+   "source_sha256": "cc0414448fc93a92be6b59300c67a4560513716f5e6889a346f221c26084055a",
+   "ko": "「……어찌 그러느냐?」"
+  },
+  {
+   "id": "da0102:T00119",
+   "source_sha256": "96dbc756b6ecf7dcfa310fd269d8ce20c70a001161d94ed9b6d758813b1e73c7",
+   "ko": "「……뭐가?」"
+  },
+  {
+   "id": "da0102:T00120",
+   "source_sha256": "661b3a2efda77d45abee8356a613667fa630bf60bf0f6503686d312bb9619317",
+   "ko": "「요즘, 억지로 "
+  },
+  {
+   "id": "da0102:R00011",
+   "source_sha256": "f96c62da222170b1960920ed5fb8be9561b0718f5a1a8fd33a63cba24ea8edb3",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0102:T00121",
+   "source_sha256": "1a25fc37eadef3c28a543b86c3e48ba641364519442486fd787d401046d9d3be",
+   "ko": "익살 부리"
+  },
+  {
+   "id": "da0102:T00122",
+   "source_sha256": "dd6826d86595555ce98f3d1abdd8bc0df3a2e212de156490c92920ffeb20c3a7",
+   "ko": "고 있지 않느냐?」"
+  },
+  {
+   "id": "da0102:T00123",
+   "source_sha256": "bbbdfa52f5382a584a58223529ec2c34d01bb76dd5310b2b312b340dc850890d",
+   "ko": "「……하핫, 무슨 소릴 하는 거야. 난 딱히――」"
+  },
+  {
+   "id": "da0102:T00124",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0102:R00012",
+   "source_sha256": "d7f1a2f425a1266a26572668c78d36821405bc121793e7d3f59e84c1584b78f0",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0102:T00125",
+   "source_sha256": "3f3f106ea5e4744a6581b57466768ae5468e9845cd34ac7a7b4688d817047708",
+   "ko": "얼버무리"
+  },
+  {
+   "id": "da0102:T00126",
+   "source_sha256": "cd2e74feccaa26672dca1a9a7253cf2d972b5fdddc11061f0d73a2c5157f647a",
+   "ko": "지 마라」"
+  },
+  {
+   "id": "da0102:T00127",
+   "source_sha256": "f63e338a9fae446f20ae3d105f2318d7c4d921eff8749a1d9931f4bd94dd5f65",
+   "ko": "「…………」"
+  },
+  {
+   "id": "da0102:T00128",
+   "source_sha256": "fa6f1a4d479ac1129af37a37b1a7c903e61d81707da6ea53a5c6779444b9e16d",
+   "ko": "「그대 일이라면 손바닥 보듯 훤히 안다」"
+  },
+  {
+   "id": "da0102:T00129",
+   "source_sha256": "bca77d0b25d0ceab16043c78b69dd98573d9eabbea4ce7eb4dc8174c11fac94f",
+   "ko": "「……다 꿰뚫어 보고 있다 이건가?　당해 낼 수가 없네」"
+  },
+  {
+   "id": "da0102:T00130",
+   "source_sha256": "4e7eba99fe8ce66e1c3eae98d54f10519a6bac16be23bab3ad40bf5073d3171b",
+   "ko": "별다른 의미도 없이, 알의 머리카락을 쓰다듬는다."
+  },
+  {
+   "id": "da0102:T00131",
+   "source_sha256": "3bfb868fac0c8045646eda081dfb03c63ad0a261497321acf3ba6efc9aac5dc7",
+   "ko": "알은 그 손길을 잠자코 받아들이고 있다."
+  },
+  {
+   "id": "da0102:T00132",
+   "source_sha256": "781984775b41875f5dd7a9792e42e4f88ef8984fd50424cf4834915db79b1809",
+   "ko": "알을 가볍게 품에 안고, 입을 연다."
+  },
+  {
+   "id": "da0102:T00133",
+   "source_sha256": "bedaccb9e33a637ec30f02ba6fba9150c999857566ce8c419ef737b9c4340942",
+   "ko": "「대단한 일은 아니야.\n　그저, 조금 말이야. 예전 일이 떠오르고 그래서」"
+  },
+  {
+   "id": "da0102:T00134",
+   "source_sha256": "48b1ed08b1e5b984bd7a33079845b09c55d8fef7ad536ca294d61d3d773d3c98",
+   "ko": "「『전생』 말인가」"
+  },
+  {
+   "id": "da0102:T00135",
+   "source_sha256": "44a6abf1befe7f426f49d8dd9623d8a2f3ed88c7d3e4a990830052ce304f9b13",
+   "ko": "「……아아」\n\n　『전생』이란 건 즉, 『블랙 롯지』가 존재했던 세계……"
+  },
+  {
+   "id": "da0102:T00136",
+   "source_sha256": "19c2f5f87043b67fe2ab82e4320fb0f3abd1e00e7d0b2c6e1d8298cb90c191ae",
+   "ko": "다시 말해 데몬베인으로 싸웠던 "
+  },
+  {
+   "id": "da0102:R00013",
+   "source_sha256": "3ec9b1831a404c0276b83cf791e2b477babd57cb88eebdf541dbbfb2dda87c3a",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0102:T00137",
+   "source_sha256": "bf6267da6077b6bedde993a6ec599e9d5474eef12284b6823ef8dd0facc08f40",
+   "ko": "시간"
+  },
+  {
+   "id": "da0102:T00138",
+   "source_sha256": "b219462c9b969562923d322c0a189d53b6f3230fb900c3a738b695effe999b36",
+   "ko": "을 뜻한다.\n\n　우리가 아는 암흑시대는, 일그러진 역사가 낳은 산물이었다."
+  },
+  {
+   "id": "da0102:T00139",
+   "source_sha256": "6d22b0f425c5ce50686f968173795040dc8505b4992190bf1bb7502b09d4b7d5",
+   "ko": "데몬베인의 싸움으로 잘못된 시간은 수정되었고…… 이 시간, 이 세계에는 그 강대한 악이 존재하지 않는다.\n\n　그리고 그 싸움 또한, 이제는 우리의 기억 속에만 존재할\n뿐이다."
+  },
+  {
+   "id": "da0102:T00140",
+   "source_sha256": "f5f20c28fd4a6923748022e97ad8dfafe695e5f36c92da73af86adb928145731",
+   "ko": "「이걸로 된 거란 건, 알고 있는데 말이야」\n\n　원 참. 결국 센티멘털해져 버렸다."
+  },
+  {
+   "id": "da0102:T00141",
+   "source_sha256": "dda8ff1d74a14d6362d05ef3874bb7cfee088b8f393ef597ed0f935b53f38cb9",
+   "ko": "이런 건 내 "
+  },
+  {
+   "id": "da0102:R00014",
+   "source_sha256": "1a72e7faec27d81e87b6fe836a35f90e4797be7e8cf065bee53b73105b922fa9",
+   "ko": "캐릭터",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0102:T00142",
+   "source_sha256": "eac170cddbc4dccad418bfa144a6c5ede5a8c9551ed7555949c1e7b651da0f5d",
+   "ko": "성격"
+  },
+  {
+   "id": "da0102:T00143",
+   "source_sha256": "80f7437ec20d0b90d185917ed39446c37f00501350f4c23e9bbc26e3a392f145",
+   "ko": "에는 안 어울리는데."
+  },
+  {
+   "id": "da0102:T00144",
+   "source_sha256": "f81eb27df38880881d30264b1014315d1525e804db3a1e00b5e43a16a6a7ea63",
+   "ko": "「불안해하지 않아도 된다」"
+  },
+  {
+   "id": "da0102:T00145",
+   "source_sha256": "6211a140ca81614da5bcb4db0de393db1eaf953353c32c904c26591e70b7e52a",
+   "ko": "「앗……」"
+  },
+  {
+   "id": "da0102:T00146",
+   "source_sha256": "31f4b329f1d1476482bfd4beadbfe5c80e22e1fd9ee4a30744312e3faf8d6fb0",
+   "ko": "욕조 안에서, 알은 살며시 내 손을 잡는다."
+  },
+  {
+   "id": "da0102:T00147",
+   "source_sha256": "22b5724824c7d2ddd51a7800bdad0ae5d579056f4972ba22e5236a3f6a0d9a35",
+   "ko": "작고 가녀린 손가락이, 내 손가락과 얽혀 든다."
+  },
+  {
+   "id": "da0102:T00148",
+   "source_sha256": "7f4e34ccee49eac425880c969f5f631cbcd02949c14701709702eb4378d963f9",
+   "ko": "다정하고, 조용한…… 하지만 분명한 어조로 말한다."
+  },
+  {
+   "id": "da0102:T00149",
+   "source_sha256": "82a5a1772a19683cffea8877481e2af3b0aa7ecdf6a01bd3785138b00dc3c7b0",
+   "ko": "「이 몸은 분명히, 이곳에 있다」"
+  },
+  {
+   "id": "da0102:T00150",
+   "source_sha256": "eaac3e30727c8406d6a535355d35b5b9a9732b1241659a522fd7715efdcc5004",
+   "ko": "「……그러게」\n\n\n　우리는 한 번 헤어졌지만, 다시금 "
+  },
+  {
+   "id": "da0102:R00015",
+   "source_sha256": "8b8ce2df582ee71352c4d856fd145e82efc202b80850019a726a2479783cbc73",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0102:T00151",
+   "source_sha256": "4422ed3b0ef16b01ab83db1483e792161f0d1886fc7532f785569c70ed7d3351",
+   "ko": "만"
+  },
+  {
+   "id": "da0102:T00152",
+   "source_sha256": "ff92d043383cfe512c0e37f4d3d70e1c2ae11631ff7c1c00ed50a9c49c3e6d70",
+   "ko": "났다."
+  },
+  {
+   "id": "da0102:T00153",
+   "source_sha256": "b0ce76697a5d109e3d99f6086590016130904d404c8bf5350015f12a8ee9bbf7",
+   "ko": "이 작은 손바닥을, 두 번 다시 놓지 않으리라.\n\n　그래."
+  },
+  {
+   "id": "da0102:T00154",
+   "source_sha256": "93396febc9c0747edf32957381db6c8a2c87c10f71fd4706c35415268e480d5c",
+   "ko": "우리는 언제까지나, 둘이서 걸어간다."
+  },
+  {
+   "id": "da0102:T00155",
+   "source_sha256": "c9b4f3aca2c80a89bd9ee3dd21a024c6f7422a1a2bde18da7182b8b512a5f34c",
+   "ko": "「다이쥬지 쿠로…… 알 아지프」"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0102:R00011",
+   "kind": "ruby_decision",
+   "note": "원문 'お道化(どけ)て'의 루비 'どけ'는 한자 표기 '道化'의 동사 활용 독음 안내이며, 본문(da0102:T00121)을 '익살 부리(고)'로 번역하여 의미가 온전히 전달되므로 omit_redundant 처리함."
+  },
+  {
+   "id": "da0102:R00012",
+   "kind": "ruby_decision",
+   "note": "원문 '誤魔化(ごまか)すな'의 루비 'ごまか'는 취음자 표기 '誤魔化'의 독음 안내이며, 본문(da0102:T00125)을 '얼버무리(지)'로 번역하여 의미가 온전히 전달되므로 omit_redundant 처리함."
+  },
+  {
+   "id": "da0102:R00013",
+   "kind": "ruby_decision",
+   "note": "원문 '時間(とき)'의 루비 'とき'는 한자어 '時間'의 훈독 발음 안내이며, 본문(da0102:T00137)을 '시간'으로 번역하여 의미가 충분히 전달되므로 omit_redundant 처리함."
+  },
+  {
+   "id": "da0102:R00015",
+   "kind": "ruby_decision",
+   "note": "원문 '廻(めぐ)り逢った'의 루비 'めぐ'는 한자 '廻'의 훈독 발음 안내이며, 본문(da0102:T00151~T00152)을 '돌아와 만났다'로 번역하여 의미가 온전히 전달되므로 omit_redundant 처리함."
+  }
+ ]
+}

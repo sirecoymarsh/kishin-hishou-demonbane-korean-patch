@@ -1,0 +1,1125 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0081_da0709",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0709:T00001",
+   "source_sha256": "a5da44fa2513fdcb12476de8729d68b24b4794fc817014a539a6805310cf9ddc",
+   "ko": "하도우 재벌의 지하 기지――인류의 보루를 노리는 파괴자."
+  },
+  {
+   "id": "da0709:T00002",
+   "source_sha256": "c1de368d8eb05331be9b1fcf049f405f0094af5bc7d82926c31e7a84de4b98c6",
+   "ko": "하늘을 가득 메우는 사악한 대세력.\n\n　수천에 달하는 "
+  },
+  {
+   "id": "da0709:R00001",
+   "source_sha256": "2f7c625a147f5f27fcb23daf72c134c8333aec6dca6968bd2dffb10e068aa50b",
+   "ko": "킬링 머신",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0709:T00003",
+   "source_sha256": "850223190e514e5f4ed51add8dde019e3905b78f506b89f019e1e79757fa7190",
+   "ko": "살육병기"
+  },
+  {
+   "id": "da0709:T00004",
+   "source_sha256": "d70335ff1bcbf1ce71cf3d70310f1f42c1e8fec6fd88e64d1281677ea4b72475",
+   "ko": "의 무리."
+  },
+  {
+   "id": "da0709:T00005",
+   "source_sha256": "bcf6ed0a6a8d64ce4454f32cfb3369a7df47f886220ca27665ddf3ca6b0d7ad1",
+   "ko": "일국의 군대마저 능가하는 압도적인 제압력."
+  },
+  {
+   "id": "da0709:T00006",
+   "source_sha256": "4ed14415ed5da56bc1b8abee418bc27e813f41938d763130c15dd25f7c7b0bfc",
+   "ko": "그것을 맞아 싸우는 것은 단 두 조와 한 사람."
+  },
+  {
+   "id": "da0709:T00007",
+   "source_sha256": "4f5194a6e1ac47d09b283fe6e832c59bd2231ab641641cd674be277a9980234c",
+   "ko": "하지만 걱정하지 마라."
+  },
+  {
+   "id": "da0709:T00008",
+   "source_sha256": "0ded0bf835bb734f37cbcb5e88827c2f7902ea6a410630b48ef741d9f3576232",
+   "ko": "적이 도리를 짓밟는 불합리의 "
+  },
+  {
+   "id": "da0709:R00002",
+   "source_sha256": "24d7ad880d9dd274550d7dc2480caa180cce47c07ed273889cc65934ddc93c74",
+   "ko": "힘",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0709:T00009",
+   "source_sha256": "618416051cec7ddb73897c9a8bd7b81caff9c64fc7fa9451f96668b5ef9fb639",
+   "ko": "군력"
+  },
+  {
+   "id": "da0709:T00010",
+   "source_sha256": "a8ad2b913451a4c0336fd7251dc89dcbb07362420636f78a7b5cb08066b26a76",
+   "ko": "이라면――"
+  },
+  {
+   "id": "da0709:T00011",
+   "source_sha256": "e0389e44b31c45f6c2a1904cb89d34b9891b1edc0f5eb401f17c2f7586578854",
+   "ko": "그들은 불합리를 찍어 누르는 "
+  },
+  {
+   "id": "da0709:R00003",
+   "source_sha256": "24d7ad880d9dd274550d7dc2480caa180cce47c07ed273889cc65934ddc93c74",
+   "ko": "힘",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0709:T00012",
+   "source_sha256": "618416051cec7ddb73897c9a8bd7b81caff9c64fc7fa9451f96668b5ef9fb639",
+   "ko": "군력"
+  },
+  {
+   "id": "da0709:T00013",
+   "source_sha256": "b15d59a41b7a2a20290da44b97a524fd5c9388f1c90726234565953088fed1fa",
+   "ko": "을 넘어선 "
+  },
+  {
+   "id": "da0709:R00004",
+   "source_sha256": "24d7ad880d9dd274550d7dc2480caa180cce47c07ed273889cc65934ddc93c74",
+   "ko": "힘",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0709:T00014",
+   "source_sha256": "8781c7e7ffa33953d1f4d81ec476237f395a357bf5b7bd951342849aba5b10e2",
+   "ko": "의지력"
+  },
+  {
+   "id": "da0709:T00015",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  },
+  {
+   "id": "da0709:T00016",
+   "source_sha256": "7edce919ed12ff4cd9451408cfa26e5270e955e838b05e6c4bc688b8bce664f2",
+   "ko": "자, 소리로 들어라."
+  },
+  {
+   "id": "da0709:T00017",
+   "source_sha256": "115c74d6ed4743d7a29ef1e1650758f30bd4d10d395eb4cd9d2e8cb5450c4d3a",
+   "ko": "눈동자에 새겨 넣어라.\n\n　드높이 울려 퍼지는 세 종류의 영창."
+  },
+  {
+   "id": "da0709:T00018",
+   "source_sha256": "8a388f14dc5ba377b28e8c13a028918da5961fba2e425c35cd9c7d604e602635",
+   "ko": "강림하는 것은 세 자루의 검."
+  },
+  {
+   "id": "da0709:T00019",
+   "source_sha256": "ec8e2883006f07cbe2e4d784c2df051409b875cb62b53c254678b798fa613516",
+   "ko": "온갖 "
+  },
+  {
+   "id": "da0709:R00005",
+   "source_sha256": "ba5cc6aa3faed01e4b0e2bc0fb6fc61150d9b3e08de1c40bb0f7334c99299dc5",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0709:T00020",
+   "source_sha256": "d94ededfdd015613317a5e2d858e7ed49acf3314d52c7f77ae219458fd34ae25",
+   "ko": "강철"
+  },
+  {
+   "id": "da0709:T00021",
+   "source_sha256": "8cdd62fd20c84f7f00eb3415b7766bcce7d74bae9f1d4932eacdd2440fb8ac1a",
+   "ko": "을 뛰어넘는, 최강의 "
+  },
+  {
+   "id": "da0709:R00006",
+   "source_sha256": "ba5cc6aa3faed01e4b0e2bc0fb6fc61150d9b3e08de1c40bb0f7334c99299dc5",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0709:T00022",
+   "source_sha256": "cbf25022620199332bfe298a5b20c1f28d513c3aab0004b97aca4b1fe2467490",
+   "ko": "검날"
+  },
+  {
+   "id": "da0709:T00023",
+   "source_sha256": "96755c5f5026c98d2d1354cca9f595c58aa8e8441b3e581fdc197262d6108898",
+   "ko": "들.\n\n　자, 나오라."
+  },
+  {
+   "id": "da0709:T00024",
+   "source_sha256": "08c2ba740ca4f045c831b658df3911a51556c688e4884ce61a5c925fca14161c",
+   "ko": "모습을 드러내라."
+  },
+  {
+   "id": "da0709:T00025",
+   "source_sha256": "376c5c4121e84bd93bc93d3b9f32e617fecec3ef911290182c2932e95761c546",
+   "ko": "상냥한 마음의 기도에 응하여."
+  },
+  {
+   "id": "da0709:T00026",
+   "source_sha256": "ba30a8b43401017f3ee549bf2ddf30cd0a4f44eab9b9e2bd7d437b462e3ccc5e",
+   "ko": "싸우는 마음의 의지에 모여――\n\n　강철이여!"
+  },
+  {
+   "id": "da0709:T00027",
+   "source_sha256": "48e81801da6d070c74dc361a1ef0eaafdd11a636f557e528c20ab841ae9198c2",
+   "ko": "「――"
+  },
+  {
+   "id": "da0709:R00007",
+   "source_sha256": "029ddddfe5efb8824744a3c3d138b96882e9f8fa08a883d3b1a3aa02e0f7021c",
+   "ko": "아이온",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0709:T00028",
+   "source_sha256": "7f3b448f058416302824538ba23307f061c08c986225ab19a3b498f65ee63fc6",
+   "ko": "영겁"
+  },
+  {
+   "id": "da0709:T00029",
+   "source_sha256": "9bf0a5e8f3bf38c833b5c6375b52a3a2fba8b0b1d33e9203b0c1b956e8cbde4d",
+   "ko": "!\n　\n　　　시간의 톱니바퀴\n　　　"
+  },
+  {
+   "id": "da0709:R00008",
+   "source_sha256": "8ac397e74c8333ecacdeede9b35dfb1b0c55e3e37aa7991b37a9b95b9fe2071c",
+   "ko": "심판",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0709:T00030",
+   "source_sha256": "fc4fb7847b6d2d59fb15041adfc82ba7c139fd29638b982f76fe6574762b8bd1",
+   "ko": "단죄"
+  },
+  {
+   "id": "da0709:T00031",
+   "source_sha256": "67f814659c1ef02a548df9113e7f7d519212f442bf7e4a17ae91270fada82e84",
+   "ko": "의 칼날\n　　　구원의 끝에서 오는 허무」"
+  },
+  {
+   "id": "da0709:T00032",
+   "source_sha256": "48e81801da6d070c74dc361a1ef0eaafdd11a636f557e528c20ab841ae9198c2",
+   "ko": "「――"
+  },
+  {
+   "id": "da0709:R00009",
+   "source_sha256": "029ddddfe5efb8824744a3c3d138b96882e9f8fa08a883d3b1a3aa02e0f7021c",
+   "ko": "아이온",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0709:T00033",
+   "source_sha256": "7f3b448f058416302824538ba23307f061c08c986225ab19a3b498f65ee63fc6",
+   "ko": "영겁"
+  },
+  {
+   "id": "da0709:T00034",
+   "source_sha256": "631157c15452e8cefd925437a26f1d016b1a5d7575f9234fd0bf7aff0369e63d",
+   "ko": "!\n　\n　　　"
+  },
+  {
+   "id": "da0709:R00010",
+   "source_sha256": "00fc46018228175a1eb8fef0035fd89138d19f5086651a85c6b102d3500df270",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0709:T00035",
+   "source_sha256": "8c82875ab04265373825b1b25efcc5850926815c50b871a69e755a6caf326685",
+   "ko": "그대"
+  },
+  {
+   "id": "da0709:T00036",
+   "source_sha256": "ce8020ecfee1a10fa72dad86b98eaccd6c2e35612e82a5144f1698dc66b49bac",
+   "ko": "에게서 벗어날 수 있는 자는 없으며\n　　　"
+  },
+  {
+   "id": "da0709:R00011",
+   "source_sha256": "30decdf4274513937a5295af56ea082925e2c003e616f76156e9dec43f9164c6",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0709:T00037",
+   "source_sha256": "8c82875ab04265373825b1b25efcc5850926815c50b871a69e755a6caf326685",
+   "ko": "그대"
+  },
+  {
+   "id": "da0709:T00038",
+   "source_sha256": "5ecc181534ce9a3304ef143df7644f21bfc5c330943b0dea2eee8b8ffa3ea301",
+   "ko": "가 닿은 것은 죽음조차도 죽으리라!」"
+  },
+  {
+   "id": "da0709:T00039",
+   "source_sha256": "7a9e58aae6d8ba80996afdec3043634fee1f9cbb8b2e6fe4a2a0340c4407e7f7",
+   "ko": "「나는 승리를 맹세하는 강철\n　　　　나는 "
+  },
+  {
+   "id": "da0709:R00012",
+   "source_sha256": "5302fe4d3f5ee1613f81eaeb5acae97f583d899243f154cd0a38acbe23882e10",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0709:T00040",
+   "source_sha256": "fd95f613e5fda181d62b8060a29e8cf672e80f3583d8dc829208d7ac95b1181a",
+   "ko": "재앙의 바람"
+  },
+  {
+   "id": "da0709:T00041",
+   "source_sha256": "a59aad0a00de8e2f2759f34f0412201db0ff9643c316cf09e210cf56d7e833d4",
+   "ko": "에 맞서는 날개」"
+  },
+  {
+   "id": "da0709:T00042",
+   "source_sha256": "e755a9ad52dcde3814098e3a6200a54795d04e722c7c193138edfa3166559d65",
+   "ko": "「무궁한 하늘을 넘어\n　　　　　"
+  },
+  {
+   "id": "da0709:R00013",
+   "source_sha256": "e407f89f5117fd51f56275b41f027437a3e19c0195cc6bfe8186e421c8ab02b3",
+   "ko": "아이테르",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0709:T00043",
+   "source_sha256": "e6d6aac85c371bf8b59c93e557895346b461baac2482eb8755937aef2141ab39",
+   "ko": "영자"
+  },
+  {
+   "id": "da0709:T00044",
+   "source_sha256": "e9762c6e2027633d5d06200cf0e5bb6d6f8d242895825ffc38dbad1f92691a9f",
+   "ko": "의 바다를 건너\n　　　　　날아라, 강철의 날개여!」"
+  },
+  {
+   "id": "da0709:T00045",
+   "source_sha256": "a9f016361976bd5d4d57f209cba5568b53f53ae3e892f91e52d0008f89b081a7",
+   "ko": "「날아 내려오라――"
+  },
+  {
+   "id": "da0709:T00046",
+   "source_sha256": "7619563c7c1d33fe0f70f01077359b75e2b51e38ccbe918ec048f87ec5e5a000",
+   "ko": "암브로시우스!」"
+  },
+  {
+   "id": "da0709:T00047",
+   "source_sha256": "78dc34ce07be29b61c0e1cfff0d83043ffad2371e5279d760d2fef55e8b2f953",
+   "ko": "「증오의 하늘에서 도래하여――」"
+  },
+  {
+   "id": "da0709:T00048",
+   "source_sha256": "82af917b8d4a13979fc5eeb79a113cec5e4afeb62a010baa8bb48276c859e5b4",
+   "ko": "「올바른 분노를 가슴에 품고――」"
+  },
+  {
+   "id": "da0709:T00049",
+   "source_sha256": "bacfffd47a11514a68f2d540dd232e3ab226b70c0f99344c210e3c615d63aae7",
+   "ko": "「「우리는 마를 끊는 검을 잡는다!」」"
+  },
+  {
+   "id": "da0709:T00050",
+   "source_sha256": "375e09bbc2359cd147e43402b026029a8175779c207faeef5ff2ab30a2a7ca26",
+   "ko": "「「그대, 무구한 칼날――데몬베인!」」"
+  },
+  {
+   "id": "da0709:T00051",
+   "source_sha256": "f5a384907692e3a49f675f585abee4f6fbfc80d5c2055540d62ac395d4f5b87d",
+   "ko": "현현하는 세 대의 기신."
+  },
+  {
+   "id": "da0709:T00052",
+   "source_sha256": "abeb6d0f04f92c4ca67b7d499eb41766c0096a6fa700ba7ba985e23ced50c922",
+   "ko": "맹금처럼 일제히 덮쳐 오는 적의 군세."
+  },
+  {
+   "id": "da0709:T00053",
+   "source_sha256": "5b547bfad49d49177690a764d73aef1a102d72d8de0e7a0ba700daf800103932",
+   "ko": "그것을 맞아 싸우는 "
+  },
+  {
+   "id": "da0709:R00014",
+   "source_sha256": "9fb57cba02d5357c7552a62ce5dbc7650d12eea80cd90fbc0cfb21f7d361f388",
+   "ko": "블레이드",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0709:T00054",
+   "source_sha256": "0075288366a7adf6f6a942ab6c92bd856e035f8a823507b3647e475399782488",
+   "ko": "마검"
+  },
+  {
+   "id": "da0709:T00055",
+   "source_sha256": "38630d5c12e1700059a941e0e743f5d4b2af63c66f379ec73103d9c0ae02297d",
+   "ko": "/"
+  },
+  {
+   "id": "da0709:R00015",
+   "source_sha256": "1bddffb52e52e1f095431dbe7b55955118d6546250bb35d16be39b09d3e9c8bd",
+   "ko": "데스 사이즈",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0709:T00056",
+   "source_sha256": "a862ea97df0618b0254e5dec260f9eb8956102c72c0f45f11224650069c57684",
+   "ko": "죽음의 낫"
+  },
+  {
+   "id": "da0709:T00057",
+   "source_sha256": "38630d5c12e1700059a941e0e743f5d4b2af63c66f379ec73103d9c0ae02297d",
+   "ko": "/"
+  },
+  {
+   "id": "da0709:R00016",
+   "source_sha256": "26615e0ad7eecc659b95efec1125a4bc292f7434e8090ab709b6745a130ab466",
+   "ko": "건 파이어",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0709:T00058",
+   "source_sha256": "2e6d08cf1d4fb6c92d4756db3767a9f8de561585f7a258d3ae0298470b8d9ffc",
+   "ko": "마총"
+  },
+  {
+   "id": "da0709:T00059",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  },
+  {
+   "id": "da0709:T00060",
+   "source_sha256": "e848b92947a70ad0c26ab6d0b32263b969c03601734164cfefc8e33eff3d0cc8",
+   "ko": "「힘을――다오!」"
+  },
+  {
+   "id": "da0709:T00061",
+   "source_sha256": "5074be1b3fc93bc8f4a84693f331a4180d4fcac61e065b13f397d41ff500b234",
+   "ko": "「휘몰아쳐라,\n"
+  },
+  {
+   "id": "da0709:T00062",
+   "source_sha256": "629e3e6c5200a063fe2296108d90d70c2b9cb6b1f008848f4dda548cd18e2654",
+   "ko": "궁극의 바람이여!」"
+  },
+  {
+   "id": "da0709:T00063",
+   "source_sha256": "9ae5a586bf5ed6aaa69463509779f360c6635d1ef9d48070f687afa8ffc5e304",
+   "ko": "「크투가, 이타콰……\n　신수 형태!」"
+  },
+  {
+   "id": "da0709:T00064",
+   "source_sha256": "491e57342aae64cdf90fda4c943887cfac393e4ae608bb6a8acebbef6db5f994",
+   "ko": "「가라아아아아아아――――앗!」"
+  },
+  {
+   "id": "da0709:T00065",
+   "source_sha256": "a9acb45ba6504e678c78aaffcbc71309d046e9f4efc1a7684b1461756de5dd67",
+   "ko": "「적의 제2진, 침묵!」"
+  },
+  {
+   "id": "da0709:T00066",
+   "source_sha256": "8c46980eff4b85a6e4b2ea9913ee3d0802e1c9be3b47c6795733313f175b11a0",
+   "ko": "「――곧바로 제3진, 옵니다.\n　"
+  },
+  {
+   "id": "da0709:R00017",
+   "source_sha256": "e9713444a28f90dc7b95ef7602b4f668df20bc823f0b5e864b08c5a5e45f6a70",
+   "ko": "인게이지",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0709:T00067",
+   "source_sha256": "b7012b3778fb9e6d5d0104d6dd37b653b04faf208545ea6b77cb0861e1c9db2b",
+   "ko": "교전"
+  },
+  {
+   "id": "da0709:T00068",
+   "source_sha256": "cc29f51e97b3f27e257d8cdc44a9feca9b0dd5b78752baee18aa8da475de487b",
+   "ko": "까지 30초!」"
+  },
+  {
+   "id": "da0709:T00069",
+   "source_sha256": "bb129ab4d47c2b1d626ae6b452692541cc8eee89bc93659ff0f025006b45caec",
+   "ko": "「재주도 없지만 끝도 없구만…… 어이」"
+  },
+  {
+   "id": "da0709:T00070",
+   "source_sha256": "7877748ce0ef9af21fa7bba1ac13e0ce951a377318c8763ddb8d43d21ba8ef64",
+   "ko": "「언제까지고\n　상대하고 있을 수는 없다」"
+  },
+  {
+   "id": "da0709:T00071",
+   "source_sha256": "5d85a158bd36ec46994ff61843567106d6461c9b0af7238cd243d777cdf8c384",
+   "ko": "이미 쿠자쿠 녀석은 『몽환심모』의 내부로 돌입했다."
+  },
+  {
+   "id": "da0709:T00072",
+   "source_sha256": "7b6acce642dcc05d3db7a16fcbddacf658f9ae3ab38cb3f21fd7b82cbfebcddc",
+   "ko": "서둘러 뒤를 쫓아야만 한다……만, 그렇다고 기지를 무방비로 내버려 둘 수도 없다."
+  },
+  {
+   "id": "da0709:T00073",
+   "source_sha256": "b83c7eb82899de4d0d7143c467f7a959d73ecc80e1aeb2d1b6eef6557f41205e",
+   "ko": "「한 대가 남아서\n　저 녀석들을 상대해야겠어」"
+  },
+  {
+   "id": "da0709:T00074",
+   "source_sha256": "583fac65b0620d2566d46cf43887362c1c4c49c0bae89828c575a74339289698",
+   "ko": "「그렇다면 내가 남겠다」"
+  },
+  {
+   "id": "da0709:T00075",
+   "source_sha256": "6ccd613a649cc42a3578e4888cc7e4ba9305e9b7d0d3fc6e157bf41f7c1467bd",
+   "ko": "「아니요――전 기체 『몽환심모』로 돌입\n　해 주세요. 저희는 괜찮습니다」"
+  },
+  {
+   "id": "da0709:T00076",
+   "source_sha256": "a0eb79c364b5dbffd10d3be09298da4a3d2de4211d7d31ce4e201ca0a36b1f13",
+   "ko": "「하, 하지만……」"
+  },
+  {
+   "id": "da0709:T00077",
+   "source_sha256": "3226491aad813409326869d72c3b7d62c150a3e2cd66390b478b1366717223d5",
+   "ko": "다시 강하해 온 파괴로보 무리를 무수한 "
+  },
+  {
+   "id": "da0709:R00018",
+   "source_sha256": "f47437f816a408be9877f028c38c69ca253fdcd9cdd791ad288654f4e5bb0856",
+   "ko": "빔이",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0709:T00078",
+   "source_sha256": "feee8ff17563ccf0fa4de39bff8df90b27e089261abaf98e1815b26d052ebb62",
+   "ko": "광조가"
+  },
+  {
+   "id": "da0709:T00079",
+   "source_sha256": "801dbc71a586d06de316c679e2790fd5b89e1d30451b8e1d231f47f35d462bc9",
+   "ko": " 꿰뚫었다."
+  },
+  {
+   "id": "da0709:T00080",
+   "source_sha256": "1e96394cb61192e6c503d4d04f669c03bc95efeabc6e13d82c2215bccdbdeb5d",
+   "ko": "「여기는 내가 맡겠다」"
+  },
+  {
+   "id": "da0709:T00081",
+   "source_sha256": "17589a9afe28f20d661bf354fb10951cb0ca0e0e779a4ac12e79553b699b8099",
+   "ko": "「메타트론!」"
+  },
+  {
+   "id": "da0709:T00082",
+   "source_sha256": "1e2067e23c46b739524977d5c8e5d07636a80359744af8afc6d4c72c1ccbeb97",
+   "ko": "「저 숫자를 상대로\n　혼자서 싸울 수 있겠느냐?」"
+  },
+  {
+   "id": "da0709:T00083",
+   "source_sha256": "7832ebc5380e4212964d2f44f7734cfc339c9c1146e498457c8ec43fff1800ba",
+   "ko": "「얕보지 말아 주었으면 하는군,\n　또 한 명의 마스터 오브 네크로노미콘\n　――"
+  },
+  {
+   "id": "da0709:R00019",
+   "source_sha256": "22e2d2538e950753f7dadcd85bbe657cddcd59eecc44b04d35287f197ad44964",
+   "ko": "・・・・・・・・・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0709:T00084",
+   "source_sha256": "b9b26de42762db2a5ce7b324cb45fab0c4792b19fecd69fa303047bb263a2ed7",
+   "ko": "저것을 상대하는 건 익숙하다"
+  },
+  {
+   "id": "da0709:T00085",
+   "source_sha256": "d93a835d0f2787bcb1a759ad3a1b8fbea56d742d0b99720dbbb9ea8ace1926f8",
+   "ko": "」"
+  },
+  {
+   "id": "da0709:T00086",
+   "source_sha256": "e29bb3ad3fffa9e08bc7f2345ae821fa51085840afabe39bf077704a2c9f5304",
+   "ko": "「게다가…… 아무래도 혼자는 아닌 모양이다」"
+  },
+  {
+   "id": "da0709:T00087",
+   "source_sha256": "f284d39bf15eba46dfa1fe16345486d2e65a794d9ee76b31231a30dde1c788b1",
+   "ko": "「어……?」"
+  },
+  {
+   "id": "da0709:T00088",
+   "source_sha256": "be4ba5f75d9eaa8ade2397adf7d21aaaded8e92289192a0ce9facf82a5c240f5",
+   "ko": "이어지는 폭발."
+  },
+  {
+   "id": "da0709:T00089",
+   "source_sha256": "7b32eb099fe752fbbeb41639aef639ae06ff0c18617c5e71cec6d4388b199048",
+   "ko": "포탄이 파괴로보를 격추해 나간다."
+  },
+  {
+   "id": "da0709:T00090",
+   "source_sha256": "32c518913abaf0d2ce03ede271f165d5e549877458569ea30be047f2b5f83176",
+   "ko": "「후하하하하하하!\n　후하하하하하하하하하!」"
+  },
+  {
+   "id": "da0709:T00091",
+   "source_sha256": "65c5686d1a62d381826f6c00830415d49d438626884b7ba680bd09e82c9e2c19",
+   "ko": "「아~……」"
+  },
+  {
+   "id": "da0709:T00092",
+   "source_sha256": "65c5686d1a62d381826f6c00830415d49d438626884b7ba680bd09e82c9e2c19",
+   "ko": "「아~……」"
+  },
+  {
+   "id": "da0709:T00093",
+   "source_sha256": "bb2cf9423a538b730d8cae761ebf96fb90e9773313915e41207b512f17ce1efb",
+   "ko": "「똑똑히 보았느냐,\n　이 위력 이 위용!\n　이것이야말로 슈퍼 웨스트\n　무적로보 28호 과도기 리파인!」"
+  },
+  {
+   "id": "da0709:T00094",
+   "source_sha256": "8567ca84bace3070ccaf34313e70b2e9753f84cbbdf58211868065198a9d8084",
+   "ko": "「――해설: 슈퍼 웨스트 무적로보 28호 Ver.Ka는 그 서 있는 포즈의 멋짐 때문에 업계를 진감시켰으나――」"
+  },
+  {
+   "id": "da0709:T00095",
+   "source_sha256": "c3176ec0ead31541a9b02cfff53bf7037a24173e47f4b236b7aaea6ee9283d38",
+   "ko": "「그것은 어디까지나 아직 시행착오 단계에 있으며, 새로운 시대를 구축하기 위한 한 과정에 불과한 것이다. "
+  },
+  {
+   "id": "da0709:R00020",
+   "source_sha256": "ae32f309845abca4e4cf88f3d0737ed444a1ac507647a30f5b12811391beba42",
+   "ko": "카토키",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0709:T00096",
+   "source_sha256": "7aea1677e6fe3d3e40e0122d90698d87f73f287bbac1e53843feeef782220e62",
+   "ko": "과도기"
+  },
+  {
+   "id": "da0709:T00097",
+   "source_sha256": "8ee36b4e578e7cbb9936f898652a608c54b95849c11a0232c49b47a1ae930d74",
+   "ko": "이니만큼 말이지」"
+  },
+  {
+   "id": "da0709:T00098",
+   "source_sha256": "e008290d8af82947a2c55a15bf801a41df2fccea97d49152fc0bcc1c5198a245",
+   "ko": "――무슨 소린지 모르겠다고."
+  },
+  {
+   "id": "da0709:T00099",
+   "source_sha256": "5f9608161bf4871b949561601ef0e2ec1fa1895944be03904989bafe085a3eef",
+   "ko": "「역시 무적로보다.\n(아무리 져도) 아무렇지도 않다 로보」"
+  },
+  {
+   "id": "da0709:T00100",
+   "source_sha256": "9df6dbf7a76be84148eaee10623aaa0cc0d5d5d3d72e4cfca116ff925b7f5a9e",
+   "ko": "――조금은 어떻게 좀 돼라."
+  },
+  {
+   "id": "da0709:T00101",
+   "source_sha256": "b82f6d40734629bca7bc2d2e0333c733d862584685b472c2464aa109ae8e0d89",
+   "ko": "「에에잇! 저 로봇 놈들을\n보고 있으면 어쩐지 지독히 "
+  },
+  {
+   "id": "da0709:R00021",
+   "source_sha256": "befb0d3bf174c2e3d628114535f2e33fd215c795b10b3043a7ada14f8cc8972a",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0709:T00102",
+   "source_sha256": "d7fe0db96ee2e1ff95c0322bad11aac0b2a0f4de6b26786a678a301688cd2268",
+   "ko": "짜증"
+  },
+  {
+   "id": "da0709:T00103",
+   "source_sha256": "fd13af6dc446e1bff8632feeb14ea1d169cb5620d349c9a22da1d4773d0c4f51",
+   "ko": "이 나는\n것이다! 닥치는 대로 격추해 버리는 것이다! 에에에엘자!」"
+  },
+  {
+   "id": "da0709:T00104",
+   "source_sha256": "4f4b4d3305a805ad090a4043e5f5c868aa6a9a4b5366c294952875de12af1f98",
+   "ko": "「라저 로보! 파괴로보가 아컴\n시티에서 탄막 피버 로보~옷!」"
+  },
+  {
+   "id": "da0709:T00105",
+   "source_sha256": "38eee757b4348a6982ae7d1598ec73143c44ec3cf1acf1bf0a58cce7208928b1",
+   "ko": "「WOW!!」"
+  },
+  {
+   "id": "da0709:T00106",
+   "source_sha256": "8a16ec8295fb9bd52aa060803a482a45b9528a6130bac7a333581f34db70e096",
+   "ko": "「――저렇듯 의욕이\n　넘쳐흐르는 모양이다」"
+  },
+  {
+   "id": "da0709:T00107",
+   "source_sha256": "7351419e80704094397f2d60b0f47501c67f3c5178ebb9ee6b59e0ce37d20f0c",
+   "ko": "「……그러게」"
+  },
+  {
+   "id": "da0709:T00108",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0709:R00022",
+   "source_sha256": "54b27393ae940a270bfb55d950bf6d37b33496a57f3a5a56e090fcbdec7fc5fe",
+   "ko": "디펜스",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0709:T00109",
+   "source_sha256": "e4c9dcacd996b51fb8e3a163b76008bdc5fea4f9202f2a794ac77091d4441d5c",
+   "ko": "수비"
+  },
+  {
+   "id": "da0709:T00110",
+   "source_sha256": "fc1e71b05e462bfe1cfda4f708a34e7cb35406c8e8a9a636bd6e82b65907d9c8",
+   "ko": "는 저희만으로도 대처할 수 있습니다.\n　하지만 "
+  },
+  {
+   "id": "da0709:R00023",
+   "source_sha256": "0e77cd5ded1e57ac903ce5d99e94a1372d5d609bc26db20509703890a6d5ed48",
+   "ko": "오펜스는",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0709:T00111",
+   "source_sha256": "c62991e857bf6db8df7b84e105550cd4d03590f0238997e583bcd078388afb32",
+   "ko": "공격은"
+  },
+  {
+   "id": "da0709:T00112",
+   "source_sha256": "487edf2d0a9982beb015734dd12fe125bfe1108d78c2c8b1330a5c08ce46d31e",
+   "ko": " 다릅니다」"
+  },
+  {
+   "id": "da0709:T00113",
+   "source_sha256": "e1ae8e0b86f35aee7877ae23381fe0ab44e841d89a533cd491588092faa0468c",
+   "ko": "「적은 그 마스터 테리온에 안티크로스…… "
+  },
+  {
+   "id": "da0709:R00024",
+   "source_sha256": "73ac229cabfac277c315b4b0d1eb76959473af07f58c11d00bb82a06b250745a",
+   "ko": "데우스 마키나",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0709:T00114",
+   "source_sha256": "762524a979d84688362b8dc00d54c75a1be10d7917ed188fd55985924c885e49",
+   "ko": "귀계신"
+  },
+  {
+   "id": "da0709:T00115",
+   "source_sha256": "9a1682aaae25ec2cea61077e89cc067533642d472af6f6cad2410dbbe361f069",
+   "ko": "에 대항할 수 있는 것은 귀계신뿐」"
+  },
+  {
+   "id": "da0709:T00116",
+   "source_sha256": "55ca39272a35d2deccf0cf899bdc52acf8cba9b97ca511df7fc5ccf1549df0e4",
+   "ko": "「다이쥬지 씨…… 당신들밖에\n　할 수 없는 일입니다」"
+  },
+  {
+   "id": "da0709:T00117",
+   "source_sha256": "2d34a34b60efce1f0ecb79c2639c36b4705ae8c4936e73e44626c3f1d1099092",
+   "ko": "「알았어…… 다녀올게, 공주님」"
+  },
+  {
+   "id": "da0709:T00118",
+   "source_sha256": "b21bae4ca186caf09d76e482cbecbd28e94c318a15ad2de85c549d128fdc77a6",
+   "ko": "「『"
+  },
+  {
+   "id": "da0709:R00025",
+   "source_sha256": "6adeb715bd730a39ca4102ee4c24e3cf0d73afcd0b0c3f9a36cd5707d1189716",
+   "ko": "굿 럭",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0709:T00119",
+   "source_sha256": "5165dc05fc2858f4eda6b42d34f658ef032719ec68395e43565b42bd357aaaef",
+   "ko": "무운을 빕니다"
+  },
+  {
+   "id": "da0709:T00120",
+   "source_sha256": "8e60034374340b0ea10ff82e7e9d5d717203ee5031fbc9356240ba65e3df2d45",
+   "ko": "』요~, \n　다이쥬지 씨!」"
+  },
+  {
+   "id": "da0709:T00121",
+   "source_sha256": "01fcbacb3475a2af034813b142df167c9cf73d8e57b6dbb235ac5c91a246fc8f",
+   "ko": "「슈루즈베리 박사.\n　또 폐를 끼치는군」"
+  },
+  {
+   "id": "da0709:T00122",
+   "source_sha256": "c21a67ce7801053b9c175f2e8169062e048ffaf9eed1c2d1fc9ff821366a17de",
+   "ko": "「뭘, 이것도 일의 일부일세.\n　아미티지 박사」"
+  },
+  {
+   "id": "da0709:T00123",
+   "source_sha256": "06c924522ae2651800a343313c4c2caaf06b4113c25f22960b3d7b500e8362d6",
+   "ko": "「익숙한걸」"
+  },
+  {
+   "id": "da0709:T00124",
+   "source_sha256": "f4ac0e3d106e85ca2ebb8db4596cedd3349341d71aa28a61d5924fdda8538695",
+   "ko": "「간다. "
+  },
+  {
+   "id": "da0709:R00026",
+   "source_sha256": "399541026b89787f76b6312375d21b42244869347cf836059cf9eba724bb4824",
+   "ko": "・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0709:T00125",
+   "source_sha256": "bd6b98a7ac0277a624648bbe17fef3e4a324adc31051b61b587f7d77c71a9f10",
+   "ko": "혈로"
+  },
+  {
+   "id": "da0709:T00126",
+   "source_sha256": "267076c41562897e3ddc7db1961f5d9269289d0e88d8d1c821f1d09148ad8e59",
+   "ko": "를 연다」"
+  },
+  {
+   "id": "da0709:T00127",
+   "source_sha256": "996a440f391664cdf59bab3dd245224668b80054dc92b817a0c8f16117c7c6a2",
+   "ko": "「어쩔 셈이냐?」"
+  },
+  {
+   "id": "da0709:T00128",
+   "source_sha256": "9d0dc8f1f5e4719ec2701ad2118acc214caf1e8ff9c1b63c79ab35b23abebe62",
+   "ko": "「알 아지프.\n또 네 "
+  },
+  {
+   "id": "da0709:R00027",
+   "source_sha256": "f91c93611673db1cc3e62784a37ee177cfdad41af8e135ca7ced27743e2852a0",
+   "ko": "꿈",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0709:T00129",
+   "source_sha256": "2892879e37b97d1b65b47ede97b4c28fbb90ff88f55275be78a2aff6a0dd68c6",
+   "ko": "기억"
+  },
+  {
+   "id": "da0709:T00130",
+   "source_sha256": "d9781f30153643e6399e608cf8db14cd6aca22866e8314ab4de08c54fbfaba47",
+   "ko": "을 빌리겠다」"
+  },
+  {
+   "id": "da0709:T00131",
+   "source_sha256": "9012f6708dce394c658afcc8b6396f26620943402c9ae0f6a78f33beddb35c57",
+   "ko": "「뭐라?」"
+  },
+  {
+   "id": "da0709:T00132",
+   "source_sha256": "a27012b6e7abc78646dcdbb3025b2eebc7117797c429d269888cb5e5b804acca",
+   "ko": "솟구치는 빛."
+  },
+  {
+   "id": "da0709:T00133",
+   "source_sha256": "f38bf25db3d204825c883cd09f547dbd08f8fba2a0eb54b395ec316dbf095f48",
+   "ko": "아이온의 전방에 빛의 기둥이 "
+  },
+  {
+   "id": "da0709:R00028",
+   "source_sha256": "e5e17c4e499f8ab4c70e902f7bfb93153e0fa964dd0747eeb9c1639a17314f4a",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0709:T00134",
+   "source_sha256": "2ba4c8777d3a15226bef4c8d46ba47bd8503d5d9919bc121d3a7b5316fdd97c4",
+   "ko": "우뚝 솟"
+  },
+  {
+   "id": "da0709:T00135",
+   "source_sha256": "0766df111960b9203996742fea569ee2366e94d53ad4abba10aeeb9c6cdcabe8",
+   "ko": "아오른다."
+  },
+  {
+   "id": "da0709:T00136",
+   "source_sha256": "1de316a9e2b2bda970ead9b9b40315d398cb791cb59cb80a9b890e1df5123bcd",
+   "ko": "빛의 기둥은 수만 수억의 마술문자로 이루어진 마술식의 나선.\n\n　고속 회전하는 "
+  },
+  {
+   "id": "da0709:R00029",
+   "source_sha256": "f24e1d4c1416020a350748b1a9d32690050e439e40e3feec1386d1cf90ad46bb",
+   "ko": "카두케우스는",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0709:T00137",
+   "source_sha256": "5d29d8bd7dc20e6f02db4a6c2cc299f39a2118f7833eb4efa99cd182ac9e118c",
+   "ko": "문자열은"
+  },
+  {
+   "id": "da0709:T00138",
+   "source_sha256": "7706db1a23211e1643712bc4a2c28cc93c94f283538f979c480c90bd069351e6",
+   "ko": " 의미를 이루고, 인지를 넘어 만명화한다."
+  },
+  {
+   "id": "da0709:T00139",
+   "source_sha256": "3e7de6fe70bf5778c0901ddb6c812f4d6779a9e8e376fa281a164f6b1aa04a4c",
+   "ko": "빛이 질량을 얻어 실체를 맺었다."
+  },
+  {
+   "id": "da0709:T00140",
+   "source_sha256": "ac1a00734a1f5676a5725173f83da1cbc6a2eace420b102041e5c77567574e87",
+   "ko": "아이온이 현현한 그것을 양손에 쥔다."
+  },
+  {
+   "id": "da0709:T00141",
+   "source_sha256": "058a44031cf7e5414ee55dd8dbba63688edb9e8f7606fc8b18ce8924393106d4",
+   "ko": "그것은 『마법사의 지팡이』다."
+  },
+  {
+   "id": "da0709:R00030",
+   "source_sha256": "88dde280e137a9165cbf8a0d138eeffff1e482ca8cc6a667c37871a50107dfdc",
+   "ko": "메탈릭",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0709:T00142",
+   "source_sha256": "3ae9a440402ce137cd9d7eff47d554eef88cb39919724b0541bebfa911b241cd",
+   "ko": "금속적"
+  },
+  {
+   "id": "da0709:T00143",
+   "source_sha256": "537dc9e69fa11ec75a3844d918872672eb67220bd90fefc15047eb32cc324ae3",
+   "ko": "인 빛을 띠는 거대한 지팡이."
+  },
+  {
+   "id": "da0709:T00144",
+   "source_sha256": "086e33ed28f65ba3133ff624317892c034c5b9e8b72e8777aedb1fa6ab5367dd",
+   "ko": "「이것은……!」"
+  },
+  {
+   "id": "da0709:T00145",
+   "source_sha256": "871b7ff577c35288ac164aec8bc026cf1c5800b74bf7bae71760cdf0ae34245b",
+   "ko": "「본래의 나로서는 다룰 수 없었던 힘.\n　하지만 지금의 나에게는 "
+  },
+  {
+   "id": "da0709:R00031",
+   "source_sha256": "6f090df5f940a27b8d0ebc6bb33da6a0b5a3ef58a93f573524402a7c4ee81828",
+   "ko": "옛날이야기",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0709:T00146",
+   "source_sha256": "f3ee94697fa175ac84b204f40ae978d07238e8b65ce8882799ab26b3cceecdd6",
+   "ko": "황당무계"
+  },
+  {
+   "id": "da0709:T00147",
+   "source_sha256": "18469b5dcc301be6bc1ca5ef0df1b724e3ea969e199441d4773b8693a0761e10",
+   "ko": "의\n　도움이 있다――신총 형태」"
+  },
+  {
+   "id": "da0709:T00148",
+   "source_sha256": "f698882ffbe4abf49343d8fbf72b59e04f984fd9f5f93be98384ad5ee4d324e2",
+   "ko": "아즈랏드의 말과 함께 지팡이의 머리 부분이 『전개』했다."
+  },
+  {
+   "id": "da0709:T00149",
+   "source_sha256": "5968ca73f95acc6233835e615ea9fe49b6be0002acadb0fc1c4160622bd40cb2",
+   "ko": "유클리드 기하학과 질량보존의 법칙을 거스르며 지팡이는 변형, 더욱 거대화."
+  },
+  {
+   "id": "da0709:T00150",
+   "source_sha256": "eada09f311b924b5c8176bf89fc5911d335caf4818ab9f8cdce9b01146c28e8f",
+   "ko": "새로운 형태가 되어 그 위용을 과시한다."
+  },
+  {
+   "id": "da0709:T00151",
+   "source_sha256": "4e2f27e682544aa263a150c976d0dec0a08dbc4221ca964cc1d26b0d5cb58158",
+   "ko": "그것은 아이온의 전체 길이를 뛰어넘을 정도로 거대한 총――\n　아니, "
+  },
+  {
+   "id": "da0709:R00032",
+   "source_sha256": "94b5a4bae4769c6b2723775b092da6a1092586410ad3cb819a7b6dc66d730ffb",
+   "ko": "캐논이었다",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0709:T00152",
+   "source_sha256": "574dfe86964facb2eb9c49a19e640db9c41eced7d6977e9412325dc3f62e6af7",
+   "ko": "포였다"
+  },
+  {
+   "id": "da0709:T00153",
+   "source_sha256": "8ec64c8151548cf0ea6636c11d1d3dfa2d2de901feb6b19f250bed4bf7132180",
+   "ko": ".\n\n　아이온은 허리를 낮추고 두 발을 버티어 선 채 "
+  },
+  {
+   "id": "da0709:R00033",
+   "source_sha256": "94b5a4bae4769c6b2723775b092da6a1092586410ad3cb819a7b6dc66d730ffb",
+   "ko": "캐논을",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0709:T00154",
+   "source_sha256": "574dfe86964facb2eb9c49a19e640db9c41eced7d6977e9412325dc3f62e6af7",
+   "ko": "포를"
+  },
+  {
+   "id": "da0709:T00155",
+   "source_sha256": "2b13ecefd76601f6841eab81417282cb803aebaeae62e01b84601eb4ed587316",
+   "ko": " 겨눈다."
+  },
+  {
+   "id": "da0709:T00156",
+   "source_sha256": "63218966b89b8e1a50aa09d7827da17f505f227930c8c6f8bc17a328e14ea996",
+   "ko": "포구는 상공의 적에게로.\n\n　포신을 몇 겹으로 둘러싸는 "
+  },
+  {
+   "id": "da0709:R00034",
+   "source_sha256": "fe65050b6cf95368d85f30fd366c092a15824886d51defd754887d1e968f7491",
+   "ko": "・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0709:T00157",
+   "source_sha256": "0b48a3579e7e80fd4b53a8d7934f21fcb14c6735389605f25bbf9851b7895980",
+   "ko": "마포진"
+  },
+  {
+   "id": "da0709:T00158",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  },
+  {
+   "id": "da0709:T00159",
+   "source_sha256": "99d013b19de019c874c32fa9de07f450279a856ffb13e0d3eaec37a41a04e9bc",
+   "ko": "육안으로 확인할 수 없는 속도로 고속 회전→포구에 흉악한 빛이 생겨난다."
+  },
+  {
+   "id": "da0709:T00160",
+   "source_sha256": "6e39d4fd1af78800c5a7073eed8beef387fa7fa39a1f2e7c157eea5ef49f6ff3",
+   "ko": "그 빛의 정체를 나는 곧바로 눈치챘다."
+  },
+  {
+   "id": "da0709:T00161",
+   "source_sha256": "8b9087dc67ecacb9c52a5898637c0ba279266f8c44bc6cd419ffca4d1a031fbf",
+   "ko": "「――크투가!」"
+  },
+  {
+   "id": "da0709:T00162",
+   "source_sha256": "1a42dc3f8ea8126c2e9f40dc4bb83a56874c6d7da5aca7ebd34168e5bf756bc2",
+   "ko": "포구에서 해방된 빛이 세계를 하얗게 물들였다."
+  },
+  {
+   "id": "da0709:T00163",
+   "source_sha256": "f3983d4797b5f81306b18c8f895f42d54531ded67d4036d29a348c8b15d9cff4",
+   "ko": "사납게 날뛰는 빛의 기둥이 하늘로 일직선으로 뻗어 나간다."
+  },
+  {
+   "id": "da0709:T00164",
+   "source_sha256": "93e22778a278d41542e493c8a4251dd5e0e8e8a2fcf1dad7c89bb48913bd91f2",
+   "ko": "빛에 삼켜진 파괴로보는 한순간에 흔적도 없이 증발한다."
+  },
+  {
+   "id": "da0709:T00165",
+   "source_sha256": "aa0b7f05c9de32b1363bb475ec1ef2c2d498b7bd378cfacacafedeaeb39307ef",
+   "ko": "데몬베인과 무기는 다르지만, 틀림없이 크투가의 힘."
+  },
+  {
+   "id": "da0709:R00035",
+   "source_sha256": "61235cfaff8acb68a62ef9c57f27e7635322a3230c3bed425b1c6321fb2eea3d",
+   "ko": "크투가",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0709:T00166",
+   "source_sha256": "c720ed7c0f262983f754755d85e763074fa16c9a673ddaa56e96bd814a1b8e9e",
+   "ko": "초고열"
+  },
+  {
+   "id": "da0709:T00167",
+   "source_sha256": "e1b42c6628f1c40f897e7fe43ac0fdcdba9410e7ea8c633b75e7abbded62a75b",
+   "ko": "의 일격이 『몽환심모』까지 이르는 길을 적진 한가운데로\n꿰뚫었다. 빛의 기둥은 그대로 『몽환심모』의 외벽을 뚫는다."
+  },
+  {
+   "id": "da0709:T00168",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0709:R00036",
+   "source_sha256": "e1acc6ebfed9b707cdb9992f0b55cc0c3bc15156b97fac5f0c8570a043d4a524",
+   "ko": "길이",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0709:T00169",
+   "source_sha256": "bd6b98a7ac0277a624648bbe17fef3e4a324adc31051b61b587f7d77c71a9f10",
+   "ko": "혈로가"
+  },
+  {
+   "id": "da0709:T00170",
+   "source_sha256": "e67c79c42f66189c277a0f4ef619d1e7c4588ce22df133220e52b2a26677725c",
+   "ko": " 열렸다. 가자!」"
+  },
+  {
+   "id": "da0709:T00171",
+   "source_sha256": "d533225b9da9a37bc40f7c8bbab0188d90c43904e177c57d414cad9f22b2b39d",
+   "ko": "「오우!」"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0709:R00005",
+   "kind": "ruby_decision",
+   "note": "Omitted katakana reading ハガネ for 鋼鉄."
+  },
+  {
+   "id": "da0709:R00006",
+   "kind": "ruby_decision",
+   "note": "Omitted katakana reading ハガネ for 刃金."
+  },
+  {
+   "id": "da0709:R00010",
+   "kind": "ruby_decision",
+   "note": "Omitted archaic reading なれ for 汝."
+  },
+  {
+   "id": "da0709:R00011",
+   "kind": "ruby_decision",
+   "note": "Omitted archaic reading な for 汝."
+  },
+  {
+   "id": "da0709:R00012",
+   "kind": "ruby_decision",
+   "note": "Omitted reading まがつかぜ for 禍風."
+  },
+  {
+   "id": "da0709:T00071",
+   "kind": "glossary_candidate",
+   "note": "Used provisional glossary target 쿠자쿠 for 九朔."
+  },
+  {
+   "id": "da0709:R00021",
+   "kind": "ruby_decision",
+   "note": "Omitted standard kun'yomi reading いら for 苛."
+  },
+  {
+   "id": "da0709:R00028",
+   "kind": "ruby_decision",
+   "note": "Omitted standard kun'yomi reading そび for 聳."
+  },
+  {
+   "id": "da0709:T00148",
+   "kind": "glossary_candidate",
+   "note": "Used provisional glossary target 아즈랏드 for アズラッド."
+  }
+ ]
+}

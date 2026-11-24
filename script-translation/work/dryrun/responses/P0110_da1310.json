@@ -1,0 +1,1250 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0110_da1310",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da1310:T00001",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da1310:R00001",
+   "source_sha256": "f500b3b07ce5e1c78cea612abb66d3588db1a3d5f643d93cef377aa44a1bb902",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1310:T00002",
+   "source_sha256": "3d60b9ec1012cd9b5ada0b8b4125bc8bde37cbe94e73f23ba67deb7b342db46b",
+   "ko": "이"
+  },
+  {
+   "id": "da1310:T00003",
+   "source_sha256": "708fcdf5441928580b93064c413c4f3da521e691dd0a6890a9ee502a3053337c",
+   "ko": "와 "
+  },
+  {
+   "id": "da1310:R00002",
+   "source_sha256": "e36c6b9d007191abff413382834bad43c91566efd96eb8d7909b05393a9a480b",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1310:T00004",
+   "source_sha256": "b27f740b14fe3f5b2b622ce486a5e756d80850ff47c34a0dc365016b4737cd9a",
+   "ko": "같"
+  },
+  {
+   "id": "da1310:T00005",
+   "source_sha256": "69dd6cfa72e09fc3a4f74d2a9da437935a3fba93e52ec0f6abe88c885a1cc1de",
+   "ko": "이, 출연을 마친 배우는\n　단상에서 내려가고, 무대는 막을 내린다」"
+  },
+  {
+   "id": "da1310:T00006",
+   "source_sha256": "e84626e8c27283419b6d9b51dd6a2dbeee3f9a32df2909bfdc77617b096a2ae7",
+   "ko": "「마지막을 장식하는 것은 나다. 이제는 스스로가\n　　『"
+  },
+  {
+   "id": "da1310:R00003",
+   "source_sha256": "c1ffb0342c7dce440ea380f7752d78bdba74e8fae1c8a82a9cf220ea8d380fe2",
+   "ko": "데우스 엑스 마키나",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1310:T00007",
+   "source_sha256": "e71a7283fd36b122052fcf481c6bc2e63b667b0eb40f52a39e3a067f5b0af44f",
+   "ko": "기계장치의 신"
+  },
+  {
+   "id": "da1310:T00008",
+   "source_sha256": "d146d32586c7ea241cc9eded5973db3a9018a15b37494bd3d47569f6421cc537",
+   "ko": "』으로 화한 이 나다」"
+  },
+  {
+   "id": "da1310:T00009",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da1310:R00004",
+   "source_sha256": "2439817fdc41bebdd900d91ce67851acf11816d61e08831bb38a1b7737fff11f",
+   "ko": "클록워크 팬텀",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1310:T00010",
+   "source_sha256": "85c921a16aabaf020cbdd92e81a9bc2d2882c0ca97b04561eb318b4c2d548863",
+   "ko": "기계장치의 악몽"
+  },
+  {
+   "id": "da1310:T00011",
+   "source_sha256": "527f73ca912b77c8dd4d91262d2819ddc10a5a47f0b31e5ffcb5165537fa98e5",
+   "ko": "――"
+  },
+  {
+   "id": "da1310:R00005",
+   "source_sha256": "c1ffb0342c7dce440ea380f7752d78bdba74e8fae1c8a82a9cf220ea8d380fe2",
+   "ko": "데우스 엑스 마키나",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1310:T00012",
+   "source_sha256": "75a09deacac5d7c8573781fadffc8d2fa7beb0f7284561c879b942c0bc9bf4fc",
+   "ko": "명탐정"
+  },
+  {
+   "id": "da1310:T00013",
+   "source_sha256": "03526ad0616a5e9004abb0d4ae00963ba056e4f7de6888de2487dbab9a89da05",
+   "ko": "이자, "
+  },
+  {
+   "id": "da1310:R00006",
+   "source_sha256": "c1ffb0342c7dce440ea380f7752d78bdba74e8fae1c8a82a9cf220ea8d380fe2",
+   "ko": "데우스 엑스 마키나를",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1310:T00014",
+   "source_sha256": "7314be03163cec927c47034c129e7b3a8167fa1a659e895bcd55a329917030c1",
+   "ko": "인조의 신을"
+  },
+  {
+   "id": "da1310:T00015",
+   "source_sha256": "5c4538cd76f1867bb55f1c561bf046d22c43d11d1b304fa73a37a90169fa05c8",
+   "ko": " 모는, "
+  },
+  {
+   "id": "da1310:R00007",
+   "source_sha256": "c1ffb0342c7dce440ea380f7752d78bdba74e8fae1c8a82a9cf220ea8d380fe2",
+   "ko": "데우스 엑스 마키나",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1310:T00016",
+   "source_sha256": "23cb2921e94223912bc435c0cfc34cea297c84e1e774c4df420bd908fa3ce6d1",
+   "ko": "작위적 우연의 총아"
+  },
+  {
+   "id": "da1310:T00017",
+   "source_sha256": "83a1fca437941a996deee490d3d2115928150e4f8453b17f72a4d38988867b2e",
+   "ko": "인 그대에게 맞선다」"
+  },
+  {
+   "id": "da1310:T00018",
+   "source_sha256": "d01bdf0dee1cc1e64286a611576405c1e1e06dedd53fac12626a7ba28d4a5f8c",
+   "ko": "「그것을 위해, 오직 그것만을 위해,\n　나는 이 모습으로 현현했다.\n　다이쥬지 쿠로――사랑스러운 그대여!」"
+  },
+  {
+   "id": "da1310:T00019",
+   "source_sha256": "fa167f71a3297763ab18717a552f719afb8d332c2cb04e6787a64c1d57966dd2",
+   "ko": "「자, "
+  },
+  {
+   "id": "da1310:R00008",
+   "source_sha256": "3e7ca97dd222dfece75cc1b0e619438b0296dd7b6db45fe8ff3627464f181e69",
+   "ko": "세계",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1310:T00020",
+   "source_sha256": "846c39b0bcb51f41f7a9b92e4d3452d15b86f3e1cd153f8d3d2ba8ef55219731",
+   "ko": "이야기"
+  },
+  {
+   "id": "da1310:T00021",
+   "source_sha256": "6959ee0a8a77570176247604ded90dfc0e8b29d63606cc77c45920e9eff5c1c6",
+   "ko": "는 악몽으로 "
+  },
+  {
+   "id": "da1310:R00009",
+   "source_sha256": "46674c35ffeacde9f478b74f2908541c615ea553de64d2bfae6acaf651a6263b",
+   "ko": "뒤틀린",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1310:T00022",
+   "source_sha256": "a7fa8d01b60fd31b7f8e9895053c5dcdb090884c2e47eb41e007f68c8db17687",
+   "ko": "나선화한"
+  },
+  {
+   "id": "da1310:T00023",
+   "source_sha256": "667387cd1d76d63ce09c0cbcc98622d12b4707840579d86cb978f48382536e87",
+   "ko": "다.\n있어야 할 미래는 상실되고,"
+  },
+  {
+   "id": "da1310:R00010",
+   "source_sha256": "3e7ca97dd222dfece75cc1b0e619438b0296dd7b6db45fe8ff3627464f181e69",
+   "ko": "세계",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1310:T00024",
+   "source_sha256": "846c39b0bcb51f41f7a9b92e4d3452d15b86f3e1cd153f8d3d2ba8ef55219731",
+   "ko": "이야기"
+  },
+  {
+   "id": "da1310:T00025",
+   "source_sha256": "c3c0197f7a8ca9928a194b9c2a2d217456eb80f428bbff084a405e020aa8aac2",
+   "ko": "의 하나가 지금, 내 손에 떨어진다.\n모든 것을 내 사랑으로 감싸 안아 주마!」"
+  },
+  {
+   "id": "da1310:T00026",
+   "source_sha256": "4b7ec6ec5d562354d3f7271b625e254ed909f95a6094bfd188d38fb5199532af",
+   "ko": "「나이알라토텝!」"
+  },
+  {
+   "id": "da1310:T00027",
+   "source_sha256": "df737c293d6a26978563a586ada75e29e39b2a16af9c1fb028fb61372a47eff7",
+   "ko": "뇌를, 전신을 불태우는 격통."
+  },
+  {
+   "id": "da1310:T00028",
+   "source_sha256": "55977153753243c688bc9b4069471fa736b0aa8c3f65e5dd251566628f54f0a6",
+   "ko": "저주 되받아치기의 마력이, 내 안에서 미쳐 날뛴다."
+  },
+  {
+   "id": "da1310:T00029",
+   "source_sha256": "c92a5b1781e4922c260a857f3a888f0506efc9b3f099f319fdad664ecf757fb6",
+   "ko": "혈관이 찢어지고, 피가 솟구친다."
+  },
+  {
+   "id": "da1310:T00030",
+   "source_sha256": "48ae7e2d5ee30f78b99a97f414e83232b678fe7332fbf1b545b70dd649356661",
+   "ko": "뿜어져 나오는 피는 안개가 되어, 이중 나선을 그리며 피어올라, 술식을 자아낸다."
+  },
+  {
+   "id": "da1310:T00031",
+   "source_sha256": "1318d830d4c849077f3c7f82944716119acaa02c7a79cc2918ed7c078e8ce417",
+   "ko": "피는 쇠녹 냄새가 났다."
+  },
+  {
+   "id": "da1310:T00032",
+   "source_sha256": "e3b53b37daec9438e5ae13e3e717bfa8db07fde3b66509bf5cc73df99d45d461",
+   "ko": "녹슨 술식이, 소녀의 "
+  },
+  {
+   "id": "da1310:R00011",
+   "source_sha256": "6e28cc407a3f70af7741cc6893cdf0b07f32a347c39eb7207646efd80feb4607",
+   "ko": "모습",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1310:T00033",
+   "source_sha256": "101e8536327c0f2b2dcb11a5356a110fd822d2acb494e0bc36b1ae05b4f3aec3",
+   "ko": "형상"
+  },
+  {
+   "id": "da1310:T00034",
+   "source_sha256": "d7538f046a9f2990616c44b22ad2a91a37c7d86fbba1914bbe374cfd6c61d1d4",
+   "ko": "을 엮어낸다."
+  },
+  {
+   "id": "da1310:T00035",
+   "source_sha256": "5c1cecf2ffe6f361e0d2faa3bb470ec4facea7bd959b1b243cd098881267cc61",
+   "ko": "가냘픈 몸이, "
+  },
+  {
+   "id": "da1310:R00012",
+   "source_sha256": "9d6780bf70fc8164478a1edfeb53f17755581b7e90bd1f536421fec5868d6a1c",
+   "ko": "정크",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1310:T00036",
+   "source_sha256": "c3739ce5ac25770cd0e35f7ab65cb730b116a0cac748b3d29565da60f64a4890",
+   "ko": "망가진 장난감"
+  },
+  {
+   "id": "da1310:T00037",
+   "source_sha256": "17688f7580573f33f6613afbdcb6d147d980b575e12111923dd86d5d9c18f653",
+   "ko": "처럼 내던져진다."
+  },
+  {
+   "id": "da1310:T00038",
+   "source_sha256": "eb1d04bf87aa7322e164c251f9403bf29ad8c87f382f5d5c16c4b5b0e5d3ffc4",
+   "ko": "「……어나더 블러드」"
+  },
+  {
+   "id": "da1310:T00039",
+   "source_sha256": "8e280d92fceae6bcfee8fb380f747c56aa75f3eeecdddc27101df30aea290a15",
+   "ko": "「원래 그것은 그대의 일부다. 오랫동안 빌려 썼지만, 돌려주도록 하지」"
+  },
+  {
+   "id": "da1310:T00040",
+   "source_sha256": "ab6f0ced30d7b416de7188938438179b55f2c036de472a5a5e00ac1c26d42baa",
+   "ko": "가냘프고, 취약한 호흡이, 어나더 블러드의 목구멍에서 새어 나온다."
+  },
+  {
+   "id": "da1310:T00041",
+   "source_sha256": "cddffd0616810688d28bc64ad8475bbe6bdda4be5e7a19518359ffd630aa3aa5",
+   "ko": "아무것도 비추지 않는 "
+  },
+  {
+   "id": "da1310:R00013",
+   "source_sha256": "8d621c5b39c3b3fc1c4421e71d03d95bf11db997394b0b9280a4826168a392f6",
+   "ko": "텅 빈",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1310:T00042",
+   "source_sha256": "a9cd525db318f43791bcf8b25adf15fd77187c35be738deeba23766709f41b7c",
+   "ko": "공허"
+  },
+  {
+   "id": "da1310:T00043",
+   "source_sha256": "a83f546f9552c2f5f5ee1182bff7d830010b1bc2b94bd6c664f85f36b9e14d8e",
+   "ko": "한 눈동자에서, 피눈물을 "
+  },
+  {
+   "id": "da1310:R00014",
+   "source_sha256": "a72b2cc8dc17e68fcdc5bfac7f7b827326c047c6b042d9147dafcd8acf45f2da",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1310:T00044",
+   "source_sha256": "0af34f413d4dd55ee4db904da640b98ebf03cf7dbf1046f90b2a4798a7279e98",
+   "ko": "주르륵"
+  },
+  {
+   "id": "da1310:T00045",
+   "source_sha256": "ab2d3b9754059de8e7c49b36e4f299f70856a4137ea386f2a60ec4ea0f7d748d",
+   "ko": " 흘리며, 아무것도 없는 "
+  },
+  {
+   "id": "da1310:R00015",
+   "source_sha256": "8d621c5b39c3b3fc1c4421e71d03d95bf11db997394b0b9280a4826168a392f6",
+   "ko": "공허를",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1310:T00046",
+   "source_sha256": "3a03ee9252eaf1f8bf35cf1368826cd745138706586ec2c5b389bb2af3abfe51",
+   "ko": "허공을"
+  },
+  {
+   "id": "da1310:T00047",
+   "source_sha256": "2d3dd6d2c8419d56570906be0e06980efa57729599d578dcfb4dde1c56b0c039",
+   "ko": " 향해 손을 뻗는다."
+  },
+  {
+   "id": "da1310:T00048",
+   "source_sha256": "5ea43360ed24b7e82d06f42aa0da60d7359474c9db21c9050cd8a9d68010d6c7",
+   "ko": "나는 어나더 블러드의 곁으로 다가갔다."
+  },
+  {
+   "id": "da1310:T00049",
+   "source_sha256": "721dcf9cd790a00f0bbe20864315bc8704dcf8c6b2b3c4d34535bd5d979ff603",
+   "ko": "소름이 끼칠 정도로 가벼운 몸을, 가슴에 안는다.\n\n　아무것도 비추지 않는 "
+  },
+  {
+   "id": "da1310:R00016",
+   "source_sha256": "8d621c5b39c3b3fc1c4421e71d03d95bf11db997394b0b9280a4826168a392f6",
+   "ko": "텅 빈",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1310:T00050",
+   "source_sha256": "a9cd525db318f43791bcf8b25adf15fd77187c35be738deeba23766709f41b7c",
+   "ko": "공허"
+  },
+  {
+   "id": "da1310:T00051",
+   "source_sha256": "19b5491ac7d5172d593d036196fb9727da81bbb2396f55cc9eae9d5b3daccea6",
+   "ko": "한 눈동자가, 들여다보는 내 모습을 비춘다."
+  },
+  {
+   "id": "da1310:T00052",
+   "source_sha256": "5eca3a66d0ade5a9334ed188c2207480ed1e085b28416a738e0f3ff042960491",
+   "ko": "빛이 돌아온다."
+  },
+  {
+   "id": "da1310:T00053",
+   "source_sha256": "2d022f596efe79e95751bd46a88df5fcec53fa20ab7f778d3c40f778d11e20ef",
+   "ko": "홍련으로 타오르는 증오의 불꽃."
+  },
+  {
+   "id": "da1310:T00054",
+   "source_sha256": "53a8d38038c71df3ffb6c6acb75431eb4c81fb78bc6db224ce45557f3add2f13",
+   "ko": "어나더 블러드가 뻗은 손이, 내 가슴에 닿는다."
+  },
+  {
+   "id": "da1310:T00055",
+   "source_sha256": "2e4f83b3c7ab3a1437f426e43ddefbecbe00f6a4848f5c20e89b3e838ebd53bc",
+   "ko": "내 가슴속으로 가라앉아 들어온다."
+  },
+  {
+   "id": "da1310:T00056",
+   "source_sha256": "3453e9056925a6952422b197b1563ee18c83a6b225612ecc75ced74fcf0a0ee6",
+   "ko": "깊이."
+  },
+  {
+   "id": "da1310:T00057",
+   "source_sha256": "3453e9056925a6952422b197b1563ee18c83a6b225612ecc75ced74fcf0a0ee6",
+   "ko": " 깊이."
+  },
+  {
+   "id": "da1310:T00058",
+   "source_sha256": "c12eadfc7b04ca7ac1b6b1228f697835cc96d365506cc9bea9e6bc6ac339282c",
+   "ko": "손바닥이, "
+  },
+  {
+   "id": "da1310:R00017",
+   "source_sha256": "55d01f56441afd08c9760898746a852ab97611c75cbff4597f1ef853bf921c9f",
+   "ko": "하트",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1310:T00059",
+   "source_sha256": "e7e8bc2ee954c9b4304ad0993c612a5fb7b4794dd48511223bf90915288d0036",
+   "ko": "심장"
+  },
+  {
+   "id": "da1310:T00060",
+   "source_sha256": "33b8a756919a1b5886f1ccb5870c3902f95e64921a2619fb3b4f18771f9c4d7a",
+   "ko": "에 닿는다."
+  },
+  {
+   "id": "da1310:R00018",
+   "source_sha256": "399541026b89787f76b6312375d21b42244869347cf836059cf9eba724bb4824",
+   "ko": "・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1310:T00061",
+   "source_sha256": "eb94f4bf1b3fc2b21d913963f06cc1d82743a0da254ebe3072687d69c8b96af5",
+   "ko": "가슴을 "
+  },
+  {
+   "id": "da1310:R00019",
+   "source_sha256": "b23809bf96a578e2f1bd090c387ee6bf76b00f431c6ea18868a02155a811f1f4",
+   "ko": "・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1310:T00062",
+   "source_sha256": "22d2fd70553c01e61f2a82bb4ff287c9a777e3b0f7414da3bd6ad940ea9d1b6f",
+   "ko": "쥐어짜는 "
+  },
+  {
+   "id": "da1310:R00020",
+   "source_sha256": "fe65050b6cf95368d85f30fd366c092a15824886d51defd754887d1e968f7491",
+   "ko": "・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1310:T00063",
+   "source_sha256": "38b660c82392195e918e06c201f9a264b94a6a9dce84734afbeacc44631e1a49",
+   "ko": "듯한"
+  },
+  {
+   "id": "da1310:T00064",
+   "source_sha256": "37f0cef4d9143370c6311fbfa737eaafbd8a7a502a22bcbe8933efb6a6099a17",
+   "ko": " 아픔이, 나를 괴롭힌다.\n\n　하지만 "
+  },
+  {
+   "id": "da1310:R00021",
+   "source_sha256": "8d621c5b39c3b3fc1c4421e71d03d95bf11db997394b0b9280a4826168a392f6",
+   "ko": "텅 빈",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1310:T00065",
+   "source_sha256": "a9cd525db318f43791bcf8b25adf15fd77187c35be738deeba23766709f41b7c",
+   "ko": "공허"
+  },
+  {
+   "id": "da1310:T00066",
+   "source_sha256": "d1c3b68579be7e9026e63cf12ca37ad55ff66cefaa88fbbc2f71c116d570ac23",
+   "ko": "한 소녀의 힘은 너무나도 미약해서, 벌거벗은 심장조차 움켜쥐어 으깨지 못할 것 같았다."
+  },
+  {
+   "id": "da1310:T00067",
+   "source_sha256": "f235734a6ce71bfcae941dffe70b441348e2e6a19783eccdfae1423553f5a621",
+   "ko": "「……아…… 아아…… 너……\n　따위…… 너, 따위이이…… 윽!」"
+  },
+  {
+   "id": "da1310:T00068",
+   "source_sha256": "8f23165db154ca1bff3e1da30fcdbb32f81cf3374cf436642f4f0d34b2991726",
+   "ko": "꺼져가는 숨결 속에서, 있는 힘껏 "
+  },
+  {
+   "id": "da1310:R00022",
+   "source_sha256": "4f8d8809af0ded020c6dffda307ccf388b3f52ca9511d3d5e5ba55e08ce9014c",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1310:T00069",
+   "source_sha256": "a9bbb73ea71719a9a56f66ac4f48789b51943e68fa63ae4d4214bc8879ef6c76",
+   "ko": "저주"
+  },
+  {
+   "id": "da1310:T00070",
+   "source_sha256": "c815a2abc42bc0d6b0eee6d8db748d6cabd16879725ed67306b6ac5345f79f2d",
+   "ko": "를 쥐어짠다."
+  },
+  {
+   "id": "da1310:T00071",
+   "source_sha256": "078ce6d55776722cd5c2ce8e7e9d2c98314bbb0c5f9759b0b2117c30c4ee05dc",
+   "ko": "볼썽사납게 흐느껴 울면서, 유치한 증오를 퍼부어 온다."
+  },
+  {
+   "id": "da1310:T00072",
+   "source_sha256": "138c37269d52274e05523ac36b6ce61c281b81be3485743341385968070170a7",
+   "ko": "손바닥은, 더욱 깊이."
+  },
+  {
+   "id": "da1310:T00073",
+   "source_sha256": "3453e9056925a6952422b197b1563ee18c83a6b225612ecc75ced74fcf0a0ee6",
+   "ko": " 깊이."
+  },
+  {
+   "id": "da1310:T00074",
+   "source_sha256": "f875560c65796822c40c6804650a689f2bfc41b6cd62d0164235a7bcf65299e9",
+   "ko": "서로 녹아들고/녹아 섞인다."
+  },
+  {
+   "id": "da1310:T00075",
+   "source_sha256": "f535f44151ca365c5716210ebd6d1f4b2f6ffc7d04d9da974285fad7b2cf30a0",
+   "ko": "무력한 "
+  },
+  {
+   "id": "da1310:R00023",
+   "source_sha256": "4f8d8809af0ded020c6dffda307ccf388b3f52ca9511d3d5e5ba55e08ce9014c",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1310:T00076",
+   "source_sha256": "a9bbb73ea71719a9a56f66ac4f48789b51943e68fa63ae4d4214bc8879ef6c76",
+   "ko": "저주"
+  },
+  {
+   "id": "da1310:T00077",
+   "source_sha256": "0cb0ec49146019aabc22e3ecd959dde62d300734de3cb4cebc7faa4145ecd2ae",
+   "ko": "가, 내 "
+  },
+  {
+   "id": "da1310:R00024",
+   "source_sha256": "55d01f56441afd08c9760898746a852ab97611c75cbff4597f1ef853bf921c9f",
+   "ko": "하트",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1310:T00078",
+   "source_sha256": "260cca3889c2a05c9c705f61df0f96b20c3a2ff9ce50c268e52da33ed4b785d0",
+   "ko": "중심"
+  },
+  {
+   "id": "da1310:T00079",
+   "source_sha256": "33b8a756919a1b5886f1ccb5870c3902f95e64921a2619fb3b4f18771f9c4d7a",
+   "ko": "에 닿는다."
+  },
+  {
+   "id": "da1310:T00080",
+   "source_sha256": "f5a60bcefd8cad96a99f2eebfa5117f97ab9a75e55610fda7e60f4878e335c3b",
+   "ko": "전율할 정도의 일체감."
+  },
+  {
+   "id": "da1310:T00081",
+   "source_sha256": "f39c23d4d49024915672b7bb6aec45b65ec30ffd042e6110d7bcb78b024c8d0b",
+   "ko": "그리고, 나는 안다."
+  },
+  {
+   "id": "da1310:T00082",
+   "source_sha256": "54bad86e2584c3a5b8648a155295bb44cd31e30c141443eae5d6acc3dbf5ac18",
+   "ko": "어나더 블러드의 모든 것을."
+  },
+  {
+   "id": "da1310:T00083",
+   "source_sha256": "873cc5dfd4e3f06fbab506edcfb24ba9eae6b710f7d32fd69fd3ae63ed06c59b",
+   "ko": "단 하나도 남김없이."
+  },
+  {
+   "id": "da1310:T00084",
+   "source_sha256": "4f7b3ebfd710f92384fc3d1228727dd626e176d66aadd781153005373fede6ec",
+   "ko": "네크로노미콘 혈액언어역\n　\n　　　　　　　　　　　　　　　마도서 잔혹지옥회권\n　\n　\n　\n　\n　　　　　　　　　　원작 "
+  },
+  {
+   "id": "da1310:T00085",
+   "source_sha256": "206d0cd04092683c9fe68549dc97c52351e04df5a46c16a37673496e0df5454a",
+   "ko": "압둘 알하자드(吾舞弗惡流覇坐唖怒)\n\n　\n　\n　\n　\n　\n　\n　\n　\n　　　　　　　　　　　　　　권두가"
+  },
+  {
+   "id": "da1310:T00086",
+   "source_sha256": "3506d2fec42b3683eabaa29fa43da5d8a87e09b4efcfb7c5b82b2f9e8f71fc8d",
+   "ko": "이 아이는 죽어 있지만 죽어 있지 않답니다."
+  },
+  {
+   "id": "da1310:T00087",
+   "source_sha256": "e7274ac83ae401d3af5985d4a061ab64c5c7199b9f606647d31c23142e3c51f0",
+   "ko": "정신이 아득해질 정도의 "
+  },
+  {
+   "id": "da1310:R00025",
+   "source_sha256": "b4d96fc005908057bc49c0bc1f28cff86520e03547c7d9d2938f028d5012bb7c",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1310:T00088",
+   "source_sha256": "7a661802fe6165405b61bc5c71836344c2c04ad379320b5e9fe2be8fbb8cb3d4",
+   "ko": "시간"
+  },
+  {
+   "id": "da1310:T00089",
+   "source_sha256": "3b2e79bc719379948597cf4be8f8c76f1b3296e6089b0a355b1d9b49e5503647",
+   "ko": "의 "
+  },
+  {
+   "id": "da1310:R00026",
+   "source_sha256": "eee8c515d80eb68ae982cdde5ead80e318097cc4930b023ae14a65e7964aa29c",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1310:T00090",
+   "source_sha256": "31b2e9509e4add1d0be9fccb83002f2ab7b8af89f7795ce251e79d517f825811",
+   "ko": "끝자락"
+  },
+  {
+   "id": "da1310:T00091",
+   "source_sha256": "39e28859c3785fc4a32f1d0c2363bc8c90ea90ab1338161be9fbb94494c290b1",
+   "ko": "에서는"
+  },
+  {
+   "id": "da1310:T00092",
+   "source_sha256": "ff2b8135ba1381b2a3713539686d16232bcbf4f383e9c24649247ac7980357ea",
+   "ko": "죽는 것마저도 죽어 끊어지고 마는 것입니다."
+  },
+  {
+   "id": "da1310:T00093",
+   "source_sha256": "ebfbf99fcdc517a29582361532eb4b1d8001d950d9c2b92823f2c9fe5bb1b91f",
+   "ko": "「소녀는 "
+  },
+  {
+   "id": "da1310:R00027",
+   "source_sha256": "43875788c668dd0af31729d8fdb7f13c77e95d418de16d255783e14be5b7cc1c",
+   "ko": "히루코",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1310:T00094",
+   "source_sha256": "f83b075539520df761c23c0ddae421319ee8c5c14035f890dc3b286ccfd95100",
+   "ko": "거머리 아이"
+  },
+  {
+   "id": "da1310:T00095",
+   "source_sha256": "576d008f4b792fe1c144e6d17e322ac1ae8da296210d9fb36198643a583e4d6c",
+   "ko": "이옵니다.\n　　　소녀는 "
+  },
+  {
+   "id": "da1310:R00028",
+   "source_sha256": "e1e4fdf46c99c92eeb0d356d98b3041bf3bdcfa843aadb25103a4aeadfbb7e3f",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1310:T00096",
+   "source_sha256": "8b79773f64a278886353ec009bb3aa9e67501e95026d9fbae782922fbbe863c8",
+   "ko": "낙태"
+  },
+  {
+   "id": "da1310:T00097",
+   "source_sha256": "05945faaddd3ad20d4e930afec73be205c75a1d420db2c9ec5066bfc0489c74c",
+   "ko": "되자마자 "
+  },
+  {
+   "id": "da1310:R00029",
+   "source_sha256": "1c3457638d30048ea01e34be56784d1201f858035b3a2eb977b3daae4225d57e",
+   "ko": "케이지",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1310:T00098",
+   "source_sha256": "edfbb07eed38400cd3cde78b6b82be57c4dab0bd6658bb4874397c10f5a5ef71",
+   "ko": "요람"
+  },
+  {
+   "id": "da1310:T00099",
+   "source_sha256": "c178c8cdf47a12dbe006734e09c1a72eb5399a67959735a9ddc01f866def4502",
+   "ko": "이자 "
+  },
+  {
+   "id": "da1310:R00030",
+   "source_sha256": "1c3457638d30048ea01e34be56784d1201f858035b3a2eb977b3daae4225d57e",
+   "ko": "케이지",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1310:T00100",
+   "source_sha256": "c1e37aa83f707174384aedac219ef924b9dcce458317ab3352ee3e62b9a9ea13",
+   "ko": "관"
+  },
+  {
+   "id": "da1310:T00101",
+   "source_sha256": "26a5806dbe57fff897c17718f963165226a6051f37a0eeedac0737e30d45e152",
+   "ko": "인\n　　　이 "
+  },
+  {
+   "id": "da1310:R00031",
+   "source_sha256": "1c3457638d30048ea01e34be56784d1201f858035b3a2eb977b3daae4225d57e",
+   "ko": "케이지",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1310:T00102",
+   "source_sha256": "fda35e68be635d1488af2d08e23380a462d67ce9ab44a86105fbfe9633b1657c",
+   "ko": "모형정원"
+  },
+  {
+   "id": "da1310:T00103",
+   "source_sha256": "bd473ff0d0f74ab81d3ab101c523151734aa0503e49e556b866b9d3b50468732",
+   "ko": "에 안치되었사옵니다."
+  },
+  {
+   "id": "da1310:R00032",
+   "source_sha256": "64c08e9e8ed21110c39ee0740875a48e27373d43ef74b2f6ba7ae09bb7e1ec96",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1310:T00104",
+   "source_sha256": "700893ce2eba5fda58ad3ef65f7b195475912d9a6921d926a491d7c90a9622fb",
+   "ko": "아아"
+  },
+  {
+   "id": "da1310:T00105",
+   "source_sha256": "70a9de771f41bde897c3b7d4c1b8c63021a94d21c452c76cb48506615f40adf2",
+   "ko": ", 이 세상은 "
+  },
+  {
+   "id": "da1310:R00033",
+   "source_sha256": "1c3457638d30048ea01e34be56784d1201f858035b3a2eb977b3daae4225d57e",
+   "ko": "케이지",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1310:T00106",
+   "source_sha256": "8ee71fb88c19c8653737d747daa3aaf4fe99118ad2aa26f7a3b70603301491a8",
+   "ko": "지옥"
+  },
+  {
+   "id": "da1310:T00107",
+   "source_sha256": "769d9372795d6bab839872b3ff33159987a33d8a350dbd79179316c6d50cec31",
+   "ko": "이옵니다」"
+  },
+  {
+   "id": "da1310:T00108",
+   "source_sha256": "804e7bdce7bd7344f0f60a33c93c7a0561022241e3a355d8627b9fcdb86e1bbb",
+   "ko": "――주어진 세계는, "
+  },
+  {
+   "id": "da1310:R00034",
+   "source_sha256": "999ddfa4f4fa7e0c8e6ea05a6567841890f053d61237d248c51ce83feab4475f",
+   "ko": "Ｃａｇｅ",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1310:T00109",
+   "source_sha256": "66d804b0e4c062f434582ff17bdfba1c813b279ea479596167185c7462c8fccb",
+   "ko": "감옥"
+  },
+  {
+   "id": "da1310:T00110",
+   "source_sha256": "ea5e247a3bb78e0a5b6dbc4a347b12ca06cf4957059a5656470a3bd02d781e71",
+   "ko": "이었다."
+  },
+  {
+   "id": "da1310:T00111",
+   "source_sha256": "8f04a01a45a2f272dd04faa5de769093508230319082505a79b475d54985ab3a",
+   "ko": "소녀 한 사람을 날조하기 위해서만 날조된 세계의,\n　날조된 과거."
+  },
+  {
+   "id": "da1310:T00112",
+   "source_sha256": "0039ceefd629858eb8f541b6fb80f601b4c668c8f3b73c433c55df9ea33adfd2",
+   "ko": "게임 키퍼가 그녀에게 준비한, 덧없는 "
+  },
+  {
+   "id": "da1310:R00035",
+   "source_sha256": "ab4db23f406ade84eb6af84a881e1746f1970134e1a8de6c12efe2a558413781",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1310:T00113",
+   "source_sha256": "b142a734b25dd980851d62b1827d987c0f22aba05c2626cb90e2dc067b4ce7e2",
+   "ko": "안식처"
+  },
+  {
+   "id": "da1310:T00114",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  },
+  {
+   "id": "da1310:T00115",
+   "source_sha256": "2661c2027414749273c4c89c6489c676dedaa4a39aa860e295e22eb8ea1ab214",
+   "ko": "「커헉! 그으으――윽! 끼이이이…… 아아아아아아아아아아……! 히이아아아아아아아!」"
+  },
+  {
+   "id": "da1310:T00116",
+   "source_sha256": "3814619200164ff0ff46abb9b2c8a64986ad702e12308c374c7c19ebc3546766",
+   "ko": "「아파 아파 그만해 움직이지 마 괴로워」"
+  },
+  {
+   "id": "da1310:T00117",
+   "source_sha256": "1d50229804ee3149e6077684617401294d3874a50baa3f39e919d62dc29a5004",
+   "ko": "「아그…… 그으아…… 아아아…… 아아아아…… 꺄아아아아아아아아아――――――――앗!」"
+  },
+  {
+   "id": "da1310:T00118",
+   "source_sha256": "9c2ec3a98b79a406fd615fea65cd14290c5527f197b9a13f66d60974b43e598c",
+   "ko": "「아파…… 아파…… 그만해…… 그만해…… 심한 짓 하지 마…… 아아아――앗……」"
+  },
+  {
+   "id": "da1310:T00119",
+   "source_sha256": "b28b4c4d7f59b8269ecb5eafd827bdd9dd05f99c0680fd3231a710031efb9fbf",
+   "ko": "「가아아아…… 아가아…… 히이이…… 히이야아아……\n히기이이이아아아…… 아아아아…… 꺄아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아」"
+  },
+  {
+   "id": "da1310:T00120",
+   "source_sha256": "724e75ed09dce9a7b5696fb9be683f567e9121099e30cac1062c904ece5d732e",
+   "ko": "「죄송해요 죄송해요 죄송해요 죄송해요 죄송해요 죄송해요 용서해 주세요 용서해 용서해에――엣 히이이이이익」"
+  },
+  {
+   "id": "da1310:T00121",
+   "source_sha256": "28826ef971b8ae8b1b980bf859647d9129dcde28bd875896e7bd1566c1681cca",
+   "ko": "「휴――윽…… 휴르르르으…… 제에――――엣…… 우그아아…… 아아아아……」"
+  },
+  {
+   "id": "da1310:T00122",
+   "source_sha256": "2813201913b45b471d39b16c51bc3197e5257fa4f3741c4e0fb0750cf438274d",
+   "ko": "「……………………………………살려줘――어……」"
+  },
+  {
+   "id": "da1310:T00123",
+   "source_sha256": "ccdb1ef848a87668a4329cefac2aa46d4ed6090242a50c482d16958c20f7c79a",
+   "ko": "그곳은 억지로 갖다 붙인 듯한, 진부한 지옥이다."
+  },
+  {
+   "id": "da1310:T00124",
+   "source_sha256": "739a411ae59cc635005cf1a57823ab01fe168eac9ba87b64e297541a2abd9e72",
+   "ko": "진부하기에 한 치의 망설임도 없는, 그저 악의와 악랄과 악덕을 천진하게 쑤셔 넣은, 순진무구한 지옥이다.\n\n　그 우주는 오직 소녀 한 사람을 학대하고, 고문하고, 능욕하고, 농락\n하기 위해서만 존재하고 있었다.\n\n　인간이 상상할 수 있는 한의 온갖 악이 존재했고, 그리고 "
+  },
+  {
+   "id": "da1310:R00036",
+   "source_sha256": "399541026b89787f76b6312375d21b42244869347cf836059cf9eba724bb4824",
+   "ko": "・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1310:T00125",
+   "source_sha256": "b3de9c302b3aa57928cc35517c092e2cfa90df7d858374f5299779f2fafad6d1",
+   "ko": "그것"
+  },
+  {
+   "id": "da1310:R00037",
+   "source_sha256": "b750c2ece644240b0f8e138a0602b89062dcd4cb934044a963e76bf34670b76d",
+   "ko": "・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1310:T00126",
+   "source_sha256": "09360953b0264768e6aecc4aa79c095d02c393ebb40cdb1f006c79c7985f5602",
+   "ko": "을 넘는 "
+  },
+  {
+   "id": "da1310:R00038",
+   "source_sha256": "fe65050b6cf95368d85f30fd366c092a15824886d51defd754887d1e968f7491",
+   "ko": "・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1310:T00127",
+   "source_sha256": "c5edc8e5b46c9b185dc2d124517e9d34c5fea5cc4b7db98c53c6cbeb7017e172",
+   "ko": "것은 "
+  },
+  {
+   "id": "da1310:R00039",
+   "source_sha256": "b750c2ece644240b0f8e138a0602b89062dcd4cb934044a963e76bf34670b76d",
+   "ko": "・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1310:T00128",
+   "source_sha256": "736277d26837d41158b959456acdaaac571ba0fe725ac6b42f2a7d7c4f298afe",
+   "ko": "단 하나도 "
+  },
+  {
+   "id": "da1310:R00040",
+   "source_sha256": "b750c2ece644240b0f8e138a0602b89062dcd4cb934044a963e76bf34670b76d",
+   "ko": "・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1310:T00129",
+   "source_sha256": "43549545f81827669e00c3588220b9c10cd561471041b8ff9c5eb2d2cff75984",
+   "ko": "없었다"
+  },
+  {
+   "id": "da1310:T00130",
+   "source_sha256": "197f3e396838e5d1e2dc5d63bad30e705e75ab09d5cb14c27b9d3b225e669587",
+   "ko": ".\n\n　그 유치함이야말로 또한 극상의 악의였다."
+  },
+  {
+   "id": "da1310:T00131",
+   "source_sha256": "9f1d794bdd2a91b8e694749c3be8f0915a9380d9a2ea3aa1eaaeeb147e50ef66",
+   "ko": "나비의 날개를 뜯어내고, 개미집에 끓는 물을 들이붓는, 그런 어린애 같은 잔학성만이 우주 유일의 의지였다.\n\n　품성 저열한 신이 갈겨 그린, 지성의 조각조차 느껴지지 않는 지옥."
+  },
+  {
+   "id": "da1310:T00132",
+   "source_sha256": "67ef3866ebcae2e648b60b92a2e3c4a9e8f97ad57d432b4d874adf155503367f",
+   "ko": "그 유일한 주민이, 소녀다."
+  },
+  {
+   "id": "da1310:T00133",
+   "source_sha256": "8b37d740b09dc63dc903aefeb36de561b7040a6d5c9643f9d0f299ddde886674",
+   "ko": "「허나, 그러나.\n　　지옥, 악몽은 희극명사.\n　　우주는 "
+  },
+  {
+   "id": "da1310:R00041",
+   "source_sha256": "20ca418c83492244954fcaa72c7e5427c8d711a0f022a1a9edb9c610961c913b",
+   "ko": "무대 배경",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1310:T00134",
+   "source_sha256": "223821e46794885fc6fbdb30ffe510b3a7010c4acbd9647d5107382437acf384",
+   "ko": "배경막"
+  },
+  {
+   "id": "da1310:T00135",
+   "source_sha256": "6f65f8531e2baf15b3554a6c1ab4e777f1b031502b192ce2ca9baa65f1f773ff",
+   "ko": ". 등장인물은 모두, "
+  },
+  {
+   "id": "da1310:R00042",
+   "source_sha256": "4c9bacb54296d0d035f4d006bf0ac0ed27cc2a69b4bf04a1d7604bcd603b34bb",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1310:T00136",
+   "source_sha256": "7fde2ae286c236a8ef5cb2dd8b180b83eb12d95762d70e98ee5c8a9870efdee9",
+   "ko": "단역"
+  },
+  {
+   "id": "da1310:T00137",
+   "source_sha256": "3cbf62dad507602389ee6009a87b665862b9de6f11a144f6ac588fc84545f96b",
+   "ko": ".\n　　모든 것은 단순한 무대의 "
+  },
+  {
+   "id": "da1310:R00043",
+   "source_sha256": "cc2c2e230a34491a2a7f73f4c9590b473983cb81689eef37bcee8d4e97a6ba9c",
+   "ko": "프로그램",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1310:T00138",
+   "source_sha256": "0bc8fc43caa914853bc83a95af64bc9d14307fdd84f82b327d9337f38fba633f",
+   "ko": "상연작"
+  },
+  {
+   "id": "da1310:T00139",
+   "source_sha256": "393163a4702c1eb2205789c745fa2ff7d3b78af9f6797f94b7a7b3e8f051e6d9",
+   "ko": "에 지나지 않는다」"
+  },
+  {
+   "id": "da1310:T00140",
+   "source_sha256": "b91b50623d821caf8b5cb623882a17198c300af94e5ceea647f8a945ff5720d7",
+   "ko": "그렇다."
+  },
+  {
+   "id": "da1310:T00141",
+   "source_sha256": "4c0756500e6c47402e2edc2d060b7b87e1c3fac56c5220b7f21487f536d584a9",
+   "ko": "모든 것이 허구다.\n\n　악의도 악랄도 악덕도 고통도 비통도 격통도 잔혹도 가혹도 냉혹도 오욕도 치욕도 능욕도 공포도 광기도 흉악도, 피, 살, 뼈, 태, 내장, 똥, 오줌, 피, 피, 피, 피, 피, 피, 피, 피, 피, 피, 피, 피, 피, 피, 피, 피, 피, 피.\n\n　모든 것이, "
+  },
+  {
+   "id": "da1310:R00044",
+   "source_sha256": "3d6e7a92243d0e53d9c962602beb38e396a5f02b62d2fd759706147fb095f432",
+   "ko": "리얼리티를",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1310:T00142",
+   "source_sha256": "8d9cf94e95a54574b282e4592818dd4b344fced7c2f8a54f8f0ec3dffebf0627",
+   "ko": "존재감을"
+  },
+  {
+   "id": "da1310:T00143",
+   "source_sha256": "1017f4f56ad54f63fbebfdf8d8789d15a10d089ef5da66c740f88a314ec56276",
+   "ko": " 갖지 못한 얄팍한\n　허구. 허위. 허실. 허식. 허무. 공허. 자기 자신조차도.\n\n　악의보다도 악랄보다도 악덕보다도 고통보다도 비통보다도 격통보다도\n잔혹보다도 가혹보다도 냉혹보다도 오욕보다도 치욕보다도 능욕보다도\n공포보다도 광기보다도 흉악보다도――날조된 지옥을 구축하는 "
+  },
+  {
+   "id": "da1310:R00045",
+   "source_sha256": "57c5fe5902dc33ed04a29a23e9d4100d6d959a0f3dce3f71078c15195829728d",
+   "ko": "가제트",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1310:T00144",
+   "source_sha256": "f6d559017f4b64de7ebc970fd768a4f5deeaff1bccf8c2592853db9476a0c3fe",
+   "ko": "무대소품"
+  },
+  {
+   "id": "da1310:T00145",
+   "source_sha256": "c32dc3a6b75d398151bcbea9186dfda02405b69653e98d361154ac416a036f4c",
+   "ko": "의 그 무엇보다도, 그 공허야말로 절망이었다.\n\n　『나』는 허구이며――지옥에 매달리지 않으면, 자기의 확립조차 뜻대로 되지 않고――그런 지옥의 고초마저 손쉽게 열화되어, 허무가 비웃듯 『나』를 통째로 도려내 간다. 공허를 꿰뚫는다.\n\n　공허가 미쳐 날뛰는 "
+  },
+  {
+   "id": "da1310:R00046",
+   "source_sha256": "999ddfa4f4fa7e0c8e6ea05a6567841890f053d61237d248c51ce83feab4475f",
+   "ko": "Ｃａｇｅ",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1310:T00146",
+   "source_sha256": "8e01d3bd6fc6077f9d2f181b59243d8f4e1496c236016df0ac35c26ece1c940e",
+   "ko": "항아리"
+  },
+  {
+   "id": "da1310:T00147",
+   "source_sha256": "81ba58183e1d6dae5a47bf25dd37e4b3d30758a8b57cf8f855571148371eb9db",
+   "ko": " 속에서, 소녀는 목말라 간다. "
+  },
+  {
+   "id": "da1310:R00047",
+   "source_sha256": "884de28537b6ccf1aab464fff3a71a6a63edc893d24e31bd205bc6ca46367a13",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1310:T00148",
+   "source_sha256": "474648a2d11632e9334be993d02ddcfcfa38146d22a3d477599467e22221d089",
+   "ko": "굶주"
+  },
+  {
+   "id": "da1310:T00149",
+   "source_sha256": "e4551b40a3553da141562dc92f4cb416fb3e98a23f433a3ed4aeb6dd05ae1c10",
+   "ko": "려 간다."
+  },
+  {
+   "id": "da1310:T00150",
+   "source_sha256": "a3c134790578707ee428f39bf35befecc88338c0ee92fc9b234ea5e95c76edf4",
+   "ko": "달래지지 않는 갈망이, 기아가, 이토록이나 풍윤한 원망을 키운다."
+  },
+  {
+   "id": "da1310:R00048",
+   "source_sha256": "f58c026c179665797b00157bf4ac8d76bb0bc4ae666609165f837f7ff7226785",
+   "ko": "어나더 블러드",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1310:T00151",
+   "source_sha256": "34dbe4d297a99817f4c9cace9a8a523f4ea32beddf1824bdeaa7043fd399ba05",
+   "ko": "어긋난 피"
+  },
+  {
+   "id": "da1310:T00152",
+   "source_sha256": "527f73ca912b77c8dd4d91262d2819ddc10a5a47f0b31e5ffcb5165537fa98e5",
+   "ko": "――"
+  },
+  {
+   "id": "da1310:T00153",
+   "source_sha256": "17d94bcfc0d191da70151b4b81aed8904108c04e77a806a6d586058dcba7cc7e",
+   "ko": "소녀의 "
+  },
+  {
+   "id": "da1310:R00049",
+   "source_sha256": "6e28cc407a3f70af7741cc6893cdf0b07f32a347c39eb7207646efd80feb4607",
+   "ko": "모습",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1310:T00154",
+   "source_sha256": "101e8536327c0f2b2dcb11a5356a110fd822d2acb494e0bc36b1ae05b4f3aec3",
+   "ko": "형상"
+  },
+  {
+   "id": "da1310:T00155",
+   "source_sha256": "e6177674933b73e97c8b9a143085f4ee8f0b92c6a509ed315c6f86d529992978",
+   "ko": "을 한, 피의 "
+  },
+  {
+   "id": "da1310:R00050",
+   "source_sha256": "33439ddb0f66823471fcc299d5d5f75aa20a1470e5cc0d7bb310dbe5b1609c6d",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1310:T00156",
+   "source_sha256": "1f828276b921aa107500f6e9151332285e78eb3c2fd98302107a1970352e1742",
+   "ko": "빛깔"
+  },
+  {
+   "id": "da1310:T00157",
+   "source_sha256": "bb0f626bfac93b7e48b8b6177ede7cc6aa656b50585c82ddaf675e2c90474584",
+   "ko": "을 띤, 이름조차 없는 저주의 덩어리."
+  },
+  {
+   "id": "da1310:T00158",
+   "source_sha256": "aea0929299f86754916b88592e12f3508124fdf88fbe76ea5ef00dd2bcd62629",
+   "ko": "게임 키퍼가 정제한 극상의 고독(蠱毒)이다.\n\n　그리고."
+  },
+  {
+   "id": "da1310:T00159",
+   "source_sha256": "477653dc8f78637963814fcf13c003caee02c7ac1643374854e8a2dd42f8a643",
+   "ko": "그리고."
+  },
+  {
+   "id": "da1310:T00160",
+   "source_sha256": "f0c173bfc2b6133fb70973e440d535d2b011a164ec0ccecfeccefea35b311c78",
+   "ko": "아아."
+  },
+  {
+   "id": "da1310:T00161",
+   "source_sha256": "f0c173bfc2b6133fb70973e440d535d2b011a164ec0ccecfeccefea35b311c78",
+   "ko": "아아."
+  },
+  {
+   "id": "da1310:T00162",
+   "source_sha256": "9948af087a55366ea18ada5c729220d3bbc907260a89d29a8ca1b40925b926f0",
+   "ko": "아아――나의 저주스러운 영혼의 쌍둥이여."
+  },
+  {
+   "id": "da1310:T00163",
+   "source_sha256": "7822c5356d68cad89904d0d3473392dd45411886fafb233b77b07722e7c6eed3",
+   "ko": "내 피에서 갈라져 나온 너의 원망과 저주는, "
+  },
+  {
+   "id": "da1310:R00051",
+   "source_sha256": "2e9526b3290ac5b876dac816adb0aa0c5d18d873a76a5471a6c2d8deeeb8cd01",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1310:T00164",
+   "source_sha256": "3a671917edfc55e3b0c8f9a2a83aade0d850530fce2d0ec89f3805e99cdf7f49",
+   "ko": "역시"
+  },
+  {
+   "id": "da1310:T00165",
+   "source_sha256": "0fab265dc208cef10e8fbcf6b0b7d9a99e1dccf86b1147a1f7c8e0e6bc2c50af",
+   "ko": "나 피를\n더듬어 찾아간다."
+  },
+  {
+   "id": "da1310:T00166",
+   "source_sha256": "0373995c10add576a1fba040330029d4fbff90ea0509b52042321eb297a03258",
+   "ko": "피를 저주하고, 허나 그러나, 피를 애타게 그리는 것이다.\n\n　아아."
+  },
+  {
+   "id": "da1310:T00167",
+   "source_sha256": "f0c173bfc2b6133fb70973e440d535d2b011a164ec0ccecfeccefea35b311c78",
+   "ko": "아아."
+  },
+  {
+   "id": "da1310:T00168",
+   "source_sha256": "17ab09f91b8abadfbf0b5c968a5caaccd680509337c4be801cfd439674c0281a",
+   "ko": "하지만."
+  },
+  {
+   "id": "da1310:T00169",
+   "source_sha256": "17ab09f91b8abadfbf0b5c968a5caaccd680509337c4be801cfd439674c0281a",
+   "ko": "하지만."
+  },
+  {
+   "id": "da1310:T00170",
+   "source_sha256": "9948af087a55366ea18ada5c729220d3bbc907260a89d29a8ca1b40925b926f0",
+   "ko": "아아――나의 저주스러운 영혼의 쌍둥이여."
+  },
+  {
+   "id": "da1310:T00171",
+   "source_sha256": "569763ea93680326c77e547985bee92a95e0b3e9703ef688423c674a0de4436d",
+   "ko": "그 죄의 원천은, 본디 너의 안에 있었던 것일까?\n\n　애초에는――"
+  },
+  {
+   "id": "da1310:T00172",
+   "source_sha256": "10d93364212e8379b3499f870469f31b8aee576afb0be7cc6de64300d47393c3",
+   "ko": "나는――"
+  },
+  {
+   "id": "da1310:T00173",
+   "source_sha256": "aa4e3e9ca54c0c30f3987761d1c05d38ed55ec678bdec16cccb7f302e2a333b4",
+   "ko": "내가――"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da1310:R00001",
+   "kind": "ruby_omission_reviewed",
+   "note": "문맥 대조 완료: 斯〈か〉의 읽기·뜻은 한국어 본문 “이”와 이어지는 어미에 반영됨. 외래어·별칭·별도 의미가 아니므로 중복 읽기만 생략."
+  },
+  {
+   "id": "da1310:R00002",
+   "kind": "ruby_omission_reviewed",
+   "note": "문맥 대조 완료: 如〈ごと〉의 읽기·뜻은 한국어 본문 “같”와 이어지는 어미에 반영됨. 외래어·별칭·별도 의미가 아니므로 중복 읽기만 생략."
+  },
+  {
+   "id": "da1310:R00014",
+   "kind": "ruby_omission_reviewed",
+   "note": "문맥 대조 완료: 散々〈はらはら〉의 읽기·뜻은 한국어 본문 “주르륵”와 이어지는 어미에 반영됨. 외래어·별칭·별도 의미가 아니므로 중복 읽기만 생략."
+  },
+  {
+   "id": "da1310:R00022",
+   "kind": "ruby_omission_reviewed",
+   "note": "문맥 대조 완료: 呪詛〈のろい〉의 읽기·뜻은 한국어 본문 “저주”와 이어지는 어미에 반영됨. 외래어·별칭·별도 의미가 아니므로 중복 읽기만 생략."
+  },
+  {
+   "id": "da1310:R00023",
+   "kind": "ruby_omission_reviewed",
+   "note": "문맥 대조 완료: 呪詛〈のろい〉의 읽기·뜻은 한국어 본문 “저주”와 이어지는 어미에 반영됨. 외래어·별칭·별도 의미가 아니므로 중복 읽기만 생략."
+  },
+  {
+   "id": "da1310:R00025",
+   "kind": "ruby_omission_reviewed",
+   "note": "문맥 대조 완료: 時〈トキ〉의 읽기·뜻은 한국어 본문 “시간”와 이어지는 어미에 반영됨. 외래어·별칭·별도 의미가 아니므로 중복 읽기만 생략. 가타카나 표기는 확인했으며 별도의 외국어 어휘가 아닌 동일 일본어 읽기임."
+  },
+  {
+   "id": "da1310:R00026",
+   "kind": "ruby_omission_reviewed",
+   "note": "문맥 대조 완료: 最涯〈さいはて〉의 읽기·뜻은 한국어 본문 “끝자락”와 이어지는 어미에 반영됨. 외래어·별칭·별도 의미가 아니므로 중복 읽기만 생략."
+  },
+  {
+   "id": "da1310:R00028",
+   "kind": "ruby_omission_reviewed",
+   "note": "문맥 대조 완료: 堕胎〈おと〉의 읽기·뜻은 한국어 본문 “낙태”와 이어지는 어미에 반영됨. 외래어·별칭·별도 의미가 아니므로 중복 읽기만 생략."
+  },
+  {
+   "id": "da1310:R00032",
+   "kind": "ruby_omission_reviewed",
+   "note": "문맥 대조 완료: 嗚呼〈アァ〉의 읽기·뜻은 한국어 본문 “아아”와 이어지는 어미에 반영됨. 외래어·별칭·별도 의미가 아니므로 중복 읽기만 생략. 가타카나 표기는 확인했으며 별도의 외국어 어휘가 아닌 동일 일본어 읽기임."
+  },
+  {
+   "id": "da1310:R00035",
+   "kind": "ruby_omission_reviewed",
+   "note": "문맥 대조 완료: 寄処〈よすが〉의 읽기·뜻은 한국어 본문 “안식처”와 이어지는 어미에 반영됨. 외래어·별칭·별도 의미가 아니므로 중복 읽기만 생략."
+  },
+  {
+   "id": "da1310:R00042",
+   "kind": "ruby_omission_reviewed",
+   "note": "문맥 대조 완료: 端役〈はやく〉의 읽기·뜻은 한국어 본문 “단역”와 이어지는 어미에 반영됨. 외래어·별칭·별도 의미가 아니므로 중복 읽기만 생략."
+  },
+  {
+   "id": "da1310:R00047",
+   "kind": "ruby_omission_reviewed",
+   "note": "문맥 대조 완료: 飢〈かつ〉의 읽기·뜻은 한국어 본문 “굶주”와 이어지는 어미에 반영됨. 외래어·별칭·별도 의미가 아니므로 중복 읽기만 생략."
+  },
+  {
+   "id": "da1310:R00050",
+   "kind": "ruby_omission_reviewed",
+   "note": "문맥 대조 완료: 彩〈いろ〉의 읽기·뜻은 한국어 본문 “빛깔”와 이어지는 어미에 반영됨. 외래어·별칭·별도 의미가 아니므로 중복 읽기만 생략."
+  },
+  {
+   "id": "da1310:R00051",
+   "kind": "ruby_omission_reviewed",
+   "note": "문맥 대조 완료: 矢張〈やは〉의 읽기·뜻은 한국어 본문 “역시”와 이어지는 어미에 반영됨. 외래어·별칭·별도 의미가 아니므로 중복 읽기만 생략."
+  }
+ ]
+}

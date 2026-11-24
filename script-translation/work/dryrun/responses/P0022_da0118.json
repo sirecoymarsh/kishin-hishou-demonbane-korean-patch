@@ -1,0 +1,586 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0022_da0118",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0118:T00001",
+   "source_sha256": "5b8e38128b1858d399fc8ba04478861f3e901cc7f56127a30039858ec9d97888",
+   "ko": "「후하하하하하하하하하하하하하하하하!\n　……여러분 오래 기다리셨습니다. 당신 거리의\n　매드 사이언티스트, 닥터 웨스트.\n　닥터 웨스트이옵니다!」"
+  },
+  {
+   "id": "da0118:T00002",
+   "source_sha256": "d66938a3d392810025f2644927e0efaff8f020b1d97efe42bf6a8a968a5bdd30",
+   "ko": "「자, 이번 주제는――핵융합. 본인은\n　태양의 힘을 손에 넣는다. 왜냐하면 태양은\n　생명의 별이니까. 행복을 지키는 불꽃이니까」"
+  },
+  {
+   "id": "da0118:T00003",
+   "source_sha256": "6f821a8a47656e9bc1b1d02a3bfaafbb3f7eeb3abfa58e86623a626705765896",
+   "ko": "「비록 그것이 지금은 작은 희망의 등불에\n　지나지 않는다 해도, 언젠가는 거대한 태양이 되어,\n　너무 커져서 대폭주."
+  },
+  {
+   "id": "da0118:T00004",
+   "source_sha256": "6e754f79f37f4a4eedbceb56ce38b669bb9d2cee53178d940df5d10206870bbc",
+   "ko": "……어이, 이거 좀 위험하지 않아?」"
+  },
+  {
+   "id": "da0118:T00005",
+   "source_sha256": "a1cfafb6fd5547715368c23796f674df52052d0baff78aa2b19bc962294d43bf",
+   "ko": "「하지만 그때, 로켓에 올라탄 제인이\n　태양의 흑점을 어떻게든 해 보려고 태양에 특공\n　한 제인이 지구를 구하는 모습을 우리들은\n　배웅했지만 눈부셔서 도망쳤다」"
+  },
+  {
+   "id": "da0118:T00006",
+   "source_sha256": "6eb067eda31a242b60373a9fb7b7e3f468bd70bbae46de548784f75afef4f7ed",
+   "ko": "「그리고 태양에 특공한 제인은 태양에\n　특공했는데 우주인에게 구조되어서\n　조금 녹아내리고 있었지만, 태양에 특공\n　한 것 치고는 나름대로 무사했다."
+  },
+  {
+   "id": "da0118:T00007",
+   "source_sha256": "b3ed099e7b05fff7e9ed0858b890171e0aacbe8c67c26c071a8bc029fc8ed1d9",
+   "ko": "……참 나, 터프가이인 매춘부라니까」"
+  },
+  {
+   "id": "da0118:T00008",
+   "source_sha256": "8b9d66507aa21978f8a7c39ef847f1a569cd37a55b27f994be62e2d6e568c8a6",
+   "ko": "「――삼중수소를 내놓아라」"
+  },
+  {
+   "id": "da0118:T00009",
+   "source_sha256": "de436e4546820efd9e51d811c02622b50b340d9d4af8b80245e1f18891e5e2cf",
+   "ko": "「미스캐토닉 강에 수장시켜 주마!」"
+  },
+  {
+   "id": "da0118:T00010",
+   "source_sha256": "3cef098980fa8cd7f64f286c68a2f5be37838970d5bea5ddf118ccae133a1a74",
+   "ko": "「후하하하하하하하하하하!　안 통한다!\n　안 통하는 것이다아아!　헤아릴 수 없는 힘으로\n　늘어선 적을 두들겨…… 부순다!　그것이!\n　그것이 본인의 『슈퍼 웨스트 무적로보\n　28호 스페셜~황제의 문장~』!」"
+  },
+  {
+   "id": "da0118:T00011",
+   "source_sha256": "7edfe025e37dfb7e3bfe650ab3bf977a97096cb1fef9c895399ba1208c1cd3e5",
+   "ko": "「좋은 것도 나쁜 것도 기분 나름로보~」"
+  },
+  {
+   "id": "da0118:T00012",
+   "source_sha256": "ae0d74b3e7cb3434735f9ac64f200687e76acae107d6a93c6e67f5d7908de263",
+   "ko": "「우갸아아아아아앗!」"
+  },
+  {
+   "id": "da0118:T00013",
+   "source_sha256": "15d26d100e3a7b51f7f51910ae599f694309c5d6e7578bba6f1e5fc935da7651",
+   "ko": "「우와왓, 스톤 군~앗!?\n　철수닷, 철수다아~~~~앗!」"
+  },
+  {
+   "id": "da0118:T00014",
+   "source_sha256": "ddcf3996f56ca0e74f15e5e93d18a4e717e1517fb41346e1b9252839f19c3a94",
+   "ko": "「………………」"
+  },
+  {
+   "id": "da0118:T00015",
+   "source_sha256": "ddcf3996f56ca0e74f15e5e93d18a4e717e1517fb41346e1b9252839f19c3a94",
+   "ko": "「………………」"
+  },
+  {
+   "id": "da0118:T00016",
+   "source_sha256": "ef2da3460c44134879a6ccd528dd5ef316438c12a6cb2e6d8f3e9d4572d41c66",
+   "ko": "「저 ■■■■…… 남이 바쁠 때만 골라서…… 읏」"
+  },
+  {
+   "id": "da0118:T00017",
+   "source_sha256": "d8c76237b12fea4760f16c4473454d066ecd9d9ec6e8d07bb2e3e292951b70aa",
+   "ko": "「그래서, 어쩔 거냐. 저거」"
+  },
+  {
+   "id": "da0118:T00018",
+   "source_sha256": "22cddec7e7bf564612f40d4e5cd930f322e858078a485ef61effe9758e383b44",
+   "ko": "「치워 버릴 수밖에 없잖아」"
+  },
+  {
+   "id": "da0118:T00019",
+   "source_sha256": "c75bc58348bf174a69097c6bcc1986124b301060215a8615e87cbe8c85a62f33",
+   "ko": "「어휴 참」"
+  },
+  {
+   "id": "da0118:T00020",
+   "source_sha256": "ea1367673e3b3658f27171baf1c40278e184733ed7ea4fc350c6e1617ca1348a",
+   "ko": "마기우스 스타일로 변신하여 비상."
+  },
+  {
+   "id": "da0118:T00021",
+   "source_sha256": "7d7fbfb81d3e9dc061afd3771884b168907cd4635a85ffb021cbc9b58e0bee62",
+   "ko": "상공에서 파괴로보에게 접근한다."
+  },
+  {
+   "id": "da0118:T00022",
+   "source_sha256": "79ee44e7b149b4a024a073ed22577bbd13856386c20355e05c077490a264c058",
+   "ko": "「누오오오!?\n　왔구나 마도탐정,\n　다이쥬지 쿠로!」"
+  },
+  {
+   "id": "da0118:T00023",
+   "source_sha256": "faace2f0f6828bc7b760ad39ad23393f6ac0a1039ebf3373f3e9d8ed3576fde2",
+   "ko": "「달링 왔다아아――――아로보!」"
+  },
+  {
+   "id": "da0118:T00024",
+   "source_sha256": "398108a9fd64bb119ae178e7a09d65dfac5ba2d2b480e397d63d22ea99a9e40c",
+   "ko": "「달링이라 부르지 마라(#゜д゜)」"
+  },
+  {
+   "id": "da0118:T00025",
+   "source_sha256": "65ba1897cba0772ca70d110b90522b40ec249044eca41de13dc24b327afb3e8d",
+   "ko": "「……에잇!\n　매번 장단 맞춰 주는 이쪽 입장도 좀 생각해라!\n　속공으로 부순다!」"
+  },
+  {
+   "id": "da0118:T00026",
+   "source_sha256": "2b71bfef2445542854863687c12577f75fdfd84864a3f0d44a3409f321e08b72",
+   "ko": "「그것은 본인의 대사인 것이다!\n　과학의 힘을 뼈저리게 깨닫는 게 좋을 것이다!」"
+  },
+  {
+   "id": "da0118:T00027",
+   "source_sha256": "9626c23d95f3eae9788e640775a6df92a96539511af89b36c25df9ccc6f9f97f",
+   "ko": "「오늘이야말로 달링의 사랑\n　을 쟁취할 거야로보!\n　――그리고 범한다. 진심으로」"
+  },
+  {
+   "id": "da0118:T00028",
+   "source_sha256": "2a573bb5b1b436122b3a4f380ed353bb82397cfe973f9600ed62acb51b704972",
+   "ko": "「로큰로오오오오오오올!」"
+  },
+  {
+   "id": "da0118:T00029",
+   "source_sha256": "1ea3200fc16667dfcd70ac60df06f402e89c7e0ec6c030ba20f2b9f5e4db03ad",
+   "ko": "파괴로보의 포구가 일제히 불을 뿜었다."
+  },
+  {
+   "id": "da0118:T00030",
+   "source_sha256": "c7d6837f69aa42521ed50a0ba58db9128d805e7f41571ac03fcd813726d091ae",
+   "ko": "나는 포격을 피하면서 급강하한다."
+  },
+  {
+   "id": "da0118:T00031",
+   "source_sha256": "52315c5af26772e3edb22563eeb30b982d59775599e300c07b6e5b46234aa26f",
+   "ko": "「마기우스 윙 특공 형태!」"
+  },
+  {
+   "id": "da0118:T00032",
+   "source_sha256": "b60f503681874a54c67c6af4b689f92bff4e57c3d9277010cf38a6d753ccaf99",
+   "ko": "검은 날개가 전신을 감싸며 경질화."
+  },
+  {
+   "id": "da0118:T00033",
+   "source_sha256": "5b03f3d4b177e98aad321b4cac3b640e13a30622ec219fe1fa7bfff4eb1a2134",
+   "ko": "인간 탄환으로 화하여 파괴로보에게 돌격한다."
+  },
+  {
+   "id": "da0118:T00034",
+   "source_sha256": "fc89932a02a24458f968ae3bd66fc03e91cbed6ba123480d4b887e0b50d7414c",
+   "ko": "그때였다."
+  },
+  {
+   "id": "da0118:T00035",
+   "source_sha256": "77784ffdcbaa8181cd7b64443ffcf7992225827e6e678b7c130d2839a75c1086",
+   "ko": "「――――읏!?　그아아아아아앗!」"
+  },
+  {
+   "id": "da0118:T00036",
+   "source_sha256": "96a5fffdcd7943e8a7431ca17ed2f1ae95b630fcc4c9cd295f985395605adee6",
+   "ko": "「냐아아아아아아아!"
+  },
+  {
+   "id": "da0118:T00037",
+   "source_sha256": "cfa3b45a8fba6116815155a8445f71f7d3607f2d34bca7064df7eff2893f8223",
+   "ko": "시야가 붉게 물들었다고 생각한 순간, 강렬한 충격이 나를 덮쳤다."
+  },
+  {
+   "id": "da0118:T00038",
+   "source_sha256": "dc21a70542f9aa58918c418ae8cd78cdb95fca4b32fd05ec819922b95622253d",
+   "ko": "날아가――아니, 튕겨 날아가 지면에 격돌한다."
+  },
+  {
+   "id": "da0118:T00039",
+   "source_sha256": "76140c6274f6faf664f5e1fb1f8dbc9e0aefd4e64cc6f305d196c2363507e6e3",
+   "ko": "「커헉!　콜록, 콜록…… 큭」"
+  },
+  {
+   "id": "da0118:T00040",
+   "source_sha256": "3a84c2470ad612e76523c8b2b7cee346469b9a9bcc75b2c0ea3f5dfed681315c",
+   "ko": "「냐, "
+  },
+  {
+   "id": "da0118:R00001",
+   "source_sha256": "26b48b700adca25a490345f0ddd2822ae4c880c4bd28360b358b86d882849a12",
+   "ko": "무슨 냐",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0118:T00041",
+   "source_sha256": "3265cdd08afe9532de5fa77802f8ad8c6ab37a09b71eed9a33030f7cfc81830d",
+   "ko": "무슨"
+  },
+  {
+   "id": "da0118:T00042",
+   "source_sha256": "45569352ee84f4cf85014781074a28620fa34aad6940f77e85d48e22647f19b2",
+   "ko": " 일이 일어난 거냐아아~~?」"
+  },
+  {
+   "id": "da0118:T00043",
+   "source_sha256": "13f753ec7169396658e61575742398ef9c12584915f587a0aaac20ddd40c734a",
+   "ko": "「무, 무슨 일인 것인가!?」"
+  },
+  {
+   "id": "da0118:T00044",
+   "source_sha256": "8009fa45201d025d73c3b417384281da2a13a586d0d14f9be72d85b2d199c97e",
+   "ko": "「박사님!?　하늘이!」"
+  },
+  {
+   "id": "da0118:T00045",
+   "source_sha256": "9918fc991b0b305516c8df80b21561bd17cd456236f5bc8c2eadef6c8f4eb8e9",
+   "ko": "「이, 이건……!」"
+  },
+  {
+   "id": "da0118:T00046",
+   "source_sha256": "d4d31260fe47b548686884787eb6b0e5946f9e1f5c8310e250eb477f616b5c2c",
+   "ko": "「왜 그러니, 얘들아?」"
+  },
+  {
+   "id": "da0118:T00047",
+   "source_sha256": "8cfef183fb097327ca68c11a8e1441cefe75ebe4ddd709903e54622bc0488467",
+   "ko": "「라이카 누나…… 저거」"
+  },
+  {
+   "id": "da0118:T00048",
+   "source_sha256": "c18122f2d9aba0171b0dfe47f26f8c8b45f47577fb222742177050f3d722bbe9",
+   "ko": "「하늘이…… 붉어?」"
+  },
+  {
+   "id": "da0118:T00049",
+   "source_sha256": "6d56395e4c66adcb671ae5801d2041a162f408c1a03e5e57b756b8977f85edce",
+   "ko": "「부, 불이라도 난 걸까?」"
+  },
+  {
+   "id": "da0118:T00050",
+   "source_sha256": "d90ec2d4f7be6b02cdfe489d98342430ef6e9cca531dd8157e646879d916536a",
+   "ko": "「아니야……\n　저건 아주 무서운 거야……」"
+  },
+  {
+   "id": "da0118:T00051",
+   "source_sha256": "3c23fc5be5c1b5961c29a253c2db01e06aacd01f0e1907560a02a39b9f8b58d5",
+   "ko": "「꺄아아아아!」"
+  },
+  {
+   "id": "da0118:T00052",
+   "source_sha256": "0e2251b2632bf326eeef78cc5bdb873184bffea9b7f780dc35a4f3573df96d7c",
+   "ko": "「큭……!」"
+  },
+  {
+   "id": "da0118:T00053",
+   "source_sha256": "5511b6cd0dfd932869ecbdb123e498754ff7835c0807352bcac3c0450092d378",
+   "ko": "「다치신 곳은 없으십니까, 아가씨?」"
+  },
+  {
+   "id": "da0118:T00054",
+   "source_sha256": "f31852991a2a1b8ca3327492d1d6c488ca3d3c1512bc8aa354109b0c2cea06d4",
+   "ko": "「어…… 응. 개, 괜찮아……\n　하지만 방금 그 폭발은 도대체……」"
+  },
+  {
+   "id": "da0118:T00055",
+   "source_sha256": "db1f0d380f2ba20e36506e4807098001294d5166a370ebdc81807c38601c2e2d",
+   "ko": "「어?」"
+  },
+  {
+   "id": "da0118:T00056",
+   "source_sha256": "bd87bc2f40294fc1d2f6ef2768ef5d9ca88a437c912c7e62e76237595e6e489d",
+   "ko": "「피의 "
+  },
+  {
+   "id": "da0118:R00002",
+   "source_sha256": "33439ddb0f66823471fcc299d5d5f75aa20a1470e5cc0d7bb310dbe5b1609c6d",
+   "ko": "빛깔",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0118:T00057",
+   "source_sha256": "1f828276b921aa107500f6e9151332285e78eb3c2fd98302107a1970352e1742",
+   "ko": "채색"
+  },
+  {
+   "id": "da0118:T00058",
+   "source_sha256": "cc289eaf948f7be696dfa9beedb69379c526f7e6ecd04a51dfbbadb3a74b5b60",
+   "ko": "을 띤 하늘……!」"
+  },
+  {
+   "id": "da0118:T00059",
+   "source_sha256": "d7f1c8c346bbeb3cefd4a835abd89c5bee334edd6a43aa65b0e98eb92554f489",
+   "ko": "그것은 붉은 폭발이었다."
+  },
+  {
+   "id": "da0118:T00060",
+   "source_sha256": "2f4ffdccdd5c09be97175af7733b8ce5734dd3799f6e1ff5234c102a2a255265",
+   "ko": "뿜어져 나오는 "
+  },
+  {
+   "id": "da0118:R00003",
+   "source_sha256": "f8797412334f868e6b153ad2c3c8336f9d8d373334bd0628aa9e88d021b8c136",
+   "ko": "빛",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0118:T00061",
+   "source_sha256": "e1a3baadc08f596502a0613865aeea5db547cef231775ffc3f1813ac669d8572",
+   "ko": "섬광"
+  },
+  {
+   "id": "da0118:T00062",
+   "source_sha256": "545e9c3f3a59c3a04d0474786dbee73f0fa45cfad950a7be12a349b4b070e7b4",
+   "ko": "은 진홍빛."
+  },
+  {
+   "id": "da0118:T00063",
+   "source_sha256": "c0f9da203149ce8fb5c0ef1c198e8e9fdc5bf5524313ff4ddcf29827a28fd42b",
+   "ko": "휘몰아치는 폭풍도 진홍빛.\n\n　폭풍은 남색 밤하늘을 물감이라도 덧칠하듯 붉게 물들여 간다."
+  },
+  {
+   "id": "da0118:R00004",
+   "source_sha256": "9e01e7b843be92a9d32129c0661107e163b54042ac97ad03fcafa75e40d331b6",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0118:T00064",
+   "source_sha256": "389bbac1b256d36df12ea23e0ea5db3f3b5a4242c671c915091732e62596b8b4",
+   "ko": "어둡"
+  },
+  {
+   "id": "da0118:T00065",
+   "source_sha256": "894955bf8aa54c15be14ad551c72c332330955261cb312c6b4677d033581f454",
+   "ko": "고, 무겁고, 세계를 짓누르는 진홍빛 하늘.\n\n　무슨 일이 일어나고 있는지 이해할 수 없다."
+  },
+  {
+   "id": "da0118:T00066",
+   "source_sha256": "8297ee08ab3a12f69ea53ed5f3a25181a5d4e46b42ae0fbaf8fd202fa76db4c8",
+   "ko": "단 하나만은 알 수 있는 것이 있다.\n\n　그것은 지금 주위 일대를 지배하는 공기의 성질."
+  },
+  {
+   "id": "da0118:T00067",
+   "source_sha256": "8de1cb74a221857d621c0bfe6960c121ef703367768d640eb815f2d9048ed1fc",
+   "ko": "숨이 막힐 정도로 농밀한 녹슨 철 냄새――아니."
+  },
+  {
+   "id": "da0118:T00068",
+   "source_sha256": "b8c093b836dc8b89490464de8796cfeb93640157b69e77cd629bbe54cc1a00ba",
+   "ko": "「피 냄새……!」"
+  },
+  {
+   "id": "da0118:T00069",
+   "source_sha256": "9db2a8c77c019014ce7a14ead0efb4336f34a3a798e1e5708147d1b89c975b19",
+   "ko": "「그놈인가!」"
+  },
+  {
+   "id": "da0118:T00070",
+   "source_sha256": "5a373978e8149eef8a67a14ec8f46328620fe30350e82e4022610619c3614c99",
+   "ko": "그리고 괴이가 현실의 벽을 넘는다."
+  },
+  {
+   "id": "da0118:T00071",
+   "source_sha256": "d48f051da13714d96de9e4a9df8a09acf543a04cec9ca8848a76da9431488281",
+   "ko": "진홍빛 하늘이 신기루처럼 일렁였다."
+  },
+  {
+   "id": "da0118:T00072",
+   "source_sha256": "e6b1c8e4a4dbbf377ee5a338a73a8d6c68a1363f54ce52fc3dcfba2efac6be39",
+   "ko": "일그러지는 하늘 너머, 거대한 그림자가 나타나 일렁인다.\n\n　일렁이는 그림자는 서서히 색채를 더하고 두께를 얻어, 존재를 확고한\n것으로 만든다.\n\n　――터무니없는 질량의 기척."
+  },
+  {
+   "id": "da0118:T00073",
+   "source_sha256": "77eddc987979dd7a489460db91b9298a4cb1b4ac9ce27012cbb1a59ac0c61211",
+   "ko": "「이 현상…… 설마, 그럴 수가!?」\n\n　그곳에 있을 수 없는 물질이 존재하는 무한소의 가능성."
+  },
+  {
+   "id": "da0118:T00074",
+   "source_sha256": "3e8740c534ca5e8cddd8a23cf2c872d696bca27dd52b49a5a8a66a4541325800",
+   "ko": "한없이 『0』에 가까운 확률이 집적되어 완전한 『1』을 실현한다."
+  },
+  {
+   "id": "da0118:T00075",
+   "source_sha256": "0d4bf20aa6779ecb81b91bafc6c9fec3a567721c2acbeb87d224030bc5591601",
+   "ko": "거대한 무언가가, 강대한 힘을 품은 무언가가 지금 현현하려 하고 있었다."
+  },
+  {
+   "id": "da0118:T00076",
+   "source_sha256": "5840fb233226a11e73ebf1f5fbd6ea9f850a2b17a433395b62d4e2389c50adb3",
+   "ko": "「『소환』……!」"
+  },
+  {
+   "id": "da0118:T00077",
+   "source_sha256": "03850773051d20794453053069437c2f4e7b9a11c657f16c1f1ebff77e2dd565",
+   "ko": "다시금 충격파."
+  },
+  {
+   "id": "da0118:T00078",
+   "source_sha256": "3e1d4a230248ff243069047c64196882c14ef6713ee5b0750480f6dad8d5e914",
+   "ko": "공간이 압도적인 질량에 튕겨 날아가 폭쇄했다."
+  },
+  {
+   "id": "da0118:T00079",
+   "source_sha256": "ec01e17aff9758d0b8901d2b65db8b48a4f1b5ae39825051c2c0b4dda5756711",
+   "ko": "피로 물든 하늘이 날아가고, 피가 폭우가 되어 대지에 쏟아져 내린다."
+  },
+  {
+   "id": "da0118:T00080",
+   "source_sha256": "b7cde6a724dded77a52a4595c9d83f506d634d69d70d93ed997b6e9b467cb284",
+   "ko": "급격한 기압 변동이 돌풍이 되어 번개를 동반하며 휘몰아친다."
+  },
+  {
+   "id": "da0118:T00081",
+   "source_sha256": "c2e2b9763d31e1ad99df056c24d8e7a5eef44a3e476a110c3f829431326c86c3",
+   "ko": "노상에 흩어진 잔해와 폐차가 바람에 휩쓸려 나뭇잎처럼 날아\n간다.\n\n\n　――피의 "
+  },
+  {
+   "id": "da0118:R00005",
+   "source_sha256": "33439ddb0f66823471fcc299d5d5f75aa20a1470e5cc0d7bb310dbe5b1609c6d",
+   "ko": "빛깔",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0118:T00082",
+   "source_sha256": "1f828276b921aa107500f6e9151332285e78eb3c2fd98302107a1970352e1742",
+   "ko": "채색"
+  },
+  {
+   "id": "da0118:T00083",
+   "source_sha256": "70c131d41de7e5d2819807619bfc7ac9dd4e4de6e07ca9425acdadcf51656fa6",
+   "ko": "을 띤 폭풍."
+  },
+  {
+   "id": "da0118:T00084",
+   "source_sha256": "06d749e9b26877ed1ded352adf50442bcf6db76de1b22ce83fda96fc180c95de",
+   "ko": "「크오오오옷!"
+  },
+  {
+   "id": "da0118:T00085",
+   "source_sha256": "a1b7742b52fef9004b70e37fc7d87c67f3c23fce6743db5211c4f4ae40560924",
+   "ko": "위험해, 날아가겠어!」"
+  },
+  {
+   "id": "da0118:T00086",
+   "source_sha256": "49570ad22556a801b625eca3434b6d6493658dd3d3250b9bee03e03896012dc9",
+   "ko": "「재수 없는 날이군, 젠장!」"
+  },
+  {
+   "id": "da0118:T00087",
+   "source_sha256": "ba65876f5630e8c7519b0411821430f5c6154ab1165737221670ca9f81215e45",
+   "ko": "「머머머머머……"
+  },
+  {
+   "id": "da0118:T00088",
+   "source_sha256": "3b1a69b0e07733470824d90add78c516c43ee23cbdbd36220d699584a40e534d",
+   "ko": "뭐야아아아앗!?」"
+  },
+  {
+   "id": "da0118:T00089",
+   "source_sha256": "d3cf0994c5af567773321a34c076ede2b9c20a9b140bb731112f6764a3d827fd",
+   "ko": "「멍―」"
+  },
+  {
+   "id": "da0118:T00090",
+   "source_sha256": "02e53465f30f4228d25b44c702a5057a3f277ad0f8b2b7218e81d1904c20c447",
+   "ko": "「……무슨 농담이야」"
+  },
+  {
+   "id": "da0118:T00091",
+   "source_sha256": "144521c5f217e70d41150bbf23d6cc305e8ada79a06380d9d352620f25f052b8",
+   "ko": "「……쿠로!」"
+  },
+  {
+   "id": "da0118:T00092",
+   "source_sha256": "d1cd53bebb7ad3d66599e180b9d07ae03c9544f7093336b715dfe217f7deb7cb",
+   "ko": "「무슨 농담이냐고, 이 개자식아!」"
+  },
+  {
+   "id": "da0118:T00093",
+   "source_sha256": "e724398fd671d80fb13f05f34665d4ea971660aead900afc3f0a3340d6d9c24a",
+   "ko": "「진정해라, 쿠로!」"
+  },
+  {
+   "id": "da0118:T00094",
+   "source_sha256": "09de87a97b63e30df01e4e587a907c55b37e1493769d442b130f3bd53a5a4776",
+   "ko": "「이런…… 이런 말도 안 되는 일이 있을 리가 없잖아아아!」"
+  },
+  {
+   "id": "da0118:T00095",
+   "source_sha256": "c1fe4940aa865e631a0c325aba4580049f5a5bac822ad646dba04291b34c428e",
+   "ko": "사람들은 넋을 잃은 듯 올려다볼 수밖에 없었다."
+  },
+  {
+   "id": "da0118:T00096",
+   "source_sha256": "78cc2cf5ff1ec46a1884f7def0fd6f6b29b7e6eeead711d2f057d1ae813dcba1",
+   "ko": "피투성이 폭풍 속을 비상하는 압도적인 그 위용."
+  },
+  {
+   "id": "da0118:T00097",
+   "source_sha256": "3d4609063a51654d334faf6b00bf933bf2a55738eda4db994e9370d774754abe",
+   "ko": "파멸을 "
+  },
+  {
+   "id": "da0118:R00006",
+   "source_sha256": "a9a3323a656323251794d793b2e8a6a8b2f6f3d0d18ca390b086a0fe7b4503d6",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0118:T00098",
+   "source_sha256": "4f25f588789440fc9ea5452e8e98542dcf1f217de7d14d8617f04e15709fe57e",
+   "ko": "두르"
+  },
+  {
+   "id": "da0118:T00099",
+   "source_sha256": "dc44eacf8d452cd44e898956c4171bebc627e2545e15e9f3180f3f6b5b3d1252",
+   "ko": "고 강림하는 "
+  },
+  {
+   "id": "da0118:R00007",
+   "source_sha256": "905b0efb2d86b7b8a5e1a663618fe8fda3615a10bcebe5973ba115f428f9c0e2",
+   "ko": "・・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0118:T00100",
+   "source_sha256": "c7d029998a98ea819ed9dce05bf8e34c293b3328d1fd9b901c43cc56f7c4f9c2",
+   "ko": "강철의 거인"
+  },
+  {
+   "id": "da0118:T00101",
+   "source_sha256": "4e577e9d0ce8de78af9e2e4c76b5546eefa09cb20e4f7b91f462caa1aaf22c4a",
+   "ko": "을.\n\n　너는."
+  },
+  {
+   "id": "da0118:T00102",
+   "source_sha256": "1bd943e2838550b2fef64b83273e003011723b8d2f5ad56f2e5f05ffe0e6398c",
+   "ko": "있을 리 없는 너는.\n\n　전신을 선혈로 물들이고 불꽃처럼 일렁이는 혈풍을 두른 너는."
+  },
+  {
+   "id": "da0118:T00103",
+   "source_sha256": "66718aa2a2b74831ab0a0bb7bb1d65501c1f5a5310f712c95c11935e9545f6df",
+   "ko": "구역질을 일으키는 피비린내와 타오르는 독기로 세계를 침식하는 너는――"
+  },
+  {
+   "id": "da0118:T00104",
+   "source_sha256": "26f9d3b7893116cad793e924e386d4b205beae55563f7d026729890ac5d20449",
+   "ko": "「「데몬베인!?」」"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0118:R00004",
+   "kind": "ruby_decision",
+   "note": "Omitted redundant phonetic reading くら on 冥."
+  },
+  {
+   "id": "da0118:R00006",
+   "kind": "ruby_decision",
+   "note": "Omitted redundant phonetic reading まと on 纏."
+  },
+  {
+   "id": "da0118:T00009",
+   "kind": "glossary_candidate",
+   "note": "Pending glossary term ミスカトニック rendered as 미스캐토닉 per 용어집.tsv."
+  }
+ ]
+}

@@ -1,0 +1,100 @@
+{
+  "schema": "khd-gemini-response-v1",
+  "packet_id": "P0069_da0606",
+  "model_id": "Gemini 3.8 Flash (High)",
+  "records": [
+    {
+      "id": "da0606:T00143",
+      "source_sha256": "9bd1fc50f246168d03a2315e2245b86c83141873645809261ac75c304e6a7b05",
+      "ko": "「세계를 원래대로 되돌려 받아야겠다――『피의 괴이』」"
+    },
+    {
+      "id": "da0606:T00144",
+      "source_sha256": "fd49e15460cc42dc37d0a27ea20d49ab4c266b44e6cc277fa8f4d8be8532d868",
+      "ko": "「싫다고 한다면?」"
+    },
+    {
+      "id": "da0606:T00145",
+      "source_sha256": "257ee8fb1135e6e3f3066310965afbfe6142cbc9243e5581ebeb47dd5da04001",
+      "ko": "「――――」"
+    },
+    {
+      "id": "da0606:T00146",
+      "source_sha256": "8c517289fa7736af63cc2af7118d21c4067220692a0bf84b4eb7d48b8d06b08e",
+      "ko": "「싫네…… 힘으로 해결하려 들다니」"
+    },
+    {
+      "id": "da0606:T00147",
+      "source_sha256": "f449505c7895b8ad2fd2aab15a5975103f3ba6fe482e40c2fa569e35cc26e667",
+      "ko": "「어울려 주셔야겠네」"
+    },
+    {
+      "id": "da0606:T00148",
+      "source_sha256": "c1f35bcbcefc735fccda63ad77fd1a6573591dde7cbad96c1cdecdebcc61df6f",
+      "ko": "「……그래. 어디 해보시지.\n이 "
+    },
+    {
+      "id": "da0606:R00028",
+      "source_sha256": "3e7ca97dd222dfece75cc1b0e619438b0296dd7b6db45fe8ff3627464f181e69",
+      "ko": "세계",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da0606:T00149",
+      "source_sha256": "e4c2d34c0328cb1fcae35af2e3215a06c42e93e2c9b66820264ebe01b78a0e95",
+      "ko": "악몽"
+    },
+    {
+      "id": "da0606:T00150",
+      "source_sha256": "6da9ec4b1e6f356c46827b8e8dd160e1c11fdd6ca59c9fea2a1b912aebbc3e57",
+      "ko": "에서 날 이길 수 있을 거라 생각하지 마!」"
+    },
+    {
+      "id": "da0606:T00151",
+      "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+      "ko": "「"
+    },
+    {
+      "id": "da0606:R00029",
+      "source_sha256": "440e06944dfd3e9331d2bb3ec3c8641db1c038cc011a9cb42a995b5c85cecff6",
+      "ko": "오페",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da0606:T00152",
+      "source_sha256": "cf2d8d4ad85afd18317100d4952cf4b51d07f3615aa80ec4202626ddbeb46e6d",
+      "ko": "해부"
+    },
+    {
+      "id": "da0606:T00153",
+      "source_sha256": "73e7c0233cf0633120d8a512d9c53db990bbaf3676c286bba8382d464e20323b",
+      "ko": "를 개시합니다!」"
+    },
+    {
+      "id": "da0606:T00154",
+      "source_sha256": "9fd87f8d5dfc39d2f789ae38a01666235d02bbc71f38a3a156d0091a68a07e40",
+      "ko": "「간다, 괴물!」"
+    },
+    {
+      "id": "da0606:T00155",
+      "source_sha256": "9a31edff7b8f85aa0fba557556c0fcb114e398be340c95593fa2c1361024cd7d",
+      "ko": "「다이쥬지 쿠로! 지금일세!\n　마음껏 싸우게나!」"
+    },
+    {
+      "id": "da0606:T00156",
+      "source_sha256": "45d21394658c5d2ee323d3a7c0730d90f38271c017feb2f1cf4c83989a2f1846",
+      "ko": "「――오냐!」"
+    },
+    {
+      "id": "da0606:T00157",
+      "source_sha256": "a9aa230b2aac5e3e9454b5c714dc2e40aa480fbe2c7189a4958c72f959fb363a",
+      "ko": "「멸망하라, 외도!\n　아비의 품으로 돌아가거라!」"
+    },
+    {
+      "id": "da0606:T00158",
+      "source_sha256": "dd447108f0101639a6ebe7724b76899b8042da135dff9ae2295071e2bb5d1e79",
+      "ko": "「이그나이이――――――앗!」"
+    }
+  ],
+  "issues": []
+}

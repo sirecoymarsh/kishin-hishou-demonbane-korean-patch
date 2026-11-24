@@ -1,0 +1,26 @@
+{
+ "label": "zipB3",
+ "game": "Y:\\AI\\claude-work\\khd-release-1118\\zipcheck\\B",
+ "steps": [
+  "prompt"
+ ],
+ "checks": {},
+ "out": "P:\\AI\\khd-hero-ai\\v30\\runs\\run_1119_020820",
+ "pid": 81700,
+ "exit_code": "0x0",
+ "new_dumps": [],
+ "moved_windows": [
+  [
+   80.52,
+   "#32770",
+   1920,
+   1004
+  ]
+ ],
+ "window_pos_restored": true,
+ "nvlddmkm_before_after": [
+  0,
+  0
+ ],
+ "seconds": 94
+}

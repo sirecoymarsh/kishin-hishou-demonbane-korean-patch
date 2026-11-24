@@ -1,0 +1,566 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0009_da0107",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0107:T00001",
+   "source_sha256": "36b42de049ba00d6589578b454e51531e30d199ffb965766a5d5c4c09b9f6574",
+   "ko": "――나는 사로잡힌 공주다."
+  },
+  {
+   "id": "da0107:T00002",
+   "source_sha256": "c8e659fe5e59c6ce66acafc8601e3d5ddc0ef922bc55896d8dcbf0f1355871d7",
+   "ko": "하도우 루리는 자신의 처지를 한탄한다."
+  },
+  {
+   "id": "da0107:T00003",
+   "source_sha256": "a273aa40dc05223bdf1e2b38b544a8ad96b54cb5bdbb7c460dde4739277959aa",
+   "ko": "그렇다…… 나는 무시무시한 마왕에게 사로잡혀 있다."
+  },
+  {
+   "id": "da0107:T00004",
+   "source_sha256": "709d8d5df5eaa24e6a51c04683e2eecd206d888f1d81a95ef3538332a2082614",
+   "ko": "이 미모가, 마왕의 마음을 빼앗아 버렸기 때문이다."
+  },
+  {
+   "id": "da0107:T00005",
+   "source_sha256": "a0781c46741282256832eaa1cca6f8063a03873344ddd55dd3db7d6309095a23",
+   "ko": "하도우의 "
+  },
+  {
+   "id": "da0107:R00001",
+   "source_sha256": "35f0db8f7e6de09cc33cb7574a9240a1790586597d26c581c31975df7fe46d39",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0107:T00006",
+   "source_sha256": "479279b3259cd844c8a8a7b90fd47038114153acae82a970124a64a504901bc3",
+   "ko": "저택"
+  },
+  {
+   "id": "da0107:T00007",
+   "source_sha256": "5da7801212a95c97d7d63035b9fe634a4f231164b272122b1520105b54746d2c",
+   "ko": "은 마왕의 성이며, 총수의 의자는 감옥이다."
+  },
+  {
+   "id": "da0107:T00008",
+   "source_sha256": "91676589e9e0b5fb37e72cbed4daad7b8f6bc0903555582bd71e7552104fe0b1",
+   "ko": "데스크에 쌓인 서류 더미는 구속의 사슬."
+  },
+  {
+   "id": "da0107:T00009",
+   "source_sha256": "aefe048afcb765ff9b31f7bb5137cc709792e7dac15956379f84193a14a935b1",
+   "ko": "그리고, 서류에 새겨져 있는 문자는 말할 것도 없이 저주다."
+  },
+  {
+   "id": "da0107:T00010",
+   "source_sha256": "4d1ba689429c245253d1a86b003cc864f08bf9919bc5776281096c1527d9e003",
+   "ko": "「……개 같은 일이군요」"
+  },
+  {
+   "id": "da0107:T00011",
+   "source_sha256": "0d3f38ce892c03df7789325a32c940be1cf062ace5ca0d957af0c6820da33cd6",
+   "ko": "오랜 감금은, 그녀의 정신을 조금씩 갉아먹었다."
+  },
+  {
+   "id": "da0107:T00012",
+   "source_sha256": "a65d15d0056621f83f0e0e17a11e30cf0c81ac81797f9f4985ab1b551e214cb8",
+   "ko": "가엾게도, 고결하고 아름다운 공주의 영혼은, 끝내 마왕에게 굴복하고 말았다."
+  },
+  {
+   "id": "da0107:T00013",
+   "source_sha256": "a1237695f8c77cc2307501122442d4bd581af92b8f5b7926840b7eba29c3dee6",
+   "ko": "이제는 그저 타락과 퇴폐에 빠져, 더럽혀져 갈 뿐――."
+  },
+  {
+   "id": "da0107:T00014",
+   "source_sha256": "8170947aca54909a70c724f5c8b58969d69b233a8f1db8d9c53df3bc40eef899",
+   "ko": "축."
+  },
+  {
+   "id": "da0107:T00015",
+   "source_sha256": "de685b3b01c3028f84e7373f22d27195e9b5f592ab12db5c29fed6b063717aec",
+   "ko": "철퍼덕.\n\n\n　책상 위에, 볼썽사납게 엎드린 상반신."
+  },
+  {
+   "id": "da0107:T00016",
+   "source_sha256": "32ec813d8e010486830a0df24b38a9dee987c81ca251fc9ed4d606bcbcd91254",
+   "ko": "쓰러진 충격으로 서류 더미가 아슬아슬한 "
+  },
+  {
+   "id": "da0107:R00002",
+   "source_sha256": "b6cf8cadd4fabcfa5f723a87508f6d7ff371e8dfe40c8ed871f6d69d250cc7cb",
+   "ko": "밸런스를",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0107:T00017",
+   "source_sha256": "2588b5b9bacc1df62c25c12ed78ad4a1c67e7f1ae5a756f9ef9e8972548fd4ac",
+   "ko": "균형을"
+  },
+  {
+   "id": "da0107:T00018",
+   "source_sha256": "395e6095c4e10ef88677b9c0d3718e9abd13e848bb5db8e05e01cde672351dc1",
+   "ko": " 잃고, 가차 없이\n루리 위로 눈사태처럼 쏟아진다.\n\n\n　서류에 파묻힌 채, 비극의 공주님은 저주를 내뱉는다."
+  },
+  {
+   "id": "da0107:T00019",
+   "source_sha256": "6576e9962d9b15f2a2fb1d89f50b3efb2248049910d0c0559d3e5f90be80bf64",
+   "ko": "「잘도 도망치셨군요\n　……아버님」"
+  },
+  {
+   "id": "da0107:T00020",
+   "source_sha256": "6c6a8d7f5af705b9b102a478bd78b0e21c4745355a8412365e31b027bf386d05",
+   "ko": "조부가 은거했을 때, 하도우 루리는 재벌 총수의 자리를 이었다."
+  },
+  {
+   "id": "da0107:T00021",
+   "source_sha256": "180969859974980d7bc5553d9538e90680ae7137e1ff22d7481e9d1672a5d32f",
+   "ko": "원래, 총수를 이어야 할 사람은 아버지다."
+  },
+  {
+   "id": "da0107:T00022",
+   "source_sha256": "aeb60355cd62e609d1e081d4cefa1ffd3ad1892be95aefaba907a02bb77f30db",
+   "ko": "하지만 자신은 그만한 그릇이 못 된다고 판단한 아버지는, 재능 있는 루리에게\n그 자리를 물려준 것이다.\n\n　그럴 만도 하다."
+  },
+  {
+   "id": "da0107:T00023",
+   "source_sha256": "19ebb5937bae86bebbbd16cc28c617223c07a8314d66882d0bef74161a59cabb",
+   "ko": "아컴 시티를 본거지로 삼는 하도우 재벌의 총수는 눈코 뜰 새 없이 바쁘다.\n\n　그도 그럴 게 ＦＢＩ의 모 부서도 "
+  },
+  {
+   "id": "da0107:R00003",
+   "source_sha256": "d45c2bdb1bb71ed585ae2047af5e421274e29eef3cc7811d0d890fa82d21e40a",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0107:T00024",
+   "source_sha256": "e21bd49eb5042718a4cac4c826f026f7579dc580cd2a802ea7664906c2b1bc0f",
+   "ko": "깜짝 놀랄"
+  },
+  {
+   "id": "da0107:T00025",
+   "source_sha256": "5018b5fa41fbb792a20817b80b2732967cf0fe0c674ebea9436cb2e295842f20",
+   "ko": " 괴사건이, 패스트푸드만큼이나 "
+  },
+  {
+   "id": "da0107:R00004",
+   "source_sha256": "53add1fa6fbf9f0feacd3835366fdabd6bfec70470bee3522309fb5c70f0af81",
+   "ko": "서비스로",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0107:T00026",
+   "source_sha256": "a7a2789caad15f935534e0ddaaf0cdcb84170f5f42178c867fe7c83286d284d0",
+   "ko": "부담 없이"
+  },
+  {
+   "id": "da0107:T00027",
+   "source_sha256": "97657224af2c92cd79e06a1940a4d8dafa77c0282f884ffaee383eb17102e35c",
+   "ko": " 시민 여러분께 제공되는 멋진 도시다."
+  },
+  {
+   "id": "da0107:T00028",
+   "source_sha256": "a733dbbb814b04956b5ed38e030137d66f23b9101f306c7ea2b04f35a8d95cfe",
+   "ko": "그 뒤처리만으로도 다른 업무가 밀릴 만큼 일이 많아진다.\n\n　「죽을 만큼 바쁘다」고 해서 「망쇄(忙殺)」."
+  },
+  {
+   "id": "da0107:T00029",
+   "source_sha256": "804bad607c3aec24e146cf373d6781948d65d043e43eec67e3de81289ea80beb",
+   "ko": "누가 좋아서, 그런 지옥 같은 일을 하고 싶어 하겠는가.\n\n　아버지는 「하도우 재벌 총수의 책무」라는 이름의 마왕에게, 친딸을 산 제물로 바친 것이다."
+  },
+  {
+   "id": "da0107:T00030",
+   "source_sha256": "af25d7abbaf355c5efef2a93a50c2e84fc2b07c29bbdfc5fa0ddf1925770ffe7",
+   "ko": "「……썩어 빠진 외도」"
+  },
+  {
+   "id": "da0107:T00031",
+   "source_sha256": "58259321ecb7c07dff515b8a0c532fe13550eb2af60d0479e1bad859ba4116c5",
+   "ko": "……아버지는 지금쯤 무엇을 하고 있을까."
+  },
+  {
+   "id": "da0107:T00032",
+   "source_sha256": "ed5b6b20865f078b6e8b2ffc621a40d2c2208259d96077433cc4863edbb8b62d",
+   "ko": "세계 경제 시찰이라 칭하며, 어머니와 20년 늦은 "
+  },
+  {
+   "id": "da0107:R00005",
+   "source_sha256": "490d7b492cefb83902829a3dcb75131cebb7b92cb4df192943588093b29e1435",
+   "ko": "허니문",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0107:T00033",
+   "source_sha256": "c9948d65a43ece86202493d01f0374d4b763993d942c43350baa665b1d42b047",
+   "ko": "세계여행"
+  },
+  {
+   "id": "da0107:T00034",
+   "source_sha256": "8d3bec56dfefb78cdc276230a02ad098ef8a8f3945a70606bb7796d8cb651de6",
+   "ko": "을 즐기고\n있을까.\n\n　돌아오면 애리조나 사막에 파묻어 주마."
+  },
+  {
+   "id": "da0107:T00035",
+   "source_sha256": "5bea89b092fefb6eceb7c6022d6f8e8f45104d40599a54a032a805c0d0b7a7af",
+   "ko": "마음속으로 굳게 맹세하며, 창밖으로 펼쳐진 풍경을 본다."
+  },
+  {
+   "id": "da0107:T00036",
+   "source_sha256": "83bdcf245533e20c5b8597f90084abf4aa6445b63e5cc5ef4ae096f118bf4299",
+   "ko": "시간은 벌써 저녁이 되어 있었다."
+  },
+  {
+   "id": "da0107:T00037",
+   "source_sha256": "a7e6c466b175595b2dc04d44a6197eb3453e6720819eae5beb7a14a1400225af",
+   "ko": "석양이 세계를 붉게, 물들이고 있다.\n\n　마치 피에 젖어 있는 것 같다."
+  },
+  {
+   "id": "da0107:T00038",
+   "source_sha256": "14711fa527f9f652b37a359321295429f008333d7640fb04a4b39b4fa96d7eee",
+   "ko": "루리는 생각했다."
+  },
+  {
+   "id": "da0107:T00039",
+   "source_sha256": "6d3ad430f5ca2d0e111eb29d089c68abbbfd4c25982f61712d96277f1f2cde9a",
+   "ko": "「피……인가요」"
+  },
+  {
+   "id": "da0107:T00040",
+   "source_sha256": "84a5c8c0ac5e9d2e748cdc79e1197ddf2058ea86638e651f2995f67d5d26e42f",
+   "ko": "서류 한 장을 집어 올린다."
+  },
+  {
+   "id": "da0107:T00041",
+   "source_sha256": "483c82544bd260a9e34566167106523e341e9b7c366a558a04c4dbf11a23395c",
+   "ko": "어젯밤 있었던 폭발 사고 건에 대해서다.\n\n　이 건도 역시, 그 괴사건――피의 괴이와 얽혀 있는 듯하다는\n조사 결과가 나와 있다."
+  },
+  {
+   "id": "da0107:T00042",
+   "source_sha256": "2f86f087dd601b4ff3754a7f9e92851f5c880e51dde435f47e2d73e4678e8a8a",
+   "ko": "다시금, 창밖으로 눈을 돌린다."
+  },
+  {
+   "id": "da0107:T00043",
+   "source_sha256": "cf5e054f9fb62efdfa1f6424199d8acfa76c7fbe6e5201f1648c56bfbc10d4a8",
+   "ko": "피의 "
+  },
+  {
+   "id": "da0107:R00006",
+   "source_sha256": "33439ddb0f66823471fcc299d5d5f75aa20a1470e5cc0d7bb310dbe5b1609c6d",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0107:T00044",
+   "source_sha256": "1f828276b921aa107500f6e9151332285e78eb3c2fd98302107a1970352e1742",
+   "ko": "빛깔"
+  },
+  {
+   "id": "da0107:T00045",
+   "source_sha256": "89f05b200bb37779a36670019d9c38334c3dfb8270c472534f390dc8ac8cdbeb",
+   "ko": "을 띤 하늘."
+  },
+  {
+   "id": "da0107:R00007",
+   "source_sha256": "b15bd310f57bf6f7d7630e3322dfdd854c01cc4df3ae2b187a3b2ee466c86132",
+   "ko": "오마가토키",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0107:T00046",
+   "source_sha256": "b80e5a3020bc920ec23cc2a03c3b35e43b9115a4f53f30d67de02158f47bcc61",
+   "ko": "마물이 출몰하는 황혼"
+  },
+  {
+   "id": "da0107:T00047",
+   "source_sha256": "949651422c756876068c9efd7dca6981cc0b9ebbcc618e8801590cb7319f1cf1",
+   "ko": "에는, 이런 빛깔이야말로 어울린다."
+  },
+  {
+   "id": "da0107:T00048",
+   "source_sha256": "a43e7f34a6a511e2f40be2ddc3435b11d0dc807b98255e59e3fd9b90a2f0cd86",
+   "ko": "「……불쾌한 저녁노을」"
+  },
+  {
+   "id": "da0107:T00049",
+   "source_sha256": "76b1f77c457d363a5b6bfda928cc78d980d46435a9856f7cec491d742d046f96",
+   "ko": "어째서일까."
+  },
+  {
+   "id": "da0107:T00050",
+   "source_sha256": "5580fb63e61b311f0fe16a7f22530cbaa00f29562d007afb336884f604d67540",
+   "ko": "왜 저녁노을을, 이토록이나 끔찍한 것으로 느끼는 것일까.\n\n　무언가가 욱신거리고 있었다."
+  },
+  {
+   "id": "da0107:T00051",
+   "source_sha256": "14f0a8b10c7ed9f7c3a01e55b059fa2260753552a26ff4ae3e7a0db3d488d4b3",
+   "ko": "기억 깊숙한 곳, 그 안쪽."
+  },
+  {
+   "id": "da0107:T00052",
+   "source_sha256": "6240ddf2b8fea5871599234559a9546309b7d30bc2550557db65338400230928",
+   "ko": " 그리고 그보다 더 깊은 곳."
+  },
+  {
+   "id": "da0107:T00053",
+   "source_sha256": "a82d0d3f4456bc335ffd48cbe9db9f9bbaf51978a161d4533c242a67ed5a986d",
+   "ko": "전생보다 먼 곳에 있는, 깊고 깊은 상흔.\n\n　근거 없는 불안과 우울에, 루리는 사로잡혀 있었다."
+  },
+  {
+   "id": "da0107:T00054",
+   "source_sha256": "87bcf2a17dfb7716ee50ac697cec4ade32a227814d675fccb587e92ff9845a9d",
+   "ko": "해가 완전히 저물 때까지, 줄곧."
+  },
+  {
+   "id": "da0107:T00055",
+   "source_sha256": "ad0a4d815daa3118f4efad0ebf9d7bef3a3febf24fc11ee564ffbe5fc7d0f9f4",
+   "ko": "하도우 저택 복도."
+  },
+  {
+   "id": "da0107:T00056",
+   "source_sha256": "24a58bf76ea26f894349fdcc00d8d90c8d93c0ed5205c98a8580a80e95bb63c9",
+   "ko": "석양에 물든 복도를, 하도우 가의 집사 윈필드는 걷고 있었다."
+  },
+  {
+   "id": "da0107:T00057",
+   "source_sha256": "6cdd099880d33330bdfb510119007a71b740b3f9561f08e1d9b0e786c6f3c76f",
+   "ko": "「…………?」"
+  },
+  {
+   "id": "da0107:T00058",
+   "source_sha256": "20eb80daba783d3e1d3e7def6db26caf983233cc7a06c06237880088f910f1f4",
+   "ko": "걸음을 멈춘다."
+  },
+  {
+   "id": "da0107:T00059",
+   "source_sha256": "9bcd41d1d887f8fea4dc9b3f16f434f4478b5be9e73b4a0e828a85df603c56e0",
+   "ko": "앞쪽. 붉은 석양빛에 녹아들 듯이 서 있는, 붉은 그림자."
+  },
+  {
+   "id": "da0107:T00060",
+   "source_sha256": "a2f2b1606f9da92269fcff86818dddc47d2a63b62d740b83245e20f4d13163c6",
+   "ko": "「누구십니까?」"
+  },
+  {
+   "id": "da0107:T00061",
+   "source_sha256": "03573f176cd4c5263a74e105a1ce8e60eb8b46a590f50440279744119f08cbca",
+   "ko": "붉은 그림자가 흔들리며 걸어 나온다."
+  },
+  {
+   "id": "da0107:T00062",
+   "source_sha256": "c629c24848e12dd5b11fe1fd1cb86b1d1c2261146e323db10fa63ea155ab2788",
+   "ko": "그림자의 농도가 짙어진다."
+  },
+  {
+   "id": "da0107:T00063",
+   "source_sha256": "e52b3d5d9e75c00228be3adfb9c817c0a9397c42e4c3d6925368c3b4a6c054a2",
+   "ko": " 붉은빛에서 검은빛으로."
+  },
+  {
+   "id": "da0107:T00064",
+   "source_sha256": "cf64803d1f9891ff1b4c39d523b96fc304cbc3a9b2c08d0c0441f04bcf692ae5",
+   "ko": "전신에 휘감기는 붉은 양막을 찢어 버리듯이, 그것은 모습을 드러냈다."
+  },
+  {
+   "id": "da0107:R00008",
+   "source_sha256": "e48137059f44bf2e28d0bf29fb562bd230aa4c5ae6c08af8e4ddb628fb19af15",
+   "ko": "찬바라",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0107:T00065",
+   "source_sha256": "3e39e1aff75b15257819bc9009ab75c4fc1bc701e5106ad16ac64f600b9eb50e",
+   "ko": "시대극"
+  },
+  {
+   "id": "da0107:T00066",
+   "source_sha256": "3b2e79bc719379948597cf4be8f8c76f1b3296e6089b0a355b1d9b49e5503647",
+   "ko": "의 "
+  },
+  {
+   "id": "da0107:R00009",
+   "source_sha256": "8fcc9a261aeea278687322f2b1f60b861d86ad571e706f817217417ae5448375",
+   "ko": "스크린",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0107:T00067",
+   "source_sha256": "7e71c69afd4c2cc98d9e5160178cc899bd304b6b1840db06f82e84dcc1d33433",
+   "ko": "은막"
+  },
+  {
+   "id": "da0107:T00068",
+   "source_sha256": "0774f596b639066a8658b9b6f379e5b5bbf2ce866a05ee44b830389242cff3c8",
+   "ko": "에서 빠져나와, 현실로 흘러든, 한 명의 사무라이."
+  },
+  {
+   "id": "da0107:T00069",
+   "source_sha256": "a74ac523b62e9d52185ce18040b25d71c424c2ff09156169cb0365efae2640b8",
+   "ko": "「――침입자!?」"
+  },
+  {
+   "id": "da0107:T00070",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0107:R00010",
+   "source_sha256": "f3666aa0d13b6c6a13c4073d1ad57572d6c45fc68832ea6b131dc5999531db0a",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0107:T00071",
+   "source_sha256": "1cba0068ed2989f2702a73319cb70a68180cd286fc71e9bbc16f00fed91890b4",
+   "ko": "싯"
+  },
+  {
+   "id": "da0107:T00072",
+   "source_sha256": "ecfe416e941818f04253f2cd37966ab40e1e3b156b09ca5d69c27c277a16376a",
+   "ko": "!」"
+  },
+  {
+   "id": "da0107:T00073",
+   "source_sha256": "7e8a222d100dbd6d943b682903cb6698831197df5c365322341ee2d87c0aa72d",
+   "ko": "사무라이가 "
+  },
+  {
+   "id": "da0107:R00011",
+   "source_sha256": "def18b1f5631a74e05ec0b6234a8e199275e5d1402ba14bd2874890cc7171a98",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0107:T00074",
+   "source_sha256": "1cba0068ed2989f2702a73319cb70a68180cd286fc71e9bbc16f00fed91890b4",
+   "ko": "내달리"
+  },
+  {
+   "id": "da0107:T00075",
+   "source_sha256": "dcc4cf80459b3b35f9a5ee46c3d65f126a83ea3cb9a01676634f7fd159a2945d",
+   "ko": "고, 은빛 섬광이 "
+  },
+  {
+   "id": "da0107:R00012",
+   "source_sha256": "def18b1f5631a74e05ec0b6234a8e199275e5d1402ba14bd2874890cc7171a98",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0107:T00076",
+   "source_sha256": "456ff23ca34b1f416a48ae866e538967967cb03be94adef8308fe75c68eb5f59",
+   "ko": "내달린"
+  },
+  {
+   "id": "da0107:T00077",
+   "source_sha256": "6aaed105226702014d0e2ce39fc09bf4699f41e481b776d5e73aaa1868ed9da0",
+   "ko": "다."
+  },
+  {
+   "id": "da0107:T00078",
+   "source_sha256": "df7af5cd1bc4c4177a1c86fa36c9d4e8e102c4a436a7b3e01009d986c1d984cc",
+   "ko": "호를 그리며 육박하는 칼날은, 윈필드의 목을 노린다."
+  },
+  {
+   "id": "da0107:T00079",
+   "source_sha256": "78062168288878022329fbc013a8ff165f066de4672592de143146e459eba54f",
+   "ko": "생각이 미치기도 전에, 투쟁 본능이 윈필드를 움직였다."
+  },
+  {
+   "id": "da0107:T00080",
+   "source_sha256": "72325cb800abd098029f4b0c0fc4bc3b8398544fb50d4a05f19c3abd33a07109",
+   "ko": "뻗어 나가는 크로스 카운터."
+  },
+  {
+   "id": "da0107:T00081",
+   "source_sha256": "c4ed855c83b9757161c1e9537a3ddbfdab5ff6d010a895b716a0600447fbf372",
+   "ko": "칼날과 주먹은 교차하고, 그리고――"
+  },
+  {
+   "id": "da0107:T00082",
+   "source_sha256": "2c14695761acce97720d1dec9e204faff8fc54d3b24c2ac15ef81f9445ea90a8",
+   "ko": "「!?」"
+  },
+  {
+   "id": "da0107:T00083",
+   "source_sha256": "e33d2aa2152cde591ae7df5557c2512df5baa77a354386b5771c6e6d8e054e88",
+   "ko": "스쳐 지나갔다."
+  },
+  {
+   "id": "da0107:T00084",
+   "source_sha256": "b2defe0f52e8141942a1ee369a9e4981223713c91b0aa6f78f4a66e243a27e47",
+   "ko": "사무라이의 검은 그림자도, 번뜩이는 칼의 은빛 섬광도, 석양의 붉은빛에 녹아내려,\n존재의 농도를 잃는다."
+  },
+  {
+   "id": "da0107:T00085",
+   "source_sha256": "e6982435ac1a787b8bdb92879a32b98871b7a86bb22a3152f919e1067d1ff6c7",
+   "ko": "그저 한 줄기 바람이, 윈필드의 옆을 스쳐 지나갔다."
+  },
+  {
+   "id": "da0107:T00086",
+   "source_sha256": "5e670828b9e825864f2c0432a914161fc1027eec923ccab577c60c980eba1c68",
+   "ko": "코를 찌르는 쇠녹 냄새.\n\n　――"
+  },
+  {
+   "id": "da0107:T00087",
+   "source_sha256": "2dd002239dd7fd66bce3be7ad3521b1d7f2b721cc464f79efab944da78292f2a",
+   "ko": "피 냄새."
+  },
+  {
+   "id": "da0107:T00088",
+   "source_sha256": "f63e338a9fae446f20ae3d105f2318d7c4d921eff8749a1d9931f4bd94dd5f65",
+   "ko": "「…………」"
+  },
+  {
+   "id": "da0107:T00089",
+   "source_sha256": "6c257f45b1c43a8bea65f5e75f65f7d02ccfa669ab152defe6a973ea31266366",
+   "ko": "주먹을 내민 자세 그대로, 멍하니 서 있다."
+  },
+  {
+   "id": "da0107:T00090",
+   "source_sha256": "b73d14f3e2224706602107707ea13f2ede1bb58ee984e38bf5afa7f3eef4a950",
+   "ko": "해는 저물고, 창밖에는 쪽빛 하늘이 펼쳐지기 시작하고 있었다."
+  },
+  {
+   "id": "da0107:T00091",
+   "source_sha256": "1b1e1d8be395f751a4bbaa27b9a31ef012b210e3316199756d05db088c66ec90",
+   "ko": "「방금, 무엇이……」"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0107:R00001",
+   "kind": "ruby_decision",
+   "note": "원문 '邸(やしき)'의 루비 'やしき'는 한자 '邸'의 훈독 발음 안내이며, 본문(da0107:T00006)을 '저택'으로 번역하여 의미가 온전히 전달되므로 omit_redundant 처리함."
+  },
+  {
+   "id": "da0107:R00003",
+   "kind": "ruby_decision",
+   "note": "원문 '吃驚(びっくり)'의 루비 'びっくり'는 취음자 표기 '吃驚'의 독음 안내이며, 본문(da0107:T00024)을 '깜짝 놀랄'로 번역하여 의미가 온전히 전달되므로 omit_redundant 처리함."
+  },
+  {
+   "id": "da0107:R00006",
+   "kind": "ruby_decision",
+   "note": "원문 '彩(いろ)'의 루비 'いろ'는 한자 '彩'의 훈독 발음 안내이며, 본문(da0107:T00044)을 '빛깔'로 번역하여 의미가 온전히 전달되므로 omit_redundant 처리함."
+  },
+  {
+   "id": "da0107:R00011",
+   "kind": "ruby_decision",
+   "note": "원문 '疾(はし)り'의 루비 'はし'는 한자 '疾'의 훈독 발음 안내이며, 본문(da0107:T00074~T00075)을 '질주하고'로 번역하여 의미가 온전히 전달되므로 omit_redundant 처리함."
+  },
+  {
+   "id": "da0107:R00012",
+   "kind": "ruby_decision",
+   "note": "원문 '迅(はし)る'의 루비 'はし'는 한자 '迅'의 훈독 발음 안내이며, 본문(da0107:T00076~T00077)을 '스친다'로 번역하여 의미가 온전히 전달되므로 omit_redundant 처리함."
+  },
+  {
+   "id": "da0107:R00010",
+   "kind": "ruby_decision",
+   "note": "원문의 疾〈シ〉ッ라는 기합은 본문 da0107:T00071과 뒤 필드에서 싯!으로 발성을 직접 전달한다. 별도 시 독음은 중복이므로 생략한다. 疾의 속도 연상은 바로 다음 疾り/迅る 병렬 동작을 내달리다 반복으로 살렸다. 음성 재생은 미실시."
+  }
+ ]
+}

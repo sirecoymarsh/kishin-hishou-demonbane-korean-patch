@@ -1,0 +1,174 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0106_da1306",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da1306:T00194",
+   "source_sha256": "a1b2164e4c7a0b6f3f3bd2184d29d83f852d1cdca0325164424918deaf73becc",
+   "ko": "「강철의 피를 나눈다――"
+  },
+  {
+   "id": "da1306:R00044",
+   "source_sha256": "2b826478f59c2fee27b95e2947c15a7596908f21671c84c287eaf3dfdfa9128b",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1306:T00195",
+   "source_sha256": "0a02e0d09dc74cad30d832a411825bc5fbf4b5af04baf6aff8cee8af35cb38dd",
+   "ko": "나타나"
+  },
+  {
+   "id": "da1306:T00196",
+   "source_sha256": "87cee4e30e74f33698e7d80e4aa86477e670f43528ac65e76714b697b52cb1c2",
+   "ko": "라!」"
+  },
+  {
+   "id": "da1306:T00197",
+   "source_sha256": "c607514520907f7d7de5793ab9330fac681eee7519e0b7c43693f4efed7491f3",
+   "ko": "「데몬베인!?」"
+  },
+  {
+   "id": "da1306:T00198",
+   "source_sha256": "eb0e723d959143cb73fdfe0d068bfe1b823ac0148d369add94d6199d14ffccf3",
+   "ko": "「자, 말은 다 모였다!\n　게임의 시작이다!」"
+  },
+  {
+   "id": "da1306:T00199",
+   "source_sha256": "62abb877500383eab35137051eba81dc7d9fdcadf6865ce7863cf71e0a9abc58",
+   "ko": "「다이쥬지 쿠자쿠――그대는 "
+  },
+  {
+   "id": "da1306:R00045",
+   "source_sha256": "2a4bd3dd8cdae4a0d774af983c310bd518730d5e4f2b759f55c945fa20d416cd",
+   "ko": "트래블러",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1306:T00200",
+   "source_sha256": "d1825b7d8bb851a3ea9f9d9e9b2c8b5c1333ee85d0eb29920a02bd36b519e773",
+   "ko": "시공방랑자"
+  },
+  {
+   "id": "da1306:T00201",
+   "source_sha256": "e4165fcbb75e6a2cdbece4301235ba972990bc824feb6ce90c5204e7f7be70e2",
+   "ko": "로서, 산산이 "
+  },
+  {
+   "id": "da1306:R00046",
+   "source_sha256": "5e50b96c27b2f416824dd21237894b52728e9f8acf21f77ae97378faaafaa899",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1306:T00202",
+   "source_sha256": "09152a2380b09e688a514e86056805ca633afd8381453280be7f536c7140c91a",
+   "ko": "풀"
+  },
+  {
+   "id": "da1306:T00203",
+   "source_sha256": "6274beca80512dd262bf795fcc1380e79528a5c116edab3cc36377cf0a435f76",
+   "ko": "어진 시간과 세계를 건너다니는 것이다!」"
+  },
+  {
+   "id": "da1306:T00204",
+   "source_sha256": "7453991fbf1a91c94a092a6ea68a6bcc590040a5c12234fd4aec5fc2a98b6e39",
+   "ko": "「찢어발겨진 세계를!　찢어발겨\n진 자신을 되찾고 싶다면!\n"
+  },
+  {
+   "id": "da1306:R00047",
+   "source_sha256": "a8d7864bbce25774a4af0f8ca3611c0d1d05801fb19e14477015a201a8505841",
+   "ko": "게임 키퍼",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1306:T00205",
+   "source_sha256": "c6be12134278a807741a5b1df6edc37bea9633622237541cccc91a6eebe0efd9",
+   "ko": "관리자"
+  },
+  {
+   "id": "da1306:T00206",
+   "source_sha256": "7c5eed00638dbd7716c93786eea5dff5038248aaed40a536322c0f3515815a18",
+   "ko": "를…… 나의 화신을 쫓는 게\n좋아!　혼돈의 조각을 주워 모아,\n다시 세계를 하나로 되돌리는 거야!」"
+  },
+  {
+   "id": "da1306:T00207",
+   "source_sha256": "844bcdd5daf7270dcd2ded074a987335750d200c343890f535fba3561677aebb",
+   "ko": "「저 아이는 너에게 주는 첫 번째 적이다!　자, 싸움의 막을 올려라!」"
+  },
+  {
+   "id": "da1306:T00208",
+   "source_sha256": "76df212ade24da4923acd1ba500f336ea600e2fb368ef26c91a66fce00e75778",
+   "ko": "「아하하하하하하하하!」"
+  },
+  {
+   "id": "da1306:T00209",
+   "source_sha256": "7187f6c11e9012432aa56fa6d0a4d0897cc6e2209c9aedb30285cf9a7dd213b7",
+   "ko": "「네노오오오오옴――읏!」"
+  },
+  {
+   "id": "da1306:T00210",
+   "source_sha256": "e9e479891618b7cdcba3c5fe8f9e7bd9a9105204f94fe2b3fceec844504511d7",
+   "ko": "「――게임 스타트다!」"
+  },
+  {
+   "id": "da1306:T00211",
+   "source_sha256": "37d404ce4caf430872dc2613a0bec50faddf0979705aabefd0287de3ed1096e9",
+   "ko": "「금기의 피를 "
+  },
+  {
+   "id": "da1306:R00048",
+   "source_sha256": "6b06f159af5ff7405303b7572fd6cc95fa28d6db1cbb828d31fbf2f997c069e5",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1306:T00212",
+   "source_sha256": "85a81f88e312e472245e96cca37474fdc5649c440ca1eb9b3451f87cc0db2d97",
+   "ko": "해방한"
+  },
+  {
+   "id": "da1306:T00213",
+   "source_sha256": "2c0ee31c438fd0102e6d9bf402450f9702c5abc3a8a9f291864f9205fe011fc6",
+   "ko": "다…… 침식하라!」"
+  },
+  {
+   "id": "da1306:T00214",
+   "source_sha256": "86a52c795fa003575e63dd7460ed1204a98add987eb146a156148053cf8486c6",
+   "ko": "「레무리아아아아아……"
+  },
+  {
+   "id": "da1306:T00215",
+   "source_sha256": "cac7185392b22830f58744f3250580750e62c55fd64fb7d77143e70b5c84d7e3",
+   "ko": "임팩트으으으――읏!」"
+  },
+  {
+   "id": "da1306:T00216",
+   "source_sha256": "308cc6363ddb92539f92ee1cce4cb5b7fa8525ce62d5bdcb9d75484ae563b1af",
+   "ko": "「여행을 떠나는 게 좋다. 다시 한번, 천의 이형인 나와 마주할 수 있기를 우주에 기도하는 게 좋아」"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da1306:T00199",
+   "kind": "glossary_candidate",
+   "note": "미확정 용어집 항목 '쿠자쿠(九朔)' 사용."
+  },
+  {
+   "id": "da1306:R00044",
+   "kind": "ruby_decision",
+   "note": "'顕(드러내다)'의 단순 훈독 루비('あらわ')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1306:R00046",
+   "kind": "ruby_decision",
+   "note": "'解(풀리다)'의 단순 훈독 루비('ほど')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1306:R00048",
+   "kind": "ruby_decision",
+   "note": "'解放(해방)'의 단순 훈독 루비('はな')이므로 omit_redundant 처리."
+  }
+ ]
+}

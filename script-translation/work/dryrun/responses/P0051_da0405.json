@@ -1,0 +1,824 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0051_da0405",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0405:T00001",
+   "source_sha256": "12e21c78f8e39aa7a1371bd19d0fd9ebde0ddd94b9822b862c12208c5f5cf078",
+   "ko": "「갸아아아아아아아!」"
+  },
+  {
+   "id": "da0405:T00002",
+   "source_sha256": "b58dac871ead96e4de6fd54e2e5e28970ad7b4619ab579c4bbb179a439da0365",
+   "ko": "「흣…… 아…… 아아아!」"
+  },
+  {
+   "id": "da0405:T00003",
+   "source_sha256": "4e443e2afebb1ca4dfd722510286027d747cfd3fa81a8bb42eb44d6c4425e09c",
+   "ko": "격파된 "
+  },
+  {
+   "id": "da0405:R00001",
+   "source_sha256": "d678372d713747469b10f4792cf13db56b08c0d18951f29918223489534c676a",
+   "ko": "고스트",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0405:T00004",
+   "source_sha256": "b6aecca8507e0f185f035894ed2db6d2f96d191b077e2c8fb6939e48225ff4e5",
+   "ko": "망령"
+  },
+  {
+   "id": "da0405:T00005",
+   "source_sha256": "3b2e79bc719379948597cf4be8f8c76f1b3296e6089b0a355b1d9b49e5503647",
+   "ko": "의 "
+  },
+  {
+   "id": "da0405:R00002",
+   "source_sha256": "ef222409da5f0958336b3258a5d62f7355be53ef98757e20fbb3398b3bbdd993",
+   "ko": "피드백",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0405:T00006",
+   "source_sha256": "bdca4789817964db2fb0ea0eeef7a30097dad153c2290bc9c4e5cc4e1613c9f8",
+   "ko": "저주 되돌림"
+  },
+  {
+   "id": "da0405:T00007",
+   "source_sha256": "a476deb30e91574ceb8e6d6595fc825467e24956974b92ea7877a18da6c20c69",
+   "ko": "에 불타면서, "
+  },
+  {
+   "id": "da0405:R00003",
+   "source_sha256": "f58c026c179665797b00157bf4ac8d76bb0bc4ae666609165f837f7ff7226785",
+   "ko": "어나더 블러드",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0405:T00008",
+   "source_sha256": "dc7725f781faa9c185c04502fb2b23311784b108ba34ef44b1207a8811f0c455",
+   "ko": "붉은 소녀"
+  },
+  {
+   "id": "da0405:T00009",
+   "source_sha256": "47ed186470edbd8d2dda0a439a62b68fef89231e7d9010892373d9abf9f3e394",
+   "ko": "는 사고한다.\n\n　인정할 수밖에 없었다."
+  },
+  {
+   "id": "da0405:T00010",
+   "source_sha256": "8e74a1cb2da9d61bb7460c8418fce9e3c37b5d4b7b3f46bb88cf0f53e535be40",
+   "ko": "자신의 계획이 크게 어긋나기 시작했다는 것을."
+  },
+  {
+   "id": "da0405:T00011",
+   "source_sha256": "b0076c5fe55ea174884bd6dd4aa982e3d4f227ef439198e430f71fa8f1c9262a",
+   "ko": "상정하지 않은 사태가 잇따르고 있다는 것을.\n\n　――이것은 자신이 마음속에 그린 『이야기』가 아니라는 것을.\n\n　아마도 자신 이외의 『의지』가 이 세계에 개재하고 있다."
+  },
+  {
+   "id": "da0405:T00012",
+   "source_sha256": "416721194186733455ffdce10a4cfa57e89d7179eb91379945dbb3d0ad99a41e",
+   "ko": "그것도 자신과 맞서는, 양립할 수 없는 『이야기』를 자아내는 것이다."
+  },
+  {
+   "id": "da0405:T00013",
+   "source_sha256": "9a338041df3f467445dc53ba784f96dc1111f5c4486d6d466d8cd0503423d4d1",
+   "ko": "그렇지 않고서야 이런 『전개』가 있을 리가 있는가.\n\n\n　이토록 형편 좋은…… "
+  },
+  {
+   "id": "da0405:T00014",
+   "source_sha256": "9d86977cd4546e0bc57279cc40ce8a19eecf21faabe7c4e497bbe4f811227582",
+   "ko": "황당무계한 전개가!"
+  },
+  {
+   "id": "da0405:T00015",
+   "source_sha256": "9bb4cb17db388fc88932dbb8cc8fc51ae52c1dac11d83ca340ae76d275c594ce",
+   "ko": "「어째서 네가 "
+  },
+  {
+   "id": "da0405:R00004",
+   "source_sha256": "9a816dfc50031c84f50312556bcabb7b19b4f7235ba4c1e512280c92465b339f",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0405:T00016",
+   "source_sha256": "785b65759020de1902fb6e90e801aeeb03b3a721722258b7eb0c1067a137054f",
+   "ko": "기동하"
+  },
+  {
+   "id": "da0405:T00017",
+   "source_sha256": "8d11ce57bddc650c3f04c5e6d682a908a1e314d78c91934a16d6cfb88399ed55",
+   "ko": "는 거냐!」"
+  },
+  {
+   "id": "da0405:T00018",
+   "source_sha256": "111523b1f008667064f1d32c0e53c3297b7773331a20c618ca2153d8d56e6dae",
+   "ko": "루리는 보았다."
+  },
+  {
+   "id": "da0405:T00019",
+   "source_sha256": "91d717b6173a6401f52f550fdfec732adf7000edb6777afb9f1b23e6ea6a1825",
+   "ko": "갑자기 이 대홀 전체를 뒤흔든 충격의 정체."
+  },
+  {
+   "id": "da0405:T00020",
+   "source_sha256": "d2bc19c621f23d595c7f64b6728cc4893340e49ffe8c8a32781ba4bce016da2c",
+   "ko": "사악한 광대를 짓뭉갠 거대한 강철을."
+  },
+  {
+   "id": "da0405:T00021",
+   "source_sha256": "def1cc7f7bb7448e71cf14cfffcbefd0c5d2fb5ca0e8d40cb087360e7c85c8e8",
+   "ko": "그것은 강철의 주먹이었다."
+  },
+  {
+   "id": "da0405:T00022",
+   "source_sha256": "ef8442eb114eabb61e4b9ad939ca6d6c565975bb10f7a9869149ebc01278a651",
+   "ko": "바로 위에서 내리꽂힌 거대한 주먹이 광대를, 좀비 무리를 분쇄한 것이다."
+  },
+  {
+   "id": "da0405:T00023",
+   "source_sha256": "177821638c4c28d6efbc7755e0535fa04007ae0fd952a6c0395239dbad3ff8c1",
+   "ko": "촉수에서 해방된 루리는 멍하니 눈앞의 주먹을 바라보고――이내\n머리 위를 우러러보았다.\n\n　생명이 깃들지 않은 무기물의 "
+  },
+  {
+   "id": "da0405:R00005",
+   "source_sha256": "2869fa462d98ce2cbbd71d7719e0d90a2c6d1b599125c7a79e6a6132252ad531",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0405:T00024",
+   "source_sha256": "fa94d1862f3ed701f053040f43bd30ac78fedb06807833a3971f729a5545b6c5",
+   "ko": "눈동자"
+  },
+  {
+   "id": "da0405:T00025",
+   "source_sha256": "6b4accf43a948482361c41691e9dd6d5073b25181f667b71cbf1e2d4c55cf2d4",
+   "ko": "가 그녀를 내려다보고 있었다."
+  },
+  {
+   "id": "da0405:T00026",
+   "source_sha256": "549c2bae5165bf876659c85c3d8f1469910b7d91338032127a9a099634a50c3c",
+   "ko": "――강철의 "
+  },
+  {
+   "id": "da0405:R00006",
+   "source_sha256": "cd9e25d7181e248f659fbb741a3994e9b108a93f7eba0485f01263c78b793428",
+   "ko": "괴물",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0405:T00027",
+   "source_sha256": "546c36f1a69183bad823d2912ff80129a422f9a753f022c6bf1045266a72325e",
+   "ko": "거인"
+  },
+  {
+   "id": "da0405:T00028",
+   "source_sha256": "e2879aeb640d56662200e2bdc93f2babf2ad2f5d0d20a5d011010da51af274b3",
+   "ko": "이."
+  },
+  {
+   "id": "da0405:T00029",
+   "source_sha256": "6c271b9aba6e768dd90c8ce1fab12e2635c1dbb6646daf1037dc0cdae210df07",
+   "ko": "「……구해 준 거니?」"
+  },
+  {
+   "id": "da0405:T00030",
+   "source_sha256": "de336b99a4231a08f6c29d5ab50a925593bb053476ef8218a750fce0ff527b9f",
+   "ko": "괴물은 답하지 않는다."
+  },
+  {
+   "id": "da0405:T00031",
+   "source_sha256": "e9cd8ed2bd1d1c86bc01398ea6c80567bc14b5ee1aa9b7487f3dba20b847f31d",
+   "ko": "본디 "
+  },
+  {
+   "id": "da0405:R00007",
+   "source_sha256": "88301101c0df921085516f57cea6e83553eddd7c46839d775d1a141977bf0586",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0405:T00032",
+   "source_sha256": "d94ededfdd015613317a5e2d858e7ed49acf3314d52c7f77ae219458fd34ae25",
+   "ko": "강철"
+  },
+  {
+   "id": "da0405:T00033",
+   "source_sha256": "2836bd4eba58bd14f36a8a3425dfdf6047bcd14c9ec7f5985dadd14304dd1049",
+   "ko": "에 마음은 없다.\n\n　하지만 그런데도 『그』는 호소하고 있었다."
+  },
+  {
+   "id": "da0405:T00034",
+   "source_sha256": "914fac22d42768eefd30856818522495da28d5300b853a749dfc7180d5d30daa",
+   "ko": "존귀하고 기품 있는, 소중한 무언가를."
+  },
+  {
+   "id": "da0405:T00035",
+   "source_sha256": "1c37b2ab0e9c3707b2d01a17fa81b5bf3a5487ebd6e5ca534b2eb583e9434df7",
+   "ko": "「저에게…… 무엇을?」"
+  },
+  {
+   "id": "da0405:T00036",
+   "source_sha256": "37bad3ff077accab7c6ca6b30caf32692b8ae751a100f99802313b5b79b43fb1",
+   "ko": "「핫……!?」"
+  },
+  {
+   "id": "da0405:T00037",
+   "source_sha256": "73de6062dda22989ec396912aa780f2075fbcdd5b38063255a442d72e71927eb",
+   "ko": "끈적이는 물소리에 루리는 정신을 차렸다."
+  },
+  {
+   "id": "da0405:T00038",
+   "source_sha256": "df5314706fdb57acc6e0af0477c84eda3fe79a4bdaa2b42bd4d8aa306e00972e",
+   "ko": "바닥에 꽂힌 강철의 주먹, 그 아래에서 부정형의 고깃덩어리가 기어 나온\n것이다."
+  },
+  {
+   "id": "da0405:T00039",
+   "source_sha256": "f53680113ad79eab147f7e574dc179f9f72b96a27c9a416c782342e935872645",
+   "ko": "「아…… 파……\n　아팠단 말이야아아아아아!」"
+  },
+  {
+   "id": "da0405:T00040",
+   "source_sha256": "1f327a4fa284ad633062cfdd581a885f0f5ef401f9db7573eba522ab275a2094",
+   "ko": "「꺄아앗!?」"
+  },
+  {
+   "id": "da0405:T00041",
+   "source_sha256": "08746d0fd8e02eeb240513843a025ea421f75ceeb2dc2557765dbf420e9db1f4",
+   "ko": "그 꿈틀거리는 썩은 살점의 중심에 광대의 가면이 달라붙어 있다."
+  },
+  {
+   "id": "da0405:T00042",
+   "source_sha256": "9b55de8f20a6066768d64aca7441b7fcc6140908733627198349002e41eca545",
+   "ko": "구역질을 유발하는 연동을 되풀이하며, 고깃덩어리는 조금씩 사람의 형태를 되찾으려 하고 있었다."
+  },
+  {
+   "id": "da0405:T00043",
+   "source_sha256": "26ac3f77d21c712fd12db5efeefd0f6fe6fd44bd9109e81da9949cb8f440cb1f",
+   "ko": "「오오오오오오오오오오!」"
+  },
+  {
+   "id": "da0405:T00044",
+   "source_sha256": "0e65962215ee3dab0cb340a427e20ba1faf2437085ace1c3479f71c376940d0c",
+   "ko": "「이, 이……!」"
+  },
+  {
+   "id": "da0405:T00045",
+   "source_sha256": "12e21c78f8e39aa7a1371bd19d0fd9ebde0ddd94b9822b862c12208c5f5cf078",
+   "ko": "「갸아아아아아아아!」"
+  },
+  {
+   "id": "da0405:T00046",
+   "source_sha256": "ea910efedf80321fa23931a048dd9e6ee124d3d97b4a40a874985a9e27da5ac8",
+   "ko": "간신히 인간형이라 판별할 수 있을 정도로 재생해 있던 고깃덩어리는, 그러나 날아온\n칼날에 베어 갈라졌다. 고깃덩어리가 두 동강이 나서 구르고, 만들어지던 몸은 다시 허물어져 간다."
+  },
+  {
+   "id": "da0405:T00047",
+   "source_sha256": "77cec1f5950252aedef53f9a5ea9bc24c880afbdbdd6dba82f9aeead2e8ff1b5",
+   "ko": "「바르자이 언월도!?」"
+  },
+  {
+   "id": "da0405:T00048",
+   "source_sha256": "10551734ec9aca620e54828dc7bc0fed1a6762380218ca07074491455ee4d27e",
+   "ko": "「크읏…… 설마……\n　다이쥬지 쿠로……!?」"
+  },
+  {
+   "id": "da0405:T00049",
+   "source_sha256": "90f71de58045d6709358622f9389af33b31abc7f55f52c0f16de9d888cb7ce8b",
+   "ko": "「아니다」"
+  },
+  {
+   "id": "da0405:T00050",
+   "source_sha256": "49a141f0c7c857f6eb067240f13a6f5372f36616b0eac57d67f18c856c38962d",
+   "ko": "언월도는 크게 호를 그리며 주인의 손으로 귀환한다."
+  },
+  {
+   "id": "da0405:T00051",
+   "source_sha256": "82e5995bbc8b0024cbc4846ced1111b527e3c8fce780cccb58197f916f62fef3",
+   "ko": "남자가 받아 든 순간, 언월도는 아무런 특색도 없는 스틱으로\n변했다."
+  },
+  {
+   "id": "da0405:T00052",
+   "source_sha256": "ce62cccb8b720efa7673a127151bb0f6fdfe79579f2dd44cf12b964158d00898",
+   "ko": "「하지만 같은, "
+  },
+  {
+   "id": "da0405:R00008",
+   "source_sha256": "e533081aa171fce47c1b7e7265e0f9503a9802e4ae1093331fb742265966d34a",
+   "ko": "마스터 오브 네크로노미콘",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0405:T00053",
+   "source_sha256": "29d5abb196195be11adc9fd6a1992ebb764988a4eec1ade6b82e939eef3365e8",
+   "ko": "사령비법의 주인"
+  },
+  {
+   "id": "da0405:T00054",
+   "source_sha256": "0580068b40d23ab18d039c0f17cd99866d7cc7161961b1579f0edf953584ff67",
+   "ko": "이다」"
+  },
+  {
+   "id": "da0405:T00055",
+   "source_sha256": "e92aad7b51d6b434b3b430cd06f7c95a8460c5d4c9eebbff5c507da0edb2daaf",
+   "ko": "그림자 같은 남자였다."
+  },
+  {
+   "id": "da0405:T00056",
+   "source_sha256": "6eb27c37856c85d7259f01269c4e8c1d4400621c91107d180ab35d416b028739",
+   "ko": "검은 코트에 검은 실크해트.\n\n　손에는 언월도에서 변화한 스틱을."
+  },
+  {
+   "id": "da0405:T00057",
+   "source_sha256": "44af17db584ff83d9c79b346bc02a9aa89822b307902b793d66413718742f031",
+   "ko": "얼핏 영국 신사풍의 차림새지만, 아랍인인가, 아니면 인도인인가, 짙은 갈색 피부를 하고 있다."
+  },
+  {
+   "id": "da0405:T00058",
+   "source_sha256": "2640e9637635ef3ddc993f2b5bb60da1f838c020679d4f50e880823bb13406d2",
+   "ko": "「마스터 오브 네크로노미콘이라니이!　무슨 바보 같은 소리를 하는 거야아!」"
+  },
+  {
+   "id": "da0405:T00059",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0405:R00009",
+   "source_sha256": "01df67e1d7cdbc51809b3a90688de6c6f9f4568cf270f141f3169e5f01fee77a",
+   "ko": "・・・・・・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0405:T00060",
+   "source_sha256": "1f9bb0e939eeb4efc0607e0f8be2754cbca51ad2271fbc73743ffd8b04b02b8e",
+   "ko": "네놈들과 같은 존재"
+  },
+  {
+   "id": "da0405:T00061",
+   "source_sha256": "8c1adcd4998984bab11a364cb72cc47e8401c0d2a00d336480b694d01d4445f3",
+   "ko": "라고 말하면 알겠나?」"
+  },
+  {
+   "id": "da0405:T00062",
+   "source_sha256": "98b1dba7bef068b133c14a9a0067b89bdf81f332a46b000c873e92635746f1e5",
+   "ko": "「……뭐라고?」"
+  },
+  {
+   "id": "da0405:T00063",
+   "source_sha256": "cf4a70a0351d9e05524204f27e0185dd325cd7e0462e010a190e0f1097313338",
+   "ko": "「그 아이가 꾸는 꿈은 악몽만이 아니다」"
+  },
+  {
+   "id": "da0405:T00064",
+   "source_sha256": "ffc56fabffc4acb7c92919760fa6676008a5ee15bb582d7a0194a69ca1bfbb49",
+   "ko": "「무슨…… "
+  },
+  {
+   "id": "da0405:T00065",
+   "source_sha256": "af093e6de58003a0d9e6ba67ce6a6eec4e5c687213ccedb21c126960466e6784",
+   "ko": "무슨 소리를 하는 거냐앗!」"
+  },
+  {
+   "id": "da0405:T00066",
+   "source_sha256": "47a9ff134e58f38578d0ad72a16c7a041d31dbaa9f06a715549e13c9226971c5",
+   "ko": "내장 촉수가 남자에게 덤벼든다."
+  },
+  {
+   "id": "da0405:T00067",
+   "source_sha256": "022fe81f916ee9bc65db3d39027d7486f775731e2498150d36f16b5cc71beece",
+   "ko": "남자는 물러서지 않고 스틱을 고쳐 쥔다."
+  },
+  {
+   "id": "da0405:T00068",
+   "source_sha256": "5962d24cdb3138c12287729967a8237c06bcee3743d0a0b38b9b2b701908ba08",
+   "ko": "사방팔방에서 덮쳐 오는 무수한 촉수."
+  },
+  {
+   "id": "da0405:T00069",
+   "source_sha256": "353241cf32bcc7a565655fc75495a26fb0cce503e4799bdbb36d5f141feb9e87",
+   "ko": "어떤 것은 적을 교살하고자."
+  },
+  {
+   "id": "da0405:T00070",
+   "source_sha256": "fb4ea5680c066fb2c169cd8746efb584804777da23da4454ffc0aedf1de1a32d",
+   "ko": "어떤 것은 경질화하여 꿰뚫고자."
+  },
+  {
+   "id": "da0405:T00071",
+   "source_sha256": "6427a103321e5eb4bea9dd068e7b4d24e105f5b677253d3807540422038e8cb8",
+   "ko": "하지만 그 모든 것을, 남자는 화려한 스텝과 한 자루의 스틱만으로\n흘려 넘긴다."
+  },
+  {
+   "id": "da0405:T00072",
+   "source_sha256": "d6fc6a0ca36223a1e1092c3fa0e02419d7125fc935bfc0f0b261d0c84354e368",
+   "ko": "「……대단해」"
+  },
+  {
+   "id": "da0405:T00073",
+   "source_sha256": "3c1bf29aaa14a83a422b793decedc3913cb7c342ffeefc4589492eed29e3afa2",
+   "ko": "「네 이노오오오옴!」"
+  },
+  {
+   "id": "da0405:T00074",
+   "source_sha256": "f7b306ed96c2fae7a68bcca9c1c6ea11969e5db62a5ed5be9ded110d734fed90",
+   "ko": "「훗」"
+  },
+  {
+   "id": "da0405:T00075",
+   "source_sha256": "202e61ae60be0e0bc5bf54db46e890d7fdfda0df0ca7b618255ee8eb748612c4",
+   "ko": "무수한 촉수가 동시에 베어 갈라져 허공을 춤추었다."
+  },
+  {
+   "id": "da0405:T00076",
+   "source_sha256": "2e87cb9484a28da262a0869aa5d66fd1cc75826ada61ced7a20002694367433c",
+   "ko": "남자의 손에는 어느새 스틱이 아니라 바르자이 언월도가\n쥐어져 있다."
+  },
+  {
+   "id": "da0405:T00077",
+   "source_sha256": "11401c872256eccc6d7724e9ae3ea9fb3b62f502726c43ffa0eddb813d4e9804",
+   "ko": "「크으으……!　요술쟁이 녀석!」"
+  },
+  {
+   "id": "da0405:T00078",
+   "source_sha256": "4a00b3691a1647a656f0150bb3cdbe8666f688722add5e3e5a8d2c4f82d9bfd2",
+   "ko": "「자랑하던 배짱 연기는 끝인가,\n　광대?」"
+  },
+  {
+   "id": "da0405:T00079",
+   "source_sha256": "19359486e75c53b862f2b1a18297a3978b6fbaf99241b760b9b108360836aa4b",
+   "ko": "검은 코트를 펼친다."
+  },
+  {
+   "id": "da0405:T00080",
+   "source_sha256": "89367f72276dcd2737c07ff5c42fd193750e9f6beaa1cb4fa886d74d5699c303",
+   "ko": "거기서 새로운 언월도가 나타난다. 그 수는 6."
+  },
+  {
+   "id": "da0405:T00081",
+   "source_sha256": "59fef5c8ec37ecb2d41fd21b7dd83378337155e7e74e39c6868dbc6b05581894",
+   "ko": "물론 코트 안에 들어갈 만한 수가 아니다."
+  },
+  {
+   "id": "da0405:T00082",
+   "source_sha256": "569b58da39cffb352aedc298e6dbe208ef53dc3f471c9df69ee0f846f9e581f6",
+   "ko": "튀어나온 언월도는 남자의 주위를 에워싸듯이 허공에 떠올랐다."
+  },
+  {
+   "id": "da0405:T00083",
+   "source_sha256": "b40c9d3431f7e108b3fcef34d64667060047d5064b80f0f428702bc1b7d5ad2b",
+   "ko": "남자는 손에 든 언월도를 머리 위로 치켜든다."
+  },
+  {
+   "id": "da0405:T00084",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0405:R00010",
+   "source_sha256": "4bf135255b05bf7f67c5e4ebc3d137fbcd9a0fa8d319089f0113a7e3cd01e25e",
+   "ko": "저글러",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0405:T00085",
+   "source_sha256": "b50d0ad4a169e099bb5d68f8f5df9134bb9b0705e0b16c69376b5aa3f97fb876",
+   "ko": "요술쟁이"
+  },
+  {
+   "id": "da0405:T00086",
+   "source_sha256": "de77c92e700013835c3fc5ad8f581a6c050fa5f015b75f694fe41715cfb4847e",
+   "ko": "는 "
+  },
+  {
+   "id": "da0405:R00011",
+   "source_sha256": "4bf135255b05bf7f67c5e4ebc3d137fbcd9a0fa8d319089f0113a7e3cd01e25e",
+   "ko": "저글러",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0405:T00087",
+   "source_sha256": "b50d0ad4a169e099bb5d68f8f5df9134bb9b0705e0b16c69376b5aa3f97fb876",
+   "ko": "요술쟁이"
+  },
+  {
+   "id": "da0405:T00088",
+   "source_sha256": "1385ed69d037bd6230582d2c3bdcb337a787872ce48580d4ffaac0a081d2dd34",
+   "ko": "답게 임하도록 하지」"
+  },
+  {
+   "id": "da0405:T00089",
+   "source_sha256": "92395352756eab3e39a6c54a542b45235faf384bf55c6e6318f1e9c7eb83e4d1",
+   "ko": "「가라」"
+  },
+  {
+   "id": "da0405:T00090",
+   "source_sha256": "884d4bd1bd93c041e40de5617cdd45e39f5dd8540bcc0c0aa8ae6787324057d4",
+   "ko": "언월도를 내리친다."
+  },
+  {
+   "id": "da0405:T00091",
+   "source_sha256": "894a4bccca23d9a2c39cb9df1e23f3df060a1868c65d20cc1c44a090fe09f1f1",
+   "ko": "그것을 신호로, 남은 6자루의 언월도가 일제히 움직였다."
+  },
+  {
+   "id": "da0405:T00092",
+   "source_sha256": "7e6606a861bbdd516883e00bd23e7f8098fae449cd310b65a04c936488185b21",
+   "ko": "번개의 궤적을 그리며 비상하여 부정한 고깃덩어리를 베어 넘긴다."
+  },
+  {
+   "id": "da0405:T00093",
+   "source_sha256": "d4d8e9efd9ab8555eb205285dfd751e3b310c58e668f160a0af072ee0bf96769",
+   "ko": "「갸아아아아아아아아!」"
+  },
+  {
+   "id": "da0405:T00094",
+   "source_sha256": "6447c9e0043fe12d7938f3dfb11bc1a78a44d713ecde03a74571594feb6e4a0d",
+   "ko": "6자루의 언월도는 재생이 따라잡지 못하는 속도로 고깃덩어리를 계속해서 잘게 썬다."
+  },
+  {
+   "id": "da0405:T00095",
+   "source_sha256": "bfde61112d774cc89984251193f861179aae30e98a94320377f70f21964cbdfb",
+   "ko": "벗어날 수 없는 칼날의 우리다."
+  },
+  {
+   "id": "da0405:T00096",
+   "source_sha256": "d76b4fa850c93cc6c5b920ef1d27349c36a8f82af456ed50703ff4c90de4d467",
+   "ko": "가차 없는 싸움 방식에 루리는 압도된다."
+  },
+  {
+   "id": "da0405:T00097",
+   "source_sha256": "aed34177a3f777ec1f5b91905477ecef9f3a9ba49866ff8538172aa794af5381",
+   "ko": "「하도우의 딸이여」"
+  },
+  {
+   "id": "da0405:T00098",
+   "source_sha256": "3427b5fa76e3635c849e7e81e0e75be25c4b99ca2a1891549639ba3787ec9d4d",
+   "ko": "「네…… 네엣!?」"
+  },
+  {
+   "id": "da0405:T00099",
+   "source_sha256": "91d8f7f12e89ecb14be5e4b7d3520cb91ace93723cade185ee84a0fceca1ffb4",
+   "ko": "갑자기 말을 걸어오자 루리는 움츠러들었다."
+  },
+  {
+   "id": "da0405:T00100",
+   "source_sha256": "9b912c0361830161dce026e027f8941d039ad691d7b9a1be878c4571622665a2",
+   "ko": "남자는 똑바로 그녀를 바라보고 있다."
+  },
+  {
+   "id": "da0405:R00012",
+   "source_sha256": "9e01e7b843be92a9d32129c0661107e163b54042ac97ad03fcafa75e40d331b6",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0405:T00101",
+   "source_sha256": "389bbac1b256d36df12ea23e0ea5db3f3b5a4242c671c915091732e62596b8b4",
+   "ko": "어두"
+  },
+  {
+   "id": "da0405:T00102",
+   "source_sha256": "ca4bf8202f056e91e3721e3809a5833c93d9294a0bb9b29e5e0ea3f089be309d",
+   "ko": "운 눈빛이다."
+  },
+  {
+   "id": "da0405:T00103",
+   "source_sha256": "57f43a74a4d7fad0d264bdaf7fd29ac44ddaa3b792c50b76fe61bb4f5e25c5bf",
+   "ko": "하지만 조용하고 온화한 눈동자였다."
+  },
+  {
+   "id": "da0405:T00104",
+   "source_sha256": "9510b47647fc3687ba90492280ecd2d8086b63a4073ff4a62c019378f4cf27bd",
+   "ko": "「네 조부는…… 아니, 네 조부"
+  },
+  {
+   "id": "da0405:R00013",
+   "source_sha256": "fe65050b6cf95368d85f30fd366c092a15824886d51defd754887d1e968f7491",
+   "ko": "・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0405:T00105",
+   "source_sha256": "a4f665c7da8d89b3d2df898de2e0f126d69e1e74f00cae7f4610bc2e3da81e99",
+   "ko": "였던"
+  },
+  {
+   "id": "da0405:T00106",
+   "source_sha256": "c7e638a950dc6bf79403079c0c3ff6a5378cbada196fe7bf98974bc86a31d224",
+   "ko": " 자는, 영겁의 시간에 걸쳐 사악과\n　줄곧 싸워, 마침내는 승리한 남자다」"
+  },
+  {
+   "id": "da0405:T00107",
+   "source_sha256": "95946b1a5cbbfa29d101296d39e130823f82c9b11523723f295c9e6fe178af5f",
+   "ko": "「……?」"
+  },
+  {
+   "id": "da0405:T00108",
+   "source_sha256": "cf36076a7ef4f8a857a1ae03e4bb9747d8701802a1afa1ef9a4facb23cbcc69a",
+   "ko": "「사악과 싸우는 힘은,\n　네 안에도 잠들어 있다」"
+  },
+  {
+   "id": "da0405:T00109",
+   "source_sha256": "49441cb6c02b9ba5db11f12415696dadf4be58eb0dabbcf22e63f251c616cfc5",
+   "ko": "이 사람은 누구일까?"
+  },
+  {
+   "id": "da0405:T00110",
+   "source_sha256": "a39e59bb0ec44c6f278dfac3e308fdc2179bc213c2a0a5b4b8e380bf4195ecb7",
+   "ko": "할아버지의 지인인 것일까."
+  },
+  {
+   "id": "da0405:T00111",
+   "source_sha256": "6f32dd7b80c3efafde4d4bf52b380fd67dc442c1367312da80f1905b6371fc60",
+   "ko": "내가 모르는 무엇을 알고 있는 것일까.\n\n　무수한 의문이 스쳐 지나가고, 그때마다 영혼의 가장 깊은 곳에서 잠든 무언가가 욱신거리는――그런 기분을 떨칠 수 없었다."
+  },
+  {
+   "id": "da0405:T00112",
+   "source_sha256": "4994a3ef29c983932d09b527f73b32db9f07abaab79653fb8eec0415b8a21385",
+   "ko": "「읏!　위험하다!　하도우!」"
+  },
+  {
+   "id": "da0405:T00113",
+   "source_sha256": "f284d39bf15eba46dfa1fe16345486d2e65a794d9ee76b31231a30dde1c788b1",
+   "ko": "「엣……?」"
+  },
+  {
+   "id": "da0405:T00114",
+   "source_sha256": "c0c8fd8f764fb835bd5be818c79a6acd277d896096966e7c668063852d26eb4d",
+   "ko": "「부쥬루바아아아아아아!」"
+  },
+  {
+   "id": "da0405:T00115",
+   "source_sha256": "43bdf98b222458cb1feb28918c848bb2c3267ac02a2a430a3e3c6788707045da",
+   "ko": "고통에 이성을 잃은 광대가 한층 굵은 촉수를 휘둘렀다."
+  },
+  {
+   "id": "da0405:T00116",
+   "source_sha256": "a7384a6f6ce63a6add0b4f3516f619e25a57612e5f95b63c9c58b1320844d875",
+   "ko": "그것은 상념에 잠겨 있던 루리에게 덮쳐 든다.\n\n　이제 와서 도망치든 피하든 늦는, 치명적인 타이밍\n이었다.\n\n　순간, 루리의 눈에 비치는 광경 모두가 슬로 모션이 되고――"
+  },
+  {
+   "id": "da0405:T00117",
+   "source_sha256": "873a0a86b6db4aa2fc659f9d6fed968354a73f46b84368a46a639f8ef1b21d85",
+   "ko": "「――――!」"
+  },
+  {
+   "id": "da0405:T00118",
+   "source_sha256": "97b17b0f174a823f4d3a0b7905221b583b7352ee811fcbb5ee257b8fad9c1732",
+   "ko": "세계 하나에 필적하는 방대한 양의 기억이 뇌리를 스쳐 지나갔다."
+  },
+  {
+   "id": "da0405:T00119",
+   "source_sha256": "39d0c3070134a5064581be54e41692d93a71e1f9ecb40090ed8fd0bdfcc9763f",
+   "ko": "그것은 아즈랏드의 마술이었던가, 아니면 그녀의――\n　하도우 루리의 소행인가 의지인가.\n\n　한 자루의 언월도가 빛의 속도로 날아와 루리를 덮치는 촉수를 양단했다.\n\n　루리가 움직인다."
+  },
+  {
+   "id": "da0405:T00120",
+   "source_sha256": "a95e738aea02d02a09832f7a346cc6cabc68b53535c8ab6b378de0f752ed73f4",
+   "ko": "그 언월도를 허공에서 단단히 움켜잡고, 고깃덩어리를 향해 달려 나간다."
+  },
+  {
+   "id": "da0405:T00121",
+   "source_sha256": "2239ccc4eb67e10f879d00472c9554425a84990a665e8fac7181bd6eabb085ca",
+   "ko": "「――――읏!?」"
+  },
+  {
+   "id": "da0405:T00122",
+   "source_sha256": "edb66ae9e59664d20a646bd4428d3c2c90c20cb48e9b1ef98be4a84f3e1e785e",
+   "ko": "「써라, 하도우!」"
+  },
+  {
+   "id": "da0405:T00123",
+   "source_sha256": "55bb01c84312fc1eff0c03a9557d3c76f7d7edee49e234bf75fb5a3e5ae5149d",
+   "ko": "달리는 루리에게 남자는 한 권의 책을 던졌다."
+  },
+  {
+   "id": "da0405:T00124",
+   "source_sha256": "631fb093f0a9496a185887ea88f56b44edd53c0147c1c5a11735d08dca71746c",
+   "ko": "아라베스크 문양에 흑단 장정을 한 두툼한 책――설령 마술과 인연이 없는 자라 할지라도, 그 책이 내뿜는 요기를 느낄 것이다."
+  },
+  {
+   "id": "da0405:T00125",
+   "source_sha256": "091d398880055b935388b0c5f8bf71528dcf6671f85587b6ec4ec9b6c61100b6",
+   "ko": "「『알 아지프』!?　어째서엇!?」"
+  },
+  {
+   "id": "da0405:T00126",
+   "source_sha256": "e2f13172879595a1c81bc5fb997e52eaf599967e5a901cc6554147cfa3c32b0f",
+   "ko": "책에서 "
+  },
+  {
+   "id": "da0405:R00014",
+   "source_sha256": "2bb9df2369234dd1a09c594d05bb8f486a403b25224bff5eeb85f6e147b6bbbb",
+   "ko": "페이지가",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0405:T00127",
+   "source_sha256": "87fc7f9029cb3830bc99efbf631b743a6abb399b4c3af33a2ce9a06db26a5c12",
+   "ko": "책장이"
+  },
+  {
+   "id": "da0405:T00128",
+   "source_sha256": "013d3051678f29523fc0df494263c211d9785aa3ddcc0e27e5f909e60d5d1f8b",
+   "ko": " 넘쳐흐르며 루리를 감싸는 종이보라가 되었다."
+  },
+  {
+   "id": "da0405:T00129",
+   "source_sha256": "79ed6804b2e1f10e5494cc130d525e316682723ebee84405b56f32c415e452c9",
+   "ko": "종이 폭풍을 거느리고 루리는 질주한다."
+  },
+  {
+   "id": "da0405:T00130",
+   "source_sha256": "b81a36561287f03425230646a4fd88fede1e2593f6b9ac6a547024080952ca22",
+   "ko": "그 가냘픈 팔에는 명백히 너무나 큰, 언월도를 치켜들고――"
+  },
+  {
+   "id": "da0405:T00131",
+   "source_sha256": "b0d8fabfbce612c4db70b963878bc582637ffa2295dd6560070471e0ad3cc20c",
+   "ko": "빛이 루리를, 부정한 고깃덩어리를 집어삼켰다."
+  },
+  {
+   "id": "da0405:T00132",
+   "source_sha256": "e23a0a7461d4b720ace9f0a92da67c135b480c1d3724c62625d8f3e3f7445d9e",
+   "ko": "마력이 폭발한다."
+  },
+  {
+   "id": "da0405:T00133",
+   "source_sha256": "1493500fe74c483ee53ad2c1caac190267de383a1bfa24d37d02f773414eb8b4",
+   "ko": "「훌륭하다, 하도우의 딸이여」"
+  },
+  {
+   "id": "da0405:T00134",
+   "source_sha256": "81e8cabfd44865ff8166a787025d3fb22fdf37d525d359080f3b7b2bd6d495c3",
+   "ko": "「저도…… 그 싸움을 알고 있으니까요」"
+  },
+  {
+   "id": "da0405:T00135",
+   "source_sha256": "f6973d4fd1259aabc35520d37d54238a6626e48f7b323a5bb01ec7ed3a8914c3",
+   "ko": "빛이 멎고, 그곳에는 "
+  },
+  {
+   "id": "da0405:R00015",
+   "source_sha256": "5962b52de32aecfebec50e25202014cad2c51a4285f82871626b0111751e003d",
+   "ko": "마기우스 스타일",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0405:T00136",
+   "source_sha256": "115c8719db52e427f76f6a32c59063be55f73953f407f85aa1b7fd56b372f0fb",
+   "ko": "술의 형태"
+  },
+  {
+   "id": "da0405:T00137",
+   "source_sha256": "5f7357fe6c03f92b2402cd01aa38eddf15410f8b1d48e5944b242b91e8f9f093",
+   "ko": "의 루리가 서 있었다."
+  },
+  {
+   "id": "da0405:T00138",
+   "source_sha256": "ab775ff0e9a862df4b5cd44a37eceb2b538147f6c4e2e605779de7c9099c7191",
+   "ko": "마기우스 스타일의 루리가 날린 언월도의 일격은 고깃덩어리를 양단하고 폭쇄했다."
+  },
+  {
+   "id": "da0405:T00139",
+   "source_sha256": "82f1a3592a1541ba41b3ea98f2b60a60613ec27a107efa3ef24bda852e734cea",
+   "ko": "「하지만 당신은 누구신가요?\n　어째서 그 싸움을――인과가 뒤틀린\n　세계를 알고 계시는 건가요?」"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0405:U00021",
+   "kind": "glossary_candidate",
+   "note": "pending 항목 '바르자이 언월도'(バルザイの偃月刀) 적용."
+  },
+  {
+   "id": "da0405:U00023",
+   "kind": "glossary_candidate",
+   "note": "pending 항목 '아즈랏드'(アズラッド) 적용."
+  },
+  {
+   "id": "da0405:R00004",
+   "kind": "ruby_decision",
+   "note": "起動く의 훈독 안내(うごく)로 한국어 '기동하'로 의미가 전달되어 생략."
+  },
+  {
+   "id": "da0405:R00005",
+   "kind": "ruby_decision",
+   "note": "眸의 독음 안내(ひとみ)로 한국어 '눈동자'와 중복되어 생략."
+  },
+  {
+   "id": "da0405:R00007",
+   "kind": "ruby_decision",
+   "note": "鋼鉄의 훈독 안내(はがね)로 한국어 '강철'과 중복되어 생략."
+  },
+  {
+   "id": "da0405:R00012",
+   "kind": "ruby_decision",
+   "note": "冥い의 독음 안내(くら)로 한국어 '어두운'과 중복되어 생략."
+  }
+ ]
+}

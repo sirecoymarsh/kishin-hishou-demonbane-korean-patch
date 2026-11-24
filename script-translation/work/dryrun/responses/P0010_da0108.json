@@ -1,0 +1,239 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0010_da0108",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0108:T00001",
+   "source_sha256": "b5daafc43dd3d1145dcb0d099535aa7ff0e58672c576c72c394c8cc09c0f38d0",
+   "ko": "「밥~」"
+  },
+  {
+   "id": "da0108:T00002",
+   "source_sha256": "b5daafc43dd3d1145dcb0d099535aa7ff0e58672c576c72c394c8cc09c0f38d0",
+   "ko": "「밥~」"
+  },
+  {
+   "id": "da0108:T00003",
+   "source_sha256": "601d1c318517e23eab428269d8e1c1471ad4e3337fda8b11814e1f5d7f5fdd67",
+   "ko": "「그거 말고 다른 언어는 모르냐, 너희들」"
+  },
+  {
+   "id": "da0108:T00004",
+   "source_sha256": "af0dd36ab61d275c394687180974673cc1714b1d7f5f9ed12d9fc80a3e47343b",
+   "ko": "「요즘 바빠 보이네에, 쿠로 쨩」"
+  },
+  {
+   "id": "da0108:T00005",
+   "source_sha256": "25bb08075d3d5e02026437b7f1af102d6ebc94b82f8ad3a6203da76fbf454d91",
+   "ko": "「우물우물…… "
+  },
+  {
+   "id": "da0108:T00006",
+   "source_sha256": "ff4eab09db4c0b53eac29687963e9689e1d210b779e9b9782a265da7b5af53ae",
+   "ko": "바하…… "
+  },
+  {
+   "id": "da0108:T00007",
+   "source_sha256": "53df701f4bb1f950f368dbba8d2f64104f91aa2a4fa0d5ae4c3e7628cb23d2ff",
+   "ko": "우물…… "
+  },
+  {
+   "id": "da0108:T00008",
+   "source_sha256": "a4c9101cbc3e84c94777c0f4c33b1d59faf34b0eb3643ab511de09bc94bfde36",
+   "ko": "어엉청, 바하아」"
+  },
+  {
+   "id": "da0108:T00009",
+   "source_sha256": "64455387f7d6bc35e39cc408ad4a3e3a5da8eddbece85adda094256abfc86fc6",
+   "ko": "「자. 입안에 음식을\n　넣은 채로 말하지 않기」"
+  },
+  {
+   "id": "da0108:T00010",
+   "source_sha256": "4428fa111c1486deb01c2448019a4171f9a62d13b5cd9c31f302ce2249f4e056",
+   "ko": "「우물…… 우물…… 꿀꺽.\n　아아, 엄청나게 성가신 걸 떠안고 있거든…… 후우」"
+  },
+  {
+   "id": "da0108:T00011",
+   "source_sha256": "28f2ecc5446445d9b5e2b0ef2f9744ffdc40ac1bc301f8d0b6acd15c735326a0",
+   "ko": "「그 사건에 관여하고 있다던가?\n　어디 보자, 그거 말야」"
+  },
+  {
+   "id": "da0108:T00012",
+   "source_sha256": "25bb08075d3d5e02026437b7f1af102d6ebc94b82f8ad3a6203da76fbf454d91",
+   "ko": "「우물우물……"
+  },
+  {
+   "id": "da0108:T00013",
+   "source_sha256": "02aeabe7fd41e6f4e89d9a6aa063f856e390fd640b55df6675e22edde4e00453",
+   "ko": "피이 괴우 마이냐」"
+  },
+  {
+   "id": "da0108:T00014",
+   "source_sha256": "47c2b73be85deec6fa098585000bd18c6657afb64c02c5592e04a6f1dbb076ec",
+   "ko": "「자, 거기도.\n　제대로 삼키고 나서 말하기!」"
+  },
+  {
+   "id": "da0108:T00015",
+   "source_sha256": "cc5782fb5a45eefdcc30309e00644c45429c7eedc2d184440bacdd3c18151ab6",
+   "ko": "「우물……"
+  },
+  {
+   "id": "da0108:T00016",
+   "source_sha256": "2be5ac9871b8ec2d1f8984cbb0ebb6a4b01fd5383a19990565a8cda70bf8b907",
+   "ko": "\n꿀꺽……"
+  },
+  {
+   "id": "da0108:T00017",
+   "source_sha256": "7dabb4ae87c8bea160524fce4cfb2749db3a9baa8ee7fecb7eab12b480046e80",
+   "ko": "\n꼴깍."
+  },
+  {
+   "id": "da0108:T00018",
+   "source_sha256": "2273ef99e78e9b51675db6010a1f5025a1230a2350bfb15c93e96654302fdf24",
+   "ko": "음, 피의 "
+  },
+  {
+   "id": "da0108:R00001",
+   "source_sha256": "cd9e25d7181e248f659fbb741a3994e9b108a93f7eba0485f01263c78b793428",
+   "ko": "괴물",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0108:T00019",
+   "source_sha256": "40814572b1023219fa1600dcdd1e7f86e7128f34aa3f4812e0df313722d79773",
+   "ko": "괴이"
+  },
+  {
+   "id": "da0108:T00020",
+   "source_sha256": "f88c68d474aff990bed9bd89134f5093d75d86751eb412c72e316c6d701b3ae9",
+   "ko": " 말이냐.\n　참으로 가증스러운 놈이다.\n　그놈 때문에, 쉴 틈도 없다」"
+  },
+  {
+   "id": "da0108:T00021",
+   "source_sha256": "babcd598e1e0be8d2368e87cab71bc0db0b4466fb98d67461a50b1b252f5cfcb",
+   "ko": "「괴물은 연중무휴 24시간 영업이니까 말이야」"
+  },
+  {
+   "id": "da0108:T00022",
+   "source_sha256": "d2cf1dd0a74360382ac3018fa6b2e6466ef8320d71a75a59ee423f7b0957d395",
+   "ko": "「그래도 좋은 일이잖아,\n　제대로 일거리가 있다는 건.\n　누나는 감격했어요~」"
+  },
+  {
+   "id": "da0108:T00023",
+   "source_sha256": "9259c6b96fa1c1797932c1c04dd84280a0af6ed1fa9aacffee1c411b623c52db",
+   "ko": "「그래…… 쿠로 쨩이 성실하게 사회인 노릇을 하고 있다니, 까놓고 말해서 말도 안 돼―그야말로 기적이자 판타스틱한 일인걸요」"
+  },
+  {
+   "id": "da0108:T00024",
+   "source_sha256": "e5e597ba1544f5b237e603b0f4a43fb9d01be6651b9d8290433889139c1217b7",
+   "ko": "「나는 당연히 이대로 쿠로 쨩이\n　사람의 도리를 벗어나서――」"
+  },
+  {
+   "id": "da0108:T00025",
+   "source_sha256": "17bf1c8d6f618a587644164fc80513c0a0cbfe25716b8ff04cb9dc5fe34cf46b",
+   "ko": "「(망상 중)」"
+  },
+  {
+   "id": "da0108:T00026",
+   "source_sha256": "ef25c050fa9b3a9fee15d0a5212f34dcebbe0d73662289ac4d53746b6ecf7579",
+   "ko": "「……………………」"
+  },
+  {
+   "id": "da0108:T00027",
+   "source_sha256": "93fe6badeebae229deb373b0db25cb102103670c46ddf85c548f919a24852483",
+   "ko": "「쿠로 쨩!?\n　저 냉장고 내용물에도 모자이크가\n　필요하다고 생각해!」"
+  },
+  {
+   "id": "da0108:T00028",
+   "source_sha256": "d4b138bdebfa952ad1fa9cb212363c98b68d0c19a0119b66cfa2e873169c4be7",
+   "ko": "「진정해라 시스터.\n　그리고 지옥에나 떨어져라」"
+  },
+  {
+   "id": "da0108:T00029",
+   "source_sha256": "5600fce574ac9d8a3c99e298f5fd9e5edb2c6a1e02279c9a73d47a4e57f0a3f6",
+   "ko": "「변함없이 살벌한 단란 풍경이로구나」"
+  },
+  {
+   "id": "da0108:T00030",
+   "source_sha256": "ee9985eea4f4051fba2a2f231a1199b7362dafca107078e9fb5eb0127327afa5",
+   "ko": "「하지만…… 유령이 날뛰는 거,\n　무섭단 말야……」"
+  },
+  {
+   "id": "da0108:T00031",
+   "source_sha256": "054d761771c84f7f392d323d1eddcd2d5ccb4dabbc625b7721989320edf8d3a5",
+   "ko": "「괜찮아, 앨리슨.\n　쿠로 쨩이 해결해 줄 거니까.\n　……그렇지?」"
+  },
+  {
+   "id": "da0108:T00032",
+   "source_sha256": "d73b2a7d7a4f35a29f104ebd1c3a02ff545a27e863c376d959e095f5752a20ca",
+   "ko": "「응~?　뭐, 열심히 해 보긴 할게」"
+  },
+  {
+   "id": "da0108:T00033",
+   "source_sha256": "250703b29b654bc1e1854754988dd3dc03170f351578e3ec7fdaebc7ed7c0ad7",
+   "ko": "「맞아~,\n　더 빠릿빠릿하게 일해라~♪」"
+  },
+  {
+   "id": "da0108:T00034",
+   "source_sha256": "4995a5ccf08eb218bd73869308d71f6cf0d2bbac8b2f529a5f53db3d08ab3192",
+   "ko": "「마차 말처럼 일해라~♪」"
+  },
+  {
+   "id": "da0108:T00035",
+   "source_sha256": "4e870e54fa8338d3284aaa02ee2b1cee80321cf9f57fb9f1a0dbf7d067c276f8",
+   "ko": "「에잇!　이 꼬맹이 녀석들이!"
+  },
+  {
+   "id": "da0108:T00036",
+   "source_sha256": "1683fed9bca7ab512a65bb2fc31b78e48da4a9c18255f2f96abef0af3c060e4f",
+   "ko": "남의 고생도 모르고!」"
+  },
+  {
+   "id": "da0108:T00037",
+   "source_sha256": "8bc9f7a8b58789061904edab0cca4a4058eb90ed7698e5591524a062d553c5d2",
+   "ko": "「후훗……」"
+  },
+  {
+   "id": "da0108:T00038",
+   "source_sha256": "df2ff5c7600aad9a4c5c8692feac20a628a5127fe90be32ad45c295f61ee0547",
+   "ko": "「……뭐야?　갑자기 왜 웃고 그래.\n　기분 나쁘게시리」"
+  },
+  {
+   "id": "da0108:T00039",
+   "source_sha256": "4f50665709240aa18df3f9a247f2d9301b2a848350ae2c439f6491f7f7c3cbfa",
+   "ko": "「아뇨아뇨♪\n　……쿠로 쨩은 누군가를 위해서\n　열심히 하는 아이구나, 싶어서」"
+  },
+  {
+   "id": "da0108:T00040",
+   "source_sha256": "c624c9fca49004b47993eb255a5163ef521c78a5d7996d5f2116a4cd515108b4",
+   "ko": "「……딱히 대단한 일을 한다고 생각하진 않아」"
+  },
+  {
+   "id": "da0108:T00041",
+   "source_sha256": "c860adea1443cfca94d369cbcfcf913bc029f99ce9bd9f73ee3e6846811c35bd",
+   "ko": "「그래?　후훗…… 하지만,\n　쿠로 쨩은, 뭐랄까……」"
+  },
+  {
+   "id": "da0108:T00042",
+   "source_sha256": "5de9fa69d500ef8574381df30606d532d15069203d8a5c59724fdb1d0d23baee",
+   "ko": "「마치――『정의의 사도』 같아」"
+  },
+  {
+   "id": "da0108:T00043",
+   "source_sha256": "e36033e95331d33c9494b0d857fe1f3af31638d95b2b07fff8de966f6c7e004f",
+   "ko": "「…………!」"
+  },
+  {
+   "id": "da0108:T00044",
+   "source_sha256": "61c56b984c129486f39436361727f2a5763849b4c9bf660feafb03eb33b8aca8",
+   "ko": "「그만 좀 해 줘……」"
+  },
+  {
+   "id": "da0108:T00045",
+   "source_sha256": "f63e338a9fae446f20ae3d105f2318d7c4d921eff8749a1d9931f4bd94dd5f65",
+   "ko": "「…………」"
+  }
+ ],
+ "issues": []
+}

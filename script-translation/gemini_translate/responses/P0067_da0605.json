@@ -1,0 +1,465 @@
+{
+  "schema": "khd-gemini-response-v1",
+  "packet_id": "P0067_da0605",
+  "model_id": "Gemini 3.8 Flash (High)",
+  "records": [
+    {
+      "id": "da0605:T00001",
+      "source_sha256": "c607514520907f7d7de5793ab9330fac681eee7519e0b7c43693f4efed7491f3",
+      "ko": "「데몬베인!?」"
+    },
+    {
+      "id": "da0605:T00002",
+      "source_sha256": "eecd80362ca00d9541addc7d6f8261f64e292fc0314184b9c7a467792aa3fd6a",
+      "ko": "「제노사이드 크로스파이어어어어어!」"
+    },
+    {
+      "id": "da0605:T00003",
+      "source_sha256": "b56837a49a73db8f4e910065865b35857ec8de8ab8ea2a622297f2e1948f856d",
+      "ko": "「스위치 ON 로보!」"
+    },
+    {
+      "id": "da0605:T00004",
+      "source_sha256": "297d8be4862d4b261a401e5666bb74914c3f9c4a0672ed5266ce51c43b2a1157",
+      "ko": "「뭐……엇!?」"
+    },
+    {
+      "id": "da0605:T00005",
+      "source_sha256": "a5421ae85c29e299741ca2ec4ebc810f2b3b370f61f0873731ba081f19480be5",
+      "ko": "「뭐냐!?」"
+    },
+    {
+      "id": "da0605:T00006",
+      "source_sha256": "e6344c2abbee0ad8d80102eeb0e88980f3a0ef4df76aadf0ad15438a7f26b08b",
+      "ko": "대화력에 의한 일제사격이, 웨이틀리의 촉완을 날려버렸다."
+    },
+    {
+      "id": "da0605:T00007",
+      "source_sha256": "3f3556b73a190f1605465cf37721bb880011f4d1d1e2580e792b0816f366598b",
+      "ko": "더러운 체액을 흩뿌리며, 웨이틀리가 몸부림친다."
+    },
+    {
+      "id": "da0605:T00008",
+      "source_sha256": "4dc4773be9275a33f70a9b988e7f79b46a8798e24e4a6672cb9e4cdfaaf0a8b7",
+      "ko": "「후하하하…… 후하하하하하……\n　　　　햐─하하하하하하하하하하!」"
+    },
+    {
+      "id": "da0605:T00009",
+      "source_sha256": "03a659e4fffacacfd88fe3d7859575a4d5561125cfc2815c71f7abb21a82f738",
+      "ko": "「이, 이 웃음소리는……읏」"
+    },
+    {
+      "id": "da0605:T00010",
+      "source_sha256": "6cce645134c8bebb0df658f4b7af89d4aa15999e48f26f40b5bf60e2d6b80d11",
+      "ko": "「……농담이지」"
+    },
+    {
+      "id": "da0605:T00011",
+      "source_sha256": "778a5469dc92b012b63ad5e203c8b97675d307ee0554295ddd18666803114be5",
+      "ko": "「♪~ 놓치지 않도록 달리고 달려\n　달-려-라- 메로스처럼-으으읏」"
+    },
+    {
+      "id": "da0605:T00012",
+      "source_sha256": "d9eda9d4a1a06a1d957aa61626ed761a557edf7e9d267e4fbc1f619cbdb08753",
+      "ko": "『그만둬! 메로스는 아직 완전하지 않다고!』\n『현재 상태로 10분은 달릴 수 있습니다』\n『하지만 아광속 주법은 무리다!』\n『여차하면 버려두고 갈 뿐입니다!\n　(죽마고우를)』"
+    },
+    {
+      "id": "da0605:T00013",
+      "source_sha256": "953ef3aa53a0ecad58181e3b281a9858d110e37bf9925a9c6e0344e01b71417d",
+      "ko": "「이리하여 킹스턴 밸브가 뽑혀, 폭주한\n　세리눈티우스는 보이드 효과에 의해 2분 40\n　초 뒤에 인간 블랙홀이 되어 시라쿠사의 "
+    },
+    {
+      "id": "da0605:R00001",
+      "source_sha256": "02a3abe39fe42c1333b61e756161a918c92453c9c12b20adea0de4696ec1bcc2",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da0605:T00014",
+      "source_sha256": "767c596dbfefebd16ce2879ae70e8261d1031a2a5708d1393dc69bf0c104a7db",
+      "ko": "도시"
+    },
+    {
+      "id": "da0605:T00015",
+      "source_sha256": "efbee0fe7fa7f8e14dbde6b7b5436c518122ccf741a24740fc3cd7e860bca8f9",
+      "ko": " 통째로 국왕을 집어삼켰다」"
+    },
+    {
+      "id": "da0605:T00016",
+      "source_sha256": "2b112312863ec1c005ca600ae2c8702e7dba67947c263983bb04e371376402fb",
+      "ko": "「용사는 몹시, 얼굴을 붉혔다」"
+    },
+    {
+      "id": "da0605:T00017",
+      "source_sha256": "af916a83ea387c2e378c93607f87bd236f277c24744f4f6aa71442df4995f3fe",
+      "ko": "「사랑을 멈추지 말고\n　계속 달리는 로보-옷」"
+    },
+    {
+      "id": "da0605:T00018",
+      "source_sha256": "5a4bffccc52f3f5b484db42802bb11d59f5840ba5e6566d67bc8545318834fcb",
+      "ko": "（초상집 같은 침통한 표정）"
+    },
+    {
+      "id": "da0605:T00019",
+      "source_sha256": "5a4bffccc52f3f5b484db42802bb11d59f5840ba5e6566d67bc8545318834fcb",
+      "ko": "（초상집 같은 침통한 표정）"
+    },
+    {
+      "id": "da0605:T00020",
+      "source_sha256": "60a5bdbe660dedb73a17019309d4c03ad06e083726de11ebba72ad80954c91c9",
+      "ko": "（가면 때문에 판별할 수 없지만,\n　초상집 같은 침통한 표정）"
+    },
+    {
+      "id": "da0605:T00021",
+      "source_sha256": "0196c8d61a51580ec23793fd3c4e960f291e6ae27362fa4c7d944b884a06cfae",
+      "ko": "――모든 게 아무래도 좋아지기 시작했다."
+    },
+    {
+      "id": "da0605:T00022",
+      "source_sha256": "9948eea48c8e4eb3e886eabbedf5eb718de7463e7ec03a12475140a7e7ad0d39",
+      "ko": "「……호아……?」"
+    },
+    {
+      "id": "da0605:T00023",
+      "source_sha256": "6a59051184c606b0519fb8f94783f77116bf614ae1ab73869f0f21d2e7075efe",
+      "ko": "제트를 뿜어내며, 파괴로보가 착지했다."
+    },
+    {
+      "id": "da0605:T00024",
+      "source_sha256": "b6a8bfa1c0910d667b2eba6b29dd8328b5df3e72232c05c436b43a5995f6271b",
+      "ko": "드릴 끝이 웨이틀리를 가리키고 있다.\n\n　닥터 웨스트가, 더니치의 괴이, 사신의 혈족을 상대로\n기염을 토한다.\n\n　■■■■는 분위기를 파악하지 못하는 것이다."
+    },
+    {
+      "id": "da0605:T00025",
+      "source_sha256": "a0345346b049c816e3aac751227e23d1e99a15ed18e2592de78fbcbbb8edbf6c",
+      "ko": "「물러서는 것이다아, 거기 징그러운 놈!"
+    },
+    {
+      "id": "da0605:R00002",
+      "source_sha256": "ade3e0f425a2c6bd48627306b83699be8080048eeab03b936199bdc5fdb3948c",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da0605:T00026",
+      "source_sha256": "1b3c5e85cc16fa0f2d74a1196c12c86b9b5b03494cb8b7d1f6270cf7641c6787",
+      "ko": "이놈"
+    },
+    {
+      "id": "da0605:T00027",
+      "source_sha256": "fb0294a5577874bd10a35bfdda9ea2cf866a95424199cb533bfb73c41d877f6f",
+      "ko": "은 본인의 사냥감인 것이다아!」"
+    },
+    {
+      "id": "da0605:T00028",
+      "source_sha256": "2ad2ca2ef706d9c159b815b6f0936bb0ce472dcb9cfd2d0c1123005258bf5d8e",
+      "ko": "이번에는 상공의 데몬베인을 가리키며,"
+    },
+    {
+      "id": "da0605:T00029",
+      "source_sha256": "e38f113957119050c52a4b2d39a2a8ff4b7228ed683ce334a41c8873cd1b0b79",
+      "ko": "「그렇다, 아까의 굴욕!\n여기서 씻도록 하겠는 것이다아!\n자, 해치워라! 창궁의 슈퍼 웨스트 무적로보 28호 DESTINY ~그 힘을 보여줘라 가그!~」"
+    },
+    {
+      "id": "da0605:T00030",
+      "source_sha256": "4292cff1e62c348d8535c90e723b07f116ad3d20b1e9633a5f198d3d1ca656b8",
+      "ko": "「……어이어이」"
+    },
+    {
+      "id": "da0605:T00031",
+      "source_sha256": "0a8dc83f4c11158bcf22a5b44220d6e5bcc539f25271c092e3cce47c7b7c48e4",
+      "ko": "파괴로보는 한층 더 변형하여, 곳곳에서 무수한 암을 출현\n시킨다."
+    },
+    {
+      "id": "da0605:T00032",
+      "source_sha256": "7f922b97cdf0d5eef01016a8f13cafabce7378ef4697235cac355eb85cde7d88",
+      "ko": "「새로운 세기로 날아오르는 로보-옷!」"
+    },
+    {
+      "id": "da0605:T00033",
+      "source_sha256": "7c66607d1a97cba6e35a47a1f5993a091a598603e00cac5c0b3f1608959c4730",
+      "ko": "로켓 연료를 분사하며, 파괴로보는 다시금 하늘을 난다."
+    },
+    {
+      "id": "da0605:T00034",
+      "source_sha256": "c3c43551eac5ad104d60cd919586d448ae14db55500af1d11c536600cc39e5f3",
+      "ko": "노리는 것은――데몬베인인가!?"
+    },
+    {
+      "id": "da0605:T00035",
+      "source_sha256": "3ff6531db466fcd48fe8d0286f1dbd9b7044cea808e32368a77e659ee9998112",
+      "ko": "「잠깐…… 야, 거기 서!」"
+    },
+    {
+      "id": "da0605:T00036",
+      "source_sha256": "ea74c6a42566f5a0ddb71932b2a40bd74f57c17cbf1d94ad1c9c4e6a4764ad8e",
+      "ko": "「로큰로오오오오오오오오올!」"
+    },
+    {
+      "id": "da0605:T00037",
+      "source_sha256": "83bdb339aa8662745af323570e1022df2e164dc9b020692629a786dba8d3be14",
+      "ko": "공중에서 파괴로보와 데몬베인이 교차한다."
+    },
+    {
+      "id": "da0605:T00038",
+      "source_sha256": "deee232520e2949fe2c8c51db5243545ecc037ed85f92852828c7d0201be5ec5",
+      "ko": "「뭐……읏」"
+    },
+    {
+      "id": "da0605:T00039",
+      "source_sha256": "c11d637a997c9f077d7be15cb7559338458c33e4ae474ed04e382ad84e070aaf",
+      "ko": "「훗…… 화려하게 결정지은 것이로구나」"
+    },
+    {
+      "id": "da0605:T00040",
+      "source_sha256": "9ce3898a92cf37824efc1c291e8067da125dbc9772c5b7392c601b5075883bcd",
+      "ko": "데몬베인이 무릎을 꿇고, 착지한다."
+    },
+    {
+      "id": "da0605:T00041",
+      "source_sha256": "6c25e4d015a2bba4585bcd545a0e5d7e9d410249689200c27d759bde3157b65d",
+      "ko": "천천히 일어서는 그 모습은――"
+    },
+    {
+      "id": "da0605:T00042",
+      "source_sha256": "d20aa6a63ff472adf2c622dec15f4a08746e46f0c803779c225caab9d524b18b",
+      "ko": "「완성되어 있잖아――――――――앗!?」"
+    },
+    {
+      "id": "da0605:T00043",
+      "source_sha256": "4ab0bd043d783a6c57fe8368f8878ff92329443c972f530343bbb43eadf9b100",
+      "ko": "「「「에――――――――엣!?」」」"
+    },
+    {
+      "id": "da0605:T00044",
+      "source_sha256": "3fd9004b833191162848472ef37ff7bdecc7e0c50aa8bb3a8268d0756d9b91f9",
+      "ko": "그렇다. 그 모습은, 틀림없이 우리가 알고 있는 데몬베인 바로 그것이었다."
+    },
+    {
+      "id": "da0605:T00045",
+      "source_sha256": "c0d9a3ce8f72f960ac35024ee138f59c88e520e2ad41dce3fdbc7160bf3f844a",
+      "ko": "주위에 부유하고 있던 "
+    },
+    {
+      "id": "da0605:R00003",
+      "source_sha256": "5461d30a804ce645d1361f44d672265ede0fb36d3602d183a40c5f12c2418cf1",
+      "ko": "파츠는",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da0605:T00046",
+      "source_sha256": "c8212ffab25e892cdf92a6097c13a297be6199d50cd2b8023b049027741f729f",
+      "ko": "부품은"
+    },
+    {
+      "id": "da0605:T00047",
+      "source_sha256": "b8ff4819cd18986b232abf1047d4880b57b154f4d467aea068937044f639b9d5",
+      "ko": " 한 치의 오차도 없이 정확히 조립되어, 기체를 완전히 재현하고 있다."
+    },
+    {
+      "id": "da0605:T00048",
+      "source_sha256": "c60a4aae30b08aadf87bfd3f1e130abc5dcfabaebac768cb908348030d4662c8",
+      "ko": "지금의 데몬베인은, 더 이상 『"
+    },
+    {
+      "id": "da0605:R00004",
+      "source_sha256": "88301101c0df921085516f57cea6e83553eddd7c46839d775d1a141977bf0586",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da0605:T00049",
+      "source_sha256": "d94ededfdd015613317a5e2d858e7ed49acf3314d52c7f77ae219458fd34ae25",
+      "ko": "강철"
+    },
+    {
+      "id": "da0605:T00050",
+      "source_sha256": "54cf66d4426f5bac42004662c2a15927a0f3ee2fa87aa80d4485dda25bb122a0",
+      "ko": "의 잔해』가 아니다."
+    },
+    {
+      "id": "da0605:T00051",
+      "source_sha256": "ec2eabc2b50f6b07576a2761da077566317ddc92b32023a65dc120f967d093a8",
+      "ko": "지금의 데몬베인은, 그야말로 『마를 끊는 검』 『"
+    },
+    {
+      "id": "da0605:R00005",
+      "source_sha256": "ba5cc6aa3faed01e4b0e2bc0fb6fc61150d9b3e08de1c40bb0f7334c99299dc5",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da0605:T00052",
+      "source_sha256": "cbf25022620199332bfe298a5b20c1f28d513c3aab0004b97aca4b1fe2467490",
+      "ko": "강철"
+    },
+    {
+      "id": "da0605:T00053",
+      "source_sha256": "d708f9d2782c58fcc69e5950c659d651b059b4938c1ef3540dfb37836972f7f8",
+      "ko": "의 전사』인 것이다!"
+    },
+    {
+      "id": "da0605:T00054",
+      "source_sha256": "7a6d502f65ca0f3cf65b265fc741a9131649d0bc15aa88ea356564e8529db386",
+      "ko": "「후하하하하하!\n이것이 『리폼의 장인』이라 두려움을 샀던 본인의 실력인 것이다아! 어둡고 눅눅했던 거실도, 가족의 미소 넘쳐나는 밝고 청결한 콕핏으로!」"
+    },
+    {
+      "id": "da0605:T00055",
+      "source_sha256": "76e20e2dfc7a33a650a21017949913c7927615aa640a9802d9ce1eb7eb5dc228",
+      "ko": "「극적 비포 애프터버너・\n　오그멘터!」"
+    },
+    {
+      "id": "da0605:T00056",
+      "source_sha256": "463c2f1f8d6ecc6cfe9a8f966d270b2dd4f33eacacfd79d0540701a0c50879b9",
+      "ko": "「해피 바스데이!\n　데몬베인!」"
+    },
+    {
+      "id": "da0605:T00057",
+      "source_sha256": "eb53180c4421a1eb1d937b2c7dd998e7ee5c03bffe63c399b5af1574ddf37066",
+      "ko": "축하받아 봤자."
+    },
+    {
+      "id": "da0605:T00058",
+      "source_sha256": "065a4406246e0f942213ad22052187a12b6bc7e4b8a012e194d0d58ce9dbf0cf",
+      "ko": "「……어째서냐?」"
+    },
+    {
+      "id": "da0605:T00059",
+      "source_sha256": "3b3cfb6e39cc862b34ffab7bf5aab73315352f35b161004d6fbfeb497e434eae",
+      "ko": "「이 닥터 웨스트를 얕보아서는\n　곤란한 것이다아! \n　완전한 상태인 "
+    },
+    {
+      "id": "da0605:R00006",
+      "source_sha256": "ade3e0f425a2c6bd48627306b83699be8080048eeab03b936199bdc5fdb3948c",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da0605:T00060",
+      "source_sha256": "1b3c5e85cc16fa0f2d74a1196c12c86b9b5b03494cb8b7d1f6270cf7641c6787",
+      "ko": "이놈"
+    },
+    {
+      "id": "da0605:T00061",
+      "source_sha256": "35487f3ad49a3719457a640d46114095083b3ed80fe909db388d68b3fec10e98",
+      "ko": "을 쓰러뜨려야만,\n　진정한 승리라 할 수 있는 법!」"
+    },
+    {
+      "id": "da0605:T00062",
+      "source_sha256": "304e4c7890f1eadd3835743557a73468d1299fcf91eebcc1726f394b836c451d",
+      "ko": "이런 전개, 이제는 편의주의조차 아니다."
+    },
+    {
+      "id": "da0605:T00063",
+      "source_sha256": "c262170d9e3ab42b4b593c3c97034899a6299eb220675486396f244dea552131",
+      "ko": "「자, 그럼 다시 한번!\n　정정당당히 승부……」"
+    },
+    {
+      "id": "da0605:T00064",
+      "source_sha256": "946b910b92266703ddc90c5d0230e505f8793f6230f52aa91c7453fe24c731e5",
+      "ko": "「――이그나이이이이이이이이!」"
+    },
+    {
+      "id": "da0605:T00065",
+      "source_sha256": "b211a31852abed5cee3ba9283e66fd1b636a80925bbd46cdb7d2b66397a240b7",
+      "ko": "「으아아아아아아아아아아!?」"
+    },
+    {
+      "id": "da0605:T00066",
+      "source_sha256": "9fcf24fd1e85f5739d29c255185a3448558c8624c1823ecb761240311a3b3750",
+      "ko": "「로보오오오오오오오오오!?」"
+    },
+    {
+      "id": "da0605:T00067",
+      "source_sha256": "209a77830453fa131ecceba5901c9cf0281f0edc9110a04cb31ca5fdb912fad5",
+      "ko": "「오─. 당하고 있네, 당하고 있어」"
+    },
+    {
+      "id": "da0605:T00068",
+      "source_sha256": "42409ed706889f291d317542e93e9ec4bae5ec97613e2637340bac0cd3e32627",
+      "ko": "기습을 당해, 분노로 날뛰는 웨이틀리가 파괴로보에게 덮쳐들었다."
+    },
+    {
+      "id": "da0605:T00069",
+      "source_sha256": "a94ecbaa7baf66974e045f7afd45e823732b16f25b4b3959435897eb3c0d5792",
+      "ko": "『사신 권속에게 마운트 포지션으로 두들겨 맞는 고철』이라는 광경은, 이성을 상실할 정도로 초현실적이다."
+    },
+    {
+      "id": "da0605:T00070",
+      "source_sha256": "a72139c428b68de6d4c0a4c8dd30dd2395e3c67c26c8f196ec97d66bd7f58ade",
+      "ko": "「아─. 그래도 덕분에 싸울 수 있겠네」"
+    },
+    {
+      "id": "da0605:T00071",
+      "source_sha256": "983bbe446b50296fca22ad0b69236b1e7497829d4fb91a444acd6f43581a8436",
+      "ko": "「그렇군」"
+    },
+    {
+      "id": "da0605:T00072",
+      "source_sha256": "c34d420584ae4423ad6db05f811919c29b78f54b02bc431708e55551e4462728",
+      "ko": "「그, 거시기냐. 저대로 내버려 두는 건 뒷맛이 영 씁쓸하니, 구해 줄까……」"
+    },
+    {
+      "id": "da0605:T00073",
+      "source_sha256": "983bbe446b50296fca22ad0b69236b1e7497829d4fb91a444acd6f43581a8436",
+      "ko": "「그렇군」"
+    },
+    {
+      "id": "da0605:T00074",
+      "source_sha256": "9a739678b445a5c37be13ec41cb525cda2c0c599b06405c42e3097d53ea05358",
+      "ko": "전송식이 기동한다."
+    },
+    {
+      "id": "da0605:T00075",
+      "source_sha256": "cd2d65fb505114e99002a9e39414631cb33a7497ca9c3c7872886c35e468f626",
+      "ko": "우리는 빛에 휩싸였다."
+    },
+    {
+      "id": "da0605:T00076",
+      "source_sha256": "ee3529199babfa2db1cca88d83477f3b336a0f71f22830e9e80fae2928e9aed5",
+      "ko": "존재 자체가 마술 정보로 치환되어 간다."
+    },
+    {
+      "id": "da0605:T00077",
+      "source_sha256": "d9d31f3bda1d96b684cf7b33304d15a950dfbca31eb748b343a786db73a7e1b6",
+      "ko": "「좋았어…… 간다, 알!」"
+    },
+    {
+      "id": "da0605:T00078",
+      "source_sha256": "983bbe446b50296fca22ad0b69236b1e7497829d4fb91a444acd6f43581a8436",
+      "ko": "「그렇군」"
+    },
+    {
+      "id": "da0605:T00079",
+      "source_sha256": "df7dceb3de428ad3dcb2d885dc65c6a1c9c4da464f59476f8252efaac391aa98",
+      "ko": "의욕 좀 내라."
+    }
+  ],
+  "issues": [
+    {
+      "id": "da0605:R00001",
+      "kind": "ruby_handling",
+      "note": "Redundant Japanese kun-reading 'まち' on kanji '市'. Marked omit_redundant."
+    },
+    {
+      "id": "da0605:R00002",
+      "kind": "ruby_handling",
+      "note": "Redundant Japanese kun-reading 'こやつ' on kanji '此奴'. Marked omit_redundant."
+    },
+    {
+      "id": "da0605:R00004",
+      "kind": "ruby_handling",
+      "note": "Redundant Japanese kun-reading 'はがね' on kanji '鋼鉄'. Marked omit_redundant per guidelines."
+    },
+    {
+      "id": "da0605:R00005",
+      "kind": "ruby_handling",
+      "note": "Redundant Japanese kun-reading 'ハガネ' on kanji '刃金'. Marked omit_redundant per guidelines."
+    },
+    {
+      "id": "da0605:R00006",
+      "kind": "ruby_handling",
+      "note": "Redundant Japanese kun-reading 'こやつ' on kanji '此奴'. Marked omit_redundant."
+    }
+  ]
+}

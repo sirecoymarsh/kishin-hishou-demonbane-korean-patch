@@ -1,0 +1,786 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0055_da0501",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0501:T00001",
+   "source_sha256": "fcbd550c8dfe3d607103ba7186528525bf0f84bad79d5bbd778988ba1d6ebc98",
+   "ko": "「이럴 수가…… 내가……\n　이 내가……」"
+  },
+  {
+   "id": "da0501:T00002",
+   "source_sha256": "7db0063541457578293dfcfe496188a427a128947249a28372b91750495d649b",
+   "ko": "「안 되겠네. 『불가』네. 낙제네」"
+  },
+  {
+   "id": "da0501:T00003",
+   "source_sha256": "045a3b31bc7606c707f517ed639995dad324666d90ccae813e7a14f4dc1b76a4",
+   "ko": "「그래, 유감이지만 학점은 줄 수 없겠군」"
+  },
+  {
+   "id": "da0501:T00004",
+   "source_sha256": "26057703097b0020f6e57dd820113770d88f68d6586f1213f1bf1c3dfea2fba9",
+   "ko": "「젠장…… 젠장……\n　젠자아아아아아앙!」"
+  },
+  {
+   "id": "da0501:T00005",
+   "source_sha256": "e3106b9ee2d15ff1a5bbc404d621150777bac58b45df41e0f966b7e6b034a775",
+   "ko": "암브로시우스에게 격추당한 로드 비야키는 공중에서 폭사했다."
+  },
+  {
+   "id": "da0501:T00006",
+   "source_sha256": "f4b8b562e93ea56e9106b7d14073b0f61e06ffc3cf1689b1d3d446757f2b7ea7",
+   "ko": "폭발은 순식간에 핏빛 "
+  },
+  {
+   "id": "da0501:R00001",
+   "source_sha256": "33439ddb0f66823471fcc299d5d5f75aa20a1470e5cc0d7bb310dbe5b1609c6d",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0501:T00007",
+   "source_sha256": "1f828276b921aa107500f6e9151332285e78eb3c2fd98302107a1970352e1742",
+   "ko": "색채"
+  },
+  {
+   "id": "da0501:T00008",
+   "source_sha256": "869783dc2208113ec6b02619586f7cfc874f0acc2c1fa291ffe2e21d1ad482f4",
+   "ko": "로 물든다."
+  },
+  {
+   "id": "da0501:T00009",
+   "source_sha256": "ea19d9cc6dcc54d40918026d4b6ab07e87e92f250ef75db9f4eed800e9b050ac",
+   "ko": "사방으로 흩어지는 잔해도, 폭염도, 모든 것이 혈풍으로 변해 대기 속으로 사라진다.\n\n　하늘에 피의 큰 꽃이 피어난다."
+  },
+  {
+   "id": "da0501:T00010",
+   "source_sha256": "6ba0ba8ebe16cf39352ab287e4aebdd2e9716c3b937c865b45ecd699789c7e7d",
+   "ko": "뒤에는 아무것도 남지 않는다. 남기지 않는다."
+  },
+  {
+   "id": "da0501:T00011",
+   "source_sha256": "46707678c621d40577beeab9f37a37a805eb64f08f229e18949fc4463bac7e9c",
+   "ko": "꿈은 그저 꿈으로 흩어져 사라질 뿐이다."
+  },
+  {
+   "id": "da0501:T00012",
+   "source_sha256": "3e863e49f8f7e29d0e2eea369e2003b15f14dc1aae3cddc650acfcd109952d30",
+   "ko": "「우선은 정리가 되었군」"
+  },
+  {
+   "id": "da0501:T00013",
+   "source_sha256": "1154878ba7da3de0a9eb23c62dbc22a5ad7ce3f2557ac077f2d55f1cb2f38ff3",
+   "ko": "슈루즈베리 "
+  },
+  {
+   "id": "da0501:R00002",
+   "source_sha256": "8abe22c91f0939b6aab3db77f86d607dd7063710622f9cd851250b3a7e367dbc",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0501:T00014",
+   "source_sha256": "cd98e43da31bb1b90dc152851c85c7d266d47ba97bc5ff7bd137c5920429d467",
+   "ko": "선생"
+  },
+  {
+   "id": "da0501:T00015",
+   "source_sha256": "549d9e1d913688f217451e3abbe766c254824cb08ac8d908ca841be24666f0dc",
+   "ko": "의 기체가 내려온다."
+  },
+  {
+   "id": "da0501:R00003",
+   "source_sha256": "73ac229cabfac277c315b4b0d1eb76959473af07f58c11d00bb82a06b250745a",
+   "ko": "데우스 마키나",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0501:T00016",
+   "source_sha256": "762524a979d84688362b8dc00d54c75a1be10d7917ed188fd55985924c885e49",
+   "ko": "귀계신"
+  },
+  {
+   "id": "da0501:T00017",
+   "source_sha256": "590a58822ed0bc7d3e84676d7fc29f140141745acc9ef8a85ffcfbbd4d239b2e",
+   "ko": " 암브로시우스……인가."
+  },
+  {
+   "id": "da0501:T00018",
+   "source_sha256": "33d82397099450cbbb90acb8ff238ba9b4f1e8cea50e94e5619aa062e73be61d",
+   "ko": "확실히 로드 비야키보다도 복잡한 구조를 하고 있는 모양이다.\n\n　암브로시우스는 데몬베인 투 소드의 옆에 착지했다."
+  },
+  {
+   "id": "da0501:T00019",
+   "source_sha256": "18ab0fc3cf2355f2d8348d34df40656d9dbc4ed7c1d511d56952d451a28da066",
+   "ko": "「자네도 수고했네」"
+  },
+  {
+   "id": "da0501:T00020",
+   "source_sha256": "f63e338a9fae446f20ae3d105f2318d7c4d921eff8749a1d9931f4bd94dd5f65",
+   "ko": "「…………」"
+  },
+  {
+   "id": "da0501:R00004",
+   "source_sha256": "faad4663917e9f697861dd8f8351f4b75876f086445f4735d2e147048b1329b2",
+   "ko": "데몬베인",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0501:T00021",
+   "source_sha256": "95bb4bf9e0cb9833241f2b9ca7cc29ba1801b8dffa484776b08785863917406d",
+   "ko": "D"
+  },
+  {
+   "id": "da0501:T00022",
+   "source_sha256": "2ffeafefb0cba1b2ce1d852273b70e747387391cac80f540b3ae53dcbca25d38",
+   "ko": " 투 소드는 아까부터 미동조차 하지 않는다."
+  },
+  {
+   "id": "da0501:T00023",
+   "source_sha256": "5e0ab9b10cd97a704673eb7e2592215f1bd0b4a645136a34e7d27dd2ffcdb843",
+   "ko": "트러블이라도 있었던 걸까."
+  },
+  {
+   "id": "da0501:T00024",
+   "source_sha256": "7b5221c835270be286a22b54e147cc7c0155ed530e413f43c746bcf5b8b32e3f",
+   "ko": "「……왜 그러나?」"
+  },
+  {
+   "id": "da0501:T00025",
+   "source_sha256": "18d38c9c049d731f82d0a6bb12c0871d1ed5af15f39fc67587c5251a619e3681",
+   "ko": "「――온다」"
+  },
+  {
+   "id": "da0501:T00026",
+   "source_sha256": "9913dd6bd4fb69c3cc28dd2227736ac4dcb3c372a536a48546adb3eadc164f68",
+   "ko": "「……뭐라?」"
+  },
+  {
+   "id": "da0501:T00027",
+   "source_sha256": "49ae4f00f07642893a95bf7e0f67e11238603a70792fc0edf098f36469bc5257",
+   "ko": "아컴 시티가 흔들리고 있었다."
+  },
+  {
+   "id": "da0501:T00028",
+   "source_sha256": "df203a136c39653681411da57c19edcf33c7d71dcd7d779aba7c08fe26579dbb",
+   "ko": "마치 이제부터 나타날 강대한 무언가에 두려워하며 "
+  },
+  {
+   "id": "da0501:R00005",
+   "source_sha256": "b95f35b771688da93e2f90ede90b2c8d8caa8bc9e8c7ff7b3448c85233bee856",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0501:T00029",
+   "source_sha256": "24f88cde34722efe9347e9f489574bd7ca0da0088ae0049720207388053490fd",
+   "ko": "전율하"
+  },
+  {
+   "id": "da0501:T00030",
+   "source_sha256": "81b4c100e1caa166077383495486231e3094cc5eb8a6664609c2872fb71878c3",
+   "ko": "듯이."
+  },
+  {
+   "id": "da0501:T00031",
+   "source_sha256": "b09f6cdb968031f989186d3cb6d83352294e82ac3353b6f18a10247766723f21",
+   "ko": "「……다음 여흥거리는 뭐냐, 제기랄!」"
+  },
+  {
+   "id": "da0501:T00032",
+   "source_sha256": "cb9985e584ef6decedc2633a5e6d5374a7e5fe4b37495547efda4a1c3e8a4bbd",
+   "ko": "「이…… 기척은!」"
+  },
+  {
+   "id": "da0501:T00033",
+   "source_sha256": "e58bdfe09c5b886f971d31e8ecb62b6292e5eea8d5fcc99175b4aab971045d36",
+   "ko": "「아는 거냐!?」"
+  },
+  {
+   "id": "da0501:T00034",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0501:R00006",
+   "source_sha256": "2cf9e21f8ca6f3b86ca5be0eb392994be2a9799b1f2c162099efa48eea901774",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0501:T00035",
+   "source_sha256": "3ab61458dc74353d1607a03f149f546869898f2e6addfef5f4c60d57bdc55be9",
+   "ko": "위험"
+  },
+  {
+   "id": "da0501:T00036",
+   "source_sha256": "da248d5ca1f372c97774c15549b9395c39437ae12423fb9f78fece1efa9928ad",
+   "ko": "하다!　도망쳐라!」"
+  },
+  {
+   "id": "da0501:T00037",
+   "source_sha256": "5bb0f4fecfc9b4d9d4f8f169f916de9a63361b0427f9a65c0cd9226277fe87a0",
+   "ko": "「――――!」\n\n　알이 외치는 것과 동시에, 무시무시한 위기감이 내 심장을 압박했다."
+  },
+  {
+   "id": "da0501:T00038",
+   "source_sha256": "3f52a0db0c3502f59bb5bf84e6abc7a1c62b8739eece2c043af76fe457439d2f",
+   "ko": "생각하기보다도 빠르게 마기우스 윙으로 전신을 감싸고, 그 위에서 겹겹이 "
+  },
+  {
+   "id": "da0501:R00007",
+   "source_sha256": "80a0290143fe810ab5d3144e8c46b9c5c95271561946f54eeeaf49691e6147d8",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0501:T00039",
+   "source_sha256": "28c5e5e8a4fed78d58d153df02d85307fee452932637a7f09278f3903dd496d2",
+   "ko": "방어"
+  },
+  {
+   "id": "da0501:T00040",
+   "source_sha256": "9f67a83eabc4912055cd9fa5befdca76ba55e4430095d1f09cb6a45d0fd184f1",
+   "ko": " 결계를 친다."
+  },
+  {
+   "id": "da0501:T00041",
+   "source_sha256": "b5bad90a32ba95f5787508b6e91ff442bee8a890b1ab0eb2099480ceebaa3435",
+   "ko": "「크아아아아아!」"
+  },
+  {
+   "id": "da0501:T00042",
+   "source_sha256": "59211a030453e361ab7629682a8a194acee5f90cf8162e661865811ece87e6bf",
+   "ko": "고농도의 독기가 격진을 동반하며 이 일대를 덮쳤다."
+  },
+  {
+   "id": "da0501:T00043",
+   "source_sha256": "acb261e2ab3d84ba3172186c47a480f2b85fd80687df1a2726da449f1aa4f900",
+   "ko": "주위의 건조물이 썩어 문드러지며 무너져 내린다."
+  },
+  {
+   "id": "da0501:T00044",
+   "source_sha256": "c2b1a91bc4c68e29bd06eeef1fcfc0148575885295be040e01ba8fc410394a1a",
+   "ko": "이 녀석은……!"
+  },
+  {
+   "id": "da0501:T00045",
+   "source_sha256": "077a3a3052c3c02970ca066dc1ba26928dd035e9f912d787546d81ba08ce5dab",
+   "ko": "우리의 머리 위, 하늘이 부서졌다."
+  },
+  {
+   "id": "da0501:T00046",
+   "source_sha256": "531d08b0db055827118bb6fb7905c1eef934924bc0f17866416942aad6ecca7a",
+   "ko": "공간에 뚫린 구멍에서 검붉은 타르 덩어리가 뚝뚝 흘러내린다."
+  },
+  {
+   "id": "da0501:T00047",
+   "source_sha256": "c1ab62d2079b8fb212ac6a98e535d9f7659b1979f06e16e30dee0d41a1306bf3",
+   "ko": "부정한 "
+  },
+  {
+   "id": "da0501:R00008",
+   "source_sha256": "08e4eab631b664178c7939fd30e4c93ffd12f8c2fd66eca843e762613efd67b4",
+   "ko": "타르는",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0501:T00048",
+   "source_sha256": "e1e0d1d51104d3e16396f1d33347fb4455b06bea8e44bb1fd4aaef5a4b26557b",
+   "ko": "점액은"
+  },
+  {
+   "id": "da0501:T00049",
+   "source_sha256": "312c0ad58e9260b3f813deeb860662fc3e764d2362a206ae15475571fbbe5320",
+   "ko": " 거리를 집어삼키면서 이쪽을 향해 밀려\n들어온다."
+  },
+  {
+   "id": "da0501:T00050",
+   "source_sha256": "6763466dddb774dd14d5fcc5f72898bbfa310b4d3de602735d684a435a49d8d9",
+   "ko": "「우와와왓」"
+  },
+  {
+   "id": "da0501:T00051",
+   "source_sha256": "20f7aa37b2965d7e6ae42d9850d01007dc32628c2ca63f6c01f1802ee8d9c8d8",
+   "ko": "「샨타크!」"
+  },
+  {
+   "id": "da0501:T00052",
+   "source_sha256": "015ff7305966c272cb10fcf20fbfaeec69765ba8f74f9ee65fec5d66251d90e3",
+   "ko": "2대의 "
+  },
+  {
+   "id": "da0501:R00009",
+   "source_sha256": "73ac229cabfac277c315b4b0d1eb76959473af07f58c11d00bb82a06b250745a",
+   "ko": "데우스 마키나는",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0501:T00053",
+   "source_sha256": "762524a979d84688362b8dc00d54c75a1be10d7917ed188fd55985924c885e49",
+   "ko": "귀계신은"
+  },
+  {
+   "id": "da0501:T00054",
+   "source_sha256": "49a6fb7de0cfc31afa3486332389a29a690cb01943d7fdbde3b543de98741e6e",
+   "ko": " 비상하여 쏟아져 들어오는 점액에서 벗어난다."
+  },
+  {
+   "id": "da0501:T00055",
+   "source_sha256": "3c628c0b06e953af624333b0e0f5473d1b29374cd0d34423fd4968b5b34a27ab",
+   "ko": "하지만, 그러나."
+  },
+  {
+   "id": "da0501:T00056",
+   "source_sha256": "0c507d6107825b36791d1cfcbebca40d7aa9854dd4d43df73d920b1b86ecc7a2",
+   "ko": "「크으으윽!?」"
+  },
+  {
+   "id": "da0501:T00057",
+   "source_sha256": "5325c84d156bbab903e3e723d161040e44cf00a6aefd37450de3d1868b3842aa",
+   "ko": "「아뿔싸!」"
+  },
+  {
+   "id": "da0501:T00058",
+   "source_sha256": "209ab43ed87d91665b427cea18e3d093246e9d8d9a223a7cb772049513807383",
+   "ko": "부정의 바다에서 무수한 검붉은 촉수가 뻗어 나와 "
+  },
+  {
+   "id": "da0501:R00010",
+   "source_sha256": "faad4663917e9f697861dd8f8351f4b75876f086445f4735d2e147048b1329b2",
+   "ko": "데몬베인",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0501:T00059",
+   "source_sha256": "95bb4bf9e0cb9833241f2b9ca7cc29ba1801b8dffa484776b08785863917406d",
+   "ko": "D"
+  },
+  {
+   "id": "da0501:T00060",
+   "source_sha256": "777241553e24acab7d6064502970b9208869fbc46895b8c5bc9a83f1381c86f8",
+   "ko": " 투 소드를,\n암브로시우스를 구속했다.\n\n　둘 다 벗어나려고 발버둥 치지만, 촉수에 의한 구속은 단단하여 떨쳐낼 수 없다."
+  },
+  {
+   "id": "da0501:T00061",
+   "source_sha256": "f4433cd72dc55509dc06e664a506fa44a14c56d6d4f40b99d63088b1ffb51054",
+   "ko": "이 촉수는 "
+  },
+  {
+   "id": "da0501:R00011",
+   "source_sha256": "73ac229cabfac277c315b4b0d1eb76959473af07f58c11d00bb82a06b250745a",
+   "ko": "데우스 마키나",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0501:T00062",
+   "source_sha256": "762524a979d84688362b8dc00d54c75a1be10d7917ed188fd55985924c885e49",
+   "ko": "귀계신"
+  },
+  {
+   "id": "da0501:T00063",
+   "source_sha256": "4fce1003bc9cc8f087b069d20dc3e65c3c76bf955c49983d99a309fbf9edbd1e",
+   "ko": "마저도 웃도는 파워를 지니고 있는 것이다!"
+  },
+  {
+   "id": "da0501:T00064",
+   "source_sha256": "83d063914b2f0176fe05e77f799a017dd86624ee81828a73c84c055910947c35",
+   "ko": "「와와와, 위험해.\n　위험해, 대디!」"
+  },
+  {
+   "id": "da0501:T00065",
+   "source_sha256": "35dee728decce3061672713aedc6584d8d9af95d30aebfe040326f7aa47429c4",
+   "ko": "「네 이놈!」"
+  },
+  {
+   "id": "da0501:T00066",
+   "source_sha256": "0f86e3ba088addb6ec2346b347586ecef1f374b565002d5faad590c36840378b",
+   "ko": "「하하하…… 하하하하하……\n　아하하하하하하하하하하하!」"
+  },
+  {
+   "id": "da0501:T00067",
+   "source_sha256": "4899956e124545451d4606373f65cb5969adafd6496909930c0cc13b5cb0ba11",
+   "ko": "「이 목소리!」"
+  },
+  {
+   "id": "da0501:T00068",
+   "source_sha256": "dd79d4b856ff3196eaa6bad37455bd6ac0bb3b89e5f2d9941f50843de3f144d3",
+   "ko": "「그…… 여자인가……!」"
+  },
+  {
+   "id": "da0501:T00069",
+   "source_sha256": "71953978f1045ba37f27495f6a9be7ae1473fd8b46fc319e5cefbfb4dd01a45e",
+   "ko": "「어나더 블러드!」"
+  },
+  {
+   "id": "da0501:T00070",
+   "source_sha256": "89637562621d02fefad02bd6702a243273278e86454a8ee9f16853130cdd9a13",
+   "ko": "하늘에 열린 시공의 구멍에서 끔찍한 악취가 흘러들어왔다."
+  },
+  {
+   "id": "da0501:T00071",
+   "source_sha256": "015ff7305966c272cb10fcf20fbfaeec69765ba8f74f9ee65fec5d66251d90e3",
+   "ko": "2대의 "
+  },
+  {
+   "id": "da0501:R00012",
+   "source_sha256": "73ac229cabfac277c315b4b0d1eb76959473af07f58c11d00bb82a06b250745a",
+   "ko": "데우스 마키나를",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0501:T00072",
+   "source_sha256": "762524a979d84688362b8dc00d54c75a1be10d7917ed188fd55985924c885e49",
+   "ko": "귀계신을"
+  },
+  {
+   "id": "da0501:T00073",
+   "source_sha256": "677e3d5fa29994a57984d77d5e94ffa80ca9e6a3d20a0e36ab643a1341ad5dc9",
+   "ko": " 붙잡은 것과는 또 다른 촉수가 『저편』에서\n흘러넘친다.\n\n　그리고 그 진홍의 소녀 또한 함께 모습을 드러냈다."
+  },
+  {
+   "id": "da0501:T00074",
+   "source_sha256": "481100233412f78dcc480140d057eab19e48d06e32db10021e6a1b11603a8a81",
+   "ko": "피의 안개로 엮은 나비의 "
+  },
+  {
+   "id": "da0501:R00013",
+   "source_sha256": "77abd285bec02007735173103c5b167f4efee925b108657f748e1e0432d3244c",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0501:T00075",
+   "source_sha256": "ad282c13860b1e1d4dc25527a04fb35ff592b6732f9308c71e0ce9fe259a7b5e",
+   "ko": "날개"
+  },
+  {
+   "id": "da0501:T00076",
+   "source_sha256": "97e503d8cdbe7df1d8da48474a2eead9f78dde3a8ff03964e7a38464ecf47fe4",
+   "ko": "를 퍼덕이며."
+  },
+  {
+   "id": "da0501:T00077",
+   "source_sha256": "e66f6851f6534aa9e5b882b860e84a889818b6a6a912d774b1c922d42458d054",
+   "ko": "「열심히 하네, 다들. 너무 열심히들 하니까 나도 조금은 진심을 내야만 하게 됐잖아」"
+  },
+  {
+   "id": "da0501:T00078",
+   "source_sha256": "b61369695588128bb8c7004dcb1411a57c2d8811e98d66707ab5b506c670c53e",
+   "ko": "「네 이노오오오오오옴!」"
+  },
+  {
+   "id": "da0501:T00079",
+   "source_sha256": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+   "ko": "1"
+  },
+  {
+   "id": "da0501:T00080",
+   "source_sha256": "7104f554649e86db41c04aaa0dc630b3c021310f6fa50d8be9a23b76fd86e128",
+   "ko": "샨타크가 폭풍을 뿜어내며 출력을 올린다."
+  },
+  {
+   "id": "da0501:T00081",
+   "source_sha256": "66f94690c6634ba2a3a28173d5b4837fe938f545de63c004bb645538264fe265",
+   "ko": "하지만 그런데도 촉수를 떨쳐낼 수 없다."
+  },
+  {
+   "id": "da0501:T00082",
+   "source_sha256": "b3f8a873fcc9bec970797de691f142cfd72b3af815d50ca09f521def7d3bc817",
+   "ko": "「그 녀석은 『즈아위아』――아마존의 『신이 포효하는 숲』이라 불리는 비경에 사는, "
+  },
+  {
+   "id": "da0501:R00014",
+   "source_sha256": "b34cc9b424270a797f120fcc1c8c497d805f6c5d72257c1d26898321e55548fd",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0501:T00083",
+   "source_sha256": "081a3f6c063f563051b41145e8624be44c65b18bc6ecb082225fb5b4436e05a7",
+   "ko": "끔찍"
+  },
+  {
+   "id": "da0501:T00084",
+   "source_sha256": "59d1fb96c507b14a1e86017cd5513dc3fef7c8ba9af2d0c169cfbd260728ce41",
+   "ko": "하게도 퇴화한 수인들에게 숭배받던 존재」"
+  },
+  {
+   "id": "da0501:T00085",
+   "source_sha256": "3eedb79d2ca4f493741b15e42c3908040f4fc330f4078fd1187c9d36f8b1d7b5",
+   "ko": "「그래…… 이래 봬도 일단은,\n　훌륭한 신님이란다?」"
+  },
+  {
+   "id": "da0501:T00086",
+   "source_sha256": "41cc8105b48c182f920e245386d969c2f62c8ec30af4acf0aaeaf628964ab23b",
+   "ko": "「신…… 신이라고?　확실히 그렇군……\n　하지만 이계의 신이다. 사신(邪神)이다!」"
+  },
+  {
+   "id": "da0501:T00087",
+   "source_sha256": "03e668735cbb52254e2da31601230f1163dfaefa3f7e9beada1e913daedccb24",
+   "ko": "「그 말씀대로예요. "
+  },
+  {
+   "id": "da0501:R00015",
+   "source_sha256": "62f083b66f85bb7e91aeeefb564b5a6991560448a77d686a51788b9945d35e81",
+   "ko": "오리지널",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0501:T00088",
+   "source_sha256": "4da921e3249cf37f25e9927129f9bd2d5bb5d89489adb525d35aa2d7c84b9452",
+   "ko": "어머님"
+  },
+  {
+   "id": "da0501:T00089",
+   "source_sha256": "b8e3235b18a4d98b8060a72d4be747422e636f64adf694ca64c45f4f4bb7c6e6",
+   "ko": ",\n　당신이 잘 알고 있는 것이죠」"
+  },
+  {
+   "id": "da0501:T00090",
+   "source_sha256": "4e9b8337f8e93844b3f3d18c05804b58b36ca3bde57bce4002c38beaae7f3010",
+   "ko": "「게다가…… 탐정님도」"
+  },
+  {
+   "id": "da0501:T00091",
+   "source_sha256": "1e4654b08b592c8767ac1d1b20e58fd03553918f53a1831448a9bdac6d638aa8",
+   "ko": "「내가……」"
+  },
+  {
+   "id": "da0501:T00092",
+   "source_sha256": "ccaf927dae4114a8c29821b4a7835a0589abbb9685a4bca128dae1a9810c883d",
+   "ko": "「『유혈기도서』에 기록된\n　선혈신――후후, 같은 『피』\n　의 속성을 지닌 만큼, 나와는\n　상성이 좋다니까」"
+  },
+  {
+   "id": "da0501:T00093",
+   "source_sha256": "6a97be9abc32888b0abd2f9d156a5ddd3ec673cef183f9125af66e2aad3beb39",
+   "ko": "「즈아위아는 존재하지 않는다!\n　일그러진 인과는 끊어졌단 말이다!」"
+  },
+  {
+   "id": "da0501:T00094",
+   "source_sha256": "19fe1e9c3c4fb9401891f7a8b52afb484413c456203797eb1d46a09447ae0a7d",
+   "ko": "「그래!　우리는 원념이다!\n　존재를 부정당한 "
+  },
+  {
+   "id": "da0501:R00016",
+   "source_sha256": "d678372d713747469b10f4792cf13db56b08c0d18951f29918223489534c676a",
+   "ko": "고스트",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0501:T00095",
+   "source_sha256": "b6aecca8507e0f185f035894ed2db6d2f96d191b077e2c8fb6939e48225ff4e5",
+   "ko": "망령"
+  },
+  {
+   "id": "da0501:T00096",
+   "source_sha256": "e1d6a73562c1be1b619d9a11352a4d52f1c0a7c0edeb7e4002d0d743eddb7ba5",
+   "ko": "의 원념이다!」"
+  },
+  {
+   "id": "da0501:T00097",
+   "source_sha256": "ffffb21db70662112ddfe3a9e0e3fb84fa0d7f6ca79d288af18cdda6ca151ffb",
+   "ko": "「우오오오오오오오오오!」"
+  },
+  {
+   "id": "da0501:T00098",
+   "source_sha256": "d6b0141fa42d25dcadcccb2f70c0d8d615bd86853b5cea8b4a0835fe897f34e2",
+   "ko": "쿠자쿠가 포효한다."
+  },
+  {
+   "id": "da0501:T00099",
+   "source_sha256": "2e90ce9f82da9d1536b563965d0e565787becc72e4bf89cdbaa02970516d963d",
+   "ko": "샨타크는 눈부실 정도의 "
+  },
+  {
+   "id": "da0501:R00017",
+   "source_sha256": "a6ab4547fdaedad1f911a4f07e861f3185fd716902a06a072f88038cb9cf2580",
+   "ko": "에너지를",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0501:T00100",
+   "source_sha256": "522148a1fdcc951dab73d60402911ecae0316c63ca4da1659694d251661570bc",
+   "ko": "마력을"
+  },
+  {
+   "id": "da0501:T00101",
+   "source_sha256": "146f845e60e30db2d5c3ce7017bb4582c0895437e5daa1e3e5500707869baa7d",
+   "ko": " 발하고 있지만, 촉수의 구속은 단단하다."
+  },
+  {
+   "id": "da0501:T00102",
+   "source_sha256": "c38a6c496fca1811f0b9f7f218a85f4840daeca1b02a99eab9178805f30ef0ca",
+   "ko": "속이 끓었는지, 이어서 다리 실드가 빛을 발하기 시작한다."
+  },
+  {
+   "id": "da0501:T00103",
+   "source_sha256": "ba97f4bf8045592f09d65d16d7e53127fbcdcc57bad67f1b54c69834864c0a7c",
+   "ko": "「단쇄술식 1호 티마이오스!\n　2호 크리티아스!　해방!」"
+  },
+  {
+   "id": "da0501:T00104",
+   "source_sha256": "db961858a6edf517ea28c65278f4c178e02dd962d52b016b4c15f6424dad490a",
+   "ko": "시공간 왜곡의 반작용으로 인해 보랏빛 번개가 솟구친다."
+  },
+  {
+   "id": "da0501:T00105",
+   "source_sha256": "a02a456806b3193873302afa2544f89ee24321453be08ef6c22952847c2b1d03",
+   "ko": "다리 실드의 출력은 급격히 상승하고, 그에 비례하여 전격은\n미친 듯이 날뛴다.\n\n　극한까지 높아진 에너지가 해방된다――"
+  },
+  {
+   "id": "da0501:T00106",
+   "source_sha256": "86a475eefe3f61855ae5d280b0ea35b54f721a5c1d01eea42211bd122d2693c7",
+   "ko": "「아틀란티스 스트라이크!」"
+  },
+  {
+   "id": "da0501:T00107",
+   "source_sha256": "29892f9ce3ebf8372dbacd9ed539ea92240bcb12216a7a0b585887b11a033e5d",
+   "ko": "공격의 화살을 자신에게 돌린 시공간 왜곡 에너지의 폭발."
+  },
+  {
+   "id": "da0501:T00108",
+   "source_sha256": "361006e004fca5d8af0fdc43a6e173a88a80f7fa32d203397b1e3f46d38ecbc1",
+   "ko": "검붉은 바다가 터져 나가고 촉수가 갈기갈기 찢겨 날아갔다.\n\n　물론 D 투 소드도 무사하지는 않다."
+  },
+  {
+   "id": "da0501:T00109",
+   "source_sha256": "8ed85f9d03ee19e783f9b4a48812aca6f964c81547cde4598fa8bb6eafdac495",
+   "ko": "장갑은 금이 가고 벗겨져 떨어졌으며, 다리 부분은 폭발과 부하로 인해\n꺾여 버려 쓸모가 없을 것 같았다."
+  },
+  {
+   "id": "da0501:T00110",
+   "source_sha256": "8760227f5f3a6a8030e223e88154cf156a67fa225876983eb30a0ded316cb152",
+   "ko": "「……무슨 저런 무모한 짓을」"
+  },
+  {
+   "id": "da0501:T00111",
+   "source_sha256": "404ae2ad902403b478f71f74878f2d7ba300f2e3356dd1352400f0c495a07e56",
+   "ko": "「……판박이로군」"
+  },
+  {
+   "id": "da0501:T00112",
+   "source_sha256": "c7daf66a4da4d6d21ce6983398af598052befc36e1cdf648a9bc7fdcd30e59a4",
+   "ko": "「누구랑?」"
+  },
+  {
+   "id": "da0501:T00113",
+   "source_sha256": "65f4cf85237c84b5aaff077c32206241b8d906796a624c08e05d4ecd7541faf5",
+   "ko": "「그대와 말이다」"
+  },
+  {
+   "id": "da0501:T00114",
+   "source_sha256": "5f7a2daf00b8e430e691a24e343d108e534fe017f31504a363ca18381ddd9820",
+   "ko": "「어나더어어어어어어\n　블러드으으으으으으윽!」"
+  },
+  {
+   "id": "da0501:T00115",
+   "source_sha256": "baa530ed980c6aa1fddc93f17b68c97104be1f2a96ddcdbfb3020e422a615302",
+   "ko": "부러진 다리는 아랑곳하지 않고 샨타크를 분사하며 진홍의 소녀에게 돌격한다."
+  },
+  {
+   "id": "da0501:T00116",
+   "source_sha256": "a5145cde7d5e64b2c1c8e076d7b9f2884370e9249bde90e018a79be99c72f5ac",
+   "ko": "날면서 양손에 쥔 로이거, 차르를 내리치려다가,"
+  },
+  {
+   "id": "da0501:T00117",
+   "source_sha256": "0689875b38ef8c7270f113863b133281621aae11d5bee662a3e1a85ef7883aa1",
+   "ko": "「무르구나, 기사공」"
+  },
+  {
+   "id": "da0501:T00118",
+   "source_sha256": "f87fcd2113adff702f8131098a97510ef939e2523318e1614346bcca5844795a",
+   "ko": "늦었다."
+  },
+  {
+   "id": "da0501:T00119",
+   "source_sha256": "1422cad0a00c92bb8c63f66928e792570f00c53e038b6e97473d8fa1207da414",
+   "ko": "칼날이 소녀에게 닿기보다 빠르게, 새로이 타르의 바다에서 돋아난 촉수 무리가 D 투 소드를 꼬치로 꿰었다."
+  },
+  {
+   "id": "da0501:T00120",
+   "source_sha256": "d425750b5cf714e01edcba78fcb9151e9d95195638420f110721614349a14cb0",
+   "ko": "「크아아아아아!」"
+  },
+  {
+   "id": "da0501:T00121",
+   "source_sha256": "b948e71ccce15b89a7463c90535479d8b76e4a9d071d0ee51124b5ee6068c344",
+   "ko": "「쿠자쿠!」"
+  },
+  {
+   "id": "da0501:T00122",
+   "source_sha256": "9a6e224ed2739754ffba6bb0a899a83f9e3903945704929b05d137b458a1e471",
+   "ko": "「유감이네요. 그럼 안녕?」"
+  },
+  {
+   "id": "da0501:T00123",
+   "source_sha256": "52b9ed1a6af4b33876ea4e3fa94cc5dfb06775edc648006c2eefab640e49f840",
+   "ko": "「크…… 젠장」"
+  },
+  {
+   "id": "da0501:T00124",
+   "source_sha256": "069f73f2a322b2114185e0fd8488143b2a77c39c7b643e1e78b202b7e8db7b8a",
+   "ko": "촉수는 투 소드를 꿰뚫은 채로 타르의 바다로 끌고 들어간다."
+  },
+  {
+   "id": "da0501:T00125",
+   "source_sha256": "2b5c35db1c580252ac53dced558c031e542faa1b350539b47ed622bf77a9db1d",
+   "ko": "움직이지 않는 기체가 검붉은 소용돌이 속으로 가라앉아 간다."
+  },
+  {
+   "id": "da0501:T00126",
+   "source_sha256": "8a555a1d940ebce53addb44c991d65f1c3a215b0858f7dbc30db646c7a7fdfdc",
+   "ko": "「안 돼!　소년!」"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0501:R00001",
+   "kind": "ruby_decision",
+   "note": "표준 한자 훈독 루비(彩/いろ) 생략."
+  },
+  {
+   "id": "da0501:R00002",
+   "kind": "ruby_decision",
+   "note": "구어 발음 표기 루비(先生/センセ) 생략."
+  },
+  {
+   "id": "da0501:R00005",
+   "kind": "ruby_decision",
+   "note": "표준 한자 훈독 루비(戦/おのの) 생략."
+  },
+  {
+   "id": "da0501:R00006",
+   "kind": "ruby_decision",
+   "note": "표준 한자 훈독 루비(不味/まず) 생략."
+  },
+  {
+   "id": "da0501:R00007",
+   "kind": "ruby_decision",
+   "note": "표준 한자 음독 루비(防禦/ぼうぎょ) 생략."
+  },
+  {
+   "id": "da0501:R00013",
+   "kind": "ruby_decision",
+   "note": "표준 한자 훈독 루비(翅/はね) 생략."
+  },
+  {
+   "id": "da0501:R00014",
+   "kind": "ruby_decision",
+   "note": "표준 한자 훈독 루비(悍/おぞ) 생략."
+  },
+  {
+   "id": "da0501:U00040",
+   "kind": "source_anomaly",
+   "note": "원문 보존본 A의 단독 숫자 '1'을 그대로 보존함."
+  },
+  {
+   "id": "da0501:U00052",
+   "kind": "glossary_candidate",
+   "note": "미확정 용어 '九朔'에 대해 임시 표기 '쿠자쿠' 적용."
+  }
+ ]
+}

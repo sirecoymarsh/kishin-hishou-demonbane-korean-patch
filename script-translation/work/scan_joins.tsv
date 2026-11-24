@@ -1,0 +1,227 @@
+kind	pid	left	right	reviewed	gap	left_ko	right_ko
+ruby	P0002_da0101	da0101:T00050	da0101:T00051	True	</r>	풀어	져, 무수한 종잇조각이 허공에 흩날린다.
+ruby	P0002_da0101	da0101:T00130	da0101:T00131	True	</r>	웅크	린, 상처투성이의 아미티지를 발견한 모건이 외
+ruby	P0003_da0102	da0102:T00015	da0102:T00016	True	</r>	이것	인가……」
+ruby	P0003_da0102	da0102:T00073	da0102:T00074	True	</r>	쓰러	져서 피웅덩이가 되었다 싶으면 곧바로 증발해서
+sentence	P0003_da0102	da0102:T00088	da0102:T00089	True	　<SE ID="1" SRC="se擬音コミカル_アルいじり飛翔" MODE="normal" TIME="" LOO	「뭐가 말이냐앗!?	앗, 으응……읏!⏎　이, 이놈, 이상한 데 만
+ruby	P0004_da0102	da0102:T00151	da0102:T00152	True	</r>	만	났다.
+ruby	P0005_da0103	da0103:T00083	da0103:T00084	True	</r>	두	른 
+ruby	P0007_da0105	da0105:T00155	da0105:T00156	True	</r>	웅크	린 현자가 나타난다.
+ruby	P0011_da0109	da0109:T00157	da0109:T00158	True	</r>	죽어라	아아아아아아아아아!」
+ruby	P0013_da0110	da0110:T00044	da0110:T00045	True	</r>	나타나	라」
+ruby	P0013_da0110	da0110:T00088	da0110:T00089	True	</r>	나오	너라」
+ruby	P0013_da0110	da0110:T00094	da0110:T00095	True	</r>	비상하	라!」
+ruby	P0014_da0111	da0111:T00022	da0111:T00023	True	</r>	휘말	려, 라이카는 비틀거리며 무릎을 꿇는다.
+ruby	P0014_da0111	da0111:T00046	da0111:T00047	True	</r>	죽어라	아아아아아――――!」
+ruby	P0014_da0111	da0111:T00131	da0111:T00132	True	</r>	쓰러뜨	릴 수단을 검색하고 검증하고 결단하고 결행하는
+ruby	P0014_da0111	da0111:T00138	da0111:T00139	True	</r>	초록	빛 눈동자에 모두들, 가벼운 
+sentence	P0015_da0112	da0112:T00003	da0112:T00004	False	<wait time="3">	공기를 매개로 한 목소리가 아니다.	염화다.
+ruby	P0015_da0112	da0112:T00057	da0112:T00058	False	</r>	어쩜 이	리도 
+ruby	P0015_da0112	da0112:T00101	da0112:T00102	True	</r>	첫	마
+ruby	P0015_da0112	da0112:T00102	da0112:T00103	True	<r text="ぱな">	마	디
+ruby	P0018_da0115	da0115:T00025	da0115:T00026	False	</r>	거느	린 영감탱이」
+ruby	P0018_da0115	da0115:T00042	da0115:T00043	False	</r>	물어보	러 갈까 고민하고 있었는데…… 수고를 덜었나.
+ruby	P0019_da0115	da0115:T00123	da0115:T00124	False	</r>	노려	보았다.
+sentence	P0020_da0116	da0116:T00060	da0116:T00061	False	<k>	악덕을.	악덕의 
+ruby	P0021_da0117	da0117:T00074	da0117:T00075	False	</r>	실례	합니더어~.⏎아가씨요, 파괴된 지구의 개수에 
+ruby	P0023_da0119	da0119:T00005	da0119:T00006	False	</r>	메아리	쳐 울려 퍼졌다.
+ruby	P0023_da0119	da0119:T00032	da0119:T00033	False	</r>	시끄러	운 게 있네?」
+command	P0024_da0120ed	da0120ed:T00036	da0120ed:T00037	True	<wait time="1">	자	아
+command	P0024_da0120ed	da0120ed:T00037	da0120ed:T00038	True	<wait time="1">　<wait time="1">	아	시
+command	P0024_da0120ed	da0120ed:T00047	da0120ed:T00048	True	<wait time="1">	뭐	라
+command	P0024_da0120ed	da0120ed:T00049	da0120ed:T00050	True	<wait time="1">	고	옷
+command	P0024_da0120ed	da0120ed:T00050	da0120ed:T00051	True	<wait time="1">　<wait time="1">	옷	웨
+command	P0024_da0120ed	da0120ed:T00051	da0120ed:T00052	True	<wait time="1">	웨	스
+command	P0024_da0120ed	da0120ed:T00052	da0120ed:T00053	True	<wait time="1">	스	트
+ruby	P0024_da0120ed	da0120ed:T00065	da0120ed:T00066	True	</R>	어두	운 어두운 별들 너머에서, 막 태어난 지구에 
+ruby	P0025_da0201	da0201:T00016	da0201:T00017	False	</r>	불순	물이 많아, 저 아이.⏎　순수한 
+ruby	P0025_da0201	da0201:T00083	da0201:T00084	False	</r>	똑같	아……!」
+sentence	P0026_da0202	da0202:T00042	da0202:T00043	False	<wait time="20"><wait time="20">	나는 원사로 엮인 이야기.	나는――」
+ruby	P0027_da0203	da0203:T00075	da0203:T00076	False	</r>	성가	시군!」
+ruby	P0027_da0203	da0203:T00086	da0203:T00087	False	</r>	거미	줄에 의해서!
+ruby	P0027_da0203	da0203:T00097	da0203:T00098	False	</r>	휘감	겨, 
+ruby	P0027_da0203	da0203:T00157	da0203:T00158	True	</r>	일심동체	라서 말이야.⏎　네 멋대로 하게 두진 않겠어!
+ruby	P0030_da0205	da0205:T00001	da0205:T00002	True	<r text="いろ">	핏	빛
+ruby	P0030_da0205	da0205:T00020	da0205:T00021	False	</r>	바쳤	노라.⏎　　　――외도, 베어 마땅하다」
+sentence	P0030_da0205	da0205:T00036	da0205:T00037	False	<scroll num="0" x="0" y="0" count="50" time="10">　	극!	아아아아!」
+ruby	P0030_da0205	da0205:T00048	da0205:T00049	False	</r>	흩저	으며, 그리고,
+ruby	P0030_da0205	da0205:T00057	da0205:T00058	False	</r>	비웃	으며, 붉은 소녀는 알을 안은 채 후방으로 도
+ruby	P0030_da0205	da0205:T00086	da0205:T00087	False	</r>	나오	너라」
+ruby	P0031_da0301	da0301:T00053	da0301:T00054	False	</r>	풀	려 간다.⏎⏎　흘러넘치는 
+command	P0032_da0302	da0302:T00014	da0302:T00015	False	<WAIT TIME="3">	서	걱서
+command	P0032_da0302	da0302:T00015	da0302:T00016	False	<WAIT TIME="7">	걱서	걱서
+command	P0032_da0302	da0302:T00016	da0302:T00017	False	<WAIT TIME="5">	걱서	걱.⏎⏎　여동생이 몸을 흔든다.
+ruby	P0032_da0302	da0302:T00026	da0302:T00027	False	</r>	쓰러	진 닥터 웨스트는 피안개가 되어 소멸했다.
+sentence	P0032_da0302	da0302:T00029	da0302:T00030	False	<k>	비정상적인 세계다.	현실감이 전혀 없다.
+sentence	P0032_da0302	da0302:T00061	da0302:T00062	False	<k>	침묵이 장내를 지배한다.	팽팽하게 조여드는 긴장의 끈.
+ruby	P0033_da0303	da0303:T00017	da0303:T00018	False	</r>	꽂	혀 있어……」
+ruby	P0033_da0303	da0303:T00036	da0303:T00037	True	</r>	이투류	읏!」
+ruby	P0034_da0304	da0304:T00017	da0304:T00018	False	<r text="いろ">	소녀는 핏	빛
+ruby	P0034_da0304	da0304:T00021	da0304:T00022	False	</r>	나타나	라」
+ruby	P0034_da0304	da0304:T00058	da0304:T00059	False	<r text="いろ">	 가슴에는 붉은 반점―― 아니, 이건 이제 핏	빛
+sentence	P0034_da0304	da0304:T00104	da0304:T00105	False	<wait time="5">	안개 속에서 크투가를 쏜다.	작렬탄.
+ruby	P0034_da0304	da0304:T00107	da0304:T00108	False	<r text="いろ">	핏	빛
+ruby	P0036_da0305	da0305:T00078	da0305:T00079	False	</r>	영질	체에 가깝지만」
+ruby	P0036_da0305	da0305:T00107	da0305:T00108	False	</r>	시끄러	운 사내다. 짖어 본들⏎　아무런 해결도 되지 
+ruby	P0037_da0305	da0305:T00125	da0305:T00126	False	</r>	비틀	리고, 굽어 있다.⏎⏎　착시 그림 같은 광경.
+ruby	P0038_da0306	da0306:T00009	da0306:T00010	False	</r>	유희	인걸.⏎　그치, 
+ruby	P0038_da0306	da0306:T00056	da0306:T00057	False	</r>	뾰로통해	진 표정으로 퉁명스럽게 답했다.
+ruby	P0038_da0306	da0306:T00068	da0306:T00069	False	</r>	뭐	냐?」
+ruby	P0039_da0307	da0307:T00013	da0307:T00014	False	</R>	메아리	친다.
+ruby	P0039_da0307	da0307:T00097	da0307:T00098	False	</r>	노려보	듯 훑어본다.
+ruby	P0040_da0308	da0308:T00005	da0308:T00006	False	</r>	바꿔 끼	워질 수 있는 것이더냐.⏎　덧없는 것이로군」
+ruby	P0040_da0308	da0308:T00015	da0308:T00016	False	</r>	물러	설 생각은 없으신 모양이군요」
+ruby	P0041_da0309	da0309:T00025	da0309:T00026	False	</r>	웅크	린다.
+sentence	P0041_da0309	da0309:T00040	da0309:T00041	False	<WAIT TIME="5">	숨을 헐떡이면서, 필사적으로.	필사적으로.
+ruby	P0042_da0310	da0310:T00046	da0310:T00047	False	</r>	성가	신 
+ruby	P0042_da0310	da0310:T00054	da0310:T00055	False	</r>	풀	려 종이 다발이 되어 흩어져 간다.
+ruby	P0042_da0310	da0310:T00062	da0310:T00063	True	</r>	풀	려, 무의미한 마술문자의 나열이 되어 안개처럼
+ruby	P0042_da0310	da0310:T00123	da0310:T00124	False	</r>	얕	보지 마라아아아아아아아!」
+ruby	P0043_da0311	da0311:T00004	da0311:T00005	False	</r>	몸서리	쳤다.
+ruby	P0043_da0311	da0311:T00052	da0311:T00053	False	</r>	닫아걸	어――⏎　쿠자쿠로 이어지는 모든 
+ruby	P0045_da0313	da0313:T00004	da0313:T00005	False	</r>	먹먹해	질 정도로 거세게 고동치고, 폐부는 절실히 산
+sentence	P0045_da0313	da0313:T00061	da0313:T00062	True	<WAIT TIME="4">　<r text="シン">	!	신
+ruby	P0046_da0314	da0314:T00020	da0314:T00021	False	</r>	영감	탱이냐!」
+ruby	P0046_da0314	da0314:T00031	da0314:T00032	False	</r>	그렇고	말고, 그렇고말고!
+sentence	P0049_da0403	da0403:T00072	da0403:T00073	False	<K>	……아니, 있었다.	아래다.
+sentence	P0050_da0404	da0404:T00032	da0404:T00033	False	<k>	전문의 좀비.	후문의 좀비.
+ruby	P0051_da0405	da0405:T00101	da0405:T00102	False	</r>	어두	운 눈빛이다.
+ruby	P0053_da0406	da0406:T00050	da0406:T00051	False	</r>	드러	냈다.
+sentence	P0053_da0406	da0406:T00095	da0406:T00096	False	<LAYER SRC="#ffffff" TRANSPARENT="30" NUM="8"><WIPE EFFECT="	「이아!	이아!
+ruby	P0053_da0406	da0406:T00107	da0406:T00108	False	</r>	귀계신	인가」
+ruby	P0053_da0406	da0406:T00112	da0406:T00113	False	</r>	압도적으로 위	네.⏎　나머지는 대디 하기 나름이야」
+ruby	P0054_da0407	da0407:T00050	da0407:T00051	False	</r>	귀계신	인지를 말이다아!」
+ruby	P0055_da0501	da0501:T00029	da0501:T00030	False	</r>	전율하	듯이.
+ruby	P0056_da0501	da0501:T00143	da0501:T00144	False	</r>	어두	운 망집을.
+ruby	P0057_da0502	da0502:T00007	da0502:T00008	False	</r>	전속력	인 채로 신들린 
+ruby	P0058_da0503	da0503:T00115	da0503:T00116	False	</r>	균형	인 거야, 분명.⏎　조금이라도 
+ruby	P0058_da0503	da0503:T00130	da0503:T00131	False	</r>	풀어	져 대기 속으로 흩어졌다.
+ruby	P0060_da0505	da0505:T00007	da0505:T00008	False	</r>	소멸	주법!?」
+ruby	P0060_da0505	da0505:T00168	da0505:T00169	False	</r>	어두	운 어둠을 머금은 인간의 모습.
+ruby	P0061_da0506	da0506:T00103	da0506:T00104	False	</r>	물러가	라!」
+command	P0070_da0701	da0701:T00004	da0701:T00005	True	<LAYER SRC="ef/ef_その他ノイズ" TRANSPARENT="100" NUM="7"><WIPE EF	―에야야야야아아아…… 으아아아아아아…… 으아아	아아아…… 후유우…
+command	P0070_da0701	da0701:T00006	da0701:T00007	True	<LAYER SRC="ef/ef_その他ノイズ" TRANSPARENT="100" NUM="7"><WIPE EF	…후유우…… 살	려 줘! ……살려 줘! ……아
+command	P0070_da0701	da0701:T00008	da0701:T00009	True	<LAYER SRC="ef/ef_その他ノイズ" TRANSPARENT="100" NUM="7"><WIPE EF	――아――아	버――아버님! 아버님!
+sentence	P0070_da0701	da0701:T00020	da0701:T00021	False	<k>	그렇다.	꿈은 그저 꿈으로 흩어져 사라질 뿐이다.
+ruby	P0070_da0701	da0701:T00080	da0701:T00081	False	</r>	물보라	친다.
+ruby	P0071_da0701	da0701:T00208	da0701:T00209	False	</R><R TEXT="・・・">	데몬	베인
+ruby	P0072_da0702	da0702:T00055	da0702:T00056	False	</r>	좋	아……앗」
+ruby	P0073_da0702	da0702:T00129	da0702:T00130	True	</r>	찌푸	리는 알.
+sentence	P0074_da0703	da0703:T00015	da0703:T00016	False	<WAIT TIME="3">	외경.	동경.
+sentence	P0074_da0703	da0703:T00016	da0703:T00017	False	<WAIT TIME="3">	동경.	당혹.
+sentence	P0074_da0703	da0703:T00017	da0703:T00018	False	<WAIT TIME="3">	당혹.	초조
+ruby	P0080_da0708	da0708:T00092	da0708:T00093	False	</r>	배	속으로.
+ruby	P0081_da0709	da0709:T00134	da0709:T00135	False	</r>	우뚝 솟	아오른다.
+ruby	P0081_da0709	da0709:T00142	da0709:T00143	False	</r>	금속적	인 빛을 띠는 거대한 지팡이.
+ruby	P0083_da0710	da0710:T00010	da0710:T00011	False	</r>	우뚝 솟	아 있다.⏎⏎　그 거체는 공간의 대부분을 점거
+ruby	P0083_da0710	da0710:T00012	da0710:T00013	False	</r>	일렁	인다.⏎⏎　어스름을 뒤흔들며 기신은――쿠자쿠는
+sentence	P0084_da0801	da0801:T00025	da0801:T00026	False	<k>	그러나 피의 해면은 잔물결 하나 일지 않는다.	얼어붙어 있는 것처럼 고요히 가라앉아 있다.
+ruby	P0084_da0801	da0801:T00036	da0801:T00037	False	</r>	중독되	어 착란하는 마술회로.⏎⏎　쿠자쿠의 대응은 빠
+ruby	P0085_da0802	da0802:T00023	da0802:T00024	False	</r>	신속	히 
+ruby	P0085_da0802	da0802:T00025	da0802:T00026	False	</r>	물러가	라. 단순한 악몽에게 볼일은 없다」
+sentence	P0085_da0802	da0802:T00084	da0802:T00085	False	<k>	.	증식하는 
+ruby	P0086_da0802	da0802:T00225	da0802:T00226	True	</r>	어두	운 바다 밑바닥으로 삼켜져 갔다.
+ruby	P0086_da0802	da0802:T00232	da0802:T00233	False	</r>	가만	히 응시하고 있다.
+ruby	P0087_da0803	da0803:T00016	da0803:T00017	False	</r>	길안내	인가」
+sentence	P0087_da0803	da0803:T00021	da0803:T00022	False	<k>	안개는 피로.	피는 덩어리로.
+ruby	P0091_da1002	da1002:T00004	da1002:T00005	False	</r>	쿠로	네는 괜찮을까?」
+ruby	P0092_da1101	da1101:T00049	da1101:T00050	False	</r>	망령	인 자신에게도.⏎⏎　하지만 그의 운명을 농락한
+ruby	P0092_da1101	da1101:T00067	da1101:T00068	False	</r>	풀	려 간다. 
+ruby	P0092_da1101	da1101:T00069	da1101:T00070	False	</r>	풀	려 간다.
+ruby	P0093_da1102	da1102:T00037	da1102:T00038	False	</r>	우뚝 솟	아 선 거체.
+ruby	P0093_da1102	da1102:T00092	da1102:T00093	False	</r>	목 졸	라 죽일 수 있어!」
+command	P0093_da1102	da1102:T00101	da1102:T00102	False	<wait time="1">	머	니
+command	P0093_da1102	da1102:T00107	da1102:T00108	False	<wait time="1">	 받	아
+ruby	P0093_da1102	da1102:T00139	da1102:T00140	False	</r>	포효하	듯이.
+sentence	P0093_da1102	da1102:T00168	da1102:T00169	False	<K>	더 격렬하게.	더 예리하게.
+ruby	P0095_da1201	da1201:T00014	da1201:T00015	False	</r>	불타오	른다.
+ruby	P0095_da1201	da1201:T00046	da1201:T00047	False	</R><R TEXT="・・・・・・">	까지의	악몽이 아니야
+command	P0097_da1203	da1203:T00029	da1203:T00030	False	<wait time="3">	가열차고 장절한	영혼의 충동／
+ruby	P0097_da1203	da1203:T00054	da1203:T00055	False	</r>	실낱	같은 가능성을 찾아낼 수 있는⏎승리의, 그마저
+ruby	P0097_da1203	da1203:T00142	da1203:T00143	False	</r>	존재	잖아……⏎그렇지, 쿠자쿠?」
+ruby	P0099_da1204	da1204:T00064	da1204:T00065	False	</r>	쓰러져	라, 다이쥬지 쿠로……!⏎　영웅 행세를 하는 
+ruby	P0099_da1204	da1204:T00071	da1204:T00072	False	</r>	풀	려 사라졌다.
+ruby	P0100_da1301	da1301:T00010	da1301:T00011	False	</r>	자기수복기능	인가……?」
+sentence	P0100_da1301	da1301:T00026	da1301:T00027	False	<wait time="3">	어째서.	어째서.
+sentence	P0100_da1301	da1301:T00027	da1301:T00028	False	<wait time="3">	어째서.	어째서.
+sentence	P0101_da1302	da1302:T00006	da1302:T00007	True	<wait time="7">	고결하고.	아름답게.
+ruby	P0101_da1302	da1302:T00049	da1302:T00050	False	</r>	후예	인 그 존재는, 자신의 품 안에 안은⏎　작은 
+ruby	P0102_da1303	da1303:T00038	da1303:T00039	False	</r>	풀	어져 몰아치는 처절한 진홍
+ruby	P0102_da1303	da1303:T00055	da1303:T00056	False	</R><R TEXT="・・・・・">	네크로노미콘	혈액언어판
+ruby	P0102_da1303	da1303:T00060	da1303:T00061	False	</R><R TEXT="・・・・">	당신들의	아이야
+ruby	P0103_da1304	da1304:T00013	da1304:T00014	False	</r>	허상	인가.
+ruby	P0104_da1305	da1305:T00001	da1305:T00002	True	</r>	풀	려 간다.
+ruby	P0104_da1305	da1305:T00091	da1305:T00092	False	</r>	풀	렸다.
+sentence	P0104_da1305	da1305:T00107	da1305:T00108	False	<WAIT TIME="5">	간지럽히듯이.	가지고 노는 것이다.
+ruby	P0105_da1306	da1306:T00049	da1306:T00050	False	</r>	풀	리고, 무수한 이야기가 겹쳐진다!」
+ruby	P0105_da1306	da1306:T00095	da1306:T00096	False	</r>	풀	린다.
+sentence	P0105_da1306	da1306:T00128	da1306:T00129	False	　<LAYER SRC="" TRANSPARENT="100" NUM="6"><WIPE EFFECT="fade"	읏!?	그으아아앗!」
+sentence	P0105_da1306	da1306:T00133	da1306:T00134	True	<k>	깊이.	깊이.
+ruby	P0105_da1306	da1306:T00167	da1306:T00168	False	</r>	비웃	음이었다.
+ruby	P0106_da1306	da1306:T00195	da1306:T00196	True	</r>	나타나	라!」
+ruby	P0106_da1306	da1306:T00202	da1306:T00203	False	</r>	풀	어진 시간과 세계를 건너다니는 것이다!」
+ruby	P0107_da1307	da1307:T00003	da1307:T00004	True	</r>	메아리	치는 
+sentence	P0107_da1307	da1307:T00031	da1307:T00032	False	<K>	겉보기는 깨끗하게.	속은 시꺼멓게.
+sentence	P0107_da1307	da1307:T00050	da1307:T00051	False	<k>	그를 위하여.	하지만――
+ruby	P0107_da1307	da1307:T00053	da1307:T00054	False	</r>	풀	린다.
+ruby	P0107_da1307	da1307:T00079	da1307:T00080	False	</r>	스러	져 버리는 것인가.
+ruby	P0107_da1307	da1307:T00124	da1307:T00125	False	</r>	끓어오	른 뜨거운 무언가.
+sentence	P0107_da1307	da1307:T00165	da1307:T00166	False	<k>	솟아나온다.	솟아나온다.
+sentence	P0107_da1307	da1307:T00166	da1307:T00167	False	<k>	솟아나온다.	나사／톱니바퀴／태엽／배관／철골／도선／장갑／나사
+ruby	P0108_da1308	da1308:T00067	da1308:T00068	False	</r>	일렁	인다.
+ruby	P0108_da1308	da1308:T00072	da1308:T00073	False	</r>	타오	른다.
+ruby	P0108_da1308	da1308:T00086	da1308:T00087	False	</r>	타오	르는 암흑이 감쌌다.
+ruby	P0109_da1309	da1309:T00035	da1309:T00036	False	</r>	분주	히 구동하고 있었다.⏎⏎　아아――
+command	P0109_da1309	da1309:T00079	da1309:T00080	False	<QUAKE X="" Y="3" COUNT="1" TIME="7">	달칵	달칵
+command	P0109_da1309	da1309:T00080	da1309:T00081	False	<QUAKE X="" Y="3" COUNT="1" TIME="7">	달칵	달칵
+command	P0109_da1309	da1309:T00081	da1309:T00082	False	<QUAKE X="" Y="3" COUNT="1" TIME="7">	달칵	달칵
+command	P0109_da1309	da1309:T00083	da1309:T00084	False	<QUAKE X="" Y="3" COUNT="1" TIME="7">	 덜컹	덜컹
+command	P0109_da1309	da1309:T00084	da1309:T00085	False	<QUAKE X="" Y="3" COUNT="1" TIME="7">	덜컹	덜컹
+command	P0109_da1309	da1309:T00085	da1309:T00086	False	<LAYER SRC="#ffffff" TRANSPARENT="100" NUM="7"><WIPE EFFECT=	덜컹	덜컹
+command	P0109_da1309	da1309:T00086	da1309:T00087	False	<QUAKE X="" Y="3" COUNT="1" TIME="7">	덜컹	덜컹
+command	P0109_da1309	da1309:T00087	da1309:T00088	False	<QUAKE X="" Y="3" COUNT="1" TIME="7">	덜컹	덜컹
+command	P0109_da1309	da1309:T00088	da1309:T00089	False	<QUAKE X="" Y="3" COUNT="1" TIME="7">	덜컹	덜컹
+command	P0109_da1309	da1309:T00090	da1309:T00091	False	<QUAKE X="" Y="5" COUNT="1" TIME="7">	 철컥	철컥
+command	P0109_da1309	da1309:T00091	da1309:T00092	False	<QUAKE X="" Y="5" COUNT="1" TIME="7">	철컥	철컥
+command	P0109_da1309	da1309:T00092	da1309:T00093	False	<QUAKE X="" Y="5" COUNT="1" TIME="7">	철컥	철컥
+command	P0109_da1309	da1309:T00093	da1309:T00094	False	<QUAKE X="" Y="5" COUNT="1" TIME="7">	철컥	철컥
+command	P0109_da1309	da1309:T00094	da1309:T00095	False	<QUAKE X="" Y="5" COUNT="1" TIME="7">	철컥	철컥
+command	P0109_da1309	da1309:T00107	da1309:T00108	False	<QUAKE X="3" Y="" COUNT="1" TIME="7">	「어	어
+command	P0109_da1309	da1309:T00108	da1309:T00109	False	<QUAKE X="3" Y="" COUNT="1" TIME="7">	어	어
+command	P0109_da1309	da1309:T00109	da1309:T00110	False	<QUAKE X="3" Y="" COUNT="1" TIME="7">	어	어
+command	P0109_da1309	da1309:T00110	da1309:T00111	False	<QUAKE X="3" Y="" COUNT="1" TIME="7">	어	어
+ruby	P0109_da1309	da1309:T00146	da1309:T00147	False	</r>	위작	인 거야」
+command	P0109_da1309	da1309:T00151	da1309:T00152	False	<WAIT TIME="3">	 그	래
+command	P0109_da1309	da1309:T00154	da1309:T00155	False	<WAIT TIME="3">	 이	제
+command	P0109_da1309	da1309:T00156	da1309:T00157	False	<WAIT TIME="3">	 어	머
+command	P0109_da1309	da1309:T00160	da1309:T00161	False	<WAIT TIME="3">	 되	어
+command	P0109_da1309	da1309:T00166	da1309:T00167	False	<WAIT TIME="3">	 자	신
+command	P0109_da1309	da1309:T00169	da1309:T00170	False	<WAIT TIME="4">	 진	정
+command	P0109_da1309	da1309:T00172	da1309:T00173	False	<WAIT TIME="4">	 진짜	배
+command	P0109_da1309	da1309:T00174	da1309:T00175	False	<WAIT TIME="4">	기	인
+command	P0109_da1309	da1309:T00182	da1309:T00183	False	<WAIT TIME="1">	「아아	아아
+command	P0109_da1309	da1309:T00183	da1309:T00184	False	<SE ID="0" SRC="se人体衣類_布を切り裂く長飛翔" MODE="normal" TIME="" LOOP	아아	아아아
+command	P0109_da1309	da1309:T00184	da1309:T00185	False	<WAIT TIME="3">	아아아	아아
+command	P0109_da1309	da1309:T00185	da1309:T00186	False	<SE ID="0" SRC="se人体衣類_布を切り裂く長飛翔" MODE="normal" TIME="" LOOP	아아	아
+command	P0109_da1309	da1309:T00186	da1309:T00187	False	<WAIT TIME="5"><SE ID="0" SRC="se人体衣類_布を切り裂く長飛翔" MODE="norma	아	아
+command	P0109_da1309	da1309:T00187	da1309:T00188	False	<SE ID="0" SRC="se人体衣類_布を切り裂く長飛翔" MODE="normal" TIME="" LOOP	아	아
+command	P0109_da1309	da1309:T00188	da1309:T00189	False	<SE ID="0" SRC="se人体衣類_布を切り裂く長飛翔" MODE="normal" TIME="" LOOP	아	아
+command	P0109_da1309	da1309:T00189	da1309:T00190	False	<SE ID="0" SRC="se人体衣類_布を切り裂く長飛翔" MODE="normal" TIME="" LOOP	아	아」
+command	P0109_da1309	da1309:T00193	da1309:T00194	False	<WAIT TIME="5">	…아	버
+command	P0109_da1309	da1309:T00198	da1309:T00199	False	<WAIT TIME="7">	니	임
+ruby	P0110_da1310	da1310:T00016	da1310:T00017	False	</r>	작위적 우연의 총아	인 그대에게 맞선다」
+sentence	P0110_da1310	da1310:T00056	da1310:T00057	False	<LAYER SRC="data/red" TRANSPARENT="50" NUM="7"><WIPE EFFECT=	깊이.	깊이.
+sentence	P0110_da1310	da1310:T00072	da1310:T00073	False	<LAYER SRC="data/red" TRANSPARENT="50" NUM="7"><WIPE EFFECT=	손바닥은, 더욱 깊이.	깊이.
+ruby	P0110_da1310	da1310:T00100	da1310:T00101	False	</r>	관	인⏎　　　이 
+ruby	P0110_da1310	da1310:T00148	da1310:T00149	False	</r>	굶주	려 간다.
+ruby	P0110_da1310	da1310:T00164	da1310:T00165	False	</r>	역시	나 피를⏎더듬어 찾아간다.
+sentence	P0111_da1311	da1311:T00017	da1311:T00018	False	<WAIT TIME="5">	뚝.	뚝.
+sentence	P0111_da1311	da1311:T00018	da1311:T00019	False	<WAIT TIME="2">	뚝.	뚝.
+ruby	P0111_da1311	da1311:T00031	da1311:T00032	False	</r>	확실	히 존재하는 『악』의 현현이다.⏎⏎　――그런데
+ruby	P0111_da1311	da1311:T00045	da1311:T00046	False	</r>	메아리	쳐, 귀를――⏎영혼을――
+sentence	P0111_da1311	da1311:T00052	da1311:T00053	False	<k>	나사.	톱니바퀴.
+sentence	P0111_da1311	da1311:T00053	da1311:T00054	False	<k>	톱니바퀴.	태엽.
+sentence	P0111_da1311	da1311:T00054	da1311:T00055	False	<k>	태엽.	나 또한 마찬가지.
+sentence	P0112_da1312	da1312:T00068	da1312:T00069	False	<QUAKE X="" Y="4" COUNT="1" TIME="9">　	「소용없어 소용없어 소용없어!	소용없단 말이야앗!
+sentence	P0112_da1312	da1312:T00069	da1312:T00070	False	<QUAKE X="" Y="4" COUNT="1" TIME="9">　　　	소용없단 말이야앗!	모든 게 다앗!
+sentence	P0112_da1312	da1312:T00113	da1312:T00114	True	<WAIT TIME="6">	「반드시.	그쪽으로. 간다」

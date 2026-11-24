@@ -1,0 +1,91 @@
+{
+  "schema": "khd-gemini-response-v1",
+  "packet_id": "P0122_da1401",
+  "model_id": "Gemini 3.8 Flash (High)",
+  "records": [
+    {
+      "id": "da1401:T00001",
+      "source_sha256": "85895a2b0509959504b3c8dcdfc9be38835d05c0befad32f835eee2631c93286",
+      "ko": "「아직이다!」"
+    },
+    {
+      "id": "da1401:T00002",
+      "source_sha256": "118ca760c0cdc79537688b857cd27610c8b898556f0303043080c244bd39198f",
+      "ko": "「아직 끝나지 않아……!」"
+    },
+    {
+      "id": "da1401:T00003",
+      "source_sha256": "086e33ed28f65ba3133ff624317892c034c5b9e8b72e8777aedb1fa6ab5367dd",
+      "ko": "「이것은……!」"
+    },
+    {
+      "id": "da1401:T00004",
+      "source_sha256": "45acee7650ea347f16b27dab07e698c2ed0fad47b3fddca8b1be36c68a6f7508",
+      "ko": "「전 "
+    },
+    {
+      "id": "da1401:R00001",
+      "source_sha256": "0d2f7eaad09f05a9580faaab146c0389e5ed088feebb39ee6a833d0f2a5ab48e",
+      "ko": "시퀀스",
+      "ruby_action": "keep"
+    },
+    {
+      "id": "da1401:T00005",
+      "source_sha256": "85d56bf4d4229ac85b31241f33ce21f3106a0d89e5ebc779c640a4b514a0e008",
+      "ko": "공정"
+    },
+    {
+      "id": "da1401:T00006",
+      "source_sha256": "893c3bac6a855b15b81b4824e31287dcecad35375b4ef1ee7d513709396217d5",
+      "ko": " 완료……\n　클록워크 팬텀 최종 로트……」"
+    },
+    {
+      "id": "da1401:T00007",
+      "source_sha256": "96479183b03016f8d9ec7345e65753805aa13bf45234631d7dca5cbcb3cf44cf",
+      "ko": "「변형했다고……?」"
+    },
+    {
+      "id": "da1401:T00008",
+      "source_sha256": "818cec698b21655d66888cd759c79000e5fa57133ee6180f17b35b268448b3a4",
+      "ko": "「상식 밖이네…… "
+    },
+    {
+      "id": "da1401:R00002",
+      "source_sha256": "fb8e646fc2624863eafe8da67aa8c5b12d57e75ab9e7d3df0be6c3d244a5ea7a",
+      "ko": "",
+      "ruby_action": "omit_redundant"
+    },
+    {
+      "id": "da1401:T00009",
+      "source_sha256": "6de77d02f7d18d404af8f162330c1b4b638b8a11571965ebdd564cfa10b608f5",
+      "ko": "남"
+    },
+    {
+      "id": "da1401:T00010",
+      "source_sha256": "1a3d3639ea069c7c50f77ed20cebeadc7e7e788f7d530a8c84e352507773df4c",
+      "ko": " 말할 처지는 아니지만」"
+    },
+    {
+      "id": "da1401:T00011",
+      "source_sha256": "62f0beabfebf3b9bb66627c9ecfed9e6f43eff05495968fa2875c172dc906d56",
+      "ko": "「재밌군…… 알, 이번엔 우리가 파고든다!」"
+    },
+    {
+      "id": "da1401:T00012",
+      "source_sha256": "39b0c88c1f3716e43f360e324fa9220c1e1f1b27cb11bbb085dc2bc8ecc74d5f",
+      "ko": "「알았다!」"
+    },
+    {
+      "id": "da1401:T00013",
+      "source_sha256": "6c727afbae1ce503a8866d3cc823d1541816d8d4211e533c840bec71e775b3b6",
+      "ko": "「「가라아아아아아――――――앗!」」"
+    }
+  ],
+  "issues": [
+    {
+      "id": "da1401:R00002",
+      "kind": "ruby_decision",
+      "note": "일본어 독음 ひと이 한국어 본문과 겹쳐 읽기 줄을 생략"
+    }
+  ]
+}

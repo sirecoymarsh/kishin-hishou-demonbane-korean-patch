@@ -1,0 +1,545 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0092_da1101",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da1101:T00001",
+   "source_sha256": "4643be3b3f43c29c91b542dedd01c1e53705847698310f23051690158209c790",
+   "ko": "「자네의 차례는 끝이다!\n　얌전히 무음의 "
+  },
+  {
+   "id": "da1101:R00001",
+   "source_sha256": "2dc83fbd20d852ebc57acbd21403e5d7ef037dcdcd04c98c8aca6c2caeac920e",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1101:T00002",
+   "source_sha256": "e6a3871b1eb57cab73e0cd3e8a46faa7ff30a1302c8a3110634461b214a15459",
+   "ko": "암흑"
+  },
+  {
+   "id": "da1101:T00003",
+   "source_sha256": "d3b7309dacd3064a7ca7ab2bf6afa10990fb1fde9aa331f5455151cf54112727",
+   "ko": "으로\n　돌아가게나!」"
+  },
+  {
+   "id": "da1101:T00004",
+   "source_sha256": "40509888f61d9bc2cdbba6fbc7c1df2a2c9633550ae10a4ffd62b23efa1ec6ab",
+   "ko": "사이크라노쉬의 거체에 균열이 간다."
+  },
+  {
+   "id": "da1101:T00005",
+   "source_sha256": "9f1f477244848652015b5846e9358154ee22c843cf2441481e482e3920600d8b",
+   "ko": "결정적/치명적이고 불가역/불가피한 파괴/붕괴/패배가\n움직이기 시작한다."
+  },
+  {
+   "id": "da1101:T00006",
+   "source_sha256": "301fc6093f6a99700282480798164313a1ec74a501f6b005ee2aaad106e67e08",
+   "ko": "균열에서 뿜어져 나오는 피안개."
+  },
+  {
+   "id": "da1101:T00007",
+   "source_sha256": "f1cba86e43ae1d27cf48e6265a284793b5b4e0bbf11cbe879bf2c92799bc645b",
+   "ko": "사이크라노쉬가 무너지기 시작한다."
+  },
+  {
+   "id": "da1101:T00008",
+   "source_sha256": "a649d3d411319a328f5f3ea6a4c02e500409b0d6374560109256d66142389b81",
+   "ko": "「하…… 하하하하…… 읏!」"
+  },
+  {
+   "id": "da1101:T00009",
+   "source_sha256": "e523dfd2e02a6fb4ae5020039634723e5d6bce2c8043a79db017b96780e9a702",
+   "ko": "타오르는 혈풍 속, 숨이 막힐 듯한 피비린내 속에서 베스파시아누스는 "
+  },
+  {
+   "id": "da1101:R00002",
+   "source_sha256": "2895ce20a7385bc2cc182870401439c7986e12de3e6b4a814eefe718fb782e64",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1101:T00010",
+   "source_sha256": "0f55c1b29730d09eae296e101a12467fa6fb8c9c44d1f69a49f9df47be9fee35",
+   "ko": "비웃"
+  },
+  {
+   "id": "da1101:T00011",
+   "source_sha256": "16dd8c46b477dcad7b4f246525cc63313a7e81210e5c836caf565ac86c4741c4",
+   "ko": "고 있었다.\n\n　목소리에 힘은 없다."
+  },
+  {
+   "id": "da1101:T00012",
+   "source_sha256": "f358ed9830fd9a863773fc2d968ebca6fba8b25da28867f4a8cd6d762ed44bcf",
+   "ko": "이미 숨이 경각에 달려 있다."
+  },
+  {
+   "id": "da1101:T00013",
+   "source_sha256": "6e702f2ad913e6b6c19ec1bf6b76e7f23954becb049e1b1bc2fc834686850265",
+   "ko": "미약한 비웃음 소리는, 그러나 끊어지는 법이 없다.\n\n　허물어져 가는 베스파시아누스의, 아무것도 비추지 않는 "
+  },
+  {
+   "id": "da1101:R00003",
+   "source_sha256": "9e01e7b843be92a9d32129c0661107e163b54042ac97ad03fcafa75e40d331b6",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1101:T00014",
+   "source_sha256": "389bbac1b256d36df12ea23e0ea5db3f3b5a4242c671c915091732e62596b8b4",
+   "ko": "어둡"
+  },
+  {
+   "id": "da1101:T00015",
+   "source_sha256": "e6694a368bd101e104ef6468890f08604683c9efec5cf4d38ed8a5522f67202e",
+   "ko": "고 어두운 눈동자."
+  },
+  {
+   "id": "da1101:T00016",
+   "source_sha256": "6be0c95e9843d7eea638f7dcc3d6ca2b187270dd0554d7209eb0314392387845",
+   "ko": "그것은 체념이 생명의 빛을 빼앗았기 때문인가."
+  },
+  {
+   "id": "da1101:T00017",
+   "source_sha256": "f900bbdb25230955f10680a33a629f2f9934f44cde5801442747c776e0a093d1",
+   "ko": "아니면 밑바닥을 알 수 없는 마음의 어둠이 흘러나오기 때문인가.\n\n　꺼져 갈 듯한 목소리로, 베스파시아누스는 자신을 멸한 자에게\n말을 건넨다."
+  },
+  {
+   "id": "da1101:T00018",
+   "source_sha256": "b7b7d8c5db39db26d4e9ad9a220835ccdd71a438450cb7ad5d13060bd91af9ca",
+   "ko": "「감사를……\n　표해 두어야겠지요, 박사?」"
+  },
+  {
+   "id": "da1101:T00019",
+   "source_sha256": "a19cbb178f939bd9a5d557b9774de26b0558688ee0168a098c25c029fb2e741e",
+   "ko": "「뭐라고?」"
+  },
+  {
+   "id": "da1101:T00020",
+   "source_sha256": "e3d805e9212490c7e706e5251a83c773c3b7b78169efdb0353dfe2251aec709a",
+   "ko": "「시시한…… 시시한 악몽이다.\n　실로 시시하기 짝이 없는 일에\n　억지로 어울려야 했군」"
+  },
+  {
+   "id": "da1101:T00021",
+   "source_sha256": "7109fb09d60ea1d46d3871767a641d5ecaa9301d436af85c3085cda3ffdd5e52",
+   "ko": "「하지만, 이걸로 끝난다.\n　내 역할은 끝이다.\n　가슴이 뻥 뚫리는 기분이군……\n　"
+  },
+  {
+   "id": "da1101:R00004",
+   "source_sha256": "0113505028b9a4eebc5c5c5167cef9ee645c80c93ca9fd1972fdd23acfe05754",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1101:T00022",
+   "source_sha256": "43d5f7c62762f29ee9eda654b29766a76b10b07ecd36bb9c841e26952495ba09",
+   "ko": "후련"
+  },
+  {
+   "id": "da1101:T00023",
+   "source_sha256": "56f25e674f864e2268ecf59476c8d506d0cd3ce662e66cf8e3ae4d4c31bba3e3",
+   "ko": "하다. 정말로 후련해」"
+  },
+  {
+   "id": "da1101:T00024",
+   "source_sha256": "dd35bd8b2dd39bcde6f8eb4d6f92705b67d99e490c92dc6a8edf23b76d96c12e",
+   "ko": "「……무슨 소리를 하는 거야, 이 사람?」"
+  },
+  {
+   "id": "da1101:T00025",
+   "source_sha256": "f63e338a9fae446f20ae3d105f2318d7c4d921eff8749a1d9931f4bd94dd5f65",
+   "ko": "「…………」"
+  },
+  {
+   "id": "da1101:T00026",
+   "source_sha256": "55d3d82afc13edf723569fad5a16e57eba0e2ed797ac63729e44c4b0574d4146",
+   "ko": "「마인을…… 마인을 만났던 거다.\n　그 무엇도 도달할 수 없는 고지에 선,\n　"
+  },
+  {
+   "id": "da1101:R00005",
+   "source_sha256": "c549f8da8eae5c90edff653dae2b0ad18b8154c1fa60dfef20a21b67e392b517",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1101:T00027",
+   "source_sha256": "21b3308f9de4c9f9a2abdafff6d6440453b94bbbb5238c58b4eccb96489c0455",
+   "ko": "궁극"
+  },
+  {
+   "id": "da1101:T00028",
+   "source_sha256": "1f593b036f3bd55bf23055f9cad187168fb08383466e05d5f4ace1966c54c304",
+   "ko": "의 인외. 금빛 짐승이다.\n　그 녀석은 짐승이었던 거야」"
+  },
+  {
+   "id": "da1101:T00029",
+   "source_sha256": "3327cdac59a5aaac53cce2051815d01a3d64beea62e6cd32e790bef5b179de80",
+   "ko": "빛을 품지 않은 눈동자가 먼 곳을 응시한다."
+  },
+  {
+   "id": "da1101:T00030",
+   "source_sha256": "f776e264008cc5df62b6dd3cff19efe48091a96cf155207957fc6d746167676d",
+   "ko": "그 너머에 무엇을 떠올리고, 무엇을 애도하는가.\n\n　말은 더 이상 대화가 아니라 독백에 가깝다."
+  },
+  {
+   "id": "da1101:T00031",
+   "source_sha256": "5f40af819c3990c8a5fbc1324e60583526b06f28491f340a8d77aa7a158a4cb4",
+   "ko": "「나는 생각했다.\n인간의 손으로, 내 손으로,\n그 괴물을 창조하겠다고.\n인간의 손으로, 내 손으로,\n그 괴물을 초월하겠다고」"
+  },
+  {
+   "id": "da1101:T00032",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da1101:R00006",
+   "source_sha256": "e335ab9dd44097d0017fb9bad5f7a401023cd7c84c3739148c7032df32ff6390",
+   "ko": "아트를",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1101:T00033",
+   "source_sha256": "92f6a3f8d673baae5c915629cc3565d1eef997e6eebedad878797e9e86b3b1dd",
+   "ko": "예술을"
+  },
+  {
+   "id": "da1101:T00034",
+   "source_sha256": "f699f20e42d5fefe7a956deed3ed116513889e6d42ce421db27987c125758a80",
+   "ko": "…… 지고의 "
+  },
+  {
+   "id": "da1101:R00007",
+   "source_sha256": "e335ab9dd44097d0017fb9bad5f7a401023cd7c84c3739148c7032df32ff6390",
+   "ko": "아트를",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1101:T00035",
+   "source_sha256": "92f6a3f8d673baae5c915629cc3565d1eef997e6eebedad878797e9e86b3b1dd",
+   "ko": "예술을"
+  },
+  {
+   "id": "da1101:T00036",
+   "source_sha256": "c2198e28f9874b1b33979a65d870387003f5be5749fa0ba8f2953168cd71b92c",
+   "ko": "!\n　그랬는데도, 그랬는데도……\n　후하하하하하하하앗!」"
+  },
+  {
+   "id": "da1101:T00037",
+   "source_sha256": "6b666d85f75ec3613172a90abdb06e979766400579d0087b4086510faaf2673b",
+   "ko": "한숨처럼 미약한 목소리에는 이윽고 열기가 깃들고, 힘이 실려,\n마침내는 홍소가 되어 울려 퍼졌다."
+  },
+  {
+   "id": "da1101:T00038",
+   "source_sha256": "c2e55858e1c48c396a93edb78990f4a4a7feae886c5c238712d09985b5e034e7",
+   "ko": "그것은 불타 다하는 생명의, 최후의 등불과도 같은 것이다."
+  },
+  {
+   "id": "da1101:R00008",
+   "source_sha256": "2895ce20a7385bc2cc182870401439c7986e12de3e6b4a814eefe718fb782e64",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1101:T00039",
+   "source_sha256": "7d6138514a0c0834cb7bc9c99385ee163992546d57153c8fff6f360598341900",
+   "ko": "홍소하"
+  },
+  {
+   "id": "da1101:T00040",
+   "source_sha256": "4ddfebd68ee80fd8bafdd186d90f4ae908a25acf3f3c3dbb3bfc426b6552fa45",
+   "ko": "는 베스파시아누스의 뇌리를 스치는 것은――"
+  },
+  {
+   "id": "da1101:T00041",
+   "source_sha256": "f03ab5c2652b8f6f995a97f9c76cb4f2a682350cb5c94095539da52681d373c7",
+   "ko": "눈을 부릅뜬 베스파시아누스의 얼굴이 흉악한 상/죽을상으로 추하게 일그러진다."
+  },
+  {
+   "id": "da1101:T00042",
+   "source_sha256": "a2e6c5928c5ed07114b02b968a7f322f10fa56067f1e0f64ee1afdfb02426941",
+   "ko": "하지만 그 표정도 머지않아 피안개가 되어 무너져 간다."
+  },
+  {
+   "id": "da1101:T00043",
+   "source_sha256": "9c27db7e5eabc05eee4b860960fea7fca8f5a91f2ad3afda2274eb1af545a7c8",
+   "ko": "그 모양새는 피눈물을 흘리고 있는 것처럼도 보인다.\n\n　궁극의 마인――신의 세계에 도달하는 마인을 창조한다."
+  },
+  {
+   "id": "da1101:T00044",
+   "source_sha256": "d64338543cefb2de300599bc301636cde5647ea0f66d1f40584b26079b240a08",
+   "ko": "베스파시아누스가 일찍이 품었던 야망."
+  },
+  {
+   "id": "da1101:T00045",
+   "source_sha256": "8b8707431080fa313d40f533222dd37c57252e6f76aa2ad634910e43da2245a1",
+   "ko": "하지만 그것조차 무한나선을 돌리는 톱니바퀴 하나에 불과했던 것이다.\n\n　그는 가장 "
+  },
+  {
+   "id": "da1101:R00009",
+   "source_sha256": "ee858278f5687b8d214a22786e572212aa29a832dc443559b6a40f70ddf2b34a",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1101:T00046",
+   "source_sha256": "369f8e381003ec4eb6a10277c711b4cb8848a745bf75802ab936c26f71f59ae6",
+   "ko": "시샘하"
+  },
+  {
+   "id": "da1101:T00047",
+   "source_sha256": "d515c3a2a6fca219ad8d7f0d07ea60a3cd36278e95bc657d3b2293444f6e063c",
+   "ko": "고, 갈망하고, 증오했던 자를 자신의 손으로 낳았다."
+  },
+  {
+   "id": "da1101:T00048",
+   "source_sha256": "d283296338bd267c81e9a74f4be30fad325d9f4dc0cce2373382d9b6a1a9efe2",
+   "ko": "그것을 알았을 때의 절망은 깊고 깊게 새겨져 있다――단순한\n한때의 악몽에 불과한, "
+  },
+  {
+   "id": "da1101:R00010",
+   "source_sha256": "d678372d713747469b10f4792cf13db56b08c0d18951f29918223489534c676a",
+   "ko": "고스트",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1101:T00049",
+   "source_sha256": "b6aecca8507e0f185f035894ed2db6d2f96d191b077e2c8fb6939e48225ff4e5",
+   "ko": "망령"
+  },
+  {
+   "id": "da1101:T00050",
+   "source_sha256": "1ccafd908a2b9326c34f6cf76c02f3a26b11dba69d52fffa17cb88c392f11db3",
+   "ko": "인 자신에게도.\n\n　하지만 그의 운명을 농락한 그 마인조차도, 지금 이 세계에서는 단순한\n악몽의 "
+  },
+  {
+   "id": "da1101:R00011",
+   "source_sha256": "97b2f721401431654538b81dee22925e4bf0b9b875ee44fcb510264a07245b8f",
+   "ko": "한 조각으로서",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1101:T00051",
+   "source_sha256": "8edbfa2625f43270711bf553c1e97d8b2a95d2a5a5518999af9269ae0bb06fe3",
+   "ko": "잔재로서"
+  },
+  {
+   "id": "da1101:T00052",
+   "source_sha256": "85e36f37eb58836669c6751bd4df2994bc42321a7b5bfd89b3e660678ab3b941",
+   "ko": ", "
+  },
+  {
+   "id": "da1101:R00012",
+   "source_sha256": "f58c026c179665797b00157bf4ac8d76bb0bc4ae666609165f837f7ff7226785",
+   "ko": "어나더 블러드",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1101:T00053",
+   "source_sha256": "6e8e9b1c9811b67946c5b79ca250b2452a28512312859f7f87863bd4f67d8602",
+   "ko": "자아내는 자"
+  },
+  {
+   "id": "da1101:T00054",
+   "source_sha256": "138bd3b439deb1b1d6ba1eaedae451308574047488748b104c40901f2caaf44c",
+   "ko": "의 뜻에 따르는 장기말에 불과한 것이다."
+  },
+  {
+   "id": "da1101:T00055",
+   "source_sha256": "553b411b404c5487afea38f5a988db0493fbf659cbb31948f07e9ee0cc06a802",
+   "ko": "「시시하군!　이 세상은 실로 시시해!　후하하하하하하하하하!」"
+  },
+  {
+   "id": "da1101:T00056",
+   "source_sha256": "5cafa19ac3dbf9141f1d2ccff38e30b3573f19b72ea0f0406b6184b671d93cf9",
+   "ko": "모든 것은 "
+  },
+  {
+   "id": "da1101:R00013",
+   "source_sha256": "c4487bd1a74b7e6567e8251aa36166d53fd67fb729882d77eb99bbdb3520d986",
+   "ko": "일시적인 것이다",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1101:T00057",
+   "source_sha256": "ce79fbcbb9e9b78874c7ed7ca7e970fc3cf8cd3e89975e407e5d16221c08f5ed",
+   "ko": "허구다"
+  },
+  {
+   "id": "da1101:T00058",
+   "source_sha256": "8919a55f592c9838df42e08533efb9859448a922d06b109ad6541812a986a7c0",
+   "ko": "."
+  },
+  {
+   "id": "da1101:T00059",
+   "source_sha256": "a15fdbe2d766215bc91c64c89c736834d5a8ca66d5999ed366ed87d3f0b1464c",
+   "ko": "몸을 태우는 고통도, 마음을 좀먹는 증오도, 전부 전부.\n\n　허구를 덧발라 굳힌 취약한 악몽을 가속시켜, "
+  },
+  {
+   "id": "da1101:R00014",
+   "source_sha256": "f58c026c179665797b00157bf4ac8d76bb0bc4ae666609165f837f7ff7226785",
+   "ko": "어나더 블러드는",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da1101:T00060",
+   "source_sha256": "2888552182762da6d494fb53f8c5cb00971c193e443f8fd3b49a36142100b140",
+   "ko": "이야기꾼은"
+  },
+  {
+   "id": "da1101:T00061",
+   "source_sha256": "9581d4ace53b024255e45f91564f7769b7c7f09ed6d74fb76781d4e418e853db",
+   "ko": " 어디로 향할 셈인가――\n\n　모른다."
+  },
+  {
+   "id": "da1101:T00062",
+   "source_sha256": "6b7b984ac8fc92b76baca3855940232acc55c2c0a5ff3173f4d96ae07d212889",
+   "ko": "알 바 아니다."
+  },
+  {
+   "id": "da1101:T00063",
+   "source_sha256": "af268301c8791448c380e6b1a89375dcfcdc17126328cca6939a27e075c70e7b",
+   "ko": "차례를 마친 배우는 냉큼 무대에서 내려가야 한다."
+  },
+  {
+   "id": "da1101:T00064",
+   "source_sha256": "4a35caf48b9c7b6f04eace2ab7fcde800a796001c6e9e5b47d509b905a5bf6c6",
+   "ko": "「작별이다!　이런 시시한\n　세계와는 이걸로, 이걸로,\n　정말로, 정말로 작별하자꾸나!\n　후하하하하하하하하하하하하!」"
+  },
+  {
+   "id": "da1101:T00065",
+   "source_sha256": "eb5f63a6ef968881981f5b7d6c664aea1270d31c380666bca696a75855bd86b9",
+   "ko": "붉게 녹아내리는 기체."
+  },
+  {
+   "id": "da1101:T00066",
+   "source_sha256": "d38b3b6430fd99f54f76582f213fec01673fd0e523dc6e8e41ec1715c29d414f",
+   "ko": "붉게 녹아드는 몸."
+  },
+  {
+   "id": "da1101:R00015",
+   "source_sha256": "5e50b96c27b2f416824dd21237894b52728e9f8acf21f77ae97378faaafaa899",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1101:T00067",
+   "source_sha256": "09152a2380b09e688a514e86056805ca633afd8381453280be7f536c7140c91a",
+   "ko": "풀"
+  },
+  {
+   "id": "da1101:T00068",
+   "source_sha256": "0a21f3d8410f4a8f60d2eb405e7355cf4662b8ceb809c880af080b70f2b2a8a1",
+   "ko": "려 간다. "
+  },
+  {
+   "id": "da1101:R00016",
+   "source_sha256": "5e50b96c27b2f416824dd21237894b52728e9f8acf21f77ae97378faaafaa899",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da1101:T00069",
+   "source_sha256": "09152a2380b09e688a514e86056805ca633afd8381453280be7f536c7140c91a",
+   "ko": "풀"
+  },
+  {
+   "id": "da1101:T00070",
+   "source_sha256": "0a21f3d8410f4a8f60d2eb405e7355cf4662b8ceb809c880af080b70f2b2a8a1",
+   "ko": "려 간다."
+  },
+  {
+   "id": "da1101:T00071",
+   "source_sha256": "ab1507c5cffcee9a090108bdaee5c5ce097da461b584ad6da2933562f2d586d4",
+   "ko": "혈풍이 되어 소용돌이치며, 대기에 흩어져 간다."
+  },
+  {
+   "id": "da1101:T00072",
+   "source_sha256": "46707678c621d40577beeab9f37a37a805eb64f08f229e18949fc4463bac7e9c",
+   "ko": "꿈은 그저 꿈으로 흩어져 사라질 뿐이다."
+  },
+  {
+   "id": "da1101:T00073",
+   "source_sha256": "f6331f490038ba67a0b5841c0f054b6b59511719800132b95e728c1a92ac8a46",
+   "ko": "「제멋대로 자기완결하고선,\n　가 버렸네……」"
+  },
+  {
+   "id": "da1101:T00074",
+   "source_sha256": "d2efab2885077e3c0c039f31bed1a451d178221732deef901f2524dd974c782d",
+   "ko": "「……레이디, 나아가자.\n　갈 길을 서둘러야 해」"
+  },
+  {
+   "id": "da1101:T00075",
+   "source_sha256": "ad85ff8e1c2aac0a5d3d5a6e4169fe9782fdc9061d36f247caed23659fb232ac",
+   "ko": "「응, 그러자」"
+  },
+  {
+   "id": "da1101:T00076",
+   "source_sha256": "75bebcf8b6a69ca8ce4d8db4a93ae5cdc34943394e323aeddbf38132d795fe47",
+   "ko": "전투로 인한 파괴 흔적만을 이 자리에 남기고,\n　암브로시우스는 날아갔다."
+  },
+  {
+   "id": "da1101:T00077",
+   "source_sha256": "b7a7e83b109dc0902742a9e263ea9ce65caaefa97e3be7a34b45a2d61511974d",
+   "ko": "싸움의 여열조차 완전히 식어 버린 옛 전장을 아쉬워하듯,\n　붉은 바람이 분다.\n\n　바람이 실어 나르는 것은 베스파시아누스――덧없는 악몽의, 최후의 생각이다."
+  },
+  {
+   "id": "da1101:T00078",
+   "source_sha256": "a098d3d44d01b0f114aa5b35a5c5a422c12c27e937e25cfc36d3f8524e94ea8a",
+   "ko": "――그러나, 자신보다도\n　　　　깊은 증오를 품은 자는 어떠한가?\n\n　\n　\n주어진 역할에 고분고분 따를 것인가?"
+  },
+  {
+   "id": "da1101:T00079",
+   "source_sha256": "42a20a27f9378cd5fc94af27f197da19337b84a32f4d4c1ba64d67957fc601d9",
+   "ko": "「그렇지 않은가…… 『짐승』이여」"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da1101:R00001",
+   "kind": "ruby_decision",
+   "note": "'闇黒(암흑)'의 단순 한자 독음 루비('あんこく')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1101:R00002",
+   "kind": "ruby_decision",
+   "note": "'嗤(비웃다)'의 단순 훈독 루비('わら')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1101:R00003",
+   "kind": "ruby_decision",
+   "note": "'冥(어둡다)'의 단순 훈독 루비('くら')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1101:R00004",
+   "kind": "ruby_decision",
+   "note": "'清々(후련)'의 단순 독음 루비('せいせい')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1101:R00005",
+   "kind": "ruby_decision",
+   "note": "'窮極(궁극)'의 단순 한자 독음 루비('きゅうきょく')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1101:R00008",
+   "kind": "ruby_decision",
+   "note": "'哄笑(홍소)'의 단순 훈독 루비('わら')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1101:R00009",
+   "kind": "ruby_decision",
+   "note": "'嫉(시샘하다)'의 단순 훈독 루비('ねた')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1101:R00015",
+   "kind": "ruby_decision",
+   "note": "'解(풀리다)'의 단순 훈독 루비('ほど')이므로 omit_redundant 처리."
+  },
+  {
+   "id": "da1101:R00016",
+   "kind": "ruby_decision",
+   "note": "'解(풀리다)'의 단순 훈독 루비('ほど')이므로 omit_redundant 처리."
+  }
+ ]
+}

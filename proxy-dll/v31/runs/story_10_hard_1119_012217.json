@@ -1,0 +1,212 @@
+{
+ "out": "P:\\AI\\khd-runtime-fix\\logs\\duel_1119_012217",
+ "samples": 520,
+ "enemy_def": "IM.def",
+ "hp_end": [
+  0,
+  539
+ ],
+ "enemy_motions": [
+  "BAD_FAIL",
+  "BAD_TRIP",
+  "CHOHATSU",
+  "COMBO1",
+  "COMBO2",
+  "COMBO3",
+  "DAMAGE2",
+  "DAMAGE2_1",
+  "DAMAGE3",
+  "DAMAGE4",
+  "EPIDEMIC",
+  "FORWARD_B",
+  "FORWARD_G",
+  "GUARD",
+  "KICK",
+  "MODE_CHANGE1",
+  "MODE_CHANGE2",
+  "ONRYOU",
+  "START",
+  "STOP_G",
+  "S_VANPIRE",
+  "TAIZAI",
+  "WIN1"
+ ],
+ "big_moves": [
+  {
+   "motion": "S_VANPIRE",
+   "t0": 26.1,
+   "t1": 28.4,
+   "f0": 4,
+   "f1": 142,
+   "hp_lost": 0,
+   "next": "FORWARD_B"
+  },
+  {
+   "motion": "S_VANPIRE",
+   "t0": 30.7,
+   "t1": 31.2,
+   "f0": 3,
+   "f1": 34,
+   "hp_lost": 0,
+   "next": "DAMAGE2"
+  },
+  {
+   "motion": "S_VANPIRE",
+   "t0": 51.6,
+   "t1": 53.7,
+   "f0": 8,
+   "f1": 130,
+   "hp_lost": 0,
+   "next": "EPIDEMIC"
+  },
+  {
+   "motion": "S_VANPIRE",
+   "t0": 56.7,
+   "t1": 57.8,
+   "f0": 5,
+   "f1": 66,
+   "hp_lost": 0,
+   "next": "EPIDEMIC"
+  },
+  {
+   "motion": "S_VANPIRE",
+   "t0": 63.9,
+   "t1": 63.9,
+   "f0": 2,
+   "f1": 2,
+   "hp_lost": 0,
+   "next": "CHOHATSU"
+  },
+  {
+   "motion": "MODE_CHANGE1",
+   "t0": 76.1,
+   "t1": 76.1,
+   "f0": 2,
+   "f1": 2,
+   "hp_lost": 0,
+   "next": "TAIZAI"
+  },
+  {
+   "motion": "TAIZAI",
+   "t0": 78.2,
+   "t1": 92.0,
+   "f0": 2,
+   "f1": 770,
+   "hp_lost": 11,
+   "next": "BAD_TRIP"
+  },
+  {
+   "motion": "S_VANPIRE",
+   "t0": 125.2,
+   "t1": 127.2,
+   "f0": 13,
+   "f1": 135,
+   "hp_lost": 0,
+   "next": "STOP_G"
+  },
+  {
+   "motion": "S_VANPIRE",
+   "t0": 140.3,
+   "t1": 142.6,
+   "f0": 2,
+   "f1": 139,
+   "hp_lost": 0,
+   "next": "EPIDEMIC"
+  },
+  {
+   "motion": "S_VANPIRE",
+   "t0": 145.6,
+   "t1": 146.7,
+   "f0": 15,
+   "f1": 76,
+   "hp_lost": 0,
+   "next": "STOP_G"
+  },
+  {
+   "motion": "S_VANPIRE",
+   "t0": 169.9,
+   "t1": 171.9,
+   "f0": 16,
+   "f1": 138,
+   "hp_lost": 0,
+   "next": "STOP_G"
+  },
+  {
+   "motion": "S_VANPIRE",
+   "t0": 185.2,
+   "t1": 187.3,
+   "f0": 13,
+   "f1": 136,
+   "hp_lost": 0,
+   "next": "STOP_G"
+  },
+  {
+   "motion": "MODE_CHANGE2",
+   "t0": 206.7,
+   "t1": 206.7,
+   "f0": 2,
+   "f1": 2,
+   "hp_lost": 0,
+   "next": "ONRYOU"
+  },
+  {
+   "motion": "ONRYOU",
+   "t0": 208.5,
+   "t1": 215.6,
+   "f0": 1,
+   "f1": 683,
+   "hp_lost": 0,
+   "next": "WIN1"
+  }
+ ],
+ "enemy_hp_drops": {
+  "in_guarded_move": [
+   11
+  ],
+  "outside": [
+   15,
+   30,
+   22,
+   45,
+   22,
+   22,
+   45,
+   22,
+   22,
+   22,
+   45,
+   11,
+   45,
+   30,
+   22,
+   30,
+   22,
+   22,
+   22,
+   45,
+   22,
+   22,
+   45
+  ]
+ },
+ "onryou_frames_per_s": 112.9,
+ "proxy": [
+  "pid 74660  fight kind: FREE FIGHT (scene 8, menu mask 0x200007e2) - 자동 전투 on",
+  "pid 74660  fight difficulty scope: scene=8 duel=0 combat_rank=2 duel_AI=2 story_rank=2",
+  "pid 74660  STORY_ONRYOU_FAST installed: 어려움 story / FREE FIGHT - Tiberius's 원령 주탄 charges in about half the time",
+  "pid 74660  ONRYOU_FAST story 어려움 Beelzebub's curse bullet goes at frame 560 after 302 updates (its own speed: 560)"
+ ],
+ "battle": 10,
+ "want_difficulty": 2,
+ "fixture": false,
+ "notes": [
+  "difficulty variable 0x100ee708: 1 -> 2",
+  "window position back to (0, 215)",
+  "SAVE restored from save_before_1119_012217; registry ActDifficult back to 2"
+ ],
+ "registry_after": {
+  "ActDifficult": 2,
+  "XPos": 0,
+  "YPos": 215
+ }
+}

@@ -1,0 +1,1236 @@
+{
+ "schema": "khd-codex-correction-v1",
+ "packet_id": "P0058_da0503",
+ "model_id": "Gemini 4 Argon (Medium)",
+ "records": [
+  {
+   "id": "da0503:T00001",
+   "source_sha256": "0eded5abe0abdf9f80c7a0d867ba68a92fbec2a7d74d39e86ea63b51a55829f8",
+   "ko": "――이것은 존재하지 않는 이야기이다."
+  },
+  {
+   "id": "da0503:T00002",
+   "source_sha256": "1ca49e1a2e7e2131b2c6f789901b8413941c425d0ba43fb350bc75fe060200ca",
+   "ko": "등장인물"
+  },
+  {
+   "id": "da0503:T00003",
+   "source_sha256": "e36519f52550533cb6e35af115bf20e5a2d9e1569bd3ff6fb80913cd5c9b07c8",
+   "ko": "진홍의 소녀                  ：사령비법　혈액언어판"
+  },
+  {
+   "id": "da0503:T00004",
+   "source_sha256": "a8251b6153c763be2652d8fded614244bcc82edb218ac24e4e3774cd521c05b4",
+   "ko": "히어로                    ：■■■　■■"
+  },
+  {
+   "id": "da0503:T00005",
+   "source_sha256": "b12ffe9da5e65ff264b0fd1744510809d18dc62e7adf6197ef30d4fc3cc14b81",
+   "ko": "엄마                   ：알 아지프"
+  },
+  {
+   "id": "da0503:T00006",
+   "source_sha256": "35d68fe182ea7e3a0a4cf9faecaed46c1c0dbc17c0ba9619b180e9932838f93a",
+   "ko": "광대(내레이션)：■■■■■■■■■■(우정출연)"
+  },
+  {
+   "id": "da0503:T00007",
+   "source_sha256": "3e0f9aa57866af5002647e3176d34b24d1c282be4f7d01a580d9d9f482e82f21",
+   "ko": "관객                         ：다이쥬지　쿠로"
+  },
+  {
+   "id": "da0503:T00008",
+   "source_sha256": "9677a69ce877193198e156ce80bafe6ffe5f2faeed76d22e29ff1343a1c18bf0",
+   "ko": "【내레이션】\n「"
+  },
+  {
+   "id": "da0503:R00001",
+   "source_sha256": "2ff5cc6b5ee14b37d7e2d8f8498457ffc045df2b89bf1ea93a761ca97b1d0d00",
+   "ko": "레이디스 앤 젠틀멘",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0503:T00009",
+   "source_sha256": "ee0b3c7a74f5fab10f82440c038e4e4c15a3e8fcaa20fa35a767a67d0153d31f",
+   "ko": "신사 숙녀 여러분"
+  },
+  {
+   "id": "da0503:T00010",
+   "source_sha256": "ea243be9855e31a340638c1102b368746da1120ee326f19660a4d3ccae8c3fa3",
+   "ko": ", 오래 기다리셨습니다.\n　그럼 시작하죠.\n　시작조차 하지 않은 이야기, 가능성조차 없는 이야기를.\n　관람료는 보시고 돌아가실 때 내시면 됩니다」"
+  },
+  {
+   "id": "da0503:T00011",
+   "source_sha256": "ed560dc2875afc58aa7449ee564a1f695ec8866b3f2c0b63f57832c28cbb62db",
+   "ko": "(개막)"
+  },
+  {
+   "id": "da0503:T00012",
+   "source_sha256": "58e1a0f99f241f67dcf763c7dd1b2d988d35d382ad36994ac33b9203d66bc4b0",
+   "ko": "(무대, 어두운 채로)"
+  },
+  {
+   "id": "da0503:T00013",
+   "source_sha256": "554056e95975511bd0f79c6c3b1d2631cadb6be833a551bc36abe316e47ff3af",
+   "ko": "(무대 중앙, 『히어로』에게 스포트라이트)"
+  },
+  {
+   "id": "da0503:T00014",
+   "source_sha256": "882cbf0968f5b6d2fa998ca7579ebc1c8f6cc99b6cb9977e6a9d4d3c232e3034",
+   "ko": "【히어로】\n「검에 마음을 깃들이고, 피에 힘을 부여받아, 나는 삶을 받았다」"
+  },
+  {
+   "id": "da0503:T00015",
+   "source_sha256": "28e70a2949acb82a9757e2b0015dd046e647468f6d2674b10628b9fa9b8afe0f",
+   "ko": "(무대 조명. 『히어로』의 등 뒤에 있는 로봇을 아래에서 비춘다)"
+  },
+  {
+   "id": "da0503:T00016",
+   "source_sha256": "9b8495287770ca8554aeb913e00e51bcc0e376fc5d601da1e31f8a171c9d68a9",
+   "ko": "【히어로】\n「나는 기사. 나의 검은 내 영혼의 긍지.\n　질주하는 "
+  },
+  {
+   "id": "da0503:R00002",
+   "source_sha256": "ba5cc6aa3faed01e4b0e2bc0fb6fc61150d9b3e08de1c40bb0f7334c99299dc5",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0503:T00017",
+   "source_sha256": "cbf25022620199332bfe298a5b20c1f28d513c3aab0004b97aca4b1fe2467490",
+   "ko": "강철"
+  },
+  {
+   "id": "da0503:T00018",
+   "source_sha256": "e96c1ab684d1924f9e5d67f75d1863cf801f92069c0a338d9ecafc051c39106b",
+   "ko": "의 진뢰. 자, 나아가자」"
+  },
+  {
+   "id": "da0503:T00019",
+   "source_sha256": "b89dc318a41e13aa67150681e5b2013aa77a95584bf5409239d1dab36d969cba",
+   "ko": "(무대가 점멸하고 천둥소리가 울려 퍼진다)"
+  },
+  {
+   "id": "da0503:T00020",
+   "source_sha256": "c9d98ecfd2f2dc0ff85bf6a5299a7ac65e852e650ceff958050c37b6d1b67917",
+   "ko": "(조명을 끈다. 『히어로』를 향한 스포트라이트는 그대로 두고)"
+  },
+  {
+   "id": "da0503:T00021",
+   "source_sha256": "61a7021c07f0707acc7a41422b9f645bb6c12afd7acf0f988239ef561ae7d6b4",
+   "ko": "【히어로】\n「나는 영웅. 신의 피를 이어받은 고귀한 태생.\n　피에 부과된 천명에 따라 위업을 완수하는 자이니라」"
+  },
+  {
+   "id": "da0503:T00022",
+   "source_sha256": "9677a69ce877193198e156ce80bafe6ffe5f2faeed76d22e29ff1343a1c18bf0",
+   "ko": "【내레이션】\n「"
+  },
+  {
+   "id": "da0503:R00003",
+   "source_sha256": "11d545335718d5b155aae3aae6407f189c195318c3bbd0a3a5ae27fe8524fc31",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0503:T00023",
+   "source_sha256": "e111044275b34c4c803c5e0c5611b36600f822a5ed0b1ce9f6a075ebb4a0a4db",
+   "ko": "베틀"
+  },
+  {
+   "id": "da0503:T00024",
+   "source_sha256": "d6a4ba7eea0b1a1f5c1771dbaa1c1eac5f1e1db3ba00ef37aac4dd43f984d763",
+   "ko": "에는 실패를. 열쇠에는 자물쇠를.\n　그렇다면 영웅에게는?　영웅에게는 무엇이 필요할까?」"
+  },
+  {
+   "id": "da0503:T00025",
+   "source_sha256": "b8f260a131dec0762e6e74e86ce2eda2c6b8ca775fed7ee6bb6837e1bd7131ec",
+   "ko": "(『히어로』를 향한 스포트라이트를 끈다)"
+  },
+  {
+   "id": "da0503:T00026",
+   "source_sha256": "0c09df942fc782812a0e6e338e8d91020b441da6531e623ab6495f634d218462",
+   "ko": "(이번에는 『"
+  },
+  {
+   "id": "da0503:R00004",
+   "source_sha256": "162d9a41d24e32c9085b158c16c2d4a2f6c70ebcae501e90585334040a173305",
+   "ko": "트릭스터",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0503:T00027",
+   "source_sha256": "4220719aba1c503c51ad60d85d72792d32d2d40da142a8e4ec32631eef26b292",
+   "ko": "광대"
+  },
+  {
+   "id": "da0503:T00028",
+   "source_sha256": "53f05f01a65b27c328713f906f08acc0ce994481d559ee89ce115f12f9d344e5",
+   "ko": "』에게 스포트라이트)"
+  },
+  {
+   "id": "da0503:T00029",
+   "source_sha256": "7361c3b9396ad9c18bfd630ebf79d53dcd559f8ea7b7bb0677aeecf7a7de265d",
+   "ko": "(광대, 과장된 몸짓으로 외친다)"
+  },
+  {
+   "id": "da0503:T00030",
+   "source_sha256": "8b99ea96dc32490a861daca42ea19853cc8e412601e63b1ae8820029e894d3a1",
+   "ko": "【내레이션】\n「그렇다!　『적』이다!　영웅에게는 『적』이 필요한 것이다!」"
+  },
+  {
+   "id": "da0503:T00031",
+   "source_sha256": "d6e9c48c290d9eac5a580ce906d614e8dad07bc9e80e381f403c200610a637ed",
+   "ko": "(무대 밝아진다."
+  },
+  {
+   "id": "da0503:T00032",
+   "source_sha256": "106d60ea9754a65ad645238cec361e3a75940539bc792741d718dec03c02217d",
+   "ko": "배경은 폐허로 바뀌어 있다)"
+  },
+  {
+   "id": "da0503:T00033",
+   "source_sha256": "a3f045066d8b7b04a54c5763fec875d455f23c3964c8385553086a5a9ef050c7",
+   "ko": "【내레이션】\n「자, 나쁜 드래곤을!\n　추악한 마녀를!\n　무시무시한 마왕을 내놓아라!」"
+  },
+  {
+   "id": "da0503:T00034",
+   "source_sha256": "a6a1898ba3a0e5e1c59069cf803599c169379fb671b9512e1e4c17f7f5963608",
+   "ko": "【히어로】\n「내놓아라!」"
+  },
+  {
+   "id": "da0503:T00035",
+   "source_sha256": "b3820f75fcbec21dad77951b8fe0a7706dd580997a5c1f6877d3e38ecd0a5bfa",
+   "ko": "(암전)\n　　(사람을 검으로 베는 소리가 정적 속에 울린다)"
+  },
+  {
+   "id": "da0503:T00036",
+   "source_sha256": "8db3d4d7c277b7ba9d0b154987110ee50fb3e38a6609db3f8baa3b5fb73aaedd",
+   "ko": "(스포트라이트. 피투성이 검을 한 손에 들고 우두커니 서 있는 『히어로』)"
+  },
+  {
+   "id": "da0503:T00037",
+   "source_sha256": "c30617a9c552022d4b80c4a9b2077c17ad70f87e54a0d55fab87e338d0fdfa6c",
+   "ko": "(그 발밑, 피바다 속에 『"
+  },
+  {
+   "id": "da0503:R00005",
+   "source_sha256": "96919a018c6c6b7649740270301f3c5e8fc0a72dffeebd4d0817c679603ee9bc",
+   "ko": "그레이트 마더",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0503:T00038",
+   "source_sha256": "4a951d5a64c956e8d79fe3532a1752abc0e9df343d72e627753c75d03df703a7",
+   "ko": "엄마"
+  },
+  {
+   "id": "da0503:T00039",
+   "source_sha256": "983cc17f97225ab21e539a0e77755dcbd5e69f18111cbcaa5791daad86c34334",
+   "ko": "』가 쓰러져 있다)"
+  },
+  {
+   "id": "da0503:T00040",
+   "source_sha256": "446d9a4d92acda621cafaf7808b6452426952724a6e6ddcb212ea30a2d8ccee3",
+   "ko": "(스포트라이트 속으로 『"
+  },
+  {
+   "id": "da0503:R00006",
+   "source_sha256": "162d9a41d24e32c9085b158c16c2d4a2f6c70ebcae501e90585334040a173305",
+   "ko": "트릭스터",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0503:T00041",
+   "source_sha256": "4220719aba1c503c51ad60d85d72792d32d2d40da142a8e4ec32631eef26b292",
+   "ko": "광대"
+  },
+  {
+   "id": "da0503:T00042",
+   "source_sha256": "a8c9add607da184f58510cea165a12acb8d8f2a6ec29f98d42d64d5fc42d8a3f",
+   "ko": "』가 걸어 들어간다)"
+  },
+  {
+   "id": "da0503:T00043",
+   "source_sha256": "ed46851543153b66dd10b17f110436a95b4ca05909b5a3b0762c0103c29bedac",
+   "ko": "【내레이션】\n「여자아이는 무엇으로 만들어졌을까?\n　여자아이는 무엇으로 만들어졌을까?」"
+  },
+  {
+   "id": "da0503:T00044",
+   "source_sha256": "252afcd780fe34e4129b1f73f6c45e2ee319a15ecc0a593549bcdf6ff8c850d4",
+   "ko": "(『"
+  },
+  {
+   "id": "da0503:R00007",
+   "source_sha256": "162d9a41d24e32c9085b158c16c2d4a2f6c70ebcae501e90585334040a173305",
+   "ko": "트릭스터",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0503:T00045",
+   "source_sha256": "4220719aba1c503c51ad60d85d72792d32d2d40da142a8e4ec32631eef26b292",
+   "ko": "광대"
+  },
+  {
+   "id": "da0503:T00046",
+   "source_sha256": "5854e175baf8dab5323954f0120584722f8d2816b5554683d48a9eec6dd49bfc",
+   "ko": "』, 주머니에서 설탕 병을 꺼내어,\n　『"
+  },
+  {
+   "id": "da0503:R00008",
+   "source_sha256": "96919a018c6c6b7649740270301f3c5e8fc0a72dffeebd4d0817c679603ee9bc",
+   "ko": "그레이트 마더",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0503:T00047",
+   "source_sha256": "4a951d5a64c956e8d79fe3532a1752abc0e9df343d72e627753c75d03df703a7",
+   "ko": "엄마"
+  },
+  {
+   "id": "da0503:T00048",
+   "source_sha256": "6d68dc4417a891d9466811d16dad772ece4358e7ef0efb973970858a955c8fef",
+   "ko": "』에게 뿌린다)"
+  },
+  {
+   "id": "da0503:T00049",
+   "source_sha256": "992a53a496ab4e7834f32f4bd93082f5caa110ee1d41e097ba823e81f6445505",
+   "ko": "【내레이션】\n「설탕」"
+  },
+  {
+   "id": "da0503:T00050",
+   "source_sha256": "1033bac1733d5e9955eb1be50acef886edddd40ef244a4bc02cb5c393482b9a2",
+   "ko": "(설탕을 내던지고 주머니를 뒤진다)"
+  },
+  {
+   "id": "da0503:T00051",
+   "source_sha256": "e05997d117b5f945f534591a0d90cea8098bd81f4560d85b4116f9adcccddabe",
+   "ko": "(좀처럼 찾지 못하고 초조하게 여기저기 주머니를 뒤진다)"
+  },
+  {
+   "id": "da0503:T00052",
+   "source_sha256": "96248670ae125eb9c4db09b0a6e2af125ffa65f7abd8d106ee739f4778fd9e44",
+   "ko": "(후추 병을 찾아내고 만면의 미소를 띠며 꺼낸다)"
+  },
+  {
+   "id": "da0503:T00053",
+   "source_sha256": "b26409bc9ab82201b226c4eadd78737b7dfe084f8c92dfd582cf54e04adc612b",
+   "ko": "【내레이션】\n「스파이스」"
+  },
+  {
+   "id": "da0503:T00054",
+   "source_sha256": "76723b9429316d375a0e7aced86d82af9ef8183e78cca50787ddb9512dd67412",
+   "ko": "(후추를 『"
+  },
+  {
+   "id": "da0503:R00009",
+   "source_sha256": "96919a018c6c6b7649740270301f3c5e8fc0a72dffeebd4d0817c679603ee9bc",
+   "ko": "그레이트 마더",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0503:T00055",
+   "source_sha256": "4a951d5a64c956e8d79fe3532a1752abc0e9df343d72e627753c75d03df703a7",
+   "ko": "엄마"
+  },
+  {
+   "id": "da0503:T00056",
+   "source_sha256": "6d68dc4417a891d9466811d16dad772ece4358e7ef0efb973970858a955c8fef",
+   "ko": "』에게 뿌린다)"
+  },
+  {
+   "id": "da0503:T00057",
+   "source_sha256": "9e35ce6ef17f74b78f18e984d0ce31cc8be4435cf8308b34f97b14cf6ae3eb00",
+   "ko": "【엄마】\n「에취잇!」"
+  },
+  {
+   "id": "da0503:T00058",
+   "source_sha256": "277be4cdc6f42ac1cddae8b44ebc4c72aa317636df6f5c0a2e361be8303b57cd",
+   "ko": "【내레이션】\n「그리고……」"
+  },
+  {
+   "id": "da0503:T00059",
+   "source_sha256": "579b899fbd5f226e5bd33025bc5ffba7c523b22c6c49bfd3215c04069040bd45",
+   "ko": "(커다란 "
+  },
+  {
+   "id": "da0503:R00010",
+   "source_sha256": "2db31c8151c84b29bef7b10a4dac4a49139831fc5caf78c2abd921a7c5a9ac5c",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0503:T00060",
+   "source_sha256": "37448e34fdd84168a3f4028e23a9975eb44ec59c53dde1cf36851a343031cb65",
+   "ko": "상자"
+  },
+  {
+   "id": "da0503:T00061",
+   "source_sha256": "d586ceadfedd3dd537b89439719de70a0eda043fabba78d374b3e0af77ef9d62",
+   "ko": "가 무대 천장에서 내려와,\n　『"
+  },
+  {
+   "id": "da0503:R00011",
+   "source_sha256": "96919a018c6c6b7649740270301f3c5e8fc0a72dffeebd4d0817c679603ee9bc",
+   "ko": "그레이트 마더",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0503:T00062",
+   "source_sha256": "4a951d5a64c956e8d79fe3532a1752abc0e9df343d72e627753c75d03df703a7",
+   "ko": "엄마"
+  },
+  {
+   "id": "da0503:T00063",
+   "source_sha256": "15333c24d4aba6671b3f9805299e6fbe273e925e2a9ad026582f5ae3eaca167f",
+   "ko": "』를 안에 가둔다)"
+  },
+  {
+   "id": "da0503:T00064",
+   "source_sha256": "252afcd780fe34e4129b1f73f6c45e2ee319a15ecc0a593549bcdf6ff8c850d4",
+   "ko": "(『"
+  },
+  {
+   "id": "da0503:R00012",
+   "source_sha256": "162d9a41d24e32c9085b158c16c2d4a2f6c70ebcae501e90585334040a173305",
+   "ko": "트릭스터",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0503:T00065",
+   "source_sha256": "4220719aba1c503c51ad60d85d72792d32d2d40da142a8e4ec32631eef26b292",
+   "ko": "광대"
+  },
+  {
+   "id": "da0503:T00066",
+   "source_sha256": "4668e08fc8c60704ff4be73855c5fa7b15657bb93bb52624c83d31ce733aa4d0",
+   "ko": "』, 실크해트 주위를 흥미로운 듯 걸어 다닌다)"
+  },
+  {
+   "id": "da0503:T00067",
+   "source_sha256": "532629e5cd1219c8b6b2bf4a30569e57d7ffc704c2e83b9d6430b6e6073b1ca1",
+   "ko": "(『히어로』에게서 검을 빼앗는다)"
+  },
+  {
+   "id": "da0503:T00068",
+   "source_sha256": "252afcd780fe34e4129b1f73f6c45e2ee319a15ecc0a593549bcdf6ff8c850d4",
+   "ko": "(『"
+  },
+  {
+   "id": "da0503:R00013",
+   "source_sha256": "162d9a41d24e32c9085b158c16c2d4a2f6c70ebcae501e90585334040a173305",
+   "ko": "트릭스터",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0503:T00069",
+   "source_sha256": "4220719aba1c503c51ad60d85d72792d32d2d40da142a8e4ec32631eef26b292",
+   "ko": "광대"
+  },
+  {
+   "id": "da0503:T00070",
+   "source_sha256": "b77a58e78e37b96779af4f534a7b35fd15e277cd6d717db38b7741ee77c106fa",
+   "ko": "』, 상자를 검으로 일도양단한다)"
+  },
+  {
+   "id": "da0503:T00071",
+   "source_sha256": "67a1078b31a7b27c04c603de10bfc99ead8c21575805c0f9cae1ac2c859694e3",
+   "ko": "(두 동강 난 상자가 산산조각 무너진다)"
+  },
+  {
+   "id": "da0503:T00072",
+   "source_sha256": "348e0b2cdf345e2e5f737c6155ca33dbae7fd15b3891da3fdb797a5a4ec79396",
+   "ko": "(안에는 『"
+  },
+  {
+   "id": "da0503:R00014",
+   "source_sha256": "96919a018c6c6b7649740270301f3c5e8fc0a72dffeebd4d0817c679603ee9bc",
+   "ko": "그레이트 마더",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0503:T00073",
+   "source_sha256": "4a951d5a64c956e8d79fe3532a1752abc0e9df343d72e627753c75d03df703a7",
+   "ko": "엄마"
+  },
+  {
+   "id": "da0503:T00074",
+   "source_sha256": "474e3ec6bb5fff72025a1b44e45c079187c60413dea3095acb396978db6ea5b9",
+   "ko": "』가 없다)"
+  },
+  {
+   "id": "da0503:T00075",
+   "source_sha256": "f9758ad57763b0a48a96723c573e6da89f99f0b7df1e1e6b5aea40723e55a3d0",
+   "ko": "(대신에 『"
+  },
+  {
+   "id": "da0503:R00015",
+   "source_sha256": "46a06b5b46eb79a31f2ee4b5c0fa5c1a2da4d8c08cda9a3320553a849ba5e1ee",
+   "ko": "섀도",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0503:T00076",
+   "source_sha256": "dc7725f781faa9c185c04502fb2b23311784b108ba34ef44b1207a8811f0c455",
+   "ko": "진홍의 소녀"
+  },
+  {
+   "id": "da0503:T00077",
+   "source_sha256": "d2ace8ca7c1382594ac49733d077dff10152bc3024b39797c5fc89715dd5c73b",
+   "ko": "』가 과장된 몸짓으로 안에서 나타난다)"
+  },
+  {
+   "id": "da0503:T00078",
+   "source_sha256": "20bcb56ecac5066276e4ced6b4570bf6f14f08763730ddf8319147ffc6699e45",
+   "ko": "【진홍의 소녀】\n「멋진 것들 전부 다」"
+  },
+  {
+   "id": "da0503:T00079",
+   "source_sha256": "d6e9c48c290d9eac5a580ce906d614e8dad07bc9e80e381f403c200610a637ed",
+   "ko": "(무대 밝아진다."
+  },
+  {
+   "id": "da0503:T00080",
+   "source_sha256": "adb451bf39d33089400593546181a865f2d3c71540b614204222fc19f25ab845",
+   "ko": "배경은 꿈의 세계로)"
+  },
+  {
+   "id": "da0503:T00081",
+   "source_sha256": "914e00807c69eb2fe12a367641aecb8f9088a4d818e903189deab1cbed45236f",
+   "ko": "(만국기와 비둘기가 무대 여기저기서 튀어나온다)"
+  },
+  {
+   "id": "da0503:T00082",
+   "source_sha256": "2ea4d8899f07b2ebdc460aa6388d7a9c1c221f0ee73e2c867e52364ff8767c8f",
+   "ko": "【진홍의 소녀】\n「그런 것들로 만들어졌지이.\n　――그렇죠, 탐정님?」"
+  },
+  {
+   "id": "da0503:T00083",
+   "source_sha256": "42f0fbf1b278bf57dbef2dbbfa878513d0136881bc2740fef9f56fa73ed60f79",
+   "ko": "진홍의 소녀는 무대 위에서 내려와 객석――내 자리로 다가온다."
+  },
+  {
+   "id": "da0503:T00084",
+   "source_sha256": "bd86e530e2126378c61920af5694ea9803d8fbf8f8a78743c406021b29cea9d4",
+   "ko": "관객이 일제히 뒤돌아보며 나와 진홍의 소녀에게 주목한다."
+  },
+  {
+   "id": "da0503:R00016",
+   "source_sha256": "e20ae0b446b64ec30726e8cd3cf3f0661ee7d80f0a7aa8e089c9613434decaac",
+   "ko": "스크루",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0503:T00085",
+   "source_sha256": "776829118fcbf5056c6965a578d33822616d43187553ef0981e23c1cbd7c3ee2",
+   "ko": "나사"
+  },
+  {
+   "id": "da0503:T00086",
+   "source_sha256": "c4a40ea8fe35627476f7f8cb9e1fc7f8898f428c6d1ff18b0bc5479d5db39c5f",
+   "ko": ", "
+  },
+  {
+   "id": "da0503:R00017",
+   "source_sha256": "c738df21c0f62894b4fe0566bc7abe856080a066ffc8fee9e2d1fe625aeddc87",
+   "ko": "기어",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0503:T00087",
+   "source_sha256": "8f8342a36522012f82ec786d7442ec1892511d9de750d85de2ca7d922923895f",
+   "ko": "톱니바퀴"
+  },
+  {
+   "id": "da0503:T00088",
+   "source_sha256": "c4a40ea8fe35627476f7f8cb9e1fc7f8898f428c6d1ff18b0bc5479d5db39c5f",
+   "ko": ", "
+  },
+  {
+   "id": "da0503:R00018",
+   "source_sha256": "75430dd194b46b52f04da5b85a52e85be3a4250739da4a0f35faae5f1d6b8751",
+   "ko": "스프링",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0503:T00089",
+   "source_sha256": "dbffa4b690b03437fb91465f2ad9e4e995992bd8a7a47ff3f3c3433077ba0ed5",
+   "ko": "태엽"
+  },
+  {
+   "id": "da0503:T00090",
+   "source_sha256": "c4a40ea8fe35627476f7f8cb9e1fc7f8898f428c6d1ff18b0bc5479d5db39c5f",
+   "ko": ", "
+  },
+  {
+   "id": "da0503:R00019",
+   "source_sha256": "c9bcbe52fdbb15957ee0ef72970854daf3357a9d7e2f874781d23ead0cb89938",
+   "ko": "와이어",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0503:T00091",
+   "source_sha256": "ae2a9e08aae2d5144d08bab89f7112d50fbde27f3d9771106df8620dd17051c4",
+   "ko": "강선"
+  },
+  {
+   "id": "da0503:T00092",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  },
+  {
+   "id": "da0503:T00093",
+   "source_sha256": "8de2620bc2db2bf63b4e99ba227dd1b0ca24c10c23eec16712ed4e031c6f1898",
+   "ko": "그런 것들로 만들어져 있었다."
+  },
+  {
+   "id": "da0503:R00020",
+   "source_sha256": "9ea63f9a0a2f922357826c8e28e39c7f3ab7af406c11c4b05f3b7f6e4ed14fd0",
+   "ko": "틱톡맨",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0503:T00094",
+   "source_sha256": "cabca8932be38edb94085b09070cab3d889835576dbd094aa3bdfa97635ad891",
+   "ko": "기계 장치 인간"
+  },
+  {
+   "id": "da0503:T00095",
+   "source_sha256": "eb0d5884569b398e475b89e77a068c6c575a0064ff6a72fafc173102c4cfcd57",
+   "ko": "."
+  },
+  {
+   "id": "da0503:T00096",
+   "source_sha256": "ab724abd8c6a331ffa8604f030b669dc1f2184c622434464aea87bd9bb3ce799",
+   "ko": "「그래, 나는 만들어졌어.\n　히어로에 대항하는 『악』으로서 말이야」"
+  },
+  {
+   "id": "da0503:T00097",
+   "source_sha256": "d03f112e639d5c863ee9fce7322dfc377ba4d598b0df86d1a09f1e299813ca1a",
+   "ko": "「……만들어졌다구?」"
+  },
+  {
+   "id": "da0503:T00098",
+   "source_sha256": "beda6f2fc80bab60e2d1ad6fa9db8193b2b47824e2c6b19f620f84e71f20c384",
+   "ko": "진홍의 소녀는 고개를 끄덕이고, 관객 중 한 명에게서 "
+  },
+  {
+   "id": "da0503:R00021",
+   "source_sha256": "6a2ae60de17906b560e7fc1e22b75e197f7037d061c5f1bca819bfc1a0eb5ae7",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0503:T00099",
+   "source_sha256": "776829118fcbf5056c6965a578d33822616d43187553ef0981e23c1cbd7c3ee2",
+   "ko": "나사"
+  },
+  {
+   "id": "da0503:T00100",
+   "source_sha256": "899e763400ac34420e29bc868211e642932fdbfbd26f5c49a343eb2b1fae1520",
+   "ko": "를 뽑아냈다."
+  },
+  {
+   "id": "da0503:T00101",
+   "source_sha256": "c2b467bc74b1f043c3da312d7fa21fbc367afaa8f105344c62fd7c9c89421f4e",
+   "ko": "덜컹덜컹덜컹덜컹덜컹덜컹덜컹덜컹덜컹."
+  },
+  {
+   "id": "da0503:T00102",
+   "source_sha256": "e3b38e868280f8c9d392621420246e44573138927d56fc7a78b91bd5eaf14ee9",
+   "ko": "파멸적인 율동과 함께 관객은 산산조각이 되어 무너져 내린다."
+  },
+  {
+   "id": "da0503:T00103",
+   "source_sha256": "d3357378007d96f47df0eb3b9e33a150ff4f6b1189ab48cd6277e7c6362c33bb",
+   "ko": "객석에는 톱니바퀴와 태엽과 강선과 피부와 지방과 근육과 신경과 뼈와 "
+  },
+  {
+   "id": "da0503:R00022",
+   "source_sha256": "4d9c2e5034e9e2a5f43c4e3de284a48806e6bee89d22c509a1e23dd941c290a1",
+   "ko": "프레임",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0503:T00104",
+   "source_sha256": "344a7b0cbd6106c789bcba21540b806669ab6181e1c5957637193891fdc7ca40",
+   "ko": "철골"
+  },
+  {
+   "id": "da0503:T00105",
+   "source_sha256": "427566260604d16fb4a900e51400dd5dfac2ef749901179434735f0d0008d100",
+   "ko": "과 "
+  },
+  {
+   "id": "da0503:R00023",
+   "source_sha256": "896e493978e99cd163caeab7fc280fd9593f8aff88726ecc635b52ab89059f46",
+   "ko": "창자",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0503:T00106",
+   "source_sha256": "c8098e29d1f0dba38763749259681205269c70ee903e8c3fd6f22bd94b9ea5cf",
+   "ko": "오장육부"
+  },
+  {
+   "id": "da0503:T00107",
+   "source_sha256": "427566260604d16fb4a900e51400dd5dfac2ef749901179434735f0d0008d100",
+   "ko": "와 "
+  },
+  {
+   "id": "da0503:R00024",
+   "source_sha256": "04587df3668e9310c2ec996fd86c9f6581bab03238738546195910889d2dcc57",
+   "ko": "파이프",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0503:T00108",
+   "source_sha256": "c7209d2f7b8842c8f8da0b7ffceb76b49b63f359e088e6b5b459765668949f76",
+   "ko": "철관"
+  },
+  {
+   "id": "da0503:T00109",
+   "source_sha256": "427566260604d16fb4a900e51400dd5dfac2ef749901179434735f0d0008d100",
+   "ko": "과 "
+  },
+  {
+   "id": "da0503:R00025",
+   "source_sha256": "782f9b6761026bcd49fa0eb1bb7c04ed366bc2bcf80bbc80a5995b90f56504b0",
+   "ko": "튜브와",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0503:T00110",
+   "source_sha256": "0b54e7b7de55ea6076a57cd06cecbf8d002faa009acdd54868b21e6db3aa3d50",
+   "ko": "배관과"
+  },
+  {
+   "id": "da0503:T00111",
+   "source_sha256": "4d0df054b070a25fdacddcf927f3efe801a7b417cca87ca37e57006890eba3ce",
+   "ko": " 뇌와 "
+  },
+  {
+   "id": "da0503:R00026",
+   "source_sha256": "dfdd13f77dfc4a39ca4cd8f1375b1e377057817d88d5280d5b4a9a909a5a30d7",
+   "ko": "칩과",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0503:T00112",
+   "source_sha256": "51aa8b1b379f85a8d7f281f0f4d1764d14356574b9c9fcbc56aa8ce7d77f62d5",
+   "ko": "전뇌와"
+  },
+  {
+   "id": "da0503:T00113",
+   "source_sha256": "3566bca8409e40cea3c0484a57acbaa64065d698f44d688b38466189e86020af",
+   "ko": " 수은과 피와 초침과 시침과 분침이\n흩어져 있었다.\n\n　나사를 손가락으로 만지작거리며 소녀는 말을 잇는다."
+  },
+  {
+   "id": "da0503:T00114",
+   "source_sha256": "b269e4a0914bdda584d38bae797de9bd901ca4c150034266a3e4f1b22e3ddd7e",
+   "ko": "「"
+  },
+  {
+   "id": "da0503:R00027",
+   "source_sha256": "b6cf8cadd4fabcfa5f723a87508f6d7ff371e8dfe40c8ed871f6d69d250cc7cb",
+   "ko": "밸런스",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0503:T00115",
+   "source_sha256": "2588b5b9bacc1df62c25c12ed78ad4a1c67e7f1ae5a756f9ef9e8972548fd4ac",
+   "ko": "균형"
+  },
+  {
+   "id": "da0503:T00116",
+   "source_sha256": "63a022809a0ce06c628e1ac28a45e737e6e32f72289361e1b333294b4165cd79",
+   "ko": "인 거야, 분명.\n　조금이라도 "
+  },
+  {
+   "id": "da0503:R00028",
+   "source_sha256": "b6cf8cadd4fabcfa5f723a87508f6d7ff371e8dfe40c8ed871f6d69d250cc7cb",
+   "ko": "밸런스가",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0503:T00117",
+   "source_sha256": "97698c5dac87db0bb17ebb4387ef1550c4f276281680b7e409ea9d6c724ab471",
+   "ko": "천칭이"
+  },
+  {
+   "id": "da0503:T00118",
+   "source_sha256": "605ecde5ac165981c2905f186b5fd6b340151e354067dfc1afe42e0e72ad472b",
+   "ko": " 기울면,\n　세계는 부서져 버려.\n　너무나도 간단히」"
+  },
+  {
+   "id": "da0503:T00119",
+   "source_sha256": "09b89d85afb6fceacfa0696d50ea33e2a4e667930b445287f62c3bf49d963422",
+   "ko": "소녀의 집게손가락 위, 나사가 저절로 직립하여 회전하고 있었다."
+  },
+  {
+   "id": "da0503:T00120",
+   "source_sha256": "88426a1729e430b2b0162182d24ec23f7087cb5876ade19912ec9afefd3c1b13",
+   "ko": "푹푹푹푹푸욱푸욱."
+  },
+  {
+   "id": "da0503:T00121",
+   "source_sha256": "d3b8b74a58929312e796b339f666fea4ee2b7c754abb7dc6c56b4885e2a8b98a",
+   "ko": "소녀의 손가락을 도려내며 안으로 파묻혀 간다."
+  },
+  {
+   "id": "da0503:T00122",
+   "source_sha256": "1786fc4e52721151c48970b1f2543b4d474c305c14ac33675ef322288d5ca29a",
+   "ko": "「히어로가 있다면 드래곤이라든가\n　마녀라든가 마왕――"
+  },
+  {
+   "id": "da0503:R00029",
+   "source_sha256": "fe65050b6cf95368d85f30fd366c092a15824886d51defd754887d1e968f7491",
+   "ko": "・・・",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0503:T00123",
+   "source_sha256": "af7a8b66efcb85d128a4d056ce06c2204b5312a6e4956b0983e84497e226a593",
+   "ko": "바로 내"
+  },
+  {
+   "id": "da0503:T00124",
+   "source_sha256": "64b34d5a1c46f0ebb72b39846c6552f9fe4595b9f5ded66f65e68890341cde62",
+   "ko": "가 필요한 거야.\n　세계한테는 말이야」"
+  },
+  {
+   "id": "da0503:T00125",
+   "source_sha256": "91c80d6bfde824a15a88c33a4bdedb366f09f3e4ff038536828575b34be2c498",
+   "ko": "튀어 오르는 선혈이 나사의 회전에 휘말려 붉은 나선을 그린다."
+  },
+  {
+   "id": "da0503:T00126",
+   "source_sha256": "c46cb62215857ab13491d4802ce58d8403fc8096c718332f32a91d7ed704fa49",
+   "ko": "나사 또한 실체를 잃고 은색 나선이 되어 붉은 나선과 뒤얽힌다."
+  },
+  {
+   "id": "da0503:T00127",
+   "source_sha256": "c82cb38431c647b81ba93079f33a88bea7ce866b7166d6d16324019b274e3276",
+   "ko": "이중나선."
+  },
+  {
+   "id": "da0503:T00128",
+   "source_sha256": "dd23e99c554c600d04ba1ff8eb3deaa790ee010da259c97d072f2257e7178387",
+   "ko": "「하지만 딱히 모든 이야기가\n　해피 엔딩일 필요는 없어」"
+  },
+  {
+   "id": "da0503:T00129",
+   "source_sha256": "22ce80c7f8371e35d0ce9b824b9029dc1cbc9eb861673226d79e38f987585626",
+   "ko": "극한까지 회전을 가속한 이중나선은 이윽고 "
+  },
+  {
+   "id": "da0503:R00030",
+   "source_sha256": "bed91bec6b57fa6a42d982d5d68a092a57ef9cf234b1d867465b26a880d2127a",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0503:T00130",
+   "source_sha256": "09152a2380b09e688a514e86056805ca633afd8381453280be7f536c7140c91a",
+   "ko": "풀어"
+  },
+  {
+   "id": "da0503:T00131",
+   "source_sha256": "b55973d26b8ebaa65330307ed571ba6442bf033f4715b7b967cd8b6c241432d7",
+   "ko": "져 대기 속으로 흩어졌다."
+  },
+  {
+   "id": "da0503:T00132",
+   "source_sha256": "b0c1ca0aa0593160aad24d9392ad42803168ded02781f76c6bb2549d84ab308c",
+   "ko": "소녀가 내 자리에 다다른다.\n\n　구멍이 뚫린 피투성이 손가락으로 내 뺨을 어루만진다."
+  },
+  {
+   "id": "da0503:T00133",
+   "source_sha256": "6cf489e6802e8e524ea1394b5641a0dfdf988a733e1b26e6ee4b036509dcf4ca",
+   "ko": "미지근하고 미끈거리는 감촉."
+  },
+  {
+   "id": "da0503:T00134",
+   "source_sha256": "4bb73925995c51c20ccbd560a8c2c0a2cba0163ce9f32d80e72e8601ce4a58c7",
+   "ko": "「어떤 영웅이든 최후에는 불운과 저주\n　에 의해 죽는 법이야」"
+  },
+  {
+   "id": "da0503:T00135",
+   "source_sha256": "c81e651ea2f5c18ee3a899c688e22f1f5037e9fee07b7b7e6e7e84dc0041e023",
+   "ko": "「히어로라는 건, 쿠자쿠를 말하는 거냐……?」"
+  },
+  {
+   "id": "da0503:T00136",
+   "source_sha256": "d7361f746728e5c302b45077ee5e2bf359ef691807908ff24091ce8609367210",
+   "ko": "「그래…… "
+  },
+  {
+   "id": "da0503:T00137",
+   "source_sha256": "2aff219bdf957709a04ba18c62cf66692630685b03a983dd98d895bfe578a1d6",
+   "ko": "그 애는 이름으로 부르는구나」"
+  },
+  {
+   "id": "da0503:T00138",
+   "source_sha256": "d4aacbbbac860bd945a67742698c2d6a25674fc15641d722d50d149c133da9fa",
+   "ko": "소녀의 눈동자가 한순간 "
+  },
+  {
+   "id": "da0503:R00031",
+   "source_sha256": "660f16d75d4eaaf3b370867396ddcecd8b4da058c529e6316deff700ecdccafb",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0503:T00139",
+   "source_sha256": "a9cd525db318f43791bcf8b25adf15fd77187c35be738deeba23766709f41b7c",
+   "ko": "공허해"
+  },
+  {
+   "id": "da0503:T00140",
+   "source_sha256": "52d6dd5bd9219029390c9191dcffa9cb0d5dcce90fc64e6945c9bc3dd481918e",
+   "ko": " 보인 것은 내 기분 탓일까."
+  },
+  {
+   "id": "da0503:T00141",
+   "source_sha256": "5c3a8a38e09a1f65cb1e84d6191e2a778cc62260b2cc54d90ae2b5be9b6277ff",
+   "ko": "소녀의 손가락이 내 입술을 어루만진다."
+  },
+  {
+   "id": "da0503:T00142",
+   "source_sha256": "cf5e054f9fb62efdfa1f6424199d8acfa76c7fbe6e5201f1648c56bfbc10d4a8",
+   "ko": "피의 "
+  },
+  {
+   "id": "da0503:R00032",
+   "source_sha256": "31062781c601b13b64eec11f685969e1cbb7efbb4155b270b9e64b77830b64f0",
+   "ko": "루주를",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0503:T00143",
+   "source_sha256": "7a7f46f18d8795f3478e5206def06893ab91aba7fc9aae0e50e5f2df0d80d395",
+   "ko": "립스틱을"
+  },
+  {
+   "id": "da0503:T00144",
+   "source_sha256": "1e1f8cdf9a6d89a1d07ec956c283de4f01e82f216ee9a298a8909b73b4968c83",
+   "ko": " 바른다."
+  },
+  {
+   "id": "da0503:T00145",
+   "source_sha256": "426662ceb0b529b8224c27545963a358b73484a82efa7b0125aa61dc7f276d5d",
+   "ko": "「탐정님 말대로예요. 나는 그 애의 "
+  },
+  {
+   "id": "da0503:R00033",
+   "source_sha256": "46a06b5b46eb79a31f2ee4b5c0fa5c1a2da4d8c08cda9a3320553a849ba5e1ee",
+   "ko": "섀도",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0503:T00146",
+   "source_sha256": "6bd811cf7a865f8ba2a5d3972f24d948f09b249e3f7424bd31c49f4d96c908ce",
+   "ko": "거울상"
+  },
+  {
+   "id": "da0503:T00147",
+   "source_sha256": "ff9343d91f3c7a61dbd15e06fb39a555ce7581820db065d1cabafe73637fb672",
+   "ko": ".\n　그 애가 "
+  },
+  {
+   "id": "da0503:R00034",
+   "source_sha256": "58ad66811efd4ada660023f96e9cc164b9551c0c7b50c9c10a6f19baae289653",
+   "ko": "히어로",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0503:T00148",
+   "source_sha256": "09e9b2088fa078167852e0975045c9b7b854226d19352624e68d30ced70f7921",
+   "ko": "영웅"
+  },
+  {
+   "id": "da0503:T00149",
+   "source_sha256": "34ea223082cce321bc876590ca54e4abbb4e099ea95d37a4522553e2b6dccd75",
+   "ko": "이기 위해 만들어진 "
+  },
+  {
+   "id": "da0503:R00035",
+   "source_sha256": "46a06b5b46eb79a31f2ee4b5c0fa5c1a2da4d8c08cda9a3320553a849ba5e1ee",
+   "ko": "섀도",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0503:T00150",
+   "source_sha256": "caabf3ff858f63a3f469cc0e34f9d16938050470a4d54cc536b483781266cde5",
+   "ko": "투영"
+  },
+  {
+   "id": "da0503:T00151",
+   "source_sha256": "d93a835d0f2787bcb1a759ad3a1b8fbea56d742d0b99720dbbb9ea8ace1926f8",
+   "ko": "」"
+  },
+  {
+   "id": "da0503:T00152",
+   "source_sha256": "995c0d6601e484457d512490691956dd31359fb249d5f7c3d92fb32a65dd6928",
+   "ko": "이번에는 자신의 입술에 "
+  },
+  {
+   "id": "da0503:R00036",
+   "source_sha256": "b25fb12e0e8841c2bf38443feb2d346632bde622ccc3cde4d1bf3a2e8c07dfdd",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0503:T00153",
+   "source_sha256": "7fc93a318670f4ed2138cac019b755b1227acc1cf923cdbefb6bc32b7d011254",
+   "ko": "연지"
+  },
+  {
+   "id": "da0503:T00154",
+   "source_sha256": "d617e2149a35154ab57c7c8d23c235fa4aa7fe2adfa2f6c65806bc58ea91b809",
+   "ko": "를 바른다."
+  },
+  {
+   "id": "da0503:T00155",
+   "source_sha256": "1637972c89b0b2592eb8afa2f0e652da91480e427877fe84dfa58b01915d00b0",
+   "ko": "선명한 "
+  },
+  {
+   "id": "da0503:R00037",
+   "source_sha256": "cd2c97c04b7c0ce6f5226d064b7debb07ae2eb2d2e80b788ba95f4d0e65be78f",
+   "ko": "",
+   "ruby_action": "omit_redundant"
+  },
+  {
+   "id": "da0503:T00156",
+   "source_sha256": "7fc93a318670f4ed2138cac019b755b1227acc1cf923cdbefb6bc32b7d011254",
+   "ko": "붉은빛"
+  },
+  {
+   "id": "da0503:T00157",
+   "source_sha256": "2f0dc94abac9d7e7e2a9ccdd82ccd5aea26e2a192c0d81f5546d2d1c2a7b3918",
+   "ko": "이 망막에 박힌다."
+  },
+  {
+   "id": "da0503:T00158",
+   "source_sha256": "5aab2b4f75c6349a88c0d1a279d7bce61b653015a3bd4526b9f03effe71f3882",
+   "ko": "「동시에 나는, "
+  },
+  {
+   "id": "da0503:R00038",
+   "source_sha256": "62f083b66f85bb7e91aeeefb564b5a6991560448a77d686a51788b9945d35e81",
+   "ko": "오리지널",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0503:T00159",
+   "source_sha256": "c7c27a0a4bf7e4b18281c3a5778c7b409fcfb76a83597c358896185e5a8dfb20",
+   "ko": "태모"
+  },
+  {
+   "id": "da0503:T00160",
+   "source_sha256": "3b2e79bc719379948597cf4be8f8c76f1b3296e6089b0a355b1d9b49e5503647",
+   "ko": "의 "
+  },
+  {
+   "id": "da0503:R00039",
+   "source_sha256": "46a06b5b46eb79a31f2ee4b5c0fa5c1a2da4d8c08cda9a3320553a849ba5e1ee",
+   "ko": "섀도",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0503:T00161",
+   "source_sha256": "caabf3ff858f63a3f469cc0e34f9d16938050470a4d54cc536b483781266cde5",
+   "ko": "투영"
+  },
+  {
+   "id": "da0503:T00162",
+   "source_sha256": "6a07969eb2541735671d8580c2ba61cf07210b1b0a0e9be4025ed17e9a7a30f4",
+   "ko": ".\n　『네크로노미콘』의 피를 나눠 받은,\n　가능성조차 없는 "
+  },
+  {
+   "id": "da0503:R00040",
+   "source_sha256": "46a06b5b46eb79a31f2ee4b5c0fa5c1a2da4d8c08cda9a3320553a849ba5e1ee",
+   "ko": "섀도",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0503:T00163",
+   "source_sha256": "6895f601b65fdc1098ed7c6ba05d6e1846872fb30db59bbfa2fd0c76bb5dd4ca",
+   "ko": "환상"
+  },
+  {
+   "id": "da0503:T00164",
+   "source_sha256": "d93a835d0f2787bcb1a759ad3a1b8fbea56d742d0b99720dbbb9ea8ace1926f8",
+   "ko": "」"
+  },
+  {
+   "id": "da0503:T00165",
+   "source_sha256": "f4bf17097ae7065aab9f8b1ea69be6c5f08d5bf34cfc2e367a76dfbb78d7743f",
+   "ko": "「으…… 윽……」"
+  },
+  {
+   "id": "da0503:T00166",
+   "source_sha256": "f59ca69eba063bb2dd8f69775a1ab172d16cad45d90bee2ddf2cc28162f0f9e7",
+   "ko": "시야가 붉게, 붉게 물들어 간다."
+  },
+  {
+   "id": "da0503:T00167",
+   "source_sha256": "61de20b256c53a653009210537ebcc34c1742132f4b261147fbee0c40f19be75",
+   "ko": "피 맛이 입술에 배어든다."
+  },
+  {
+   "id": "da0503:T00168",
+   "source_sha256": "3125342771801e231ef69e24c964d3f884e92e5c52ec4ad4adbaf7c764dae23f",
+   "ko": "심한 명정감."
+  },
+  {
+   "id": "da0503:T00169",
+   "source_sha256": "5035b491175580e6baa65c75770bc1a3f11b7d497324b46bb7022eba9d09c578",
+   "ko": "「그리고 "
+  },
+  {
+   "id": "da0503:R00041",
+   "source_sha256": "46a06b5b46eb79a31f2ee4b5c0fa5c1a2da4d8c08cda9a3320553a849ba5e1ee",
+   "ko": "섀도",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0503:T00170",
+   "source_sha256": "1cc19d290f3c72bcee13abfc435ed87d3db60a891cac1c189fd34d82b3193389",
+   "ko": "그림자"
+  },
+  {
+   "id": "da0503:T00171",
+   "source_sha256": "93cd59980516e9aa2888a948d406c1a8f827498fa7d56f476471e13fb4e08ee3",
+   "ko": "는 언제나,\n　본체와 뒤바뀌려 하는 법이야」"
+  },
+  {
+   "id": "da0503:T00172",
+   "source_sha256": "6c30f29a30c29d7ab35904bf290cab2272169f4965fee2acbe5691e0b9f10732",
+   "ko": "상하의 감각이 사라진다."
+  },
+  {
+   "id": "da0503:T00173",
+   "source_sha256": "0fad6818c8800c9e28e07bcd88a5132bf35c1ee6be3ae502a504b67296e5778b",
+   "ko": "불쾌한 부유감."
+  },
+  {
+   "id": "da0503:T00174",
+   "source_sha256": "7a434fa2750aee236aaa275557d458d7276492b9db1c992851e988cfaca23a0d",
+   "ko": "무겁게 들러붙는 점액."
+  },
+  {
+   "id": "da0503:T00175",
+   "source_sha256": "fea4cd11b5c7b435523926e9e2b1b2922e772fc5e21cea8f1fe58f9d495c1e96",
+   "ko": "「크…… 아…… 커부하앗!　아극!」\n\n　몸을 움직일 수가 없다."
+  },
+  {
+   "id": "da0503:T00176",
+   "source_sha256": "17e30b9300291477b89b465045a622e81f83c2c88f4c99b963f20a9762f5bffa",
+   "ko": "폐에 가차 없이 타르가 흘러들어 오고 있다."
+  },
+  {
+   "id": "da0503:T00177",
+   "source_sha256": "0437f7ce1f88d84ab5182981a530452f4f2adb4c18fd4018a5c5ddf2cf2f3231",
+   "ko": "진창의 바다에 가라앉는다."
+  },
+  {
+   "id": "da0503:T00178",
+   "source_sha256": "6212ded47f88f1b97ea95de038bd0f98ed2462fa2beb9cdbd0dfb82af524095a",
+   "ko": "(……제기랄!)\n\n　힘이."
+  },
+  {
+   "id": "da0503:T00179",
+   "source_sha256": "da1bb4fac02afa1276c37501d7b87546dfee75b5ec2420f4b250e4f808c684e6",
+   "ko": "내게 좀 더 힘이 있다면……!\n\n　자신의 한심함에 화가 난다."
+  },
+  {
+   "id": "da0503:R00042",
+   "source_sha256": "08e4eab631b664178c7939fd30e4c93ffd12f8c2fd66eca843e762613efd67b4",
+   "ko": "타르",
+   "ruby_action": "keep"
+  },
+  {
+   "id": "da0503:T00180",
+   "source_sha256": "d0d1f84f368754fc617dea47071aad5e9a4deb55491246fe8e2c60d6e6e12950",
+   "ko": "진창"
+  },
+  {
+   "id": "da0503:T00181",
+   "source_sha256": "43f2c06e487dfcc53e350e63c82d5214c8d1b8f4800c4955725b2870baa813f9",
+   "ko": " 속에서 발버둥 친다.\n\n　하지만 소용없다."
+  },
+  {
+   "id": "da0503:T00182",
+   "source_sha256": "0b5eda7c007ed0d13b47e8e53219c8227a8416d01351f834903ca16ae937fb1f",
+   "ko": "이 압도적인 질량에서 벗어날 방도를 나는 갖고 있지 않다."
+  },
+  {
+   "id": "da0503:T00183",
+   "source_sha256": "2dc7b6098f3e390a31d811fb65e12a94dbc3d8fdd4eb16185da311485a9dcd32",
+   "ko": "(힘이…… 『검』이 있다면……!)\n\n　『검』."
+  },
+  {
+   "id": "da0503:T00184",
+   "source_sha256": "de0180bf429d90faf3f5207bcce11c5ba09cbf37159d9b9801e89213a0361545",
+   "ko": "그렇다. 이 손에 검이 있다면."
+  },
+  {
+   "id": "da0503:T00185",
+   "source_sha256": "a2f44f13a48a63f971e1fbf45d4aa56d1a0094e0010656132ae02cfe1e9f8cc0",
+   "ko": "우리라면 어떤 불합리에도 지지 않을 텐데."
+  },
+  {
+   "id": "da0503:T00186",
+   "source_sha256": "8d71fec44f5aea90a6645d711d13c52b0ed197156cd842c5d7bd3c6479dea008",
+   "ko": "――이 손에 『마를 끊는 검』이 있다면!"
+  }
+ ],
+ "issues": [
+  {
+   "id": "da0503:R00002",
+   "kind": "ruby_decision",
+   "note": "표준 한자 훈독 루비(刃金/ハガネ) 생략."
+  },
+  {
+   "id": "da0503:R00003",
+   "kind": "ruby_decision",
+   "note": "표준 한자 훈독 루비(機織/はたおり) 생략."
+  },
+  {
+   "id": "da0503:R00010",
+   "kind": "ruby_decision",
+   "note": "표준 한자 훈독 루비(匣/ハコ) 생략."
+  },
+  {
+   "id": "da0503:R00021",
+   "kind": "ruby_decision",
+   "note": "표준 한자 훈독 루비(螺子/ネジ) 생략."
+  },
+  {
+   "id": "da0503:R00030",
+   "kind": "ruby_decision",
+   "note": "표준 한자 훈독 루비(解/ほつ) 생략."
+  },
+  {
+   "id": "da0503:R00031",
+   "kind": "ruby_decision",
+   "note": "표준 한자 훈독 루비(空虚/うつろ) 생략."
+  },
+  {
+   "id": "da0503:R00036",
+   "kind": "ruby_decision",
+   "note": "표준 한자 훈독 루비(紅/べに) 생략."
+  },
+  {
+   "id": "da0503:R00037",
+   "kind": "ruby_decision",
+   "note": "표준 한자 훈독 루비(紅/あか) 생략."
+  },
+  {
+   "id": "da0503:U00046",
+   "kind": "glossary_candidate",
+   "note": "미확정 용어 '九朔'에 대해 임시 표기 '쿠자쿠' 적용."
+  }
+ ]
+}

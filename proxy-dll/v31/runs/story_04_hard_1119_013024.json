@@ -1,0 +1,127 @@
+{
+ "out": "P:\\AI\\khd-runtime-fix\\logs\\duel_1119_013024",
+ "samples": 265,
+ "enemy_def": "GM.def",
+ "hp_end": [
+  600,
+  0
+ ],
+ "enemy_motions": [
+  "AUTOEVENT3",
+  "B_SWORD",
+  "COMBO1_HF",
+  "DAMAGE2",
+  "DAMAGE4_G",
+  "FORWARD_G",
+  "GUARD",
+  "JUMP",
+  "KICK",
+  "KICK_HF",
+  "KINKI1",
+  "KINKI2",
+  "KINKI3",
+  "LANDING",
+  "MODE_CHANGE1",
+  "MODE_CHANGE2",
+  "RFORWARD_G",
+  "START",
+  "STOP_G",
+  "WAIT",
+  "WAIT2",
+  "syakunetu1",
+  "syakunetu2"
+ ],
+ "big_moves": [
+  {
+   "motion": "MODE_CHANGE1",
+   "t0": 20.4,
+   "t1": 20.4,
+   "f0": 2,
+   "f1": 2,
+   "hp_lost": 0,
+   "next": "KINKI1"
+  },
+  {
+   "motion": "KINKI1",
+   "t0": 22.5,
+   "t1": 27.6,
+   "f0": 8,
+   "f1": 248,
+   "hp_lost": 21,
+   "next": "KINKI2"
+  },
+  {
+   "motion": "MODE_CHANGE2",
+   "t0": 31.1,
+   "t1": 31.1,
+   "f0": 2,
+   "f1": 2,
+   "hp_lost": 0,
+   "next": "KINKI1"
+  },
+  {
+   "motion": "KINKI1",
+   "t0": 33.2,
+   "t1": 38.5,
+   "f0": 9,
+   "f1": 264,
+   "hp_lost": 0,
+   "next": "KINKI2"
+  }
+ ],
+ "enemy_hp_drops": {
+  "in_guarded_move": [
+   7,
+   7,
+   7
+  ],
+  "outside": [
+   312,
+   10,
+   15,
+   218,
+   15,
+   15,
+   15,
+   15,
+   15,
+   15,
+   15,
+   15,
+   15,
+   15,
+   15,
+   15,
+   15,
+   15,
+   15,
+   9
+  ]
+ },
+ "proxy": [
+  "pid 87720  fight kind: FREE FIGHT (scene 2, menu mask 0x200007e2) - 자동 전투 on",
+  "pid 87720  fight difficulty scope: scene=2 duel=0 combat_rank=2 duel_AI=2 story_rank=2",
+  "pid 87720  STORY_ONRYOU_FAST installed: 어려움 story / FREE FIGHT - Tiberius's 원령 주탄 charges in about half the time"
+ ],
+ "battle": 4,
+ "want_difficulty": 2,
+ "fixture": true,
+ "notes": [
+  "difficulty variable 0x100ee708: 1 -> 2",
+  "fixture: enemy max HP 810, cut-in thresholds [486, 243]",
+  "fixture: enemy HP 810 -> 498 (stage 0, during B_SWORD)",
+  "fixture: saw MODE_CHANGE1 at enemy HP 473",
+  "fixture: enemy HP 473 -> 255 (stage 1, during KINKI1)",
+  "fixture: saw MODE_CHANGE2 at enemy HP 234",
+  "fixture: our HP 290 -> 600",
+  "fixture: our HP 240 -> 600",
+  "fixture: our HP 215 -> 600",
+  "window position back to (0, 215)",
+  "SAVE restored from save_before_1119_013024; registry ActDifficult back to 2"
+ ],
+ "registry_after": {
+  "ActDifficult": 2,
+  "XPos": 0,
+  "YPos": 215
+ }
+}
